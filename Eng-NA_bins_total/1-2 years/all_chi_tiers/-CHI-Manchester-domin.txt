@@ -1,0 +1,441 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:57:50 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <domin01a.cha>
+
+    Strings matched 0 times
+
+From file <domin01b.cha>
+
+    Strings matched 0 times
+
+From file <domin02a.cha>
+
+    Strings matched 0 times
+
+From file <domin02b.cha>
+
+    Strings matched 0 times
+
+From file <domin03a.cha>
+
+    Strings matched 0 times
+
+From file <domin03b.cha>
+
+    Strings matched 0 times
+
+From file <domin04a.cha>
+----------------------------------------
+*** File "domin04a.cha": line 152.
+*MOT:	I'm afraid stubborn boy wants his drink now .
+%mor:	pro:sub|I~cop|be&1S (1)adj|afraid (1)adj|stubborn (1)n|boy v|want-3S
+	det:poss|his n|drink adv|now .
+
+    Strings matched 1 times
+
+From file <domin04b.cha>
+
+    Strings matched 0 times
+
+From file <domin05a.cha>
+
+    Strings matched 0 times
+
+From file <domin05b.cha>
+
+    Strings matched 0 times
+
+From file <domin06a.cha>
+
+    Strings matched 0 times
+
+From file <domin06b.cha>
+----------------------------------------
+*** File "domin06b.cha": line 1323.
+*MOT:	you're being a right little terror , aren't you ?
+%mor:	pro:per|you~cop|be&PRES n:gerund|be-PRESP det:art|a (1)adj|right
+	(1)adj|little (1)n|terror cm|cm aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "domin06b.cha": line 1930.
+*MOT:	your brother's a funny little thing .
+%mor:	det:poss|your n|brother~poss|s det:art|a (1)adj|fun&dn-Y (1)adj|little
+	(1)n|thing .
+
+    Strings matched 2 times
+
+From file <domin07a.cha>
+----------------------------------------
+*** File "domin07a.cha": line 2647.
+*MOT:	you got a nice little book yesterday as a present , didn't you ?
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|nice (1)adj|little (1)n|book
+	adv:tem|yesterday conj|as det:art|a n|present cm|cm
+	mod|do&PAST~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <domin07b.cha>
+
+    Strings matched 0 times
+
+From file <domin08a.cha>
+
+    Strings matched 0 times
+
+From file <domin08b.cha>
+----------------------------------------
+*** File "domin08b.cha": line 828.
+*MOT:	you're a proper little boy , aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|proper (1)adj|little (1)n|boy cm|cm
+	aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <domin09a.cha>
+
+    Strings matched 0 times
+
+From file <domin09b.cha>
+
+    Strings matched 0 times
+
+From file <domin10a.cha>
+
+    Strings matched 0 times
+
+From file <domin10b.cha>
+
+    Strings matched 0 times
+
+From file <domin11a.cha>
+
+    Strings matched 0 times
+
+From file <domin11b.cha>
+
+    Strings matched 0 times
+
+From file <domin12a.cha>
+
+    Strings matched 0 times
+
+From file <domin12b.cha>
+----------------------------------------
+*** File "domin12b.cha": line 1407.
+*MOT:	devilish little grin came on your face just then .
+%mor:	(1)adj|devil&dn-ISH (1)adj|little (1)n|grin v|come&PAST prep|on
+	det:poss|your n|face adv|just adv:tem|then .
+
+    Strings matched 1 times
+
+From file <domin13a.cha>
+----------------------------------------
+*** File "domin13a.cha": line 48.
+*MOT:	crash crash crash .
+%mor:	(1)adj|crash (1)adj|crash (1)n|crash .
+----------------------------------------
+*** File "domin13a.cha": line 842.
+*MOT:	is that your new favorite word ?
+%mor:	cop|be&3S pro:rel|that det:poss|your (1)adj|new (1)adj|favorite (1)n|word ?
+
+    Strings matched 2 times
+
+From file <domin13b.cha>
+
+    Strings matched 0 times
+
+From file <domin14a.cha>
+----------------------------------------
+*** File "domin14a.cha": line 2547.
+*MOT:	that's a noisy little car , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|noise&dn-Y (1)adj|little (1)n|car
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <domin14b.cha>
+
+    Strings matched 0 times
+
+From file <domin15a.cha>
+----------------------------------------
+*** File "domin15a.cha": line 2824.
+*MOT:	a little wooden train .
+%mor:	det:art|a (1)adj|little (1)adj|wooden (1)n|train .
+----------------------------------------
+*** File "domin15a.cha": line 3546.
+*MOT:	poor little thing .
+%mor:	(1)adj|poor (1)adj|little (1)n|thing .
+
+    Strings matched 2 times
+
+From file <domin15b.cha>
+----------------------------------------
+*** File "domin15b.cha": line 71.
+*MOT:	poor little thing .
+%mor:	(1)adj|poor (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "domin15b.cha": line 127.
+*MOT:	we [/] we all need to know the full graphic details .
+%mor:	pro:sub|we post|all v|need inf|to v|know det:art|the (1)adj|full
+	(1)adj|graphic (1)n|detail-PL .
+
+    Strings matched 2 times
+
+From file <domin16a.cha>
+
+    Strings matched 0 times
+
+From file <domin16b.cha>
+
+    Strings matched 0 times
+
+From file <domin17a.cha>
+----------------------------------------
+*** File "domin17a.cha": line 826.
+*MOT:	if you kept them all in a nice neat order we'd be able to find
+	things , wouldn't we ?
+%mor:	conj|if pro:per|you v|keep&PAST pro:obj|them adv|all prep|in
+	det:art|a (1)adj|nice (1)adj|neat (1)n|order pro:sub|we~mod|genmod cop|be
+	adj|able inf|to v|find n|thing-PL cm|cm mod|will&COND~neg|not
+	pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <domin17b.cha>
+
+    Strings matched 0 times
+
+From file <domin18a.cha>
+
+    Strings matched 0 times
+
+From file <domin18b.cha>
+
+    Strings matched 0 times
+
+From file <domin19a.cha>
+----------------------------------------
+*** File "domin19a.cha": line 565.
+*MOT:	poor little door .
+%mor:	(1)adj|poor (1)adj|little (1)n|door .
+
+    Strings matched 1 times
+
+From file <domin19b.cha>
+
+    Strings matched 0 times
+
+From file <domin20a.cha>
+
+    Strings matched 0 times
+
+From file <domin20b.cha>
+----------------------------------------
+*** File "domin20b.cha": line 529.
+*MOT:	acting like you're all shy and good little boy when you're not .
+%mor:	part|act-PRESP conj|like pro:per|you~cop|be&PRES adv|all adj|shy
+	coord|and (1)adj|good (1)adj|little (1)n|boy conj|when
+	pro:per|you~cop|be&PRES neg|not .
+----------------------------------------
+*** File "domin20b.cha": line 2282.
+*MOT:	a big bouncy ball , &-eh ?
+%mor:	det:art|a (1)adj|big (1)adj|bounce&dv-Y (1)n|ball cm|cm ?
+
+    Strings matched 2 times
+
+From file <domin21a.cha>
+----------------------------------------
+*** File "domin21a.cha": line 2746.
+*MOT:	in the good old days we used to draw it like this .
+%mor:	prep|in det:art|the (1)adj|good (1)adj|old (1)n|day-PL pro:sub|we v|use-PAST
+	inf|to v|draw pro:per|it v|like pro:dem|this .
+
+    Strings matched 1 times
+
+From file <domin21b.cha>
+
+    Strings matched 0 times
+
+From file <domin22a.cha>
+
+    Strings matched 0 times
+
+From file <domin22b.cha>
+----------------------------------------
+*** File "domin22b.cha": line 2213.
+*MOT:	so (.) we want a big strong bridge , do we ?
+%mor:	co|so pro:sub|we v|want det:art|a (1)adj|big (1)adj|strong (1)n|bridge cm|cm
+	mod|do pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <domin23a.cha>
+
+    Strings matched 0 times
+
+From file <domin23b.cha>
+
+    Strings matched 0 times
+
+From file <domin24a.cha>
+
+    Strings matched 0 times
+
+From file <domin24b.cha>
+----------------------------------------
+*** File "domin24b.cha": line 777.
+*MOT:	put down dolly then you've got your other hand free to make a big
+	strong tower .
+%mor:	v|put&ZERO adv|down n|doll-DIM adv:tem|then pro:per|you~aux|have
+	part|get&PASTP det:poss|your qn|other n|hand adj|free prep|to v|make
+	det:art|a (1)adj|big (1)adj|strong (1)n|tower .
+
+    Strings matched 1 times
+
+From file <domin25a.cha>
+----------------------------------------
+*** File "domin25a.cha": line 3328.
+*MOT:	you nasty little boy .
+%mor:	pro:per|you (1)adj|nasty (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <domin25b.cha>
+----------------------------------------
+*** File "domin25b.cha": line 1466.
+*MOT:	a big strong bridge .
+%mor:	det:art|a (1)adj|big (1)adj|strong (1)n|bridge .
+----------------------------------------
+*** File "domin25b.cha": line 2516.
+*MOT:	that's a nice little pig .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|pig .
+
+    Strings matched 2 times
+
+From file <domin26a.cha>
+
+    Strings matched 0 times
+
+From file <domin26b.cha>
+
+    Strings matched 0 times
+
+From file <domin27a.cha>
+
+    Strings matched 0 times
+
+From file <domin27b.cha>
+----------------------------------------
+*** File "domin27b.cha": line 2461.
+*MOT:	he comes at night+time for good little boys .
+%mor:	pro:sub|he v|come-3S prep|at n|+n|night+n|time prep|for (1)adj|good
+	(1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "domin27b.cha": line 2466.
+*MOT:	and good little girls .
+%mor:	coord|and (1)adj|good (1)adj|little (1)n|girl-PL .
+----------------------------------------
+*** File "domin27b.cha": line 2469.
+*MOT:	but seeing as you're not a good little boy Santa says he's not
+	coming .
+%mor:	conj|but n:gerund|see-PRESP adv|as pro:per|you~aux|be&PRES neg|not
+	det:art|a (1)adj|good (1)adj|little (1)n|boy n:prop|Santa v|say-3S
+	pro:sub|he~aux|be&3S neg|not part|come-PRESP .
+
+    Strings matched 3 times
+
+From file <domin28a.cha>
+----------------------------------------
+*** File "domin28a.cha": line 2028.
+*MOT:	it's not gonna [: going to] do you any harm to have a soggy little
+	man .
+%mor:	pro:per|it~cop|be&3S neg|not part|go-PRESP inf|to v|do pro:per|you
+	qn|any n|harm inf|to v|have det:art|a (1)adj|soggy (1)adj|little (1)n|man .
+
+    Strings matched 1 times
+
+From file <domin28b.cha>
+
+    Strings matched 0 times
+
+From file <domin29a.cha>
+
+    Strings matched 0 times
+
+From file <domin29b.cha>
+
+    Strings matched 0 times
+
+From file <domin30a.cha>
+
+    Strings matched 0 times
+
+From file <domin30b.cha>
+
+    Strings matched 0 times
+
+From file <domin31a.cha>
+
+    Strings matched 0 times
+
+From file <domin31b.cha>
+----------------------------------------
+*** File "domin31b.cha": line 1455.
+*MOT:	poor little piggy .
+%mor:	(1)adj|poor (1)adj|little (1)n|pig-DIM .
+
+    Strings matched 1 times
+
+From file <domin32a.cha>
+----------------------------------------
+*** File "domin32a.cha": line 130.
+*MOT:	and eensie weensie spider .
+%mor:	coord|and (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "domin32a.cha": line 2126.
+*MOT:	that's a little wooden elephant .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|wooden (1)n|elephant .
+
+    Strings matched 2 times
+
+From file <domin32b.cha>
+----------------------------------------
+*** File "domin32b.cha": line 938.
+*MOT:	a big grey elephant .
+%mor:	det:art|a (1)adj|big (1)adj|grey (1)n|elephant .
+
+    Strings matched 1 times
+
+From file <domin33a.cha>
+----------------------------------------
+*** File "domin33a.cha": line 2285.
+*MOT:	have we got any more little red bricks ?
+%mor:	v|have pro:sub|we v|get&PAST qn|any adv|more (1)adj|little (1)adj|red
+	(1)n|brick-PL ?
+
+    Strings matched 1 times
+
+From file <domin33b.cha>
+
+    Strings matched 0 times
+
+From file <domin34a.cha>
+----------------------------------------
+*** File "domin34a.cha": line 1227.
+*MOT:	poor little horse .
+%mor:	(1)adj|poor (1)adj|little (1)n|horse .
+----------------------------------------
+*** File "domin34a.cha": line 1265.
+*MOT:	poor little horse .
+%mor:	(1)adj|poor (1)adj|little (1)n|horse .
+
+    Strings matched 2 times
+
+From file <domin34b.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,34 @@
+combo +t%mor +t*CHI +t*JEN +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:56:54 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *JEN;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+
+    Strings matched 0 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <05.cha>
+----------------------------------------
+*** File "05.cha": line 2901.
+*CHI:	close (.) close (.) truck . %snd:"05"_4602532_4622217
+%mor:	(1)adj|close (1)adj|close (1)n|truck .
+----------------------------------------
+*** File "05.cha": line 6233.
+*CHI:	big (.) tall (.) tower . %snd:"05"_9691807_9694026
+%mor:	(1)adj|big (1)adj|tall (1)n|tower .
+
+    Strings matched 2 times
+

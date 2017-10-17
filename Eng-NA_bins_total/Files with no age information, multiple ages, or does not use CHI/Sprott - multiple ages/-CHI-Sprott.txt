@@ -1,0 +1,253 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:12:46 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01Goldilocks.cha>
+----------------------------------------
+*** File "01Goldilocks.cha": line 384.
+*JS:	she know that [/] that the big bad bear doesn't like her→
+%mor:	pro:sub|she v|know pro:rel|that det:art|the (1)adj|big (1)adj|bad (1)n|bear
+	mod|do&3S~neg|not v|like pro:obj|her
+
+    Strings matched 1 times
+
+From file <02MarblePlay.cha>
+----------------------------------------
+*** File "02MarblePlay.cha": line 809.
+*JF:	this is a pretty long story→
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|long (1)n|story
+
+    Strings matched 1 times
+
+From file <03JLUpstairs.cha>
+----------------------------------------
+*** File "03JLUpstairs.cha": line 34.
+*SI:	I turned back into a big bad wolf→
+%mor:	pro:sub|I v|turn-PAST adv|back prep|into det:art|a (1)adj|big (1)adj|bad
+	(1)n|wolf
+----------------------------------------
+*** File "03JLUpstairs.cha": line 42.
+*EL:	the big bad wolf !
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "03JLUpstairs.cha": line 45.
+*SI:	we both turned into big bad wolfs→
+%mor:	pro:sub|we post|both v|turn-PAST prep|into (1)adj|big (1)adj|bad
+	(1)n|wolf-PL
+----------------------------------------
+*** File "03JLUpstairs.cha": line 60.
+*EL:	[^ singing] we don't wanna be a big bad wolf !
+%mor:	pro:sub|we mod|do~neg|not v|want~inf|to cop|be det:art|a (1)adj|big
+	(1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "03JLUpstairs.cha": line 65.
+*EL:	big bad wolf !
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "03JLUpstairs.cha": line 68.
+*EL:	big bad wolf !
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "03JLUpstairs.cha": line 71.
+*EL:	we don't wanna be a big bad wolf !
+%mor:	pro:sub|we mod|do~neg|not v|want~inf|to cop|be det:art|a (1)adj|big
+	(1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "03JLUpstairs.cha": line 76.
+*EL:	big bad wolf→
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf
+----------------------------------------
+*** File "03JLUpstairs.cha": line 80.
+*SI:	we're gonna be big bad wolfs→ we're gonna be big bad wolfs→
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to cop|be (1)adj|big (1)adj|bad
+	(1)n|wolf-PL pro:sub|we~aux|be&PRES part|go-PRESP~inf|to cop|be (2)adj|big
+	(2)adj|bad (2)n|wolf-PL
+----------------------------------------
+*** File "03JLUpstairs.cha": line 392.
+*JF:	<you don't want> [/] you don't want a big bad wolf ?
+%mor:	pro:per|you mod|do~neg|not v|want det:art|a (1)adj|big (1)adj|bad (1)n|wolf
+	?
+----------------------------------------
+*** File "03JLUpstairs.cha": line 409.
+*JF:	they don't want a big bad wolf→
+%mor:	pro:sub|they mod|do~neg|not v|want det:art|a (1)adj|big (1)adj|bad (1)n|wolf
+
+    Strings matched 12 times
+
+From file <05AmyConv.cha>
+----------------------------------------
+*** File "05AmyConv.cha": line 930.
+*W:	I'm the big ˈbad ˈwolf
+%mor:	pro:sub|I~cop|be&1S det:art|the (1)adj|big (1)adj|bad (1)n|wolf
+----------------------------------------
+*** File "05AmyConv.cha": line 933.
+*RS:	you're the big bad wolf ?
+%mor:	pro:per|you~aux|be&PRES det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "05AmyConv.cha": line 944.
+*RS:	is he a big bad wolf ?
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|big (1)adj|bad (1)n|wolf ?
+
+    Strings matched 3 times
+
+From file <06Sealsquid.cha>
+----------------------------------------
+*** File "06Sealsquid.cha": line 28.
+*MA:	hey , a little ˈgreen truck→
+%mor:	co|hey cm|cm det:art|a (1)adj|little (1)adj|green (1)n|truck
+----------------------------------------
+*** File "06Sealsquid.cha": line 41.
+*MA:	 ⌊ah , here's⌋ a little black truck→
+%mor:	co|ah cm|cm pro:exist|here~cop|be&3S det:art|a (1)adj|little (1)adj|black
+	(1)n|truck
+
+    Strings matched 2 times
+
+From file <06SealsquidUpstairs.cha>
+----------------------------------------
+*** File "06SealsquidUpstairs.cha": line 206.
+*JS:	<but now: the little baby needs to xxx xxx xxx take good good good care of them:> [=! singing] →
+%mor:	conj|but adv|now det:art|the adj|little n|baby v|need-3S inf|to
+	v|take adj|good (1)adj|good (1)adj|good (1)n|care prep|of pro:obj|them
+----------------------------------------
+*** File "06SealsquidUpstairs.cha": line 260.
+*JS:	<xxx and you could be a little hopeless daughter like you did the other day> [=! singing] →
+%mor:	coord|and pro:per|you mod|could cop|be det:art|a (1)adj|little
+	(1)adj|hope&dn-LESS (1)n|daughter prep|like pro:per|you v|do&PAST
+	det:art|the qn|other n|day
+
+    Strings matched 2 times
+
+From file <07Camping.cha>
+
+    Strings matched 0 times
+
+From file <08UpstairsDownstairs.cha>
+----------------------------------------
+*** File "08UpstairsDownstairs.cha": line 395.
+*AN:	[^ to QU] I'm a real big sister now→
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|real (1)adj|big (1)n|sister adv|now
+----------------------------------------
+*** File "08UpstairsDownstairs.cha": line 401.
+*AN:	I'm a real big sister now→
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|real (1)adj|big (1)n|sister adv|now
+----------------------------------------
+*** File "08UpstairsDownstairs.cha": line 404.
+*AN:	I'm a real big sister now , because +...
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|real (1)adj|big (1)n|sister adv|now
+	cm|cm conj|because +...
+----------------------------------------
+*** File "08UpstairsDownstairs.cha": line 409.
+*AN:	&-um , I'm a real big sister , do you know why ?
+%mor:	cm|cm pro:sub|I~cop|be&1S det:art|a (1)adj|real (1)adj|big (1)n|sister cm|cm
+	v|do pro:per|you v|know adv:int|why ?
+
+    Strings matched 4 times
+
+From file <09NeedingMarbles.cha>
+
+    Strings matched 0 times
+
+From file <10BoysTown.cha>
+
+    Strings matched 0 times
+
+From file <11December.cha>
+
+    Strings matched 0 times
+
+From file <12SleepyHeads.cha>
+
+    Strings matched 0 times
+
+From file <13FireEngine.cha>
+
+    Strings matched 0 times
+
+From file <14StageDoor.cha>
+----------------------------------------
+*** File "14StageDoor.cha": line 390.
+*SI:	it's a big big ˈbig stage→
+%mor:	pro:per|it~cop|be&3S det:art|a adj|big (1)adj|big (1)adj|big (1)n|stage
+----------------------------------------
+*** File "14StageDoor.cha": line 1497.
+*RI:	was it the big bad horse that did it ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|the (1)adj|big (1)adj|bad (1)n|horse
+	det:dem|that v|do&PAST pro:per|it ?
+
+    Strings matched 2 times
+
+From file <15DollhouseTwo.cha>
+
+    Strings matched 0 times
+
+From file <16MarbyMesses.cha>
+
+    Strings matched 0 times
+
+From file <17SqeakyMom.cha>
+
+    Strings matched 0 times
+
+From file <18RunAround.cha>
+
+    Strings matched 0 times
+
+From file <19ValentinesDay.cha>
+
+    Strings matched 0 times
+
+From file <20CowabungaDudes.cha>
+----------------------------------------
+*** File "20CowabungaDudes.cha": line 528.
+*JE:	⌈I can do a big ol(d)⌉ ⌈2flop→⌉ &=jumps
+%mor:	pro:sub|I mod|can v|do det:art|a (1)adj|big (1)adj|old (1)n|flop
+
+    Strings matched 1 times
+
+From file <21SleepingBeauty.cha>
+----------------------------------------
+*** File "21SleepingBeauty.cha": line 863.
+*SI:	now , here comes the little tiny little ˈfairies ?
+%mor:	adv|now cm|cm adv|here v|come-3S det:art|the adj|little (1)adj|tiny
+	(1)adj|little (1)n|fairy-PL ?
+
+    Strings matched 1 times
+
+From file <22LadyDogs.cha>
+----------------------------------------
+*** File "22LadyDogs.cha": line 665.
+*NC:	+^ no:→ well , even ˈbad guys have_to clean their stuff up→
+%mor:	qn|no adv|well cm|cm (1)adj|even (1)adj|bad (1)n|guy-PL mod:aux|have_to
+	v|clean det:poss|their n|stuff adv|up
+
+    Strings matched 1 times
+
+From file <23CareBaby.cha>
+----------------------------------------
+*** File "23CareBaby.cha": line 460.
+*KE:	[^ to doll] okay baby→ a long time ago→ a ˈlong time ago , there was a little tiny bird→
+%mor:	co|okay v|baby det:art|a adj|long n|time adv|ago det:art|a adj|long
+	n|time adv|ago cm|cm adv|there cop|be&PAST&13S det:art|a (1)adj|little
+	(1)adj|tiny (1)n|bird
+
+    Strings matched 1 times
+
+From file <24HighwayTrucks.cha>
+----------------------------------------
+*** File "24HighwayTrucks.cha": line 566.
+*TP:	real real back truck→
+%mor:	adj|real (1)adj|real (1)adj|back (1)n|truck
+----------------------------------------
+*** File "24HighwayTrucks.cha": line 570.
+*TP:	real real back truck→
+%mor:	adj|real (1)adj|real (1)adj|back (1)n|truck
+----------------------------------------
+*** File "24HighwayTrucks.cha": line 573.
+*TP:	a real real back truck→
+%mor:	det:art|a adj|real (1)adj|real (1)adj|back (1)n|truck
+
+    Strings matched 3 times
+

@@ -1,0 +1,593 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:30:40 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <adam01.cha>
+----------------------------------------
+*** File "adam01.cha": line 1536.
+*CHI:	wee wee way home .
+%mor:	(1)adj|wee (1)adj|wee (1)n|way n|home .
+----------------------------------------
+*** File "adam01.cha": line 3943.
+*CHI:	part part part .
+%mor:	(1)adj|part (1)adj|part (1)n|part .
+
+    Strings matched 2 times
+
+From file <adam02.cha>
+----------------------------------------
+*** File "adam02.cha": line 1630.
+*CHI:	busy busy bulldozer .
+%mor:	(1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "adam02.cha": line 1645.
+*CHI:	drive busy busy busy bulldozer .
+%mor:	n|drive adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "adam02.cha": line 1652.
+*CHI:	drive [/] drive busy busy busy bulldozer .
+%mor:	n|drive adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "adam02.cha": line 2883.
+*CHI:	busy busy busy bulldozer .
+%mor:	adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "adam02.cha": line 5753.
+*CHI:	purple red green .
+%mor:	(1)adj|purple (1)adj|red (1)n|green .
+
+    Strings matched 5 times
+
+From file <adam03.cha>
+----------------------------------------
+*** File "adam03.cha": line 327.
+*CHI:	yellow yellow yellow .
+%mor:	(1)adj|yellow (1)adj|yellow (1)n|yellow .
+----------------------------------------
+*** File "adam03.cha": line 1757.
+*CHI:	op(en) op(en) op(en) door .
+%mor:	adj|open (1)adj|open (1)adj|open (1)n|door .
+
+    Strings matched 2 times
+
+From file <adam04.cha>
+
+    Strings matched 0 times
+
+From file <adam05.cha>
+----------------------------------------
+*** File "adam05.cha": line 1059.
+*CHI:	big strong Cromer .
+%mor:	(1)adj|big (1)adj|strong (1)n:prop|Cromer .
+----------------------------------------
+*** File "adam05.cha": line 2413.
+*CHI:	funny xxx close eye .
+%mor:	(1)adj|fun&dn-Y (1)adj|close (1)n|eye .
+
+    Strings matched 2 times
+
+From file <adam06.cha>
+----------------------------------------
+*** File "adam06.cha": line 2521.
+*CHI:	light [?] light (.) Mommy .
+%mor:	(1)adj|light (1)adj|light (1)n:prop|Mommy .
+
+    Strings matched 1 times
+
+From file <adam07.cha>
+----------------------------------------
+*** File "adam07.cha": line 1015.
+*CHI:	buckets a shiny [?] red blue .
+%mor:	n|bucket-PL det:art|a (1)adj|shine&dn-Y (1)adj|red (1)n|blue .
+
+    Strings matched 1 times
+
+From file <adam08.cha>
+
+    Strings matched 0 times
+
+From file <adam09.cha>
+----------------------------------------
+*** File "adam09.cha": line 90.
+*CHI:	saggy baggy elephant .
+%mor:	(1)adj|sag&dv-Y (1)adj|bag&dn-Y (1)n|elephant .
+----------------------------------------
+*** File "adam09.cha": line 96.
+*CHI:	saggy baggy elephant .
+%mor:	(1)adj|sag&dv-Y (1)adj|bag&dn-Y (1)n|elephant .
+
+    Strings matched 2 times
+
+From file <adam10.cha>
+----------------------------------------
+*** File "adam10.cha": line 3861.
+*CHI:	little top little top .
+%mor:	adj|little (1)adj|top (1)adj|little (1)n|top .
+----------------------------------------
+*** File "adam10.cha": line 4784.
+*CHI:	big heavy cow .
+%mor:	(1)adj|big (1)adj|heavy (1)n|cow .
+
+    Strings matched 2 times
+
+From file <adam11.cha>
+
+    Strings matched 0 times
+
+From file <adam12.cha>
+
+    Strings matched 0 times
+
+From file <adam13.cha>
+
+    Strings matched 0 times
+
+From file <adam14.cha>
+
+    Strings matched 0 times
+
+From file <adam15.cha>
+----------------------------------------
+*** File "adam15.cha": line 2339.
+*CHI:	I funny little boy .
+%mor:	pro:sub|I (1)adj|fun&dn-Y (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "adam15.cha": line 2942.
+*CHI:	poor (.) little fellow .
+%mor:	(1)adj|poor (1)adj|little (1)n|fellow .
+
+    Strings matched 2 times
+
+From file <adam16.cha>
+
+    Strings matched 0 times
+
+From file <adam17.cha>
+----------------------------------------
+*** File "adam17.cha": line 630.
+*CHI:	come (.) little fellow (.) turn over .
+%mor:	v|come (1)adj|little (1)adj|fellow (1)n|turn adv|over .
+----------------------------------------
+*** File "adam17.cha": line 3221.
+*CHI:	get fresh good milk .
+%mor:	v|get (1)adj|fresh (1)adj|good (1)n|milk .
+
+    Strings matched 2 times
+
+From file <adam18.cha>
+
+    Strings matched 0 times
+
+From file <adam19.cha>
+
+    Strings matched 0 times
+
+From file <adam20.cha>
+----------------------------------------
+*** File "adam20.cha": line 5014.
+*CHI:	big white horse .
+%mor:	(1)adj|big (1)adj|white (1)n|horse .
+
+    Strings matched 1 times
+
+From file <adam21.cha>
+----------------------------------------
+*** File "adam21.cha": line 3030.
+*CHI:	o:h (.) a tall tall building with a [?] black black eyes .
+%mor:	co|oh det:art|a (1)adj|tall (1)adj|tall (1)n|building prep|with det:art|a
+	adj|black n|black n|eye-PL .
+----------------------------------------
+*** File "adam21.cha": line 3035.
+*CHI:	black black eyes .
+%mor:	(1)adj|black (1)adj|black (1)n|eye-PL .
+----------------------------------------
+*** File "adam21.cha": line 4133.
+*CHI:	I making a tall tall building .
+%mor:	pro:sub|I part|make-PRESP det:art|a (1)adj|tall (1)adj|tall (1)n|building .
+
+    Strings matched 3 times
+
+From file <adam22.cha>
+----------------------------------------
+*** File "adam22.cha": line 2670.
+*CHI:	a tiny tiny house .
+%mor:	det:art|a (1)adj|tiny (1)adj|tiny (1)n|house .
+----------------------------------------
+*** File "adam22.cha": line 3751.
+*CHI:	no (.) not car parking (.) (.) happy funny face with masks .
+%mor:	co|no neg|not n|car part|park-PRESP (1)adj|happy (1)adj|fun&dn-Y (1)n|face
+	prep|with n|mask-PL .
+----------------------------------------
+*** File "adam22.cha": line 3823.
+*CHI:	go out through dat [: that] little little door .
+%mor:	v|go adv|out prep|through pro:dem|that (1)adj|little (1)adj|little (1)n|door
+	.
+
+    Strings matched 3 times
+
+From file <adam23.cha>
+----------------------------------------
+*** File "adam23.cha": line 3681.
+*CHI:	Mommy (.) look at dat [: that] big big a@l .
+%mor:	n:prop|Mommy cop|look prep|at pro:dem|that (1)adj|big (1)adj|big (1)n:let|a
+	.
+----------------------------------------
+*** File "adam23.cha": line 4043.
+*CHI:	here (.) fat little duck .
+%mor:	adv|here (1)adj|fat (1)adj|little (1)n|duck .
+----------------------------------------
+*** File "adam23.cha": line 4049.
+*CHI:	here fat little duck I made .
+%mor:	adv|here (1)adj|fat (1)adj|little (1)n|duck pro:sub|I v|make&PAST .
+
+    Strings matched 3 times
+
+From file <adam24.cha>
+----------------------------------------
+*** File "adam24.cha": line 2408.
+*CHI:	here (.) fat little duck .
+%mor:	adv|here (1)adj|fat (1)adj|little (1)n|duck .
+
+    Strings matched 1 times
+
+From file <adam25.cha>
+----------------------------------------
+*** File "adam25.cha": line 1780.
+*CHI:	I see (.) tiny tiny Ursula .
+%mor:	pro:sub|I v|see (1)adj|tiny (1)adj|tiny (1)n:prop|Ursula .
+----------------------------------------
+*** File "adam25.cha": line 5159.
+*CHI:	I give her a little little bit .
+%mor:	pro:sub|I v|give pro:obj|her det:art|a (1)adj|little (1)adj|little (1)n|bit
+	.
+
+    Strings matched 2 times
+
+From file <adam26.cha>
+
+    Strings matched 0 times
+
+From file <adam27.cha>
+----------------------------------------
+*** File "adam27.cha": line 70.
+*CHI:	I <make a> [/] (.) make a tall tall building (.) with my sewing .
+%mor:	pro:sub|I v|make det:art|a (1)adj|tall (1)adj|tall (1)n|building prep|with
+	det:poss|my part|sew-PRESP .
+
+    Strings matched 1 times
+
+From file <adam28.cha>
+----------------------------------------
+*** File "adam28.cha": line 3429.
+*CHI:	and I will have good good real tea .
+%mor:	coord|and pro:sub|I mod|will v|have adj|good (1)adj|good (1)adj|real
+	(1)n|tea .
+
+    Strings matched 1 times
+
+From file <adam29.cha>
+----------------------------------------
+*** File "adam29.cha": line 1690.
+*CHI:	he got a new little big trailer .
+%mor:	pro:sub|he v|get&PAST det:art|a adj|new (1)adj|little (1)adj|big
+	(1)n|trailer .
+----------------------------------------
+*** File "adam29.cha": line 2917.
+*CHI:	I just got runny nose a long long way .
+%mor:	pro:sub|I adv|just v|get&PAST adj|run&dv-Y n|nose det:art|a
+	(1)adj|long (1)adj|long (1)n|way .
+
+    Strings matched 2 times
+
+From file <adam30.cha>
+----------------------------------------
+*** File "adam30.cha": line 2557.
+*CHI:	in that little tiny hole .
+%mor:	prep|in pro:dem|that (1)adj|little (1)adj|tiny (1)n|hole .
+
+    Strings matched 1 times
+
+From file <adam31.cha>
+----------------------------------------
+*** File "adam31.cha": line 541.
+*CHI:	have big sharp mouth .
+%mor:	v|have (1)adj|big (1)adj|sharp (1)n|mouth .
+----------------------------------------
+*** File "adam31.cha": line 546.
+*CHI:	have big sharp teeth .
+%mor:	v|have (1)adj|big (1)adj|sharp (1)n|tooth&PL .
+----------------------------------------
+*** File "adam31.cha": line 856.
+*CHI:	(ex)cept dis [: this] is a funny [?] little [?] train .
+%mor:	conj|except pro:dem|this cop|be&3S det:art|a (1)adj|fun&dn-Y
+	(1)adj|little (1)n|train .
+
+    Strings matched 3 times
+
+From file <adam32.cha>
+
+    Strings matched 0 times
+
+From file <adam33.cha>
+----------------------------------------
+*** File "adam33.cha": line 3020.
+*CHI:	dat [: that] a funny little cartoon dog .
+%mor:	pro:rel|that det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|cartoon n|dog .
+
+    Strings matched 1 times
+
+From file <adam34.cha>
+----------------------------------------
+*** File "adam34.cha": line 3670.
+*CHI:	Mommy (.) can I catch some little tiny fish ?
+%mor:	n:prop|Mommy mod|can pro:sub|I v|catch qn|some (1)adj|little (1)adj|tiny
+	(1)n|fish ?
+
+    Strings matched 1 times
+
+From file <adam35.cha>
+----------------------------------------
+*** File "adam35.cha": line 534.
+*CHI:	why dey [: they] have black train [//] (.) black things ?
+%mor:	adv:int|why pro:sub|they v|have (1)adj|black (1)adj|black (1)n|thing-PL ?
+
+    Strings matched 1 times
+
+From file <adam36.cha>
+----------------------------------------
+*** File "adam36.cha": line 309.
+*CHI:	why they have a tiny little hole ?
+%mor:	adv:int|why pro:sub|they v|have det:art|a (1)adj|tiny (1)adj|little
+	(1)n|hole ?
+----------------------------------------
+*** File "adam36.cha": line 2121.
+*CHI:	oh (.) said the little eensie weensie pea .
+%mor:	co|oh v|say&PAST det:art|the adj|little (1)adj|eensie (1)adj|weensie
+	(1)n|pea .
+----------------------------------------
+*** File "adam36.cha": line 2179.
+*CHI:	dis [: this] is a tiny little baby .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|baby .
+
+    Strings matched 3 times
+
+From file <adam37.cha>
+----------------------------------------
+*** File "adam37.cha": line 829.
+*CHI:	big big big pants .
+%mor:	adj|big (1)adj|big (1)adj|big (1)n:pt|pants .
+
+    Strings matched 1 times
+
+From file <adam38.cha>
+----------------------------------------
+*** File "adam38.cha": line 3141.
+*CHI:	string strong red ball chest .
+%mor:	n|string (1)adj|strong (1)adj|red (1)n|ball n|chest .
+
+    Strings matched 1 times
+
+From file <adam39.cha>
+----------------------------------------
+*** File "adam39.cha": line 931.
+*CHI:	fat old mouse .
+%mor:	(1)adj|fat (1)adj|old (1)n|mouse .
+
+    Strings matched 1 times
+
+From file <adam40.cha>
+
+    Strings matched 0 times
+
+From file <adam41.cha>
+
+    Strings matched 0 times
+
+From file <adam42.cha>
+----------------------------------------
+*** File "adam42.cha": line 1401.
+*CHI:	you see some little tiny things ?
+%mor:	pro:per|you v|see qn|some (1)adj|little (1)adj|tiny (1)n|thing-PL ?
+----------------------------------------
+*** File "adam42.cha": line 2460.
+*CHI:	nice bright color .
+%mor:	(1)adj|nice (1)adj|bright (1)n|color .
+----------------------------------------
+*** File "adam42.cha": line 2505.
+*CHI:	nice thick colors .
+%mor:	(1)adj|nice (1)adj|thick (1)n|color-PL .
+----------------------------------------
+*** File "adam42.cha": line 3323.
+*CHI:	the big bad ball .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|ball .
+----------------------------------------
+*** File "adam42.cha": line 3987.
+*CHI:	Mommy (.) where Paul's big round thing ?
+%mor:	n:prop|Mommy adv:int|where n:prop|Paul~poss|s (1)adj|big (1)adj|round
+	(1)n|thing ?
+----------------------------------------
+*** File "adam42.cha": line 3994.
+*CHI:	where Paul's big round dollar ?
+%mor:	adv:int|where n:prop|Paul~poss|s (1)adj|big (1)adj|round (1)n|dollar ?
+
+    Strings matched 6 times
+
+From file <adam43.cha>
+----------------------------------------
+*** File "adam43.cha": line 1687.
+*CHI:	he's a little naughty baby .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|little (1)adj|naughty (1)n|baby .
+----------------------------------------
+*** File "adam43.cha": line 2590.
+*CHI:	a top (.) top (.) top (.) top .
+%mor:	det:art|a adj|top (1)adj|top (1)adj|top (1)n|top .
+
+    Strings matched 2 times
+
+From file <adam44.cha>
+----------------------------------------
+*** File "adam44.cha": line 2283.
+*CHI:	some old old slides ?
+%mor:	qn|some (1)adj|old (1)adj|old (1)n|slide-PL ?
+----------------------------------------
+*** File "adam44.cha": line 3949.
+*CHI:	I drilling a big black hole .
+%mor:	pro:sub|I part|drill-PRESP det:art|a (1)adj|big (1)adj|black (1)n|hole .
+
+    Strings matched 2 times
+
+From file <adam45.cha>
+----------------------------------------
+*** File "adam45.cha": line 3242.
+*CHI:	about the big bad wolf .
+%mor:	prep|about det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "adam45.cha": line 3924.
+*CHI:	poor little bird .
+%mor:	(1)adj|poor (1)adj|little (1)n|bird .
+
+    Strings matched 2 times
+
+From file <adam46.cha>
+----------------------------------------
+*** File "adam46.cha": line 2145.
+*CHI:	(.) new new cup .
+%mor:	(1)adj|new (1)adj|new (1)n|cup .
+
+    Strings matched 1 times
+
+From file <adam47.cha>
+----------------------------------------
+*** File "adam47.cha": line 1133.
+*CHI:	it just went away (.) with de [: the] little itsy bitsy legs .
+%mor:	pro:per|it adv|just v|go&PAST adv|away prep|with det:art|the
+	adj|little (1)adj|itsy (1)adj|bitsy (1)n|leg-PL .
+----------------------------------------
+*** File "adam47.cha": line 1769.
+*CHI:	I got real big sharp teeth .
+%mor:	pro:sub|I v|get&PAST adj|real (1)adj|big (1)adj|sharp (1)n|tooth&PL .
+----------------------------------------
+*** File "adam47.cha": line 4590.
+*CHI:	some bad little boy .
+%mor:	qn|some (1)adj|bad (1)adj|little (1)n|boy .
+
+    Strings matched 3 times
+
+From file <adam48.cha>
+----------------------------------------
+*** File "adam48.cha": line 1267.
+*CHI:	big wide open pans .
+%mor:	adj|big (1)adj|wide (1)adj|open (1)n|pan-PL .
+----------------------------------------
+*** File "adam48.cha": line 3612.
+*CHI:	Paul's got a great big mouth .
+%mor:	n:prop|Paul~aux|be&3S part|get&PASTP det:art|a (1)adj|great (1)adj|big
+	(1)n|mouth .
+
+    Strings matched 2 times
+
+From file <adam49.cha>
+----------------------------------------
+*** File "adam49.cha": line 756.
+*CHI:	my busy little horse (.) right .
+%mor:	det:poss|my (1)adj|busy (1)adj|little (1)n|horse adj|right .
+----------------------------------------
+*** File "adam49.cha": line 759.
+*CHI:	and my busy little bull .
+%mor:	coord|and det:poss|my (1)adj|busy (1)adj|little (1)n|bull .
+----------------------------------------
+*** File "adam49.cha": line 765.
+*CHI:	my busy little bull is taking care of de [: the] dogs .
+%mor:	det:poss|my (1)adj|busy (1)adj|little (1)n|bull aux|be&3S part|take-PRESP
+	n|care prep|of det:art|the n|dog-PL .
+----------------------------------------
+*** File "adam49.cha": line 1741.
+*CHI:	he's just the silliest boy in de [: the] whole wide world (.) right
+	?
+%mor:	pro:sub|he~aux|be&3S adv|just det:art|the adj|silly-SP co|boy
+	prep|in det:art|the (1)adj|whole (1)adj|wide (1)n|world adj|right ?
+----------------------------------------
+*** File "adam49.cha": line 4328.
+*CHI:	<after dey [: they] eat> [//] (.) after Wig@c eats his dinner (.)
+	he's goin(g) (t)a get on for a nice good ride .
+%mor:	conj|after chi|Wig v|eat-3S det:poss|his n|dinner
+	pro:sub|he~aux|be&3S part|go-PRESP inf|to v|get adv|on prep|for
+	det:art|a (1)adj|nice (1)adj|good (1)n|ride .
+
+    Strings matched 5 times
+
+From file <adam50.cha>
+
+    Strings matched 0 times
+
+From file <adam51.cha>
+----------------------------------------
+*** File "adam51.cha": line 246.
+*CHI:	I have my own own watch .
+%mor:	pro:sub|I v|have det:poss|my (1)adj|own (1)adj|own (1)n|watch .
+
+    Strings matched 1 times
+
+From file <adam52.cha>
+----------------------------------------
+*** File "adam52.cha": line 409.
+*CHI:	dat [: that] look like old funny thing .
+%mor:	pro:dem|that cop|look conj|like (1)adj|old (1)adj|fun&dn-Y (1)n|thing .
+----------------------------------------
+*** File "adam52.cha": line 2510.
+*CHI:	my own own sponge since Mommy's not gonna let [!!] xxx Mommy's not
+	gonna what ?
+%mor:	det:poss|my (1)adj|own (1)adj|own (1)n|sponge prep|since n:prop|Mommy~poss|s
+	neg|not part|go-PRESP~inf|to part|let&PASTP n:prop|Mommy~poss|s
+	neg|not part|go-PRESP~inf|to pro:int|what ?
+----------------------------------------
+*** File "adam52.cha": line 3514.
+*CHI:	this is a little bigger paper .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|little (1)adj|big-CP (1)n|paper .
+
+    Strings matched 3 times
+
+From file <adam53.cha>
+----------------------------------------
+*** File "adam53.cha": line 505.
+*CHI:	big old mouth .
+%mor:	(1)adj|big (1)adj|old (1)n|mouth .
+----------------------------------------
+*** File "adam53.cha": line 1454.
+*CHI:	big fat top .
+%mor:	(1)adj|big (1)adj|fat (1)n|top .
+----------------------------------------
+*** File "adam53.cha": line 3315.
+*CHI:	oh (.) poor little house .
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|house .
+
+    Strings matched 3 times
+
+From file <adam54.cha>
+----------------------------------------
+*** File "adam54.cha": line 721.
+*CHI:	a big old big old tricycle .
+%mor:	det:art|a adj|big adj|old (1)adj|big (1)adj|old (1)n|tricycle .
+
+    Strings matched 1 times
+
+From file <adam55.cha>
+----------------------------------------
+*** File "adam55.cha": line 385.
+*CHI:	my big old racing car .
+%mor:	det:poss|my (1)adj|big (1)adj|old (1)n:gerund|race-PRESP n|car .
+----------------------------------------
+*** File "adam55.cha": line 911.
+*CHI:	I want to put a big (.) big (.) big [!!] white in .
+%mor:	pro:sub|I v|want inf|to v|put&ZERO det:art|a adj|big (1)adj|big
+	(1)adj|big (1)n|white adv|in .
+----------------------------------------
+*** File "adam55.cha": line 2018.
+*CHI:	I maked [: made] [* +ed] a cane (.) a long big old giant snake .
+%mor:	pro:sub|I v|make&PAST det:art|a n|cane det:art|a adj|long adj|big
+	(1)adj|old (1)adj|giant (1)n|snake .
+
+    Strings matched 3 times
+

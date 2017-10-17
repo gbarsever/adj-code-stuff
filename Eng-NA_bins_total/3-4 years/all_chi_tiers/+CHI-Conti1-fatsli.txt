@@ -1,0 +1,36 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:50:42 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <fatsliclay.cha>
+
+    Strings matched 0 times
+
+From file <fatslijack.cha>
+----------------------------------------
+*** File "fatslijack.cha": line 213.
+*CHI:	red white blue wellow [: yellow] green green white wellow
+	[: yellow] red duh .
+%mor:	adj|red adj|white adj|blue adj|yellow adj|green (1)adj|green (1)adj|white
+	(1)n|yellow adj|red co|duh .
+
+    Strings matched 1 times
+
+From file <fatslikate.cha>
+
+    Strings matched 0 times
+
+From file <fatslimartin.cha>
+
+    Strings matched 0 times
+
+From file <fatslirick.cha>
+
+    Strings matched 0 times
+
+From file <fatslisid.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,34 @@
+combo +t%mor +t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:36:23 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha": line 1286.
+*CHI:	I live a long long ways away .
+%mor:	pro:sub|I v|live det:art|a (1)adj|long (1)adj|long (1)n|way-PL adv|away .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha": line 2872.
+*CHI:	oh there was a big bad wolf in here last night and he brought that
+	pole and he broke it .
+%mor:	co|oh adv|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|bad (1)n|wolf
+	prep|in adv|here adj|last n|night coord|and pro:sub|he v|bring&PAST
+	pro:rel|that n|pole coord|and pro:sub|he v|break&PAST pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha": line 2885.
+*CHI:	yeah (.) father broke it (be)cause he's the big bad wolf .
+%mor:	co|yeah n|father v|break&PAST pro:per|it conj|because
+	pro:sub|he~aux|be&3S det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha": line 3743.
+*CHI:	he has a little bitty ears .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|ear-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Bloom70/Peter/20.cha": line 12118.
+*CHI:	the big bad wolf .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 5 times
+

@@ -1,0 +1,177 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:55:13 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <barry1.cha>
+
+    Strings matched 0 times
+
+From file <barry2.cha>
+
+    Strings matched 0 times
+
+From file <eileen1.cha>
+
+    Strings matched 0 times
+
+From file <eileen2.cha>
+
+    Strings matched 0 times
+
+From file <faye1.cha>
+
+    Strings matched 0 times
+
+From file <faye2.cha>
+
+    Strings matched 0 times
+
+From file <graham1.cha>
+
+    Strings matched 0 times
+
+From file <graham2.cha>
+
+    Strings matched 0 times
+
+From file <ian1.cha>
+----------------------------------------
+*** File "ian1.cha": line 378.
+*MOT:	is that a lovely (.) big tower ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|tower ?
+
+    Strings matched 1 times
+
+From file <ian2.cha>
+
+    Strings matched 0 times
+
+From file <jason1.cha>
+
+    Strings matched 0 times
+
+From file <jason2.cha>
+----------------------------------------
+*** File "jason2.cha": line 1585.
+*MOT:	now (.) we've got your own little hole .
+%mor:	adv|now pro:sub|we~aux|have part|get&PASTP det:poss|your (1)adj|own
+	(1)adj|little (1)n|hole .
+
+    Strings matched 1 times
+
+From file <kevin1.cha>
+----------------------------------------
+*** File "kevin1.cha": line 135.
+*MOT:	it's a big noisy thing (.) isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|noise&dn-Y (1)n|thing
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <kevin2.cha>
+----------------------------------------
+*** File "kevin2.cha": line 1469.
+*MOT:	nice clean towel .
+%mor:	(1)adj|nice (1)adj|clean (1)n|towel .
+----------------------------------------
+*** File "kevin2.cha": line 2240.
+*MOT:	oh dear (.) poor little penguin .
+%mor:	co|oh adj|dear (1)adj|poor (1)adj|little (1)n|penguin .
+
+    Strings matched 2 times
+
+From file <lucy1.cha>
+
+    Strings matched 0 times
+
+From file <lucy2.cha>
+
+    Strings matched 0 times
+
+From file <melanie1.cha>
+
+    Strings matched 0 times
+
+From file <melanie2.cha>
+
+    Strings matched 0 times
+
+From file <nicola1.cha>
+----------------------------------------
+*** File "nicola1.cha": line 549.
+*BRO:	poor dead bird .
+%mor:	(1)adj|poor (1)adj|dead (1)n|bird .
+----------------------------------------
+*** File "nicola1.cha": line 571.
+*BRO:	it's a poor dead bird .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|poor (1)adj|dead (1)n|bird .
+
+    Strings matched 2 times
+
+From file <nicola2.cha>
+
+    Strings matched 0 times
+
+From file <oliver1.cha>
+----------------------------------------
+*** File "oliver1.cha": line 991.
+*MOT:	look (.) it's got great big humps on the camel .
+%mor:	co|look pro:per|it~aux|be&3S v|get&PAST (1)adj|great (1)adj|big (1)n|hump-PL
+	prep|on det:art|the n|camel .
+
+    Strings matched 1 times
+
+From file <oliver2.cha>
+
+    Strings matched 0 times
+
+From file <philip1.cha>
+
+    Strings matched 0 times
+
+From file <philip2.cha>
+
+    Strings matched 0 times
+
+From file <richard1.cha>
+
+    Strings matched 0 times
+
+From file <richard2.cha>
+
+    Strings matched 0 times
+
+From file <sally1.cha>
+
+    Strings matched 0 times
+
+From file <sally2.cha>
+----------------------------------------
+*** File "sally2.cha": line 653.
+*MOT:	no (.) no (.) no (.) no (.) naughty (.) naughty (.) stop it .
+%mor:	co|no co|no co|no qn|no (1)adj|naughty (1)adj|naughty (1)n|stop pro:per|it .
+----------------------------------------
+*** File "sally2.cha": line 1524.
+*MOT:	a big long wall .
+%mor:	det:art|a (1)adj|big (1)adj|long (1)n|wall .
+
+    Strings matched 2 times
+
+From file <wayne1.cha>
+
+    Strings matched 0 times
+
+From file <wayne2.cha>
+
+    Strings matched 0 times
+
+From file <yvonne1.cha>
+
+    Strings matched 0 times
+
+From file <yvonne2.cha>
+
+    Strings matched 0 times
+

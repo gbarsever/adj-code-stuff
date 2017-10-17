@@ -1,0 +1,92 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:05:59 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <j1-1201.cha>
+----------------------------------------
+*** File "j1-1201.cha": line 1737.
+*MOT:	soon the first little pig (...) met a man [=! read] . %snd:"j1-r29jun00"_3282067_3285317
+%mor:	adv|soon det:art|the (1)adj|first (1)adj|little (1)n|pig v|meet&PAST
+	det:art|a n|man .
+----------------------------------------
+*** File "j1-1201.cha": line 1767.
+*MOT:	had builded himself (..) a cozy little house of straw [=! read] . %snd:"j1-r29jun00"_3300490_3304310
+%mor:	v|have&PAST v|build-PAST pro:refl|himself det:art|a (1)adj|cozy
+	(1)adj|little (1)n|house prep|of n|straw .
+----------------------------------------
+*** File "j1-1201.cha": line 1795.
+*MOT:	answered the first little pig [=! read] +". %snd:"j1-r29jun00"_3323010_3324667
+%mor:	v|answer-PAST det:art|the (1)adj|first (1)adj|little (1)n|pig +".
+----------------------------------------
+*** File "j1-1201.cha": line 1869.
+*MOT:	had built himself (..) a snug little house of sticks [=! read] . %snd:"j1-r29jun00"_3368667_3372307
+%mor:	v|have&PAST v|build&PAST pro:refl|himself det:art|a (1)adj|snug
+	(1)adj|little (1)n|house prep|of n|stick-PL .
+----------------------------------------
+*** File "j1-1201.cha": line 1925.
+*MOT:	but before the house came clattering down the second little pig had
+	climbed out the back window and run into the woods [=! read] . %snd:"j1-r29jun00"_3403663_3409117
+%mor:	conj|but prep|before det:art|the n|house v|come&PAST
+	n:gerund|clatter-PRESP adv|down det:art|the (1)adj|second (1)adj|little
+	(1)n|pig aux|have&PAST part|climb-PASTP prep|out det:art|the adj|back
+	n|window coord|and v|run prep|into det:art|the n|wood-PL .
+----------------------------------------
+*** File "j1-1201.cha": line 1981.
+*MOT:	after a while (..) his two brothers and his mother found their way
+	to his new little brick house [=! read] . %snd:"j1-r29jun00"_3473153_3478340
+%mor:	prep|after det:art|a n|while det:poss|his det:num|two n|brother-PL
+	coord|and det:poss|his n|mother v|find&PAST det:poss|their n|way
+	prep|to det:poss|his (1)adj|new (1)adj|little (1)n|brick n|house .
+----------------------------------------
+*** File "j1-1201.cha": line 2002.
+*MOT:	she filled the xxx the big iron kettle that hung in the fireplace
+	with water [=! read] . %snd:"j1-r29jun00"_3489420_3494107
+%mor:	pro:sub|she v|fill-PAST det:art|the det:art|the (1)adj|big (1)adj|iron
+	(1)n|kettle pro:rel|that v|hang&PAST prep|in det:art|the
+	n|+n|fire+n|place prep|with n|water .
+----------------------------------------
+*** File "j1-1201.cha": line 2168.
+*MOT:	ugly little wolf . %snd:"j1-r29jun00"_3599020_3599793
+%mor:	(1)adj|ugly (1)adj|little (1)n|wolf .
+----------------------------------------
+*** File "j1-1201.cha": line 2211.
+*MOT:	everyone had a great big slice (...) and washed it down (..) with
+	fresh (..) cold (.) apple (.) cider [=! read] . %snd:"j1-r29jun00"_3627357_3634493
+%mor:	pro:indef|everyone v|have&PAST det:art|a (1)adj|great (1)adj|big (1)n|slice
+	coord|and v|wash-PAST pro:per|it adv|down prep|with (2)adj|fresh
+	(2)adj|cold (2)n|apple n|cider .
+
+    Strings matched 10 times
+
+From file <j1-1318.cha>
+----------------------------------------
+*** File "j1-1318.cha": line 781.
+*MOT:	and those little bitty itty sweaty hands . %snd:"j1-w16aug00"_2028267_2030173
+%mor:	coord|and pro:dem|those adj|little adj|bit&dn-Y (1)adj|itty
+	(1)adj|sweat&dn-Y (1)n|hand-PL .
+
+    Strings matched 1 times
+
+From file <j1-1323.cha>
+
+    Strings matched 0 times
+
+From file <j1-1415.cha>
+
+    Strings matched 0 times
+
+From file <j1-1420.cha>
+
+    Strings matched 0 times
+
+From file <j1-1505.cha>
+----------------------------------------
+*** File "j1-1505.cha": line 438.
+*MOT:	that's a lot o(f) egg (.) for the little old man . %snd:"j1-w4oct00"_1626397_1628900
+%mor:	pro:dem|that~cop|be&3S det:art|a n|lot prep|of n|egg prep|for
+	det:art|the (1)adj|little (1)adj|old (1)n|man .
+
+    Strings matched 1 times
+

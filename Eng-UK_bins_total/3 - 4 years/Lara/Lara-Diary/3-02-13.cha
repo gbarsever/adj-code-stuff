@@ -1,0 +1,16 @@
+@UTF8
+@PID:	11312/c-00018159-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|LaraDiary|CHI|3;2.13||||Target_Child|||
+@Date:	29-JUL-1997
+*CHI:	where (i)s Amy ?
+%mor:	adv:int|where cop|be&3S n:prop|Amy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	how do you do that up , Mum ?
+%mor:	adv:int|how v|do pro:per|you v|do pro:dem|that adv|up cm|cm
+	n:prop|Mum ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|8|JCT 7|6|LP 8|4|COMP
+	9|2|PUNCT
+@End

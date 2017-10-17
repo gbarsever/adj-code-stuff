@@ -1,0 +1,133 @@
+@UTF8
+@PID:	11312/c-00004628-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Katekyl Target_Child , SIB Sibling , MOT Mother
+@ID:	eng|Conti1|CHI|4;9.18||||Target_Child|||
+@ID:	eng|Conti1|SIB|2;4.21||||Sibling|||
+@ID:	eng|Conti1|MOT|||||Mother|||
+@Location:	Manchester , England
+@Situation:	Play
+@Activities:	Play with an assortment of toys in the living room including pen and paper
+@Transcriber:	Vivien Ward
+@Comment:	parallel activity for 54 secs
+*SIB:	I want drink .
+%mor:	pro:sub|I v|want n|drink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	picks up cup from hearth
+*CHI:	0 .
+%act:	goes towards SIB
+*MOT:	let him have a drink he's not doing any harm .
+%mor:	v|let&ZERO pro:obj|him v|have det:art|a n|drink
+	pro:sub|he~aux|be&3S neg|not part|do-PRESP qn|any n|harm .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|XMOD 10|11|QUANT 11|9|OBJ 12|1|PUNCT
+%act:	looks at CHI
+*CHI:	mine .
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	wimpering
+*CHI:	0 .
+%par:	cries
+%act:	takes cup from SIB
+@Comment:	parallel activity for 2 mins 58 secs both children now sitting on floor
+*SIB:	want your swing [?] .
+%mor:	v|want det:poss|your n|swing .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	takes toy passed to him from MOT
+*CHI:	no want it (2.) want it .
+%mor:	co|no v|want pro:per|it v|want pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%par:	cries
+*CHI:	mine .
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	snatches piece of toy from near SIB
+@Comment:	parallel activity for 22 secs
+*SIB:	0 .
+%act:	throws pen at CHI
+*CHI:	don't .
+%mor:	mod|do~neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%act:	picks up pen
+*SIB:	0 .
+%act:	picks up something as if to throw it
+*CHI:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shields head with arm
+@Comment:	16 secs parallel activity
+*SIB:	aha .
+%mor:	co|aha .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	leans over to give CHI a toy
+*CHI:	0 .
+%par:	shakes head violently
+@Comment:	parallel activity for 1 min 20 secs
+*CHI:	ee [: here] are Kyle .
+%mor:	adv|here cop|be&PRES n:prop|Kyle .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	offers SIB a toy
+*SIB:	0 .
+%act:	looks at investigator
+*CHI:	ee [: here] are postman .
+%mor:	adv|here cop|be&PRES n|+n|post+n|man .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	offers toy to SIB
+*SIB:	0 .
+%act:	stares at investigator
+@Comment:	34 secs parallel activity
+*SIB:	what xxx play ?
+%mor:	pro:int|what n|play ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%act:	continues to play with toy
+@Comment:	54 secs parallel activity
+*SIB:	<wha(t)'s tha(t)> [/] (.) wha(t)'s xxx .
+%mor:	pro:int|what~aux|be&3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%act:	crawls towards CHI
+*CHI:	ee [: these] are .
+%mor:	pro:dem|these cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	picks up pen from floor and offers it to SIB
+*CHI:	ee [: these] are Kyle .
+%mor:	pro:dem|these cop|be&PRES n:prop|Kyle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	holds out pen to SIB
+*SIB:	o:h .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bends down to pick up pen which has fallen
+@Comment:	parallel activity for 1 min 14 secs
+*CHI:	I do [>] .
+%mor:	pro:sub|I v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	leans over to SIB and lifts up the paper he is drawing on
+*SIB:	<ah ah> [<] .
+%mor:	co|ah co|ah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*SIB:	that one a mine .
+%mor:	pro:dem|that pro:indef|one det:art|a pro:poss|mine .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	holds on to paper
+*SIB:	I do name .
+%mor:	pro:sub|I mod|do v|name .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	puts paper back on his knee
+@Comment:	parallel activity for 15 secs
+*CHI:	xxx do it .
+%mor:	mod|do pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%act:	reaches over and holds paper in SIB's hands
+*SIB:	0 .
+%act:	continues to bite paper
+*CHI:	0 .
+%act:	grabs for paper
+*SIB:	mine .
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues to bite paper
+@Comment:	parallel activity to end of session approx 17 secs
+@End

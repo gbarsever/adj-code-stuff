@@ -1,0 +1,2570 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:52:58 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-00.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-00.cha": line 1299.
+*MOT:	Fireman_Sam with his bright yellow helmet on . %snd:"3-00-00"_811581_813520
+%mor:	n:prop|Fireman_Sam prep|with det:poss|his (1)adj|bright (1)adj|yellow
+	(1)n|helmet adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-00.cha": line 1306.
+*MOT:	+" happy third birthday Brian . %snd:"3-00-00"_815186_817566
+%mor:	(1)adj|happy (1)adj|third (1)n|+n|birth+n|day n:prop|Brian .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-00.cha": line 2208.
+*MOT:	they're little round jelly sweets . %snd:"3-00-00"_1411771_1413675
+%mor:	pro:sub|they~aux|be&PRES (1)adj|little (1)adj|round (1)n|jelly n|sweet-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-00.cha": line 5725.
+*MOT:	oh just the little wooden trains go on there . %snd:"3-00-00"_3679872_3682170
+%mor:	co|oh adv|just det:art|the (1)adj|little (1)adj|wooden (1)n|train-PL v|go
+	prep|on adv|there .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-01.cha": line 147.
+*MOT:	you lucky lucky boy . %snd:"3-00-01"_73760_75420
+%mor:	pro:per|you (1)adj|luck&dn-Y (1)adj|luck&dn-Y (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-01.cha": line 4472.
+*MOT:	it's a nice shiny envelope . %snd:"3-00-01"_2564798_2566969
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|shine&dn-Y (1)n|envelope .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-01.cha": line 5885.
+*OBS:	so do you [/] you have a great big laugh every time you see my bag ? %snd:"3-00-01"_3481316_3487620
+%mor:	adv|so v|do pro:per|you v|have det:art|a (1)adj|great (1)adj|big (1)n|laugh
+	qn|every n|time pro:per|you v|see det:poss|my n|bag ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 38.
+*MOT:	this is a nice little pig „ isn't it ? %snd:"3-00-02"_25700_27964
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|pig end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 2809.
+*MOT:	your hot cross bun nice ? %snd:"3-00-02"_1786759_1788396
+%mor:	det:poss|your (1)adj|hot (1)adj|cross (1)n|bun adj|nice ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 2847.
+*MOT:	would the fireman like to share your hot cross bun ? %snd:"3-00-02"_1818549_1821800
+%mor:	mod|will&COND det:art|the n|+n|fire+n|man co|like inf|to v|share
+	det:poss|your (1)adj|hot (1)adj|cross (1)n|bun ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 3160.
+*MOT:	and if it's six o'clock tonight that's an awful long time to wait because we [//] we're just having breakfast now „ aren't we ? %snd:"3-00-02"_2007309_2012255
+%mor:	coord|and conj|if pro:per|it~aux|be&3S det:num|six n|o'clock
+	adv:tem|tonight pro:dem|that~cop|be&3S det:art|a (1)adj|awful (1)adj|long
+	(1)n|time inf|to v|wait conj|because pro:sub|we~aux|be&PRES adv|just
+	part|have-PRESP n|breakfast adv|now end|end aux|be&PRES~neg|not
+	pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 3188.
+*MOT:	have you finished your hot cross bun , love ? %snd:"3-00-02"_2031271_2032873
+%mor:	aux|have pro:per|you v|finish-PAST det:poss|your (1)adj|hot (1)adj|cross
+	(1)n|bun cm|cm n|love ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 3434.
+*MOT:	I'm just sitting finishing my cup of tea and my hot cross bun . %snd:"3-00-02"_2194967_2198705
+%mor:	pro:sub|I~aux|be&1S adv|just part|sit-PRESP n:gerund|finish-PRESP
+	det:poss|my n|cup prep|of n|tea coord|and det:poss|my (1)adj|hot
+	(1)adj|cross (1)n|bun .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 3582.
+*MOT:	your lovely little teeth . %snd:"3-00-02"_2283477_2285369
+%mor:	det:poss|your (1)adj|love&dn-LY (1)adj|little (1)n|tooth&PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 4326.
+*MOT:	well we've put you a nice warm <jumper on because> [>] +... [+ IN] %snd:"3-00-02"_2693898_2696499
+%mor:	n|well pro:sub|we~aux|have v|put&ZERO pro:per|you det:art|a
+	(1)adj|nice (1)adj|warm (1)n|jump&dv-AGT adv|on conj|because +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 4873.
+*MOT:	is all that orange juice and Cornflakes and the hot cross bun (.) is it all going 0 [=! makes noise] round and round in your tummy ? %snd:"3-00-02"_2988485_2996392
+%mor:	cop|be&3S adv|all pro:dem|that adj|orange n|juice coord|and
+	n:prop|Cornflakes coord|and det:art|the (1)adj|hot (1)adj|cross (1)n|bun
+	cop|be&3S pro:per|it adv|all part|go-PRESP adv|round coord|and
+	adv|round prep|in det:poss|your n|tummy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 5550.
+*MOT:	he lived in a little damp house amongst the buttercups at the edge of a pond . [+ R] %snd:"3-00-02"_3438383_3442911
+%mor:	pro:sub|he v|live-PAST prep|in det:art|a (1)adj|little (1)adj|damp
+	(1)n|house prep|amongst det:art|the n|buttercup-PL prep|at det:art|the
+	n|edge prep|of det:art|a n|pond .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-02.cha": line 5760.
+*MOT:	I'm sure I can see the marks of little dirty feet . [+ R] %snd:"3-00-02"_3556995_3560176
+%mor:	pro:sub|I~aux|be&1S adv|sure pro:sub|I mod|can v|see det:art|the
+	n|mark-PL prep|of (1)adj|little (1)adj|dirt&dn-Y (1)n|foot&PL .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 3626.
+*MOT:	Purdie , have you seen this naughty little brother you've got ? %snd:"3-00-03"_1921675_1925274
+%mor:	n:prop|Purdie cm|cm v|have pro:per|you part|see&PASTP pro:dem|this
+	(1)adj|naughty (1)adj|little (1)n|brother pro:per|you~aux|have part|get&PASTP
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 3632.
+*MOT:	you've got a cheeky naughty little brother . %snd:"3-00-03"_1926029_1928386
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a adj|cheek&dn-Y
+	(1)adj|naughty (1)adj|little (1)n|brother .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 3637.
+*MOT:	a cheeky naughty little brother . %snd:"3-00-03"_1929245_1931602
+%mor:	det:art|a adj|cheek&dn-Y (1)adj|naughty (1)adj|little (1)n|brother .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 3681.
+*MOT:	and she [/] she choose little yellow car and a racing car . %snd:"3-00-03"_1952153_1956959
+%mor:	coord|and pro:sub|she v|choose (1)adj|little (1)adj|yellow (1)n|car
+	coord|and det:art|a part|race-PRESP n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 3797.
+*MOT:	they have a little wooden fire engine at playgroup . %snd:"3-00-03"_2020787_2023121
+%mor:	pro:sub|they v|have det:art|a (1)adj|little (1)adj|wooden (1)n|fire n|engine
+	prep|at n|+n|play+n|group .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 5457.
+*MOT:	nice yellow horse . %snd:"3-00-03"_3023226_3025258
+%mor:	(1)adj|nice (1)adj|yellow (1)n|horse .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 5486.
+*MOT:	look at the nice bright color . %snd:"3-00-03"_3042148_3043809
+%mor:	cop|look prep|at det:art|the (1)adj|nice (1)adj|bright (1)n|color .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-03.cha": line 5865.
+*MOT:	green [//] you've got a nice green pencil there . %snd:"3-00-03"_3256138_3257973
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|nice (1)adj|green
+	(1)n|pencil adv|there .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-08.cha": line 1761.
+*INV:	that's a brilliant head stand . %snd:"3-00-08"_811930_813614
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|brilliant (1)adj|head (1)n|stand .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 1147.
+*MOT:	it's showing this white clean place mat (.) which looks very nice . %snd:"3-00-10"_663771_666848
+%mor:	pro:per|it~aux|be&3S part|show-PRESP pro:dem|this (1)adj|white
+	(1)adj|clean (1)n|place n|mat pro:rel|which cop|look-3S adv|very adj|nice
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 1220.
+*MOT:	a sort of browny orange number three <showing three> [>] +... [+ IN] %snd:"3-00-10"_694916_698782
+%mor:	det:art|a n|sort prep|of (1)adj|brown-Y (1)adj|orange (1)n|number
+	det:num|three part|show-PRESP det:num|three +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 1497.
+*MOT:	we've got some fruit bread and we've got some hot cross buns . %snd:"3-00-10"_850318_854915
+%mor:	pro:sub|we~aux|have part|get&PASTP qn|some n|fruit n|bread
+	coord|and pro:sub|we~aux|have v|get&PAST qn|some (1)adj|hot (1)adj|cross
+	(1)n|bun-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 1891.
+*MOT:	they had some lovely little picnic tables . %snd:"3-00-10"_1103964_1106147
+%mor:	pro:sub|they v|have&PAST qn|some (1)adj|love&dn-LY (1)adj|little (1)n|picnic
+	n|table-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 2370.
+*MOT:	ready steady cook . %snd:"3-00-10"_1401700_1402490
+%mor:	(1)adj|ready (1)adj|steady (1)n|cook .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 2384.
+*MOT:	Grandma and Granddad like watching ready steady cook „ don't they ? %snd:"3-00-10"_1408109_1410721
+%mor:	n:prop|Grandma coord|and n:prop|Granddad v|like part|watch-PRESP
+	(1)adj|ready (1)adj|steady (1)n|cook end|end mod|do~neg|not pro:sub|they ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 2526.
+*MOT:	big blue fire engine ? %snd:"3-00-10"_1481609_1482630
+%mor:	(1)adj|big (1)adj|blue (1)n|fire n|engine ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 3254.
+*MOT:	it's just dirty rubbish in a plastic bag . %snd:"3-00-10"_1871716_1874038
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|dirt&dn-Y (1)n|rubbish prep|in
+	det:art|a n|plastic n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 3607.
+*MOT:	a big brown bear . %snd:"3-00-10"_2062540_2063864
+%mor:	det:art|a (1)adj|big (1)adj|brown (1)n|bear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 5709.
+*MOT:	it's a sweet little thing . %snd:"3-00-10"_3169324_3170647
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|sweet (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-10.cha": line 6108.
+*MOT:	in the bread box now we've got hot cross buns (.) lemon and sultana pancake . %snd:"3-00-10"_3383564_3389100
+%mor:	prep|in det:art|the n|bread n|box adv|now pro:sub|we~aux|have
+	v|get&PAST (1)adj|hot (1)adj|cross (1)n|bun-PL n|lemon coord|and n|sultana
+	n|pancake .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 1845.
+*MOT:	would you have been good little boys ? %snd:"3-00-11"_1004930_1006427
+%mor:	mod|will&COND pro:per|you v|have cop|be&PASTP (1)adj|good (1)adj|little
+	(1)n|boy-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 2065.
+*MOT:	what a strong spicy smell . %snd:"3-00-11"_1102577_1104214
+%mor:	pro:int|what det:art|a (1)adj|strong (1)adj|spice&dn-Y (1)n|smell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 2068.
+*MOT:	we might have_to &-um (.) make some hot cross buns . %snd:"3-00-11"_1104179_1108266
+%mor:	pro:sub|we mod|might mod:aux|have_to v|make qn|some (1)adj|hot
+	(1)adj|cross (1)n|bun-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 2082.
+*MOT:	hot cross buns . %snd:"3-00-11"_1111053_1112260
+%mor:	(1)adj|hot (1)adj|cross (1)n|bun-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 2164.
+*MOT:	but really (.) you see (.) we're supposed to save our hot cross buns and just eat <them on Friday> [>] +... [+ IN] %snd:"3-00-11"_1152678_1158007
+%mor:	conj|but adv|real&dadj-LY pro:per|you v|see pro:sub|we~aux|be&PRES
+	v|suppose-PAST inf|to v|save det:poss|our (1)adj|hot (1)adj|cross (1)n|bun-PL
+	coord|and adv|just v|eat pro:obj|them prep|on n:prop|Friday +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-11.cha": line 3052.
+*MOT:	with the police helicopter they've got the same black dog . %snd:"3-00-11"_1654669_1657490
+%mor:	prep|with det:art|the n|police n|helicopter pro:sub|they~aux|have
+	part|get&PASTP det:art|the (1)adj|same (1)adj|black (1)n|dog .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 875.
+*MOT:	I think the men when we hear them they must be coming to the top of the road and they must go right down to the bottom end of Streetname Drive and pick up the bags there because we always seem to be waiting a long long time for them to come „ don't we ? %snd:"3-00-14"_504069_515156
+%mor:	pro:sub|I v|think det:art|the n|man&PL conj|when pro:sub|we v|hear
+	pro:obj|them pro:sub|they mod|must aux|be part|come-PRESP prep|to
+	det:art|the n|top prep|of det:art|the n|road coord|and pro:sub|they
+	mod|must v|go adj|right adv|down prep|to det:art|the adj|bottom
+	n|end prep|of n:prop|Streetname n:prop|Drive coord|and v|pick
+	prep|up det:art|the n|bag-PL adv|there conj|because pro:sub|we
+	adv|always cop|seem inf|to aux|be part|wait-PRESP det:art|a (1)adj|long
+	(1)adj|long (1)n|time prep|for pro:obj|them inf|to v|come end|end
+	mod|do~neg|not pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 1247.
+*MOT:	++ and leave new bags are the men that we know (be)cause they've been coming for a long long time but it looks now as if the new men who are driving +/. [+ IN] %snd:"3-00-14"_701775_709194
+%mor:	coord|and n|leave adj|new n|bag-PL cop|be&PRES det:art|the n|man&PL
+	pro:rel|that pro:sub|we v|know conj|because pro:sub|they~aux|have
+	aux|be&PASTP part|come-PRESP prep|for det:art|a (1)adj|long (1)adj|long
+	(1)n|time conj|but pro:per|it cop|look-3S adv|now adv|as conj|if
+	det:art|the adj|new n|man&PL pro:rel|who aux|be&PRES
+	part|drive-PRESP +/.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 1363.
+*MOT:	we get some of those little easter eggs for the dustbin men ? %snd:"3-00-14"_771207_774017
+%mor:	pro:sub|we v|get qn|some prep|of pro:dem|those (1)adj|little
+	(1)adj|east-CP (1)n|egg-PL prep|for det:art|the n|+n|dust+n|bin n|man&PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 2225.
+*MOT:	so you saw some little small toys on the road . %snd:"3-00-14"_1260189_1262871
+%mor:	co|so pro:per|you v|saw qn|some (1)adj|little (1)adj|small (1)n|toy-PL
+	prep|on det:art|the n|road .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 2592.
+*MOT:	you're a good little helper „ aren't you ? %snd:"3-00-14"_1486763_1488818
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|help&dv-AGT
+	end|end aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-14.cha": line 3804.
+*MOT:	well we'll put these two jars in Mummy and Daddy's bedroom and I think for the rest we've got a nice wooden bowl which we might put on the hearth down here „ do you think ? %snd:"3-00-14"_2138077_2149443
+%mor:	co|well pro:sub|we~mod|will v|put&ZERO pro:dem|these det:num|two
+	n|jar-PL prep|in n:prop|Mummy coord|and n:prop|Daddy~poss|s
+	n|+n|bed+n|room coord|and pro:sub|I v|think prep|for det:art|the
+	v|rest pro:sub|we~aux|have part|get&PASTP det:art|a (1)adj|nice
+	(1)adj|wooden (1)n|bowl pro:rel|which pro:sub|we mod|might v|put&ZERO
+	prep|on det:art|the n|hearth adv|down adv|here end|end v|do
+	pro:per|you v|think ?
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 1947.
+*INV:	<do they> [/] do they wear bright yellow helmets <like that> [>] ? %snd:"3-00-15"_1023342_1026709
+%mor:	mod|do pro:sub|they v|wear (1)adj|bright (1)adj|yellow (1)n|helmet-PL
+	prep|like pro:dem|that ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 2187.
+*INV:	this is an even smaller hose , Thomas . %snd:"3-00-15"_1178185_1181737
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|even (1)adj|small-CP (1)n|hose cm|cm
+	n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 2402.
+*MOT:	we saw a little orange disc on the floor . %snd:"3-00-15"_1293240_1295550
+%mor:	pro:sub|we v|see&PAST det:art|a (1)adj|little (1)adj|orange (1)n|disc
+	prep|on det:art|the n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 2701.
+*MOT:	I put a little orange ring like this . %snd:"3-00-15"_1433613_1435853
+%mor:	pro:sub|I v|put&ZERO det:art|a (1)adj|little (1)adj|orange (1)n|ring
+	prep|like pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 4639.
+*INV:	<you're a> [/] you're a normal big boy „ aren't you ? %snd:"3-00-15"_2360861_2366283
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|normal (1)adj|big (1)n|boy end|end
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 6853.
+*MOT:	<bumpity bumpity bump> [=! singing] [>] . [+ R]
+%mor:	(1)adj|bumpity (1)adj|bumpity (1)n|bump .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-15.cha": line 6856.
+*INV:	<bumpity bumpity bump> [=! singing] [<] . [+ R]
+%mor:	(1)adj|bumpity (1)adj|bumpity (1)n|bump .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 575.
+*MOT:	and that has sort of bluey purpley flowers . %snd:"3-00-16"_331834_334666
+%mor:	coord|and pro:rel|that v|have&3S n|sort prep|of (1)adj|blue-Y
+	(1)adj|purple-Y (1)n|flower-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 1068.
+*MOT:	did you see those tall thin things ? %snd:"3-00-16"_596318_599673
+%mor:	mod|do&PAST pro:per|you v|see pro:dem|those (1)adj|tall (1)adj|thin
+	(1)n|thing-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 3107.
+*MOT:	it had a little black face with red eyes . %snd:"3-00-16"_1939550_1942789
+%mor:	pro:per|it v|have&PAST det:art|a (1)adj|little (1)adj|black (1)n|face
+	prep|with n|red n|eye-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 3329.
+*MOT:	every bib you have that has a nice smily sun on it „ doesn't it ? %snd:"3-00-16"_2055537_2060042
+%mor:	qn|every n|bib pro:per|you v|have pro:rel|that v|have&3S det:art|a
+	(1)adj|nice (1)adj|smile&dv-Y (1)n|sun prep|on pro:per|it end|end
+	mod|do&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 3761.
+*MOT:	when the bright yellow flowers have disappeared we get these white fluffy balls of seeds and they're called dandelion clocks . %snd:"3-00-16"_2296705_2303380
+%mor:	conj|when det:art|the adj|bright n|yellow n|flower-PL v|have
+	dis#part|appear-PASTP pro:sub|we v|get pro:dem|these (1)adj|white
+	(1)adj|fluff&dn-Y (1)n|ball-PL prep|of n|seed-PL coord|and
+	pro:sub|they~aux|be&PRES part|call-PASTP n|dandelion n|clock-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 3993.
+*MOT:	and the lilys were beautiful elegant tall white flowers and they used to sit +//. [+ IN] %snd:"3-00-16"_2431350_2435135
+%mor:	coord|and det:art|the n|lily-PL cop|be&PAST adj|beautiful
+	adj|elegant (1)adj|tall (1)adj|white (1)n|flower-PL coord|and pro:sub|they
+	v|use-PAST inf|to v|sit +//.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 5229.
+*MOT:	a very narrow long screwdriver to fix it . %snd:"3-00-16"_3201672_3203831
+%mor:	det:art|a adv|very (1)adj|narrow (1)adj|long (1)n|+n|screw+n|driver inf|to
+	v|fix pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 5472.
+*MOT:	one of the little blue lights has fallen inside the ambulance . %snd:"3-00-16"_3355449_3358061
+%mor:	det:num|one prep|of det:art|the (1)adj|little (1)adj|blue (1)n|light-PL
+	aux|have&3S part|fall&PASTP prep|inside det:art|the n|ambulance .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-16.cha": line 5498.
+*MOT:	we need a very long thin screwdriver . %snd:"3-00-16"_3372886_3375335
+%mor:	pro:sub|we v|need det:art|a adv|very (1)adj|long (1)adj|thin
+	(1)n|+n|screw+n|driver .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 85.
+*MOT:	it's actually the little wooden maypole with the teddy bears on that we've looked at many times „ isn't it ? %snd:"3-00-18"_51408_57236
+%mor:	pro:per|it~aux|be&3S adv|actual&dadj-LY det:art|the (1)adj|little
+	(1)adj|wooden (1)n|+n|may+n|pole prep|with det:art|the n|teddy v|bear-3S
+	prep|on pro:dem|that pro:sub|we~aux|have cop|look-PAST prep|at
+	qn|many n|time-PL end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 653.
+*MOT:	it (h)as got little blue line running all the way round . %snd:"3-00-18"_320110_322978
+%mor:	pro:per|it aux|have&3S v|get&PAST (1)adj|little (1)adj|blue (1)n|line
+	part|run-PRESP qn|all det:art|the n|way adv|round .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 1464.
+*MOT:	but they said they tied him up with a bright shiny red ribbon . %snd:"3-00-18"_949400_952047
+%mor:	conj|but pro:sub|they v|say&PAST pro:sub|they v|tie-PAST
+	pro:obj|him adv|up prep|with det:art|a adj|bright (1)adj|shine&dn-Y
+	(1)adj|red (1)n|ribbon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 1509.
+*MOT:	which is the long thin parcel , Thomas ? %snd:"3-00-18"_987293_989022
+%mor:	pro:rel|which cop|be&3S det:art|the (1)adj|long (1)adj|thin (1)n|parcel
+	cm|cm n:prop|Thomas ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 2508.
+*MOT:	these are the big brown bears . %snd:"3-00-18"_1563681_1566084
+%mor:	pro:dem|these cop|be&PRES det:art|the (1)adj|big (1)adj|brown (1)n|bear-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 3545.
+*MOT:	he's a very vicious rough cat actually . %snd:"3-00-18"_2138391_2140771
+%mor:	pro:sub|he~aux|be&3S det:art|a adv|very (1)adj|vicious (1)adj|rough (1)n|cat
+	adv|actual&dadj-LY .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 5518.
+*MOT:	you need a sweet for being a good gentle boy „ do you ? %snd:"3-00-18"_3323532_3325540
+%mor:	pro:per|you v|need det:art|a n|sweet prep|for n:gerund|be-PRESP
+	det:art|a (1)adj|good (1)adj|gentle (1)n|boy end|end v|do pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-18.cha": line 5718.
+*MOT:	it (h)as got a little red heart that says +"/. %snd:"3-00-18"_3414878_3417269
+%mor:	pro:per|it aux|have&3S part|get&PASTP det:art|a (1)adj|little (1)adj|red
+	(1)n|heart pro:rel|that v|say-3S +"/.
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 413.
+*MOT:	the little brown thing ? %snd:"3-00-22"_232294_233431
+%mor:	det:art|the (1)adj|little (1)adj|brown (1)n|thing ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 1144.
+*MOT:	he's a jolly nice person to know [?] , Thomas „ isn't he ? %snd:"3-00-22"_644127_646600
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|jolly (1)adj|nice (1)n|person inf|to
+	v|know cm|cm n:prop|Thomas end|end cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 1213.
+*MOT:	it was a great big tall thing as high as +//. [+ IN] %snd:"3-00-22"_678741_681957
+%mor:	pro:per|it cop|be&PAST&13S det:art|a adj|great (1)adj|big (1)adj|tall
+	(1)n|thing prep|as n|high adv|as +//.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 1629.
+*MOT:	ah nice little duck . %snd:"3-00-22"_914524_916394
+%mor:	co|ah (1)adj|nice (1)adj|little (1)n|duck .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 2690.
+*MOT:	that was a nice little treat for bank holiday Monday „ wasn't it ? %snd:"3-00-22"_1551816_1554556
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|nice (1)adj|little (1)n|treat
+	prep|for n|bank n|holiday n:prop|Monday end|end
+	cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-22.cha": line 3695.
+*MOT:	wipe that lovely little mouth . %snd:"3-00-22"_2155649_2157321
+%mor:	n|wipe pro:rel|that (1)adj|love&dn-LY (1)adj|little (1)n|mouth .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-23.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-23.cha": line 1302.
+*MOT:	it's a jolly good job we didn't put any food out or Purdie would be even more upset . %snd:"3-00-23"_687076_690849
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|jolly (1)adj|good (1)n|job pro:sub|we
+	mod|do&PAST~neg|not v|put&ZERO qn|any n|food adv|out coord|or
+	n:prop|Purdie mod|will&COND cop|be adv|even adv|more adj|upset .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-24.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-24.cha": line 317.
+*MOT:	and I saw some little lolly pops that they used to have in the sweetie shop when I was a little girl . %snd:"3-00-24"_228922_233903
+%mor:	coord|and pro:sub|I v|see&PAST qn|some (1)adj|little (1)adj|loll&dv-Y
+	(1)n|pop-PL pro:rel|that pro:sub|they v|use-PAST inf|to v|have prep|in
+	det:art|the co|sweetie n|shop conj|when pro:sub|I cop|be&PAST&13S
+	det:art|a adj|little n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-24.cha": line 2789.
+*MOT:	you got a little wooden train for your birthday that spells your name . %snd:"3-00-24"_1958246_1961799
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|little (1)adj|wooden (1)n|train
+	prep|for det:poss|your n|+n|birth+n|day pro:rel|that v|spell-3S
+	det:poss|your n|name .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-25.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-25.cha": line 679.
+*MOT:	and it makes a jolly good post sack for you „ doesn't it ? %snd:"3-00-25"_342724_346896
+%mor:	coord|and pro:per|it v|make-3S det:art|a (1)adj|jolly (1)adj|good (1)n|post
+	n|sack prep|for pro:per|you end|end mod|do&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-25.cha": line 5336.
+*INV:	lovely best friends . %snd:"3-00-25"_2994913_2996097
+%mor:	(1)adj|love&dn-LY (1)adj|good&SP (1)n|friend-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 888.
+*MOT:	happy third birthday . [+ R] %snd:"3-00-26"_441087_442202
+%mor:	(1)adj|happy (1)adj|third (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 1465.
+*MOT:	happy third birthday . [+ R] %snd:"3-00-26"_718026_719663
+%mor:	(1)adj|happy (1)adj|third (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 2257.
+*MOT:	happy third birthday . [+ R] %snd:"3-00-26"_1141183_1142182
+%mor:	(1)adj|happy (1)adj|third (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 2409.
+*MOT:	to wish you a happy third birthday . %snd:"3-00-26"_1219800_1221414
+%mor:	inf|to v|wish pro:per|you det:art|a (1)adj|happy (1)adj|third
+	(1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 3511.
+*MOT:	happy third birthday . [+ R] %snd:"3-00-26"_1800922_1802188
+%mor:	(1)adj|happy (1)adj|third (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 3575.
+*MOT:	wishing you a very happy third birthday . [+ R] %snd:"3-00-26"_1828699_1830464
+%mor:	part|wish-PRESP pro:per|you det:art|a adv|very (1)adj|happy (1)adj|third
+	(1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 3897.
+*MOT:	that's a jolly nice card „ isn't it ? %snd:"3-00-26"_1993762_1995840
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|jolly (1)adj|nice (1)n|card end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 3942.
+*MOT:	Thomas , happy third birthday . [+ R] %snd:"3-00-26"_2017419_2019149
+%mor:	n:prop|Thomas cm|cm (1)adj|happy (1)adj|third (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 4585.
+*MOT:	and there's a little easter card there with daffodils on from Auntie_Barbra . %snd:"3-00-26"_2411087_2414234
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a (1)adj|little
+	(1)adj|east-CP (1)n|card adv|there prep|with n|daffodil-PL adv|on
+	prep|from n:prop|Auntie_Barbra .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 4624.
+*MOT:	nice easter cards . %snd:"3-00-26"_2428378_2430537
+%mor:	(1)adj|nice (1)adj|east-CP (1)n|card-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 4755.
+*MOT:	it was a great big jelly snake „ wasn't it ? %snd:"3-00-26"_2499147_2502247
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|jelly
+	n|snake end|end cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 5397.
+*MOT:	must be a lonely little bird . %snd:"3-00-26"_2823781_2825012
+%mor:	mod|must cop|be det:art|a (1)adj|lonely (1)adj|little (1)n|bird .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 5577.
+*MOT:	my gorgeous little boy . %snd:"3-00-26"_2915757_2917591
+%mor:	det:poss|my (1)adj|gorgeous (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 5755.
+*MOT:	cheeky little horror „ aren't you ? %snd:"3-00-26"_3004097_3006338
+%mor:	(1)adj|cheek&dn-Y (1)adj|little (1)n|horror end|end aux|be&PRES~neg|not
+	pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 5762.
+*MOT:	cheeky little horror . %snd:"3-00-26"_3007763_3009260
+%mor:	(1)adj|cheek&dn-Y (1)adj|little (1)n|horror .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-00-26.cha": line 7013.
+*MOT:	it (h)as been a bright sunny day . %snd:"3-00-26"_3668660_3669728
+%mor:	pro:per|it aux|have&3S aux|be&PASTP det:art|a (1)adj|bright
+	(1)adj|sun&dn-Y (1)n|day .
+
+    Strings matched 16 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha": line 626.
+*MOT:	put her some nice fresh food down . %snd:"3-01-00"_390165_392336
+%mor:	v|put&ZERO pro:obj|her qn|some (1)adj|nice (1)adj|fresh (1)n|food adv|down .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha": line 853.
+*MOT:	we used to have a Teletubbies bowl but that went missing a long long time ago . %snd:"3-01-00"_593509_598107
+%mor:	pro:sub|we v|use-PAST inf|to v|have det:art|a n:prop|Teletubbies
+	n|bowl conj|but det:dem|that v|go&PAST part|miss-PRESP det:art|a
+	(1)adj|long (1)adj|long (1)n|time adv|ago .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha": line 3052.
+*MOT:	the big green bin ? %snd:"3-01-00"_2029877_2031026
+%mor:	det:art|the (1)adj|big (1)adj|green (1)n|bin ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha": line 3300.
+*MOT:	so that white [//] that little white pin goes into that black hole like that . %snd:"3-01-00"_2178192_2182719
+%mor:	co|so det:dem|that det:dem|that (1)adj|little (1)adj|white (1)n|pin v|go-3S
+	prep|into det:dem|that adj|black n|hole prep|like pro:dem|that .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-00.cha": line 4361.
+*MOT:	a big round snake ?
+%mor:	det:art|a (1)adj|big (1)adj|round (1)n|snake ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 64.
+*MOT:	bang the big huge drum . %snd:"3-01-01"_38665_40731
+%mor:	v|bang det:art|the (1)adj|big (1)adj|huge (1)n|drum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 1227.
+*MOT:	so poor old Purdie . %snd:"3-01-01"_848719_850344
+%mor:	adv|so (1)adj|poor (1)adj|old (1)n:prop|Purdie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 1570.
+*MOT:	my new blue t+shirt . %snd:"3-01-01"_1030468_1032105
+%mor:	det:poss|my (1)adj|new (1)adj|blue (1)n|+n|t+n|shirt .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 1736.
+*MOT:	oh beautiful brown eyes . %snd:"3-01-01"_1120631_1122663
+%mor:	co|oh (1)adj|beautiful (1)adj|brown (1)n|eye-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 2788.
+*MOT:	funny old rain . %snd:"3-01-01"_1916507_1918086
+%mor:	(1)adj|fun&dn-Y (1)adj|old (1)n|rain .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 2864.
+*MOT:	so when it is a nice sunny afternoon and you want to play in the sandpit the sand's all lovely and dry and clean . %snd:"3-01-01"_1958257_1965490
+%mor:	co|so conj|when pro:per|it cop|be&3S det:art|a (1)adj|nice
+	(1)adj|sun&dn-Y (1)n|afternoon coord|and pro:per|you v|want prep|to n|play
+	prep|in det:art|the n|+n|sand+n|pit det:art|the n|sand~aux|be&3S
+	qn|all adj|love&dn-LY coord|and adj|dry coord|and v|clean .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 2982.
+*MOT:	is that a nice rainy sound ? %snd:"3-01-01"_2072426_2073946
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|nice (1)adj|rain&dn-Y (1)n|sound ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 4358.
+*MOT:	can you see this beautiful white swirly pattern ? %snd:"3-01-01"_2859086_2861965
+%mor:	mod|can pro:per|you v|see pro:dem|this adj|beautiful (1)adj|white
+	(1)adj|swirl&dn-Y (1)n|pattern ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-01.cha": line 5215.
+*MOT:	that's a beautiful oval shape . %snd:"3-01-01"_3324391_3326097
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|beautiful (1)adj|oval (1)n|shape .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-03.cha": line 801.
+*MOT:	you've got a little blue toothbrush that Sister_Eileen bought you for your third birthday . %snd:"3-01-03"_430788_435293
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|little (1)adj|blue
+	(1)n|+n|tooth+n|brush pro:rel|that n:prop|Sister_Eileen v|buy&PAST
+	pro:per|you prep|for det:poss|your adj|third n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-03.cha": line 3445.
+*MOT:	do you mean little ladders going up to the cab ? %snd:"3-01-03"_2010607_2012790
+%mor:	mod|do pro:per|you (1)adj|mean (1)adj|little (1)n|ladder-PL part|go-PRESP
+	adv|up prep|to det:art|the n|cab ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-03.cha": line 5636.
+*MOT:	that's a nice little treat „ isn't it ? %snd:"3-01-03"_3290775_3292517
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|treat
+	end|end cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-04.cha": line 1804.
+*MOT:	he's a nice little boy „ isn't he ? %snd:"3-01-04"_1338146_1339911
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|boy end|end
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-04.cha": line 2709.
+*MOT:	a nice brown teapot . %snd:"3-01-04"_1860906_1861846
+%mor:	det:art|a (1)adj|nice (1)adj|brown (1)n|+n|tea+n|pot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-04.cha": line 6639.
+*MOT:	they don't just dip them in a glaze like Auntie_Mabel's plain brown tea pot . %snd:"3-01-04"_3901705_3905560
+%mor:	pro:sub|they mod|do~neg|not adv|just n|dip pro:obj|them prep|in
+	det:art|a n|glaze prep|like n:prop|Auntie_Mabel~poss|s (1)adj|plain
+	(1)adj|brown (1)n|tea n|pot .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-06.cha": line 61.
+*INV:	he's a big strong lad „ isn't he ? %snd:"3-01-06"_30223_31558
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|strong (1)n|lad end|end
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-06.cha": line 2783.
+*INV:	there's a big squeaky man on the line . %snd:"3-01-06"_1458200_1459605
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|squeak&dv-Y (1)n|man
+	prep|on det:art|the n|line .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-06.cha": line 5386.
+*MOT:	it (h)as got little red eyes . %snd:"3-01-06"_2895821_2897690
+%mor:	pro:per|it aux|have&3S v|get&PAST (1)adj|little (1)adj|red (1)n|eye-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 3184.
+*MOT:	that's a jolly good idea . %snd:"3-01-12"_1863229_1864111
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|jolly (1)adj|good (1)n|idea .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 4119.
+*MOT:	sort of pinky greeny colors +/. [+ IN] %snd:"3-01-12"_2357569_2359055
+%mor:	n|sort prep|of (1)adj|pink-Y (1)adj|green&dv-Y (1)n|color-PL +/.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 5448.
+*MOT:	big green lorry . %snd:"3-01-12"_3042981_3043939
+%mor:	(1)adj|big (1)adj|green (1)n|lorry .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 5811.
+*MOT:	he looked through the window and saw a big <yellow a> [//] yellow balloon . [+ R] %snd:"3-01-12"_3257511_3262731
+%mor:	pro:sub|he cop|look-PAST prep|through det:art|the n|window
+	coord|and v|see&PAST det:art|a (1)adj|big (1)adj|yellow (1)n|balloon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 5816.
+*MOT:	a big yellow balloon with a ticket tied to the string . [+ R] %snd:"3-01-12"_3263361_3266503
+%mor:	det:art|a (1)adj|big (1)adj|yellow (1)n|balloon prep|with det:art|a n|ticket
+	v|tie-PAST prep|to det:art|the n|string .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 5865.
+*MOT:	teddy wanted a big yellow balloon like the one he had seen outside his window . [+ R] %snd:"3-01-12"_3300139_3304782
+%mor:	n|teddy v|want-PAST det:art|a (1)adj|big (1)adj|yellow (1)n|balloon
+	prep|like det:art|the pro:indef|one pro:sub|he aux|have&PAST
+	part|see&PASTP prep|outside det:poss|his n|window .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 5879.
+*MOT:	teddy did like his round smily face . [+ R] %snd:"3-01-12"_3310572_3313730
+%mor:	n|teddy v|do&PAST prep|like det:poss|his (1)adj|round (1)adj|smile&dv-Y
+	(1)n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 6117.
+*MOT:	you're my big yellow balloon . [+ R] %snd:"3-01-12"_3444171_3445908
+%mor:	pro:per|you~aux|be&PRES det:poss|my (1)adj|big (1)adj|yellow (1)n|balloon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 6319.
+*MOT:	the big yellow balloon gave a little tug on it's string taking Teddy up into the air once more . [+ R] %snd:"3-01-12"_3571558_3576762
+%mor:	det:art|the (1)adj|big (1)adj|yellow (1)n|balloon v|give&PAST det:art|a
+	adj|little n|tug adv|on pro:per|it~cop|be&3S n|string
+	part|take-PRESP n:prop|Teddy adv|up prep|into det:art|the n|air
+	adv|once pro:indef|more .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 6337.
+*MOT:	very soon Teddy was back in his bed with the big yellow balloon smiling at him . [+ R] %snd:"3-01-12"_3582943_3587262
+%mor:	adv|very adv|soon n:prop|Teddy aux|be&PAST&13S adv|back prep|in
+	det:poss|his n|bed prep|with det:art|the (1)adj|big (1)adj|yellow
+	(1)n|balloon part|smile-PRESP prep|at pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 6375.
+*MOT:	soon Teddy was back in his bed with the big yellow balloon smiling at him . [+ R] %snd:"3-01-12"_3601223_3605282
+%mor:	adv|soon n:prop|Teddy aux|be&PAST&13S adv|back prep|in det:poss|his
+	n|bed prep|with det:art|the (1)adj|big (1)adj|yellow (1)n|balloon
+	part|smile-PRESP prep|at pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-12.cha": line 6406.
+*MOT:	my big yellow balloon ! [+ R] %snd:"3-01-12"_3620783_3622358
+%mor:	det:poss|my (1)adj|big (1)adj|yellow (1)n|balloon !
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 763.
+*MOT:	where they huddled <and cuddled> [>1] their own [>2] little ted(dy) .
+	[+ R] %snd:"3-01-13"_413019_418604
+%mor:	adv:int|where pro:sub|they v|huddle-PAST coord|and v|cuddle-PAST
+	det:poss|their (1)adj|own (1)adj|little (1)n|teddy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 2811.
+*MOT:	their coats can be speckled (.) short (.) long (.) thick and fluffy . [+ R] %snd:"3-01-13"_1363582_1368887
+%mor:	det:poss|their n|coat-PL mod|can aux|be part|speckle-PASTP
+	(1)adj|short (1)adj|long (1)n|thick coord|and adj|fluff&dn-Y .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 3269.
+*MOT:	that big [/] big huge fish . %snd:"3-01-13"_1581935_1583270
+%mor:	pro:dem|that (1)adj|big (1)adj|huge (1)n|fish .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 3272.
+*MOT:	this big [/] big huge fish as you're calling it has quite a few feathers on it „ doesn't it ? %snd:"3-01-13"_1583363_1588030
+%mor:	pro:dem|this (1)adj|big (1)adj|huge (1)n|fish adv|as pro:per|you~aux|be&PRES
+	part|call-PRESP pro:per|it aux|have&3S adv|quite det:art|a qn|few
+	n|feather-PL adv|on pro:per|it end|end mod|do&3S~neg|not pro:per|it
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 3870.
+*MOT:	a fancy flowery collar . %snd:"3-01-13"_1853171_1854843
+%mor:	det:art|a (1)adj|fancy (1)adj|flower&dn-Y (1)n|collar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 4294.
+*MOT:	that's a beautiful little pussy cat house „ isn't it ? %snd:"3-01-13"_2061843_2063782
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|beautiful (1)adj|little (1)n|pussy
+	n|cat n|house end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 5074.
+*MOT:	is everything a jolly good idea ? %snd:"3-01-13"_2485493_2487479
+%mor:	aux|be&3S pro:indef|everything det:art|a (1)adj|jolly (1)adj|good (1)n|idea
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 5640.
+*MOT:	I saw a slippery slithery snake [>] . [+ R] %snd:"3-01-13"_2787088_2792557
+%mor:	pro:sub|I v|see&PAST det:art|a (1)adj|slippery (1)adj|slither&dv-Y
+	(1)n|snake .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 5657.
+*MOT:	go away from my pretty green garden said I . [+ R] %snd:"3-01-13"_2801846_2805701
+%mor:	v|go adv|away prep|from det:poss|my (1)adj|pretty (1)adj|green (1)n|garden
+	v|say&PAST pro:sub|I .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 5662.
+*MOT:	hiss@o said the slippery slithery snake as he slid through the grass making them +... [+ IN] [+ R] %snd:"3-01-13"_2806348_2817610
+%mor:	on|hiss v|say&PAST det:art|the (1)adj|slippery (1)adj|slither&dv-Y
+	(1)n|snake conj|as pro:sub|he v|slide&PAST prep|through det:art|the
+	n|grass part|make-PRESP pro:obj|them +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 5704.
+*MOT:	but that slippery slithery snake (.) we've done this before (.) ourselves . %snd:"3-01-13"_2835105_2838472
+%mor:	conj|but pro:dem|that (1)adj|slippery (1)adj|slither&dv-Y (1)n|snake
+	pro:sub|we~aux|have part|do&PASTP pro:dem|this prep|before
+	pro:refl|ourselves .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-13.cha": line 6271.
+*MOT:	two little dicky birds . [+ R] %snd:"3-01-13"_3135655_3137699
+%mor:	det:num|two (1)adj|little (1)adj|dick&dn-Y (1)n|bird-PL .
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-14.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-14.cha": line 1706.
+*MOT:	you're [<] a good little fireman . %snd:"3-01-14"_950184_951531
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little
+	(1)n|+n|fire+n|man .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-14.cha": line 2400.
+*MOT:	<big high tree> [>] . %snd:"3-01-14"_1327194_1330375
+%mor:	(1)adj|big (1)adj|high (1)n|tree .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-15.cha": line 2112.
+*MOT:	you enjoy it but it used to get you ratty last year „ didn't you ? %snd:"3-01-15"_1088877_1092256
+%mor:	pro:per|you v|enjoy pro:per|it conj|but pro:per|it v|use-PAST
+	inf|to v|get pro:per|you (1)adj|rat&dn-Y (1)adj|last (1)n|year end|end
+	mod|do&PAST~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-16.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-16.cha": line 1242.
+*INV:	I'm going to build a big tall tower . %snd:"3-01-16"_426355_430767
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|build det:art|a (1)adj|big
+	(1)adj|tall (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-16.cha": line 3066.
+*MOT:	naughty naughty Bob_The_Builder . %snd:"3-01-16"_1458015_1459931
+%mor:	(1)adj|naughty (1)adj|naughty (1)n:prop|Bob_The_Builder .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha": line 254.
+*MOT:	warm wooly socks . [+ R] %snd:"3-01-19"_120852_122361
+%mor:	(1)adj|warm (1)adj|wool&dn-Y (1)n|sock-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha": line 1311.
+*MOT:	little tiny bear (h)as climbed inside one of the shoes in the shoe cupboard . %snd:"3-01-19"_625927_629004
+%mor:	(1)adj|little (1)adj|tiny (1)n|bear aux|have&3S part|climb-PASTP prep|inside
+	pro:indef|one prep|of det:art|the n|shoe-PL prep|in det:art|the
+	n|shoe n|cupboard .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha": line 4035.
+*MOT:	she's a nice little girl , Rachel „ isn't she ? %snd:"3-01-19"_2079131_2081697
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|girl cm|cm
+	n:prop|Rachel end|end cop|be&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha": line 6352.
+*MOT:	I'm going to have some nice crumbly Lancashire cheese . %snd:"3-01-19"_3373690_3377474
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|have qn|some (1)adj|nice
+	(1)adj|crumble&dv-Y (1)n:prop|Lancashire n|cheese .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-19.cha": line 6625.
+*MOT:	does it look like the flippy floppy scarecrow ? %snd:"3-01-19"_3559154_3561302
+%mor:	mod|do&3S pro:per|it cop|look conj|like det:art|the (1)adj|flip&dv-Y
+	(1)adj|flop&dv-Y (1)n|+n|scare+n|crow ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha": line 98.
+*MOT:	<so when> [//] and when the little red light on [//] is on it means the machine itself is turned on . %snd:"3-01-21"_42210_46935
+%mor:	coord|and conj|when det:art|the (1)adj|little (1)adj|red (1)n|light
+	cop|be&3S prep|on pro:per|it v|mean-3S det:art|the n|machine
+	pro:refl|itself aux|be&3S part|turn-PASTP adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha": line 3548.
+*MOT:	and we'll put some nice fresh clean clothes on . %snd:"3-01-21"_2307986_2310227
+%mor:	coord|and pro:sub|we~mod|will v|put&ZERO qn|some adj|nice (1)adj|fresh
+	(1)adj|clean (1)n:pt|clothes adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha": line 3827.
+*MOT:	Pooh was pretending to be a small black cloud . [+ R] %snd:"3-01-21"_2486532_2489214
+%mor:	n:prop|Pooh aux|be&PAST&13S part|pretend-PRESP inf|to cop|be
+	det:art|a (1)adj|small (1)adj|black (1)n|cloud .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha": line 3966.
+*MOT:	Eeyore is an old grey donkey . [+ R] %snd:"3-01-21"_2556653_2558975
+%mor:	n:prop|Eeyore cop|be&3S det:art|a (1)adj|old (1)adj|grey (1)n|donkey .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-21.cha": line 5635.
+*MOT:	with my <flippy flappy hat> [>] . %snd:"3-01-21"_3552124_3553878
+%mor:	prep|with det:poss|my (1)adj|flip&dv-Y (1)adj|flap&dv-Y (1)n|hat .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha": line 868.
+*MOT:	they're slippery slimy things „ aren't they ? %snd:"3-01-23"_521231_523263
+%mor:	pro:sub|they~aux|be&PRES (1)adj|slippery (1)adj|slime&dn-Y (1)n|thing-PL
+	end|end aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha": line 1450.
+*MOT:	we haven't had hot cross buns for a long time „ have we ? %snd:"3-01-23"_933708_936669
+%mor:	pro:sub|we aux|have~neg|not v|have&PAST (1)adj|hot (1)adj|cross (1)n|bun-PL
+	prep|for det:art|a adj|long n|time end|end v|have pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha": line 1464.
+*MOT:	we haven't got any hot cross buns but I wondered if you'd like to try that because that's quite like it . %snd:"3-01-23"_939017_943301
+%mor:	pro:sub|we aux|have~neg|not part|get&PASTP qn|any (1)adj|hot (1)adj|cross
+	(1)n|bun-PL conj|but pro:sub|I v|wonder-PAST conj|if
+	pro:per|you~mod|genmod co|like inf|to v|try pro:rel|that
+	conj|because pro:rel|that~aux|be&3S adv|quite co|like pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha": line 1483.
+*MOT:	oh we haven't got any hot cross buns , Thomas . %snd:"3-01-23"_951420_953219
+%mor:	co|oh pro:sub|we aux|have~neg|not part|get&PASTP qn|any (1)adj|hot
+	(1)adj|cross (1)n|bun-PL cm|cm n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-23.cha": line 2543.
+*MOT:	I've got this nice crumbly Lancashire cheese here . %snd:"3-01-23"_1631624_1633470
+%mor:	pro:sub|I~aux|have part|get&PASTP pro:dem|this (1)adj|nice
+	(1)adj|crumble&dv-Y (1)n:prop|Lancashire n|cheese adv|here .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha": line 347.
+*MOT:	look at their thin tall legs . %snd:"3-01-26"_182070_183428
+%mor:	cop|look prep|at det:poss|their (1)adj|thin (1)adj|tall (1)n|leg-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha": line 727.
+*MOT:	and funny enough Mummy needs some new glasses . %snd:"3-01-26"_382687_384789
+%mor:	coord|and (1)adj|fun&dn-Y (1)adj|enough (1)n:prop|Mummy v|need-3S qn|some
+	adj|new n|glass-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha": line 1408.
+*MOT:	if an orange light flashes this side the car's going right . %snd:"3-01-26"_742188_747157
+%mor:	conj|if det:art|a (1)adj|orange (1)adj|light (1)n|flash-PL pro:dem|this
+	v|side det:art|the n|car~aux|be&3S n:gerund|go-PRESP adj|right .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha": line 3238.
+*MOT:	you've got little milky mouth . %snd:"3-01-26"_1744933_1747022
+%mor:	pro:per|you~aux|have v|get&PAST (1)adj|little (1)adj|milk&dn-Y (1)n|mouth .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-26.cha": line 3277.
+*MOT:	Rachel said her Mummy made a jelly for her party and Thomas said my Mummy makes nice brown icy biscuits . %snd:"3-01-26"_1766777_1772442
+%mor:	n:prop|Rachel v|say&PAST pro:obj|her n:prop|Mummy v|make&PAST
+	det:art|a n|jelly conj|for det:poss|her n|party coord|and
+	n:prop|Thomas v|say&PAST det:poss|my n:prop|Mummy v|make-3S adj|nice
+	(1)adj|brown (1)adj|ice&dn-Y (1)n|biscuit-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-27.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-27.cha": line 216.
+*INV:	it's a big fat tummy . %snd:"3-01-27"_113623_115051
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-27.cha": line 1739.
+*MOT:	it was very hot last night . %snd:"3-01-27"_929766_931705
+%mor:	pro:per|it cop|be&PAST&13S adv|very (1)adj|hot (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-27.cha": line 2497.
+*MOT:	you cheeky little boy . %snd:"3-01-27"_1919426_1920878
+%mor:	pro:per|you (1)adj|cheek&dn-Y (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-27.cha": line 5404.
+*MOT:	Mummy goes round the garden dead heading the flowers and Thomas comes with me with a little blue bucket . %snd:"3-01-27"_3631314_3635854
+%mor:	n:prop|Mummy v|go-3S adv|round det:art|the n|garden adj|dead
+	n|heading det:art|the n|flower-PL coord|and n:prop|Thomas v|come-3S
+	prep|with pro:obj|me prep|with det:art|a (1)adj|little (1)adj|blue
+	(1)n|bucket .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-28.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-28.cha": line 1652.
+*MOT:	and do you remember this little yellow car that [>] Daddy had bought you in Spain ? %snd:"3-01-28"_904403_909105
+%mor:	coord|and v|do pro:per|you v|remember pro:dem|this (1)adj|little
+	(1)adj|yellow (1)n|car pro:rel|that n:prop|Daddy v|have&PAST v|buy&PAST
+	pro:per|you prep|in n:prop|Spain ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-28.cha": line 1689.
+*MOT:	<nice little fire engine „ isn't it> [<] ? %snd:"3-01-28"_928474_930320
+%mor:	(1)adj|nice (1)adj|little (1)n|fire n|engine end|end cop|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-28.cha": line 2153.
+*MOT:	hot cross buns . %snd:"3-01-28"_1236131_1237292
+%mor:	(1)adj|hot (1)adj|cross (1)n|bun-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 60.
+*MOT:	that beautiful black dress ? %snd:"3-01-30"_22958_24306
+%mor:	pro:dem|that (1)adj|beautiful (1)adj|black (1)n|dress ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 3188.
+*MOT:	there's a beautiful fresh green shoot +/. [+ IN] %snd:"3-01-30"_1800758_1802639
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|beautiful (1)adj|fresh (1)n|green
+	co|shoot +/.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 3712.
+*MOT:	I think those are quiet important letters , Thomas . %snd:"3-01-30"_2085020_2086889
+%mor:	pro:sub|I v|think pro:dem|those cop|be&PRES (1)adj|quiet (1)adj|important
+	(1)n|letter-PL cm|cm n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 4575.
+*MOT:	and so actually she (h)as got a little bald patch on her neck now . %snd:"3-01-30"_2587056_2589459
+%mor:	coord|and adv|so adv|actual&dadj-LY pro:sub|she aux|have&3S
+	part|get&PASTP det:art|a (1)adj|little (1)adj|bald (1)n|patch prep|on
+	det:poss|her n|neck adv|now .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 4785.
+*MOT:	and can you see this little grey plastic ball with a hole in it ? %snd:"3-01-30"_2732728_2735921
+%mor:	coord|and mod|can pro:per|you v|see pro:dem|this (1)adj|little
+	(1)adj|grey (1)n|plastic n|ball prep|with det:art|a n|hole prep|in
+	pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 5005.
+*MOT:	wrapped round all the chairs was a very [/] very fine red sort of cotton wool thing . %snd:"3-01-30"_2847396_2853108
+%mor:	v|wrap-PAST adv|round adv|all det:art|the n|chair-PL
+	aux|be&PAST&13S det:art|a adv|very (1)adj|fine (1)adj|red (1)n|sort prep|of
+	n|cotton n|wool n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 5049.
+*MOT:	this little grey ball . %snd:"3-01-30"_2871850_2872918
+%mor:	pro:dem|this (1)adj|little (1)adj|grey (1)n|ball .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 5170.
+*MOT:	let's get one of these nice strong bags . %snd:"3-01-30"_2933801_2936216
+%mor:	v|let~pro:obj|us v|get pro:indef|one prep|of pro:dem|these (1)adj|nice
+	(1)adj|strong (1)n|bag-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 5274.
+*MOT:	that's a nice glittery red one „ isn't it ? %snd:"3-01-30"_2980865_2982629
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|glitter&dv-Y (1)n|red
+	det:num|one end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-01-30.cha": line 5307.
+*MOT:	and we always used to get Purdie a nice shiny collar at Christmas . %snd:"3-01-30"_3005608_3009683
+%mor:	coord|and pro:sub|we adv|always part|use-PASTP inf|to v|get
+	n:prop|Purdie det:art|a (1)adj|nice (1)adj|shine&dn-Y (1)n|collar prep|at
+	n:prop|Christmas .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-02.cha": line 2382.
+*MOT:	she asked for a long sleeved top „ didn't she ? %snd:"3-02-02"_1256732_1258775
+%mor:	pro:sub|she v|ask-PAST prep|for det:art|a (1)adj|long (1)adj|sleeved
+	(1)n|top end|end mod|do&PAST~neg|not pro:sub|she ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-02.cha": line 3292.
+*MOT:	we should have put a happy second birthday „ shouldn't we ? %snd:"3-02-02"_1774766_1776855
+%mor:	pro:sub|we mod|should aux|have v|put&ZERO det:art|a (1)adj|happy
+	(1)adj|second (1)n|+n|birth+n|day end|end mod|should~neg|not pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-02.cha": line 3745.
+*MOT:	look at this pink pretty card with a pretty pink ribbon . %snd:"3-02-02"_1991312_1994017
+%mor:	cop|look prep|at pro:dem|this (1)adj|pink (1)adj|pretty (1)n|card prep|with
+	det:art|a adj|pretty n|pink n|ribbon .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha": line 400.
+*MOT:	because you (h)ad already told me you were hiding behind the settee (.) I had a jolly good idea where to look . %snd:"3-02-03"_199094_205874
+%mor:	conj|because pro:per|you v|have&PAST adv|already v|tell&PAST
+	pro:obj|me pro:per|you aux|be&PAST part|hide-PRESP prep|behind
+	det:art|the n|settee pro:sub|I v|have&PAST det:art|a (1)adj|jolly
+	(1)adj|good (1)n|idea adv:int|where inf|to cop|look .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha": line 2348.
+*MOT:	that's a great big punnet of strawberries „ isn't it ? %snd:"3-02-03"_1331504_1333686
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|punnet prep|of
+	n|strawberry-PL end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha": line 4146.
+*MOT:	if I was wearing a blue and white stripy top I wouldn't know how to get it off . %snd:"3-02-03"_2416874_2420090
+%mor:	conj|if pro:sub|I aux|be&PAST&13S part|wear-PRESP det:art|a n|blue
+	coord|and (1)adj|white (1)adj|stripe&dn-Y (1)n|top pro:sub|I
+	mod|will&COND~neg|not v|know adv:int|how inf|to v|get pro:per|it
+	adv|off .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha": line 5765.
+*MOT:	and let's do those smelly little piggys „ shall we ? %snd:"3-02-03"_3263672_3266203
+%mor:	coord|and v|let~pro:obj|us v|do pro:dem|those (1)adj|smell&dv-Y
+	(1)adj|little (1)n|pig-DIM-PL end|end mod|shall pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-03.cha": line 6027.
+*MOT:	big fluffy towel . %snd:"3-02-03"_3409678_3411594
+%mor:	(1)adj|big (1)adj|fluff&dn-Y (1)n|towel .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 1365.
+*MOT:	these big tall flowers . %snd:"3-02-04"_811501_813184
+%mor:	pro:dem|these (1)adj|big (1)adj|tall (1)n|flower-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 1453.
+*MOT:	little fluffy fluff fluff . %snd:"3-02-04"_867240_868239
+%mor:	(1)adj|little (1)adj|fluff&dn-Y (1)n|fluff n|fluff .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 4908.
+*MOT:	+, it'll make a really big soggy mess „ won't it ? %snd:"3-02-04"_2923357_2926492
+%mor:	pro:per|it~mod|will v|make det:art|a adv|real&dadj-LY (1)adj|big
+	(1)adj|soggy (1)n|mess end|end mod|will~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 5409.
+*MOT:	do you mean ants (.) those little crawly creepy [//] creepy crawlie things we saw on the pavement ? %snd:"3-02-04"_3246064_3249790
+%mor:	mod|do pro:per|you adj|mean n|ant-PL pro:dem|those adj|little
+	(1)adj|crawl&dv-Y (1)adj|creep&dn-Y (1)n|crawl-DIM n|thing-PL pro:sub|we
+	v|see&PAST prep|on det:art|the n|pavement ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 5472.
+*MOT:	horrible little things . %snd:"3-02-04"_3280002_3281140
+%mor:	(1)adj|horrible (1)adj|little (1)n|thing-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-04.cha": line 6391.
+*MOT:	it's a big dangerous driving along on the roads with the doors swinging open . %snd:"3-02-04"_3823624_3827385
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|dangerous
+	(1)n:gerund|drive-PRESP adv|along prep|on det:art|the n|road-PL
+	prep|with det:art|the n|door-PL part|swing-PRESP adj|open .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-05.cha": line 3618.
+*INV:	but then my [/] my big expensive pound (h)as gone . %snd:"3-02-05"_1823479_1825952
+%mor:	conj|but adv:tem|then det:poss|my (1)adj|big (1)adj|expensive (1)n|pound
+	aux|have&3S part|go&PASTP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-06.cha": line 5940.
+*MOT:	I saw great big jets of water flying in the air . %snd:"3-02-06"_3834979_3838102
+%mor:	pro:sub|I v|see&PAST (1)adj|great (1)adj|big (1)n|jet-PL prep|of n|water
+	part|fly-PRESP prep|in det:art|the n|air .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 109.
+*MOT:	about a yellow balloon and a big smily face . %snd:"3-02-09"_52088_55246
+%mor:	prep|about det:art|a adj|yellow n|balloon coord|and det:art|a
+	(1)adj|big (1)adj|smile&dv-Y (1)n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 2417.
+*MOT:	this little green truck from the wooden train set „ didn't it ? %snd:"3-02-09"_1328477_1332459
+%mor:	pro:dem|this (1)adj|little (1)adj|green (1)n|truck prep|from det:art|the
+	adj|wooden n|train v|set&ZERO end|end mod|do&PAST~neg|not pro:per|it
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 4892.
+*MOT:	you're a clever little boy „ aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|clever (1)adj|little (1)n|boy
+	end|end aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 5260.
+*MOT:	when little red tractor and Stan go to the market they come back with Jeremy (.) an old cart horse who surprises them all at Gosling_Farm . [+ R]
+%mor:	conj|when (1)adj|little (1)adj|red (1)n|tractor coord|and n:prop|Stan v|go
+	prep|to det:art|the n|market pro:sub|they v|come adv|back prep|with
+	n:prop|Jeremy det:art|a adj|old n|cart n|horse pro:rel|who
+	n|surprise-PL pro:obj|them adv|all prep|at n:prop|Gosling_Farm .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 5723.
+*MOT:	oh that was an even better kiss .
+%mor:	co|oh pro:rel|that cop|be&PAST&13S det:art|a (1)adj|even (1)adj|good&CP
+	(1)n|kiss .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-09.cha": line 5837.
+*MOT:	there's a little black train .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|black (1)n|train .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-10.cha": line 505.
+*MOT:	these long thin pieces of wood . %snd:"3-02-10"_276725_279221
+%mor:	pro:dem|these (1)adj|long (1)adj|thin (1)n|piece-PL prep|of n|wood .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-10.cha": line 519.
+*MOT:	long thin brown envelopes . %snd:"3-02-10"_284493_286142
+%mor:	adv|long (1)adj|thin (1)adj|brown (1)n|envelope-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-10.cha": line 522.
+*MOT:	and do you know what long thin brown envelopes usually have in them ? %snd:"3-02-10"_286142_288708
+%mor:	coord|and v|do pro:per|you v|know pro:int|what adv|long (1)adj|thin
+	(1)adj|brown (1)n|envelope-PL adv|usual&dadj-LY v|have adv|in pro:obj|them
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-10.cha": line 3562.
+*MOT:	when it comes out it comes out as big chunks [/] big chunks of fluff . %snd:"3-02-10"_2541899_2547065
+%mor:	conj|when pro:per|it v|come-3S adv|out pro:per|it v|come-3S adv|out
+	adv|as (1)adj|big (1)adj|big (1)n|chunk-PL prep|of n|fluff .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-12.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-12.cha": line 4223.
+*MOT:	he was terribly upset last night because there was something on television . %snd:"3-02-12"_1715382_1718030
+%mor:	pro:sub|he cop|be&PAST&13S adv|terrible&dadj-LY (1)adj|upset (1)adj|last
+	(1)n|night conj|because adv|there cop|be&PAST&13S pro:indef|something
+	prep|on n|television .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-02-12.cha": line 6200.
+*INV:	are you wiping your hands on my lovely clean skirt ? %snd:"3-02-12"_2685427_2688086
+%mor:	cop|be&PRES pro:per|you part|wipe-PRESP det:poss|your n|hand-PL
+	prep|on det:poss|my (1)adj|love&dn-LY (1)adj|clean (1)n|skirt ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-02.cha": line 4880.
+*MOT:	a big clever smart boy . %snd:"3-03-02"_2775291_2777825
+%mor:	det:art|a adj|big (1)adj|clever (1)adj|smart (1)n|boy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 2223.
+*MOT:	but &-um (..) we'll keep these in the cupboard for when we haven't got nice fresh peaches . %snd:"3-03-03"_1112948_1117575
+%mor:	conj|but pro:sub|we~mod|will v|keep pro:dem|these prep|in
+	det:art|the n|cupboard prep|for adv:int|when pro:sub|we
+	aux|have~neg|not v|get&PAST (1)adj|nice (1)adj|fresh (1)n|peach-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 3797.
+*MOT:	+, and we want a nice hot drink +... [+ IN] %snd:"3-03-03"_1932768_1935221
+%mor:	coord|and pro:sub|we v|want det:art|a (1)adj|nice (1)adj|hot (1)n|drink +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 3838.
+*MOT:	it's like a very thin sharp drinking straw . %snd:"3-03-03"_1958074_1960661
+%mor:	pro:per|it~cop|be&3S conj|like det:art|a adv|very (1)adj|thin
+	(1)adj|sharp (1)n:gerund|drink-PRESP n|straw .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 4428.
+*MOT:	nice big pasta jar . %snd:"3-03-03"_2231706_2233520
+%mor:	(1)adj|nice (1)adj|big (1)n|pasta n|jar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 4481.
+*MOT:	and it makes lovely fresh orange juice . %snd:"3-03-03"_2258080_2259773
+%mor:	coord|and pro:per|it v|make-3S (1)adj|love&dn-LY (1)adj|fresh (1)n|orange
+	n|juice .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 6044.
+*MOT:	they're wearing blue dungarees and a little white t+shirt (.) but it (h)as got quite long hair .
+%mor:	pro:sub|they~aux|be&PRES n:gerund|wear-PRESP adj|blue n|dungaree-PL
+	coord|and det:art|a (1)adj|little (1)adj|white (1)n|+n|t+n|shirt conj|but
+	pro:per|it aux|have&3S v|get&PAST adv|quite adj|long n|hair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-03.cha": line 6496.
+*MOT:	she's mixing all the ingredients in a blue and white stripy bowl „ isn't she ?
+%mor:	pro:sub|she~aux|be&3S part|mix-PRESP qn|all det:art|the
+	n|ingredient-PL prep|in det:art|a n|blue coord|and (1)adj|white
+	(1)adj|stripe&dn-Y (1)n|bowl end|end cop|be&3S~neg|not pro:sub|she ?
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 873.
+*MOT:	nice cold water . %snd:"3-03-04"_441955_443476
+%mor:	(1)adj|nice (1)adj|cold (1)n|water .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 1367.
+*MOT:	well stuff is a jolly good word . %snd:"3-03-04"_681183_683435
+%mor:	co|well n|stuff cop|be&3S det:art|a (1)adj|jolly (1)adj|good (1)n|word .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 3306.
+*MOT:	I don't know what those are called but those are very delicate pink flowers . %snd:"3-03-04"_1633153_1636334
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what det:dem|those
+	aux|be&PRES part|call-PASTP conj|but pro:dem|those cop|be&PRES
+	adv|very (1)adj|delicate (1)adj|pink (1)n|flower-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 3474.
+*MOT:	there's some more of these delicate pink flowers again . %snd:"3-03-04"_1724967_1728241
+%mor:	pro:exist|there~cop|be&3S qn|some qn|more prep|of pro:dem|these
+	(1)adj|delicate (1)adj|pink (1)n|flower-PL adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 4647.
+*MOT:	when along came an angel with bright golden hair . [+ R] %snd:"3-03-04"_2320389_2324243
+%mor:	conj|when adv|along v|come&PAST det:art|a n|angel prep|with
+	(1)adj|bright (1)adj|golden (1)n|hair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 5222.
+*MOT:	and there was you upstairs in a beautiful little crib with all soft covers . %snd:"3-03-04"_2610588_2616799
+%mor:	coord|and adv|there cop|be&PAST&13S pro:per|you adv|upstairs
+	prep|in det:art|a (1)adj|beautiful (1)adj|little (1)n|crib prep|with adv|all
+	adj|soft n|cover-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-04.cha": line 5477.
+*MOT:	green (.) yellow (.) orange . %snd:"3-03-04"_2737142_2740230
+%mor:	(1)adj|green (1)adj|yellow (1)n|orange .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 1949.
+*MOT:	I'd like a nice hot bath . %snd:"3-03-06"_1163784_1165293
+%mor:	pro:sub|I~mod|genmod prep|like det:art|a (1)adj|nice (1)adj|hot (1)n|bath .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 1952.
+*MOT:	and some nice clean pyjamas . %snd:"3-03-06"_1165456_1167905
+%mor:	coord|and qn|some (1)adj|nice (1)adj|clean (1)n:pt|pyjamas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 1961.
+*MOT:	a nice hot drink . %snd:"3-03-06"_1170123_1171714
+%mor:	det:art|a (1)adj|nice (1)adj|hot (1)n|drink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 2037.
+*MOT:	you know what we call your special green blanket ? %snd:"3-03-06"_1201431_1204183
+%mor:	pro:per|you v|know pro:int|what pro:sub|we v|call det:poss|your
+	(1)adj|special (1)adj|green (1)n|blanket ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 2042.
+*MOT:	can you imagine if you were a little lost bear and you (h)ad been found and you had a nice hot bath nice clean pyjamas . %snd:"3-03-06"_1204912_1211262
+%mor:	mod|can pro:per|you v|imagine conj|if pro:per|you cop|be&PAST
+	det:art|a adj|little v|lose&PAST n|bear coord|and pro:per|you
+	aux|have&PAST aux|be&PASTP part|find&PASTP coord|and pro:per|you
+	v|have&PAST det:art|a (1)adj|nice (1)adj|hot (1)n|bath (2)adj|nice (2)adj|clean
+	(2)n:pt|pyjamas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 3280.
+*MOT:	that's a beautiful shiny smooth shell . %snd:"3-03-06"_1811106_1814113
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|beautiful (1)adj|shine&dn-Y
+	(1)adj|smooth (1)n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 3639.
+*MOT:	this is a beautiful shiny stone . %snd:"3-03-06"_2006655_2009650
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|beautiful (1)adj|shine&dn-Y
+	(1)n|stone .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 4061.
+*MOT:	big bright ear phones . %snd:"3-03-06"_2231375_2233384
+%mor:	(1)adj|big (1)adj|bright (1)n|ear n|phone-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 4064.
+*MOT:	bright yellow ear phones . %snd:"3-03-06"_2233268_2235032
+%mor:	(1)adj|bright (1)adj|yellow (1)n|ear n|phone-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 4573.
+*MOT:	Charlotte isn't blue with a big round face . %snd:"3-03-06"_2499756_2502670
+%mor:	n:prop|Charlotte cop|be&3S~neg|not n|blue prep|with det:art|a
+	(1)adj|big (1)adj|round (1)n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 4606.
+*MOT:	that's a nice big brush . %snd:"3-03-06"_2522424_2524003
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|brush .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 5553.
+*MOT:	it's a beautiful blue towel with a big sunny bright yellow La la „ isn't it ? %snd:"3-03-06"_2998773_3004125
+%mor:	pro:per|it~cop|be&3S det:art|a adj|beautiful n|blue n|towel
+	prep|with det:art|a adj|big (1)adj|sun&dn-Y (1)adj|bright (1)n|yellow
+	n:prop|La co|la end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-06.cha": line 6564.
+*MOT:	they're going to a nice big hotel „ are they ? %snd:"3-03-06"_3525761_3527595
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP prep|to det:art|a (1)adj|nice
+	(1)adj|big (1)n|hotel end|end cop|be&PRES pro:sub|they ?
+
+    Strings matched 14 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 1725.
+*INV:	(be)cause &-um [//] and then we'll put a lovely picturesque tree on the chimney . %snd:"3-03-07"_794035_797878
+%mor:	conj|because coord|and adv:tem|then pro:sub|we~mod|will v|put&ZERO
+	det:art|a (1)adj|love&dn-LY (1)adj|picturesque (1)n|tree prep|on det:art|the
+	n|chimney .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 2286.
+*INV:	big [/] big long shape [/] shape like this . %snd:"3-03-07"_1078939_1081528
+%mor:	(1)adj|big (1)adj|long (1)n|shape prep|like pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 3505.
+*INV:	Purdie (h)as got lovely long hair and lovely long whiskers . %snd:"3-03-07"_1642576_1646326
+%mor:	n:prop|Purdie aux|have&3S part|get&PASTP (1)adj|love&dn-LY (1)adj|long
+	(1)n|hair coord|and (2)adj|love&dn-LY (2)adj|long (2)n|whisker-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 3528.
+*INV:	you know lovely long whiskers ? %snd:"3-03-07"_1652707_1654297
+%mor:	pro:per|you v|know (1)adj|love&dn-LY (1)adj|long (1)n|whisker-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 3988.
+*MOT:	<you've been> [>] a nice little boy all morning . %snd:"3-03-07"_1859427_1862074
+%mor:	pro:per|you~aux|have cop|be&PASTP det:art|a (1)adj|nice (1)adj|little
+	(1)n|boy adv|all n|morning .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 4005.
+*INV:	where (h)as my nice [/] <nice friendly quiet Thomas > [>] ? %snd:"3-03-07"_1863944_1867055
+%mor:	adv:int|where v|have&3S det:poss|my (1)adj|nice (1)adj|friend&dn-LY
+	(1)n|quiet n:prop|Thomas ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 4433.
+*MOT:	but we found a little yellow train &-um wooden train that works (.) and we have a yellow car that works . %snd:"3-03-07"_2027881_2032374
+%mor:	conj|but pro:sub|we v|find&PAST det:art|a (1)adj|little (1)adj|yellow
+	(1)n|train adj|wooden n|train pro:rel|that v|work-3S coord|and
+	pro:sub|we v|have det:art|a n|yellow n|car pro:rel|that v|work-3S .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-03-07.cha": line 5902.
+*INV:	big red roofs on the house . %snd:"3-03-07"_2692495_2694016
+%mor:	(1)adj|big (1)adj|red (1)n|roof-PL prep|on det:art|the n|house .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-00.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-00.cha": line 260.
+*MOT:	there's an old wine bottle cork . %snd:"3-04-00"_151810_153354
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|old (1)adj|wine (1)n|bottle
+	n|cork .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-00.cha": line 679.
+*MOT:	and we thought it would be a nice little present something you could play with inside . %snd:"3-04-00"_404371_408248
+%mor:	coord|and pro:sub|we v|think&PAST pro:per|it mod|will&COND cop|be
+	det:art|a (1)adj|nice (1)adj|little (1)n|present pro:indef|something
+	pro:per|you mod|could v|play prep|with adv|inside .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-00.cha": line 4476.
+*MOT:	poor old Thomas_Henry . %snd:"3-04-00"_3259724_3261443
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Thomas_Henry .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-01.cha": line 157.
+*MOT:	nice hot water to dissolve the jelly crystals . %snd:"3-04-01"_71847_74587
+%mor:	(1)adj|nice (1)adj|hot (1)n|water inf|to v|dissolve det:art|the n|jelly
+	n|crystal-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-01.cha": line 760.
+*MOT:	and we'll carefully lift [/] lift this nice big bowl of red jelly to the centre of that plate . %snd:"3-04-01"_352021_363956
+%mor:	coord|and pro:sub|we~mod|will adv|care&dadj-FULL-LY v|lift
+	pro:dem|this (1)adj|nice (1)adj|big (1)n|bowl prep|of n|red n|jelly prep|to
+	det:art|the n|centre prep|of pro:dem|that n|plate .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-01.cha": line 6463.
+*MOT:	you can't have the big noisy fire engine in the bath .
+%mor:	pro:per|you mod|can~neg|not v|have det:art|the (1)adj|big
+	(1)adj|noise&dn-Y (1)n|fire n|engine prep|in det:art|the n|bath .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-02.cha": line 6920.
+*MOT:	I've read in a book James is a cheerful red engine .
+%mor:	pro:sub|I~aux|have v|read&ZERO prep|in det:art|a n|book
+	n:prop|James cop|be&3S det:art|a (1)adj|cheer&dn-FULL (1)adj|red (1)n|engine
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 632.
+*MOT:	so last night doesn't necessarily mean last night „ does it ? %snd:"3-04-03"_419993_423697
+%mor:	adv|so adj|last n|night mod|do&3S~neg|not adv|necessary&dadj-LY
+	(1)adj|mean (1)adj|last (1)n|night end|end mod|do&3S pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 906.
+*MOT:	<a funny little boy> [>] +... [+ IN] %snd:"3-04-03"_610799_612304
+%mor:	det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|boy +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 3470.
+*MOT:	I need a little joint putting in at the elbow please . %snd:"3-04-03"_2145084_2147290
+%mor:	pro:sub|I v|need det:art|a (1)adj|little (1)adj|joint (1)n:gerund|put-PRESP
+	adv|in prep|at det:art|the n|elbow co|please .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 4695.
+*MOT:	am I a funny little fellow [>] ? %snd:"3-04-03"_2738981_2740990
+%mor:	aux|be&1S pro:sub|I det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|fellow ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 5713.
+*MOT:	I suppose you're quite a nice useful dustbin cat „ aren't you ? %snd:"3-04-03"_3216548_3220356
+%mor:	pro:sub|I v|suppose pro:per|you~aux|be&PRES adv|quite det:art|a
+	(1)adj|nice (1)adj|use&dn-FULL (1)n|+n|dust+n|bin n|cat end|end
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-03.cha": line 6124.
+*MOT:	but your proper little ambulance . %snd:"3-04-03"_3380341_3381873
+%mor:	conj|but det:poss|your (1)adj|proper (1)adj|little (1)n|ambulance .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-04.cha": line 1739.
+*INV:	I'd like to report a very loud young boy called Thomas . %snd:"3-04-04"_820838_824008
+%mor:	pro:sub|I~mod|genmod v|like inf|to v|report det:art|a adv|very
+	(1)adj|loud (1)adj|young (1)n|boy part|call-PASTP n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-04-04.cha": line 3584.
+*INV:	I bet he caught a nasty cold sleeping outside all that time „ don't you ? %snd:"3-04-04"_1642039_1645371
+%mor:	pro:sub|I n|bet pro:sub|he v|catch&PAST det:art|a (1)adj|nasty
+	(1)adj|cold (1)n:gerund|sleep-PRESP adv|outside adv|all pro:dem|that
+	n|time end|end mod|do~neg|not pro:per|you ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-02.cha": line 5782.
+*MOT:	the cushion makes a jolly good &+tele [//] television „ doesn't it ? %snd:"3-05-02"_3221370_3224771
+%mor:	det:art|the n|cushion v|make-3S det:art|a (1)adj|jolly (1)adj|good
+	(1)n|television end|end mod|do&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 16.
+*MOT:	is that your new mobile telephone ? %snd:"3-05-03"_11035_13775
+%mor:	cop|be&3S pro:rel|that det:poss|your (1)adj|new (1)adj|mobile (1)n|telephone
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 985.
+*MOT:	we're both making a nice crunchy sound this morning . %snd:"3-05-03"_562850_565892
+%mor:	pro:sub|we~aux|be&PRES qn|both part|make-PRESP det:art|a (1)adj|nice
+	(1)adj|crunch&dv-Y (1)n|sound pro:dem|this n|morning .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 2260.
+*MOT:	well I suggested that Julian talk to the people who own that because that's a nice big room . %snd:"3-05-03"_1409408_1414767
+%mor:	co|well pro:sub|I v|suggest-PAST pro:rel|that n:prop|Julian n|talk
+	prep|to det:art|the n|person&PL pro:rel|who adj|own pro:rel|that
+	conj|because pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big
+	(1)n|room .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 3347.
+*MOT:	oh that's a nice big strawberry „ isn't it ? %snd:"3-05-03"_2132501_2135242
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big
+	(1)n|strawberry end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 3562.
+*MOT:	and cranberries are nice little fruits . %snd:"3-05-03"_2285633_2287866
+%mor:	coord|and n|cranberry-PL cop|be&PRES (1)adj|nice (1)adj|little (1)n|fruit-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 4985.
+*MOT:	they're nice little plastic children's scissors „ aren't they ? %snd:"3-05-03"_3129083_3131742
+%mor:	pro:sub|they~aux|be&PRES (1)adj|nice (1)adj|little (1)n|plastic
+	n|child&PL~poss|s n|scissors end|end aux|be&PRES~neg|not
+	pro:sub|they ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-03.cha": line 5863.
+*MOT:	a bright shiny sun . %snd:"3-05-03"_3663802_3665744
+%mor:	det:art|a (1)adj|bright (1)adj|shine&dn-Y (1)n|sun .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 1690.
+*MOT:	you went to bed alright last night . %snd:"3-05-04"_957320_958878
+%mor:	pro:per|you v|go&PAST prep|to n|bed (1)adj|alright (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 3573.
+*MOT:	it's nice &+bl [//] brown bread „ isn't it ? %snd:"3-05-04"_2206699_2208516
+%mor:	pro:per|it~cop|be&3S (1)adj|nice (1)adj|brown (1)n|bread end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 3587.
+*MOT:	nice fresh bread . %snd:"3-05-04"_2213737_2215170
+%mor:	(1)adj|nice (1)adj|fresh (1)n|bread .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 4280.
+*MOT:	are you talking about drawing a nice little rest ? %snd:"3-05-04"_2637879_2640921
+%mor:	cop|be&PRES pro:per|you part|talk-PRESP prep|about n|drawing
+	det:art|a (1)adj|nice (1)adj|little (1)n|rest ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 4552.
+*MOT:	big round sun . %snd:"3-05-04"_2798944_2800813
+%mor:	(1)adj|big (1)adj|round (1)n|sun .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-04.cha": line 5515.
+*MOT:	that's a very nice mobile phone . %snd:"3-05-04"_3353176_3355243
+%mor:	pro:dem|that~cop|be&3S det:art|a adv|very (1)adj|nice (1)adj|mobile
+	(1)n|phone .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-05.cha": line 2750.
+*MOT:	I like this big orange carrot . %snd:"3-05-05"_1284076_1286340
+%mor:	pro:sub|I v|like pro:dem|this (1)adj|big (1)adj|orange (1)n|carrot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-05-05.cha": line 4530.
+*MOT:	and have a nice warm drink . %snd:"3-05-05"_2116329_2118152
+%mor:	coord|and v|have det:art|a (1)adj|nice (1)adj|warm (1)n|drink .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 2168.
+*MOT:	can you see that little dirty handprint [>] ? %snd:"3-06-00"_1140038_1142685
+%mor:	mod|can pro:per|you v|see pro:rel|that (1)adj|little (1)adj|dirt&dn-Y
+	(1)n|+n|hand+n|print ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 3607.
+*MOT:	bumpity bump [/] bumpity bump . %snd:"3-06-00"_1987827_1989464
+%mor:	(1)adj|bumpity (1)adj|bumpity (1)n|bump .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 3742.
+*MOT:	as the bus is going bumpity bumpity bump . %snd:"3-06-00"_2065565_2068096
+%mor:	prep|as det:art|the n|bus aux|be&3S part|go-PRESP (1)adj|bumpity
+	(1)adj|bumpity (1)n|bump .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 3796.
+*MOT:	and he's handing him the little white kitten . %snd:"3-06-00"_2091059_2092812
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP pro:obj|him
+	det:art|the (1)adj|little (1)adj|white (1)n|kitten .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 3807.
+*MOT:	and he's handing him the little white kitten . %snd:"3-06-00"_2095237_2099266
+%mor:	coord|and pro:sub|he~aux|be&3S part|hand-PRESP pro:obj|him
+	det:art|the (1)adj|little (1)adj|white (1)n|kitten .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 5994.
+*MOT:	but anyway the [//] they managed to clear the line and before long lots_of new young trees were planted . %snd:"3-06-00"_3283986_3289025
+%mor:	conj|but co|anyway pro:sub|they v|manage-PAST prep|to adv|clear
+	det:art|the n|line coord|and prep|before adv|long qn|lots_of (1)adj|new
+	(1)adj|young (1)n|tree-PL aux|be&PAST part|plant-PASTP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-00.cha": line 6172.
+*MOT:	that's a nice little book . %snd:"3-06-00"_3378211_3379326
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|book .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-01.cha": line 6434.
+*INV:	<you &+cheek [//] who's a cheeky little boy (.) eh> [<] ? %snd:"3-06-01"_3341954_3344368
+%mor:	pro:per|you pro:rel|who~aux|be&3S det:art|a (1)adj|cheek&dn-Y
+	(1)adj|little (1)n|boy co|eh ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-02.cha": line 5179.
+*MOT:	light green b@l . %snd:"3-06-02"_2965606_2967777
+%mor:	(1)adj|light (1)adj|green (1)n:let|b .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-02.cha": line 5185.
+*MOT:	<light green> [<] c@l . %snd:"3-06-02"_2967906_2969983
+%mor:	(1)adj|light (1)adj|green (1)n:let|c .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-02.cha": line 5208.
+*MOT:	look we can make a little wriggly snake . %snd:"3-06-02"_2980809_2982783
+%mor:	cop|look pro:sub|we mod|can v|make det:art|a (1)adj|little
+	(1)adj|wriggle&dv-Y (1)n|snake .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-02.cha": line 5663.
+*MOT:	<you cheeky little monkey> [<] ! %snd:"3-06-02"_3271112_3273135
+%mor:	pro:per|you (1)adj|cheek&dn-Y (1)adj|little (1)n|monkey !
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 532.
+*MOT:	and some nice warm water . %snd:"3-06-03"_275961_277772
+%mor:	coord|and qn|some (1)adj|nice (1)adj|warm (1)n|water .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 1200.
+*MOT:	but (.) in the summer (.) the few days that we had nice sunny sun (.) we didn't need Wellingtons or warm coats (.) or umbrellas . %snd:"3-06-03"_638753_650000
+%mor:	conj|but prep|in det:art|the n|summer det:art|the qn|few n|day-PL
+	pro:rel|that pro:sub|we v|have&PAST (1)adj|nice (1)adj|sun&dn-Y (1)n|sun
+	pro:sub|we mod|do&PAST~neg|not v|need n:prop|Wellingtons coord|or
+	adj|warm n|coat-PL coord|or n|umbrella-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 1480.
+*MOT:	so if I don't eat I could be big hungry Mum „ won't I ? %snd:"3-06-03"_819221_822460
+%mor:	adv|so conj|if pro:sub|I mod|do~neg|not v|eat pro:sub|I mod|could
+	cop|be (1)adj|big (1)adj|hungry (1)n:prop|Mum end|end mod|will~neg|not
+	pro:sub|I ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 2784.
+*MOT:	you know that photograph up there of you in the green short sleeved shirt ? %snd:"3-06-03"_1554151_1557088
+%mor:	pro:per|you v|know pro:dem|that v|photograph adv|up adv|there
+	prep|of pro:per|you prep|in det:art|the adj|green (1)adj|short
+	(1)adj|sleeved (1)n|shirt ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 3141.
+*MOT:	is Matthew a nice little boy ? %snd:"3-06-03"_1741472_1743214
+%mor:	cop|be&3S n:prop|Matthew det:art|a (1)adj|nice (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-03.cha": line 3272.
+*MOT:	I do think Anthony's a nice little boy though . %snd:"3-06-03"_1811784_1813897
+%mor:	pro:sub|I mod|do v|think n:prop|Anthony~poss|s det:art|a (1)adj|nice
+	(1)adj|little (1)n|boy adv|though .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-04.cha": line 1486.
+*MOT:	are they nice rosy red apples ? %snd:"3-06-04"_854673_856589
+%mor:	cop|be&PRES pro:sub|they (1)adj|nice (1)adj|rose-Y (1)n|red n|apple-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-04.cha": line 2202.
+*MOT:	you look like a pretty big lorry to me . %snd:"3-06-04"_1305183_1307452
+%mor:	pro:per|you cop|look conj|like det:art|a (1)adj|pretty (1)adj|big (1)n|lorry
+	prep|to pro:obj|me .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-06-04.cha": line 3238.
+*MOT:	she didn't have a nice soft landing like you just had then „ did she ? %snd:"3-06-04"_1907866_1911059
+%mor:	pro:sub|she mod|do&PAST~neg|not v|have det:art|a (1)adj|nice (1)adj|soft
+	(1)n:gerund|land-PRESP prep|like pro:per|you adv|just v|have&PAST
+	adv:tem|then end|end mod|do&PAST pro:sub|she ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-01.cha": line 395.
+*MOT:	but (.) &-um (.) what you're holding now (.) little fiber+optic torch
+	is beautiful „ isn't it ? %snd:"3-07-01"_213426_220264
+%mor:	conj|but pro:int|what pro:per|you~aux|be&PRES part|hold-PRESP
+	adv|now (1)adj|little (1)adj|+n|fiber+adj|optic (1)n|torch cop|be&3S
+	adj|beautiful end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-01.cha": line 2881.
+*MOT:	you've got bright yellow trousers on like Fireman_Sam „ haven't you ? %snd:"3-07-01"_1692409_1695428
+%mor:	pro:per|you~aux|have v|get&PAST (1)adj|bright (1)adj|yellow (1)n|trouser-PL
+	prep|on v|like n:prop|Fireman_Sam end|end aux|have~neg|not
+	pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-01.cha": line 3256.
+*MOT:	but it looks a very big blue boat . %snd:"3-07-01"_1926854_1928584
+%mor:	conj|but pro:per|it cop|look-3S det:art|a adv|very (1)adj|big (1)adj|blue
+	(1)n|boat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-01.cha": line 3701.
+*MOT:	his big blue bucket . %snd:"3-07-01"_2211437_2212679
+%mor:	det:poss|his (1)adj|big (1)adj|blue (1)n|bucket .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 654.
+*MOT:	I don't like her being called the little old woman . %snd:"3-07-02"_419376_421350
+%mor:	pro:sub|I mod|do~neg|not v|like pro:obj|her part|be-PRESP
+	part|call-PASTP det:art|the (1)adj|little (1)adj|old (1)n|woman .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 2187.
+*MOT:	it was a great big dome shape . %snd:"3-07-02"_1361229_1363063
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|dome
+	n|shape .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 3175.
+*MOT:	in the middle of the Village_Green there would be a great big bonfire . %snd:"3-07-02"_1864302_1866775
+%mor:	prep|in det:art|the n|middle prep|of det:art|the
+	n:prop|Village_Green adv|there mod|will&COND cop|be det:art|a
+	(1)adj|great (1)adj|big (1)n|bonfire .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 3268.
+*MOT:	I'm a big fat jam doughnut . %snd:"3-07-02"_1919417_1920787
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|big (1)adj|fat (1)n|jam n|doughnut .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 3300.
+*MOT:	oh I could be the big pink pig after the doughnut . %snd:"3-07-02"_1932332_1935071
+%mor:	co|oh pro:sub|I mod|could cop|be det:art|the (1)adj|big (1)adj|pink (1)n|pig
+	prep|after det:art|the n|doughnut .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 4338.
+*MOT:	and Thomas will be wearing a bright yellow coat . %snd:"3-07-02"_2479049_2480930
+%mor:	coord|and n:prop|Thomas mod|will aux|be part|wear-PRESP det:art|a
+	(1)adj|bright (1)adj|yellow (1)n|coat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 4343.
+*MOT:	and I will be holding a bright yellow umbrella . %snd:"3-07-02"_2481104_2483647
+%mor:	coord|and pro:sub|I mod|will aux|be part|hold-PRESP det:art|a
+	(1)adj|bright (1)adj|yellow (1)n|umbrella .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 5977.
+*MOT:	you're quite a big little boy „ aren't you ? %snd:"3-07-02"_3397222_3398894
+%mor:	pro:per|you~aux|be&PRES adv|quite det:art|a (1)adj|big (1)adj|little
+	(1)n|boy end|end aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-02.cha": line 6353.
+*MOT:	it's beautiful soft Play_Doh that . %snd:"3-07-02"_3573860_3576472
+%mor:	pro:per|it~cop|be&3S (1)adj|beautiful (1)adj|soft (1)n:prop|Play_Doh
+	pro:dem|that .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 783.
+*MOT:	wearing a bright green top . %snd:"3-07-03"_534632_535886
+%mor:	part|wear-PRESP det:art|a (1)adj|bright (1)adj|green (1)n|top .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 1188.
+*MOT:	you know great big wheelie bins like Nana and Grandad have . %snd:"3-07-03"_737751_740293
+%mor:	pro:per|you v|know (1)adj|great (1)adj|big (1)n|wheel-DIM n|bin-PL co|like
+	n:prop|Nana coord|and n:prop|Grandad v|have .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 2077.
+*MOT:	this man in the big white van (h)as driven off . %snd:"3-07-03"_1164099_1166293
+%mor:	pro:dem|this n|man prep|in det:art|the (1)adj|big (1)adj|white (1)n|van
+	aux|have&3S part|drive&PASTP adv|off .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 3202.
+*MOT:	when you come in from the cold oh 0 [=! shivering noise] it's nice to have a nice hot drink . %snd:"3-07-03"_1836327_1840518
+%mor:	conj|when pro:per|you v|come adv|in prep|from det:art|the n|cold
+	co|oh pro:per|it~cop|be&3S adj|nice inf|to v|have det:art|a (1)adj|nice
+	(1)adj|hot (1)n|drink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 3209.
+*MOT:	a nice warm drink . %snd:"3-07-03"_1840495_1841621
+%mor:	det:art|a (1)adj|nice (1)adj|warm (1)n|drink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 3240.
+*MOT:	they had a nice warm bath . %snd:"3-07-03"_1856398_1857663
+%mor:	pro:sub|they v|have&PAST det:art|a (1)adj|nice (1)adj|warm (1)n|bath .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 3253.
+*MOT:	a nice warm drink „ didn't they ? %snd:"3-07-03"_1866473_1868226
+%mor:	det:art|a (1)adj|nice (1)adj|warm (1)n|drink end|end mod|do&PAST~neg|not
+	pro:sub|they ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 4785.
+*MOT:	oh that's a long long time ago . %snd:"3-07-03"_2789799_2791680
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 5924.
+*MOT:	but if we get them on our clothes or if they touch the curtains or the wallpaper they leave a really nasty yellow mark . %snd:"3-07-03"_3464695_3471168
+%mor:	conj|but conj|if pro:sub|we v|get pro:obj|them prep|on det:poss|our
+	n:pt|clothes coord|or conj|if pro:sub|they v|touch det:art|the
+	n|curtain-PL coord|or det:art|the n|+n|wall+n|paper pro:sub|they
+	v|leave det:art|a adv|real&dadj-LY (1)adj|nasty (1)adj|yellow (1)n|mark .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 6109.
+*MOT:	or was that a long long time ago when you first started ? %snd:"3-07-03"_3580472_3583465
+%mor:	coord|or cop|be&PAST&13S pro:rel|that det:art|a (1)adj|long (1)adj|long
+	(1)n|time adv|ago conj|when pro:per|you adv|first part|start-PASTP ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 6117.
+*MOT:	a long long time ago when you first went and you were first upset . %snd:"3-07-03"_3583693_3586469
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago conj|when pro:per|you
+	adv|first v|go&PAST coord|and pro:per|you aux|be&PAST adv|first
+	adj|upset .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-03.cha": line 6179.
+*MOT:	because you say last night when you can mean a long long time ago . %snd:"3-07-03"_3613739_3616649
+%mor:	conj|because pro:per|you v|say adj|last n|night conj|when
+	pro:per|you mod|can v|mean det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago .
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-05.cha": line 515.
+*INV:	I'm not still smelly socks „ am I ? %snd:"3-07-05"_271236_273512
+%mor:	pro:sub|I~cop|be&1S neg|not (1)adj|still (1)adj|smell&dv-Y (1)n|sock-PL
+	end|end aux|be&1S pro:sub|I ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-05.cha": line 1141.
+*INV:	why don't you see if you can blow a huge big bubble for me „ huh ? %snd:"3-07-05"_576672_579783
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|see conj|if pro:per|you
+	mod|can v|blow det:art|a (1)adj|huge (1)adj|big (1)n|bubble prep|for
+	pro:obj|me end|end co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-05.cha": line 2477.
+*INV:	look at this tiny little snake . %snd:"3-07-05"_1274389_1276688
+%mor:	cop|look prep|at pro:dem|this (1)adj|tiny (1)adj|little (1)n|snake .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-07-05.cha": line 4168.
+*INV:	to make one great big long snake . %snd:"3-07-05"_2444266_2445305
+%mor:	inf|to v|make pro:indef|one adj|great (1)adj|big (1)adj|long (1)n|snake .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-01.cha": line 3835.
+*MOT:	poor little boy with hiccups . %snd:"3-08-01"_2271713_2273489
+%mor:	(1)adj|poor (1)adj|little (1)n|boy prep|with n|hiccup-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-01.cha": line 4404.
+*MOT:	because you've got nice little teeth . %snd:"3-08-01"_2594670_2596376
+%mor:	conj|because pro:per|you~aux|have v|get&PAST (1)adj|nice (1)adj|little
+	(1)n|tooth&PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 158.
+*MOT:	it's a small gold weight . %snd:"3-08-04"_98209_99579
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|small (1)adj|gold (1)n|weight .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 1358.
+*MOT:	things like hula hoops and ordinary crisps and little cheesy whatsits ? %snd:"3-08-04"_835124_838375
+%mor:	n|thing-PL co|like n|hula n|hoop-PL coord|and adj|ordinary
+	n|crisp-PL coord|and (1)adj|little (1)adj|cheese&dn-Y (1)n|whatsit-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 1599.
+*MOT:	nana and Grandad like ready steady cook „ don't they ? %snd:"3-08-04"_959591_962273
+%mor:	n|nana coord|and n:prop|Grandad co|like (1)adj|ready (1)adj|steady (1)n|cook
+	end|end mod|do~neg|not pro:sub|they ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 1806.
+*MOT:	+, you look a nice smart chef . %snd:"3-08-04"_1065390_1066632
+%mor:	pro:per|you cop|look det:art|a (1)adj|nice (1)adj|smart (1)n|chef .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 1888.
+*MOT:	it's beautiful green cake mixture there blind chef . %snd:"3-08-04"_1107976_1110483
+%mor:	pro:per|it~cop|be&3S (1)adj|beautiful (1)adj|green (1)n|cake n|mixture
+	adv|there adj|blind n|chef .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 1893.
+*MOT:	what a beautiful green cake mixture . %snd:"3-08-04"_1111400_1115499
+%mor:	pro:int|what det:art|a (1)adj|beautiful (1)adj|green (1)n|cake n|mixture .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 2523.
+*MOT:	tiny tiny fraction of shell . %snd:"3-08-04"_1460915_1463260
+%mor:	(1)adj|tiny (1)adj|tiny (1)n|fraction prep|of n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-04.cha": line 4804.
+*MOT:	she likes those little crunchy bits „ doesn't she ? %snd:"3-08-04"_2948681_2951874
+%mor:	pro:sub|she v|like-3S pro:dem|those (1)adj|little (1)adj|crunch&dv-Y
+	(1)n|bit-PL end|end mod|do&3S~neg|not pro:sub|she ?
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 2912.
+*MOT:	nice smooth board . %snd:"3-08-05"_1501845_1503076
+%mor:	(1)adj|nice (1)adj|smooth (1)n|board .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 2956.
+*MOT:	you've just improvised there with the weights from the weighing scales and a spoon and you (h)ad made your own little band „ hadn't you ? %snd:"3-08-05"_1533739_1539102
+%mor:	pro:per|you~aux|have adv|just v|improvise-PAST adv|there prep|with
+	det:art|the n|weight-PL prep|from det:art|the part|weigh-PRESP
+	n|scale-PL coord|and det:art|a n|spoon coord|and pro:per|you
+	aux|have&PAST part|make&PASTP det:poss|your (1)adj|own (1)adj|little
+	(1)n|band end|end aux|have&PAST~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 3431.
+*MOT:	this nice clean surface . %snd:"3-08-05"_1760340_1761698
+%mor:	pro:dem|this (1)adj|nice (1)adj|clean (1)n|surface .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 3874.
+*MOT:	can you see the little green light on there ? %snd:"3-08-05"_2003169_2005131
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|green (1)n|light
+	prep|on adv|there ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 6033.
+*MOT:	have I got the right little boy ? %snd:"3-08-05"_3174869_3175763
+%mor:	v|have pro:sub|I v|get&PAST det:art|the (1)adj|right (1)adj|little (1)n|boy
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-08-05.cha": line 6056.
+*MOT:	oh he's a nice little boy . %snd:"3-08-05"_3188046_3190287
+%mor:	co|oh pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 426.
+*MOT:	we've got a little spotty dog in a train with a trailer . %snd:"3-09-01"_234851_237777
+%mor:	pro:sub|we~aux|have part|get&PASTP det:art|a (1)adj|little
+	(1)adj|spot&dn-Y (1)n|dog prep|in det:art|a n|train prep|with det:art|a
+	n|trailer .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 1229.
+*MOT:	a soggy old balloon ? %snd:"3-09-01"_723369_725320
+%mor:	det:art|a (1)adj|soggy (1)adj|old (1)n|balloon ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 1609.
+*MOT:	I want some nice clean dry clothes . %snd:"3-09-01"_930243_932310
+%mor:	pro:sub|I v|want qn|some adj|nice (1)adj|clean (1)adj|dry (1)n:pt|clothes .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 1612.
+*MOT:	I think I'll go and have a nice bath and put a nice warm jumper on . %snd:"3-09-01"_932438_936629
+%mor:	pro:sub|I v|think pro:sub|I~mod|will v|go coord|and v|have
+	det:art|a adj|nice n|bath coord|and v|put&ZERO det:art|a (1)adj|nice
+	(1)adj|warm (1)n|jump&dv-AGT prep|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 4045.
+*MOT:	and I think that's the little (.) fleecy top for the other little girl „ don't you ? %snd:"3-09-01"_2419653_2424100
+%mor:	coord|and pro:sub|I v|think pro:dem|that~cop|be&3S det:art|the
+	(1)adj|little (1)adj|fleece&dn-Y (1)n|top prep|for det:art|the qn|other
+	adj|little n|girl end|end mod|do~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 4356.
+*MOT:	but it's a nice little word „ isn't it ? %snd:"3-09-01"_2602519_2604574
+%mor:	conj|but pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|word
+	end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 4436.
+*MOT:	look and there's a tiny little purple bird up there . %snd:"3-09-01"_2666850_2669532
+%mor:	co|look coord|and pro:exist|there~cop|be&3S det:art|a (1)adj|tiny
+	(1)adj|little (1)n|purple n|bird adv|up adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 4991.
+*MOT:	it's just little [/] little bits and pieces of paper . %snd:"3-09-01"_3020473_3023678
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|little (1)n|bit-PL coord|and
+	v|piece-3S prep|of n|paper .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 5058.
+*MOT:	I'll cut round it's paws and it's back leg and I'll mind it's little fluffy tail . %snd:"3-09-01"_3056334_3061466
+%mor:	pro:sub|I~mod|will n|cut adv|round pro:per|it~cop|be&3S n|paw-PL
+	coord|and pro:per|it~cop|be&3S adv|back n|leg coord|and
+	pro:sub|I~mod|will v|mind pro:per|it~cop|be&3S (1)adj|little
+	(1)adj|fluff&dn-Y (1)n|tail .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 5790.
+*MOT:	we've got a little orange top (.) three to six months . %snd:"3-09-01"_3529891_3533119
+%mor:	pro:sub|we~aux|have part|get&PASTP det:art|a (1)adj|little (1)adj|orange
+	(1)n|top det:num|three prep|to det:num|six n|month-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-01.cha": line 5856.
+*MOT:	don't pull great big lumps . %snd:"3-09-01"_3574893_3577633
+%mor:	mod|do~neg|not v|pull (1)adj|great (1)adj|big (1)n|lump-PL .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 1015.
+*MOT:	and the first little boy came down the aisle and he stood in front of baby Jesus in the crib and Mrs Platford said “what are you supposed to do with your present” ? %snd:"3-09-02"_603458_613710
+%mor:	coord|and det:art|the (1)adj|first (1)adj|little (1)n|boy v|come&PAST
+	prep|down det:art|the n|aisle coord|and pro:sub|he v|stand&PAST
+	prep|in n|front prep|of n|baby n:prop|Jesus prep|in det:art|the
+	n|crib coord|and n:prop|Mrs n:prop|Platford v|say&PAST bq|bq
+	pro:int|what aux|be&PRES pro:per|you v|suppose-PAST inf|to v|do
+	prep|with det:poss|your n|present eq|eq ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 1837.
+*MOT:	I think it'll fit her (be)cause she's only a very small little girl and you know what Zoe likes doing with her daddy ? %snd:"3-09-02"_1052958_1059599
+%mor:	pro:sub|I v|think pro:per|it~mod|will v|fit&ZERO pro:obj|her
+	conj|because pro:sub|she~aux|be&3S adv|only det:art|a adv|very
+	(1)adj|small (1)adj|little (1)n|girl coord|and pro:per|you v|know
+	pro:int|what n:prop|Zoe v|like-3S part|do-PRESP prep|with
+	det:poss|her n|daddy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 2600.
+*MOT:	so do you think Fireman_Sam was very busy last night ? %snd:"3-09-02"_1470958_1473617
+%mor:	adv|so v|do pro:per|you v|think n:prop|Fireman_Sam cop|be&PAST&13S
+	adv|very (1)adj|busy (1)adj|last (1)n|night ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 4397.
+*MOT:	I think it's a little victorian girl actually , Thomas . %snd:"3-09-02"_2495488_2498947
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S det:art|a (1)adj|little
+	(1)adj|victorian (1)n|girl adv|actual&dadj-LY cm|cm n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 4709.
+*MOT:	look , there's a little victorian boy now (.) and he's holding a teddy in one hand and a stick of candy (.) in the other . %snd:"3-09-02"_2676710_2684268
+%mor:	co|look cm|cm pro:exist|there~cop|be&3S det:art|a (1)adj|little
+	(1)adj|victorian (1)n|boy adv|now coord|and pro:sub|he~aux|be&3S
+	part|hold-PRESP det:art|a n|teddy prep|in det:num|one n|hand
+	coord|and det:art|a n|stick prep|of n|candy prep|in det:art|the
+	qn|other .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 4804.
+*MOT:	this little silver lantern . %snd:"3-09-02"_2722537_2723501
+%mor:	pro:dem|this (1)adj|little (1)adj|silver (1)n|lantern .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-02.cha": line 4874.
+*MOT:	a nice shiny red apple +/. [+ N] %snd:"3-09-02"_2759540_2761107
+%mor:	det:art|a adj|nice (1)adj|shine&dn-Y (1)adj|red (1)n|apple +/.
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha": line 2426.
+*MOT:	poor little boy . %snd:"3-09-03"_1557958_1558805
+%mor:	(1)adj|poor (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha": line 3264.
+*MOT:	but when the theme tune used to come on for north west news there used to be a picture of a tram driving through Manchester and you used to rush to the television and say <a bus a bus a bus> [/] a bus@q . %snd:"3-09-03"_2108054_2119049
+%mor:	conj|but conj|when det:art|the n|theme n|tune v|use-PAST inf|to
+	v|come adv|on prep|for (1)adj|north (1)adj|west (1)n|news adv|there
+	v|use-PAST inf|to cop|be det:art|a n|picture prep|of det:art|a
+	n|tram part|drive-PRESP prep|through n:prop|Manchester coord|and
+	pro:per|you v|use-PAST inf|to v|rush prep|to det:art|the
+	n|television coord|and v|say det:art|a meta|bus .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha": line 3416.
+*MOT:	a cheeky old bird snapped it off ? %snd:"3-09-03"_2208636_2210505
+%mor:	det:art|a (1)adj|cheek&dn-Y (1)adj|old (1)n|bird v|snap-PAST pro:per|it
+	adv|off ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha": line 4618.
+*MOT:	do you remember the little cheesy biscuits and cheesy whatsits and crisps ? %snd:"3-09-03"_2898890_2902164
+%mor:	mod|do pro:per|you v|remember det:art|the (1)adj|little
+	(1)adj|cheese&dn-Y (1)n|biscuit-PL coord|and adj|cheese&dn-Y n|whatsit-PL
+	coord|and n|crisp-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-03.cha": line 4654.
+*MOT:	we got back from Glossop with no problems then we went straight from the party we were walking back from the train station and then Mummy saw that shop Woolworths and I wanted to go and buy some little gold coins „ didn't I ? %snd:"3-09-03"_2916852_2927905
+%mor:	pro:sub|we v|get&PAST adv|back prep|from n:prop|Glossop prep|with
+	co|no n|problem-PL adv:tem|then pro:sub|we v|go&PAST adv|straight
+	prep|from det:art|the n|party pro:sub|we aux|be&PAST part|walk-PRESP
+	adv|back prep|from det:art|the n|train n|station coord|and
+	adv:tem|then n:prop|Mummy n|saw det:dem|that n|shop
+	n:prop|Woolworths coord|and pro:sub|I v|want-PAST inf|to v|go
+	coord|and v|buy qn|some (1)adj|little (1)adj|gold (1)n|coin-PL end|end
+	mod|do&PAST~neg|not pro:sub|I ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-04.cha": line 2805.
+*MOT:	<a brand new> [<] ambulance [>] .
+%mor:	det:art|a (1)adj|brand (1)adj|new (1)n|ambulance .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-04.cha": line 4761.
+*MOT:	and that little wooden fire engine that you used to play with when you were very [/] very young was still there .
+%mor:	coord|and pro:dem|that (1)adj|little (1)adj|wooden (1)n|fire n|engine
+	pro:rel|that pro:per|you v|use-PAST prep|to n|play prep|with
+	conj|when pro:per|you cop|be&PAST adv|very adj|young cop|be&PAST&13S
+	adv|still adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-04.cha": line 4776.
+*MOT:	and they've got two beautiful big garages .
+%mor:	coord|and pro:sub|they~aux|have part|get&PASTP det:num|two
+	(1)adj|beautiful (1)adj|big (1)n|garage-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha": line 1061.
+*MOT:	is James a nice little boy ? %snd:"3-09-05"_643095_644674
+%mor:	cop|be&3S n:prop|James det:art|a (1)adj|nice (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha": line 1243.
+*MOT:	he looks a nice little boy though „ does he ? %snd:"3-09-05"_790689_792848
+%mor:	pro:sub|he cop|look-3S det:art|a (1)adj|nice (1)adj|little (1)n|boy
+	adv|though end|end v|do&3S pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha": line 1251.
+*MOT:	he looks a nice little boy . %snd:"3-09-05"_794149_795496
+%mor:	pro:sub|he cop|look-3S det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha": line 1258.
+*MOT:	well Anthony's a nice little boy . %snd:"3-09-05"_798046_799765
+%mor:	co|well n:prop|Anthony~poss|s det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-09-05.cha": line 3649.
+*MOT:	very nice grey umbrella for the teddy bear . %snd:"3-09-05"_2279234_2281463
+%mor:	adv|very (1)adj|nice (1)adj|grey (1)n|umbrella prep|for det:art|the n|teddy
+	n|bear .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-00.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-00.cha": line 613.
+*MOT:	let me just try this little pink pig . %snd:"3-10-00"_336381_338064
+%mor:	v|let&ZERO pro:obj|me adv|just v|try pro:dem|this (1)adj|little
+	(1)adj|pink (1)n|pig .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-00.cha": line 1428.
+*MOT:	I want to get a nice glittery blue one . %snd:"3-10-00"_884025_886161
+%mor:	pro:sub|I v|want inf|to v|get det:art|a (1)adj|nice (1)adj|glitter&dv-Y
+	(1)n|blue pro:indef|one .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha": line 1894.
+*MOT:	the big wooden spoon's Bob and is the other one Sam ? %snd:"3-10-01"_1112502_1114894
+%mor:	det:art|the (1)adj|big (1)adj|wooden (1)n|spoon~poss|s n:prop|Bob coord|and
+	cop|be&3S det:art|the qn|other pro:indef|one n:prop|Sam ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha": line 3403.
+*MOT:	if we run out I've got some tiny tiny muffin cases that we'll put some extra in . %snd:"3-10-01"_1929234_1934481
+%mor:	conj|if pro:sub|we v|run adv|out pro:sub|I~aux|have v|get&PAST
+	qn|some (1)adj|tiny (1)adj|tiny (1)n|muffin v|case-3S pro:rel|that
+	pro:sub|we~mod|will v|put&ZERO qn|some n|extra adv|in .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha": line 4182.
+*MOT:	it makes even more noise than those aeroplanes and me mixing the sugar and the butter so we can have a nice little drink then „ can't we ? %snd:"3-10-01"_2419723_2430346
+%mor:	pro:per|it v|make-3S adv|even qn|more n|noise prep|than
+	pro:dem|those n|aeroplane-PL coord|and pro:obj|me part|mix-PRESP
+	det:art|the n|sugar coord|and det:art|the n|butter co|so pro:sub|we
+	mod|can v|have det:art|a (1)adj|nice (1)adj|little (1)n|drink adv:tem|then
+	end|end mod|can~neg|not pro:sub|we ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha": line 5033.
+*MOT:	not like doing a nice big bun cases „ is it ? %snd:"3-10-01"_2958933_2961778
+%mor:	neg|not v|like part|do-PRESP det:art|a (1)adj|nice (1)adj|big (1)n|bun
+	v|case-3S end|end aux|be&3S pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-01.cha": line 5689.
+*MOT:	this funny little machine you said . %snd:"3-10-01"_3364475_3365496
+%mor:	pro:dem|this (1)adj|fun&dn-Y (1)adj|little (1)n|machine pro:per|you
+	v|say&PAST .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 1124.
+*MOT:	and the big pot behind it with an even bigger twig ? %snd:"3-10-02"_552640_555043
+%mor:	coord|and det:art|the adj|big n|pot adv|behind pro:per|it prep|with
+	det:art|a (1)adj|even (1)adj|big-CP (1)n|twig ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 2227.
+*MOT:	it was another blue van but it was <a little> [/] a little blue van (.) not a big van . %snd:"3-10-02"_1186918_1190517
+%mor:	pro:per|it cop|be&PAST&13S qn|another n|blue n|van conj|but
+	pro:per|it cop|be&PAST&13S det:art|a (1)adj|little (1)adj|blue (1)n|van
+	neg|not det:art|a adj|big n|van .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 2688.
+*MOT:	I had a little brown handbag and I had a little red handbag with a [/] a little gold dog stuck to the side . %snd:"3-10-02"_1439551_1446192
+%mor:	pro:sub|I v|have&PAST det:art|a (1)adj|little (1)adj|brown (1)n|handbag
+	coord|and pro:sub|I v|have&PAST det:art|a adj|little n|red n|handbag
+	prep|with det:art|a adj|little n|gold n|dog v|stick&PAST prep|to
+	det:art|the n|side .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 2700.
+*MOT:	and <my sister> [<] (.) Auntie_Janet (.) used to have a little green handbag . %snd:"3-10-02"_1446563_1449408
+%mor:	coord|and det:poss|my n|sister n:prop|Auntie_Janet v|use-PAST
+	inf|to v|have det:art|a (1)adj|little (1)adj|green (1)n|handbag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 2751.
+*MOT:	it was in my Santa stocking and it's a little yellow purse with kittens on it . %snd:"3-10-02"_1470312_1474074
+%mor:	pro:per|it cop|be&PAST&13S prep|in det:poss|my n:prop|Santa
+	part|stock-PRESP coord|and pro:per|it~cop|be&3S det:art|a (1)adj|little
+	(1)adj|yellow (1)n|purse prep|with n|kitten-PL prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 5021.
+*MOT:	you've made beautiful flames out of orange and yellow fluorescent paper . %snd:"3-10-02"_2725215_2728849
+%mor:	pro:per|you~aux|have v|make&PAST adj|beautiful n|flame-PL adv|out
+	prep|of n|orange coord|and (1)adj|yellow (1)adj|fluorescent (1)n|paper .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 5026.
+*MOT:	and then some shiny red paper . %snd:"3-10-02"_2728884_2731125
+%mor:	coord|and adv:tem|then qn|some (1)adj|shine&dn-Y (1)adj|red (1)n|paper .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 5666.
+*MOT:	aye (.) big long trees . %snd:"3-10-02"_3018777_3020123
+%mor:	co|aye (1)adj|big (1)adj|long (1)n|tree-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 6062.
+*MOT:	<big fast> [<] slope ? %snd:"3-10-02"_3229486_3230600
+%mor:	(1)adj|big (1)adj|fast (1)n|slope ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-02.cha": line 6682.
+*MOT:	you clever little boy . %snd:"3-10-02"_3523911_3525478
+%mor:	pro:per|you (1)adj|clever (1)adj|little (1)n|boy .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 1612.
+*MOT:	they look nice little buns with chocolate icing and Rolos . %snd:"3-10-03"_920744_923647
+%mor:	pro:sub|they cop|look (1)adj|nice (1)adj|little (1)n|bun-PL prep|with
+	n|chocolate n|icing coord|and n:prop|Rolos .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 3263.
+*MOT:	those tiny green things . %snd:"3-10-03"_1899471_1900923
+%mor:	pro:dem|those (1)adj|tiny (1)adj|green (1)n|thing-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 3416.
+*MOT:	will you just sit a little further back please , Thomas . %snd:"3-10-03"_1975200_1977487
+%mor:	mod|will pro:per|you adv|just v|sit det:art|a (1)adj|little
+	(1)adj|further (1)n|back co|please cm|cm n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 3642.
+*MOT:	there's a little wooden worm in there . %snd:"3-10-03"_2093962_2095204
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|wooden (1)n|worm
+	prep|in adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 3723.
+*MOT:	well it's a great big bag I think actually your Grandad got it from B Q „ didn't he , one day ? %snd:"3-10-03"_2131894_2136550
+%mor:	co|well pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|bag
+	pro:sub|I v|think adv|actual&dadj-LY det:poss|your n:prop|Grandad
+	v|get&PAST pro:per|it prep|from n:prop|B n:prop|Q end|end
+	mod|do&PAST~neg|not pro:sub|he cm|cm det:num|one n|day ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 4719.
+*MOT:	shall we find a nice little train to stand them on top ? %snd:"3-10-03"_2682746_2686055
+%mor:	mod|shall pro:sub|we v|find det:art|a (1)adj|nice (1)adj|little (1)n|train
+	inf|to v|stand pro:obj|them prep|on n|top ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 5143.
+*MOT:	only use your stickers to decorate your own little tree which you'll find by opening the flap that way you'll be able to use them again and again . [+ R] %snd:"3-10-03"_2951221_2958083
+%mor:	qn|only v|use det:poss|your v|sticker-3S inf|to v|decorate
+	det:poss|your (1)adj|own (1)adj|little (1)n|tree pro:rel|which
+	pro:per|you~mod|will v|find prep|by part|open-PRESP det:art|the
+	v|flap pro:dem|that n|way pro:per|you~mod|will cop|be adj|able
+	inf|to v|use pro:obj|them adv|again coord|and adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-03.cha": line 5635.
+*MOT:	some little sparkly jewels . %snd:"3-10-03"_3183756_3185556
+%mor:	qn|some (1)adj|little (1)adj|sparkle&dv-Y (1)n|jewel-PL .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-04.cha": line 1259.
+*INV:	let's put the garage here and then we can move into the big real garage . %snd:"3-10-04"_593837_597633
+%mor:	v|let~pro:obj|us v|put&ZERO det:art|the n|garage adv|here coord|and
+	adv:tem|then pro:sub|we mod|can v|move prep|into det:art|the (1)adj|big
+	(1)adj|real (1)n|garage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-04.cha": line 3173.
+*INV:	a stupid old sign .
+%mor:	det:art|a (1)adj|stupid (1)adj|old (1)n|sign .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-10-04.cha": line 4632.
+*INV:	if your Mummy's Purdie (.) then you live with a lovely little boy called Thomas Lastname at forty one Streetname Drive . %snd:"3-10-04"_2321306_2327808
+%mor:	conj|if det:poss|your n:prop|Mummy~aux|be&3S n:prop|Purdie
+	adv:tem|then pro:per|you v|live prep|with det:art|a (1)adj|love&dn-LY
+	(1)adj|little (1)n|boy part|call-PASTP n:prop|Thomas n:prop|Lastname
+	prep|at det:num|forty det:num|one n:prop|Streetname n:prop|Drive .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 1432.
+*MOT:	and a nice fresh pot of tea . %snd:"3-11-02"_710501_712637
+%mor:	coord|and det:art|a (1)adj|nice (1)adj|fresh (1)n|pot prep|of n|tea .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 1507.
+*MOT:	oh a nice blue teaspoon . %snd:"3-11-02"_755884_757300
+%mor:	co|oh det:art|a (1)adj|nice (1)adj|blue (1)n|teaspoon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 1642.
+*MOT:	oh you've brought me my own personal telephone to the table . %snd:"3-11-02"_811884_815228
+%mor:	co|oh pro:per|you~aux|have part|bring&PASTP pro:obj|me det:poss|my
+	(1)adj|own (1)adj|personal (1)n|telephone prep|to det:art|the n|table .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 1720.
+*MOT:	and we're going to have a scone and a nice hot cup of tea . %snd:"3-11-02"_847078_850224
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|have
+	det:art|a n|scone coord|and det:art|a (1)adj|nice (1)adj|hot (1)n|cup prep|of
+	n|tea .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 2020.
+*MOT:	and we had a nice little chat because when we go once a week after we've been to The_Beehive (.) her shop is absolutely packed full of children „ isn't it ? %snd:"3-11-02"_998380_1008434
+%mor:	coord|and pro:sub|we v|have&PAST det:art|a (1)adj|nice (1)adj|little
+	(1)n|chat conj|because conj|when pro:sub|we v|go adv|once det:art|a
+	n|week prep|after pro:sub|we~aux|have cop|be&PASTP prep|to
+	n:prop|The_Beehive det:poss|her n|shop aux|be&3S
+	adv|absolute&dadj-LY v|pack-PAST adj|full prep|of n|child&PL end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 2329.
+*MOT:	when we're making buns you know we get that really nice soft margarine „ don't we „ to whip up . %snd:"3-11-02"_1170558_1174517
+%mor:	conj|when pro:sub|we~aux|be&PRES part|make-PRESP n|bun-PL
+	pro:per|you v|know pro:sub|we v|get pro:rel|that adv|real&dadj-LY
+	(1)adj|nice (1)adj|soft (1)n|margarine end|end mod|do~neg|not pro:sub|we
+	end|end inf|to v|whip adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 4960.
+*MOT:	you've got_to have nice hot tea in . %snd:"3-11-02"_2497816_2499743
+%mor:	pro:per|you~aux|have mod:aux|got_to v|have (1)adj|nice (1)adj|hot (1)n|tea
+	adv|in .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 4968.
+*MOT:	oh [!] it's a [/] it's a good strong cup of tea that „ isn't it ? %snd:"3-11-02"_2500602_2503726
+%mor:	co|oh pro:per|it~cop|be&3S pro:per|it~cop|be&3S det:art|a (1)adj|good
+	(1)adj|strong (1)n|cup prep|of n|tea pro:dem|that end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 6365.
+*MOT:	and chefs wear nice tall hats „ don't they „ and checked trousers . %snd:"3-11-02"_3177149_3180272
+%mor:	coord|and n|chef-PL v|wear (1)adj|nice (1)adj|tall (1)n|hat-PL end|end
+	mod|do~neg|not pro:sub|they end|end coord|and v|check-PAST
+	n|trouser-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-02.cha": line 6957.
+*MOT:	oh you poor little man . %snd:"3-11-02"_3486960_3488910
+%mor:	co|oh pro:per|you (1)adj|poor (1)adj|little (1)n|man .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 813.
+*MOT:	and look (.) they come in this super little bag . %snd:"3-11-03"_423537_425407
+%mor:	coord|and cop|look pro:sub|they v|come adv|in det:dem|this
+	(1)adj|super (1)adj|little (1)n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 821.
+*MOT:	good old Marks and Spencers . %snd:"3-11-03"_429400_431339
+%mor:	(1)adj|good (1)adj|old (1)n:prop|Marks coord|and n:prop|Spencers .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6091.
+*MOT:	oy (.) poor little lamb . %snd:"3-11-03"_3330246_3332278
+%mor:	co|oy (1)adj|poor (1)adj|little (1)n|lamb .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6133.
+*MOT:	if he had to come into hospital he'd need a jolly big bed , Thomas . %snd:"3-11-03"_3349547_3352357
+%mor:	conj|if pro:sub|he v|have&PAST inf|to v|come prep|into n|hospital
+	pro:sub|he~mod|genmod v|need det:art|a (1)adj|jolly (1)adj|big (1)n|bed cm|cm
+	n:prop|Thomas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6143.
+*MOT:	jolly big bed . %snd:"3-11-03"_3353437_3354563
+%mor:	(1)adj|jolly (1)adj|big (1)n|bed .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6562.
+*MOT:	that's a nice little song . %snd:"3-11-03"_3612178_3613327
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|song .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6681.
+*MOT:	and I said it says road narrows and then there was a great big hole in the road . %snd:"3-11-03"_3679456_3682962
+%mor:	coord|and pro:sub|I v|say&PAST pro:per|it v|say-3S n|road
+	v|narrow-3S coord|and adv:tem|then adv|there cop|be&PAST&13S
+	det:art|a (1)adj|great (1)adj|big (1)n|hole prep|in det:art|the n|road .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6775.
+*MOT:	pink tubby custard . %snd:"3-11-03"_3734409_3735837
+%mor:	(1)adj|pink (1)adj|tubby (1)n|custard .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 6885.
+*MOT:	look (.) Mummy could have an even bigger nose . %snd:"3-11-03"_3802921_3804918
+%mor:	cop|look n:prop|Mummy mod|could v|have det:art|a (1)adj|even
+	(1)adj|big-CP (1)n|nose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-03.cha": line 7508.
+*MOT:	a nice fat green crab . %snd:"3-11-03"_4123412_4126326
+%mor:	det:art|a (1)adj|nice (1)adj|fat (1)n|green n|crab .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 53.
+*MOT:	a nice little bit of soap . %snd:"3-11-05"_25600_27434
+%mor:	det:art|a (1)adj|nice (1)adj|little (1)n|bit prep|of n|soap .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 1812.
+*MOT:	that's a nice little bed for a jelly baby „ isn't it ? %snd:"3-11-05"_1086750_1088967
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|bed prep|for
+	det:art|a n|jelly n|baby end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 1919.
+*MOT:	you've got a beautiful waterproof tabard on with all sorts of animals on it . %snd:"3-11-05"_1131074_1135706
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|beautiful
+	(1)adj|waterproof (1)n|tabard adv|on prep|with qn|all n|sort-PL prep|of
+	n|animal-PL prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 2040.
+*MOT:	you're on ready steady cook or something like that . %snd:"3-11-05"_1186541_1189060
+%mor:	pro:per|you~aux|be&PRES adv|on (1)adj|ready (1)adj|steady (1)n|cook coord|or
+	pro:indef|something prep|like pro:dem|that .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 3594.
+*MOT:	she took a big glass jar down from the shelf that's the little sweet shop in Didsbury . %snd:"3-11-05"_2017594_2020914
+%mor:	pro:sub|she v|take&PAST det:art|a adj|big n|glass n|jar adv|down
+	prep|from det:art|the n|shelf pro:rel|that~aux|be&3S det:art|the
+	(1)adj|little (1)adj|sweet (1)n|shop prep|in n:prop|Didsbury .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 4111.
+*MOT:	poor little man . %snd:"3-11-05"_2319902_2320877
+%mor:	(1)adj|poor (1)adj|little (1)n|man .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-05.cha": line 4117.
+*MOT:	one little green man . %snd:"3-11-05"_2324248_2325920
+%mor:	pro:indef|one (1)adj|little (1)adj|green (1)n|man .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Thomas/3-11-06.cha>
+
+    Strings matched 0 times
+

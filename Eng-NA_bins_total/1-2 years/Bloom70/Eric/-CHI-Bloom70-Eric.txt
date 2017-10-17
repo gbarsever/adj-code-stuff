@@ -1,0 +1,40 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:42:07 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <eric1.cha>
+----------------------------------------
+*** File "eric1.cha": line 948.
+*LOI:	where's the big white block ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|big (1)adj|white (1)n|block ?
+
+    Strings matched 1 times
+
+From file <eric2.cha>
+
+    Strings matched 0 times
+
+From file <eric3.cha>
+----------------------------------------
+*** File "eric3.cha": line 2581.
+*LOI:	are you hungry little boy .
+%mor:	cop|be&PRES pro:per|you (1)adj|hungry (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "eric3.cha": line 2584.
+*LOI:	are you hungry little boy .
+%mor:	cop|be&PRES pro:per|you (1)adj|hungry (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "eric3.cha": line 3119.
+*LOI:	you're such a funny little boy .
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|fun&dn-Y (1)adj|little
+	(1)n|boy .
+----------------------------------------
+*** File "eric3.cha": line 3123.
+*LOI:	you're such a funny little boy .
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|fun&dn-Y (1)adj|little
+	(1)n|boy .
+
+    Strings matched 4 times
+

@@ -1,0 +1,593 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 21:55:45 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe01.cha": line 2867.
+*MOT:	I think he needs a quick little suck . %snd:"joe01"_1527444_1528988
+%mor:	pro:sub|I v|think pro:sub|he v|need-3S det:art|a (1)adj|quick
+	(1)adj|little (1)n|suck .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe01.cha": line 2920.
+*MOT:	do you need a quick little suck ? %snd:"joe01"_1543907_1545823
+%mor:	mod|do pro:per|you v|need det:art|a (1)adj|quick (1)adj|little (1)n|suck ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe03.cha": line 326.
+*MOT:	what would you like now , little noisy boy ? %snd:"joe03"_248418_250706
+%mor:	pro:int|what mod|will&COND pro:per|you v|like adv|now cm|cm
+	(1)adj|little (1)adj|noise&dn-Y (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe03.cha": line 2282.
+*MOT:	it's gonna feel better when you're in that nice cold tub . %snd:"joe03"_1669909_1672261
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|feel adj|good&CP
+	conj|when pro:per|you~cop|be&PRES adv|in det:dem|that (1)adj|nice
+	(1)adj|cold (1)n|tub .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 184.
+*MOT:	what a good open mouth ! %snd:"joe04"_131486_132910
+%mor:	pro:int|what det:art|a (1)adj|good (1)adj|open (1)n|mouth !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 187.
+*MOT:	what a good open mouth ! %snd:"joe04"_134062_135630
+%mor:	pro:int|what det:art|a (1)adj|good (1)adj|open (1)n|mouth !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 874.
+*MOT:	little sad boy ? %snd:"joe04"_597059_598595
+%mor:	(1)adj|little (1)adj|sad (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 877.
+*MOT:	are you a little sad boy ? %snd:"joe04"_599667_601747
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|little (1)adj|sad (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 1222.
+*MOT:	is that your favorite part , the little purple part ? %snd:"joe04"_790737_793601
+%mor:	cop|be&3S pro:rel|that det:poss|your adj|favorite n|part cm|cm
+	det:art|the (1)adj|little (1)adj|purple (1)n|part ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe04.cha": line 1458.
+*MOT:	looks like she's still a little tiny baby . %snd:"joe04"_916533_918677
+%mor:	cop|look-3S conj|like pro:sub|she~aux|be&3S adv|still det:art|a
+	(1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe05.cha": line 486.
+*MOT:	a little fussy wuss . %snd:"joe05"_216304_218256
+%mor:	det:art|a (1)adj|little (1)adj|fuss&dn-Y (1)n|wuss .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe05.cha": line 2395.
+*MOT:	you're a goofy silly boy . %snd:"joe05"_1361214_1363374
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|goof&dv-Y (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe05.cha": line 6680.
+*MOT:	a nice cool bath will feel good , won't it , sweetie ? %snd:"joe05"_4059360_4062208
+%mor:	det:art|a (1)adj|nice (1)adj|cool (1)n|bath mod|will v|feel adj|good cm|cm
+	mod|will~neg|not pro:per|it cm|cm co|sweetie ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 225.
+*MOT:	yummy yummy yum . %snd:"joe07"_131203_132435
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|yum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 1735.
+*MOT:	this nice soft cuddler ? %snd:"joe07"_1174310_1176102
+%mor:	pro:dem|this (1)adj|nice (1)adj|soft (1)n|cuddle&dv-AGT ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 2297.
+*MOT:	shake that nice little book ? %snd:"joe07"_1582525_1584013
+%mor:	v|shake pro:dem|that (1)adj|nice (1)adj|little (1)n|book ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 2828.
+*MOT:	this is a nice cuddly blanket , huh . %snd:"joe07"_2001961_2004201
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|nice (1)adj|cuddle&dv-Y (1)n|blanket
+	cm|cm co|huh .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 2980.
+*MOT:	that nice cuddly blankie ? %snd:"joe07"_2099078_2100934
+%mor:	pro:dem|that (1)adj|nice (1)adj|cuddle&dv-Y (1)n|blankie ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 3726.
+*MOT:	here's a roly poly guy . %snd:"joe07"_2687488_2689136
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|role&dn-Y (1)adj|pole&dn-Y
+	(1)n|guy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 5507.
+*MOT:	a very happy good fellow ! %snd:"joe07"_4102023_4103767
+%mor:	det:art|a adv|very (1)adj|happy (1)adj|good (1)n|fellow !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe07.cha": line 5603.
+*FAT:	<you little happy boy> [<] . %snd:"joe07"_4164880_4166112
+%mor:	pro:per|you (1)adj|little (1)adj|happy (1)n|boy .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 281.
+*MOT:	Catherine , it looks like you have your o:wn little language , don't
+	you . %snd:"joe08"_181644_185276
+%mor:	n:prop|Catherine cm|cm pro:per|it cop|look-3S prep|like pro:per|you
+	v|have det:poss|your (1)adj|own (1)adj|little (1)n|language cm|cm
+	mod|do~neg|not pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 941.
+*MOT:	my little tiny [?] friend . %snd:"joe08"_559630_560942
+%mor:	det:poss|my (1)adj|little (1)adj|tiny (1)n|friend .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 1426.
+*MOT:	hm did I click at you , little sleepy boy ? %snd:"joe08"_974567_977559
+%mor:	co|hm mod|do&PAST pro:sub|I v|click prep|at pro:per|you cm|cm
+	(1)adj|little (1)adj|sleep&dn-Y (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 2264.
+*MOT:	well he is playing , with his toys , yup , but he's [>] (..) kind of
+	in his own little space right now . %snd:"joe08"_1476122_1482298
+%mor:	co|well pro:sub|he aux|be&3S part|play-PRESP cm|cm prep|with
+	det:poss|his n|toy-PL cm|cm co|yup cm|cm conj|but
+	pro:sub|he~aux|be&3S n|kind prep|of prep|in det:poss|his (1)adj|own
+	(1)adj|little (1)n|space adv|right adv|now .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 3741.
+*MOT:	he's my cutest <baby> [>] boy and Thomas is <my cutest big boy> [>]
+	. %snd:"joe08"_2382467_2386131
+%mor:	pro:sub|he~aux|be&3S det:poss|my adj|cute-SP n|baby n|boy coord|and
+	n:prop|Thomas aux|be&3S det:poss|my (1)adj|cute-SP (1)adj|big (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 3898.
+*MOT:	oh , just a little tiny poop . %snd:"joe08"_2527103_2529231
+%mor:	co|oh cm|cm adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|poop .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 3901.
+*MOT:	a li:ttle tiny poopie for me . %snd:"joe08"_2529647_2532239
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|poop-DIM prep|for pro:obj|me .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 3931.
+*MOT:	my li(tt)le naked fellow . %snd:"joe08"_2570495_2571823
+%mor:	det:poss|my (1)adj|little (1)adj|naked (1)n|fellow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe08.cha": line 3951.
+*MOT:	you're just the (.) cutest little boy I ever saw ! %snd:"joe08"_2582815_2585503
+%mor:	pro:per|you~cop|be&PRES adv|just det:art|the (1)adj|cute-SP (1)adj|little
+	(1)n|boy pro:sub|I adv|ever n|saw !
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe09.cha": line 1624.
+*MOT:	<the same exact> [<] day <as daddy turned> [>] +//. %snd:"joe09"_944553_947400
+%mor:	det:art|the (1)adj|same (1)adj|exact (1)n|day prep|as n|daddy v|turn-PAST
+	+//.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe09.cha": line 2248.
+*MOT:	<(be)cause you're just a fat lumpy dump> [>] . %snd:"joe09"_1249176_1252392
+%mor:	conj|because pro:per|you~cop|be&PRES adv|just det:art|a (1)adj|fat
+	(1)adj|lump&dn-Y (1)n|dump .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe09.cha": line 4993.
+*MOT:	oh , you're just a cuddly little buddy . %snd:"joe09"_3129109_3131253
+%mor:	co|oh cm|cm pro:per|you~cop|be&PRES adv|just det:art|a
+	(1)adj|cuddle&dv-Y (1)adj|little (1)n|buddy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe09.cha": line 5013.
+*MOT:	you're my best little cuddling boy . %snd:"joe09"_3145204_3147108
+%mor:	pro:per|you~cop|be&PRES det:poss|my (1)adj|good&SP (1)adj|little
+	(1)n:gerund|cuddle-PRESP n|boy .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 95.
+*MOT:	did you just have a nice big drink ? %snd:"joe10b"_63712_65392
+%mor:	v|do&PAST pro:per|you adv|just v|have det:art|a (1)adj|nice (1)adj|big
+	(1)n|drink ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 747.
+*MOT:	oh do you think you're good , huh , you're gonna get that li:ttle
+	tiny fleck on the carpet . %snd:"joe10b"_692670_697198
+%mor:	co|oh v|do pro:per|you v|think pro:per|you~cop|be&PRES adj|good
+	cm|cm co|huh cm|cm pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|get pro:dem|that (1)adj|little (1)adj|tiny (1)n|fleck prep|on det:art|the
+	n|carpet .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 757.
+*MOT:	that li:ttle tiny speck , you think you're gonna pick it up . %snd:"joe10b"_697726_701630
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|speck cm|cm pro:per|you v|think
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|pick pro:per|it
+	adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 2608.
+*MOT:	&=pants , the little head shake , that says I'm so hungry . %snd:"joe10b"_2008596_2012132
+%mor:	cm|cm det:art|the (1)adj|little (1)adj|head (1)n|shake cm|cm pro:rel|that
+	v|say-3S pro:sub|I~aux|be&1S adv|so adj|hungry .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 3132.
+*MOT:	hello munchy munchy coon . %snd:"joe10b"_2367424_2369264
+%mor:	co|hello (1)adj|munch&dv-Y (1)adj|munch&dv-Y (1)n|coon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 3660.
+*MOT:	is that what you're doing , you're showing me how well you picked up
+	that nice little <thing> [>] ? %snd:"joe10b"_2998085_3002389
+%mor:	cop|be&3S pro:dem|that pro:int|what pro:per|you~aux|be&PRES
+	part|do-PRESP cm|cm pro:per|you~aux|be&PRES part|show-PRESP
+	pro:obj|me adv:int|how adv|well pro:per|you v|pick-PAST adv|up
+	pro:dem|that (1)adj|nice (1)adj|little (1)n|thing ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe10b.cha": line 4452.
+*MOT:	he [/] (.) he just ate , he keeps spitting up , <I don't know why ,
+	like> [>] major major spit up . %snd:"joe10b"_3314146_3319298
+%mor:	pro:sub|he adv|just v|eat&PAST cm|cm pro:sub|he v|keep-3S
+	n:gerund|spit-PRESP adv|up cm|cm pro:sub|I mod|do~neg|not v|know
+	adv:int|why cm|cm co|like (1)adj|major (1)adj|major (1)n|spit adv|up .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe11.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe11.cha": line 1087.
+*MOT:	are you a ticklish little fellow ? %snd:"joe11"_601436_603500
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|ticklish (1)adj|little (1)n|fellow
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe11.cha": line 1155.
+*MOT:	<oh it's just a> [<] little tiny tiny poop , no wonder I couldn't
+	tell . %snd:"joe11"_643564_647132
+%mor:	co|oh pro:per|it~cop|be&3S adj|just det:art|a adj|little (1)adj|tiny
+	(1)adj|tiny (1)n|poop cm|cm qn|no adj|wonder pro:sub|I mod|could~neg|not
+	v|tell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe11.cha": line 3581.
+*MOT:	you're okay , you have a dirty dirty shirt . %snd:"joe11"_2035902_2038638
+%mor:	pro:per|you~cop|be&PRES adj|okay cm|cm pro:per|you v|have det:art|a
+	(1)adj|dirt&dn-Y (1)adj|dirt&dn-Y (1)n|shirt .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/Joe/joe11.cha": line 3652.
+*MOT:	com'ere [: come here] angry naked boy . %snd:"joe11"_2096366_2098830
+%mor:	v|come adv|here (1)adj|angry (1)adj|naked (1)n|boy .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha": line 1951.
+*MOT:	your poor little tummy . %snd:"the01a"_1554295_1556119
+%mor:	det:poss|your (1)adj|poor (1)adj|little (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha": line 2022.
+*MOT:	some nice warm <pants> [>] . %snd:"the01a"_1620021_1621925
+%mor:	qn|some (1)adj|nice (1)adj|warm (1)n:pt|pants .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha": line 2273.
+*MOT:	here , I'm gonna make (..) a tall tall tower . %snd:"the01a"_1786377_1790505
+%mor:	adv|here cm|cm pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make
+	det:art|a (1)adj|tall (1)adj|tall (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha": line 2336.
+*MOT:	the itsy bitsy spider went up the water spout . %snd:"the01a"_1883016_1887512
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01a.cha": line 2348.
+*MOT:	out came the sun and dried up all the rain and the itsy bitsy
+	spider went up the spout again . %snd:"the01a"_1893422_1902942
+%mor:	adv|out v|come&PAST det:art|the n|sun coord|and v|dry-PAST adv|up
+	adv|all det:art|the n|rain coord|and det:art|the (1)adj|itsy (1)adj|bitsy
+	(1)n|spider v|go&PAST adv|up det:art|the n|spout adv|again .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the01b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the02a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the02b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the02b.cha": line 422.
+*MOT:	bum bum bum . %snd:"the02b"_436465_438353
+%mor:	(1)adj|bum (1)adj|bum (1)n|bum .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the02c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the02c.cha": line 46.
+*MOT:	you had a nice long nap . %snd:"the02c"_37740_39564
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the03a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the03b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the03c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the04a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the04b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06a.cha": line 1261.
+*MOT:	just not really the big messy stuff . %snd:"the06a"_1214396_1217164
+%mor:	adv|just neg|not adv|real&dadj-LY det:art|the (1)adj|big (1)adj|mess&dn-Y
+	(1)n|stuff .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06c.cha": line 341.
+*MOT:	that's a cute little shirt . %snd:"the06c"_350048_352400
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|shirt .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the06d.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07d.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07e.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the07e.cha": line 95.
+*MOT:	oh , look at the cute little guy . %snd:"the07e"_57022_59390
+%mor:	co|oh cm|cm cop|look prep|at det:art|the (1)adj|cute (1)adj|little (1)n|guy
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08c.cha": line 40.
+*MOT:	<the itsy bitsy spider went up the water+spout> [=! singing] . %snd:"the08c"_37602_43090
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|+n|water+n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08c.cha": line 107.
+*MOT:	(...) <the itsy bitsy spider went up the water+spout , down came
+	the rain and washed the spider out> [=! singing] . %snd:"the08c"_112935_123623
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|+n|water+n|spout cm|cm adv|down v|come&PAST
+	det:art|the n|rain coord|and v|wash-PAST det:art|the n|spider
+	adv|out .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the08c.cha": line 119.
+*MOT:	<out came the sun and dried up all the rain , and the itsy bitsy
+	spider went up the spout again> [=! singing] . %snd:"the08c"_127299_136947
+%mor:	adv|out v|come&PAST det:art|the n|sun coord|and v|dry-PAST adv|up
+	adv|all det:art|the n|rain cm|cm coord|and det:art|the (1)adj|itsy
+	(1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the n|spout adv|again .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the09a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the09a.cha": line 607.
+*MOT:	oh_my_goodness , there goes another big stinky truck . %snd:"the09a"_653603_657603
+%mor:	co|oh_my_goodness cm|cm adv|there v|go-3S qn|another (1)adj|big
+	(1)adj|stink&dn-Y (1)n|truck .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the09b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the10a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the10b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11a.cha": line 935.
+*MOT:	can you do itsy bitsy spider Theo ? %snd:"the11a"_836187_838875
+%mor:	mod|can pro:per|you v|do (1)adj|itsy (1)adj|bitsy (1)n|spider n:prop|Theo ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11b.cha": line 995.
+*MOT:	poor little sockie . %snd:"the11b"_1256509_1258509
+%mor:	(1)adj|poor (1)adj|little (1)n|sock-DIM .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha": line 134.
+*MOT:	<the itsy bitsy spider went up <the water spout> [=! laughs]>
+	[=! singing] . %snd:"the11d"_113443_118899
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha": line 152.
+*MOT:	<and the itsy bitsy spider went up the spout <again> [>]>
+	[=! singing] . %snd:"the11d"_132781_139453
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha": line 173.
+*MOT:	<the <itsy bitsy spider> [>] went up <the water> [=! laughing]
+	spout> [=! singing] . %snd:"the11d"_149080_154200
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha": line 199.
+*MOT:	<and the itsy bitsy spider went up the spout again> [=! singing] .
+	%snd:"the11d"_174741_180261
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the11d.cha": line 533.
+*MOT:	bouncy bouncy bounce . %snd:"the11d"_521938_524162
+%mor:	(1)adj|bounce&dv-Y (1)adj|bounce&dv-Y (1)n|bounce .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 201.
+*MOT:	<itsy bitsy spider went up the waterspout> [=! singing] . %snd:"the12"_183515_188699
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the
+	n|+n|water+n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 254.
+*MOT:	what were we doin(g) , we were doin(g) itsy bitsy spider , ready ?
+	%snd:"the12"_235049_238073
+%mor:	pro:int|what aux|be&PAST pro:sub|we part|do-PRESP cm|cm pro:sub|we
+	aux|be&PAST part|do-PRESP (1)adj|itsy (1)adj|bitsy (1)n|spider cm|cm
+	adj|ready ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 266.
+*MOT:	<and the itsy bitsy spider went up the spout again> [=! singing] .
+	%snd:"the12"_243396_249236
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 479.
+*MOT:	look at that big green truck . %snd:"the12"_492150_495126
+%mor:	cop|look prep|at pro:dem|that (1)adj|big (1)adj|green (1)n|truck .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 1495.
+*MOT:	it's kind of a funny giant baby picture . %snd:"the12"_1832773_1836421
+%mor:	pro:per|it~cop|be&3S n|kind prep|of det:art|a (1)adj|fun&dn-Y
+	(1)adj|giant (1)n|baby n|picture .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the12.cha": line 1675.
+*MOT:	(..) <down in the meadow in an itty bitty pool swam two little
+	fishies and a mama fishie too> [=! singing] . %snd:"the12"_2049719_2057367
+%mor:	adv|down prep|in det:art|the n|meadow prep|in det:art|a (1)adj|itty
+	(1)adj|bit&dn-Y (1)n|pool v|swim&PAST det:num|two adj|little n|fish-DIM-PL
+	coord|and det:art|a n|mama n|fish-DIM post|too .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the13a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the13b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the13b.cha": line 52.
+*MOT:	did you have a good little nappie ? %snd:"the13b"_31392_33424
+%mor:	v|do&PAST pro:per|you v|have det:art|a (1)adj|good (1)adj|little (1)n|nappie
+	?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the14a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the14b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the14b.cha": line 794.
+*MOT:	shaky shaky shake shake shake . %snd:"the14b"_1031997_1035261
+%mor:	(1)adj|shake&dv-Y (1)adj|shake&dv-Y (1)n|shake n|shake n|shake .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the14c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the14d.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the15a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the15b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Soderstrom/The/the15c.cha>
+
+    Strings matched 0 times
+

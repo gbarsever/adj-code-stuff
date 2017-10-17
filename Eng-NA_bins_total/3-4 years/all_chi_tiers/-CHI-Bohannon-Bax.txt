@@ -1,0 +1,78 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:43:07 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gina11.cha>
+
+    Strings matched 0 times
+
+From file <judy6.cha>
+
+    Strings matched 0 times
+
+From file <karen3.cha>
+
+    Strings matched 0 times
+
+From file <kelley2.cha>
+----------------------------------------
+*** File "kelley2.cha": line 773.
+*KEL:	have you ever seen a real live zebra ?
+%mor:	v|have pro:per|you adv|ever part|see&PASTP det:art|a (1)adj|real
+	(1)adj|live (1)n|zebra ?
+
+    Strings matched 1 times
+
+From file <leah1.cha>
+----------------------------------------
+*** File "leah1.cha": line 385.
+*LEA:	it makes a pretty good ball , doesn't it ?
+%mor:	pro:per|it v|make-3S det:art|a (1)adj|pretty (1)adj|good (1)n|ball cm|cm
+	mod|do&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <lindy8.cha>
+
+    Strings matched 0 times
+
+From file <mari10.cha>
+
+    Strings matched 0 times
+
+From file <mich7.cha>
+
+    Strings matched 0 times
+
+From file <russ9.cha>
+
+    Strings matched 0 times
+
+From file <thad5.cha>
+----------------------------------------
+*** File "thad5.cha": line 76.
+*THA:	yeah , there's a blue car and a black pick up truck and a big
+	yellow truck over there .
+%mor:	co|yeah cm|cm pro:exist|there~cop|be&3S det:art|a adj|blue n|car
+	coord|and det:art|a n|black v|pick adv|up n|truck coord|and
+	det:art|a (1)adj|big (1)adj|yellow (1)n|truck adv|over adv|there .
+----------------------------------------
+*** File "thad5.cha": line 421.
+*THA:	you mean the little black truck down there ?
+%mor:	pro:per|you v|mean det:art|the (1)adj|little (1)adj|black (1)n|truck
+	adv|down adv|there ?
+----------------------------------------
+*** File "thad5.cha": line 429.
+*SUS:	yeah , there's a little black truck down there .
+%mor:	co|yeah cm|cm pro:exist|there~cop|be&3S det:art|a (1)adj|little
+	(1)adj|black (1)n|truck adv|down adv|there .
+----------------------------------------
+*** File "thad5.cha": line 575.
+*THA:	yeah , that's a lit(t)le ol(d) car .
+%mor:	co|yeah cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|old
+	(1)n|car .
+
+    Strings matched 4 times
+

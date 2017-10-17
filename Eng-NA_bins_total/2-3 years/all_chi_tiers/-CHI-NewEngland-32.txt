@@ -1,0 +1,263 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:10:09 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+
+    Strings matched 0 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <06.cha>
+----------------------------------------
+*** File "06.cha": line 1239.
+*MOT:	this is a big heavy box .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|heavy (1)n|box .
+
+    Strings matched 1 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <13.cha>
+----------------------------------------
+*** File "13.cha": line 1425.
+*MOT:	big big circles .
+%mor:	(1)adj|big (1)adj|big (1)n|circle-PL .
+
+    Strings matched 1 times
+
+From file <16.cha>
+----------------------------------------
+*** File "16.cha": line 1576.
+*MOT:	taste these yummy delicious things: .
+%mor:	v|taste pro:dem|these (1)adj|yum&dn-Y (1)adj|delicious (1)n|thing-PL .
+----------------------------------------
+*** File "16.cha": line 1630.
+*MOT:	here's your (..) delicious yummy things +/.
+%mor:	pro:exist|here~cop|be&3S det:poss|your (1)adj|delicious (1)adj|yum&dn-Y
+	(1)n|thing-PL +/.
+----------------------------------------
+*** File "16.cha": line 1846.
+*MOT:	funny funny crayons: !
+%mor:	(1)adj|fun&dn-Y (1)adj|fun&dn-Y (1)n|crayon-PL !
+
+    Strings matched 3 times
+
+From file <19.cha>
+----------------------------------------
+*** File "19.cha": line 51.
+*MOT:	pretty nice little boy huh ?
+%mor:	adv|pretty (1)adj|nice (1)adj|little (1)n|boy co|huh ?
+----------------------------------------
+*** File "19.cha": line 2552.
+*MOT:	and how about a big smily mouth ?
+%mor:	coord|and adv:int|how adv|about det:art|a (1)adj|big (1)adj|smile&dv-Y
+	(1)n|mouth ?
+----------------------------------------
+*** File "19.cha": line 2572.
+*MOT:	okay how about a big smily mouth ?
+%mor:	co|okay adv:int|how adv|about det:art|a (1)adj|big (1)adj|smile&dv-Y
+	(1)n|mouth ?
+
+    Strings matched 3 times
+
+From file <23.cha>
+
+    Strings matched 0 times
+
+From file <25.cha>
+
+    Strings matched 0 times
+
+From file <26.cha>
+----------------------------------------
+*** File "26.cha": line 1491.
+*FAT:	<that's a pretty good trick> [<] .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|trick .
+
+    Strings matched 1 times
+
+From file <28.cha>
+----------------------------------------
+*** File "28.cha": line 1033.
+*MOT:	boy this's a real fancy house there .
+%mor:	co|boy pro:dem|this~cop|be&3S det:art|a (1)adj|real (1)adj|fancy (1)n|house
+	adv|there .
+
+    Strings matched 1 times
+
+From file <29.cha>
+
+    Strings matched 0 times
+
+From file <30.cha>
+
+    Strings matched 0 times
+
+From file <31.cha>
+
+    Strings matched 0 times
+
+From file <36.cha>
+
+    Strings matched 0 times
+
+From file <38.cha>
+
+    Strings matched 0 times
+
+From file <43.cha>
+----------------------------------------
+*** File "43.cha": line 972.
+*MOT:	a big tall truck .
+%mor:	det:art|a (1)adj|big (1)adj|tall (1)n|truck .
+----------------------------------------
+*** File "43.cha": line 1027.
+*MOT:	these are big fat crayons huh ?
+%mor:	pro:dem|these cop|be&PRES (1)adj|big (1)adj|fat (1)n|crayon-PL co|huh ?
+
+    Strings matched 2 times
+
+From file <45.cha>
+
+    Strings matched 0 times
+
+From file <47.cha>
+
+    Strings matched 0 times
+
+From file <49.cha>
+----------------------------------------
+*** File "49.cha": line 347.
+*MOT:	a little tiny bowl of cereal for him [= character] .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|bowl prep|of n|cereal prep|for
+	pro:obj|him .
+
+    Strings matched 1 times
+
+From file <55.cha>
+----------------------------------------
+*** File "55.cha": line 736.
+*MOT:	you've got a pretty wild bird there !
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|pretty (1)adj|wild
+	(1)n|bird adv|there !
+
+    Strings matched 1 times
+
+From file <57.cha>
+----------------------------------------
+*** File "57.cha": line 1151.
+*MOT:	okay can you get this great big box down ?
+%mor:	co|okay mod|can pro:per|you v|get pro:dem|this (1)adj|great (1)adj|big
+	(1)n|box adv|down ?
+
+    Strings matched 1 times
+
+From file <59.cha>
+----------------------------------------
+*** File "59.cha": line 2213.
+*MOT:	he's [= toy] his [= toy] own little table .
+%mor:	pro:sub|he~aux|be&3S det:poss|his (1)adj|own (1)adj|little (1)n|table .
+
+    Strings matched 1 times
+
+From file <60.cha>
+
+    Strings matched 0 times
+
+From file <65.cha>
+
+    Strings matched 0 times
+
+From file <66.cha>
+----------------------------------------
+*** File "66.cha": line 1712.
+*MOT:	that's a big heavy box isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|heavy (1)n|box
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <68.cha>
+
+    Strings matched 0 times
+
+From file <75.cha>
+
+    Strings matched 0 times
+
+From file <84.cha>
+
+    Strings matched 0 times
+
+From file <87.cha>
+----------------------------------------
+*** File "87.cha": line 1822.
+*MOT:	<wanna see what's> [<] in the big big box ?
+%mor:	v|want~inf|to v|see pro:int|what~cop|be&3S prep|in det:art|the
+	(1)adj|big (1)adj|big (1)n|box ?
+----------------------------------------
+*** File "87.cha": line 1850.
+*MOT:	<how about you wanna play with the big big box now> [>] ?
+%mor:	adv:int|how prep|about pro:per|you v|want~inf|to v|play prep|with
+	det:art|the (1)adj|big (1)adj|big (1)n|box adv|now ?
+
+    Strings matched 2 times
+
+From file <90.cha>
+----------------------------------------
+*** File "90.cha": line 828.
+*MOT:	<are you a tasty little cookie> [>] ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|taste&dn-Y (1)adj|little
+	(1)n|cookie ?
+----------------------------------------
+*** File "90.cha": line 952.
+*MOT:	are you a tasty little morsel ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|taste&dn-Y (1)adj|little
+	(1)n|morsel ?
+
+    Strings matched 2 times
+
+From file <92.cha>
+
+    Strings matched 0 times
+
+From file <96.cha>
+----------------------------------------
+*** File "96.cha": line 1867.
+*MOT:	you made a great big o@l .
+%mor:	pro:per|you v|make&PAST det:art|a (1)adj|great (1)adj|big (1)n:let|o .
+----------------------------------------
+*** File "96.cha": line 2137.
+*MOT:	and they could put one [= dolls] in this nice little beddie .
+%mor:	coord|and pro:sub|they mod|could v|put&ZERO det:num|one prep|in
+	pro:dem|this (1)adj|nice (1)adj|little (1)n|bed-DIM .
+
+    Strings matched 2 times
+
+From file <98.cha>
+----------------------------------------
+*** File "98.cha": line 1620.
+*MOT:	is he [= puppet] a nice little animal ?
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|nice (1)adj|little (1)n|animal ?
+
+    Strings matched 1 times
+
+From file <99.cha>
+
+    Strings matched 0 times
+

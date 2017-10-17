@@ -1,0 +1,125 @@
+@UTF8
+@PID:	11312/c-00004855-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;03.17||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	a boy and a dog were looking at a frog in a glass jar .
+%mor:	det:art|a n|boy coord|and det:art|a n|dog aux|be&PAST
+	part|look-PRESP prep|at det:art|a n|frog prep|in det:art|a n|glass
+	n|jar .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|2|PUNCT
+*CHI:	and then they went to sleep .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST inf|to v|sleep .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	and the frog climbed out_of the jar .
+%mor:	coord|and det:art|the n|frog v|climb-PAST prep|out_of det:art|the
+	n|jar .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	they woke up in the morning to find that the frog had gone .
+%mor:	pro:sub|they v|wake&PAST adv|up prep|in det:art|the n|morning
+	inf|to v|find pro:rel|that det:art|the n|frog aux|have&PAST
+	part|go&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|8|INF 8|2|XCOMP
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|8|COMP 14|2|PUNCT
+*CHI:	and they quickly got dressed and climbed out_of the window .
+%mor:	coord|and pro:sub|they adv|quick&dadj-LY v|get&PAST v|dress-PAST
+	coord|and v|climb-PAST prep|out_of det:art|the n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*CHI:	the dog fell out_of the window .
+%mor:	det:art|the n|dog v|fall&PAST prep|out_of det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and the boy was angry with him (be)cause he broke the glass jar
+	thing .
+%mor:	coord|and det:art|the n|boy cop|be&PAST&13S adj|angry prep|with
+	pro:obj|him conj|because pro:sub|he v|break&PAST det:art|the n|glass
+	n|jar n|thing .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|14|DET 12|13|MOD 13|14|MOD 14|10|OBJ 15|4|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um they went out .
+%mor:	pro:sub|they v|go&PAST adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and they were looking for him in the woods .
+%mor:	coord|and pro:sub|they aux|be&PAST part|look-PRESP prep|for
+	pro:obj|him prep|in det:art|the n|wood-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	they were looking down holes and up trees in bee nest things .
+%mor:	pro:sub|they aux|be&PAST part|look-PRESP prep|down n|hole-PL
+	coord|and adv|up n|tree-PL prep|in n|bee n|nest n|thing-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|8|JCT 8|6|COORD
+	9|8|NJCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the boy climbed the tree to look in the hole .
+%mor:	det:art|the n|boy part|climb-PASTP det:art|the n|tree inf|to
+	cop|look prep|in det:art|the n|hole .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	and the dog was chased by bees .
+%mor:	coord|and det:art|the n|dog aux|be&PAST&13S part|chase-PASTP
+	prep|by n|bee-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	the boy fell down from the tree (be)cause an owl came out and 0 [*]
+	got chased by the owl .
+%mor:	det:art|the n|boy v|fall&PAST adv|down prep|from det:art|the n|tree
+	conj|because det:art|a n|owl v|come&PAST adv|out coord|and
+	v|get&PAST v|chase-PAST prep|by det:art|the n|owl .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|3|CJCT 12|3|JCT 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+%err:	0 = subject
+*CHI:	he climbed up onto some rocks and got [//] didn't know a deer was
+	there and got on top of it .
+%mor:	pro:sub|he v|climb-PAST adv|up prep|onto qn|some n|rock-PL
+	coord|and mod|do&PAST~neg|not v|know det:art|a n|deer
+	cop|be&PAST&13S adv|there coord|and v|get&PAST prep|on n|top prep|of
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|QUANT 6|4|POBJ 7|2|CONJ 8|10|AUX
+	9|8|NEG 10|7|COORD 11|12|DET 12|13|SUBJ 13|10|COMP 14|13|JCT 15|13|CONJ
+	16|15|COORD 17|16|JCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|2|PUNCT
+*CHI:	and the deer was running with the boy on it and stopped .
+%mor:	coord|and det:art|the n|deer aux|be&PAST&13S part|run-PRESP
+	prep|with det:art|the n|boy prep|on pro:per|it coord|and v|stop-PAST
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|5|CONJ 12|11|COORD 13|5|PUNCT
+*CHI:	and the boy and the dog fell into a swamp .
+%mor:	coord|and det:art|the n|boy coord|and det:art|the n|dog v|fall&PAST
+	prep|into det:art|a n|swamp .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|LINK 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*CHI:	they got up and looked okay .
+%mor:	pro:sub|they v|get&PAST adv|up coord|and cop|look-PAST adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|5|PRED 7|2|PUNCT
+*CHI:	and the boy told the dog to be quiet .
+%mor:	coord|and det:art|the n|boy v|tell&PAST det:art|the n|dog inf|to
+	cop|be n|quiet .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|PRED 10|4|PUNCT
+*CHI:	<and climbed over a> [//] they climbed over a log and found two
+	frogs and some babies .
+%mor:	pro:sub|they v|climb-PAST prep|over det:art|a n|log coord|and
+	v|find&PAST det:num|two n|frog-PL coord|and qn|some n|baby-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|QUANT
+	9|7|OBJ 10|9|CONJ 11|12|QUANT 12|10|COORD 13|2|PUNCT
+*CHI:	&-um they took one and said bye to the frogs and went home .
+%mor:	pro:sub|they v|take&PAST det:num|one coord|and v|say&PAST co|bye
+	prep|to det:art|the n|frog-PL coord|and v|go&PAST n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|JCT 13|2|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

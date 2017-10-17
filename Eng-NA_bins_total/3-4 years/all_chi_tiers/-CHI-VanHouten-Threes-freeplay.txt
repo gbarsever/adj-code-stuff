@@ -1,0 +1,136 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:13:41 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <bestparkf.cha>
+----------------------------------------
+*** File "bestparkf.cha": line 53.
+*INV:	I like Legos to build a big big buildings right .
+%mor:	pro:sub|I v|like n:prop|Legos inf|to v|build det:art|a (1)adj|big
+	(1)adj|big (1)n|building-PL n|right .
+----------------------------------------
+*** File "bestparkf.cha": line 93.
+*INV:	can you run real real fast with those sneakers ?
+%mor:	mod|can pro:per|you v|run (1)adj|real (1)adj|real (1)n|fast prep|with
+	pro:dem|those n|sneaker-PL ?
+----------------------------------------
+*** File "bestparkf.cha": line 334.
+*INV:	it goes real real fast .
+%mor:	pro:per|it v|go-3S (1)adj|real (1)adj|real (1)n|fast .
+
+    Strings matched 3 times
+
+From file <brownf.cha>
+
+    Strings matched 0 times
+
+From file <cherryf.cha>
+
+    Strings matched 0 times
+
+From file <cottonf.cha>
+
+    Strings matched 0 times
+
+From file <cullenf.cha>
+
+    Strings matched 0 times
+
+From file <eastf.cha>
+
+    Strings matched 0 times
+
+From file <friendf.cha>
+
+    Strings matched 0 times
+
+From file <gardnerf.cha>
+
+    Strings matched 0 times
+
+From file <goldf.cha>
+
+    Strings matched 0 times
+
+From file <goosef.cha>
+
+    Strings matched 0 times
+
+From file <huntf.cha>
+
+    Strings matched 0 times
+
+From file <johnsonf.cha>
+
+    Strings matched 0 times
+
+From file <lundf.cha>
+
+    Strings matched 0 times
+
+From file <marshf.cha>
+
+    Strings matched 0 times
+
+From file <mcintyref.cha>
+
+    Strings matched 0 times
+
+From file <nipf.cha>
+----------------------------------------
+*** File "nipf.cha": line 356.
+*INV:	+" oh no my poor little baby . %snd:"nipf"_184451_186526
+%mor:	co|oh co|no det:poss|my (1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file <parkf.cha>
+
+    Strings matched 0 times
+
+From file <pricef.cha>
+
+    Strings matched 0 times
+
+From file <raidf.cha>
+
+    Strings matched 0 times
+
+From file <riotf.cha>
+
+    Strings matched 0 times
+
+From file <royalf.cha>
+
+    Strings matched 0 times
+
+From file <saintf.cha>
+
+    Strings matched 0 times
+
+From file <skipf.cha>
+
+    Strings matched 0 times
+
+From file <smartf.cha>
+
+    Strings matched 0 times
+
+From file <smithf.cha>
+
+    Strings matched 0 times
+
+From file <stonef.cha>
+
+    Strings matched 0 times
+
+From file <stringf.cha>
+
+    Strings matched 0 times
+
+From file <vailf.cha>
+
+    Strings matched 0 times
+

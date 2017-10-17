@@ -1,0 +1,264 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:46:02 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <s2-0905.cha>
+----------------------------------------
+*** File "s2-0905.cha": line 3191.
+*MOT:	you're a little (...) sneaky head . %snd:"s2-r18jul96"_4061599_4063265
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|little (1)adj|sneak&dv-Y (1)n|head
+	.
+
+    Strings matched 1 times
+
+From file <s2-0921.cha>
+----------------------------------------
+*** File "s2-0921.cha": line 552.
+*MOT:	nice little grey horse stops to look below [=! read] . %snd:"s2-h3aug96"_306667_309496
+%mor:	adj|nice (1)adj|little (1)adj|grey (1)n|horse v|stop-3S inf|to cop|look
+	adv|below .
+----------------------------------------
+*** File "s2-0921.cha": line 573.
+*MOT:	nice little brown cow stops to say (..) <hello@q> [=! read] . %snd:"s2-h3aug96"_317993_321176
+%mor:	adj|nice (1)adj|little (1)adj|brown (1)n|cow v|stop-3S inf|to v|say
+	meta|hello .
+----------------------------------------
+*** File "s2-0921.cha": line 587.
+*MOT:	nice little white sheep standing in a row [=! read] . %snd:"s2-h3aug96"_327337_329949
+%mor:	adj|nice (1)adj|little (1)adj|white (1)n|sheep part|stand-PRESP prep|in
+	det:art|a n|row .
+----------------------------------------
+*** File "s2-0921.cha": line 611.
+*MOT:	nice little (.) pink (.) pig wiggles to+and+fro [=! read] . %snd:"s2-h3aug96"_341704_344694
+%mor:	adj|nice (1)adj|little (1)adj|pink (1)n|pig n|wiggle-PL
+	n|+n|to+conj|and+n|fro .
+----------------------------------------
+*** File "s2-0921.cha": line 919.
+*MOT:	who is that cute little girl ? %snd:"s2-h3aug96"_691616_692823
+%mor:	pro:int|who cop|be&3S pro:dem|that (1)adj|cute (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "s2-0921.cha": line 922.
+*MOT:	who is that cute little girl ? %snd:"s2-h3aug96"_693177_694442
+%mor:	pro:int|who cop|be&3S pro:dem|that (1)adj|cute (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "s2-0921.cha": line 931.
+*MOT:	look at that cute little girl ! %snd:"s2-h3aug96"_697588_699033
+%mor:	cop|look prep|at pro:dem|that (1)adj|cute (1)adj|little (1)n|girl !
+----------------------------------------
+*** File "s2-0921.cha": line 1877.
+*MOT:	say <“I bonked our head last time”> [=! voice] ! %snd:"s2-h3aug96"_1758016_1759663
+%mor:	co|say bq|bq pro:sub|I v|bonk-PAST det:poss|our (1)adj|head (1)adj|last
+	(1)n|time eq|eq !
+
+    Strings matched 8 times
+
+From file <s2-1004.cha>
+----------------------------------------
+*** File "s2-1004.cha": line 423.
+*MOT:	(tha)t's a big ol(d) cup huh ? %snd:"s2-h17aug96"_414289_415478
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|cup co|huh ?
+----------------------------------------
+*** File "s2-1004.cha": line 4593.
+*MOT:	and a real soft ball . %snd:"s2-h17aug96"_3937003_3938381
+%mor:	coord|and det:art|a (1)adj|real (1)adj|soft (1)n|ball .
+----------------------------------------
+*** File "s2-1004.cha": line 4966.
+*MOT:	the cute little rabbit [=! voice] . %snd:"s2-h17aug96"_4200568_4201969
+%mor:	det:art|the (1)adj|cute (1)adj|little (1)n|rabbit .
+
+    Strings matched 3 times
+
+From file <s2-1018.cha>
+----------------------------------------
+*** File "s2-1018.cha": line 4782.
+*MOT:	those your big ol(d) [?] beads huh ? %snd:"s2-h31aug96"_4018361_4019879
+%mor:	pro:dem|those det:poss|your (1)adj|big (1)adj|old (1)n|bead-PL co|huh ?
+
+    Strings matched 1 times
+
+From file <s2-1105.cha>
+----------------------------------------
+*** File "s2-1105.cha": line 689.
+*MOT:	you can have a matching little turtleneck and leggings and your own
+	little fleece jacket . %snd:"s2-w18sep96"_914037_917949
+%mor:	pro:per|you mod|can v|have det:art|a part|match-PRESP adj|little
+	n|turtleneck coord|and n|legging-PL coord|and det:poss|your (1)adj|own
+	(1)adj|little (1)n|fleece n|jacket .
+----------------------------------------
+*** File "s2-1105.cha": line 724.
+*MOT:	and maybe a cute little pair of jeans huh ? %snd:"s2-w18sep96"_938918_941236
+%mor:	coord|and adv|maybe det:art|a (1)adj|cute (1)adj|little (1)n|pair prep|of
+	n|jeans co|huh ?
+
+    Strings matched 2 times
+
+From file <s2-1124.cha>
+----------------------------------------
+*** File "s2-1124.cha": line 509.
+*MOT:	an eensie weensie spider (.) went up the water spout [=! read] . %snd:"s2-s6oct96"_362598_365952
+%mor:	det:art|a (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "s2-1124.cha": line 524.
+*MOT:	and the eensie weensie spider (.) went up (..) the spout again
+	[=! read] . %snd:"s2-s6oct96"_375337_380689
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST
+	adv|up det:art|the n|spout adv|again .
+----------------------------------------
+*** File "s2-1124.cha": line 1770.
+*MOT:	whoa that was a pretty good thing . %snd:"s2-s6oct96"_2161010_2162673
+%mor:	co|whoa pro:rel|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|thing .
+----------------------------------------
+*** File "s2-1124.cha": line 2233.
+*MOT:	that's a pretty cute little outfit . %snd:"s2-s6oct96"_2612997_2614309
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|pretty (1)adj|cute (1)adj|little
+	(1)n|outfit .
+
+    Strings matched 4 times
+
+From file <s2-1206.cha>
+----------------------------------------
+*** File "s2-1206.cha": line 2620.
+*MOT:	Mommy (ha)s got a big old toe . %snd:"s2-h19oct96"_3664510_3665690
+%mor:	n:prop|Mommy aux|have&3S part|get&PASTP det:art|a (1)adj|big (1)adj|old
+	(1)n|toe .
+
+    Strings matched 1 times
+
+From file <s2-1222.cha>
+----------------------------------------
+*** File "s2-1222.cha": line 1098.
+*MOT:	it's got it's own little wrapper huh ? %snd:"s2-m4nov96"_1190700_1192270
+%mor:	pro:per|it~aux|be&3S v|get&PAST pro:per|it~cop|be&3S (1)adj|own
+	(1)adj|little (1)n|wrap&dv-AGT co|huh ?
+----------------------------------------
+*** File "s2-1222.cha": line 3034.
+*MOT:	see that cute little nose ! %snd:"s2-m4nov96"_3773093_3774360
+%mor:	v|see pro:rel|that (1)adj|cute (1)adj|little (1)n|nose !
+----------------------------------------
+*** File "s2-1222.cha": line 3037.
+*MOT:	just like your cute little nose . %snd:"s2-m4nov96"_3774577_3775843
+%mor:	adv|just prep|like det:poss|your (1)adj|cute (1)adj|little (1)n|nose .
+
+    Strings matched 3 times
+
+From file <s2-1309.cha>
+----------------------------------------
+*** File "s2-1309.cha": line 1340.
+*MOT:	that's a pretty long book huh ? %snd:"s2-f22nov96"_1472105_1473588
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|long (1)n|book co|huh
+	?
+----------------------------------------
+*** File "s2-1309.cha": line 1534.
+*MOT:	a big (..) pink (..) pig (..) came out to play [=! read] . %snd:"s2-f22nov96"_1590415_1593718
+%mor:	det:art|a (1)adj|big (1)adj|pink (1)n|pig v|come&PAST adv|out inf|to v|play
+	.
+----------------------------------------
+*** File "s2-1309.cha": line 1583.
+*MOT:	a big brown cow came out to play [=! read] . %snd:"s2-f22nov96"_1616694_1619332
+%mor:	det:art|a (1)adj|big (1)adj|brown (1)n|cow v|come&PAST adv|out prep|to
+	n|play .
+----------------------------------------
+*** File "s2-1309.cha": line 2037.
+*MOT:	wanna do itsy bitsy spider ? %snd:"s2-f22nov96"_2018800_2020374
+%mor:	v|want~inf|to v|do (1)adj|itsy (1)adj|bitsy (1)n|spider ?
+----------------------------------------
+*** File "s2-1309.cha": line 2043.
+*MOT:	itsy bitsy spider went up the water spout [=! sung] . %snd:"s2-f22nov96"_2022416_2027362
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the n|water
+	n|spout .
+----------------------------------------
+*** File "s2-1309.cha": line 2061.
+*MOT:	itsy bitsy spider went up the spout again [=! sung] . %snd:"s2-f22nov96"_2040728_2045426
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the n|spout
+	adv|again .
+----------------------------------------
+*** File "s2-1309.cha": line 2367.
+*MOT:	that's a pretty neat noise huh ? %snd:"s2-f22nov96"_2361934_2363429
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|noise co|huh
+	?
+
+    Strings matched 7 times
+
+From file <s2-1320.cha>
+----------------------------------------
+*** File "s2-1320.cha": line 1460.
+*MOT:	this your cute little shoe ? %snd:"s2-t3dec96"_1360401_1361456
+%mor:	pro:dem|this det:poss|your (1)adj|cute (1)adj|little (1)n|shoe ?
+----------------------------------------
+*** File "s2-1320.cha": line 1474.
+*MOT:	I see some cute little feetsies . %snd:"s2-t3dec96"_1392014_1394659
+%mor:	pro:sub|I v|see qn|some (1)adj|cute (1)adj|little (1)n|foot&PL-PL-DIM-PL .
+----------------------------------------
+*** File "s2-1320.cha": line 1477.
+*MOT:	cute little fee(t) . %snd:"s2-t3dec96"_1395252_1396299
+%mor:	(1)adj|cute (1)adj|little (1)n|foot&PL .
+----------------------------------------
+*** File "s2-1320.cha": line 1489.
+*MOT:	I think I see some cute little feetsies . %snd:"s2-t3dec96"_1405653_1409018
+%mor:	pro:sub|I v|think pro:sub|I v|see qn|some (1)adj|cute (1)adj|little
+	(1)n|foot&PL-PL-DIM-PL .
+----------------------------------------
+*** File "s2-1320.cha": line 1497.
+*MOT:	I'm gonna get these cute little feetsies . %snd:"s2-t3dec96"_1414690_1417605
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|get pro:dem|these
+	(1)adj|cute (1)adj|little (1)n|foot&PL-PL-DIM-PL .
+----------------------------------------
+*** File "s2-1320.cha": line 1509.
+*MOT:	I'm gonna get these cute little feetsies [=! voice] . %snd:"s2-t3dec96"_1435418_1438456
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|get pro:dem|these
+	(1)adj|cute (1)adj|little (1)n|foot&PL-PL-DIM-PL .
+----------------------------------------
+*** File "s2-1320.cha": line 2004.
+*MOT:	that's a big old piece . %snd:"s2-t3dec96"_1936361_1937447
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|piece .
+----------------------------------------
+*** File "s2-1320.cha": line 2269.
+*MOT:	your Daddy and his big old infrastructures here . %snd:"s2-t3dec96"_2235452_2237687
+%mor:	det:poss|your n:prop|Daddy coord|and det:poss|his (1)adj|big (1)adj|old
+	(1)n|infrastructure-PL adv|here .
+----------------------------------------
+*** File "s2-1320.cha": line 3580.
+*MOT:	here's your pretty little bow . %snd:"s2-t3dec96"_3600704_3602031
+%mor:	pro:exist|here~cop|be&3S det:poss|your (1)adj|pretty (1)adj|little (1)n|bow
+	.
+
+    Strings matched 9 times
+
+From file <s2-1404.cha>
+----------------------------------------
+*** File "s2-1404.cha": line 2832.
+*MOT:	that's a big ol(d) bear (.) huh ? %snd:"s2-t17dec96"_3029095_3030544
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|bear co|huh ?
+
+    Strings matched 1 times
+
+From file <s2-1420.cha>
+----------------------------------------
+*** File "s2-1420.cha": line 3711.
+*MOT:	the itsy bitsy spider went up the water spout [=! sung] . %snd:"s2-r2jan97"_4227565_4231369
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "s2-1420.cha": line 3765.
+*MOT:	o:h you got the big ol(d) box . %snd:"s2-r2jan97"_4273956_4275545
+%mor:	co|oh pro:per|you v|get&PAST det:art|the (1)adj|big (1)adj|old (1)n|box .
+
+    Strings matched 2 times
+
+From file <s2-1424.cha>
+----------------------------------------
+*** File "s2-1424.cha": line 3064.
+*MOT:	in the great green room there was a telephone (.) and a red balloon
+	(.) and a picture of (..) the cow jumping over the moon [=! read] .
+	%snd:"s2-m6jan97"_3482871_3490146
+%mor:	prep|in det:art|the (1)adj|great (1)adj|green (1)n|room adv|there
+	cop|be&PAST&13S det:art|a n|telephone coord|and det:art|a adj|red
+	n|balloon coord|and det:art|a n|picture prep|of det:art|the n|cow
+	part|jump-PRESP prep|over det:art|the n|moon .
+
+    Strings matched 1 times
+

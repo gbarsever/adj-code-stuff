@@ -1,0 +1,287 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:50:49 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11005.cha>
+
+    Strings matched 0 times
+
+From file <11016.cha>
+
+    Strings matched 0 times
+
+From file <11043.cha>
+
+    Strings matched 0 times
+
+From file <11052.cha>
+
+    Strings matched 0 times
+
+From file <11065.cha>
+
+    Strings matched 0 times
+
+From file <11066.cha>
+
+    Strings matched 0 times
+
+From file <11068.cha>
+
+    Strings matched 0 times
+
+From file <11070.cha>
+
+    Strings matched 0 times
+
+From file <11078.cha>
+
+    Strings matched 0 times
+
+From file <12009.cha>
+
+    Strings matched 0 times
+
+From file <12017.cha>
+
+    Strings matched 0 times
+
+From file <12022.cha>
+
+    Strings matched 0 times
+
+From file <12036.cha>
+
+    Strings matched 0 times
+
+From file <12038.cha>
+----------------------------------------
+*** File "12038.cha": line 297.
+*MOT:	(0.7) hm: nice little gate .
+%mor:	co|hm (1)adj|nice (1)adj|little (1)n|gate .
+----------------------------------------
+*** File "12038.cha": line 482.
+*MOT:	(0.3) little lamby friends .
+%mor:	(1)adj|little (1)adj|lamb&dn-Y (1)n|friend-PL .
+
+    Strings matched 2 times
+
+From file <12042.cha>
+----------------------------------------
+*** File "12042.cha": line 1246.
+*MOT:	he's a big strong horsie .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|strong (1)n|horse-DIM .
+
+    Strings matched 1 times
+
+From file <12058.cha>
+
+    Strings matched 0 times
+
+From file <12059.cha>
+----------------------------------------
+*** File "12059.cha": line 485.
+*MOT:	oh you make silly silly Potato_Heads .
+%mor:	co|oh pro:per|you v|make (1)adj|silly (1)adj|silly (1)n:prop|Potato_Heads .
+
+    Strings matched 1 times
+
+From file <12067.cha>
+
+    Strings matched 0 times
+
+From file <12072.cha>
+----------------------------------------
+*** File "12072.cha": line 287.
+*MOT:	<see that little> [/?] see that little pokey thing right there ?
+%mor:	v|see pro:rel|that (1)adj|little (1)adj|pokey (1)n|thing adv|right adv|there
+	?
+
+    Strings matched 1 times
+
+From file <12074.cha>
+
+    Strings matched 0 times
+
+From file <12076.cha>
+
+    Strings matched 0 times
+
+From file <12079.cha>
+
+    Strings matched 0 times
+
+From file <12080.cha>
+
+    Strings matched 0 times
+
+From file <12081.cha>
+
+    Strings matched 0 times
+
+From file <12082.cha>
+
+    Strings matched 0 times
+
+From file <12083.cha>
+
+    Strings matched 0 times
+
+From file <12084.cha>
+
+    Strings matched 0 times
+
+From file <21088.cha>
+----------------------------------------
+*** File "21088.cha": line 674.
+*MOT:	lovely lovely day .
+%mor:	(1)adj|love&dn-LY (1)adj|love&dn-LY (1)n|day .
+
+    Strings matched 1 times
+
+From file <21094.cha>
+----------------------------------------
+*** File "21094.cha": line 775.
+*MOT:	should we come back next time so you can play with the dolly house
+	?
+%mor:	mod|should pro:sub|we v|come (1)adj|back (1)adj|next (1)n|time co|so
+	pro:per|you mod|can v|play prep|with det:art|the n|doll-DIM n|house
+	?
+
+    Strings matched 1 times
+
+From file <21110.cha>
+
+    Strings matched 0 times
+
+From file <21117.cha>
+----------------------------------------
+*** File "21117.cha": line 867.
+*MOT:	what's this , a nice little pillow ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this cm|cm det:art|a (1)adj|nice
+	(1)adj|little (1)n|pillow ?
+
+    Strings matched 1 times
+
+From file <21129.cha>
+
+    Strings matched 0 times
+
+From file <21146.cha>
+
+    Strings matched 0 times
+
+From file <21153.cha>
+----------------------------------------
+*** File "21153.cha": line 531.
+*MOT:	see there's a great big stopper and the arms don't come out .
+%mor:	co|see pro:exist|there~cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|stop&dv-AGT coord|and det:art|the n|arm-PL mod|do~neg|not v|come
+	adv|out .
+----------------------------------------
+*** File "21153.cha": line 867.
+*MOT:	well that's a mighty full stable , isn't it ?
+%mor:	co|well pro:dem|that~cop|be&3S det:art|a (1)adj|might&dn-Y (1)adj|full
+	(1)n|stable cm|cm aux|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <21165.cha>
+
+    Strings matched 0 times
+
+From file <21172.cha>
+
+    Strings matched 0 times
+
+From file <22090.cha>
+
+    Strings matched 0 times
+
+From file <22098.cha>
+----------------------------------------
+*** File "22098.cha": line 241.
+*MOT:	oh , she's got a funny pink nose .
+%mor:	co|oh cm|cm pro:sub|she~aux|be&3S part|get&PASTP det:art|a
+	(1)adj|fun&dn-Y (1)adj|pink (1)n|nose .
+
+    Strings matched 1 times
+
+From file <22111.cha>
+
+    Strings matched 0 times
+
+From file <22112.cha>
+
+    Strings matched 0 times
+
+From file <22125.cha>
+
+    Strings matched 0 times
+
+From file <22131.cha>
+
+    Strings matched 0 times
+
+From file <22138.cha>
+
+    Strings matched 0 times
+
+From file <22142.cha>
+
+    Strings matched 0 times
+
+From file <22150.cha>
+
+    Strings matched 0 times
+
+From file <22156.cha>
+
+    Strings matched 0 times
+
+From file <22161.cha>
+
+    Strings matched 0 times
+
+From file <22162.cha>
+----------------------------------------
+*** File "22162.cha": line 423.
+*MOT:	those are big fancy ear+rings .
+%mor:	pro:dem|those cop|be&PRES (1)adj|big (1)adj|fancy (1)n|+n|ear+n|ring-PL .
+
+    Strings matched 1 times
+
+From file <22163.cha>
+
+    Strings matched 0 times
+
+From file <22164.cha>
+
+    Strings matched 0 times
+
+From file <22166.cha>
+----------------------------------------
+*** File "22166.cha": line 589.
+*MOT:	yeah find a nice warm place .
+%mor:	co|yeah v|find det:art|a (1)adj|nice (1)adj|warm (1)n|place .
+
+    Strings matched 1 times
+
+From file <22169.cha>
+----------------------------------------
+*** File "22169.cha": line 333.
+*MOT:	what's this funny pink thing ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this (1)adj|fun&dn-Y (1)adj|pink (1)n|thing ?
+
+    Strings matched 1 times
+
+From file <22170.cha>
+
+    Strings matched 0 times
+
+From file <22175.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,336 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:27:02 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203a.cha": line 1368.
+*MOT:	(.) we wish you a merry christmas and a happy new year . %snd:"790203a"_1109059_1113248
+%mor:	pro:sub|we v|wish pro:per|you det:art|a adj|merry n|christmas
+	coord|and det:art|a (1)adj|happy (1)adj|new (1)n|year .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 499.
+*MOT:	(.) handy dandy maple candy . %snd:"790203b"_355181_359263
+%mor:	(1)adj|handy (1)adj|dandy (1)n|maple n|candy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 4950.
+*MOT:	+< busy bus busy busy busy busy busy world bus . %snd:"790203b"_3808656_3811670
+%mor:	adj|busy n|bus adj|busy adj|busy adj|busy (1)adj|busy (1)adj|busy (1)n|world
+	n|bus .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 8257.
+*MOT:	just a little tiny bath (.) if that's okay with you: . %snd:"790203b"_7058650_7064620
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bath conj|if
+	pro:dem|that~cop|be&3S adj|okay prep|with pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 8835.
+*MOT:	hold your head still Nathaniel Baum (.) Snow . %snd:"790203b"_7567308_7594610
+%mor:	v|hold det:poss|your (1)adj|head (1)adj|still (1)n:prop|Nathaniel
+	n:prop|Baum n:prop|Snow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 9157.
+*MOT:	scrub scrub scrub on your face [=! whistles] . %snd:"790203b"_7935811_7938053
+%mor:	(1)adj|scrub (1)adj|scrub (1)n|scrub prep|on det:poss|your n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203b.cha": line 10018.
+*FAT:	yeah but it's yucky yucky cream . %snd:"790203b"_8575521_8578550
+%mor:	co|yeah conj|but pro:per|it~cop|be&3S (1)adj|yuck&dn-Y (1)adj|yuck&dn-Y
+	(1)n|cream .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790203c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha": line 94.
+*MOT:	o:h such a good little kid .
+%mor:	co|oh qn|such det:art|a (1)adj|good (1)adj|little (1)n|kid .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha": line 1663.
+*MOT:	and that's a pretty huge cake there too Nathaniel .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|huge
+	(1)n|cake adv|there adv|too n:prop|Nathaniel .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha": line 1684.
+*MOT:	I see a little tiny car underneath the bus .
+%mor:	pro:sub|I v|see det:art|a (1)adj|little (1)adj|tiny (1)n|car prep|underneath
+	det:art|the n|bus .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha": line 2874.
+*MOT:	that's the busy busy world bus .
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|busy (1)adj|busy (1)n|world n|bus
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216ax.cha": line 3060.
+*MOT:	you smell like a little hot dog tonight .
+%mor:	pro:per|you v|smell prep|like det:art|a (1)adj|little (1)adj|hot (1)n|dog
+	adv:tem|tonight .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216bx.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216bx.cha": line 384.
+*MOT:	that's the skinny little rabbit .
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|skin&dn-Y (1)adj|little
+	(1)n|rabbit .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790216cx.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790219x.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790219x.cha": line 743.
+*MOT:	nice clean new sleepy+suit .
+%mor:	adj|nice (1)adj|clean (1)adj|new (1)n|+adj|sleepy+n|suit .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 310.
+*FAT:	(.) and happy new year .
+%mor:	coord|and (1)adj|happy (1)adj|new (1)n|year .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 325.
+*FAT:	(.) I am a pretty little Dutch girl .
+%mor:	pro:sub|I aux|be&1S det:art|a (1)adj|pretty (1)adj|little (1)n:prop|Dutch
+	n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 350.
+*FAT:	(.) I (.) am a pretty little Dutch girl .
+%mor:	pro:sub|I aux|be&1S det:art|a (1)adj|pretty (1)adj|little (1)n:prop|Dutch
+	n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 355.
+*FAT:	(.) I am a pretty little Dutch girl .
+%mor:	pro:sub|I aux|be&1S det:art|a (1)adj|pretty (1)adj|little (1)n:prop|Dutch
+	n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 673.
+*MOT:	(.) little red wagon painted blue .
+%mor:	(1)adj|little (1)adj|red (1)n|wagon v|paint-PAST n|blue .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 676.
+*MOT:	(.) little red wagon painted blue .
+%mor:	(1)adj|little (1)adj|red (1)n|wagon v|paint-PAST n|blue .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 679.
+*MOT:	(.) little red wagon painted blue .
+%mor:	(1)adj|little (1)adj|red (1)n|wagon v|paint-PAST n|blue .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 822.
+*MOT:	go tell aunt Rhodie the old gray goose is dead .
+%mor:	v|go v|tell n|aunt n:prop|Rhodie det:art|the (1)adj|old (1)adj|gray
+	(1)n|goose cop|be&3S adj|dead .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304ax.cha": line 2310.
+*MOT:	okay that's a pretty good song .
+%mor:	co|okay pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|song
+	.
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304bx.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790304bx.cha": line 226.
+*MOT:	little tiny things .
+%mor:	(1)adj|little (1)adj|tiny (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 120.
+*MOT:	I am a funny little dutch girl .
+%mor:	pro:sub|I aux|be&1S det:art|a adj|fun&dn-Y (1)adj|little (1)adj|dutch
+	(1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 2626.
+*MOT:	dumb old Dingo drives his car anywhere .
+%mor:	(1)adj|dumb (1)adj|old (1)n:prop|Dingo v|drive-3S det:poss|his n|car
+	adv|anywhere .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 3601.
+*MOT:	big old+fashioned car .
+%mor:	(1)adj|big (1)adj|+adj|old+adj|fashioned (1)n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 3882.
+*MOT:	say say say I am a funny little dutch boy .
+%mor:	co|say co|say v|say pro:sub|I aux|be&1S det:art|a adj|fun&dn-Y
+	(1)adj|little (1)adj|dutch (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 8082.
+*MOT:	Nathaniel , you want to sing your new french song for Lia ?
+%mor:	n:prop|Nathaniel cm|cm pro:per|you v|want inf|to v|sing
+	det:poss|your (1)adj|new (1)adj|french (1)n|song prep|for n:prop|Lia ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 8087.
+*MOT:	shall we sing your new french song ?
+%mor:	mod|shall pro:sub|we v|sing det:poss|your (1)adj|new (1)adj|french (1)n|song
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 8100.
+*MOT:	yeah , we're gonna sing a new french song .
+%mor:	co|yeah cm|cm pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|sing
+	det:art|a (1)adj|new (1)adj|french (1)n|song .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 8293.
+*MOT:	am a funny little <dutch girl> [>] .
+%mor:	aux|be&1S det:art|a adj|fun&dn-Y (1)adj|little (1)adj|dutch (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310ax.cha": line 10215.
+*MOT:	snuggly snuggly sleepy+suit .
+%mor:	(1)adj|snuggle&dv-Y (1)adj|snuggle&dv-Y (1)n|+adj|sleepy+n|suit .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 522.
+*MOT:	is really &-uh eastern european kind of isn't it ? %snd:"790310b"_706880_712265
+%mor:	aux|be&3S adv|real&dadj-LY (1)adj|eastern (1)adj|european (1)n|kind prep|of
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 682.
+*MOT:	(Natha)niel you want to sing your new french song for Lia ? %snd:"790310b"_969136_973946
+%mor:	n:prop|Nathaniel pro:per|you v|want inf|to v|sing det:poss|your
+	(1)adj|new (1)adj|french (1)n|song prep|for n:prop|Lia ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 688.
+*MOT:	shall we sing your new french song ? %snd:"790310b"_976891_978346
+%mor:	mod|shall pro:sub|we v|sing det:poss|your (1)adj|new (1)adj|french (1)n|song
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 701.
+*MOT:	+< yeah we're gonna [: going to] sing a new french song . %snd:"790310b"_982111_983770
+%mor:	co|yeah pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|sing
+	det:art|a (1)adj|new (1)adj|french (1)n|song .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 914.
+*MOT:	am a funny little <dutch girl> [>] . %snd:"790310b"_1115108_1120966
+%mor:	aux|be&1S det:art|a adj|fun&dn-Y (1)adj|little (1)adj|dutch (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790310b.cha": line 2864.
+*MOT:	snuggly snuggly sleepy+suit . %snd:"790310b"_2525930_2528956
+%mor:	(1)adj|snuggle&dv-Y (1)adj|snuggle&dv-Y (1)n|+adj|sleepy+n|suit .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790317a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790317a.cha": line 859.
+*FAT:	go tell aunt Rhodie the old grey goose is dead . %snd:"790317a"_807973_812085
+%mor:	v|go v|tell n|aunt n:prop|Rhodie det:art|the (1)adj|old (1)adj|grey
+	(1)n|goose cop|be&3S adj|dead .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790317b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790317b.cha": line 2230.
+*MOT:	okay now do pee+pee fast fast fast . %snd:"790317b"_2161693_2166811
+%mor:	co|okay adv|now v|do n|+on|pee+on|pee (1)adj|fast (1)adj|fast (1)n|fast .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420a.cha": line 1297.
+*MOT:	keep her from the foggy foggy dew . %snd:"790420a"_1034668_1036661
+%mor:	v|keep pro:obj|her prep|from det:art|the (1)adj|fog&dn-Y (1)adj|fog&dn-Y
+	(1)n|dew .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420a.cha": line 1329.
+*MOT:	she's a good ole [: old] worker and a good ole [: old] pal . %snd:"790420a"_1058113_1061578
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|good (1)adj|old (1)n|work&dv-AGT
+	coord|and det:art|a (2)adj|good (2)adj|old (2)n|pal .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420a.cha": line 1589.
+*MOT:	tall Shanghai rooster and an old yeller dog . %snd:"790420a"_1281646_1286081
+%mor:	adj|tall n:prop|Shanghai n|rooster coord|and det:art|a (1)adj|old
+	(1)adj|yeller (1)n|dog .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790420b.cha": line 519.
+*FAT:	+< she's a good ole [: old] worker and a good ole [: old] pal . %snd:"790420b"_381655_384615
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|good (1)adj|old (1)n|work&dv-AGT
+	coord|and det:art|a (2)adj|good (2)adj|old (2)n|pal .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790501x.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790501x.cha": line 256.
+*FAT:	leave her in the foggy foggy dew .
+%mor:	v|leave pro:obj|her prep|in det:art|the (1)adj|fog&dn-Y (1)adj|fog&dn-Y
+	(1)n|dew .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790501x.cha": line 290.
+*FAT:	I am a poor wayfaring stranger .
+%mor:	pro:sub|I aux|be&1S det:art|a (1)adj|poor (1)adj|+n|way+part|faring
+	(1)n|stranger .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790501x.cha": line 345.
+*FAT:	I am a poor wayfaring stranger .
+%mor:	pro:sub|I aux|be&1S det:art|a (1)adj|poor (1)adj|+n|way+part|faring
+	(1)n|stranger .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790501x.cha": line 386.
+*FAT:	she's a good ole [: old] worker and a good ole [: old] pal .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|good (1)adj|old (1)n|work&dv-AGT
+	coord|and det:art|a (2)adj|good (2)adj|old (2)n|pal .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505b.cha": line 1485.
+*MOT:	a big red rock eater . %snd:"790505b"_906491_908240
+%mor:	det:art|a (1)adj|big (1)adj|red (1)n|rock n|eat&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505b.cha": line 1491.
+*MOT:	that's the big red rock eater . %snd:"790505b"_911998_913667
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|big (1)adj|red (1)n|rock
+	n|eat&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505b.cha": line 1498.
+*MOT:	that's the big red rock eater . %snd:"790505b"_916220_919528
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|big (1)adj|red (1)n|rock
+	n|eat&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505b.cha": line 2029.
+*MOT:	+" good old Hendrika got_to see all these exciting things in the
+	city . %snd:"790505b"_1301883_1307167
+%mor:	(1)adj|good (1)adj|old (1)n:prop|Hendrika mod:aux|got_to v|see qn|all
+	pro:dem|these adj|exciting n|thing-PL prep|in det:art|the n|city .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505dx.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Snow/790505dx.cha": line 3067.
+*MOT:	good old Gus .
+%mor:	(1)adj|good (1)adj|old (1)n:prop|Gus .
+
+    Strings matched 1 times
+

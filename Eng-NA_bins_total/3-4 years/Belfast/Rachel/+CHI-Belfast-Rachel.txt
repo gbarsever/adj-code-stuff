@@ -1,0 +1,110 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:49:21 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rachel1.cha>
+
+    Strings matched 0 times
+
+From file <rachel2.cha>
+
+    Strings matched 0 times
+
+From file <rachel3.cha>
+----------------------------------------
+*** File "rachel3.cha": line 1245.
+*CHI:	what's that mummie weensie weensie wider [: spider] .
+%mor:	pro:int|what~cop|be&3S pro:dem|that n|mum&dadj-DIM (1)adj|weensie
+	(1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "rachel3.cha": line 1472.
+*CHI:	big bad wolf at the (.) big bad wolf “who's been in my bed” ?
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf prep|at det:art|the (2)adj|big (2)adj|bad (2)n|wolf
+	bq|bq pro:rel|who~aux|be&3S cop|be&PASTP prep|in det:poss|my n|bed
+	eq|eq ?
+
+    Strings matched 3 times
+
+From file <rachel4.cha>
+----------------------------------------
+*** File "rachel4.cha": line 840.
+*CHI:	a wee kit no that's a wee wee wee teddy .
+%mor:	det:art|a adj|wee n|kit co|no pro:dem|that~cop|be&3S det:art|a
+	adj|wee (1)adj|wee (1)adj|wee (1)n|teddy .
+----------------------------------------
+*** File "rachel4.cha": line 1030.
+*CHI:	&-eh that's a wee pokey thing .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|wee (1)adj|pokey (1)n|thing .
+----------------------------------------
+*** File "rachel4.cha": line 1036.
+*CHI:	it's just a wee short bit .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|wee (1)adj|short (1)n|bit .
+----------------------------------------
+*** File "rachel4.cha": line 1569.
+*CHI:	(th)at's a wee wee big balloon .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|wee (1)adj|wee (1)adj|big (1)n|balloon
+	.
+
+    Strings matched 4 times
+
+From file <rachel5.cha>
+----------------------------------------
+*** File "rachel5.cha": line 1930.
+*CHI:	and a wee tiny Noddy there when I seen a big Noddy (l)as(t) week .
+%mor:	coord|and det:art|a (1)adj|wee (1)adj|tiny (1)n:prop|Noddy adv|there
+	conj|when pro:sub|I part|see&PASTP det:art|a adj|big n:prop|Noddy
+	adv|last n|week .
+
+    Strings matched 1 times
+
+From file <rachel6.cha>
+----------------------------------------
+*** File "rachel6.cha": line 275.
+*CHI:	that's a wee tiny knife .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|wee (1)adj|tiny (1)n|knife .
+
+    Strings matched 1 times
+
+From file <rachel7.cha>
+----------------------------------------
+*** File "rachel7.cha": line 616.
+*CHI:	the big bad witch .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|witch .
+----------------------------------------
+*** File "rachel7.cha": line 857.
+*CHI:	the big bad witch .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|witch .
+----------------------------------------
+*** File "rachel7.cha": line 897.
+*CHI:	there's the big bad witch [!] .
+%mor:	pro:exist|there~cop|be&3S det:art|the (1)adj|big (1)adj|bad (1)n|witch .
+----------------------------------------
+*** File "rachel7.cha": line 914.
+*CHI:	pushing the big bad witch .
+%mor:	part|push-PRESP det:art|the (1)adj|big (1)adj|bad (1)n|witch .
+----------------------------------------
+*** File "rachel7.cha": line 1053.
+*CHI:	and a wee wee tie thing .
+%mor:	coord|and det:art|a (1)adj|wee (1)adj|wee (1)n|tie n|thing .
+----------------------------------------
+*** File "rachel7.cha": line 1574.
+*CHI:	pink (.) pink yellow and pink .
+%mor:	(1)adj|pink (1)adj|pink (1)n|yellow coord|and adj|pink .
+----------------------------------------
+*** File "rachel7.cha": line 3997.
+*CHI:	when I grow up out the back there was a wee big s(n)ake xxx .
+%mor:	conj|when pro:sub|I v|grow adv|up prep|out det:art|the adj|back
+	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|wee (1)adj|big (1)n|snake .
+
+    Strings matched 7 times
+
+From file <rachel8.cha>
+
+    Strings matched 0 times
+
+From file <rachel9.cha>
+
+    Strings matched 0 times
+

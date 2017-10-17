@@ -1,0 +1,369 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:52 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <mat01.cha>
+
+    Strings matched 0 times
+
+From file <mat02.cha>
+
+    Strings matched 0 times
+
+From file <mat03.cha>
+
+    Strings matched 0 times
+
+From file <mat04.cha>
+
+    Strings matched 0 times
+
+From file <mat05.cha>
+
+    Strings matched 0 times
+
+From file <mat06.cha>
+----------------------------------------
+*** File "mat06.cha": line 1333.
+*CHI:	I carved a big big sad pumpkin .
+%mor:	pro:sub|I v|carve-PAST det:art|a adj|big (1)adj|big (1)adj|sad (1)n|pumpkin
+	.
+
+    Strings matched 1 times
+
+From file <mat07.cha>
+
+    Strings matched 0 times
+
+From file <mat08.cha>
+
+    Strings matched 0 times
+
+From file <mat09.cha>
+
+    Strings matched 0 times
+
+From file <mat10.cha>
+----------------------------------------
+*** File "mat10.cha": line 896.
+*CHI:	big french fry .
+%mor:	(1)adj|big (1)adj|french (1)n|fry .
+
+    Strings matched 1 times
+
+From file <mat11.cha>
+----------------------------------------
+*** File "mat11.cha": line 2272.
+*CHI:	a nice (.) nice ghost .
+%mor:	det:art|a (1)adj|nice (1)adj|nice (1)n|ghost .
+
+    Strings matched 1 times
+
+From file <mat12.cha>
+
+    Strings matched 0 times
+
+From file <mat13.cha>
+
+    Strings matched 0 times
+
+From file <mat14.cha>
+
+    Strings matched 0 times
+
+From file <mat15.cha>
+
+    Strings matched 0 times
+
+From file <mat16.cha>
+
+    Strings matched 0 times
+
+From file <mat17.cha>
+
+    Strings matched 0 times
+
+From file <mat18.cha>
+
+    Strings matched 0 times
+
+From file <mat19.cha>
+
+    Strings matched 0 times
+
+From file <mat20.cha>
+----------------------------------------
+*** File "mat20.cha": line 31.
+*CHI:	a big big big big ant hill !
+%mor:	det:art|a adj|big adj|big (1)adj|big (1)adj|big (1)n|ant n|hill !
+----------------------------------------
+*** File "mat20.cha": line 749.
+*CHI:	going on (.) that (.) big (.) long (.) bus .
+%mor:	part|go-PRESP prep|on pro:dem|that (1)adj|big (1)adj|long (1)n|bus .
+----------------------------------------
+*** File "mat20.cha": line 1674.
+*CHI:	a big big heavy rock .
+%mor:	det:art|a adj|big (1)adj|big (1)adj|heavy (1)n|rock .
+
+    Strings matched 3 times
+
+From file <mat21.cha>
+
+    Strings matched 0 times
+
+From file <mat22.cha>
+
+    Strings matched 0 times
+
+From file <mat23.cha>
+
+    Strings matched 0 times
+
+From file <mat24.cha>
+----------------------------------------
+*** File "mat24.cha": line 1119.
+*CHI:	maybe (.) like one (.) maybe like one of these little tiny dinosaurs .
+%mor:	adv|maybe co|like det:num|one adv|maybe co|like det:num|one prep|of
+	pro:dem|these (1)adj|little (1)adj|tiny (1)n|dinosaur-PL .
+
+    Strings matched 1 times
+
+From file <mat25.cha>
+
+    Strings matched 0 times
+
+From file <mat26.cha>
+
+    Strings matched 0 times
+
+From file <mat27.cha>
+----------------------------------------
+*** File "mat27.cha": line 1099.
+*CHI:	a mean yucky troll .
+%mor:	det:art|a (1)adj|mean (1)adj|yuck&dn-Y (1)n|troll .
+
+    Strings matched 1 times
+
+From file <mat28.cha>
+----------------------------------------
+*** File "mat28.cha": line 239.
+*CHI:	why you think (be)cause it's a new new puzzle ?
+%mor:	adv:int|why pro:per|you v|think conj|because pro:per|it~cop|be&3S
+	det:art|a (1)adj|new (1)adj|new (1)n|puzzle ?
+
+    Strings matched 1 times
+
+From file <mat29.cha>
+----------------------------------------
+*** File "mat29.cha": line 147.
+*CHI:	&-um (.) and this is bear in the big blue house .
+%mor:	coord|and pro:dem|this cop|be&3S v|bear prep|in det:art|the (1)adj|big
+	(1)adj|blue (1)n|house .
+
+    Strings matched 1 times
+
+From file <mat30.cha>
+----------------------------------------
+*** File "mat30.cha": line 15.
+*CHI:	&-um (.) I had a pretty good day .
+%mor:	pro:sub|I v|have&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|day .
+----------------------------------------
+*** File "mat30.cha": line 624.
+*CHI:	(be)cause she did a good (.) good (.) good job .
+%mor:	conj|because pro:sub|she v|do&PAST det:art|a adj|good (1)adj|good
+	(1)adj|good (1)n|job .
+----------------------------------------
+*** File "mat30.cha": line 827.
+*CHI:	(be)cause he ate healthy healthy healthy food .
+%mor:	conj|because pro:sub|he v|eat&PAST adj|health&dn-Y (1)adj|health&dn-Y
+	(1)adj|health&dn-Y (1)n|food .
+----------------------------------------
+*** File "mat30.cha": line 2395.
+*CHI:	yeah but (.) this is a super small part .
+%mor:	co|yeah conj|but pro:dem|this cop|be&3S det:art|a (1)adj|super
+	(1)adj|small (1)n|part .
+
+    Strings matched 4 times
+
+From file <mat31.cha>
+
+    Strings matched 0 times
+
+From file <mat32.cha>
+----------------------------------------
+*** File "mat32.cha": line 1684.
+*CHI:	he got super super super fat !
+%mor:	pro:sub|he v|get&PAST adj|super (1)adj|super (1)adj|super (1)n|fat !
+
+    Strings matched 1 times
+
+From file <mat33.cha>
+
+    Strings matched 0 times
+
+From file <mat34.cha>
+
+    Strings matched 0 times
+
+From file <mat35.cha>
+----------------------------------------
+*** File "mat35.cha": line 532.
+*CHI:	and there was a was a loud loud animal too .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a cop|be&PAST&13S
+	det:art|a (1)adj|loud (1)adj|loud (1)n|animal post|too .
+
+    Strings matched 1 times
+
+From file <mat36.cha>
+----------------------------------------
+*** File "mat36.cha": line 2573.
+*CHI:	this is so funny (.) just daddy told me it .
+%mor:	pro:dem|this aux|be&3S adv|so (1)adj|fun&dn-Y (1)adj|just (1)n|daddy
+	v|tell&PAST pro:obj|me pro:per|it .
+
+    Strings matched 1 times
+
+From file <mat37.cha>
+
+    Strings matched 0 times
+
+From file <mat38.cha>
+----------------------------------------
+*** File "mat38.cha": line 110.
+*CHI:	we went to a big big waterfall .
+%mor:	pro:sub|we v|go&PAST prep|to det:art|a (1)adj|big (1)adj|big (1)n|waterfall
+	.
+
+    Strings matched 1 times
+
+From file <mat39.cha>
+----------------------------------------
+*** File "mat39.cha": line 116.
+*CHI:	I went on a big big plane .
+%mor:	pro:sub|I v|go&PAST prep|on det:art|a (1)adj|big (1)adj|big (1)n|plane .
+----------------------------------------
+*** File "mat39.cha": line 1419.
+*CHI:	this is how Daddy made me a new stinky poop .
+%mor:	pro:dem|this cop|be&3S adv:int|how n:prop|Daddy v|make&PAST
+	pro:obj|me det:art|a (1)adj|new (1)adj|stink&dn-Y (1)n|poop .
+
+    Strings matched 2 times
+
+From file <mat40.cha>
+
+    Strings matched 0 times
+
+From file <mat41.cha>
+
+    Strings matched 0 times
+
+From file <mat42.cha>
+----------------------------------------
+*** File "mat42.cha": line 1448.
+*CHI:	it's a (.) I mean (.) a real (.) real word .
+%mor:	pro:per|it~cop|be&3S det:art|a pro:sub|I v|mean det:art|a (1)adj|real
+	(1)adj|real (1)n|word .
+
+    Strings matched 1 times
+
+From file <mat43.cha>
+
+    Strings matched 0 times
+
+From file <mat44.cha>
+
+    Strings matched 0 times
+
+From file <mat45.cha>
+----------------------------------------
+*** File "mat45.cha": line 306.
+*CHI:	we jumped into a big blocky pit .
+%mor:	pro:sub|we v|jump-PAST prep|into det:art|a (1)adj|big (1)adj|block&dn-Y
+	(1)n|pit .
+----------------------------------------
+*** File "mat45.cha": line 424.
+*CHI:	a big block (.) I'm making a big tall block .
+%mor:	det:art|a adj|big n|block pro:sub|I~aux|be&1S part|make-PRESP
+	det:art|a (1)adj|big (1)adj|tall (1)n|block .
+
+    Strings matched 2 times
+
+From file <mat46.cha>
+----------------------------------------
+*** File "mat46.cha": line 110.
+*CHI:	yeah , &-um (.) you can choose a baby one , and a little one , or the bigger long neck .
+%mor:	co|yeah cm|cm pro:per|you mod|can v|choose det:art|a n|baby
+	pro:indef|one cm|cm coord|and det:art|a adj|little pro:indef|one
+	cm|cm coord|or det:art|the (1)adj|big-CP (1)adj|long (1)n|neck .
+----------------------------------------
+*** File "mat46.cha": line 1512.
+*CHI:	there were very bad (.) bad lizards .
+%mor:	pro:exist|there cop|be&PAST adv|very (1)adj|bad (1)adj|bad (1)n|lizard-PL .
+
+    Strings matched 2 times
+
+From file <mat47.cha>
+
+    Strings matched 0 times
+
+From file <mat48.cha>
+
+    Strings matched 0 times
+
+From file <mat49.cha>
+
+    Strings matched 0 times
+
+From file <mat50.cha>
+
+    Strings matched 0 times
+
+From file <mat51.cha>
+
+    Strings matched 0 times
+
+From file <mat52.cha>
+
+    Strings matched 0 times
+
+From file <mat53.cha>
+
+    Strings matched 0 times
+
+From file <mat53a.cha>
+
+    Strings matched 0 times
+
+From file <mat54.cha>
+----------------------------------------
+*** File "mat54.cha": line 559.
+*CHI:	those soft big pillows and things on the couch .
+%mor:	pro:dem|those (1)adj|soft (1)adj|big (1)n|pillow-PL coord|and n|thing-PL
+	prep|on det:art|the n|couch .
+----------------------------------------
+*** File "mat54.cha": line 1248.
+*CHI:	(be)cause he is just a new born baby .
+%mor:	conj|because pro:sub|he aux|be&3S adv|just det:art|a (1)adj|new
+	(1)adj|born (1)n|baby .
+
+    Strings matched 2 times
+
+From file <mat55.cha>
+----------------------------------------
+*** File "mat55.cha": line 63.
+*CHI:	I saw a big great white shark .
+%mor:	pro:sub|I v|see&PAST det:art|a adj|big (1)adj|great (1)adj|white (1)n|shark
+	.
+----------------------------------------
+*** File "mat55.cha": line 102.
+*CHI:	some (.) real (.) great (.) white (.) shark (.) teeth .
+%mor:	qn|some (1)adj|real (1)adj|great (1)n|white n|shark n|tooth&PL .
+
+    Strings matched 2 times
+
+From file <mat56.cha>
+
+    Strings matched 0 times
+

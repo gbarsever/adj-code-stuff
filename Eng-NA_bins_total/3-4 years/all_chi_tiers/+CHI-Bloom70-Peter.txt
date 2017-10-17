@@ -1,0 +1,247 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:02:28 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+
+    Strings matched 0 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <05.cha>
+----------------------------------------
+*** File "05.cha": line 2901.
+*CHI:	close (.) close (.) truck . %snd:"05"_4602532_4622217
+%mor:	(1)adj|close (1)adj|close (1)n|truck .
+----------------------------------------
+*** File "05.cha": line 6233.
+*CHI:	big (.) tall (.) tower . %snd:"05"_9691807_9694026
+%mor:	(1)adj|big (1)adj|tall (1)n|tower .
+
+    Strings matched 2 times
+
+From file <06.cha>
+----------------------------------------
+*** File "06.cha": line 3574.
+*CHI:	open (.) wrong side . %snd:"06"_5259037_5261456
+%mor:	(1)adj|open (1)adj|wrong (1)n|side .
+
+    Strings matched 1 times
+
+From file <07.cha>
+----------------------------------------
+*** File "07.cha": line 8111.
+*CHI:	okay (.) okay (.) ready (.) ready Patsy . %snd:"07"_11236247_11246361
+%mor:	co|okay adj|okay (1)adj|ready (1)adj|ready (1)n:prop|Patsy .
+
+    Strings matched 1 times
+
+From file <08.cha>
+
+    Strings matched 0 times
+
+From file <09.cha>
+
+    Strings matched 0 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <11.cha>
+
+    Strings matched 0 times
+
+From file <12.cha>
+----------------------------------------
+*** File "12.cha": line 8621.
+*CHI:	good (.) good boy .
+%mor:	(1)adj|good (1)adj|good (1)n|boy .
+
+    Strings matched 1 times
+
+From file <13.cha>
+----------------------------------------
+*** File "13.cha": line 4037.
+*CHI:	good (.) good xxx (.) thank_you . %snd:"13"_4861427_4868691
+%mor:	(1)adj|good (1)adj|good (1)n|thank_you .
+
+    Strings matched 1 times
+
+From file <14.cha>
+----------------------------------------
+*** File "14.cha": line 8168.
+*CHI:	crash (.) crash (.) crash .
+%mor:	(1)adj|crash (1)adj|crash (1)n|crash .
+
+    Strings matched 1 times
+
+From file <15.cha>
+----------------------------------------
+*** File "15.cha": line 1909.
+*CHI:	I see a tiny little puppy on the fire engine and I go on a fire
+	engine and the &+f fire engine is noisy and I go at the firehouse and
+	I see a +...
+%mor:	pro:sub|I v|see det:art|a (1)adj|tiny (1)adj|little (1)n|puppy prep|on
+	det:art|the n|fire n|engine coord|and pro:sub|I v|go prep|on
+	det:art|a n|fire n|engine coord|and det:art|the n|fire n|engine
+	cop|be&3S adj|noise&dn-Y coord|and pro:sub|I v|go prep|at
+	det:art|the n|+n|fire+n|house coord|and pro:sub|I v|see det:art|a
+	+...
+
+    Strings matched 1 times
+
+From file <16.cha>
+----------------------------------------
+*** File "16.cha": line 10670.
+*CHI:	brand new shoes (..) and her shoes .
+%mor:	(1)adj|brand (1)adj|new (1)n|shoe-PL coord|and det:poss|her n|shoe-PL .
+
+    Strings matched 1 times
+
+From file <17.cha>
+----------------------------------------
+*** File "17.cha": line 713.
+*CHI:	where the big brown bag .
+%mor:	adv:int|where det:art|the (1)adj|big (1)adj|brown (1)n|bag .
+----------------------------------------
+*** File "17.cha": line 717.
+*CHI:	where the [//] is this big brown bag .
+%mor:	adv:int|where cop|be&3S pro:dem|this (1)adj|big (1)adj|brown (1)n|bag .
+----------------------------------------
+*** File "17.cha": line 11882.
+*CHI:	little blue ball like that .
+%mor:	(1)adj|little (1)adj|blue (1)n|ball prep|like pro:dem|that .
+
+    Strings matched 3 times
+
+From file <18.cha>
+
+    Strings matched 0 times
+
+From file <19.cha>
+----------------------------------------
+*** File "19.cha": line 2052.
+*CHI:	and then somebody big (.) bad wolf is gonna <&op> [/] (.) open that
+	(.) and that'll scare the baby .
+%mor:	coord|and adv:tem|then pro:indef|somebody (1)adj|big (1)adj|bad (1)n|wolf
+	aux|be&3S part|go-PRESP~inf|to adj|open det:dem|that coord|and
+	pro:rel|that~mod|will v|scare det:art|the n|baby .
+----------------------------------------
+*** File "19.cha": line 2073.
+*CHI:	the big bad wolf (.) the big bad wolf's coming .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf det:art|the (2)adj|big (2)adj|bad
+	(2)n|wolf~poss|s part|come-PRESP .
+----------------------------------------
+*** File "19.cha": line 2119.
+*CHI:	the (.) big bad wolf .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "19.cha": line 2141.
+*CHI:	and here the big bad wolf .
+%mor:	coord|and adv|here det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "19.cha": line 2232.
+*CHI:	and the (.) big bad wolf is gonna come (.) and she's gonna blow his
+	house +...
+%mor:	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf aux|be&3S
+	part|go-PRESP~inf|to v|come coord|and pro:sub|she~aux|be&3S
+	part|go-PRESP~inf|to v|blow det:poss|his n|house +...
+----------------------------------------
+*** File "19.cha": line 2262.
+*CHI:	the big bad wolf to put the baby in (.) bed .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf inf|to v|put&ZERO det:art|the
+	n|baby prep|in n|bed .
+----------------------------------------
+*** File "19.cha": line 3839.
+*CHI:	yep (.) that's nice (.) that's red (.) blue (.) yellow .
+%mor:	co|yep pro:dem|that~cop|be&3S adj|nice pro:dem|that~cop|be&3S
+	(1)adj|red (1)adj|blue (1)n|yellow .
+----------------------------------------
+*** File "19.cha": line 4105.
+*CHI:	big bad wolf coming now and he gonna take him off the car .
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf part|come-PRESP adv|now coord|and pro:sub|he
+	part|go-PRESP~inf|to v|take pro:obj|him prep|off det:art|the n|car .
+----------------------------------------
+*** File "19.cha": line 4164.
+*CHI:	and this (.) is not a fire (.) and this (.) this xxx xxx big bad
+	wolf xxx .
+%mor:	coord|and pro:dem|this cop|be&3S neg|not det:art|a n|fire coord|and
+	pro:dem|this pro:dem|this (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "19.cha": line 4280.
+*CHI:	(be)cause (.) he's the big bad wolf !
+%mor:	conj|because pro:sub|he~aux|be&3S det:art|the (1)adj|big (1)adj|bad
+	(1)n|wolf !
+----------------------------------------
+*** File "19.cha": line 4305.
+*CHI:	(be)cause (.) the big bad wolf is gonna come (.) and knock [!!] on
+	the door and +...
+%mor:	conj|because det:art|the (1)adj|big (1)adj|bad (1)n|wolf aux|be&3S
+	part|go-PRESP~inf|to v|come coord|and n|knock prep|on det:art|the
+	n|door coord|and +...
+----------------------------------------
+*** File "19.cha": line 4381.
+*CHI:	and he's gonna go (.) up in the chimney and find the (.) big bad
+	wolf !
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|go adv|up
+	prep|in det:art|the n|chimney coord|and v|find det:art|the (1)adj|big
+	(1)adj|bad (1)n|wolf !
+----------------------------------------
+*** File "19.cha": line 7531.
+*CHI:	nope (.) the bigger little block .
+%mor:	co|nope det:art|the (1)adj|big-CP (1)adj|little (1)n|block .
+----------------------------------------
+*** File "19.cha": line 8816.
+*CHI:	this ones little <&b> [//] that nice little bitty baby (.) <can we>
+	[/] can we do it like that I &+Pet .
+%mor:	pro:dem|this det:num|one-PL adj|little pro:rel|that adj|nice
+	(1)adj|little (1)adj|bit&dn-Y (1)n|baby mod|can pro:sub|we v|do pro:per|it
+	co|like det:dem|that pro:sub|I .
+----------------------------------------
+*** File "19.cha": line 10324.
+*CHI:	look here (.) yellow yellow (.) yellow .
+%mor:	cop|look adv|here (1)adj|yellow (1)adj|yellow (1)n|yellow .
+
+    Strings matched 16 times
+
+From file <20.cha>
+----------------------------------------
+*** File "20.cha": line 1286.
+*CHI:	I live a long long ways away .
+%mor:	pro:sub|I v|live det:art|a (1)adj|long (1)adj|long (1)n|way-PL adv|away .
+----------------------------------------
+*** File "20.cha": line 2872.
+*CHI:	oh there was a big bad wolf in here last night and he brought that
+	pole and he broke it .
+%mor:	co|oh adv|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|bad (1)n|wolf
+	prep|in adv|here adj|last n|night coord|and pro:sub|he v|bring&PAST
+	pro:rel|that n|pole coord|and pro:sub|he v|break&PAST pro:per|it .
+----------------------------------------
+*** File "20.cha": line 2885.
+*CHI:	yeah (.) father broke it (be)cause he's the big bad wolf .
+%mor:	co|yeah n|father v|break&PAST pro:per|it conj|because
+	pro:sub|he~aux|be&3S det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "20.cha": line 3743.
+*CHI:	he has a little bitty ears .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|ear-PL .
+----------------------------------------
+*** File "20.cha": line 12118.
+*CHI:	the big bad wolf .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 5 times
+

@@ -1,0 +1,132 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:53:44 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <bncar.cha>
+
+    Strings matched 0 times
+
+From file <bnkata.cha>
+
+    Strings matched 0 times
+
+From file <bnlou.cha>
+
+    Strings matched 0 times
+
+From file <cnjan.cha>
+----------------------------------------
+*** File "cnjan.cha": line 134.
+*INV:	a big fierce dragon .
+%mor:	det:art|a (1)adj|big (1)adj|fierce (1)n|dragon .
+
+    Strings matched 1 times
+
+From file <cnnat.cha>
+----------------------------------------
+*** File "cnnat.cha": line 255.
+*INV:	you sit on the little red chair .
+%mor:	pro:per|you v|sit prep|on det:art|the (1)adj|little (1)adj|red (1)n|chair .
+
+    Strings matched 1 times
+
+From file <fleff.cha>
+
+    Strings matched 0 times
+
+From file <flkir.cha>
+----------------------------------------
+*** File "flkir.cha": line 1184.
+*INV:	you're a clever little girl „ aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|clever (1)adj|little (1)n|girl
+	end|end aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <flmat.cha>
+----------------------------------------
+*** File "flmat.cha": line 273.
+*INV:	a big big tree , yes .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|tree cm|cm co|yes .
+
+    Strings matched 1 times
+
+From file <flrob.cha>
+
+    Strings matched 0 times
+
+From file <nwgar.cha>
+
+    Strings matched 0 times
+
+From file <nwjenb.cha>
+
+    Strings matched 0 times
+
+From file <nwkat.cha>
+
+    Strings matched 0 times
+
+From file <nwkery.cha>
+----------------------------------------
+*** File "nwkery.cha": line 81.
+*INV:	it's a lovely brown horsie .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|brown (1)n|horse-DIM
+	.
+----------------------------------------
+*** File "nwkery.cha": line 144.
+*INV:	look at that lovely big cart .
+%mor:	cop|look prep|at pro:dem|that (1)adj|love&dn-LY (1)adj|big (1)n|cart .
+
+    Strings matched 2 times
+
+From file <nwkir.cha>
+
+    Strings matched 0 times
+
+From file <nwlee.cha>
+
+    Strings matched 0 times
+
+From file <nwmath.cha>
+
+    Strings matched 0 times
+
+From file <nwmic.cha>
+
+    Strings matched 0 times
+
+From file <racol.cha>
+
+    Strings matched 0 times
+
+From file <raemio.cha>
+
+    Strings matched 0 times
+
+From file <raoli.cha>
+
+    Strings matched 0 times
+
+From file <spcraf.cha>
+
+    Strings matched 0 times
+
+From file <spdan.cha>
+
+    Strings matched 0 times
+
+From file <spdav.cha>
+----------------------------------------
+*** File "spdav.cha": line 864.
+*INV:	that's an even better game .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|even (1)adj|good&CP (1)n|game .
+
+    Strings matched 1 times
+
+From file <spkev.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,363 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:05:26 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admtp3.cha>
+
+    Strings matched 0 times
+
+From file <aimtp3.cha>
+
+    Strings matched 0 times
+
+From file <alitp3.cha>
+
+    Strings matched 0 times
+
+From file <alltp3.cha>
+
+    Strings matched 0 times
+
+From file <anatp3.cha>
+----------------------------------------
+*** File "anatp3.cha": line 414.
+*MOT:	say hi Tasha I haven't seen you for a long <long time> [>] +/.
+%mor:	co|say co|hi n:prop|Tasha pro:sub|I aux|have~neg|not part|see&PASTP
+	pro:per|you prep|for det:art|a (1)adj|long (1)adj|long (1)n|time +/.
+
+    Strings matched 1 times
+
+From file <anntp3.cha>
+
+    Strings matched 0 times
+
+From file <aprtp3.cha>
+----------------------------------------
+*** File "aprtp3.cha": line 23.
+*MOT:	big long legged dinosaur +...
+%mor:	adj|big (1)adj|long (1)adj|legged (1)n|dinosaur +...
+
+    Strings matched 1 times
+
+From file <asttp3.cha>
+
+    Strings matched 0 times
+
+From file <bobtp3.cha>
+----------------------------------------
+*** File "bobtp3.cha": line 586.
+*MOT:	it was a little tiny dinosaur ?
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny (1)n|dinosaur
+	?
+
+    Strings matched 1 times
+
+From file <bratp3.cha>
+
+    Strings matched 0 times
+
+From file <britp3.cha>
+
+    Strings matched 0 times
+
+From file <brntp3.cha>
+
+    Strings matched 0 times
+
+From file <brttp3.cha>
+----------------------------------------
+*** File "brttp3.cha": line 15.
+*MOT:	same old toys .
+%mor:	(1)adj|same (1)adj|old (1)n|toy-PL .
+
+    Strings matched 1 times
+
+From file <castp3.cha>
+
+    Strings matched 0 times
+
+From file <cattp3.cha>
+
+    Strings matched 0 times
+
+From file <clatp3.cha>
+
+    Strings matched 0 times
+
+From file <contp3.cha>
+----------------------------------------
+*** File "contp3.cha": line 661.
+*BRO:	real <sharp teeth> [>] .
+%mor:	(1)adj|real (1)adj|sharp (1)n|tooth&PL .
+
+    Strings matched 1 times
+
+From file <ctrtp3.cha>
+
+    Strings matched 0 times
+
+From file <davtp3.cha>
+----------------------------------------
+*** File "davtp3.cha": line 1039.
+*MOT:	<one big> [<] square chunk of pepperoni huh ?
+%mor:	pro:indef|one (1)adj|big (1)adj|square (1)n|chunk prep|of n|pepperoni co|huh
+	?
+
+    Strings matched 1 times
+
+From file <deatp3.cha>
+
+    Strings matched 0 times
+
+From file <devtp3.cha>
+
+    Strings matched 0 times
+
+From file <diatp3.cha>
+
+    Strings matched 0 times
+
+From file <dontp3.cha>
+
+    Strings matched 0 times
+
+From file <ethtp3.cha>
+
+    Strings matched 0 times
+
+From file <geotp3.cha>
+
+    Strings matched 0 times
+
+From file <guytp3.cha>
+
+    Strings matched 0 times
+
+From file <inatp3.cha>
+----------------------------------------
+*** File "inatp3.cha": line 230.
+*MOT:	because the [>] girl doesn't have the big fuzzy mane ?
+%mor:	conj|because det:art|the n|girl mod|do&3S~neg|not v|have
+	det:art|the (1)adj|big (1)adj|fuzz&dn-Y (1)n|mane ?
+----------------------------------------
+*** File "inatp3.cha": line 869.
+*MOT:	it's pretty (.) lopsided balancing beam .
+%mor:	pro:per|it~cop|be&3S (1)adj|pretty (1)adj|lopsided (1)n:gerund|balance-PRESP
+	n|beam .
+
+    Strings matched 2 times
+
+From file <jamtp3.cha>
+
+    Strings matched 0 times
+
+From file <jeatp3.cha>
+
+    Strings matched 0 times
+
+From file <jebtp3.cha>
+
+    Strings matched 0 times
+
+From file <jentp3.cha>
+
+    Strings matched 0 times
+
+From file <jertp3.cha>
+
+    Strings matched 0 times
+
+From file <jestp2.cha>
+----------------------------------------
+*** File "jestp2.cha": line 798.
+*MOT:	that's a cute little phone .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|phone .
+
+    Strings matched 1 times
+
+From file <jestp3.cha>
+----------------------------------------
+*** File "jestp3.cha": line 611.
+*MOT:	that's a neat little thing .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|neat (1)adj|little (1)n|thing .
+
+    Strings matched 1 times
+
+From file <joetp3.cha>
+
+    Strings matched 0 times
+
+From file <joytp3.cha>
+
+    Strings matched 0 times
+
+From file <justp3.cha>
+
+    Strings matched 0 times
+
+From file <kartp3.cha>
+----------------------------------------
+*** File "kartp3.cha": line 169.
+*MOT:	he has got a pretty long neck huh ?
+%mor:	pro:sub|he aux|have&3S part|get&PASTP det:art|a (1)adj|pretty (1)adj|long
+	(1)n|neck co|huh ?
+
+    Strings matched 1 times
+
+From file <kevtp3.cha>
+
+    Strings matched 0 times
+
+From file <kurtp3.cha>
+
+    Strings matched 0 times
+
+From file <martp3.cha>
+
+    Strings matched 0 times
+
+From file <maytp3.cha>
+
+    Strings matched 0 times
+
+From file <megtp3.cha>
+----------------------------------------
+*** File "megtp3.cha": line 1044.
+*FAT:	the little white thing that Fat used to own ?
+%mor:	det:art|the (1)adj|little (1)adj|white (1)n|thing pro:rel|that n:prop|Fat
+	v|use-PAST inf|to v|own ?
+
+    Strings matched 1 times
+
+From file <meltp3.cha>
+
+    Strings matched 0 times
+
+From file <montp3.cha>
+
+    Strings matched 0 times
+
+From file <mortp3.cha>
+
+    Strings matched 0 times
+
+From file <mrktp3.cha>
+----------------------------------------
+*** File "mrktp3.cha": line 944.
+*MOT:	his long old neck .
+%mor:	det:poss|his (1)adj|long (1)adj|old (1)n|neck .
+
+    Strings matched 1 times
+
+From file <nedtp3.cha>
+
+    Strings matched 0 times
+
+From file <pautp3.cha>
+
+    Strings matched 0 times
+
+From file <rastp3.cha>
+----------------------------------------
+*** File "rastp3.cha": line 490.
+*MOT:	he has got a real [!] long neck just like that one .
+%mor:	pro:sub|he aux|have&3S part|get&PASTP det:art|a (1)adj|real (1)adj|long
+	(1)n|neck adv|just prep|like pro:dem|that pro:indef|one .
+
+    Strings matched 1 times
+
+From file <rautp3.cha>
+
+    Strings matched 0 times
+
+From file <remtp3.cha>
+----------------------------------------
+*** File "remtp3.cha": line 210.
+*MOT:	you know a big long board ?
+%mor:	pro:per|you v|know det:art|a (1)adj|big (1)adj|long (1)n|board ?
+
+    Strings matched 1 times
+
+From file <riltp3.cha>
+
+    Strings matched 0 times
+
+From file <roctp3.cha>
+
+    Strings matched 0 times
+
+From file <rostp3.cha>
+
+    Strings matched 0 times
+
+From file <sartp3.cha>
+
+    Strings matched 0 times
+
+From file <shltp3.cha>
+
+    Strings matched 0 times
+
+From file <shotp3.cha>
+
+    Strings matched 0 times
+
+From file <stntp3.cha>
+
+    Strings matched 0 times
+
+From file <sustp3.cha>
+
+    Strings matched 0 times
+
+From file <tamtp3.cha>
+
+    Strings matched 0 times
+
+From file <tertp3.cha>
+
+    Strings matched 0 times
+
+From file <todtp3.cha>
+
+    Strings matched 0 times
+
+From file <tomtp3.cha>
+----------------------------------------
+*** File "tomtp3.cha": line 155.
+*MOT:	real big giraffe .
+%mor:	(1)adj|real (1)adj|big (1)n|giraffe .
+----------------------------------------
+*** File "tomtp3.cha": line 470.
+*MOT:	that's a pretty big castle .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|castle .
+----------------------------------------
+*** File "tomtp3.cha": line 950.
+*MOT:	I bet is was one of those great big heavy rhinoceroses .
+%mor:	pro:sub|I v|bet&ZERO aux|be&3S cop|be&PAST&13S det:num|one prep|of
+	pro:dem|those adj|great (1)adj|big (1)adj|heavy (1)n|rhinoceros-PL .
+
+    Strings matched 3 times
+
+From file <tretp3.cha>
+
+    Strings matched 0 times
+
+From file <tritp3.cha>
+
+    Strings matched 0 times
+
+From file <victp3.cha>
+
+    Strings matched 0 times
+
+From file <zantp3.cha>
+
+    Strings matched 0 times
+
+From file <zentp3.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,595 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:58:22 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <joel01a.cha>
+
+    Strings matched 0 times
+
+From file <joel01b.cha>
+
+    Strings matched 0 times
+
+From file <joel02a.cha>
+
+    Strings matched 0 times
+
+From file <joel02b.cha>
+
+    Strings matched 0 times
+
+From file <joel03a.cha>
+
+    Strings matched 0 times
+
+From file <joel03b.cha>
+----------------------------------------
+*** File "joel03b.cha": line 2563.
+*INV:	<and Joel has got a big fat tummy> [>] .
+%mor:	coord|and n:prop|Joel aux|have&3S part|get&PASTP det:art|a (1)adj|big
+	(1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "joel03b.cha": line 2574.
+*INV:	but Joel has a big fat tummy .
+%mor:	conj|but n:prop|Joel v|have&3S det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "joel03b.cha": line 2589.
+*MOT:	Mummy's got a big fat tummy as_well .
+%mor:	n:prop|Mummy~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|fat
+	(1)n|tummy adv|as_well .
+----------------------------------------
+*** File "joel03b.cha": line 2597.
+*INV:	lady's got a very big fat tummy .
+%mor:	n|lady~aux|be&3S part|get&PASTP det:art|a adv|very (1)adj|big (1)adj|fat
+	(1)n|tummy .
+
+    Strings matched 4 times
+
+From file <joel04a.cha>
+----------------------------------------
+*** File "joel04a.cha": line 126.
+*MOT:	nice soft hankie , look .
+%mor:	(1)adj|nice (1)adj|soft (1)n|hankie cm|cm co|look .
+
+    Strings matched 1 times
+
+From file <joel04b.cha>
+----------------------------------------
+*** File "joel04b.cha": line 2145.
+*MOT:	nice big green one .
+%mor:	(1)adj|nice (1)adj|big (1)n|green pro:indef|one .
+
+    Strings matched 1 times
+
+From file <joel05a.cha>
+
+    Strings matched 0 times
+
+From file <joel05b.cha>
+----------------------------------------
+*** File "joel05b.cha": line 381.
+*MOT:	nice delicate touch .
+%mor:	(1)adj|nice (1)adj|delicate (1)n|touch .
+
+    Strings matched 1 times
+
+From file <joel06a.cha>
+----------------------------------------
+*** File "joel06a.cha": line 597.
+*MOT:	you always get the same name for little old ladys .
+%mor:	pro:per|you adv|always v|get det:art|the adj|same n|name prep|for
+	(1)adj|little (1)adj|old (1)n|lady-PL .
+
+    Strings matched 1 times
+
+From file <joel06b.cha>
+
+    Strings matched 0 times
+
+From file <joel07a.cha>
+
+    Strings matched 0 times
+
+From file <joel07b.cha>
+
+    Strings matched 0 times
+
+From file <joel08a.cha>
+----------------------------------------
+*** File "joel08a.cha": line 1246.
+*MOT:	you've got lovely wet fingers now , haven't you .
+%mor:	pro:per|you~aux|have part|get&PASTP (1)adj|love&dn-LY (1)adj|wet
+	(1)n|finger-PL adv|now cm|cm aux|have~neg|not pro:per|you .
+----------------------------------------
+*** File "joel08a.cha": line 1607.
+*MOT:	it's a nice healthy sandwich .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|health&dn-Y (1)n|sandwich
+	.
+
+    Strings matched 2 times
+
+From file <joel08b.cha>
+----------------------------------------
+*** File "joel08b.cha": line 678.
+*MOT:	you big sloppy chap .
+%mor:	pro:per|you (1)adj|big (1)adj|slop&dn-Y (1)n|chap .
+
+    Strings matched 1 times
+
+From file <joel09a.cha>
+----------------------------------------
+*** File "joel09a.cha": line 401.
+*MOT:	I can't sit in that little tiny gap , can I ?
+%mor:	pro:sub|I mod|can~neg|not v|sit prep|in pro:dem|that (1)adj|little
+	(1)adj|tiny (1)n|gap cm|cm mod|can pro:sub|I ?
+----------------------------------------
+*** File "joel09a.cha": line 1746.
+*MOT:	they're all your little tatty bits .
+%mor:	pro:sub|they~aux|be&PRES adv|all det:poss|your (1)adj|little
+	(1)adj|tat&dv-Y (1)n|bit-PL .
+
+    Strings matched 2 times
+
+From file <joel09b.cha>
+----------------------------------------
+*** File "joel09b.cha": line 2140.
+*INV:	has she got a nice clean bum ?
+%mor:	v|have&3S pro:sub|she v|get&PAST det:art|a (1)adj|nice (1)adj|clean (1)n|bum
+	?
+----------------------------------------
+*** File "joel09b.cha": line 2144.
+*INV:	nice clean bottom ?
+%mor:	(1)adj|nice (1)adj|clean (1)n|bottom ?
+
+    Strings matched 2 times
+
+From file <joel10a.cha>
+----------------------------------------
+*** File "joel10a.cha": line 723.
+*MOT:	was it a big big elephant ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|big (1)adj|big (1)n|elephant ?
+----------------------------------------
+*** File "joel10a.cha": line 2174.
+*MOT:	what about doing a nice big tractor ?
+%mor:	pro:int|what adv|about part|do-PRESP det:art|a (1)adj|nice (1)adj|big
+	(1)n|tractor ?
+
+    Strings matched 2 times
+
+From file <joel10b.cha>
+----------------------------------------
+*** File "joel10b.cha": line 1792.
+*INV:	oh poor old panda .
+%mor:	co|oh (1)adj|poor (1)adj|old (1)n|panda .
+
+    Strings matched 1 times
+
+From file <joel11a.cha>
+----------------------------------------
+*** File "joel11a.cha": line 682.
+*MOT:	do a proper big circle .
+%mor:	v|do det:art|a (1)adj|proper (1)adj|big (1)n|circle .
+
+    Strings matched 1 times
+
+From file <joel11b.cha>
+
+    Strings matched 0 times
+
+From file <joel12a.cha>
+----------------------------------------
+*** File "joel12a.cha": line 172.
+*MOT:	well yeah yellowy green color .
+%mor:	co|well co|yeah (1)adj|yellow-Y (1)adj|green (1)n|color .
+----------------------------------------
+*** File "joel12a.cha": line 244.
+*MOT:	he's got a right funny face , hasn't he Charlie_Chalk ?
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|right
+	(1)adj|fun&dn-Y (1)n|face cm|cm aux|have&3S~neg|not pro:sub|he
+	n:prop|Charlie_Chalk ?
+----------------------------------------
+*** File "joel12a.cha": line 1105.
+*MOT:	it's a sort of a pinky reddy color , isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a n|sort prep|of det:art|a (1)adj|pink-Y
+	(1)adj|red-Y (1)n|color cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "joel12a.cha": line 1216.
+*MOT:	your Mummy did you a really nice big wiggly worm and you ripped it
+	all up .
+%mor:	det:poss|your n:prop|Mummy mod|do&PAST pro:per|you det:art|a
+	adv|real&dadj-LY adj|nice (1)adj|big (1)adj|wiggle&dv-Y (1)n|worm coord|and
+	pro:per|you v|rip-PAST pro:per|it adv|all adv|up .
+
+    Strings matched 4 times
+
+From file <joel12b.cha>
+
+    Strings matched 0 times
+
+From file <joel13a.cha>
+----------------------------------------
+*** File "joel13a.cha": line 820.
+*MOT:	a big brown rainbow .
+%mor:	det:art|a (1)adj|big (1)adj|brown (1)n|+n|rain+n|bow .
+----------------------------------------
+*** File "joel13a.cha": line 2640.
+*MOT:	you went on that big fast train with Daddy .
+%mor:	pro:per|you v|go&PAST prep|on pro:dem|that (1)adj|big (1)adj|fast (1)n|train
+	prep|with n:prop|Daddy .
+
+    Strings matched 2 times
+
+From file <joel13b.cha>
+----------------------------------------
+*** File "joel13b.cha": line 1626.
+*MOT:	lovely clean bottom .
+%mor:	(1)adj|love&dn-LY (1)adj|clean (1)n|bottom .
+
+    Strings matched 1 times
+
+From file <joel14a.cha>
+----------------------------------------
+*** File "joel14a.cha": line 569.
+*MOT:	we need a nice big red flower , don't we ?
+%mor:	pro:sub|we v|need det:art|a (1)adj|nice (1)adj|big (1)n|red n|flower cm|cm
+	mod|do~neg|not pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <joel14b.cha>
+
+    Strings matched 0 times
+
+From file <joel15a.cha>
+
+    Strings matched 0 times
+
+From file <joel15b.cha>
+----------------------------------------
+*** File "joel15b.cha": line 2448.
+*MOT:	I'm not surprised with a great big bucket on your head .
+%mor:	pro:sub|I~cop|be&1S neg|not part|surprise-PASTP prep|with det:art|a
+	(1)adj|great (1)adj|big (1)n|bucket prep|on det:poss|your n|head .
+----------------------------------------
+*** File "joel15b.cha": line 2754.
+*MOT:	I was going to say something like little wiggly worms or +...
+%mor:	pro:sub|I aux|be&PAST&13S part|go-PRESP inf|to v|say
+	pro:indef|something prep|like (1)adj|little (1)adj|wiggle&dv-Y (1)n|worm-PL
+	coord|or +...
+----------------------------------------
+*** File "joel15b.cha": line 2865.
+*MOT:	you made poor old Aunty_Liz watch it about five times , didn't you
+	when you stayed with her .
+%mor:	pro:per|you v|make&PAST (1)adj|poor (1)adj|old (1)n:prop|Aunty_Liz n|watch
+	pro:per|it prep|about det:num|five n|time-PL cm|cm
+	mod|do&PAST~neg|not pro:per|you conj|when pro:per|you
+	part|stay-PASTP prep|with pro:obj|her .
+
+    Strings matched 3 times
+
+From file <joel16a.cha>
+----------------------------------------
+*** File "joel16a.cha": line 257.
+*INV:	they were on your head last time .
+%mor:	pro:sub|they cop|be&PAST prep|on det:poss|your (1)adj|head (1)adj|last
+	(1)n|time .
+
+    Strings matched 1 times
+
+From file <joel16b.cha>
+----------------------------------------
+*** File "joel16b.cha": line 410.
+*MOT:	good old panda .
+%mor:	(1)adj|good (1)adj|old (1)n|panda .
+----------------------------------------
+*** File "joel16b.cha": line 1502.
+*INV:	oh nice big hug .
+%mor:	co|oh (1)adj|nice (1)adj|big (1)n|hug .
+----------------------------------------
+*** File "joel16b.cha": line 1525.
+*MOT:	he was very upset last week because you didn't come .
+%mor:	pro:sub|he cop|be&PAST&13S adv|very (1)adj|upset (1)adj|last (1)n|week
+	conj|because pro:per|you mod|do&PAST~neg|not v|come .
+
+    Strings matched 3 times
+
+From file <joel17a.cha>
+
+    Strings matched 0 times
+
+From file <joel17b.cha>
+
+    Strings matched 0 times
+
+From file <joel18a.cha>
+
+    Strings matched 0 times
+
+From file <joel18b.cha>
+
+    Strings matched 0 times
+
+From file <joel19a.cha>
+
+    Strings matched 0 times
+
+From file <joel19b.cha>
+----------------------------------------
+*** File "joel19b.cha": line 688.
+*MOT:	poor little babys .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby-PL .
+
+    Strings matched 1 times
+
+From file <joel20a.cha>
+
+    Strings matched 0 times
+
+From file <joel20b.cha>
+
+    Strings matched 0 times
+
+From file <joel21a.cha>
+
+    Strings matched 0 times
+
+From file <joel21b.cha>
+
+    Strings matched 0 times
+
+From file <joel22a.cha>
+----------------------------------------
+*** File "joel22a.cha": line 847.
+*INV:	he's got a big red nose .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|red
+	(1)n|nose .
+----------------------------------------
+*** File "joel22a.cha": line 989.
+*MOT:	your feet weren't that big last time I saw you .
+%mor:	det:poss|your n|foot&PL cop|be&PAST~neg|not pro:dem|that (1)adj|big
+	(1)adj|last (1)n|time pro:sub|I v|see&PAST pro:per|you .
+----------------------------------------
+*** File "joel22a.cha": line 1308.
+*MOT:	this one with the big red nose .
+%mor:	pro:dem|this pro:indef|one prep|with det:art|the (1)adj|big (1)adj|red
+	(1)n|nose .
+
+    Strings matched 3 times
+
+From file <joel22b.cha>
+
+    Strings matched 0 times
+
+From file <joel23a.cha>
+----------------------------------------
+*** File "joel23a.cha": line 1140.
+*MOT:	that horrible big fat lady .
+%mor:	pro:dem|that (1)adj|horrible (1)adj|big (1)n|fat n|lady .
+----------------------------------------
+*** File "joel23a.cha": line 1478.
+*INV:	or they could have a nice healthy apple .
+%mor:	coord|or pro:sub|they mod|could v|have det:art|a (1)adj|nice
+	(1)adj|health&dn-Y (1)n|apple .
+----------------------------------------
+*** File "joel23a.cha": line 1518.
+*MOT:	it's a nice big sticky+bun .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|+adj|sticky+n|bun
+	.
+
+    Strings matched 3 times
+
+From file <joel23b.cha>
+----------------------------------------
+*** File "joel23b.cha": line 1837.
+*INV:	let's find a nice little fishing village .
+%mor:	v|let~pro:obj|us v|find det:art|a (1)adj|nice (1)adj|little
+	(1)n:gerund|fish-PRESP n|village .
+
+    Strings matched 1 times
+
+From file <joel24a.cha>
+----------------------------------------
+*** File "joel24a.cha": line 528.
+*MOT:	not very nice hygienic place to have a coal+man , is it ?
+%mor:	neg|not adv|very (1)adj|nice (1)adj|hygienic (1)n|place inf|to v|have
+	det:art|a n|+n|coal+n|man cm|cm aux|be&3S pro:per|it ?
+
+    Strings matched 1 times
+
+From file <joel24b.cha>
+----------------------------------------
+*** File "joel24b.cha": line 1031.
+*MOT:	there's a nice big box of eggs .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|box prep|of
+	n|egg-PL .
+----------------------------------------
+*** File "joel24b.cha": line 1372.
+*MOT:	it's a funny old thing .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|thing .
+----------------------------------------
+*** File "joel24b.cha": line 2936.
+*MOT:	poor old Sam or whoever it is has fell off his perch .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sam coord|or pro:int|whoever pro:per|it
+	cop|be&3S aux|have&3S v|fall&PAST prep|off det:poss|his n|perch .
+
+    Strings matched 3 times
+
+From file <joel25a.cha>
+
+    Strings matched 0 times
+
+From file <joel25b.cha>
+----------------------------------------
+*** File "joel25b.cha": line 702.
+*MOT:	some nice juicy melon .
+%mor:	qn|some (1)adj|nice (1)adj|juice&dn-Y (1)n|melon .
+----------------------------------------
+*** File "joel25b.cha": line 2032.
+*MOT:	a nice wooly hat .
+%mor:	det:art|a (1)adj|nice (1)adj|wool&dn-Y (1)n|hat .
+
+    Strings matched 2 times
+
+From file <joel26a.cha>
+----------------------------------------
+*** File "joel26a.cha": line 2075.
+*MOT:	because this is a nice posh book you had for Christmas .
+%mor:	conj|because pro:dem|this cop|be&3S det:art|a (1)adj|nice (1)adj|posh
+	(1)n|book pro:per|you v|have&PAST prep|for n:prop|Christmas .
+
+    Strings matched 1 times
+
+From file <joel26b.cha>
+----------------------------------------
+*** File "joel26b.cha": line 2449.
+*MOT:	Mummy would rather have a nice tasty Chinese or an Indian .
+%mor:	n:prop|Mummy mod|will&COND adv|rather v|have det:art|a (1)adj|nice
+	(1)adj|taste&dn-Y (1)n:prop|Chinese coord|or det:art|a n:prop|Indian .
+
+    Strings matched 1 times
+
+From file <joel27a.cha>
+----------------------------------------
+*** File "joel27a.cha": line 586.
+*MOT:	what about the other words like magical musical merry+go+round and
+	+...
+%mor:	pro:int|what prep|about det:art|the qn|other n|word-PL prep|like
+	(1)adj|magic-AL (1)adj|musical (1)n|+adj|merry+v|go+adj|round coord|and +...
+----------------------------------------
+*** File "joel27a.cha": line 2254.
+*MOT:	it's a big red telephone .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|telephone .
+
+    Strings matched 2 times
+
+From file <joel27b.cha>
+----------------------------------------
+*** File "joel27b.cha": line 37.
+*MOT:	that's a nice big juice pineapple .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|juice
+	n|pineapple .
+
+    Strings matched 1 times
+
+From file <joel28a.cha>
+
+    Strings matched 0 times
+
+From file <joel28b.cha>
+----------------------------------------
+*** File "joel28b.cha": line 588.
+*MOT:	big [/] big  little bottom ?
+%mor:	(1)adj|big (1)adj|little (1)n|bottom ?
+----------------------------------------
+*** File "joel28b.cha": line 1162.
+*MOT:	poor old engine .
+%mor:	(1)adj|poor (1)adj|old (1)n|engine .
+
+    Strings matched 2 times
+
+From file <joel29a.cha>
+
+    Strings matched 0 times
+
+From file <joel29b.cha>
+----------------------------------------
+*** File "joel29b.cha": line 344.
+*MOT:	it was yellow last time .
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|yellow (1)adj|last (1)n|time .
+
+    Strings matched 1 times
+
+From file <joel30a.cha>
+----------------------------------------
+*** File "joel30a.cha": line 944.
+*MOT:	you're a big naughty boy .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|big (1)adj|naughty (1)n|boy .
+----------------------------------------
+*** File "joel30a.cha": line 1627.
+*MOT:	has he got big juicy lips .
+%mor:	v|have&3S pro:sub|he v|get&PAST (1)adj|big (1)adj|juice&dn-Y (1)n|lip-PL .
+
+    Strings matched 2 times
+
+From file <joel30b.cha>
+
+    Strings matched 0 times
+
+From file <joel31a.cha>
+----------------------------------------
+*** File "joel31a.cha": line 821.
+*MOT:	and they've got some nice big Easter_Eggs .
+%mor:	coord|and pro:sub|they~aux|have part|get&PASTP qn|some (1)adj|nice
+	(1)adj|big (1)n:prop|Easter_Eggs .
+
+    Strings matched 1 times
+
+From file <joel31b.cha>
+----------------------------------------
+*** File "joel31b.cha": line 1285.
+*MOT:	that's got_to be the most boring game in the whole wide world .
+%mor:	pro:dem|that~aux|be&3S mod:aux|got_to cop|be det:art|the qn|most
+	part|bore-PRESP n|game prep|in det:art|the (1)adj|whole (1)adj|wide
+	(1)n|world .
+----------------------------------------
+*** File "joel31b.cha": line 1968.
+*MOT:	we're having a right good time in here .
+%mor:	pro:sub|we~aux|be&PRES part|have-PRESP det:art|a (1)adj|right (1)adj|good
+	(1)n|time prep|in adv|here .
+----------------------------------------
+*** File "joel31b.cha": line 2324.
+*MOT:	what's that horrible slimy thing on my leg ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that (1)adj|horrible (1)adj|slime&dn-Y
+	(1)n|thing prep|on det:poss|my n|leg ?
+
+    Strings matched 3 times
+
+From file <joel32a.cha>
+----------------------------------------
+*** File "joel32a.cha": line 1447.
+*MOT:	they're even good bedtime storys , aren't they ?
+%mor:	pro:sub|they~aux|be&PRES (1)adj|even (1)adj|good (1)n|+n|bed+n|time
+	n|story-PL cm|cm aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "joel32a.cha": line 2139.
+*MOT:	good job I've got horrible saggy skin , isn't it ?
+%mor:	adj|good n|job pro:sub|I~aux|have part|get&PASTP (1)adj|horrible
+	(1)adj|sag&dv-Y (1)n|skin cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <joel32b.cha>
+
+    Strings matched 0 times
+
+From file <joel33a.cha>
+
+    Strings matched 0 times
+
+From file <joel33b.cha>
+----------------------------------------
+*** File "joel33b.cha": line 1601.
+*MOT:	that's a nice healthy dinner .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|health&dn-Y (1)n|dinner
+	.
+----------------------------------------
+*** File "joel33b.cha": line 2618.
+*MOT:	you've got big huge sandwiches ?
+%mor:	pro:per|you~aux|have v|get&PAST (1)adj|big (1)adj|huge (1)n|sandwich-PL ?
+
+    Strings matched 2 times
+
+From file <joel34a.cha>
+----------------------------------------
+*** File "joel34a.cha": line 2094.
+*MOT:	who's a cuddly little boy .
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|cuddle&dv-Y (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <joel34b.cha>
+
+    Strings matched 0 times
+

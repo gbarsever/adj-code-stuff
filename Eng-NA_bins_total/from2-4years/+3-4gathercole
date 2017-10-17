@@ -1,0 +1,27 @@
+combo +t%mor +t*CHI +t*MIC +t*JEF +t*ERN +t*MAT +t*RAC +t*KEI +t*KEN +t*CON +t*UNK +t*CHR +t*SAA +t*GIL +t*ERK +t*LUK +t*SHN +t*UNC +t*MEG +t*SAR +t*LIL +t*BRY +t*NIC +t*BRI +t*ALI +t*NAT +t*ERI +t*ALY +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:44:37 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *MIC; *JEF; *ERN; *MAT; *RAC; *KEI; *KEN; *CON; *UNK; *CHR; *SAA; *GIL; *ERK; *LUK; *SHN; *UNC; *MEG; *SAR; *LIL; *BRY; *NIC; *BRI; *ALI; *NAT; *ERI; *ALY;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Gathercole/03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Gathercole/03.cha": line 1604.
+*SAR:	(.) we got the same little tails , don't we , me (.) Lily ?
+%mor:	pro:sub|we v|get&PAST det:art|the (1)adj|same (1)adj|little (1)n|tail-PL
+	cm|cm mod|do~neg|not pro:sub|we cm|cm pro:obj|me n:prop|Lily ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Gathercole/05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Gathercole/13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Gathercole/13.cha": line 100.
+*ERI:	a big old fish .
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|fish .
+
+    Strings matched 1 times
+

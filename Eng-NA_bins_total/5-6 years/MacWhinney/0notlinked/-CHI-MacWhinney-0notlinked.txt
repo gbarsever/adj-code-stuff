@@ -1,0 +1,56 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:07:29 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01diary.cha>
+
+    Strings matched 0 times
+
+From file <07b-front.cha>
+
+    Strings matched 0 times
+
+From file <20b2.cha>
+
+    Strings matched 0 times
+
+From file <21a2.cha>
+
+    Strings matched 0 times
+
+From file <21b1.cha>
+
+    Strings matched 0 times
+
+From file <21b2.cha>
+
+    Strings matched 0 times
+
+From file <27a1-end.cha>
+
+    Strings matched 0 times
+
+From file <61a-inc.cha>
+----------------------------------------
+*** File "61a-inc.cha": line 198.
+*FAT:	then you'd better just run .
+%mor:	adv:tem|then pro:per|you~mod|genmod (1)adj|good&CP (1)adj|just (1)n|run .
+----------------------------------------
+*** File "61a-inc.cha": line 535.
+*MAR:	and I put my [//] gonr [//] I put my monkey cape on and then my
+	[//] then [//] no (.) I put a giant cape [//] a giant suit on and
+	then another (.) a big (.) big (.) giant feet up .
+%mor:	coord|and pro:sub|I v|put&ZERO pro:sub|I v|put&ZERO det:poss|my
+	n|monkey n|cape adv|on coord|and adv:tem|then co|no pro:sub|I
+	v|put&ZERO det:art|a adj|giant det:art|a n|giant n|suit adv|on
+	coord|and adv:tem|then qn|another det:art|a adj|big (1)adj|big
+	(1)adj|giant (1)n|foot&PL adv|up .
+----------------------------------------
+*** File "61a-inc.cha": line 548.
+*MAR:	a big (.) big (.) giant feet (.) and +/.
+%mor:	det:art|a adj|big (1)adj|big (1)adj|giant (1)n|foot&PL coord|and +/.
+
+    Strings matched 3 times
+

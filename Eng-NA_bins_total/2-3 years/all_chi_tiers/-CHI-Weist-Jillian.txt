@@ -1,0 +1,161 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:15:49 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <jil01.cha>
+
+    Strings matched 0 times
+
+From file <jil02.cha>
+----------------------------------------
+*** File "jil02.cha": line 1925.
+*MOT:	what's , what's he pourin(g) on the poor little owl ? %snd:"jil02"_1324606_1328132
+%mor:	pro:int|what~aux|be&3S cm|cm pro:int|what~cop|be&3S pro:sub|he
+	part|pour-PRESP prep|on det:art|the (1)adj|poor (1)adj|little (1)n|owl ?
+----------------------------------------
+*** File "jil02.cha": line 2199.
+*MOT:	<what's this> [/] what's this little foxy guy doing ? %snd:"jil02"_1556806_1559416
+%mor:	pro:int|what~cop|be&3S pro:dem|this (1)adj|little (1)adj|fox&dn-Y (1)n|guy
+	part|do-PRESP ?
+
+    Strings matched 2 times
+
+From file <jil03.cha>
+
+    Strings matched 0 times
+
+From file <jil04.cha>
+----------------------------------------
+*** File "jil04.cha": line 1886.
+*MOT:	+< wow , what a good little boy . %snd:"jil04"_1702597_1704560
+%mor:	co|wow cm|cm pro:int|what det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <jil05.cha>
+
+    Strings matched 0 times
+
+From file <jil06.cha>
+
+    Strings matched 0 times
+
+From file <jil07.cha>
+----------------------------------------
+*** File "jil07.cha": line 942.
+*JEN:	mm , they must be awful little babies then , huh ? %snd:"jil07"_708795_713035
+%mor:	co|mm cm|cm pro:sub|they mod|must cop|be (1)adj|awful (1)adj|little
+	(1)n|baby-PL adv:tem|then cm|cm co|huh ?
+----------------------------------------
+*** File "jil07.cha": line 1276.
+*MOT:	isn't that a funny little seat ? %snd:"jil07"_975802_978079
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|fun&dn-Y (1)adj|little
+	(1)n|seat ?
+
+    Strings matched 2 times
+
+From file <jil08.cha>
+----------------------------------------
+*** File "jil08.cha": line 1682.
+*JEN:	boy , that's a neat little holder . %snd:"jil08"_1285224_1288094
+%mor:	co|boy cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|neat (1)adj|little
+	(1)n|hold&dv-AGT .
+
+    Strings matched 1 times
+
+From file <jil09.cha>
+----------------------------------------
+*** File "jil09.cha": line 665.
+*CAT:	a little round window . %snd:"jil09"_468972_470221
+%mor:	det:art|a (1)adj|little (1)adj|round (1)n|window .
+
+    Strings matched 1 times
+
+From file <jil10.cha>
+
+    Strings matched 0 times
+
+From file <jil11.cha>
+----------------------------------------
+*** File "jil11.cha": line 2244.
+*MOT:	I think I'm gonna have a nice little (.) bath . %snd:"jil11"_1804233_1808937
+%mor:	pro:sub|I v|think pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|have
+	det:art|a (1)adj|nice (1)adj|little (1)n|bath .
+
+    Strings matched 1 times
+
+From file <jil12.cha>
+----------------------------------------
+*** File "jil12.cha": line 2119.
+*CAT:	he was tryin(g) to put him in the box and he's got little twisty ties on his arms so he can't get up . %snd:"jil12"_1360499_1367515
+%mor:	pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to v|put&ZERO
+	pro:obj|him prep|in det:art|the n|box coord|and pro:sub|he~aux|be&3S
+	v|get&PAST (1)adj|little (1)adj|twist&dv-Y (1)n|tie-PL prep|on det:poss|his
+	n|arm-PL co|so pro:sub|he mod|can~neg|not v|get adv|up .
+
+    Strings matched 1 times
+
+From file <jil13.cha>
+
+    Strings matched 0 times
+
+From file <jil14.cha>
+
+    Strings matched 0 times
+
+From file <jil15.cha>
+----------------------------------------
+*** File "jil15.cha": line 981.
+*CAT:	they all have their own separate bedrooms ? %snd:"jil15"_729687_732298
+%mor:	pro:sub|they post|all v|have det:poss|their (1)adj|own (1)adj|separate
+	(1)n|+n|bed+n|room-PL ?
+
+    Strings matched 1 times
+
+From file <jil16.cha>
+----------------------------------------
+*** File "jil16.cha": line 1984.
+*CAT:	your very own little playground . %snd:"jil16"_1292710_1297747
+%mor:	det:poss|your adv|very (1)adj|own (1)adj|little (1)n|+n|play+n|ground .
+----------------------------------------
+*** File "jil16.cha": line 2187.
+*CAT:	that's a nice big bath just for him , huh ? %snd:"jil16"_1402791_1405967
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|bath adv|just
+	prep|for pro:obj|him cm|cm co|huh ?
+
+    Strings matched 2 times
+
+From file <jil17.cha>
+----------------------------------------
+*** File "jil17.cha": line 88.
+*CAT:	scrub scrub scrub . %snd:"jil17"_59378_62952
+%mor:	(1)adj|scrub (1)adj|scrub (1)n|scrub .
+----------------------------------------
+*** File "jil17.cha": line 211.
+*CAT:	scrub scrub scrub . %snd:"jil17"_142703_145097
+%mor:	(1)adj|scrub (1)adj|scrub (1)n|scrub .
+
+    Strings matched 2 times
+
+From file <jil18.cha>
+
+    Strings matched 0 times
+
+From file <jil19.cha>
+
+    Strings matched 0 times
+
+From file <jil20.cha>
+
+    Strings matched 0 times
+
+From file <jil21.cha>
+
+    Strings matched 0 times
+
+From file <jil22.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,31 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:20:15 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <v2-1321.cha>
+----------------------------------------
+*** File "v2-1321.cha": line 672.
+*MOT:	you had a nice li(tt)l(e) tune goin(g) on . %snd:"v2-s31dec00"_1389000_1390977
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|little (1)n|tune
+	part|go-PRESP adv|on .
+----------------------------------------
+*** File "v2-1321.cha": line 928.
+*MOT:	on her brand+new clean thing . %snd:"v2-s31dec00"_2087737_2089500
+%mor:	prep|on det:poss|her (1)adj|+adj|brand+adj|new (1)adj|clean (1)n|thing .
+----------------------------------------
+*** File "v2-1321.cha": line 931.
+*MOT:	in my brand+new clean bed . %snd:"v2-s31dec00"_2090697_2092183
+%mor:	prep|in det:poss|my (1)adj|+adj|brand+adj|new (1)adj|clean (1)n|bed .
+
+    Strings matched 3 times
+
+From file <v2-1405.cha>
+----------------------------------------
+*** File "v2-1405.cha": line 2597.
+*MOT:	see all the little bitty puppies ? %snd:"v2-m15jan01"_3005677_3007143
+%mor:	v|see qn|all det:art|the (1)adj|little (1)adj|bit&dn-Y (1)n|puppy-PL ?
+
+    Strings matched 1 times
+

@@ -1,0 +1,813 @@
+@UTF8
+@PID:	11312/c-00004612-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Rick Target_Child , FAT Father
+@ID:	eng|Conti1|CHI|5;9.20||||Target_Child|||
+@ID:	eng|Conti1|FAT|||||Father|||
+*FAT:	put the old [?] head up first .
+%mor:	v|put&ZERO det:art|the adj|old n|head adv|up adv|first .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|JCT 6|5|POBJ 7|1|PUNCT
+*FAT:	can you find them ?
+%mor:	mod|can pro:per|you v|find pro:obj|them ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	puts pieces of card on the floor
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef puts pieces of card on floor out of FAT's sight aft glances towards FAT's cards
+*FAT:	there's another one .
+%mor:	pro:exist|there~cop|be&3S qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%act:	puts another card on the floor
+*CHI:	&+awkighnuhuh .
+%act:	puts card under those put out by FAT
+*FAT:	crocodile that .
+%mor:	n|crocodile pro:dem|that .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	puts more cards on floor
+%cod:	$NEW$IN
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft adds a piece of card to crocodile card infront of FAT
+*FAT:	you've already done one .
+%mor:	pro:per|you~aux|have adv|already part|do&PASTP pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	ah .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues to place cards on the floor
+*CHI:	xxx xxx .
+%par:	squeaks
+%act:	looks through own cards on the floor
+*FAT:	there's a walrus .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|walrus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	continues putting cards on the floor
+*CHI:	0 .
+%act:	glances towards FAT's cards and then looks down at own
+*FAT:	xxx xxx xxx xxx .
+*FAT:	is there any more there for dad ?
+%mor:	cop|be&3S adv|there qn|any adv|more adv|there prep|for n|dad ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|1|JCT 5|1|JCT 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%act:	looks through cards in hand and then glances at CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at own cards
+*CHI:	0 .
+%act:	picks up card and then joins it to one in front of FAT
+*FAT:	what's that one ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	looks down at card
+*CHI:	&+veeaw .
+%act:	looks towards card in FAT's hand
+*FAT:	oh , a newspaper „ isn't it ?
+%mor:	co|oh cm|cm det:art|a n|newspaper end|end cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|4|COM 2|1|LP 3|4|DET 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|6|PRED
+	9|6|PUNCT
+%act:	looks down at card
+*CHI:	&+mm .
+%act:	aft looks through own cards
+*FAT:	there you are then .
+%mor:	adv|there pro:per|you cop|be&PRES adv:tem|then .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*FAT:	there's that one and that one .
+%mor:	pro:exist|there~cop|be&3S pro:dem|that pro:indef|one coord|and
+	pro:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+%act:	takes cards from CHI and puts it in front of himself
+*CHI:	I dot that .
+%mor:	pro:sub|I v|dot pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	points to card that FAT has just put down
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks through pile of cards
+*CHI:	<me dee [: see]> [/] me dee [: see] .
+%mor:	pro:obj|me v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%exp:	dee = see
+%act:	joins two cards to card in front of FAT
+*FAT:	there's not the other side .
+%mor:	pro:exist|there~aux|be&3S neg|not det:art|the qn|other n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|QUANT 6|2|PRED 7|2|PUNCT
+%act:	searches amongst cards
+*CHI:	xxx xxx .
+%act:	tries to find appropriate place for card
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$CON$COT$ACK
+*FAT:	you got daddy thinking that was one there [?] .
+%mor:	pro:per|you v|get&PAST n|daddy part|think-PRESP pro:rel|that
+	cop|be&PAST&13S det:num|one adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|XJCT 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|2|PUNCT
+%act:	looks at cards
+*CHI:	you not dot that .
+%mor:	pro:per|you neg|not v|dot pro:dem|that .
+%gra:	1|3|SUBJ 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	that go to that .
+%mor:	pro:rel|that v|go prep|to pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%gpx:	points to card in FAT's hand and points to card on the floor
+*FAT:	that one ?
+%mor:	pro:dem|that pro:indef|one ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	you're not supposed to tell me .
+%mor:	pro:per|you~aux|be&PRES neg|not part|suppose-PASTP inf|to v|tell
+	pro:obj|me .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+%par:	laughs
+%act:	places cards as CHI suggested
+*CHI:	that [?] over there .
+%mor:	pro:dem|that adv|over adv|there .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	dur joins two cards together aft looks through cards in front of self
+*FAT:	I've got balloon .
+%mor:	pro:sub|I~aux|have part|get&PASTP n|balloon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	there's a balloon .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	looks if I'm stuck .
+%mor:	cop|look-3S conj|if pro:sub|I~cop|be&1S v|stick&PAST .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|4|PRED 6|1|PUNCT
+%act:	joins cards , looks at own cards and cards on floor
+*CHI:	I'm not .
+%mor:	pro:sub|I~cop|be&1S neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%act:	looks through own cards
+*FAT:	I am .
+%mor:	pro:sub|I aux|be&1S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	that's [?] all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	looks through cards on the floor
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks through FAT's cards
+*FAT:	I'm stuck .
+%mor:	pro:sub|I~cop|be&1S v|stick&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	looks through cards on the floor
+*CHI:	where my panda go ?
+%mor:	adv:int|where det:poss|my n|panda v|go ?
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	looks at cards on the floor
+*FAT:	where [//] where's the panda ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|panda ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	you got him .
+%mor:	pro:per|you v|get&PAST pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	that's +...
+%mor:	pro:dem|that~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	looks towards card in CHI's hand
+*CHI:	I'm that [?] .
+%mor:	pro:sub|I~aux|be&1S pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	there at the bottom .
+%mor:	adv|there prep|at det:art|the n|bottom .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%gpx:	points top card in front of FAT
+%act:	joins two cards together
+*FAT:	right that's mine , I've won one .
+%mor:	co|right pro:dem|that~cop|be&3S n|mine cm|cm pro:sub|I~aux|have
+	part|win&PASTP pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|LP 6|8|SUBJ 7|8|AUX 8|3|XJCT
+	9|8|OBJ 10|3|PUNCT
+%act:	joins third card , gathers up three cards
+*CHI:	I won too .
+%mor:	pro:sub|I v|win&PAST post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	gathers up one set of cards
+*FAT:	you won too ?
+%mor:	pro:per|you v|win&PAST post|too ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%par:	laughs
+%act:	looks at cards in front of self
+*CHI:	0 .
+%par:	laughs
+%act:	searches through own cards
+*FAT:	you've got all the cards .
+%mor:	pro:per|you~aux|have v|get&PAST qn|all det:art|the n|card-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%act:	looks around at all cards on floor
+*CHI:	0 .
+%act:	picks up card and joins it to a card close to FAT
+*FAT:	that [?] one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	dur looks at card CHI has put down aft looks through cards on floor
+*CHI:	0 .
+%act:	searches through cards on the floor
+*FAT:	yeah (.) I've got it .
+%mor:	co|yeah pro:sub|I~aux|have part|get&PASTP pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	joins cards to those on the floor , gathers up three cards
+*CHI:	you got two .
+%mor:	pro:per|you v|get&PAST det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	observes FAT's actions
+*FAT:	&+a:h I'm beating you Rick .
+%mor:	pro:sub|I~aux|be&1S part|beat-PRESP pro:per|you n:prop|Rick .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|APP 6|3|PUNCT
+%cod:	$END$NE
+*CHI:	0 .
+%act:	looks at cards on floor
+*FAT:	I've got another one .
+%mor:	pro:sub|I~aux|have part|get&PASTP qn|another pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%act:	picks up card and joins it to two others
+*CHI:	I got another one .
+%mor:	pro:sub|I v|get&PAST qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%act:	picks up card
+%cod:	$CON$INT
+*FAT:	have you ?
+%mor:	v|have pro:per|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	looks at cards in front of self
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	dur sets cards to one side aft searches through cards on floor
+*FAT:	0 .
+%par:	laughs
+%act:	picks up card
+*CHI:	xxx .
+%act:	picks up card
+*FAT:	which one have you got now ?
+%mor:	pro:rel|which pro:indef|one v|have pro:per|you v|get&PAST adv|now ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*CHI:	0 [% trn] .
+%act:	sets card between two others
+*FAT:	is that yours ?
+%mor:	cop|be&3S pro:dem|that pro:poss|yours ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+%act:	gathers up the three cards
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes cards from FAT
+*FAT:	you beat me on that one .
+%mor:	pro:per|you v|beat&ZERO pro:obj|me prep|on pro:dem|that
+	pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	&+mm .
+%act:	puts cards besides others he has won
+*FAT:	I've got the newspaper one .
+%mor:	pro:sub|I~aux|have part|get&PASTP det:art|the n|newspaper
+	pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%act:	sets card beside two others and gathers up all 3
+*CHI:	I got xxx one .
+%mor:	pro:sub|I v|get&PAST pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%par:	laughs
+%act:	gathers up 3 cards , looks at FAT
+*FAT:	&+mm (.) no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at cards on floor
+*FAT:	that's xxx xxx together xxx .
+%mor:	pro:rel|that~aux|be&3S adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	sets one card beside another , removes it and looks at cards on the floor
+*CHI:	0 .
+%act:	joins two cards together
+*FAT:	what's that one ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	that ?
+%mor:	pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to card he has just placed , looks amongst cards on the floor
+*FAT:	xxx xxx xxx .
+*FAT:	where is it ?
+%mor:	adv:int|where aux|be&3S pro:per|it ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*FAT:	xxx xxx .
+*FAT:	where is it Jock ?
+%mor:	adv:int|where aux|be&3S pro:per|it n:prop|Jock ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	looks amongst cards on the floor
+*CHI:	xxx .
+%act:	glances towards cards at which FAT is looking
+*FAT:	who's got it ?
+%mor:	pro:rel|who~aux|be&3S v|get&PAST pro:per|it ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%par:	bef laughs
+%act:	continues looking at the cards on the floor
+*CHI:	I dun no .
+%mor:	pro:sub|I n|dun co|no .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|COM 4|2|PUNCT
+%act:	looks at own cards on the floor
+*FAT:	right (.) neither do I .
+%mor:	adv|right adv|neither mod|do pro:sub|I .
+%gra:	1|2|JCT 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*FAT:	ay (.) I've got it (.) no .
+%mor:	co|ay pro:sub|I~aux|have part|get&PASTP pro:per|it co|no .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COM 7|4|PUNCT
+%act:	looks at cards on the floor , picks one up and puts it down again
+*CHI:	0 [% trn] .
+%par:	laughs
+%act:	observes FAT's actions
+*FAT:	wrong one .
+%mor:	adj|wrong pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	picks card up and places it beside another
+*FAT:	tractor .
+%mor:	n|tractor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks amongst cards on the floor
+*CHI:	I saw that one [?] .
+%mor:	pro:sub|I v|see&PAST pro:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	picks up card
+*FAT:	that's the tractor .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|tractor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	picks up card and joins it to others
+*CHI:	0 [% trn] .
+%par:	laughs
+%act:	puts card between those FAT has just put down , picks it up and looks at cards on floor
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&+mm xxx xxx .
+*FAT:	<we're stuck> [/] Rick we're stuck .
+%mor:	n:prop|Rick pro:sub|we~aux|be&PRES v|stick&PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*FAT:	got it (.) that's another one for dad .
+%mor:	v|get&PAST pro:per|it pro:rel|that~aux|be&3S qn|another
+	pro:indef|one prep|for n|dad .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|AUX 5|6|QUANT 6|2|COMP 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+%par:	laughs
+%act:	looks at cards on floor , picks up card , joins it to others and picks up all 3
+*CHI:	0 .
+%act:	picks up cards and looks at cards on the floor
+*FAT:	which one have you got now ?
+%mor:	pro:rel|which pro:indef|one v|have pro:per|you v|get&PAST adv|now ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+%act:	looks at cards on the floor
+*CHI:	this one .
+%mor:	pro:dem|this pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	dur holds out cards aft picks up cards
+*FAT:	what's that one ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	0 [% trn] .
+%par:	laughs
+%act:	hold 3 cards out to FAT
+*FAT:	I think you're cheating again „ aren't you ?
+%mor:	pro:sub|I v|think pro:per|you~aux|be&PRES part|cheat-PRESP
+	adv|again end|end aux|be&PRES~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|2|OBJ 11|2|PUNCT
+%act:	looks amongst cards on the floor
+*CHI:	0 .
+%par:	laughs
+%act:	bef picks up some cards aft looks at FAT
+*FAT:	dad's stuck again .
+%mor:	n|dad~aux|be&3S part|stick&PASTP adv|again .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	looks at cards on floor
+*CHI:	I'm not .
+%mor:	pro:sub|I~cop|be&1S neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%act:	aft puts one card beside another and looks at cards on floor
+*FAT:	0 .
+%act:	smacks missing card , picks up 3 cards and looks at CHI
+*CHI:	0 .
+%act:	observes FAT's actions
+*FAT:	got another one .
+%mor:	v|get&PAST qn|another pro:indef|one .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*FAT:	come on Rick .
+%mor:	v|come prep|on n:prop|Rick .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	gathers up 3 more cards
+*CHI:	0 .
+%act:	picks up card
+*FAT:	ah (.) it's the wrong head .
+%mor:	co|ah pro:per|it~cop|be&3S det:art|the adj|wrong n|head .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%act:	tries to match 2 cards
+*CHI:	0 .
+%par:	laughs
+%act:	observes FAT's actions
+*FAT:	want the middle piece .
+%mor:	v|want det:art|the n|middle n|piece .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%par:	laughs
+%act:	puts card close top another one and looks at cards on the floor
+*CHI:	0 .
+%par:	laughs
+%act:	finds middle piece and picks all 3 cards up
+*FAT:	&+mm (.) mister rabbit .
+%mor:	n|mister n|rabbit .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	dur picks up card and sets it beside another aft looks for matching third card
+*CHI:	0 .
+%act:	looks for missing part of Mr Rabbit
+*FAT:	I've got it .
+%mor:	pro:sub|I~aux|have part|get&PASTP pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	picks up all three sections of Mr Rabbit
+*CHI:	0 .
+%act:	glances at 3 parts of rabbit and gathers up 2 cards
+*FAT:	what's that one ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	looks towards cards in CHI's hand
+*CHI:	0 .
+%par:	laughs
+%act:	shows 2 cards to FAT and picks up third card
+*FAT:	you're cheating .
+%mor:	pro:per|you~aux|be&PRES part|cheat-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	dur rubs CHI's head aft starts to push some cards together
+*CHI:	0 .
+%act:	tries to pick up card
+*FAT:	that's mine .
+%mor:	pro:dem|that~cop|be&3S pro:poss|mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%par:	aft laughs
+%act:	picks up card
+*CHI:	0 .
+%par:	laughs
+%act:	looks down at cards on the floor
+*FAT:	that's not the one .
+%mor:	pro:dem|that~cop|be&3S neg|not det:art|the pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+%act:	pushes two cards together
+*CHI:	I know (.) <that one> [>] .
+%mor:	pro:sub|I v|know pro:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%par:	laughs
+%act:	picks up card and tries to place it with the others on the floor
+*FAT:	there [<] .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	aft laughs
+%act:	dur looks at cards on the floor aft tries to pick up card close to CHI , observes CHI's action
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at cards he has tried to match
+*FAT:	wrong .
+%mor:	adj|wrong .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft joins 3 cards together
+*CHI:	wrong .
+%mor:	adj|wrong .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes FAT's actions , throws card to FAT and looks at cards on the floor
+*FAT:	d@l .
+%mor:	n:let|d .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's mine .
+%mor:	pro:dem|that~cop|be&3S pro:poss|mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	&-uh (.) what have we got left now ?
+%mor:	pro:int|what v|have pro:sub|we aux|get&PAST part|leave&PASTP
+	adv|now ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+%act:	finds missing card , picks up 3 cards forming letter D , pushes remaining cards into middle of the floor
+*CHI:	0 .
+%par:	laughs
+%act:	picks up some cards
+*FAT:	not so fast .
+%mor:	neg|not adv|so adv|fast .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*FAT:	leopard .
+%mor:	n|leopard .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	joins 3 cards together making a leopard
+*CHI:	0 .
+%act:	looks at leopard
+*FAT:	0 .
+%act:	joins 2 cards together and looks at cards on the floor
+*CHI:	beeam@c .
+%mor:	chi|beeam .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	aft laughs
+%act:	picks up 2 cards , tries to join them
+%exp:	beeam = pram ?
+*FAT:	got it .
+%mor:	v|get&PAST pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	that's mine .
+%mor:	pro:dem|that~cop|be&3S pro:poss|mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	joins 3 cards together and picks them up
+*CHI:	beeaoh@c ay .
+%mor:	chi|beeaoh co|ay .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%act:	picks up third card , gathers up 2 cards and sets them aside
+*FAT:	and these last there are mine .
+%mor:	coord|and pro:dem|these adj|last adv|there cop|be&PRES
+	pro:poss|mine .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%par:	laughs
+%act:	picks up 3 cards
+*CHI:	0 .
+%act:	picks up cards that he has won
+*FAT:	who's won ?
+%mor:	pro:rel|who~aux|be&3S v|win&PAST ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	gathers up own cards and looks at CHI
+*CHI:	one two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%par:	whispers
+%act:	sets cards in pile on floor as if counting them
+*FAT:	0 .
+%act:	counts cards and observes CHI's actions
+*CHI:	0 .
+%par:	laughs
+%act:	looks at FAT and puts last card on floor
+*FAT:	thirty nine daddy's got .
+%mor:	det:num|thirty det:num|nine n|daddy~aux|be&3S part|get&PASTP .
+%gra:	1|3|QUANT 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*FAT:	I think daddy's won „ hasn't he ?
+%mor:	pro:sub|I v|think n|daddy~aux|be&3S part|win&PASTP end|end
+	aux|have&3S~neg|not pro:sub|he ?
+%gra:	1|2|SUBJ 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+%act:	gathers up cards which CHI won
+*CHI:	no I on .
+%mor:	co|no pro:sub|I adv|on .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%par:	laughs
+%act:	looks at FAT
+*FAT:	I've won .
+%mor:	pro:sub|I~aux|have part|win&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*FAT:	want to play with your lego ?
+%mor:	v|want inf|to v|play prep|with det:poss|your n|lego ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+%act:	continues to gather up CHI's cards
+*CHI:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	crawls towards lego
+%exp:	kay = okay
+*FAT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I [?] know is my lego .
+%mor:	pro:sub|I v|know aux|be&3S det:poss|my n|lego .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|AUX 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%act:	pulls box of lego from under settee
+*FAT:	daddy's going to count yours .
+%mor:	n|daddy~aux|be&3S part|go-PRESP inf|to v|count pro:poss|yours .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%act:	counts CHI's cards
+*CHI:	0 .
+%act:	starts to take lego out of box and put it on the floor
+*FAT:	thirty three .
+%mor:	det:num|thirty det:num|three .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	smiles and looks at CHI
+*CHI:	I on .
+%mor:	pro:sub|I adv|on .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%act:	looks at FAT
+*FAT:	no (.) daddy's only just won .
+%mor:	co|no n|daddy~cop|be&3S adv|only adv|just v|win&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|PRED 7|3|PUNCT
+%act:	looks at CHI and puts pile of cards on floor
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	I have .
+%mor:	pro:sub|I v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	thirty nine daddy got , thirty nine .
+%mor:	det:num|thirty det:num|nine n|daddy v|get&PAST cm|cm det:num|thirty
+	det:num|nine .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|LP 6|7|QUANT 7|4|ENUM
+	8|4|PUNCT
+*CHI:	0 .
+%act:	joins some large pieces of grey lego together
+*FAT:	is that the end one ?
+%mor:	cop|be&3S pro:rel|that det:art|the n|end pro:indef|one ?
+%gra:	1|0|ROOT 2|5|LINK 3|4|DET 4|5|MOD 5|1|COMP 6|1|PUNCT
+%act:	observes CHI's actions
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft tries to join another large piece of white lego
+*FAT:	how come it's a white one ?
+%mor:	adv:int|how v|come pro:per|it~cop|be&3S det:art|a n|white
+	pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|7|MOD 7|4|PRED 8|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	0 .
+%act:	removes white piece , takes grey piece out of box and joins it
+*FAT:	xxx xxx .
+%act:	helps CHI join lego
+*CHI:	0 .
+%act:	takes piece of lego out of box
+*FAT:	&+mm .
+%act:	takes piece of lego out of box and looks at it
+*CHI:	xxx xxx .
+%act:	bef throws piece of lego back into box dur picks up another piece
+*FAT:	xxx xxx xxx xxx xxx xxx xxx .
+%act:	picks up large grey pieces of lego
+*CHI:	xxx xxx .
+%act:	aft takes lego from FAT and joins it to what he has already made
+*FAT:	like that .
+%mor:	prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	observes CHI's actions
+*FAT:	that's the tail „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|the n|tail end|end cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|2|PUNCT 7|6|NEG 8|6|PRED
+	9|6|PUNCT
+%act:	joins two large pieces of white lego together
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef takes piece of lego from box dur observes FAT's actions
+*FAT:	it is „ isn't it ?
+%mor:	pro:per|it cop|be&3S end|end cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|4|NEG 6|4|PRED 7|2|PUNCT
+%act:	aft picks up another piece of lego and joins them
+*CHI:	that the thing [?] .
+%mor:	pro:rel|that det:art|the n|thing .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	that goes there <that thing> [>] .
+%mor:	pro:rel|that v|go-3S adv|there pro:rel|that n|thing .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%act:	joins piece of lego to what FAT has made
+*FAT:	&+mm [<] ?
+*FAT:	they go on the ends .
+%mor:	pro:sub|they v|go prep|on det:art|the n|end-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*FAT:	yeah like that .
+%mor:	co|yeah prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	observes CHI's actions
+*FAT:	daddy can't remember what held them together .
+%mor:	n|daddy mod|can~neg|not v|remember pro:int|what v|hold&PAST
+	pro:obj|them adv|together .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+%act:	looks at lego in hand
+*CHI:	0 .
+%act:	glances towards lego in FAT's hand
+*FAT:	it must go underneath .
+%mor:	pro:per|it mod|must v|go adv|underneath .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	tries to join lego
+%cod:	$NEW$COM
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to help FAT
+*FAT:	there's one .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	have you got another one there ?
+%mor:	v|have pro:per|you v|get&PAST qn|another pro:indef|one adv|there ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks towards box of lego
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx xxx .
+%act:	picks up piece of lego and hols it out to FAT
+*FAT:	xxx one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	it goes with that one „ doesn't it ?
+%mor:	pro:per|it v|go-3S prep|with pro:dem|that pro:indef|one end|end
+	mod|do&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|2|INCROOT 10|9|PUNCT
+%act:	takes lego from CHI and joins it on
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx xxx xxx xxx .
+%act:	looks through lego in box
+*FAT:	&+mm , that's xxx .
+%mor:	cm|cm pro:rel|that~aux|be&3S .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|COMP 4|1|PUNCT
+*FAT:	some missing somewhere „ isn't there ?
+%mor:	pro:indef|some part|miss-PRESP n|somewhere end|end
+	cop|be&3S~neg|not adv|there ?
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|JCT 8|5|PUNCT
+%act:	sets down what he has made , looks in box of lego
+*CHI:	&+mm .
+%act:	observes FAT's actions
+*FAT:	&+mm .
+%act:	looks at box of lego
+*CHI:	that wheel there .
+%mor:	pro:dem|that n|wheel adv|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+%gpx:	points towards what FAT has made
+*FAT:	got one wheel , yeah .
+%mor:	v|get&PAST pro:indef|one n|wheel cm|cm co|yeah .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|LP 5|3|ENUM 6|1|PUNCT
+%act:	aft starts to tip lego out of the box
+*CHI:	got no more of that .
+%mor:	v|get&PAST qn|no qn|more prep|of pro:dem|that .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+%gpx:	points towards what FAT has made
+*FAT:	xxx xxx then .
+%mor:	adv:tem|then .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	we'll find some more .
+%mor:	pro:sub|we~mod|will v|find qn|some pro:indef|more .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*FAT:	no , xxx xxx xxx xxx xxx xxx .
+%mor:	co|no cm|cm .
+%gra:	1|0|INCROOT 2|1|LP 3|1|PUNCT
+%act:	tips remainder of lego out of box
+%com:	difficult to hear due to noise of lego
+*CHI:	got no more .
+%mor:	v|get&PAST qn|no pro:indef|more .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%act:	looks at lego bricks on the floor
+*FAT:	that's to build a big bunker .
+%mor:	pro:dem|that~cop|be&3S inf|to v|build det:art|a adj|big n|bunker .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*FAT:	have [?] to find other pieces „ haven't we ?
+%mor:	v|have inf|to v|find qn|other n|piece-PL end|end aux|have~neg|not
+	pro:sub|we ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|INCROOT 10|9|PUNCT
+%act:	joins lego together
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes FAT's actions
+*FAT:	&+mm ?
+*FAT:	xxx xxx xxx xxx called .
+%mor:	part|call-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	stick them together .
+%mor:	v|stick pro:obj|them adv|together .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%act:	joins some lego
+*CHI:	0 .
+%act:	picks up piece of lego and tries to join to what FAT has made
+*FAT:	&+mm ?
+%act:	bef takes piece from CHI and joins it
+*CHI:	0 .
+%act:	picks up another piece of lego and joins it onto what FAt has made
+*FAT:	something goes there .
+%mor:	pro:indef|something v|go-3S adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FAT:	that's that one there .
+%mor:	pro:dem|that~cop|be&3S pro:dem|that pro:indef|one adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+%act:	aft removes what CHI has just joined and joins it elsewhere
+*CHI:	<that [?]> [/] that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	joins piece of lego to structure
+*FAT:	that's that one there .
+%mor:	pro:dem|that~cop|be&3S pro:dem|that pro:indef|one adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+%act:	joins lego
+*CHI:	&+mm .
+%act:	tries to join piece of lego
+*FAT:	willn't it go ?
+%mor:	mod|will~neg|not pro:per|it v|go ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	observes CHI's actions
+*CHI:	that one there .
+%mor:	pro:dem|that pro:indef|one adv|there .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	changes position of lego piece
+*FAT:	you've got daddy confused then .
+%mor:	pro:per|you~aux|have v|get&PAST n|daddy v|confuse-PAST adv:tem|then
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+%act:	tries to join lego
+*CHI:	0 .
+%act:	looks for piece amongst lego on floor
+@End

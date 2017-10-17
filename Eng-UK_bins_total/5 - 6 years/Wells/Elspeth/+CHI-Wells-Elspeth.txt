@@ -1,0 +1,55 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:08:02 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <elspet02.cha>
+
+    Strings matched 0 times
+
+From file <elspet03.cha>
+
+    Strings matched 0 times
+
+From file <elspet04.cha>
+
+    Strings matched 0 times
+
+From file <elspet05.cha>
+
+    Strings matched 0 times
+
+From file <elspet06.cha>
+
+    Strings matched 0 times
+
+From file <elspet07.cha>
+
+    Strings matched 0 times
+
+From file <elspet08.cha>
+
+    Strings matched 0 times
+
+From file <elspet09.cha>
+
+    Strings matched 0 times
+
+From file <elspet10.cha>
+----------------------------------------
+*** File "elspet10.cha": line 675.
+*CHI:	Mum Mum I'm going be (1.) a nice useful (1.) person .
+%mor:	n:prop|Mum n:prop|Mum pro:sub|I~aux|be&1S part|go-PRESP cop|be
+	det:art|a (1)adj|nice (1)adj|use&dn-FULL (1)n|person .
+
+    Strings matched 1 times
+
+From file <elspet21.cha>
+----------------------------------------
+*** File "elspet21.cha": line 1581.
+*CHI:	look at that skinny little doll .
+%mor:	cop|look prep|at pro:dem|that (1)adj|skin&dn-Y (1)adj|little (1)n|doll .
+
+    Strings matched 1 times
+

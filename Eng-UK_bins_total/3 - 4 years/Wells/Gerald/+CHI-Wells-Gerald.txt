@@ -1,0 +1,59 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:09:47 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gerald02.cha>
+
+    Strings matched 0 times
+
+From file <gerald03.cha>
+----------------------------------------
+*** File "gerald03.cha": line 1441.
+*CHI:	big yyy lickle [: little] [*] (s)poon [= big and little spoon] .
+%mor:	(1)adj|big (1)adj|little (1)n|spoon .
+----------------------------------------
+*** File "gerald03.cha": line 1444.
+*CHI:	big yyy lickle [: little] [*] (s)poon yyy .
+%mor:	(1)adj|big (1)adj|little (1)n|spoon .
+
+    Strings matched 2 times
+
+From file <gerald04.cha>
+----------------------------------------
+*** File "gerald04.cha": line 424.
+*CHI:	that's naughty naughty boy (3.) .
+%mor:	pro:dem|that~cop|be&3S (1)adj|naughty (1)adj|naughty (1)n|boy .
+
+    Strings matched 1 times
+
+From file <gerald05.cha>
+
+    Strings matched 0 times
+
+From file <gerald06.cha>
+
+    Strings matched 0 times
+
+From file <gerald07.cha>
+
+    Strings matched 0 times
+
+From file <gerald08.cha>
+----------------------------------------
+*** File "gerald08.cha": line 333.
+*CHI:	bouncy bouncy bouncy Bab [>] (43.) M .
+%mor:	adj|bounce&dv-Y (1)adj|bounce&dv-Y (1)adj|bounce&dv-Y (1)n:prop|Bab n:prop|M
+	.
+
+    Strings matched 1 times
+
+From file <gerald10.cha>
+
+    Strings matched 0 times
+
+From file <gerald21.cha>
+
+    Strings matched 0 times
+

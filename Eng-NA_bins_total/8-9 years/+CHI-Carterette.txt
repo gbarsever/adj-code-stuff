@@ -1,0 +1,883 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:31:57 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <adult.cha>
+----------------------------------------
+*** File "adult.cha": line 38.
+*CHI:	and she says that it's a mad wild rush in the dormitory when they
+	have_to put in fifteen cents in the machine you_know and and then
+	they all try to iron at once in this little tiny room you_know .
+%mor:	coord|and pro:sub|she v|say-3S pro:rel|that pro:per|it~cop|be&3S
+	det:art|a (1)adj|mad (1)adj|wild (1)n|rush prep|in det:art|the n|dormitory
+	conj|when pro:sub|they mod:aux|have_to part|put&PASTP prep|in
+	det:num|fifteen n|cent-PL prep|in det:art|the n|machine co|you_know
+	coord|and coord|and adv:tem|then pro:sub|they post|all v|try prep|to
+	adj|iron prep|at adv|once prep|in pro:dem|this (2)adj|little (2)adj|tiny
+	(2)n|room co|you_know .
+----------------------------------------
+*** File "adult.cha": line 292.
+*CHI:	are you going to be a teacher is that you had a real good argument
+	.
+%mor:	aux|be&PRES pro:per|you part|go-PRESP inf|to cop|be det:art|a
+	n|teach&dv-AGT aux|be&3S pro:rel|that pro:per|you v|have&PAST
+	det:art|a (1)adj|real (1)adj|good (1)n|argument .
+----------------------------------------
+*** File "adult.cha": line 668.
+*CHI:	and that's a real old classic school .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a adj|real (1)adj|old
+	(1)adj|classic (1)n|school .
+----------------------------------------
+*** File "adult.cha": line 1077.
+*CHI:	it came out you_know big philosophical thing .
+%mor:	pro:per|it v|come&PAST adv|out co|you_know (1)adj|big
+	(1)adj|philosophic-AL (1)n|thing .
+----------------------------------------
+*** File "adult.cha": line 1148.
+*CHI:	oh he's alright he's a pretty nice guy .
+%mor:	co|oh pro:sub|he~cop|be&3S adj|alright pro:sub|he~aux|be&3S
+	det:art|a (1)adj|pretty (1)adj|nice (1)n|guy .
+----------------------------------------
+*** File "adult.cha": line 3226.
+*CHI:	yeah it's a Canadian whiskey its more than just plain bourbon its
+	blended .
+%mor:	co|yeah pro:per|it~cop|be&3S det:art|a n:prop|Canadian n|whiskey
+	det:poss|its qn|more prep|than (1)adj|just (1)adj|plain (1)n|bourbon
+	det:poss|its part|blend-PASTP .
+----------------------------------------
+*** File "adult.cha": line 3323.
+*CHI:	well this is real real sweet cherry wine .
+%mor:	co|well pro:dem|this cop|be&3S adj|real (1)adj|real (1)adj|sweet (1)n|cherry
+	n|wine .
+----------------------------------------
+*** File "adult.cha": line 3446.
+*CHI:	I mean you have_to go through regular med [: medical] school before
+	you go into psychiatry .
+%mor:	pro:sub|I v|mean pro:per|you mod:aux|have_to v|go adv|through
+	(1)adj|regular (1)adj|medical (1)n|school prep|before pro:per|you v|go
+	prep|into n|psychiatry .
+----------------------------------------
+*** File "adult.cha": line 3492.
+*CHI:	you have_to go through regular medical school in order .
+%mor:	pro:per|you mod:aux|have_to v|go adv|through (1)adj|regular
+	(1)adj|medical (1)n|school prep|in n|order .
+----------------------------------------
+*** File "adult.cha": line 3836.
+*CHI:	just a teeny little bit you_know .
+%mor:	adv|just det:art|a (1)adj|teeny (1)adj|little (1)n|bit co|you_know .
+----------------------------------------
+*** File "adult.cha": line 3986.
+*CHI:	well its no its its upper south sea .
+%mor:	co|well det:poss|its co|no det:poss|its det:poss|its (1)adj|upper
+	(1)adj|south (1)n|sea .
+----------------------------------------
+*** File "adult.cha": line 4065.
+*CHI:	yeah with the great big husk .
+%mor:	co|yeah prep|with det:art|the (1)adj|great (1)adj|big (1)n|husk .
+----------------------------------------
+*** File "adult.cha": line 4436.
+*CHI:	it's all &-uh little trite word changes .
+%mor:	pro:per|it~cop|be&3S adv|all (1)adj|little (1)adj|trite (1)n|word
+	n|change-PL .
+----------------------------------------
+*** File "adult.cha": line 4917.
+*CHI:	it's just like a a big long Saint Patricks Day .
+%mor:	pro:per|it~cop|be&3S adj|just prep|like det:art|a det:art|a (1)adj|big
+	(1)adj|long (1)n:prop|Saint n:prop|Patricks n:prop|Day .
+----------------------------------------
+*** File "adult.cha": line 5418.
+*CHI:	he's a real good teacher .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|real (1)adj|good (1)n|teach&dv-AGT .
+----------------------------------------
+*** File "adult.cha": line 5721.
+*CHI:	but the thing is that many of the basics that they have in these
+	courses you keep you_know you have it in eighth grade then you go in
+	senior high school you_know in your senior year you're taking
+	physiology .
+%mor:	conj|but det:art|the n|thing cop|be&3S pro:dem|that qn|many prep|of
+	det:art|the n:pt|basics pro:rel|that pro:sub|they v|have prep|in
+	det:dem|these n|course-PL pro:per|you v|keep co|you_know pro:per|you
+	v|have pro:per|it prep|in adj|eighth n|grade adv:tem|then
+	pro:per|you v|go prep|in (1)adj|senior (1)adj|high (1)n|school co|you_know
+	prep|in det:poss|your adj|senior n|year pro:per|you~aux|be&PRES
+	part|take-PRESP n|physiology .
+----------------------------------------
+*** File "adult.cha": line 5948.
+*CHI:	they dye them in bright yellow and they're great big fat things .
+%mor:	pro:sub|they v|dye pro:obj|them prep|in adj|bright n|yellow
+	coord|and pro:sub|they~aux|be&PRES (1)adj|great (1)adj|big (1)n|fat
+	n|thing-PL .
+----------------------------------------
+*** File "adult.cha": line 5965.
+*CHI:	with great big teeth .
+%mor:	prep|with (1)adj|great (1)adj|big (1)n|tooth&PL .
+----------------------------------------
+*** File "adult.cha": line 6014.
+*CHI:	if you don't have a real good background in math you're .
+%mor:	conj|if pro:per|you mod|do~neg|not v|have det:art|a (1)adj|real
+	(1)adj|good (1)n|background prep|in n|math pro:per|you~aux|be&PRES .
+----------------------------------------
+*** File "adult.cha": line 7592.
+*CHI:	if he's physically fit then he can do so much more than the
+	brilliant blind man .
+%mor:	conj|if pro:sub|he~aux|be&3S adv|physical&dadj-LY part|fit&PASTP
+	adv:tem|then pro:sub|he mod|can v|do adv|so qn|much qn|more
+	prep|than det:art|the (1)adj|brilliant (1)adj|blind (1)n|man .
+----------------------------------------
+*** File "adult.cha": line 9089.
+*CHI:	oh the ones we had they were brown little smelly things .
+%mor:	co|oh det:art|the det:num|one-PL pro:sub|we v|have&PAST
+	pro:sub|they cop|be&PAST adj|brown (1)adj|little (1)adj|smell&dv-Y
+	(1)n|thing-PL .
+----------------------------------------
+*** File "adult.cha": line 9654.
+*CHI:	I thought he was a real old guy .
+%mor:	pro:sub|I v|think&PAST pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|real (1)adj|old (1)n|guy .
+----------------------------------------
+*** File "adult.cha": line 9698.
+*CHI:	this guy gives multiple choice tests .
+%mor:	pro:dem|this n|guy v|give-3S (1)adj|multiple (1)adj|choice (1)n|test-PL .
+----------------------------------------
+*** File "adult.cha": line 10266.
+*CHI:	and it's a pretty good district and they're on a block I mean all
+	around this area there's I'd say seventy percent white and twenty
+	five percent Negro .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|district coord|and pro:sub|they~cop|be&PRES prep|on det:art|a
+	n|block pro:sub|I v|mean adv|all prep|around pro:dem|this n|area
+	pro:exist|there~aux|be&3S pro:sub|I~mod|genmod v|say det:num|seventy
+	n|percent n|white coord|and det:num|twenty det:num|five n|percent
+	n:prop|Negro .
+
+    Strings matched 25 times
+
+From file <fifth.cha>
+----------------------------------------
+*** File "fifth.cha": line 867.
+*CHI:	and one night he was trying to give it to her and he got it down
+	there and she wouldn't swallow it and she coughed it up and she ran
+	away and there was just a tiny little opening through my couch
+	between the wall and she ran behind the couch and she wouldn't come
+	out .
+%mor:	coord|and det:num|one n|night pro:sub|he aux|be&PAST&13S
+	part|try-PRESP inf|to v|give pro:per|it prep|to pro:obj|her
+	coord|and pro:sub|he v|get&PAST pro:per|it adv|down adv|there
+	coord|and pro:sub|she mod|will&COND~neg|not v|swallow pro:per|it
+	coord|and pro:sub|she v|cough-PAST pro:per|it adv|up coord|and
+	pro:sub|she v|run&PAST adv|away coord|and adv|there cop|be&PAST&13S
+	adv|just det:art|a (1)adj|tiny (1)adj|little (1)n:gerund|open-PRESP
+	prep|through det:poss|my n|couch prep|between det:art|the n|wall
+	coord|and pro:sub|she v|run&PAST prep|behind det:art|the n|couch
+	coord|and pro:sub|she mod|will&COND~neg|not v|come adv|out .
+----------------------------------------
+*** File "fifth.cha": line 1311.
+*CHI:	but he comes along and he he's when he comes through the door he
+	stands real &-uh real real quiet its real funny .
+%mor:	conj|but pro:sub|he v|come-3S adv|along coord|and pro:sub|he
+	pro:sub|he~aux|be&3S conj|when pro:sub|he v|come-3S prep|through
+	det:art|the n|door pro:sub|he v|stand-3S adj|real (1)adj|real (1)adj|real
+	(1)n|quiet det:poss|its adj|real adj|fun&dn-Y .
+----------------------------------------
+*** File "fifth.cha": line 1636.
+*CHI:	and &-um he says alright &-um and then he made a great big x@l on my
+	thing .
+%mor:	coord|and pro:sub|he v|say-3S adj|alright coord|and adv:tem|then
+	pro:sub|he v|make&PAST det:art|a (1)adj|great (1)adj|big (1)n:let|x prep|on
+	det:poss|my n|thing .
+----------------------------------------
+*** File "fifth.cha": line 1736.
+*CHI:	you_know he'd stop you_know if you were sitting up real good real
+	straight .
+%mor:	co|you_know pro:sub|he~mod|genmod v|stop co|you_know conj|if
+	pro:per|you aux|be&PAST part|sit-PRESP adv|up adj|real (1)adj|good
+	(1)adj|real (1)n|straight .
+----------------------------------------
+*** File "fifth.cha": line 1982.
+*CHI:	and &-uh and I and I like the old wooden boats like &-um the Victory
+	&-um and the &-um Old Iron Sides and things like that .
+%mor:	coord|and coord|and pro:sub|I coord|and pro:sub|I v|like
+	det:art|the (1)adj|old (1)adj|wooden (1)n|boat-PL prep|like det:art|the
+	n:prop|Victory coord|and det:art|the n:prop|Old n:prop|Iron
+	n:prop|Sides coord|and n|thing-PL prep|like pro:dem|that .
+----------------------------------------
+*** File "fifth.cha": line 4073.
+*CHI:	and then there was a flat top roof right here .
+%mor:	coord|and adv:tem|then adv|there cop|be&PAST&13S det:art|a (1)adj|flat
+	(1)adj|top (1)n|roof adv|right adv|here .
+----------------------------------------
+*** File "fifth.cha": line 4260.
+*CHI:	and we were going to play softball today I mean she gives the girls
+	a real good area and then she gives the boys a real lousy one .
+%mor:	coord|and pro:sub|we aux|be&PAST part|go-PRESP inf|to n|play
+	n|softball adv:tem|today pro:sub|I adj|mean pro:sub|she v|give-3S
+	det:art|the n|girl-PL det:art|a (1)adj|real (1)adj|good (1)n|area coord|and
+	adv:tem|then pro:sub|she v|give-3S det:art|the n|boy-PL det:art|a
+	adj|real adj|louse&dn-Y pro:indef|one .
+----------------------------------------
+*** File "fifth.cha": line 5893.
+*CHI:	so then they he the guys had made &-um there have got other captives
+	in there they made a big long rope with their hairs you_know .
+%mor:	adv|so adv:tem|then pro:sub|they pro:sub|he det:art|the n|guy-PL
+	v|have&PAST v|make&PAST adv|there aux|have v|get&PAST qn|other
+	n|captive-PL prep|in adv|there pro:sub|they v|make&PAST det:art|a
+	(1)adj|big (1)adj|long (1)n|rope prep|with det:poss|their n|hair-PL
+	co|you_know .
+----------------------------------------
+*** File "fifth.cha": line 6530.
+*CHI:	&-uh food and everything and it was about you_know it would take a
+	real long time around a half an hour or something to you_know
+	there's so many things in there so then the movie stopped .
+%mor:	n|food coord|and pro:indef|everything coord|and pro:per|it
+	cop|be&PAST&13S adv|about co|you_know pro:per|it mod|will&COND
+	v|take det:art|a (1)adj|real (1)adj|long (1)n|time prep|around det:art|a
+	n|half det:art|a n|hour coord|or pro:indef|something inf|to
+	co|you_know pro:exist|there~cop|be&3S adv|so qn|many n|thing-PL
+	prep|in adv|there adv|so adv:tem|then det:art|the n|movie
+	v|stop-PAST .
+----------------------------------------
+*** File "fifth.cha": line 7012.
+*CHI:	but in the lake you can't catch too many things only bass crappy
+	Blue_Gill and trout .
+%mor:	conj|but prep|in det:art|the n|lake pro:per|you mod|can~neg|not
+	v|catch adv|too qn|many n|thing-PL qn|only (1)adj|bass (1)adj|crap&dn-Y
+	(1)n:prop|Blue_Gill coord|and n|trout .
+----------------------------------------
+*** File "fifth.cha": line 7047.
+*CHI:	and also the reason I like to play tennis and my mother and my
+	family because you you_know you run a lot and its I mean it's just a
+	real good sport and we all like it and &-um also my mother works at
+	U_C_L_A .
+%mor:	coord|and adv|also det:art|the n|reason pro:sub|I v|like inf|to
+	n|play n|tennis coord|and det:poss|my n|mother coord|and det:poss|my
+	n|family conj|because pro:per|you co|you_know pro:per|you n|run
+	det:art|a n|lot coord|and det:poss|its pro:sub|I v|mean
+	pro:per|it~aux|be&3S adj|just det:art|a (1)adj|real (1)adj|good (1)n|sport
+	coord|and pro:sub|we post|all prep|like pro:per|it coord|and
+	adv|also det:poss|my n|mother n|work-PL prep|at n:prop|U_C_L_A .
+----------------------------------------
+*** File "fifth.cha": line 7334.
+*CHI:	yeah it had you_know they were real rich people millionaires and we
+	it was real funny .
+%mor:	co|yeah pro:per|it v|have&PAST co|you_know pro:sub|they cop|be&PAST
+	(1)adj|real (1)adj|rich (1)n|person&PL n|millionaire-PL coord|and pro:sub|we
+	pro:per|it cop|be&PAST&13S adj|real adj|fun&dn-Y .
+----------------------------------------
+*** File "fifth.cha": line 7397.
+*CHI:	she had a real big house .
+%mor:	pro:sub|she v|have&PAST det:art|a (1)adj|real (1)adj|big (1)n|house .
+----------------------------------------
+*** File "fifth.cha": line 7409.
+*CHI:	and so we she went swimming there and I went out real real real
+	real real way out about I didn't I mean where the animals start you
+	know .
+%mor:	coord|and co|so pro:sub|we pro:sub|she v|go&PAST
+	n:gerund|swim-PRESP adv|there coord|and pro:sub|I v|go&PAST adv|out
+	adj|real adj|real adj|real (1)adj|real (1)adj|real (1)n|way adv|out
+	prep|about pro:sub|I mod|do&PAST~neg|not pro:sub|I v|mean
+	pro:rel|where det:art|the n|animal-PL v|start pro:per|you v|know .
+----------------------------------------
+*** File "fifth.cha": line 7654.
+*CHI:	&-um they give you bites and you get a big old bump like that .
+%mor:	pro:sub|they v|give pro:per|you v|bite-3S coord|and pro:per|you
+	v|get det:art|a (1)adj|big (1)adj|old (1)n|bump prep|like pro:dem|that .
+----------------------------------------
+*** File "fifth.cha": line 8172.
+*CHI:	&-uh I like I like water skiing a lot because it's a its a good sport
+	and you get well whenever whenever I go down to this lake this &-uh
+	on Colorado River right near Parker Dam about a couple of miles away
+	.
+%mor:	pro:sub|I v|like pro:sub|I co|like n|water part|ski-PRESP det:art|a
+	n|lot conj|because pro:per|it~cop|be&3S det:art|a det:poss|its
+	det:art|a adj|good n|sport coord|and pro:per|you v|get adv|well
+	adv:int|whenever adv:int|whenever pro:sub|I v|go adv|down prep|to
+	pro:dem|this n|lake pro:dem|this prep|on n:prop|Colorado
+	n:prop|River (1)adj|right (1)adj|near (1)n:prop|Parker n:prop|Dam prep|about
+	det:art|a n|couple prep|of n|mile-PL adv|away .
+----------------------------------------
+*** File "fifth.cha": line 10162.
+*CHI:	you_know the you_know the little gray job we have a gray kitten we
+	call him gray job .
+%mor:	co|you_know det:art|the co|you_know det:art|the (1)adj|little (1)adj|gray
+	(1)n|job pro:sub|we v|have det:art|a adj|gray n|kitten pro:sub|we
+	v|call pro:obj|him adj|gray n|job .
+----------------------------------------
+*** File "fifth.cha": line 10335.
+*CHI:	up when we went up on our vacation in the mountains &-um we saw this
+	little &-uh Scotty little tiny black one .
+%mor:	adv|up adv:int|when pro:sub|we v|go&PAST adv|up prep|on
+	det:poss|our n|vacation prep|in det:art|the n|mountain-PL pro:sub|we
+	v|see&PAST pro:dem|this adj|little n:prop|Scotty (1)adj|little (1)adj|tiny
+	(1)n|black pro:indef|one .
+----------------------------------------
+*** File "fifth.cha": line 10444.
+*CHI:	&-um well there's this great big river its really fun and .
+%mor:	co|well pro:exist|there~cop|be&3S pro:dem|this (1)adj|great (1)adj|big
+	(1)n|river det:poss|its adv|real&dadj-LY adj|fun coord|and .
+----------------------------------------
+*** File "fifth.cha": line 10760.
+*CHI:	and then we went down this real thick side trail we found this &-um
+	oh these &-uh a bunch of trees they were growing together .
+%mor:	coord|and adv:tem|then pro:sub|we v|go&PAST prep|down pro:dem|this
+	adj|real (1)adj|thick (1)adj|side (1)n|trail pro:sub|we v|find&PAST
+	det:dem|this co|oh det:dem|these det:art|a n|bunch prep|of n|tree-PL
+	pro:sub|they aux|be&PAST part|grow-PRESP adv|together .
+----------------------------------------
+*** File "fifth.cha": line 11274.
+*CHI:	he's on a brand new ship &-um U_S_S Pyro .
+%mor:	pro:sub|he~cop|be&3S prep|on det:art|a (1)adj|brand (1)adj|new (1)n|ship
+	n:prop|U_S_S n:prop|Pyro .
+----------------------------------------
+*** File "fifth.cha": line 11580.
+*CHI:	because &-uh Kathy when she got hers you_know to tell them apart she
+	put a little tiny red mark right over at the side of the head .
+%mor:	conj|because n:prop|Kathy conj|when pro:sub|she v|get&PAST
+	pro:poss|hers co|you_know prep|to v|tell pro:obj|them adv|apart
+	pro:sub|she v|put&ZERO det:art|a adj|little (1)adj|tiny (1)adj|red (1)n|mark
+	adj|right adv|over prep|at det:art|the n|side prep|of det:art|the
+	n|head .
+----------------------------------------
+*** File "fifth.cha": line 11602.
+*CHI:	but we still could have because &-uh hers has a little tiny little
+	black dot on &-uh the back .
+%mor:	conj|but pro:sub|we adv|still mod|could v|have conj|because
+	pro:poss|hers v|have&3S det:art|a adj|little adj|tiny (1)adj|little
+	(1)adj|black (1)n|dot prep|on det:art|the n|back .
+----------------------------------------
+*** File "fifth.cha": line 12898.
+*CHI:	grand old time .
+%mor:	(1)adj|grand (1)adj|old (1)n|time .
+----------------------------------------
+*** File "fifth.cha": line 16252.
+*CHI:	going to have a stamp collection but my dad has a a real old stamp
+	collection and its its real good .
+%mor:	part|go-PRESP inf|to v|have det:art|a n|stamp n|collection conj|but
+	det:poss|my n|dad v|have&3S det:art|a det:art|a (1)adj|real (1)adj|old
+	(1)n|stamp n|collection coord|and det:poss|its det:poss|its adj|real
+	adj|good .
+----------------------------------------
+*** File "fifth.cha": line 16416.
+*CHI:	I got this real old German coin .
+%mor:	pro:sub|I v|get&PAST pro:dem|this (1)adj|real (1)adj|old (1)n:prop|German
+	n|coin .
+
+    Strings matched 26 times
+
+From file <first.cha>
+----------------------------------------
+*** File "first.cha": line 144.
+*CHI:	only when I was a little teeny baby I been there and I don't even
+	remember it .
+%mor:	adv|only conj|when pro:sub|I cop|be&PAST&13S det:art|a (1)adj|little
+	(1)adj|teeny (1)n|baby pro:sub|I cop|be&PASTP adv|there coord|and
+	pro:sub|I mod|do~neg|not adv|even v|remember pro:per|it .
+----------------------------------------
+*** File "first.cha": line 806.
+*CHI:	well when I took swimming lessons you had_to go under the water
+	then blow these big old bubbles that come up .
+%mor:	co|well conj|when pro:sub|I v|take&PAST n:gerund|swim-PRESP
+	n|lesson-PL pro:per|you mod:aux|had_to v|go prep|under det:art|the
+	n|water adv:tem|then v|blow pro:dem|these (1)adj|big (1)adj|old
+	(1)n|bubble-PL pro:rel|that v|come adv|up .
+----------------------------------------
+*** File "first.cha": line 1364.
+*CHI:	and my you there was this real pretty waterfall there .
+%mor:	coord|and det:poss|my pro:per|you adv|there cop|be&PAST&13S
+	pro:dem|this (1)adj|real (1)adj|pretty (1)n|waterfall adv|there .
+----------------------------------------
+*** File "first.cha": line 1420.
+*CHI:	when I went to Highland Springs and I went horseback riding and it
+	was a cliff about a thousand feet down and there was only this much
+	of wide open space and my sister almost fell off the cliff .
+%mor:	conj|when pro:sub|I v|go&PAST prep|to n:prop|Highland
+	n:prop|Springs coord|and pro:sub|I v|go&PAST adv|+n|horse+adv|back
+	part|ride-PRESP coord|and pro:per|it cop|be&PAST&13S det:art|a
+	n|cliff prep|about det:art|a det:num|thousand n|foot&PL adv|down
+	coord|and adv|there cop|be&PAST&13S qn|only pro:dem|this qn|much
+	prep|of (1)adj|wide (1)adj|open (1)n|space coord|and det:poss|my n|sister
+	adv|almost v|fall&PAST prep|off det:art|the n|cliff .
+----------------------------------------
+*** File "first.cha": line 1544.
+*CHI:	this real there's a real slippery thing .
+%mor:	pro:dem|this adj|real pro:exist|there~cop|be&3S det:art|a (1)adj|real
+	(1)adj|slippery (1)n|thing .
+----------------------------------------
+*** File "first.cha": line 2902.
+*CHI:	he has a great two big great big chalk+boards and some chalk .
+%mor:	pro:sub|he v|have&3S det:art|a adj|great det:num|two adj|big
+	(1)adj|great (1)adj|big (1)n|+n|chalk+n|board-PL coord|and qn|some n|chalk .
+----------------------------------------
+*** File "first.cha": line 4946.
+*CHI:	when I go home from school I've a real long way to walk so I walk
+	with my brother .
+%mor:	conj|when pro:sub|I v|go n|home prep|from n|school
+	pro:sub|I~aux|have det:art|a (1)adj|real (1)adj|long (1)n|way prep|to n|walk
+	co|so pro:sub|I v|walk prep|with det:poss|my n|brother .
+----------------------------------------
+*** File "first.cha": line 5280.
+*CHI:	you_know these men they were walk they were walking &-um on a side
+	of a mountain they had_to go like that because they couldn't and and
+	it was a real close edge about that small .
+%mor:	co|you_know pro:dem|these n|man&PL pro:sub|they aux|be&PAST n|walk
+	pro:sub|they aux|be&PAST part|walk-PRESP prep|on det:art|a n|side
+	prep|of det:art|a n|mountain pro:sub|they mod:aux|had_to v|go
+	prep|like pro:dem|that conj|because pro:sub|they mod|could~neg|not
+	coord|and coord|and pro:per|it cop|be&PAST&13S det:art|a (1)adj|real
+	(1)adj|close (1)n|edge prep|about pro:dem|that adj|small .
+----------------------------------------
+*** File "first.cha": line 5302.
+*CHI:	these men they were just they had &-um they were all yellow with
+	black spots and they had this great big thing to shoot them with
+	with an arrow and they pull it back and the arrow went right in his
+	heart and he burned up and you_know what he turned into .
+%mor:	pro:dem|these n|man&PL pro:sub|they aux|be&PAST adv|just
+	pro:sub|they v|have&PAST pro:sub|they aux|be&PAST post|all n|yellow
+	prep|with n|black n|spot-PL coord|and pro:sub|they v|have&PAST
+	pro:dem|this (1)adj|great (1)adj|big (1)n|thing inf|to v|shoot pro:obj|them
+	prep|with prep|with det:art|a n|arrow coord|and pro:sub|they v|pull
+	pro:per|it adv|back coord|and det:art|the n|arrow v|go&PAST
+	adv|right prep|in det:poss|his n|heart coord|and pro:sub|he
+	v|burn-PAST adv|up coord|and co|you_know pro:int|what pro:sub|he
+	v|turn-PAST prep|into .
+----------------------------------------
+*** File "first.cha": line 5370.
+*CHI:	and then I saw once I saw a a different show about Franken &-um this
+	other this dino(saur) this big big dragon .
+%mor:	coord|and adv:tem|then pro:sub|I v|see&PAST adv|once pro:sub|I
+	v|see&PAST det:art|a det:art|a adj|different n|show prep|about
+	n:prop|Franken pro:dem|this pro:indef|other pro:dem|this n|dinosaur
+	pro:dem|this (1)adj|big (1)adj|big (1)n|dragon .
+----------------------------------------
+*** File "first.cha": line 5496.
+*CHI:	yesterday when I was walking home from school I heard a real loud
+	noise and I saw it was a black widow and I ran away .
+%mor:	adv:tem|yesterday conj|when pro:sub|I aux|be&PAST&13S
+	part|walk-PRESP n|home prep|from n|school pro:sub|I v|hear&PAST
+	det:art|a (1)adj|real (1)adj|loud (1)n|noise coord|and pro:sub|I v|see&PAST
+	pro:per|it cop|be&PAST&13S det:art|a n|black n|widow coord|and
+	pro:sub|I v|run&PAST adv|away .
+----------------------------------------
+*** File "first.cha": line 6371.
+*CHI:	nice little Tiger .
+%mor:	(1)adj|nice (1)adj|little (1)n:prop|Tiger .
+----------------------------------------
+*** File "first.cha": line 6375.
+*CHI:	I mean nice little cubbie nice nice little cub .
+%mor:	pro:sub|I v|mean (1)adj|nice (1)adj|little (1)n|cub-DIM adj|nice (2)adj|nice
+	(2)adj|little (2)n|cub .
+----------------------------------------
+*** File "first.cha": line 7865.
+*CHI:	but &-um I have a &-um a pretend &-um cat and I call I like to play
+	with it and pretend it's a live one but it has hair real &-um long
+	hair &-um that long and its really from a rabbit .
+%mor:	conj|but pro:sub|I v|have det:art|a det:art|a adj|pretend n|cat
+	coord|and pro:sub|I v|call pro:sub|I v|like inf|to v|play prep|with
+	pro:per|it coord|and v|pretend pro:per|it~cop|be&3S det:art|a
+	adj|live pro:indef|one conj|but pro:per|it aux|have&3S n|hair
+	(1)adj|real (1)adj|long (1)n|hair pro:rel|that adj|long coord|and
+	det:poss|its adv|real&dadj-LY prep|from det:art|a n|rabbit .
+----------------------------------------
+*** File "first.cha": line 7922.
+*CHI:	it's a little teensie dachshund .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|teensie (1)n|dachshund .
+----------------------------------------
+*** File "first.cha": line 10848.
+*CHI:	and then &-uh it when she brought the little big bunny but the and
+	the bunny had a basket .
+%mor:	coord|and adv:tem|then pro:per|it conj|when pro:sub|she
+	v|bring&PAST det:art|the (1)adj|little (1)adj|big (1)n|bunny conj|but
+	det:art|the coord|and det:art|the n|bunny v|have&PAST det:art|a
+	n|basket .
+----------------------------------------
+*** File "first.cha": line 10887.
+*CHI:	little tiny eggs .
+%mor:	(1)adj|little (1)adj|tiny (1)n|egg-PL .
+----------------------------------------
+*** File "first.cha": line 11150.
+*CHI:	and she and my grandmothers has a whole lot of pets and I'm going
+	to get to play with some little tiny chick at chicks and on her farm
+	she has a whole lot of animals and I might and I'm going to get to
+	play with all of them .
+%mor:	coord|and pro:sub|she coord|and det:poss|my grand#n|mother-PL
+	v|have&3S det:art|a adj|whole n|lot prep|of n|pet-PL coord|and
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|get prep|to n|play
+	prep|with qn|some (1)adj|little (1)adj|tiny (1)n|chick prep|at n|chick-PL
+	coord|and prep|on det:poss|her n|farm pro:sub|she v|have&3S
+	det:art|a adj|whole n|lot prep|of n|animal-PL coord|and pro:sub|I
+	mod|might coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to v|get
+	prep|to n|play prep|with qn|all prep|of pro:obj|them .
+----------------------------------------
+*** File "first.cha": line 11222.
+*CHI:	and then he hopped through a little tiny hole .
+%mor:	coord|and adv:tem|then pro:sub|he v|hop-PAST prep|through det:art|a
+	(1)adj|little (1)adj|tiny (1)n|hole .
+----------------------------------------
+*** File "first.cha": line 11310.
+*CHI:	once were &-um long time ago me and my father and my mother and my
+	brother we went &-uh camping and another friend and I was swimming in
+	the I was going in the water and the place is named Chiquito Creek
+	and so then I was looking at our camp and then my father he was &-um
+	swimming in the lake and he was and then he fell back backways
+	[: backwards] and made a great big splash and I thought it was a
+	great big shark so I so I couldn't run very fast in the water and I
+	started to run real fast and then I then I saw this thing coming up
+	and it was my father .
+%mor:	adv|once aux|be&PAST adv|long n|time adv|ago pro:obj|me coord|and
+	det:poss|my n|father coord|and det:poss|my n|mother coord|and
+	det:poss|my n|brother pro:sub|we v|go&PAST n:gerund|camp-PRESP
+	coord|and qn|another n|friend coord|and pro:sub|I aux|be&PAST&13S
+	part|swim-PRESP prep|in det:art|the pro:sub|I aux|be&PAST&13S
+	part|go-PRESP prep|in det:art|the n|water coord|and det:art|the
+	n|place aux|be&3S part|name-PASTP n:prop|Chiquito n:prop|Creek
+	coord|and co|so adv:tem|then pro:sub|I aux|be&PAST&13S
+	part|look-PRESP prep|at det:poss|our n|camp coord|and adv:tem|then
+	det:poss|my n|father pro:sub|he aux|be&PAST&13S part|swim-PRESP
+	prep|in det:art|the n|lake coord|and pro:sub|he cop|be&PAST&13S
+	coord|and adv:tem|then pro:sub|he v|fall&PAST adv|back adv|backwards
+	coord|and v|make&PAST det:art|a (1)adj|great (1)adj|big (1)n|splash coord|and
+	pro:sub|I v|think&PAST pro:per|it cop|be&PAST&13S det:art|a
+	(2)adj|great (2)adj|big (2)n|shark co|so pro:sub|I co|so pro:sub|I
+	mod|could~neg|not part|run&PASTP adv|very adv|fast prep|in
+	det:art|the n|water coord|and pro:sub|I v|start-PAST inf|to v|run
+	adj|real n|fast coord|and adv:tem|then pro:sub|I adv:tem|then
+	pro:sub|I v|see&PAST pro:dem|this n|thing part|come-PRESP adv|up
+	coord|and pro:per|it cop|be&PAST&13S det:poss|my n|father .
+----------------------------------------
+*** File "first.cha": line 11465.
+*CHI:	once &-um me and my me and my father and my mother and my brother
+	and a great big friend Tommy well we all went to camping to Chiquito
+	Creek again .
+%mor:	adv|once pro:obj|me coord|and det:poss|my pro:obj|me coord|and
+	det:poss|my n|father coord|and det:poss|my n|mother coord|and
+	det:poss|my n|brother coord|and det:art|a (1)adj|great (1)adj|big (1)n|friend
+	n:prop|Tommy n|well pro:sub|we post|all v|go&PAST prep|to
+	n:gerund|camp-PRESP prep|to n:prop|Chiquito n:prop|Creek adv|again .
+----------------------------------------
+*** File "first.cha": line 11749.
+*CHI:	and me and my littlest little sister we didn't even cry .
+%mor:	coord|and pro:obj|me coord|and det:poss|my (1)adj|little-SP (1)adj|little
+	(1)n|sister pro:sub|we mod|do&PAST~neg|not v|even v|cry .
+----------------------------------------
+*** File "first.cha": line 11996.
+*CHI:	well sometimes when me and my mommy goes up in the mountains well I
+	have_to play with this great big &-um German Shepherd and he's so big
+	every time he [/] he has a real soft mouth and he grabs me takes his
+	mouth and holds his mouth &-um onto my arm and then whenever he wants
+	to go someplace he drags me with him .
+%mor:	adv|well adv|sometimes conj|when pro:obj|me coord|and det:poss|my
+	n|mommy v|go-3S prep|up prep|in det:art|the n|mountain-PL co|well
+	pro:sub|I mod:aux|have_to v|play prep|with pro:dem|this (1)adj|great
+	(1)adj|big (1)n:prop|German n:prop|Shepherd coord|and pro:sub|he~cop|be&3S
+	adv|so adj|big qn|every n|time pro:sub|he v|have&3S det:art|a
+	(2)adj|real (2)adj|soft (2)n|mouth coord|and pro:sub|he v|grab-3S pro:obj|me
+	v|take-3S det:poss|his n|mouth coord|and v|hold-3S det:poss|his
+	n|mouth prep|onto det:poss|my n|arm coord|and adv:tem|then
+	adv:int|whenever pro:sub|he v|want-3S inf|to v|go n|someplace
+	pro:sub|he v|drag-3S pro:obj|me prep|with pro:obj|him .
+
+    Strings matched 26 times
+
+From file <third.cha>
+----------------------------------------
+*** File "third.cha": line 440.
+*CHI:	kind of a real steep hill .
+%mor:	adj|kind prep|of det:art|a (1)adj|real (1)adj|steep (1)n|hill .
+----------------------------------------
+*** File "third.cha": line 501.
+*CHI:	man I don't know how she did it but anyways her my there was a big
+	old wave coming and then it splashed all over her head and then then
+	my [/] my father was just he just got her and .
+%mor:	n|man pro:sub|I mod|do~neg|not v|know adv:int|how pro:sub|she
+	mod|do&PAST pro:per|it conj|but adv|anyways det:poss|her co|my
+	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|old (1)n|wave
+	part|come-PRESP coord|and adv:tem|then pro:per|it part|splash-PASTP
+	adv|all adv|over det:poss|her n|head coord|and adv:tem|then
+	adv:tem|then det:poss|my n|father cop|be&PAST&13S adv|just
+	pro:sub|he adv|just v|get&PAST pro:obj|her coord|and .
+----------------------------------------
+*** File "third.cha": line 2845.
+*CHI:	not a garage &-um he had a cellar and he'd take a big old shotgun
+	bang he hit the bomb and pew .
+%mor:	neg|not det:art|a n|garage pro:sub|he v|have&PAST det:art|a
+	n|cellar coord|and pro:sub|he~mod|genmod v|take det:art|a (1)adj|big
+	(1)adj|old (1)n|shotgun n|bang pro:sub|he v|hit&ZERO det:art|the n|bomb
+	coord|and n|pew .
+----------------------------------------
+*** File "third.cha": line 2940.
+*CHI:	you don't have_to get another book and you don't have_to have a
+	library card to &-um to check your books in and &-um if you want if
+	you don't just say I don't have a library card my big big brother
+	does so I can share on my library on my big brothers card .
+%mor:	pro:per|you mod|do~neg|not mod:aux|have_to v|get qn|another n|book
+	coord|and pro:per|you mod|do~neg|not mod:aux|have_to v|have
+	det:art|a n|library n|card inf|to inf|to v|check det:poss|your
+	n|book-PL adv|in coord|and conj|if pro:per|you v|want conj|if
+	pro:per|you mod|do~neg|not adj|just v|say pro:sub|I mod|do~neg|not
+	v|have det:art|a n|library n|card det:poss|my (1)adj|big (1)adj|big
+	(1)n|brother mod|do&3S co|so pro:sub|I mod|can v|share prep|on
+	det:poss|my n|library prep|on det:poss|my adj|big n|brother-PL
+	n|card .
+----------------------------------------
+*** File "third.cha": line 3490.
+*CHI:	you just go in there and but no one was in there so we saw this
+	real neat old closet .
+%mor:	pro:per|you adv|just v|go prep|in adv|there coord|and conj|but
+	qn|no pro:indef|one cop|be&PAST&13S prep|in adv|there conj|so
+	pro:sub|we v|see&PAST pro:dem|this adj|real (1)adj|neat (1)adj|old
+	(1)n|closet .
+----------------------------------------
+*** File "third.cha": line 3515.
+*CHI:	and then and we saw this real spooky house with these &-uh ghosts
+	and everything .
+%mor:	coord|and adv:tem|then coord|and pro:sub|we v|see&PAST pro:dem|this
+	(1)adj|real (1)adj|spook&dv-Y (1)n|house prep|with pro:dem|these n|ghost-PL
+	coord|and pro:indef|everything .
+----------------------------------------
+*** File "third.cha": line 3665.
+*CHI:	you_know what &-uh well I was in my grandmothers house about two
+	years old and it was a real old house we were going to sell it .
+%mor:	co|you_know pro:int|what n|well pro:sub|I cop|be&PAST&13S prep|in
+	det:poss|my grand#n|mother-PL n|house prep|about det:num|two
+	n|year-PL adj|old coord|and pro:per|it cop|be&PAST&13S det:art|a
+	(1)adj|real (1)adj|old (1)n|house pro:sub|we aux|be&PAST part|go-PRESP inf|to
+	v|sell pro:per|it .
+----------------------------------------
+*** File "third.cha": line 3677.
+*CHI:	and &-uh it was a real empty house and I was in the attic sleeping
+	in my crib .
+%mor:	coord|and pro:per|it cop|be&PAST&13S det:art|a (1)adj|real (1)adj|empty
+	(1)n|house coord|and pro:sub|I cop|be&PAST&13S prep|in det:art|the
+	n|attic part|sleep-PRESP prep|in det:poss|my n|crib .
+----------------------------------------
+*** File "third.cha": line 3686.
+*CHI:	and the window was open and it was a real old shaggy house we were
+	going to move just staying there you_know for a little while until
+	we found a good house .
+%mor:	coord|and det:art|the n|window cop|be&PAST&13S adj|open coord|and
+	pro:per|it cop|be&PAST&13S det:art|a adj|real (1)adj|old (1)adj|shag&dn-Y
+	(1)n|house pro:sub|we aux|be&PAST part|go-PRESP prep|to n|move adv|just
+	part|stay-PRESP adv|there co|you_know prep|for det:art|a adj|little
+	n|while conj|until pro:sub|we v|find&PAST det:art|a adj|good n|house
+	.
+----------------------------------------
+*** File "third.cha": line 3701.
+*CHI:	so this big &-uh the window was open and this big &-um big big black
+	crow comes in and I'm sleeping and he comes and pecks on me and &-uh
+	I'm asleep .
+%mor:	adv|so pro:dem|this adj|big det:art|the n|window cop|be&PAST&13S
+	adj|open coord|and pro:dem|this adj|big adj|big (1)adj|big (1)adj|black
+	(1)n|crow v|come-3S adv|in coord|and pro:sub|I~aux|be&1S
+	part|sleep-PRESP coord|and pro:sub|he v|come-3S coord|and v|peck-3S
+	prep|on pro:obj|me coord|and pro:sub|I~aux|be&1S adv|asleep .
+----------------------------------------
+*** File "third.cha": line 3735.
+*CHI:	so they started hitting him with the broom and he was making all
+	this big huge noise and everything .
+%mor:	co|so pro:sub|they v|start-PAST n:gerund|hit-PRESP pro:obj|him
+	prep|with det:art|the n|broom coord|and pro:sub|he aux|be&PAST&13S
+	part|make-PRESP qn|all pro:dem|this (1)adj|big (1)adj|huge (1)n|noise
+	coord|and pro:indef|everything .
+----------------------------------------
+*** File "third.cha": line 3823.
+*CHI:	when I was a baby we we lived in Sacramento and we had three attics
+	and it was a real real big house and one of the attics was a it was
+	two of the attics didn't have anything and it was real dark .
+%mor:	conj|when pro:sub|I cop|be&PAST&13S det:art|a n|baby pro:sub|we
+	pro:sub|we v|live-PAST prep|in n:prop|Sacramento coord|and
+	pro:sub|we v|have&PAST det:num|three n|attic-PL coord|and pro:per|it
+	cop|be&PAST&13S det:art|a adj|real (1)adj|real (1)adj|big (1)n|house
+	coord|and det:num|one prep|of det:art|the n|attic-PL aux|be&PAST&13S
+	det:art|a pro:per|it cop|be&PAST&13S det:num|two prep|of det:art|the
+	n|attic-PL mod|do&PAST~neg|not v|have pro:indef|anything coord|and
+	pro:per|it cop|be&PAST&13S adj|real n|dark .
+----------------------------------------
+*** File "third.cha": line 4862.
+*CHI:	yeah but that big old ball that we had .
+%mor:	co|yeah conj|but pro:dem|that (1)adj|big (1)adj|old (1)n|ball pro:rel|that
+	pro:sub|we v|have&PAST .
+----------------------------------------
+*** File "third.cha": line 5664.
+*CHI:	I have one that which is a old great big fish with the prettiest
+	tail .
+%mor:	pro:sub|I v|have pro:indef|one pro:rel|that pro:rel|which cop|be&3S
+	det:art|a adj|old (1)adj|great (1)adj|big (1)n|fish prep|with det:art|the
+	adj|pretty-SP n|tail .
+----------------------------------------
+*** File "third.cha": line 5683.
+*CHI:	and and and the pink one the great big pink one its called Spinky .
+%mor:	coord|and coord|and coord|and det:art|the n|pink det:num|one
+	det:art|the (1)adj|great (1)adj|big (1)n|pink det:num|one det:poss|its
+	part|call-PASTP n:prop|Spinky .
+----------------------------------------
+*** File "third.cha": line 5783.
+*CHI:	well I have this &-um well sometimes we have this real funny
+	baby+sitter called Barbara and she's real tall and you_know she
+	she's so funny and she and she can and I'm laughing all the time
+	ever until the time that she until the time I have_to go to bed and
+	she always &-um sometimes she carries me to bed .
+%mor:	co|well pro:sub|I v|have pro:dem|this adv|well adv|sometimes
+	pro:sub|we v|have pro:dem|this (1)adj|real (1)adj|fun&dn-Y
+	(1)n|+n|baby+v|sit&dv-AGT part|call-PASTP n:prop|Barbara coord|and
+	pro:sub|she~cop|be&3S adj|real adj|tall coord|and co|you_know
+	pro:sub|she pro:sub|she~cop|be&3S adv|so adj|fun&dn-Y coord|and
+	pro:sub|she coord|and pro:sub|she mod|can coord|and
+	pro:sub|I~aux|be&1S part|laugh-PRESP qn|all det:art|the n|time
+	adv|ever prep|until det:art|the n|time pro:rel|that pro:sub|she
+	prep|until det:art|the n|time pro:sub|I mod:aux|have_to v|go prep|to
+	n|bed coord|and pro:sub|she adv|always adv|sometimes pro:sub|she
+	v|carry-3S pro:obj|me prep|to n|bed .
+----------------------------------------
+*** File "third.cha": line 6179.
+*CHI:	do you watch &-um weird weird world .
+%mor:	mod|do pro:per|you v|watch (1)adj|weird (1)adj|weird (1)n|world .
+----------------------------------------
+*** File "third.cha": line 6703.
+*CHI:	you ought_to you see in this great big tar pit it doesn't look like
+	a tar pit at all you could barely be fool looks more like a lake but
+	it actually it's a it looks like a tar pit .
+%mor:	pro:per|you mod:aux|ought_to pro:per|you v|see prep|in pro:dem|this
+	(1)adj|great (1)adj|big (1)n|tar n|pit pro:per|it mod|do&3S~neg|not cop|look
+	conj|like det:art|a n|tar n|pit prep|at pro:indef|all pro:per|you
+	mod|could adv|bare&dadj-LY cop|be n|fool cop|look-3S qn|more
+	prep|like det:art|a n|lake conj|but pro:per|it adv|actual&dadj-LY
+	pro:per|it~cop|be&3S det:art|a pro:per|it cop|look-3S prep|like
+	det:art|a n|tar n|pit .
+----------------------------------------
+*** File "third.cha": line 7656.
+*CHI:	and &-um I get on my clean clothes when I was supposed to wear my
+	old &-um dirty clothes my jeans that have holes in them and &-um my
+	blouse .
+%mor:	coord|and pro:sub|I v|get prep|on det:poss|my adj|clean
+	n:pt|clothes conj|when pro:sub|I aux|be&PAST&13S part|suppose-PASTP
+	inf|to v|wear det:poss|my (1)adj|old (1)adj|dirt&dn-Y (1)n:pt|clothes
+	det:poss|my n|jeans pro:rel|that v|have n|hole-PL prep|in
+	pro:obj|them coord|and det:poss|my n|blouse .
+----------------------------------------
+*** File "third.cha": line 8912.
+*CHI:	then if I don't kick it he [/] he picks it up and he [/] he cuts he chews
+	the ball in half and there's half and half on each side and he puts
+	it on his mouth and its half is over his nose and half of its in his
+	mouth and he looks like he's got a great big blue monster nose .
+%mor:	adv:tem|then conj|if pro:sub|I mod|do~neg|not v|kick pro:per|it
+	pro:sub|he v|pick-3S pro:per|it adv|up coord|and pro:sub|he n|cut-PL
+	pro:sub|he v|chew-3S det:art|the n|ball prep|in n|half coord|and
+	pro:exist|there~cop|be&3S n|half coord|and n|half adv|on qn|each
+	adj|side coord|and pro:sub|he v|put-3S pro:per|it prep|on
+	det:poss|his n|mouth coord|and det:poss|its n|half aux|be&3S
+	prep|over det:poss|his n|nose coord|and n|half prep|of det:poss|its
+	prep|in det:poss|his n|mouth coord|and pro:sub|he cop|look-3S
+	conj|like pro:sub|he~aux|be&3S part|get&PASTP det:art|a adj|great
+	(1)adj|big (1)adj|blue (1)n|monster n|nose .
+----------------------------------------
+*** File "third.cha": line 9980.
+*CHI:	she keeps on going higher higher higher high .
+%mor:	pro:sub|she v|keep-3S adv|on part|go-PRESP adj|high-CP (1)adj|high-CP
+	(1)adj|high-CP (1)n|high .
+----------------------------------------
+*** File "third.cha": line 10591.
+*CHI:	and &-um and Lucy you_know started writing this real long play about
+	her sisters and and it took about a whole bunch of days and she
+	wrote at night and the afternoon and &-um Bob Hope never &-um Bob Hope
+	was Lucys husband and he never helped Lucy and then well I cant
+	remember the rest .
+%mor:	coord|and coord|and n:prop|Lucy co|you_know v|start-PAST
+	n:gerund|write-PRESP pro:dem|this (1)adj|real (1)adj|long (1)n|play
+	prep|about det:poss|her n|sister-PL coord|and coord|and pro:per|it
+	v|take&PAST prep|about det:art|a adj|whole n|bunch prep|of n|day-PL
+	coord|and pro:sub|she v|write&PAST prep|at n|night coord|and
+	det:art|the n|afternoon coord|and n:prop|Bob n:prop|Hope adv|never
+	n:prop|Bob n:prop|Hope cop|be&PAST&13S n:prop|Lucys n|husband
+	coord|and pro:sub|he adv|never part|help-PASTP n:prop|Lucy coord|and
+	adv:tem|then adv|well pro:sub|I v|cant v|remember det:art|the n|rest
+	.
+----------------------------------------
+*** File "third.cha": line 10856.
+*CHI:	and I see we went down this real steep hill and I was going so fast
+	I was so scared you_know and I forgot to put on the brakes and I ran
+	right to the sidewalks .
+%mor:	coord|and pro:sub|I v|see pro:sub|we v|go&PAST prep|down
+	pro:dem|this (1)adj|real (1)adj|steep (1)n|hill coord|and pro:sub|I
+	aux|be&PAST&13S part|go-PRESP adv|so adv|fast pro:sub|I
+	cop|be&PAST&13S adv|so part|scare-PASTP co|you_know coord|and
+	pro:sub|I v|forget&PAST inf|to v|put&ZERO prep|on det:art|the
+	n|brake-PL coord|and pro:sub|I v|run&PAST adv|right prep|to
+	det:art|the n|sidewalk-PL .
+----------------------------------------
+*** File "third.cha": line 10923.
+*CHI:	well &-uh so &-uh I &-um Paul and &-um all of us &-uh we were riding &-uh
+	going down a real real steep hill that was going is a practically
+	straight down .
+%mor:	co|well conj|so pro:sub|I n:prop|Paul coord|and pro:indef|all
+	prep|of pro:obj|us pro:sub|we aux|be&PAST part|ride-PRESP
+	part|go-PRESP prep|down det:art|a adj|real (1)adj|real (1)adj|steep (1)n|hill
+	pro:rel|that cop|be&PAST&13S n:gerund|go-PRESP cop|be&3S det:art|a
+	adv|practical&dadj-LY adv|straight adv|down .
+----------------------------------------
+*** File "third.cha": line 10936.
+*CHI:	so anyway &-um we found this big we it was a big big mud puddle .
+%mor:	co|so co|anyway pro:sub|we v|find&PAST pro:dem|this adj|big
+	pro:sub|we pro:per|it cop|be&PAST&13S det:art|a (1)adj|big (1)adj|big
+	(1)n|mud n|puddle .
+----------------------------------------
+*** File "third.cha": line 11053.
+*CHI:	so they all get on the glider and there's about ten people all the
+	neighbors were coming over and it was a real big glider it was
+	loaded and it was swinging and all of a sudden one of somebody
+	started screaming so we got off and then &-um someone and one of the
+	little girls got her finger caught in the glider .
+%mor:	conj|so pro:sub|they post|all v|get prep|on det:art|the
+	n|glide&dv-AGT coord|and pro:exist|there~cop|be&3S prep|about
+	det:num|ten n|person&PL adv|all det:art|the n|neighbor-PL
+	aux|be&PAST part|come-PRESP adv|over coord|and pro:per|it
+	cop|be&PAST&13S det:art|a (1)adj|real (1)adj|big (1)n|glide&dv-AGT pro:per|it
+	aux|be&PAST&13S part|load-PASTP coord|and pro:per|it aux|be&PAST&13S
+	part|swing-PRESP coord|and pro:indef|all prep|of det:art|a n|sudden
+	det:num|one prep|of pro:indef|somebody v|start-PAST
+	n:gerund|scream-PRESP adv|so pro:sub|we v|get&PAST adv|off coord|and
+	adv:tem|then pro:indef|someone coord|and det:num|one prep|of
+	det:art|the adj|little n|girl-PL v|get&PAST det:poss|her n|finger
+	v|catch&PAST prep|in det:art|the n|glide&dv-AGT .
+----------------------------------------
+*** File "third.cha": line 12129.
+*CHI:	and then &-um we were going to sell them for a dollar and then the
+	more we sell we like if we sell two we get this little tiny &-uh
+	camera .
+%mor:	coord|and adv:tem|then pro:sub|we aux|be&PAST part|go-PRESP inf|to
+	v|sell pro:obj|them prep|for det:art|a n|dollar coord|and
+	adv:tem|then det:art|the adv|more pro:sub|we v|sell pro:sub|we
+	v|like conj|if pro:sub|we v|sell det:num|two pro:sub|we v|get
+	pro:dem|this (1)adj|little (1)adj|tiny (1)n|camera .
+----------------------------------------
+*** File "third.cha": line 12411.
+*CHI:	I was sick sick Saturday and I threw up and I had a temperature of
+	a hundred and two .
+%mor:	pro:sub|I cop|be&PAST&13S (1)adj|sick (1)adj|sick (1)n:prop|Saturday
+	coord|and pro:sub|I v|throw&PAST adv|up coord|and pro:sub|I
+	v|have&PAST det:art|a n|temperature prep|of det:art|a
+	det:num|hundred coord|and det:num|two .
+----------------------------------------
+*** File "third.cha": line 12555.
+*CHI:	well there's a real stupid girl in our class and her names Joanne .
+%mor:	co|well pro:exist|there~cop|be&3S det:art|a (1)adj|real (1)adj|stupid
+	(1)n|girl prep|in det:poss|our n|class coord|and det:poss|her v|name-3S
+	n:prop|Joanne .
+----------------------------------------
+*** File "third.cha": line 12566.
+*CHI:	and Joanne and she wears a real sloppy petticoat .
+%mor:	coord|and n:prop|Joanne coord|and pro:sub|she v|wear-3S det:art|a
+	(1)adj|real (1)adj|slop&dn-Y (1)n|petticoat .
+----------------------------------------
+*** File "third.cha": line 13037.
+*CHI:	and &-um so she always gets everything there she gets cookies and
+	you see we have this real stupid substitute his name is Mister
+	Londen .
+%mor:	coord|and co|so pro:sub|she adv|always v|get-3S
+	pro:indef|everything adv|there pro:sub|she v|get-3S n|cookie-PL
+	coord|and pro:per|you v|see pro:sub|we v|have pro:dem|this (1)adj|real
+	(1)adj|stupid (1)n|substitute det:poss|his n|name cop|be&3S n:prop|Mister
+	n:prop|Londen .
+
+    Strings matched 31 times
+

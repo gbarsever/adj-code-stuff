@@ -1,0 +1,320 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:19:38 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <v1-1207.cha>
+----------------------------------------
+*** File "v1-1207.cha": line 2186.
+*MOT:	that's a pretty big ball you got there . %snd:"v1-w4jun97"_1997146_1999061
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|ball
+	pro:per|you v|get&PAST adv|there .
+----------------------------------------
+*** File "v1-1207.cha": line 2785.
+*MOT:	this was a baby toy from when you were a little tiny baby . %snd:"v1-w4jun97"_2611344_2614257
+%mor:	pro:dem|this cop|be&PAST&13S det:art|a n|baby n|toy prep|from
+	conj|when pro:per|you cop|be&PAST det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby .
+
+    Strings matched 2 times
+
+From file <v1-1221.cha>
+----------------------------------------
+*** File "v1-1221.cha": line 576.
+*MOT:	you're a real good helper , honey . %snd:"v1-w18jun97"_542109_543844
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|good (1)n|help&dv-AGT
+	cm|cm n|honey .
+----------------------------------------
+*** File "v1-1221.cha": line 3378.
+*MOT:	to all my scrum(ptious) delicious friends who like to hunt for
+	sweets [=! read] . %snd:"v1-w18jun97"_3949942_3953677
+%mor:	prep|to adv|all det:poss|my (1)adj|scrumptious (1)adj|delicious
+	(1)n|friend-PL pro:rel|who co|like inf|to v|hunt prep|for n|sweet-PL .
+----------------------------------------
+*** File "v1-1221.cha": line 3433.
+*MOT:	to all my scrum(ptious) delicious friends who like to hunt for
+	sweets [=! read] . %snd:"v1-w18jun97"_3990395_3994223
+%mor:	prep|to adv|all det:poss|my (1)adj|scrumptious (1)adj|delicious
+	(1)n|friend-PL pro:rel|who co|like inf|to v|hunt prep|for n|sweet-PL .
+
+    Strings matched 3 times
+
+From file <v1-1319.cha>
+----------------------------------------
+*** File "v1-1319.cha": line 111.
+*MOT:	a great big horse (...) and a very little horse . %snd:"v1-r17jul97"_95718_98571
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|horse coord|and det:art|a adv|very
+	adj|little n|horse .
+----------------------------------------
+*** File "v1-1319.cha": line 472.
+*MOT:	big bad wolf . %snd:"v1-r17jul97"_496463_497154
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "v1-1319.cha": line 478.
+*MOT:	big bad wolf . %snd:"v1-r17jul97"_498731_499289
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "v1-1319.cha": line 571.
+*MOT:	big bad wolf . %snd:"v1-r17jul97"_571184_571769
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "v1-1319.cha": line 577.
+*MOT:	big bad wolf . %snd:"v1-r17jul97"_575287_575884
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "v1-1319.cha": line 580.
+*MOT:	yeah big bad wolf . %snd:"v1-r17jul97"_579048_580020
+%mor:	co|yeah (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "v1-1319.cha": line 953.
+*MOT:	you're new favorite toy . %snd:"v1-r17jul97"_1079156_1080544
+%mor:	pro:per|you~cop|be&PRES (1)adj|new (1)adj|favorite (1)n|toy .
+----------------------------------------
+*** File "v1-1319.cha": line 3104.
+*MOT:	by the big red barn (.) in the great green field [=! read] . %snd:"v1-r17jul97"_3766048_3769914
+%mor:	prep|by det:art|the (1)adj|big (1)adj|red (1)n|barn prep|in det:art|the
+	(2)adj|great (2)adj|green (2)n|field .
+----------------------------------------
+*** File "v1-1319.cha": line 3114.
+*MOT:	there was a great big horse [=! read] . %snd:"v1-r17jul97"_3775044_3776707
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|horse
+	.
+----------------------------------------
+*** File "v1-1319.cha": line 3182.
+*MOT:	and a big white hen standing on one (...) leg [=! read] . %snd:"v1-r17jul97"_3821452_3825034
+%mor:	coord|and det:art|a (1)adj|big (1)adj|white (1)n|hen part|stand-PRESP
+	prep|on det:num|one n|leg .
+----------------------------------------
+*** File "v1-1319.cha": line 3192.
+*MOT:	there was a bantam rooster and a little bantam hen with a big
+	clutch of eggs [=! read] . %snd:"v1-r17jul97"_3830007_3834440
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|bantam n|rooster
+	coord|and det:art|a (1)adj|little (1)adj|bantam (1)n|hen prep|with det:art|a
+	adj|big n|clutch prep|of n|egg-PL .
+----------------------------------------
+*** File "v1-1319.cha": line 3209.
+*MOT:	there was a big brown cow and a little brown cow [=! read] . %snd:"v1-r17jul97"_3841759_3845024
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|brown (1)n|cow
+	coord|and det:art|a (2)adj|little (2)adj|brown (2)n|cow .
+----------------------------------------
+*** File "v1-1319.cha": line 3214.
+*MOT:	there was an old black cat [=! read] . %snd:"v1-r17jul97"_3847245_3848656
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|old (1)adj|black (1)n|cat .
+----------------------------------------
+*** File "v1-1319.cha": line 3223.
+*MOT:	there was a big red dog [=! read] . %snd:"v1-r17jul97"_3853532_3855160
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|red (1)n|dog .
+----------------------------------------
+*** File "v1-1319.cha": line 3245.
+*MOT:	and they all lived together in the big red barn [=! read] . %snd:"v1-r17jul97"_3865789_3868670
+%mor:	coord|and pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3255.
+*MOT:	when the sun went down in the great (.) green field [=! read] . %snd:"v1-r17jul97"_3873190_3876309
+%mor:	conj|when det:art|the n|sun v|go&PAST adv|down prep|in det:art|the
+	(1)adj|great (1)adj|green (1)n|field .
+----------------------------------------
+*** File "v1-1319.cha": line 3301.
+*MOT:	in the big red barn [=! read] . %snd:"v1-r17jul97"_3904707_3906295
+%mor:	prep|in det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3324.
+*MOT:	there was a great big horse [=! read] . %snd:"v1-r17jul97"_3932840_3934068
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|horse
+	.
+----------------------------------------
+*** File "v1-1319.cha": line 3382.
+*MOT:	there was a big brown cow [=! read] . %snd:"v1-r17jul97"_3982854_3984269
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|brown (1)n|cow .
+----------------------------------------
+*** File "v1-1319.cha": line 3385.
+*MOT:	and a little brown cow [=! read] . %snd:"v1-r17jul97"_3984755_3986578
+%mor:	coord|and det:art|a (1)adj|little (1)adj|brown (1)n|cow .
+----------------------------------------
+*** File "v1-1319.cha": line 3391.
+*MOT:	there was an old black cat [=! read] . %snd:"v1-r17jul97"_3996129_3997520
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|old (1)adj|black (1)n|cat .
+----------------------------------------
+*** File "v1-1319.cha": line 3400.
+*MOT:	and they all lived together in the big red barn [=! read] . %snd:"v1-r17jul97"_4008085_4011324
+%mor:	coord|and pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3420.
+*MOT:	in the big red barn [=! read] . %snd:"v1-r17jul97"_4033228_4034827
+%mor:	prep|in det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3534.
+*MOT:	by the big red barn in the great green field [=! read] . %snd:"v1-r17jul97"_4222361_4226051
+%mor:	prep|by det:art|the (1)adj|big (1)adj|red (1)n|barn prep|in det:art|the
+	(2)adj|great (2)adj|green (2)n|field .
+----------------------------------------
+*** File "v1-1319.cha": line 3544.
+*MOT:	there was a great big horse (..) and a very little horse [=! read]
+	. %snd:"v1-r17jul97"_4232143_4235226
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|horse
+	coord|and det:art|a adv|very adj|little n|horse .
+----------------------------------------
+*** File "v1-1319.cha": line 3591.
+*MOT:	big red barn [=! read] . %snd:"v1-r17jul97"_4270371_4271201
+%mor:	(1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3594.
+*MOT:	by the big red barn in the great green field [=! read] . %snd:"v1-r17jul97"_4273861_4277031
+%mor:	prep|by det:art|the (1)adj|big (1)adj|red (1)n|barn prep|in det:art|the
+	(2)adj|great (2)adj|green (2)n|field .
+----------------------------------------
+*** File "v1-1319.cha": line 3612.
+*MOT:	there was a great big horse (..) and a very little horse [=! read]
+	. %snd:"v1-r17jul97"_4293531_4296166
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|horse
+	coord|and det:art|a adv|very adj|little n|horse .
+----------------------------------------
+*** File "v1-1319.cha": line 3671.
+*MOT:	and a big white hen standing on one leg [=! read] . %snd:"v1-r17jul97"_4334190_4336687
+%mor:	coord|and det:art|a (1)adj|big (1)adj|white (1)n|hen part|stand-PRESP
+	prep|on det:num|one n|leg .
+----------------------------------------
+*** File "v1-1319.cha": line 3681.
+*MOT:	there was a bantam rooster and a little bantam hen with a big
+	clutch of eggs [=! read] . %snd:"v1-r17jul97"_4343014_4347230
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|bantam n|rooster
+	coord|and det:art|a (1)adj|little (1)adj|bantam (1)n|hen prep|with det:art|a
+	adj|big n|clutch prep|of n|egg-PL .
+----------------------------------------
+*** File "v1-1319.cha": line 3698.
+*MOT:	there was a big brown cow [=! read] . %snd:"v1-r17jul97"_4353966_4355469
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|brown (1)n|cow .
+----------------------------------------
+*** File "v1-1319.cha": line 3701.
+*MOT:	and a little brown cow [=! read] . %snd:"v1-r17jul97"_4356054_4357712
+%mor:	coord|and det:art|a (1)adj|little (1)adj|brown (1)n|cow .
+----------------------------------------
+*** File "v1-1319.cha": line 3704.
+*MOT:	there was an old black cat [=! read] . %snd:"v1-r17jul97"_4362344_4363956
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|old (1)adj|black (1)n|cat .
+----------------------------------------
+*** File "v1-1319.cha": line 3713.
+*MOT:	there was a big red dog [=! read] . %snd:"v1-r17jul97"_4372245_4373595
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|red (1)n|dog .
+----------------------------------------
+*** File "v1-1319.cha": line 3724.
+*MOT:	and they all lived together in the big red barn [=! read] . %snd:"v1-r17jul97"_4380633_4383716
+%mor:	coord|and pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1319.cha": line 3734.
+*MOT:	when the sun went down in the great green field [=! read] . %snd:"v1-r17jul97"_4388408_4391291
+%mor:	conj|when det:art|the n|sun v|go&PAST adv|down prep|in det:art|the
+	(1)adj|great (1)adj|green (1)n|field .
+----------------------------------------
+*** File "v1-1319.cha": line 3782.
+*MOT:	in the big red barn [=! read] . %snd:"v1-r17jul97"_4429609_4431065
+%mor:	prep|in det:art|the (1)adj|big (1)adj|red (1)n|barn .
+
+    Strings matched 41 times
+
+From file <v1-1417.cha>
+----------------------------------------
+*** File "v1-1417.cha": line 179.
+*MOT:	by the big red barn in the great green field [=! read] . %snd:"v1-r14aug97"_139731_142883
+%mor:	prep|by det:art|the (1)adj|big (1)adj|red (1)n|barn prep|in det:art|the
+	(2)adj|great (2)adj|green (2)n|field .
+----------------------------------------
+*** File "v1-1417.cha": line 189.
+*MOT:	there was a great big horse [=! read] . %snd:"v1-r14aug97"_147718_149083
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|horse
+	.
+----------------------------------------
+*** File "v1-1417.cha": line 268.
+*MOT:	there was a bantam rooster and a little bantam hen with a big
+	clutch of eggs [=! read] . %snd:"v1-r14aug97"_203827_207519
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|bantam n|rooster
+	coord|and det:art|a (1)adj|little (1)adj|bantam (1)n|hen prep|with det:art|a
+	adj|big n|clutch prep|of n|egg-PL .
+----------------------------------------
+*** File "v1-1417.cha": line 291.
+*MOT:	there was a big brown cow (.) and a little brown cow [=! read] . %snd:"v1-r14aug97"_214582_217570
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|brown (1)n|cow
+	coord|and det:art|a (2)adj|little (2)adj|brown (2)n|cow .
+----------------------------------------
+*** File "v1-1417.cha": line 296.
+*MOT:	there was an old black cat [=! read] . %snd:"v1-r14aug97"_218286_219551
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|old (1)adj|black (1)n|cat .
+----------------------------------------
+*** File "v1-1417.cha": line 305.
+*MOT:	there was a big red dog [=! read] . %snd:"v1-r14aug97"_224806_226293
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|big (1)adj|red (1)n|dog .
+----------------------------------------
+*** File "v1-1417.cha": line 317.
+*MOT:	and they all lived together in the big red barn [=! read] . %snd:"v1-r14aug97"_234156_237302
+%mor:	coord|and pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1417.cha": line 327.
+*MOT:	when the sun went down in the great green field [=! read] . %snd:"v1-r14aug97"_243524_246317
+%mor:	conj|when det:art|the n|sun v|go&PAST adv|down prep|in det:art|the
+	(1)adj|great (1)adj|green (1)n|field .
+----------------------------------------
+*** File "v1-1417.cha": line 371.
+*MOT:	in the big red barn [=! read] . %snd:"v1-r14aug97"_274483_275989
+%mor:	prep|in det:art|the (1)adj|big (1)adj|red (1)n|barn .
+----------------------------------------
+*** File "v1-1417.cha": line 2796.
+*MOT:	you don't feel like doing the front back ballet dancing yak song ?
+	%snd:"v1-r14aug97"_3138267_3141365
+%mor:	pro:per|you mod|do~neg|not v|feel prep|like part|do-PRESP
+	det:art|the (1)adj|front (1)adj|back (1)n|ballet part|dance-PRESP n|yak
+	n|song ?
+----------------------------------------
+*** File "v1-1417.cha": line 3159.
+*MOT:	you're a pretty smart baby (be)cause you know when this xxx baby
+	gate (i)s not latched . %snd:"v1-r14aug97"_3559643_3563909
+%mor:	pro:per|you~cop|be&PRES det:art|a (1)adj|pretty (1)adj|smart (1)n|baby
+	conj|because pro:per|you v|know conj|when pro:dem|this n|baby n|gate
+	aux|be&3S neg|not part|latch-PASTP .
+----------------------------------------
+*** File "v1-1417.cha": line 3305.
+*MOT:	you're a pretty good boy . %snd:"v1-r14aug97"_3966558_3967532
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|good (1)n|boy .
+----------------------------------------
+*** File "v1-1417.cha": line 3313.
+*MOT:	that was a pretty good boy . %snd:"v1-r14aug97"_3973746_3975122
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good (1)n|boy .
+
+    Strings matched 15 times
+
+From file <v1-1506.cha>
+----------------------------------------
+*** File "v1-1506.cha": line 116.
+*MOT:	you're a little (..) snotty boy . %snd:"v1-w3sep97"_180697_182460
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|little (1)adj|snot&dn-Y (1)n|boy .
+----------------------------------------
+*** File "v1-1506.cha": line 2229.
+*MOT:	like the soft soft whisper of a butterfly [=! read] . %snd:"v1-w3sep97"_2929442_2932363
+%mor:	prep|like det:art|the (1)adj|soft (1)adj|soft (1)n|whisper prep|of det:art|a
+	n|+n|butter+n|fly .
+----------------------------------------
+*** File "v1-1506.cha": line 2371.
+*MOT:	like the soft soft whisper of a butterfly [=! read] . %snd:"v1-w3sep97"_3042510_3045133
+%mor:	prep|like det:art|the (1)adj|soft (1)adj|soft (1)n|whisper prep|of det:art|a
+	n|+n|butter+n|fly .
+----------------------------------------
+*** File "v1-1506.cha": line 2555.
+*MOT:	like the soft soft whisper of a butterfly [=! read] . %snd:"v1-w3sep97"_3173483_3175874
+%mor:	prep|like det:art|the (1)adj|soft (1)adj|soft (1)n|whisper prep|of det:art|a
+	n|+n|butter+n|fly .
+----------------------------------------
+*** File "v1-1506.cha": line 2606.
+*MOT:	juicy red apples grow on trees [=! read] . %snd:"v1-w3sep97"_3210367_3213178
+%mor:	(1)adj|juice&dn-Y (1)adj|red (1)n|apple-PL v|grow prep|on n|tree-PL .
+----------------------------------------
+*** File "v1-1506.cha": line 3012.
+*MOT:	like the soft soft whisper of a (..) butterfly [=! read] . %snd:"v1-w3sep97"_3534282_3537157
+%mor:	prep|like det:art|the (1)adj|soft (1)adj|soft (1)n|whisper prep|of det:art|a
+	n|+n|butter+n|fly .
+
+    Strings matched 6 times
+

@@ -1,0 +1,668 @@
+combo +t%mor -t*CHI -t*CAR -t*BRU -t*LEN +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:27:35 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *CAR; *BRU; *LEN;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha": line 1027.
+*MOT:	do you think you can find a clean little gown for her ?
+%mor:	mod|do pro:per|you v|think pro:per|you mod|can v|find det:art|a
+	(1)adj|clean (1)adj|little (1)n|gown prep|for pro:obj|her ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha": line 1042.
+*INV:	see if you can find a clean one (.) Shem (.) can you find a clean
+	little dress for the baby ?
+%mor:	v|see conj|if pro:per|you mod|can v|find det:art|a adj|clean
+	pro:indef|one n:prop|Shem mod|can pro:per|you v|find det:art|a
+	(1)adj|clean (1)adj|little (1)n|dress prep|for det:art|the n|baby ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha": line 1302.
+*INV:	he's little green mousie (.) green ?
+%mor:	pro:sub|he~cop|be&3S (1)adj|little (1)adj|green (1)n|mouse-DIM n|green ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha": line 2432.
+*MOT:	you want to put on this funny little bracelet ?
+%mor:	pro:per|you v|want inf|to v|put&ZERO prep|on pro:dem|this
+	(1)adj|fun&dn-Y (1)adj|little (1)n|bracelet ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem02.cha": line 2708.
+*MOT:	you have a nice big wrist (.) doesn't fit anymore .
+%mor:	pro:per|you v|have det:art|a (1)adj|nice (1)adj|big (1)n|wrist
+	mod|do&3S~neg|not v|fit&ZERO adv|anymore .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem03.cha": line 1283.
+*INV:	it's a little green doggie .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|green (1)n|dog-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem03.cha": line 1416.
+*INV:	that's a little teeny tenny [: tiny] snail (.) hello (.) little
+	teeny snail .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|little (1)adj|teeny (1)adj|tiny
+	(1)n|snail n|hello (2)adj|little (2)adj|teeny (2)n|snail .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem04.cha": line 2446.
+*MOT:	you left your juice on the table and in fact there's a_lot_of nice
+	cold rice for you (.) you can have some .
+%mor:	pro:per|you adv|left det:poss|your n|juice prep|on det:art|the
+	n|table coord|and prep|in n|fact pro:exist|there~aux|be&3S
+	qn|a_lot_of (1)adj|nice (1)adj|cold (1)n|rice prep|for pro:per|you
+	pro:per|you mod|can v|have qn|some .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem04.cha": line 3757.
+*INV:	that's why little teeny babies (.) you have_to hold them (.) so
+	they don't fall down (.) see this little boy ?
+%mor:	pro:dem|that~cop|be&3S adv:int|why (1)adj|little (1)adj|teeny (1)n|baby-PL
+	pro:per|you mod:aux|have_to v|hold pro:obj|them co|so pro:sub|they
+	mod|do~neg|not v|fall adv|down v|see pro:dem|this adj|little n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem04.cha": line 3912.
+*INV:	it's a little tiny boy and a little tiny dog (.) look at that
+	little teeny dog (.) it's so little .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|boy coord|and
+	det:art|a (2)adj|little (2)adj|tiny (2)n|dog cop|look prep|at pro:dem|that
+	(3)adj|little (3)adj|teeny (3)n|dog pro:per|it~cop|be&3S adv|so adj|little .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem06.cha": line 750.
+*INV:	when you stroke her under her turtle chin (.) she blinks her eyes
+	and makes small gentle sounds of pleasure .
+%mor:	conj|when pro:per|you v|stroke pro:obj|her adv|under det:poss|her
+	n|turtle n|chin pro:sub|she v|blink-3S det:poss|her n|eye-PL
+	coord|and v|make-3S (1)adj|small (1)adj|gentle (1)n|sound-PL prep|of
+	n|pleasure .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem06.cha": line 1257.
+*INV:	there's some more (.) yummy little blue and red birds .
+%mor:	pro:exist|there~cop|be&3S qn|some qn|more (1)adj|yum&dn-Y (1)adj|little
+	(1)n|blue coord|and adj|red n|bird-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem06.cha": line 4692.
+*INV:	soon as they hid the rabbit , there comes the fox (.) and they're
+	all hiding under that poor little mushroom .
+%mor:	adv|soon conj|as pro:sub|they v|hide&PAST det:art|the n|rabbit
+	cm|cm adv|there v|come-3S det:art|the n|fox coord|and
+	pro:sub|they~aux|be&PRES post|all part|hide-PRESP prep|under
+	pro:dem|that (1)adj|poor (1)adj|little (1)n|mushroom .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem07.cha": line 984.
+*INV:	oh (.) let's make you another nice new cake okay ?
+%mor:	co|oh v|let~pro:obj|us v|make pro:per|you qn|another (1)adj|nice
+	(1)adj|new (1)n|cake adj|okay ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem07.cha": line 989.
+*INV:	here (.) we'll make you a nice new cake in this one (.) a big cake
+	.
+%mor:	adv|here pro:sub|we~mod|will v|make pro:per|you det:art|a (1)adj|nice
+	(1)adj|new (1)n|cake prep|in pro:dem|this pro:indef|one det:art|a adj|big
+	n|cake .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem07.cha": line 1411.
+*INV:	you made a table (.) you made a little square mark too .
+%mor:	pro:per|you v|make&PAST det:art|a n|table pro:per|you v|make&PAST
+	det:art|a (1)adj|little (1)adj|square (1)n|mark adv|too .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem09.cha": line 397.
+*INV:	okay (.) now we'll put it in the water (.) and we'll rinse it out
+	(.) then we'll put in a little teeny bit of soap .
+%mor:	co|okay adv|now pro:sub|we~mod|will v|put&ZERO pro:per|it prep|in
+	det:art|the n|water coord|and pro:sub|we~mod|will v|rinse pro:per|it
+	adv|out adv:tem|then pro:sub|we~mod|will v|put&ZERO prep|in
+	det:art|a (1)adj|little (1)adj|teeny (1)n|bit prep|of n|soap .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem09.cha": line 3382.
+*INV:	this is a little (.) little tower .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|little (1)adj|little (1)n|tower .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem10.cha": line 726.
+*INV:	he's just bringing in Ana's things from the car (.) see (.) they
+	took Ana's things out_of mommy's car and put (th)em on top of
+	daddy's car (.) so he has_to bring (th)em in (.) see (.) like her
+	little seat (.) you know (.) that you put her in (.) and that little
+	[/] you know that little green thing that you can put on and wear on
+	your stomach ?
+%mor:	pro:sub|he~aux|be&3S adv|just part|bring-PRESP prep|in
+	n:prop|Ana~poss|s n|thing-PL prep|from det:art|the n|car v|see
+	pro:sub|they v|take&PAST n:prop|Ana~poss|s n|thing-PL prep|out_of
+	n|mommy~poss|s n|car coord|and v|put&ZERO pro:obj|them prep|on n|top
+	prep|of n|daddy~poss|s n|car co|so pro:sub|he mod:aux|has_to v|bring
+	pro:obj|them prep|in co|see v|like pro:obj|her adj|little n|seat
+	pro:per|you v|know pro:rel|that pro:per|you v|put&ZERO det:poss|her
+	adv|in coord|and pro:rel|that pro:per|you v|know pro:rel|that
+	(1)adj|little (1)adj|green (1)n|thing pro:rel|that pro:per|you mod|can
+	part|put&PASTP adv|on coord|and v|wear prep|on det:poss|your
+	n|stomach ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem10.cha": line 1397.
+*INV:	he looks like that's a big little tower that he's making out_of
+	blocks and he's just building and building on top at that (.) so
+	when he gets the wood (.) then what happens ?
+%mor:	pro:sub|he cop|look-3S conj|like pro:dem|that~cop|be&3S det:art|a
+	(1)adj|big (1)adj|little (1)n|tower pro:rel|that pro:sub|he~aux|be&3S
+	part|make-PRESP prep|out_of n|block-PL coord|and
+	pro:sub|he~aux|be&3S adv|just n|building coord|and n|building
+	prep|on n|top prep|at pro:dem|that co|so conj|when pro:sub|he
+	v|get-3S det:art|the n|wood adv:tem|then det:int|what v|happen-3S ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem10.cha": line 3117.
+*INV:	fish sleep among the green water ferns with their eyes and mouths
+	wide open fish sleep with their eyes open (.) isn't that funny ?
+%mor:	n|fish n|sleep prep|among det:art|the adj|green n|water n|fern-PL
+	prep|with det:poss|their n|eye-PL coord|and v|mouth-3S (1)adj|wide
+	(1)adj|open (1)n|fish n|sleep prep|with det:poss|their n|eye-PL adj|open
+	cop|be&3S~neg|not pro:dem|that adj|fun&dn-Y ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem10.cha": line 3160.
+*INV:	little white leaves .
+%mor:	(1)adj|little (1)adj|white (1)n|leaf-PL .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem11.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem11.cha": line 3164.
+*INV:	these are the two little little babies (.) right ?
+%mor:	pro:dem|these cop|be&PRES det:art|the det:num|two (1)adj|little
+	(1)adj|little (1)n|baby-PL n|right ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem12.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem12.cha": line 4079.
+*INV:	a big long pink cat ring .
+%mor:	det:art|a (1)adj|big (1)adj|long (1)n|pink n|cat n|ring .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem13.cha": line 1678.
+*INV:	+, so the little (.) poor (.) bad baby +...
+%mor:	co|so det:art|the adj|little (1)adj|poor (1)adj|bad (1)n|baby +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem13.cha": line 1686.
+*INV:	please I want to go home to my mother he looks so sad (.) poor
+	little baby .
+%mor:	co|please pro:sub|I v|want inf|to v|go n|home prep|to det:poss|my
+	n|mother pro:sub|he cop|look-3S adv|so adj|sad (1)adj|poor (1)adj|little
+	(1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem13.cha": line 4597.
+*INV:	there she goes (.) yeah (.) they're both going down (.) down this
+	big (.) steep mountain (.) she has that long hat on .
+%mor:	adv|there pro:sub|she v|go-3S co|yeah pro:sub|they~aux|be&PRES
+	qn|both part|go-PRESP adv|down prep|down pro:dem|this (1)adj|big
+	(1)adj|steep (1)n|mountain pro:sub|she aux|have&3S pro:dem|that adj|long
+	n|hat adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem13.cha": line 5887.
+*INV:	this poor little guy .
+%mor:	pro:dem|this (1)adj|poor (1)adj|little (1)n|guy .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem14.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem14.cha": line 964.
+*MOT:	oh (.) here's the one you were using before (.) Shem (.) you may
+	use the things which are very old (.) old tennis racquets .
+%mor:	co|oh pro:exist|here~cop|be&3S det:art|the det:num|one pro:per|you
+	aux|be&PAST n:gerund|use-PRESP adv|before n:prop|Shem pro:per|you
+	mod|may v|use det:art|the n|thing-PL pro:rel|which cop|be&PRES
+	adv|very (1)adj|old (1)adj|old (1)n|tennis n|racquet-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem14.cha": line 1088.
+*INV:	wait just a second (.) I haven't thrown it yet (.) okay (.) ready
+	(.) set +...
+%mor:	v|wait adv|just det:art|a adv|second pro:sub|I aux|have~neg|not
+	part|throw&PASTP pro:per|it adv|yet (1)adj|okay (1)adj|ready (1)n|set +...
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem15.cha": line 94.
+*INV:	oh (.) I guess it doesn't work (.) well (.) it's broken (.) you can
+	make this little (.) teeny hand go around (.) though (.) see ?
+%mor:	co|oh pro:sub|I v|guess pro:per|it mod|do&3S~neg|not v|work
+	adv|well pro:per|it~aux|be&3S part|break&PASTP pro:per|you mod|can
+	v|make pro:dem|this (1)adj|little (1)adj|teeny (1)n|hand v|go adv|around
+	adv|though v|see ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem16.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem16.cha": line 2649.
+*MRX:	once upon a time (.) in a little french town +...
+%mor:	adv|once prep|upon det:art|a n|time prep|in det:art|a (1)adj|little
+	(1)adj|french (1)n|town +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem16.cha": line 2849.
+*MRX:	Cricter also had a warm (.) comfortable bed where he would dream
+	happily under his palm trees (.) he's a very lucky snake (.) isn't
+	he ?
+%mor:	n:prop|Cricter adv|also v|have&PAST det:art|a (1)adj|warm
+	(1)adj|comfort&dv-ABLE (1)n|bed pro:rel|where pro:sub|he mod|will&COND
+	v|dream adv|happy&dadj-LY adv|under det:poss|his n|palm n|tree-PL
+	pro:sub|he~aux|be&3S det:art|a adv|very adj|luck&dn-Y n|snake
+	cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem17.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem17.cha": line 984.
+*INV:	I'd like some fruit (.) you know I have an even better idea .
+%mor:	pro:sub|I~mod|genmod v|like qn|some n|fruit pro:per|you v|know
+	pro:sub|I v|have det:art|a (1)adj|even (1)adj|good&CP (1)n|idea .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem17.cha": line 2636.
+*INV:	Cricter also had a warm comfortable bed (.) there he would dream
+	happily under his palm trees see (.) there (.) he's wearing his
+	sweater (.) and what else is he wearing ?
+%mor:	n:prop|Cricter adv|also v|have&PAST det:art|a (1)adj|warm
+	(1)adj|comfort&dv-ABLE (1)n|bed adv|there pro:sub|he mod|will&COND v|dream
+	adv|happy&dadj-LY adv|under det:poss|his n|palm n|tree-PL co|see
+	adv|there pro:sub|he~aux|be&3S part|wear-PRESP det:poss|his
+	n|sweater coord|and pro:int|what post|else aux|be&3S pro:sub|he
+	part|wear-PRESP ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem18.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem18.cha": line 136.
+*INV:	mhm (.) I have a big back seat .
+%mor:	co|yes pro:sub|I v|have det:art|a (1)adj|big (1)adj|back (1)n|seat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem18.cha": line 139.
+*INV:	your mommy's and daddy's cars don't have a very big back seat (.)
+	they just have a little back seat .
+%mor:	det:poss|your n|mommy~poss|s coord|and n|daddy~poss|s n|car-PL
+	mod|do~neg|not v|have det:art|a adv|very (1)adj|big (1)adj|back (1)n|seat
+	pro:sub|they adv|just v|have det:art|a (2)adj|little (2)adj|back (2)n|seat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem18.cha": line 887.
+*INV:	the big long box ?
+%mor:	det:art|the (1)adj|big (1)adj|long (1)n|box ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem19.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem19.cha": line 2701.
+*INV:	that's a pretty big building to go in the boat (.) but it fits .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|building
+	inf|to v|go prep|in det:art|the n|boat conj|but pro:per|it v|fit-3S
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem21a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem21a.cha": line 38.
+*INV:	so you're correcting your little french papers ?
+%mor:	adv|so pro:per|you~aux|be&PRES part|correct-PRESP det:poss|your
+	(1)adj|little (1)adj|french (1)n|paper-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem21a.cha": line 1241.
+*INV:	Cricter also had a warm comfortable bed .
+%mor:	n:prop|Cricter adv|also v|have&PAST det:art|a (1)adj|warm
+	(1)adj|comfort&dv-ABLE (1)n|bed .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem21a.cha": line 2392.
+*INV:	his name was peter and he lived in an old (.) old house .
+%mor:	det:poss|his n|name aux|be&PAST&13S v|peter coord|and pro:sub|he
+	v|live-PAST prep|in det:art|a (1)adj|old (1)adj|old (1)n|house .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem21b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22a.cha": line 1493.
+*MOT:	put them all back in the water (.) with tea leaves and various tiny
+	spices like anise and pepper .
+%mor:	v|put&ZERO pro:obj|them adv|all adv|back prep|in det:art|the
+	n|water prep|with n|tea n|leaf-PL coord|and (1)adj|various (1)adj|tiny
+	(1)n|spice-PL co|like n|anise coord|and n|pepper .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 34.
+*INV:	what is annoying Elizabeth Elephant under that nice cold shower ?
+%mor:	pro:int|what aux|be&3S part|annoy-PRESP n:prop|Elizabeth
+	n:prop|Elephant prep|under pro:dem|that (1)adj|nice (1)adj|cold (1)n|shower ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 134.
+*INV:	so this poor little piggy gets a little one and she gets a big one
+	.
+%mor:	adv|so pro:dem|this (1)adj|poor (1)adj|little (1)n|pig-DIM v|get-3S
+	det:art|a adj|little pro:indef|one coord|and pro:sub|she v|get-3S
+	det:art|a adj|big pro:indef|one .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 200.
+*INV:	poor little turtle .
+%mor:	(1)adj|poor (1)adj|little (1)n|turtle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 854.
+*INV:	he's got little pointy things on his tail .
+%mor:	pro:sub|he~aux|be&3S v|get&PAST (1)adj|little (1)adj|point&dn-Y
+	(1)n|thing-PL prep|on det:poss|his n|tail .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 1139.
+*INV:	do ladybugs drink from mugs (.) roll on rugs (.) or give great big
+	hugs ?
+%mor:	v|do n|+n|lady+n|bug-PL n|drink prep|from n|mug-PL n|roll prep|on
+	n|rug-PL coord|or v|give (1)adj|great (1)adj|big (1)n|hug-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem22b.cha": line 2306.
+*INV:	the caterpillar ate through one nice green leaf (.) and after that
+	he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem23.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem23.cha": line 496.
+*INV:	it's a little teeny mirror .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|teeny (1)n|mirror .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem23.cha": line 2226.
+*INV:	you do have a little (.) teeny record in here ?
+%mor:	pro:per|you v|do v|have det:art|a (1)adj|little (1)adj|teeny (1)n|record
+	prep|in adv|here ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem23.cha": line 2287.
+*INV:	oh (.) that middle round thing that keeps the record in the right
+	place ?
+%mor:	co|oh pro:dem|that (1)adj|middle (1)adj|round (1)n|thing pro:rel|that
+	v|keep-3S det:art|the n|record prep|in det:art|the adj|right n|place
+	?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem24.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem24.cha": line 533.
+*MOT:	little weird cuts of meat like that which they have .
+%mor:	(1)adj|little (1)adj|weird (1)n|cut-PL prep|of n|meat prep|like pro:dem|that
+	pro:rel|which pro:sub|they v|have .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem26.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem26.cha": line 1598.
+*MOT:	it's a big tall flask .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|tall (1)n|flask .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem26.cha": line 1834.
+*MOT:	that's like a little tiny gas stove .
+%mor:	pro:dem|that~cop|be&3S conj|like det:art|a (1)adj|little (1)adj|tiny
+	(1)n|gas n|stove .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem26.cha": line 2023.
+*MOT:	you put more liquids (.) I think [//] it's [//] you make a big long
+	connection with these pipes and these other things and &-um [//] all
+	the different liquids go through them .
+%mor:	pro:per|you v|put&ZERO qn|more n|liquid-PL pro:sub|I pro:per|you
+	v|make det:art|a (1)adj|big (1)adj|long (1)n|connection prep|with
+	pro:dem|these n|pipe-PL coord|and pro:dem|these qn|other n|thing-PL
+	coord|and qn|all det:art|the adj|different n|liquid-PL v|go
+	adv|through pro:obj|them .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem26.cha": line 2081.
+*MOT:	it's a little tiny cup .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|cup .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27a.cha": line 601.
+*INV:	just little orange juice type things ?
+%mor:	adv|just (1)adj|little (1)adj|orange (1)n|juice n|type n|thing-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27a.cha": line 1021.
+*INV:	yeah (.) is that a little tiny clock like yours ?
+%mor:	co|yeah cop|be&3S pro:rel|that det:art|a (1)adj|little (1)adj|tiny
+	(1)n|clock prep|like pro:poss|yours ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27a.cha": line 2380.
+*INV:	what if he [//] he's standing on this big tall ladder .
+%mor:	pro:int|what conj|if pro:sub|he~aux|be&3S part|stand-PRESP prep|on
+	pro:dem|this (1)adj|big (1)adj|tall (1)n|ladder .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27a.cha": line 2416.
+*INV:	that's a pretty funny place to have a telephone .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|fun&dn-Y (1)n|place
+	inf|to v|have det:art|a n|telephone .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem27b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem28a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem28a.cha": line 107.
+*INV:	that's your [//] oh (.) that's a nice red sweater you have .
+%mor:	pro:rel|that~aux|be&3S co|oh pro:dem|that~cop|be&3S det:art|a
+	(1)adj|nice (1)adj|red (1)n|sweater pro:per|you v|have .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem28b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem28b.cha": line 339.
+*INV:	he's planting the last tiny little seed of corn .
+%mor:	pro:sub|he~aux|be&3S part|plant-PRESP det:art|the n|last (1)adj|tiny
+	(1)adj|little (1)n|seed prep|of n|corn .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem28b.cha": line 565.
+*INV:	no (.) I think it's just a little tiny plane .
+%mor:	co|no pro:sub|I v|think pro:per|it~aux|be&3S adj|just det:art|a
+	(1)adj|little (1)adj|tiny (1)n|plane .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem29.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem29.cha": line 135.
+*FAT:	poor little kitty has xxx enough food in there .
+%mor:	(1)adj|poor (1)adj|little (1)n|kitty aux|have&3S adv|enough n|food prep|in
+	adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem29.cha": line 159.
+*FAT:	where's the [//] the big (.) deep spider ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|big (1)adj|deep (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem29.cha": line 1672.
+*FAT:	your mean old daddy (.) whom you hate (.) fixed them for you .
+%mor:	det:poss|your (1)adj|mean (1)adj|old (1)n|daddy pro:int|whom pro:per|you
+	v|hate v|fix-PAST pro:obj|them prep|for pro:per|you .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem30a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem30a.cha": line 1355.
+*MOT:	+" George found a nice cozy spot to sleep under the elephant's
+	right ear and the next morning before the zoo opened he got away
+	safely .
+%mor:	n:prop|George v|find&PAST det:art|a (1)adj|nice (1)adj|cozy (1)n|spot inf|to
+	v|sleep prep|under det:art|the n|elephant~poss|s adj|right n|ear
+	coord|and det:art|the adj|next n|morning prep|before det:art|the
+	n|zoo v|open-PAST pro:sub|he v|get&PAST adv|away adv|safe&dadj-LY .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem30a.cha": line 1947.
+*FAT:	little tiny windows with shutters in front of (th)em .
+%mor:	(1)adj|little (1)adj|tiny (1)n|window-PL prep|with n|shutter-PL prep|in
+	n|front prep|of pro:obj|them .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem30b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31a.cha": line 1351.
+*INV:	+" a big (.) long (.) pink cat ring .
+%mor:	det:art|a (1)adj|big (1)adj|long (1)n|pink n|cat n|ring .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31a.cha": line 2024.
+*INV:	now he has all these little teeny (.) teeny cats .
+%mor:	adv|now pro:sub|he v|have&3S qn|all pro:dem|these adj|little
+	(1)adj|teeny (1)adj|teeny (1)n|cat-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 668.
+*INV:	+" a big (.) red (.) wood box .
+%mor:	det:art|a (1)adj|big (1)adj|red (1)n|wood n|box .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 937.
+*INV:	+" they will give you some fun on this wet (.) wet (.) wet day .
+%mor:	pro:sub|they mod|will v|give pro:per|you qn|some n|fun prep|on
+	det:dem|this adj|wet (1)adj|wet (1)adj|wet (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 1921.
+*INV:	you start with a little teeny head like this .
+%mor:	pro:per|you v|start prep|with det:art|a (1)adj|little (1)adj|teeny (1)n|head
+	prep|like pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 1947.
+*INV:	take a little tiny piece like this .
+%mor:	v|take det:art|a (1)adj|little (1)adj|tiny (1)n|piece prep|like pro:dem|this
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 1971.
+*INV:	take a little tiny piece .
+%mor:	v|take det:art|a (1)adj|little (1)adj|tiny (1)n|piece .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem31b.cha": line 2001.
+*INV:	now you roll it up in your fingers into a little tiny ball .
+%mor:	adv|now pro:per|you v|roll pro:per|it adv|up prep|in det:poss|your
+	n|finger-PL prep|into det:art|a (1)adj|little (1)adj|tiny (1)n|ball .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha": line 905.
+*INV:	how about a bad little boy ?
+%mor:	adv:int|how adv|about det:art|a (1)adj|bad (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha": line 1056.
+*INV:	did you crash your head little girl ?
+%mor:	v|do&PAST pro:per|you adj|crash det:poss|your (1)adj|head (1)adj|little
+	(1)n|girl ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha": line 1431.
+*INV:	+" Blister called down from his bed+room window in an angry (.)
+	angry voice (.) Top Cat stop that noisy clanging .
+%mor:	n:prop|Blister v|call-PAST adv|down prep|from det:poss|his
+	n|+n|bed+n|room n|window prep|in det:art|a (1)adj|angry (1)adj|angry
+	(1)n|voice n:prop|Top n:prop|Cat n|stop pro:rel|that adj|noise&dn-Y
+	part|clang-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha": line 2503.
+*INV:	there's that little sad boy who's crying .
+%mor:	pro:exist|there~cop|be&3S pro:dem|that (1)adj|little (1)adj|sad (1)n|boy
+	pro:rel|who~aux|be&3S part|cry-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32a.cha": line 2570.
+*INV:	oh (.) little sad boy .
+%mor:	co|oh (1)adj|little (1)adj|sad (1)n|boy .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem32b.cha": line 1657.
+*INV:	+" smaller than most (.) little fur coats (.) they lived in a warm
+	wooden tree .
+%mor:	adj|small-CP prep|than qn|most adj|little n|fur n|coat-PL
+	pro:sub|they v|live-PAST prep|in det:art|a (1)adj|warm (1)adj|wooden
+	(1)n|tree .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem33.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem33.cha": line 3585.
+*INV:	are you dancing with raggedy Andy [//] raggedy Ann ?
+%mor:	cop|be&PRES pro:per|you part|dance-PRESP prep|with (1)adj|raggedy
+	(1)adj|raggedy (1)n:prop|Ann ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem33.cha": line 3630.
+*INV:	&+aw (.) poor little bear .
+%mor:	(1)adj|poor (1)adj|little (1)n|bear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Clark/shem33.cha": line 3821.
+*INV:	you have_to put that big long stick through the holes ?
+%mor:	pro:per|you mod:aux|have_to v|put&ZERO pro:dem|that (1)adj|big
+	(1)adj|long (1)n|stick prep|through det:art|the n|hole-PL ?
+
+    Strings matched 3 times
+

@@ -1,0 +1,68 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:17:24 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe13.cha": line 1732.
+*MOT:	see how it's off , you can see the little green light isn't on ? %snd:"joe13"_1133934_1137166
+%mor:	v|see adv:int|how pro:per|it~cop|be&3S adv|off cm|cm pro:per|you
+	mod|can v|see det:art|the (1)adj|little (1)adj|green (1)n|light
+	cop|be&3S~neg|not adv|on ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe13.cha": line 4811.
+*MOT:	you have a runny runny runny nose . %snd:"joe13"_3347195_3349099
+%mor:	pro:per|you v|have det:art|a adj|run&dv-Y (1)adj|run&dv-Y (1)adj|run&dv-Y
+	(1)n|nose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe13.cha": line 4931.
+*MOT:	o:h what a sad sad boy . %snd:"joe13"_3420154_3421850
+%mor:	co|oh pro:int|what det:art|a (1)adj|sad (1)adj|sad (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/Joe/joe13.cha": line 5281.
+*MOT:	little fussy sad face , I see you . %snd:"joe13"_3679466_3683578
+%mor:	adj|little (1)adj|fuss&dn-Y (1)adj|sad (1)n|face cm|cm pro:sub|I v|see
+	pro:per|you .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the16.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the16.cha": line 1553.
+*MOT:	see the long lean lion ? %snd:"the16"_1323337_1325465
+%mor:	v|see det:art|the (1)adj|long (1)adj|lean (1)n|lion ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17b.cha": line 784.
+*MOT:	then they all lived together in a little crooked house . %snd:"the17b"_667378_670767
+%mor:	adv:tem|then pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|a (1)adj|little (1)adj|crooked (1)n|house .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17b.cha": line 1048.
+*MOT:	o:h and look he's in this cute little basket . %snd:"the17b"_858052_862327
+%mor:	co|oh coord|and cop|look pro:sub|he~cop|be&3S prep|in pro:dem|this
+	(1)adj|cute (1)adj|little (1)n|basket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17b.cha": line 1080.
+*MOT:	look at that nice soft kitty . %snd:"the17b"_881649_884405
+%mor:	cop|look prep|at pro:dem|that (1)adj|nice (1)adj|soft (1)n|kitty .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Soderstrom/The/the17b.cha": line 1665.
+*MOT:	bu:mpy bro:wn (.) toad . %snd:"the17b"_1449364_1453092
+%mor:	(1)adj|bump&dv-Y (1)adj|brown (1)n|toad .
+
+    Strings matched 4 times
+

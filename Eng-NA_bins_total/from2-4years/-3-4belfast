@@ -1,0 +1,24 @@
+combo +t%mor -t*RAC +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:34:22 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *RAC;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Belfast/Rachel/rachel8.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Belfast/Rachel/rachel8.cha": line 342.
+*MOT:	uhhuh it's just &-um different courses and that .
+%mor:	co|uhhuh pro:per|it~cop|be&3S (1)adj|just (1)adj|different (1)n|course-PL
+	coord|and pro:dem|that .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Belfast/Rachel/rachel8.cha": line 2246.
+*INV:	and you're going to have lovely sunny weather and you're going to
+	be able to splash about in it aren't you ?
+%mor:	coord|and pro:per|you~cop|be&PRES part|go-PRESP inf|to v|have
+	(1)adj|love&dn-LY (1)adj|sun&dn-Y (1)n|weather coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to cop|be adj|able inf|to
+	v|splash adv|about prep|in pro:per|it aux|be&PRES~neg|not
+	pro:per|you ?
+
+    Strings matched 2 times
+

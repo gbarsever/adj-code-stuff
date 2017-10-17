@@ -1,0 +1,86 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:07:28 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <debbie02.cha>
+
+    Strings matched 0 times
+
+From file <debbie03.cha>
+
+    Strings matched 0 times
+
+From file <debbie04.cha>
+
+    Strings matched 0 times
+
+From file <debbie05.cha>
+----------------------------------------
+*** File "debbie05.cha": line 1478.
+*GRA:	poor [>] little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "debbie05.cha": line 1487.
+*GRA:	poor [<] little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "debbie05.cha": line 1490.
+*GRA:	poor little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "debbie05.cha": line 1502.
+*GRA:	poor little baby (3.) .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "debbie05.cha": line 1512.
+*GRA:	poor little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 5 times
+
+From file <debbie06.cha>
+
+    Strings matched 0 times
+
+From file <debbie07.cha>
+
+    Strings matched 0 times
+
+From file <debbie08.cha>
+
+    Strings matched 0 times
+
+From file <debbie09.cha>
+
+    Strings matched 0 times
+
+From file <debbie10.cha>
+----------------------------------------
+*** File "debbie10.cha": line 512.
+*MOT:	you're a bossy little devil .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|boss&dn-Y (1)adj|little (1)n|devil
+	.
+----------------------------------------
+*** File "debbie10.cha": line 519.
+*MOT:	you're bossy old boots you are .
+%mor:	pro:per|you~cop|be&PRES (1)adj|boss&dn-Y (1)adj|old (1)n|boot-PL pro:per|you
+	cop|be&PRES .
+----------------------------------------
+*** File "debbie10.cha": line 526.
+*MOT:	you're bossy old boots you are .
+%mor:	pro:per|you~cop|be&PRES (1)adj|boss&dn-Y (1)adj|old (1)n|boot-PL pro:per|you
+	cop|be&PRES .
+
+    Strings matched 3 times
+
+From file <debbie21.cha>
+----------------------------------------
+*** File "debbie21.cha": line 531.
+*MOT:	if you're naughty little voice go oi@o .
+%mor:	conj|if pro:per|you~cop|be&PRES (1)adj|naughty (1)adj|little (1)n|voice v|go
+	on|oi .
+
+    Strings matched 1 times
+

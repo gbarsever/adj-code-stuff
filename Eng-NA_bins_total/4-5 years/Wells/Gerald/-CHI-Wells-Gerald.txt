@@ -1,0 +1,77 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:09:42 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gerald02.cha>
+----------------------------------------
+*** File "gerald02.cha": line 1164.
+*MOT:	a wise old owl lived in an oak .
+%mor:	det:art|a (1)adj|wise (1)adj|old (1)n|owl v|live-PAST prep|in det:art|a
+	n|oak .
+----------------------------------------
+*** File "gerald02.cha": line 1179.
+*MOT:	why don't you copy that wise old bird .
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|copy pro:dem|that (1)adj|wise
+	(1)adj|old (1)n|bird .
+----------------------------------------
+*** File "gerald02.cha": line 1310.
+*MOT:	a little hot water in the kettle (7.) .
+%mor:	det:art|a (1)adj|little (1)adj|hot (1)n|water prep|in det:art|the n|kettle .
+
+    Strings matched 3 times
+
+From file <gerald03.cha>
+
+    Strings matched 0 times
+
+From file <gerald04.cha>
+
+    Strings matched 0 times
+
+From file <gerald05.cha>
+----------------------------------------
+*** File "gerald05.cha": line 212.
+*MOT:	can you make a great big jump (5.) ?
+%mor:	mod|can pro:per|you v|make det:art|a (1)adj|great (1)adj|big (1)n|jump ?
+
+    Strings matched 1 times
+
+From file <gerald06.cha>
+----------------------------------------
+*** File "gerald06.cha": line 1036.
+*MOT:	+" what a naughty little rascal (1.) .
+%mor:	pro:int|what det:art|a (1)adj|naughty (1)adj|little (1)n|rascal .
+
+    Strings matched 1 times
+
+From file <gerald07.cha>
+
+    Strings matched 0 times
+
+From file <gerald08.cha>
+
+    Strings matched 0 times
+
+From file <gerald10.cha>
+----------------------------------------
+*** File "gerald10.cha": line 521.
+*MOT:	poor old Gerry .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Gerry .
+----------------------------------------
+*** File "gerald10.cha": line 524.
+*MOT:	poor old Gerry .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Gerry .
+
+    Strings matched 2 times
+
+From file <gerald21.cha>
+----------------------------------------
+*** File "gerald21.cha": line 2559.
+*MOT:	and make a big long chain for Christmas (12.) .
+%mor:	coord|and v|make det:art|a (1)adj|big (1)adj|long (1)n|chain prep|for
+	n:prop|Christmas .
+
+    Strings matched 1 times
+

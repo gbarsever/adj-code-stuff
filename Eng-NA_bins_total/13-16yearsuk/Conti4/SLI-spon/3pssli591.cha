@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/c-00004813-1
+@Begin
+@Languages:	eng
+@Participants:	INV Lisa Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.29||||Target_Child|||
+@Date:	02-NOV-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at Child's school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the naughtiest person in our school &-um +...
+%mor:	det:art|the adj|naughty-SP n|person prep|in det:poss|our n|school
+	+...
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*CHI:	the reason he is so naughty is because (.) he like mucks around in
+	lessons and gets loads of cautions and detentions and things .
+%mor:	det:art|the n|reason pro:sub|he aux|be&3S adv|so adj|naughty
+	aux|be&3S conj|because pro:sub|he v|like n|muck-PL adv|around
+	prep|in n|lesson-PL coord|and v|get-3S n|load-PL prep|of
+	n|caution-PL coord|and n|detention-PL coord|and n|thing-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|CMOD 7|8|AUX 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|10|OBJ 12|10|JCT 13|10|JCT 14|13|POBJ 15|10|CONJ
+	16|15|COORD 17|16|OBJ 18|17|NJCT 19|18|POBJ 20|19|CONJ 21|20|COORD
+	22|19|CONJ 23|22|COORD 24|2|PUNCT
+*CHI:	and he does silly things out_of school as well .
+%mor:	coord|and pro:sub|he v|do&3S adj|silly n|thing-PL prep|out_of
+	n|school prep|as adv|well .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	<&-uh huh> [>] .
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	like [<] with the police and everything .
+%mor:	co|like prep|with det:art|the n|police coord|and
+	pro:indef|everything .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*INV:	oh right .
+%mor:	co|oh n|right .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	and &-um (.) (.) oh yeah whenever he gets yellow slips he always
+	tears them up .
+%mor:	coord|and co|oh co|yeah adv:int|whenever pro:sub|he v|get-3S
+	n|yellow n|slip-PL pro:sub|he adv|always v|tear-3S pro:obj|them
+	adv|up .
+%gra:	1|6|LINK 2|6|COM 3|6|COM 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|11|JCT
+	9|11|SUBJ 10|11|JCT 11|6|COMP 12|11|OBJ 13|11|JCT 14|6|PUNCT
+*CHI:	and he doesn't go to any detentions or anything .
+%mor:	coord|and pro:sub|he mod|do&3S~neg|not v|go prep|to qn|any
+	n|detention-PL coord|or pro:indef|anything .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|5|PUNCT
+*CHI:	but he's left our school now .
+%mor:	conj|but pro:sub|he~aux|be&3S v|leave&PAST det:poss|our n|school
+	adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*CHI:	<because he got ex> [//] no [/-] yeah he went to a different school
+	(.) so .
+%mor:	co|yeah pro:sub|he v|go&PAST prep|to det:art|a adj|different
+	n|school adv|so .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|3|PUNCT
+*INV:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&+www .
+%exp:	child and investigator talk as disc is turned off .
+@End

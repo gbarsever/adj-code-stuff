@@ -1,0 +1,108 @@
+combo +t%mor -t*CHI -t*MAD -t*UNK -t*MAR -t*BEN -t*ROS -t*JOE -t*ALL +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:11:54 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MAD; *UNK; *MAR; *BEN; *ROS; *JOE; *ALL;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a1.cha": line 48.
+*FAT:	do you have some nice little things to say to it ? %snd:"07a1"_35999_37818
+%mor:	mod|do pro:per|you v|have qn|some (1)adj|nice (1)adj|little (1)n|thing-PL
+	inf|to v|say prep|to pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a1.cha": line 183.
+*FAT:	(.) you go a cute little belly . %snd:"07a1"_89464_91283
+%mor:	pro:per|you v|go det:art|a (1)adj|cute (1)adj|little (1)n|belly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a1.cha": line 916.
+*FAT:	you goin(g) (t)o [/] you goin(g) (t)o [/] goin(g) (t)o break that
+	<horrible little toy> [>] ? %snd:"07a1"_554226_557404
+%mor:	pro:per|you part|go-PRESP pro:per|you part|go-PRESP part|go-PRESP
+	inf|to v|break pro:dem|that (1)adj|horrible (1)adj|little (1)n|toy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a1.cha": line 1482.
+*FAT:	definitely formal verbal play . %snd:"07a1"_890589_892985
+%mor:	adv|definite&dadj-LY (1)adj|formal (1)adj|verbal (1)n|play .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a2.cha": line 61.
+*FAT:	those are cute little sounds . %snd:"07a2"_109393_111046
+%mor:	pro:dem|those cop|be&PRES (1)adj|cute (1)adj|little (1)n|sound-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a2.cha": line 1554.
+*FAT:	and this morning we got [//] gave him a brand new little doggy . %snd:"07a2"_1372671_1375727
+%mor:	coord|and pro:dem|this n|morning pro:sub|we v|give&PAST pro:obj|him
+	det:art|a adj|brand (1)adj|new (1)adj|little (1)n|dog-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07a2.cha": line 1576.
+*MOT:	big plastic eyes . %snd:"07a2"_1384643_1385302
+%mor:	(1)adj|big (1)adj|plastic (1)n|eye-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07b1.cha": line 1213.
+*FAT:	I saw some cute little Navajo babas@s:hun today . %snd:"07b1"_879764_882569
+%mor:	pro:sub|I v|see&PAST qn|some (1)adj|cute (1)adj|little (1)n:prop|Navajo
+	L2|babas adv:tem|today .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07b2.cha": line 194.
+*FAT:	you're a pretty big boy aren't you ? %snd:"07b2"_290495_292103
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|boy
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/07b2.cha": line 371.
+*FAT:	that's a (.) pretty neat thing to do . %snd:"07b2"_448723_450952
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|thing inf|to
+	v|do .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08a.cha": line 1653.
+*MOT:	itty [//] itty bitty bigger tittie [>] . %snd:"08a"_1051101_1054156
+%mor:	adj|itty (1)adj|bit&dn-Y (1)adj|big-CP (1)n|tit-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08a.cha": line 2191.
+*FAT:	a little mexican jumping+bean . %snd:"08a"_1610804_1613405
+%mor:	det:art|a (1)adj|little (1)adj|mexican (1)n|+adj|jumping+n|bean .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08a.cha": line 2450.
+*FAT:	is he being a little crazy baby ? %snd:"08a"_1796851_1798792
+%mor:	cop|be&3S pro:sub|he n:gerund|be-PRESP det:art|a (1)adj|little
+	(1)adj|craze&dv-Y (1)n|baby ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08b.cha": line 332.
+*MOT:	little maternal business . %snd:"08b"_215004_217893
+%mor:	(1)adj|little (1)adj|maternal (1)n|business .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08b.cha": line 970.
+*FAT:	yeah that's a pretty good job I guess . %snd:"08b"_689806_690632
+%mor:	co|yeah pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|job
+	pro:sub|I v|guess .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/08b.cha": line 1464.
+*FAT:	there are all sorts of little stylistic things in no . %snd:"08b"_949997_951938
+%mor:	adv|there cop|be&PRES qn|all n|sort-PL prep|of (1)adj|little
+	(1)adj|stylistic (1)n|thing-PL prep|in co|no .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/MacWhinney/0notlinked/07b-front.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,55 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:25:31 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gary02.cha>
+----------------------------------------
+*** File "gary02.cha": line 172.
+*MOT:	what a lovely clean face you've got (21.) .
+%mor:	pro:int|what det:art|a (1)adj|love&dn-LY (1)adj|clean (1)n|face
+	pro:per|you~aux|have part|get&PASTP .
+
+    Strings matched 1 times
+
+From file <gary03.cha>
+
+    Strings matched 0 times
+
+From file <gary04.cha>
+
+    Strings matched 0 times
+
+From file <gary05.cha>
+
+    Strings matched 0 times
+
+From file <gary06.cha>
+----------------------------------------
+*** File "gary06.cha": line 646.
+*TRA:	xxx a great big tooth xxx for Christmas .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|tooth prep|for n:prop|Christmas .
+
+    Strings matched 1 times
+
+From file <gary07.cha>
+
+    Strings matched 0 times
+
+From file <gary08.cha>
+
+    Strings matched 0 times
+
+From file <gary09.cha>
+
+    Strings matched 0 times
+
+From file <gary10.cha>
+
+    Strings matched 0 times
+
+From file <gary21.cha>
+
+    Strings matched 0 times
+

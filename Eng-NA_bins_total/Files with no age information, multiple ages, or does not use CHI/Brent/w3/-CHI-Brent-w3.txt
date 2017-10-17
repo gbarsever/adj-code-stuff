@@ -1,0 +1,135 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:47:05 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <w3-0923.cha>
+----------------------------------------
+*** File "w3-0923.cha": line 2476.
+*MOT:	angry little baby . %snd:"w3-m20mar00"_3758260_3759633
+%mor:	(1)adj|angry (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "w3-0923.cha": line 2523.
+*MOT:	big ol(d) se(l)f . %snd:"w3-m20mar00"_3846313_3847197
+%mor:	(1)adj|big (1)adj|old (1)n|self .
+
+    Strings matched 2 times
+
+From file <w3-1107.cha>
+----------------------------------------
+*** File "w3-1107.cha": line 2716.
+*MOT:	you a hard head little baby . %snd:"w3-m1may00"_3822177_3823643
+%mor:	pro:per|you det:art|a adj|hard (1)adj|head (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "w3-1107.cha": line 2840.
+*MOT:	like I did a big ol(d) job [?] . %snd:"w3-m1may00"_4357537_4359343
+%mor:	conj|like pro:sub|I v|do&PAST det:art|a (1)adj|big (1)adj|old (1)n|job .
+
+    Strings matched 2 times
+
+From file <w3-1122.cha>
+----------------------------------------
+*** File "w3-1122.cha": line 1585.
+*MOT:	you used to be a greedy little baby . %snd:"w3-t16may00"_3180640_3182093
+%mor:	pro:per|you v|use-PAST inf|to cop|be det:art|a (1)adj|greed&dn-Y
+	(1)adj|little (1)n|baby .
+----------------------------------------
+*** File "w3-1122.cha": line 2256.
+*MOT:	look at these big ol(d) eyes ! %snd:"w3-t16may00"_4282020_4283353
+%mor:	cop|look prep|at pro:dem|these (1)adj|big (1)adj|old (1)n|eye-PL !
+
+    Strings matched 2 times
+
+From file <w3-1208.cha>
+
+    Strings matched 0 times
+
+From file <w3-1218.cha>
+----------------------------------------
+*** File "w3-1218.cha": line 271.
+*MOT:	this little messy toy bo(x) . %snd:"w3-m12jun00"_285420_287370
+%mor:	pro:dem|this (1)adj|little (1)adj|mess&dn-Y (1)n|toy n|box .
+
+    Strings matched 1 times
+
+From file <w3-1301.cha>
+----------------------------------------
+*** File "w3-1301.cha": line 2421.
+*MOT:	beautiful yellow star . %snd:"w3-t26jun00"_3652137_3654170
+%mor:	(1)adj|beautiful (1)adj|yellow (1)n|star .
+
+    Strings matched 1 times
+
+From file <w3-1316.cha>
+----------------------------------------
+*** File "w3-1316.cha": line 1015.
+*MOT:	big ol(d) monkey . %snd:"w3-t11jul00"_1015647_1017093
+%mor:	(1)adj|big (1)adj|old (1)n|monkey .
+----------------------------------------
+*** File "w3-1316.cha": line 2203.
+*MOT:	you a tense little baby ? %snd:"w3-t11jul00"_2413417_2414623
+%mor:	pro:per|you det:art|a (1)adj|tense (1)adj|little (1)n|baby ?
+
+    Strings matched 2 times
+
+From file <w3-1401.cha>
+----------------------------------------
+*** File "w3-1401.cha": line 677.
+*MOT:	wide head cranium self . %snd:"w3-w26jul00"_1000357_1002277
+%mor:	(1)adj|wide (1)adj|head (1)n|cranium n|self .
+----------------------------------------
+*** File "w3-1401.cha": line 841.
+*MOT:	I'm trying to find you something to wear with your little bad self
+	. %snd:"w3-w26jul00"_1255933_1258567
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|find pro:per|you
+	pro:indef|something inf|to v|wear prep|with det:poss|your (1)adj|little
+	(1)adj|bad (1)n|self .
+
+    Strings matched 2 times
+
+From file <w3-1421.cha>
+----------------------------------------
+*** File "w3-1421.cha": line 366.
+*MOT:	take these little bitty Pampers back to your granny . %snd:"w3-t15aug00"_428890_431037
+%mor:	v|take pro:dem|these (1)adj|little (1)adj|bit&dn-Y (1)n:prop|Pampers
+	adv|back prep|to det:poss|your n|granny .
+----------------------------------------
+*** File "w3-1421.cha": line 1950.
+*MOT:	stop being a hard+headed little baby ! %snd:"w3-t15aug00"_2063810_2065503
+%mor:	v|stop n:gerund|be-PRESP det:art|a (1)adj|+adj|hard+adj|headed
+	(1)adj|little (1)n|baby !
+----------------------------------------
+*** File "w3-1421.cha": line 1979.
+*MOT:	+" large yellow return bag [=! read] . %snd:"w3-t15aug00"_2095187_2097053
+%mor:	adj|large (1)adj|yellow (1)adj|return (1)n|bag .
+----------------------------------------
+*** File "w3-1421.cha": line 1994.
+*MOT:	a large yellow (...) return bag [=! read] . %snd:"w3-t15aug00"_2111627_2113920
+%mor:	det:art|a adj|large (1)adj|yellow (1)adj|return (1)n|bag .
+----------------------------------------
+*** File "w3-1421.cha": line 2089.
+*MOT:	being hard+headed little baby . %snd:"w3-t15aug00"_2258003_2259543
+%mor:	part|be-PRESP (1)adj|+adj|hard+adj|headed (1)adj|little (1)n|baby .
+
+    Strings matched 5 times
+
+From file <w3-1429.cha>
+----------------------------------------
+*** File "w3-1429.cha": line 1115.
+*MOT:	no you wouldn't be a handsome little boy if your daddy look like
+	that . %snd:"w3-w23aug00"_1361897_1364617
+%mor:	co|no pro:per|you mod|will&COND~neg|not cop|be det:art|a
+	(1)adj|handsome (1)adj|little (1)n|boy conj|if det:poss|your n|daddy co|look
+	co|like pro:dem|that .
+----------------------------------------
+*** File "w3-1429.cha": line 1992.
+*MOT:	that's a bald head baby . %snd:"w3-w23aug00"_2186687_2188013
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|bald (1)adj|head (1)n|baby .
+
+    Strings matched 2 times
+
+From file <w3-1512.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,287 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:00:29 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <anl.cha>
+----------------------------------------
+*** File "anl.cha": line 669.
+*MOT:	nice little walk (.) .
+%mor:	(1)adj|nice (1)adj|little (1)n|walk .
+----------------------------------------
+*** File "anl.cha": line 2289.
+*EXP:	a real long time (.) .
+%mor:	det:art|a (1)adj|real (1)adj|long (1)n|time .
+----------------------------------------
+*** File "anl.cha": line 10270.
+*EXP:	sounds like you had a pretty exciting time at the pet shop too ,
+	right ?
+%mor:	n|sound-PL prep|like pro:per|you v|have&PAST det:art|a (1)adj|pretty
+	(1)adj|exciting (1)n|time prep|at det:art|the n|pet n|shop adv|too cm|cm
+	n|right ?
+----------------------------------------
+*** File "anl.cha": line 11625.
+*EXP:	+, but but you don't it at the exact same time .
+%mor:	conj|but conj|but pro:per|you mod|do~neg|not pro:per|it prep|at
+	det:art|the (1)adj|exact (1)adj|same (1)n|time .
+----------------------------------------
+*** File "anl.cha": line 15817.
+*MOT:	+, brand new overcoat .
+%mor:	(1)adj|brand (1)adj|new (1)n|overcoat .
+----------------------------------------
+*** File "anl.cha": line 18759.
+*EXP:	does she have a nice pretty smile (.) ?
+%mor:	mod|do&3S pro:sub|she v|have det:art|a (1)adj|nice (1)adj|pretty (1)n|smile
+	?
+----------------------------------------
+*** File "anl.cha": line 23285.
+*EXP:	it's a pretty good game .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|game .
+
+    Strings matched 7 times
+
+From file <deg.cha>
+----------------------------------------
+*** File "deg.cha": line 3717.
+*TEA:	(.) where oh where is the little ol(d) indian .
+%mor:	adv:int|where co|oh pro:rel|where cop|be&3S det:art|the (1)adj|little
+	(1)adj|old (1)n|indian .
+----------------------------------------
+*** File "deg.cha": line 5293.
+*MCH:	Rolan(d) you might knock your truck your truck into xxx you can't
+	play with a big ol(d) truck (.) .
+%mor:	n:prop|Roland pro:per|you mod|might v|knock det:poss|your n|truck
+	det:poss|your n|truck prep|into pro:per|you mod|can~neg|not v|play
+	prep|with det:art|a (1)adj|big (1)adj|old (1)n|truck .
+----------------------------------------
+*** File "deg.cha": line 8257.
+*TEA:	a big long pink cat ring .
+%mor:	det:art|a (1)adj|big (1)adj|long (1)n|pink n|cat n|ring .
+----------------------------------------
+*** File "deg.cha": line 9272.
+*TEA:	+" (.) a mother goat and her seven little kids lived in a cozy
+	little hut neat a deep forest .
+%mor:	det:art|a n|mother n|goat coord|and det:poss|her det:num|seven
+	adj|little n|kid-PL v|live-PAST prep|in det:art|a (1)adj|cozy
+	(1)adj|little (1)n|hut adj|neat det:art|a n|deep n|forest .
+----------------------------------------
+*** File "deg.cha": line 9280.
+*TEA:	+" and in the very darkest part a [: of] dat [: that] same forest
+	lives a wicked old wolf .
+%mor:	coord|and prep|in det:art|the adv|very adj|dark-SP n|part prep|of
+	pro:dem|that adj|same n|forest v|live-3S det:art|a (1)adj|wicked
+	(1)adj|old (1)n|wolf .
+----------------------------------------
+*** File "deg.cha": line 10495.
+*EXP:	+" a big red wood box , it was shut with a hook .
+%mor:	det:art|a (1)adj|big (1)adj|red (1)n|wood n|box cm|cm pro:per|it
+	aux|be&PAST&13S part|shut&PASTP prep|with det:art|a n|hook .
+----------------------------------------
+*** File "deg.cha": line 10505.
+*EXP:	+" look at him comin(g) in with this big red box (.) .
+%mor:	cop|look prep|at pro:obj|him part|come-PRESP adv|in prep|with
+	pro:dem|this (1)adj|big (1)adj|red (1)n|box .
+----------------------------------------
+*** File "deg.cha": line 10726.
+*EXP:	+" they are tame oh so tame they have come here to play they will
+	give you some fun on this wet wet wet day (.) .
+%mor:	pro:sub|they cop|be&PRES adj|tame co|oh adv|so adj|tame
+	pro:sub|they v|have v|come adv|here inf|to v|play pro:sub|they
+	mod|will v|give pro:per|you qn|some n|fun prep|on det:dem|this
+	adj|wet (1)adj|wet (1)adj|wet (1)n|day .
+----------------------------------------
+*** File "deg.cha": line 12828.
+*MOT:	that noise (.) you's a loud [!] little thing you know ?
+%mor:	pro:dem|that n|noise pro:per|you~cop|be&3S det:art|a (1)adj|loud
+	(1)adj|little (1)n|thing pro:per|you v|know ?
+----------------------------------------
+*** File "deg.cha": line 13970.
+*BRO:	how come on the red light move +...
+%mor:	adv:int|how v|come prep|on det:art|the (1)adj|red (1)adj|light (1)n|move
+	+...
+----------------------------------------
+*** File "deg.cha": line 16018.
+*EXP:	there's like [//] that means that there's inner [//] either
+	innerference [: interference] (.) or where he is in relationship to
+	this , receiver (.) there's no way to get a real good signal .
+%mor:	pro:exist|there~cop|be&3S det:dem|that v|mean-3S pro:rel|that
+	pro:exist|there~aux|be&3S adv|either n|interference coord|or
+	adv:int|where pro:sub|he cop|be&3S prep|in n|relationship prep|to
+	pro:dem|this cm|cm n|receive&dv-AGT pro:exist|there~cop|be&3S qn|no
+	n|way inf|to v|get det:art|a (1)adj|real (1)adj|good (1)n|signal .
+----------------------------------------
+*** File "deg.cha": line 19741.
+*BRO:	just a regular hot comb (.) and then you get it braided up then ?
+%mor:	adv|just det:art|a (1)adj|regular (1)adj|hot (1)n|comb coord|and
+	adv:tem|then pro:per|you v|get pro:per|it v|braid-PAST adv|up
+	adv:tem|then ?
+
+    Strings matched 12 times
+
+From file <kig.cha>
+----------------------------------------
+*** File "kig.cha": line 650.
+*MOT:	she got nice long hair .
+%mor:	pro:sub|she v|get&PAST (1)adj|nice (1)adj|long (1)n|hair .
+----------------------------------------
+*** File "kig.cha": line 656.
+*EXP:	you mean american indian ?
+%mor:	pro:per|you (1)adj|mean (1)adj|american (1)n|indian ?
+----------------------------------------
+*** File "kig.cha": line 1963.
+*EXP:	I think it's gonna be a pretty good day today .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S part|go-PRESP~inf|to cop|be
+	det:art|a (1)adj|pretty (1)adj|good (1)n|day adv:tem|today .
+----------------------------------------
+*** File "kig.cha": line 2608.
+*FCH:	oh poor little baby !
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|baby !
+----------------------------------------
+*** File "kig.cha": line 17906.
+*MOT:	big huge dining room .
+%mor:	(1)adj|big (1)adj|huge (1)n:gerund|dine-PRESP n|room .
+
+    Strings matched 5 times
+
+From file <kmf.cha>
+----------------------------------------
+*** File "kmf.cha": line 234.
+*GRA:	you did [!] have a little did have a little square box .
+%mor:	pro:per|you v|do&PAST v|have det:art|a adj|little mod|do&PAST
+	v|have det:art|a (1)adj|little (1)adj|square (1)n|box .
+----------------------------------------
+*** File "kmf.cha": line 6409.
+*EXP:	right [: correct] left side .
+%mor:	(1)adj|correct (1)adj|left (1)n|side .
+----------------------------------------
+*** File "kmf.cha": line 7967.
+*MCH:	a grey grey dog .
+%mor:	det:art|a (1)adj|grey (1)adj|grey (1)n|dog .
+----------------------------------------
+*** File "kmf.cha": line 7971.
+*MCH:	a grey grey dog +...
+%mor:	det:art|a (1)adj|grey (1)adj|grey (1)n|dog +...
+----------------------------------------
+*** File "kmf.cha": line 9705.
+*GRA:	an(d) I looked up on the wall where he'd made this big ducky lucky
+	an(d) all these little ducky luckies goin(g) right on down the side
+	.
+%mor:	coord|and pro:sub|I cop|look-PAST adv|up prep|on det:art|the n|wall
+	pro:rel|where pro:sub|he~mod|genmod v|make&PAST pro:dem|this adj|big
+	adj|duck&dn-Y adj|luck&dn-Y coord|and qn|all pro:dem|these
+	(1)adj|little (1)adj|duck&dn-Y (1)n|luck-DIM-PL part|go-PRESP adj|right
+	adv|on prep|down det:art|the n|side .
+
+    Strings matched 5 times
+
+From file <lef.cha>
+----------------------------------------
+*** File "lef.cha": line 12057.
+*SIS:	she ain't got nothin(g) but hot cross buns .
+%mor:	pro:sub|she aux|be&1S~neg|not v|get&PAST pro:indef|nothing conj|but
+	(1)adj|hot (1)adj|cross (1)n|bun-PL .
+
+    Strings matched 1 times
+
+From file <mis.cha>
+----------------------------------------
+*** File "mis.cha": line 13346.
+*EXP:	I can see why you're such a healthy little boy now (.) .
+%mor:	pro:sub|I mod|can v|see adv:int|why pro:per|you~cop|be&PRES qn|such
+	det:art|a (1)adj|health&dn-Y (1)adj|little (1)n|boy adv|now .
+----------------------------------------
+*** File "mis.cha": line 14892.
+*EXP:	real good mike can you still hear me ?
+%mor:	(1)adj|real (1)adj|good (1)n|mike mod|can pro:per|you adv|still v|hear
+	pro:obj|me ?
+----------------------------------------
+*** File "mis.cha": line 15549.
+*EXP:	funky funky groove now &+chuhkuhchoo cmon an(d) move .
+%mor:	(1)adj|funk&dn-Y (1)adj|funk&dn-Y (1)n|groove adv|now co|cmon coord|and
+	n|move .
+
+    Strings matched 3 times
+
+From file <pag.cha>
+----------------------------------------
+*** File "pag.cha": line 5069.
+*MCH:	pat you put this big ol(d) thing battery in there ?
+%mor:	v|pat pro:per|you v|put&ZERO pro:dem|this (1)adj|big (1)adj|old (1)n|thing
+	n|battery prep|in adv|there ?
+
+    Strings matched 1 times
+
+From file <rog.cha>
+----------------------------------------
+*** File "rog.cha": line 5469.
+*MCH:	big fat muscles .
+%mor:	(1)adj|big (1)adj|fat (1)n|muscle-PL .
+----------------------------------------
+*** File "rog.cha": line 9249.
+*MCH:	I think that's a good little tape recorder .
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S det:art|a (1)adj|good
+	(1)adj|little (1)n|tape n|record&dv-AGT .
+----------------------------------------
+*** File "rog.cha": line 11118.
+*EXP:	uhhuh brand new tape .
+%mor:	co|uhhuh (1)adj|brand (1)adj|new (1)n|tape .
+----------------------------------------
+*** File "rog.cha": line 14288.
+*MOT:	tell Carl you was a sick little boy , right ?
+%mor:	v|tell n:prop|Carl pro:per|you cop|be&PAST&13S det:art|a (1)adj|sick
+	(1)adj|little (1)n|boy cm|cm n|right ?
+----------------------------------------
+*** File "rog.cha": line 14376.
+*MOT:	tell Carl that you was a very sick little boy , right ?
+%mor:	v|tell n:prop|Carl pro:rel|that pro:per|you cop|be&PAST&13S
+	det:art|a adv|very (1)adj|sick (1)adj|little (1)n|boy cm|cm n|right ?
+----------------------------------------
+*** File "rog.cha": line 16043.
+*EXP:	I ate it at a nice comfortable pace (.) .
+%mor:	pro:sub|I v|eat&PAST pro:per|it prep|at det:art|a (1)adj|nice
+	(1)adj|comfort&dv-ABLE (1)n|pace .
+
+    Strings matched 6 times
+
+From file <roj.cha>
+----------------------------------------
+*** File "roj.cha": line 3133.
+*MCH:	look at my bad little car (.) .
+%mor:	cop|look prep|at det:poss|my (1)adj|bad (1)adj|little (1)n|car .
+----------------------------------------
+*** File "roj.cha": line 9705.
+*TEA:	nice pretty spring pictures .
+%mor:	(1)adj|nice (1)adj|pretty (1)n|spring n|picture-PL .
+----------------------------------------
+*** File "roj.cha": line 14664.
+*MOT:	a little less noise .
+%mor:	det:art|a (1)adj|little (1)adj|less (1)n|noise .
+
+    Strings matched 3 times
+
+From file <trc.cha>
+----------------------------------------
+*** File "trc.cha": line 612.
+*EXP:	hm: a little bitty fly .
+%mor:	co|hm det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|fly .
+----------------------------------------
+*** File "trc.cha": line 6050.
+*MCH:	dat [: that] little tiny thing .
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|thing .
+----------------------------------------
+*** File "trc.cha": line 9071.
+*TEA:	you told us a nice little story .
+%mor:	pro:per|you v|tell&PAST pro:obj|us det:art|a (1)adj|nice (1)adj|little
+	(1)n|story .
+----------------------------------------
+*** File "trc.cha": line 10616.
+*EXP:	big fat belly .
+%mor:	(1)adj|big (1)adj|fat (1)n|belly .
+----------------------------------------
+*** File "trc.cha": line 19004.
+*MOT:	little short girl ?
+%mor:	(1)adj|little (1)adj|short (1)n|girl ?
+
+    Strings matched 5 times
+

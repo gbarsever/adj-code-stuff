@@ -1,0 +1,27 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:49:56 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <alice1.cha>
+
+    Strings matched 0 times
+
+From file <alice2.cha>
+----------------------------------------
+*** File "alice2.cha": line 1779.
+*MOT:	y(ou) know what now (.) I mean (.) or (.) &-uh , books she'll look
+	at (.) but , &-uh a_lot_of real physical running around (.) falling
+	down [=! laughs] . %snd:"alice2"_800931_810890
+%mor:	pro:per|you v|know pro:int|what adv|now pro:sub|I adj|mean coord|or
+	cm|cm n|book-PL pro:sub|she~mod|will cop|look prep|at conj|but cm|cm
+	qn|a_lot_of (1)adj|real (1)adj|physical (1)n:gerund|run-PRESP adv|around
+	part|fall-PRESP adv|down .
+
+    Strings matched 1 times
+
+From file <alice3.cha>
+
+    Strings matched 0 times
+

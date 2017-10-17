@@ -1,0 +1,350 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:00:56 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <boo.cha>
+----------------------------------------
+*** File "boo.cha": line 1684.
+*BRO:	I'm playing xxx I want a short white shirt .
+%mor:	pro:sub|I~aux|be&1S part|play-PRESP pro:sub|I v|want det:art|a
+	(1)adj|short (1)adj|white (1)n|shirt .
+----------------------------------------
+*** File "boo.cha": line 15037.
+*FCH:	ah , a big french fries .
+%mor:	co|ah cm|cm det:art|a (1)adj|big (1)adj|french (1)n|fry-PL .
+----------------------------------------
+*** File "boo.cha": line 15043.
+*TEA:	a big french fries , and what else ?
+%mor:	det:art|a (1)adj|big (1)adj|french (1)n|fry-PL cm|cm coord|and pro:int|what
+	post|else ?
+----------------------------------------
+*** File "boo.cha": line 20910.
+*BRO:	alright , so the next italian man comes in .
+%mor:	co|alright cm|cm conj|so det:art|the (1)adj|next (1)adj|italian (1)n|man
+	v|come-3S adv|in .
+
+    Strings matched 4 times
+
+From file <dal.cha>
+----------------------------------------
+*** File "dal.cha": line 7178.
+*TEA:	do you want a hot english muffin ?
+%mor:	mod|do pro:per|you v|want det:art|a (1)adj|hot (1)adj|english (1)n|muffin ?
+
+    Strings matched 1 times
+
+From file <kag.cha>
+----------------------------------------
+*** File "kag.cha": line 7225.
+*MCH:	Elizabeth I got a big [!] easter basket .
+%mor:	n:prop|Elizabeth pro:sub|I v|get&PAST det:art|a (1)adj|big (1)adj|east-CP
+	(1)n|basket .
+----------------------------------------
+*** File "kag.cha": line 12639.
+*MCH:	hey a small pig and a great big pig .
+%mor:	co|hey det:art|a adj|small n|pig coord|and det:art|a (1)adj|great
+	(1)adj|big (1)n|pig .
+----------------------------------------
+*** File "kag.cha": line 13679.
+*TEA:	what is annoying Elizabeth elephant under that nice cool shower .
+%mor:	pro:int|what aux|be&3S part|annoy-PRESP n:prop|Elizabeth n|elephant
+	prep|under pro:dem|that (1)adj|nice (1)adj|cool (1)n|shower .
+----------------------------------------
+*** File "kag.cha": line 18094.
+*EXP:	yeah , you sound like chinese new year (.) .
+%mor:	co|yeah cm|cm pro:per|you v|sound prep|like (1)adj|chinese (1)adj|new
+	(1)n|year .
+----------------------------------------
+*** File "kag.cha": line 18193.
+*FAT:	little tiny hot doggies ?
+%mor:	adj|little (1)adj|tiny (1)adj|hot (1)n|dog-DIM-PL ?
+----------------------------------------
+*** File "kag.cha": line 22411.
+*MOT:	the little red caboose , (.) the little red caboose , the little
+	red caboose behind the train (.) .
+%mor:	det:art|the (1)adj|little (1)adj|red (1)n|caboose cm|cm det:art|the
+	(2)adj|little (2)adj|red (2)n|caboose cm|cm det:art|the (3)adj|little (3)adj|red
+	(3)n|caboose adv|behind det:art|the n|train .
+
+    Strings matched 8 times
+
+From file <kao.cha>
+----------------------------------------
+*** File "kao.cha": line 724.
+*EXP:	just small [!] thin pieces of wood .
+%mor:	adv|just (1)adj|small (1)adj|thin (1)n|piece-PL prep|of n|wood .
+----------------------------------------
+*** File "kao.cha": line 4007.
+*FCH:	go tell Aunt Rhodie , the old gray goose is dead .
+%mor:	v|go v|tell n:prop|Aunt n:prop|Rhodie cm|cm det:art|the (1)adj|old
+	(1)adj|gray (1)n|goose cop|be&3S adj|dead .
+----------------------------------------
+*** File "kao.cha": line 4022.
+*FCH:	the all family is bi:rds , (be)cause [/] (be)cause the old gray
+	goose is dead .
+%mor:	det:art|the qn|all n|family cop|be&3S n|bird-PL cm|cm conj|because
+	det:art|the (1)adj|old (1)adj|gray (1)n|goose cop|be&3S adj|dead .
+----------------------------------------
+*** File "kao.cha": line 6792.
+*TEA:	Kayode open it all the way , it's going to make a great big mess ,
+	if you don't pour it the right way .
+%mor:	n:prop|Kayode v|open pro:per|it adv|all det:art|the n|way cm|cm
+	pro:per|it~aux|be&3S part|go-PRESP inf|to v|make det:art|a (1)adj|great
+	(1)adj|big (1)n|mess cm|cm conj|if pro:per|you mod|do~neg|not v|pour
+	pro:per|it det:art|the adj|right n|way .
+----------------------------------------
+*** File "kao.cha": line 7136.
+*TEA:	well there's , a great big glass of milk for you .
+%mor:	co|well pro:exist|there~cop|be&3S cm|cm det:art|a (1)adj|great (1)adj|big
+	(1)n|glass prep|of n|milk prep|for pro:per|you .
+----------------------------------------
+*** File "kao.cha": line 10128.
+*TEA:	you need little tiny holes .
+%mor:	pro:per|you v|need (1)adj|little (1)adj|tiny (1)n|hole-PL .
+----------------------------------------
+*** File "kao.cha": line 10131.
+*TEA:	how would you make little tiny holes in the bottom of the pot ?
+%mor:	adv:int|how mod|will&COND pro:per|you v|make (1)adj|little (1)adj|tiny
+	(1)n|hole-PL prep|in det:art|the n|bottom prep|of det:art|the n|pot ?
+----------------------------------------
+*** File "kao.cha": line 12504.
+*MOT:	that's a real western hat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|real (1)adj|western (1)n|hat .
+----------------------------------------
+*** File "kao.cha": line 12507.
+*MOT:	I bought that in a store that sells real western clothes .
+%mor:	pro:sub|I v|buy&PAST det:dem|that prep|in det:art|a n|store
+	pro:rel|that v|sell-3S (1)adj|real (1)adj|western (1)n:pt|clothes .
+----------------------------------------
+*** File "kao.cha": line 12792.
+*MOT:	&+a:h , nice gentle kiss .
+%mor:	cm|cm (1)adj|nice (1)adj|gentle (1)n|kiss .
+----------------------------------------
+*** File "kao.cha": line 13399.
+*MOT:	chinese do a heavy cultural thing at home I think xxx .
+%mor:	adj|chinese v|do det:art|a (1)adj|heavy (1)adj|cultural (1)n|thing prep|at
+	n|home pro:sub|I v|think .
+----------------------------------------
+*** File "kao.cha": line 15191.
+*MOT:	Kayode , I'm gonna take a real quick bath , okay ?
+%mor:	n:prop|Kayode cm|cm pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|take
+	det:art|a (1)adj|real (1)adj|quick (1)n|bath cm|cm adj|okay ?
+----------------------------------------
+*** File "kao.cha": line 15591.
+*MOT:	you do have a real good memory (.) .
+%mor:	pro:per|you v|do v|have det:art|a (1)adj|real (1)adj|good (1)n|memory .
+----------------------------------------
+*** File "kao.cha": line 19232.
+*MOT:	just as they were getting ready to start on their way , a strange
+	enormous bird came by .
+%mor:	adv|just conj|as pro:sub|they aux|be&PAST part|get-PRESP adj|ready
+	inf|to v|start prep|on det:poss|their n|way cm|cm det:art|a
+	(1)adj|strange (1)adj|enormous (1)n|bird v|come&PAST adv|by .
+----------------------------------------
+*** File "kao.cha": line 19363.
+*MOT:	that island looks like a nice quiet place .
+%mor:	pro:dem|that n|island cop|look-3S prep|like det:art|a (1)adj|nice
+	(1)adj|quiet (1)n|place .
+
+    Strings matched 15 times
+
+From file <mig.cha>
+----------------------------------------
+*** File "mig.cha": line 900.
+*EXP:	well , because ah , all this packs away in that little black bag
+	there .
+%mor:	co|well cm|cm conj|because co|ah cm|cm qn|all pro:dem|this
+	n|pack-PL adv|away prep|in pro:dem|that (1)adj|little (1)adj|black (1)n|bag
+	adv|there .
+----------------------------------------
+*** File "mig.cha": line 15605.
+*BRO:	can you give me a little chinese rice ?
+%mor:	mod|can pro:per|you v|give pro:obj|me det:art|a (1)adj|little
+	(1)adj|chinese (1)n|rice ?
+----------------------------------------
+*** File "mig.cha": line 18055.
+*BRO:	a little little short thing you've got .
+%mor:	det:art|a adj|little (1)adj|little (1)adj|short (1)n|thing
+	pro:per|you~aux|have part|get&PASTP .
+
+    Strings matched 3 times
+
+From file <sat.cha>
+----------------------------------------
+*** File "sat.cha": line 4166.
+*TEA:	you make it real good Lena I don't make it this good , ah haha (.)
+	.
+%mor:	pro:per|you v|make pro:per|it (1)adj|real (1)adj|good (1)n:prop|Lena
+	pro:sub|I mod|do~neg|not v|make pro:per|it pro:dem|this adj|good
+	cm|cm co|ah co|haha .
+----------------------------------------
+*** File "sat.cha": line 9886.
+*TEA:	the great big enormous turnip , once upon a time an old man plant a
+	little turnip and said , grow , grow little turnip grow sweet , grow
+	little grow strong .
+%mor:	det:art|the adj|great (1)adj|big (1)adj|enormous (1)n|turnip cm|cm adv|once
+	prep|upon det:art|a n|time det:art|a adj|old n|man n|plant det:art|a
+	adj|little n|turnip coord|and v|say&PAST cm|cm v|grow cm|cm v|grow
+	adj|little n|turnip v|grow n|sweet cm|cm v|grow adj|little v|grow
+	adj|strong .
+----------------------------------------
+*** File "sat.cha": line 11313.
+*MOT:	that little green cup .
+%mor:	pro:dem|that (1)adj|little (1)adj|green (1)n|cup .
+----------------------------------------
+*** File "sat.cha": line 13207.
+*MOT:	you should of [: have] said something before (.) alright just leave
+	it , leave it leave it , leave it .
+%mor:	pro:per|you mod|should v|have v|say&PAST pro:indef|something
+	adv|before (1)adj|alright (1)adj|just (1)n|leave pro:per|it cm|cm n|leave
+	pro:per|it v|leave pro:per|it cm|cm n|leave pro:per|it .
+----------------------------------------
+*** File "sat.cha": line 13897.
+*MOT:	(.) boy , that's an awful long cartoon Samantha (.) .
+%mor:	co|boy cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|awful (1)adj|long
+	(1)n|cartoon n:prop|Samantha .
+----------------------------------------
+*** File "sat.cha": line 15101.
+*MOT:	come on , I gave you a nice small piece of lasagna (.) .
+%mor:	v|come adv|on cm|cm pro:sub|I v|give&PAST pro:per|you det:art|a
+	(1)adj|nice (1)adj|small (1)n|piece prep|of n|lasagna .
+----------------------------------------
+*** File "sat.cha": line 15252.
+*MOT:	just special [!] little boys and girls (.) .
+%mor:	adv|just (1)adj|special (1)adj|little (1)n|boy-PL coord|and n|girl-PL .
+----------------------------------------
+*** File "sat.cha": line 17632.
+*MOT:	you naughty little dog you !
+%mor:	pro:per|you (1)adj|naughty (1)adj|little (1)n|dog pro:per|you !
+----------------------------------------
+*** File "sat.cha": line 19845.
+*MOT:	those are awful big nickels (.) .
+%mor:	pro:dem|those cop|be&PRES (1)adj|awful (1)adj|big (1)n|nickel-PL .
+----------------------------------------
+*** File "sat.cha": line 20629.
+*MOT:	why donchu [: don't you] go [//] find a nice quiet game (.) ?
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|find det:art|a (1)adj|nice
+	(1)adj|quiet (1)n|game ?
+----------------------------------------
+*** File "sat.cha": line 21403.
+*MOT:	no , light green light green .
+%mor:	co|no cm|cm adj|light (1)adj|green (1)adj|light (1)n|green .
+
+    Strings matched 11 times
+
+From file <stl.cha>
+----------------------------------------
+*** File "stl.cha": line 4922.
+*TEA:	Steven I'll make you your own triple pile , too .
+%mor:	n:prop|Steven pro:sub|I~mod|will v|make pro:per|you det:poss|your
+	(1)adj|own (1)adj|triple (1)n|pile cm|cm post|too .
+----------------------------------------
+*** File "stl.cha": line 5232.
+*MCH:	and this is gonna be , and this gonna be a big tallest building !
+%mor:	coord|and pro:dem|this aux|be&3S part|go-PRESP~inf|to cop|be cm|cm
+	coord|and pro:dem|this part|go-PRESP~inf|to cop|be det:art|a (1)adj|big
+	(1)adj|tall-SP (1)n|building !
+----------------------------------------
+*** File "stl.cha": line 5468.
+*MCH:	boy a nice big ducky snadwich [: sandwich] (.) my sandwich can't
+	yatk@c , I have_to take him out 0of the bag .
+%mor:	co|boy det:art|a adj|nice (1)adj|big (1)adj|duck&dn-Y (1)n|sandwich
+	det:poss|my n|sandwich mod|can~neg|not chi|yatk cm|cm pro:sub|I
+	mod:aux|have_to v|take pro:obj|him adv|out 0prep|of det:art|the
+	n|bag .
+----------------------------------------
+*** File "stl.cha": line 11571.
+*TEA:	do you find really [//] but do you find really tall tall buildings
+	?
+%mor:	mod|do pro:per|you v|find conj|but v|do pro:per|you v|find
+	adv|real&dadj-LY (1)adj|tall (1)adj|tall (1)n|building-PL ?
+----------------------------------------
+*** File "stl.cha": line 11721.
+*MCH:	uhhuh bee [//] a little teeny weeny bit .
+%mor:	co|uhhuh det:art|a adj|little (1)adj|teeny (1)adj|weeny (1)n|bit .
+----------------------------------------
+*** File "stl.cha": line 13145.
+*GRA:	you know Lisa , you could be such a nice little girl , if you want
+	to be .
+%mor:	pro:per|you v|know n:prop|Lisa cm|cm pro:per|you mod|could cop|be
+	qn|such det:art|a (1)adj|nice (1)adj|little (1)n|girl cm|cm conj|if
+	pro:per|you v|want inf|to cop|be .
+----------------------------------------
+*** File "stl.cha": line 15688.
+*FAT:	you know I forgot to ask you that same silly question I ask you
+	every night .
+%mor:	pro:per|you v|know pro:sub|I v|forget&PAST inf|to v|ask pro:per|you
+	pro:dem|that (1)adj|same (1)adj|silly (1)n|question pro:sub|I v|ask
+	pro:per|you qn|every n|night .
+----------------------------------------
+*** File "stl.cha": line 16927.
+*MOT:	what a cute little shirt that is ?
+%mor:	pro:int|what det:art|a (1)adj|cute (1)adj|little (1)n|shirt pro:rel|that
+	cop|be&3S ?
+----------------------------------------
+*** File "stl.cha": line 18567.
+*MOT:	a little rotten spot ?
+%mor:	det:art|a (1)adj|little (1)adj|rotten (1)n|spot ?
+----------------------------------------
+*** File "stl.cha": line 18956.
+*FAT:	I saw a cute little sign in a fish store today .
+%mor:	pro:sub|I v|see&PAST det:art|a (1)adj|cute (1)adj|little (1)n|sign prep|in
+	det:art|a n|fish n|store adv:tem|today .
+----------------------------------------
+*** File "stl.cha": line 21818.
+*FAT:	xxx I'm going to ask you the same silly question I ask you every
+	day .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|ask pro:per|you
+	det:art|the (1)adj|same (1)adj|silly (1)n|question pro:sub|I v|ask
+	pro:per|you qn|every n|day .
+----------------------------------------
+*** File "stl.cha": line 23822.
+*GRA:	finish your fish and you'll have a nice delicious pudding .
+%mor:	v|finish det:poss|your n|fish coord|and pro:per|you~mod|will v|have
+	det:art|a (1)adj|nice (1)adj|delicious (1)n|pudding .
+----------------------------------------
+*** File "stl.cha": line 25868.
+*GRA:	the little round thing .
+%mor:	det:art|the (1)adj|little (1)adj|round (1)n|thing .
+----------------------------------------
+*** File "stl.cha": line 28843.
+*MOT:	I remember when I was a kid I had such a beautiful chinese checker
+	set +...
+%mor:	pro:sub|I v|remember conj|when pro:sub|I cop|be&PAST&13S det:art|a
+	n|kid pro:sub|I v|have&PAST qn|such det:art|a (1)adj|beautiful
+	(1)adj|chinese (1)n|checker part|set&PASTP +...
+
+    Strings matched 14 times
+
+From file <sut.cha>
+----------------------------------------
+*** File "sut.cha": line 6292.
+*MCH:	just a little bit Peter and a little bit Chico , and a little teeny
+	bit you .
+%mor:	adv|just det:art|a adj|little n|bit n:prop|Peter coord|and
+	det:art|a adj|little n|bit n:prop|Chico cm|cm coord|and det:art|a
+	(1)adj|little (1)adj|teeny (1)n|bit pro:per|you .
+----------------------------------------
+*** File "sut.cha": line 12386.
+*TEA:	well , somewhere there's a small blank piece of paper there .
+%mor:	co|well cm|cm adv|somewhere pro:exist|there~cop|be&3S det:art|a
+	(1)adj|small (1)adj|blank (1)n|piece prep|of n|paper adv|there .
+----------------------------------------
+*** File "sut.cha": line 16335.
+*FAT:	nice slow heat .
+%mor:	(1)adj|nice (1)adj|slow (1)n|heat .
+----------------------------------------
+*** File "sut.cha": line 23948.
+*FAD:	forceful male actor , white who speaks spanish .
+%mor:	(1)adj|force&dn-FULL (1)adj|male (1)n|actor cm|cm n|white pro:rel|who
+	v|speak-3S adj|spanish .
+----------------------------------------
+*** File "sut.cha": line 24363.
+*FAD:	xxx in my own little corner in my own little chair .
+%mor:	prep|in det:poss|my (1)adj|own (1)adj|little (1)n|corner prep|in det:poss|my
+	(2)adj|own (2)adj|little (2)n|chair .
+
+    Strings matched 6 times
+

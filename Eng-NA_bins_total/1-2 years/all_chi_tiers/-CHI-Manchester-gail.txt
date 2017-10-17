@@ -1,0 +1,483 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:58:06 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gail01a.cha>
+----------------------------------------
+*** File "gail01a.cha": line 2482.
+*MOT:	poor old Sugar .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sugar .
+
+    Strings matched 1 times
+
+From file <gail01b.cha>
+
+    Strings matched 0 times
+
+From file <gail02a.cha>
+----------------------------------------
+*** File "gail02a.cha": line 2506.
+*MOT:	lovely lovely jumper .
+%mor:	(1)adj|love&dn-LY (1)adj|love&dn-LY (1)n|jump&dv-AGT .
+
+    Strings matched 1 times
+
+From file <gail02b.cha>
+----------------------------------------
+*** File "gail02b.cha": line 863.
+*MOT:	little tiny bananas , aren't they ?
+%mor:	(1)adj|little (1)adj|tiny (1)n|banana-PL cm|cm aux|be&PRES~neg|not
+	pro:sub|they ?
+----------------------------------------
+*** File "gail02b.cha": line 1245.
+*INV:	tiny little rabbit .
+%mor:	(1)adj|tiny (1)adj|little (1)n|rabbit .
+
+    Strings matched 2 times
+
+From file <gail03a.cha>
+
+    Strings matched 0 times
+
+From file <gail03b.cha>
+----------------------------------------
+*** File "gail03b.cha": line 994.
+*MOT:	got lovely long hair , hasn't she ?
+%mor:	v|get&PAST (1)adj|love&dn-LY (1)adj|long (1)n|hair cm|cm aux|have&3S~neg|not
+	pro:sub|she ?
+
+    Strings matched 1 times
+
+From file <gail04a.cha>
+
+    Strings matched 0 times
+
+From file <gail04b.cha>
+
+    Strings matched 0 times
+
+From file <gail05a.cha>
+----------------------------------------
+*** File "gail05a.cha": line 2608.
+*MOT:	you have_to wait , haven't you , you impatient little girl .
+%mor:	pro:per|you mod:aux|have_to v|wait cm|cm aux|have~neg|not
+	pro:per|you cm|cm pro:per|you (1)adj|impatient (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <gail05b.cha>
+----------------------------------------
+*** File "gail05b.cha": line 188.
+*MOT:	and little fluffy tail .
+%mor:	coord|and (1)adj|little (1)adj|fluff&dn-Y (1)n|tail .
+----------------------------------------
+*** File "gail05b.cha": line 485.
+*MOT:	poor old Daddy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Daddy .
+
+    Strings matched 2 times
+
+From file <gail06a.cha>
+----------------------------------------
+*** File "gail06a.cha": line 1278.
+*MOT:	where did we go where you got that funny little Barbie doll ?
+%mor:	adv:int|where mod|do&PAST pro:sub|we v|go pro:rel|where pro:per|you
+	v|get&PAST det:dem|that (1)adj|fun&dn-Y (1)adj|little (1)n:prop|Barbie n|doll
+	?
+
+    Strings matched 1 times
+
+From file <gail06b.cha>
+
+    Strings matched 0 times
+
+From file <gail07a.cha>
+
+    Strings matched 0 times
+
+From file <gail07b.cha>
+----------------------------------------
+*** File "gail07b.cha": line 798.
+*MOT:	makes a good little seat , doesn't it that shopping basket .
+%mor:	v|make-3S det:art|a (1)adj|good (1)adj|little (1)n|seat cm|cm
+	mod|do&3S~neg|not pro:per|it pro:dem|that part|shop-PRESP n|basket .
+----------------------------------------
+*** File "gail07b.cha": line 1763.
+*MOT:	ready steady jump .
+%mor:	(1)adj|ready (1)adj|steady (1)n|jump .
+
+    Strings matched 2 times
+
+From file <gail08a.cha>
+
+    Strings matched 0 times
+
+From file <gail08b.cha>
+----------------------------------------
+*** File "gail08b.cha": line 329.
+*MOT:	poor old Andy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Andy .
+
+    Strings matched 1 times
+
+From file <gail09a.cha>
+
+    Strings matched 0 times
+
+From file <gail09b.cha>
+
+    Strings matched 0 times
+
+From file <gail10a.cha>
+
+    Strings matched 0 times
+
+From file <gail10b.cha>
+
+    Strings matched 0 times
+
+From file <gail11a.cha>
+----------------------------------------
+*** File "gail11a.cha": line 1214.
+*MOT:	those tiny little paints ?
+%mor:	pro:dem|those (1)adj|tiny (1)adj|little (1)n|paint-PL ?
+----------------------------------------
+*** File "gail11a.cha": line 1328.
+*MOT:	poor old Andy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Andy .
+
+    Strings matched 2 times
+
+From file <gail11b.cha>
+
+    Strings matched 0 times
+
+From file <gail12a.cha>
+
+    Strings matched 0 times
+
+From file <gail12b.cha>
+
+    Strings matched 0 times
+
+From file <gail13a.cha>
+
+    Strings matched 0 times
+
+From file <gail13b.cha>
+----------------------------------------
+*** File "gail13b.cha": line 164.
+*MOT:	did they go to bed late last night ?
+%mor:	mod|do&PAST pro:sub|they v|go prep|to n|bed (1)adj|late (1)adj|last
+	(1)n|night ?
+
+    Strings matched 1 times
+
+From file <gail14a.cha>
+
+    Strings matched 0 times
+
+From file <gail14b.cha>
+
+    Strings matched 0 times
+
+From file <gail15a.cha>
+----------------------------------------
+*** File "gail15a.cha": line 1062.
+*MOT:	it came [//] past through somewhere .
+%mor:	pro:per|it (1)adj|past (1)adj|through (1)n|somewhere .
+----------------------------------------
+*** File "gail15a.cha": line 2170.
+*MOT:	poor old Humpty .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Humpty .
+
+    Strings matched 2 times
+
+From file <gail15b.cha>
+
+    Strings matched 0 times
+
+From file <gail16a.cha>
+
+    Strings matched 0 times
+
+From file <gail16b.cha>
+
+    Strings matched 0 times
+
+From file <gail17a.cha>
+
+    Strings matched 0 times
+
+From file <gail17b.cha>
+----------------------------------------
+*** File "gail17b.cha": line 711.
+*MOT:	you say some funny old things you do .
+%mor:	pro:per|you v|say qn|some (1)adj|fun&dn-Y (1)adj|old (1)n|thing-PL
+	pro:per|you v|do .
+----------------------------------------
+*** File "gail17b.cha": line 1798.
+*MOT:	poor old cat .
+%mor:	(1)adj|poor (1)adj|old (1)n|cat .
+
+    Strings matched 2 times
+
+From file <gail18a.cha>
+----------------------------------------
+*** File "gail18a.cha": line 1402.
+*MOT:	because you've had a funny old week .
+%mor:	conj|because pro:per|you~aux|have part|have&PASTP det:art|a
+	(1)adj|fun&dn-Y (1)adj|old (1)n|week .
+----------------------------------------
+*** File "gail18a.cha": line 1974.
+*MOT:	it'll come back next time it's cold , won't he ?
+%mor:	pro:per|it~mod|will v|come (1)adj|back (1)adj|next (1)n|time
+	pro:per|it~aux|be&3S adj|cold cm|cm mod|will~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <gail18b.cha>
+
+    Strings matched 0 times
+
+From file <gail19a.cha>
+
+    Strings matched 0 times
+
+From file <gail19b.cha>
+
+    Strings matched 0 times
+
+From file <gail20a.cha>
+
+    Strings matched 0 times
+
+From file <gail20b.cha>
+----------------------------------------
+*** File "gail20b.cha": line 346.
+*MOT:	an old english sheepdog like +//.
+%mor:	det:art|a (1)adj|old (1)adj|english (1)n|sheepdog prep|like +//.
+----------------------------------------
+*** File "gail20b.cha": line 713.
+*MOT:	he had a good old snooze , didn't he ?
+%mor:	pro:sub|he v|have&PAST det:art|a (1)adj|good (1)adj|old (1)n|snooze cm|cm
+	mod|do&PAST~neg|not pro:sub|he ?
+----------------------------------------
+*** File "gail20b.cha": line 1362.
+*MOT:	poor old panda .
+%mor:	(1)adj|poor (1)adj|old (1)n|panda .
+
+    Strings matched 3 times
+
+From file <gail21a.cha>
+
+    Strings matched 0 times
+
+From file <gail21b.cha>
+
+    Strings matched 0 times
+
+From file <gail22a.cha>
+----------------------------------------
+*** File "gail22a.cha": line 822.
+*MOT:	great big thing , isn't it ?
+%mor:	(1)adj|great (1)adj|big (1)n|thing cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <gail22b.cha>
+
+    Strings matched 0 times
+
+From file <gail23a.cha>
+
+    Strings matched 0 times
+
+From file <gail23b.cha>
+
+    Strings matched 0 times
+
+From file <gail24a.cha>
+
+    Strings matched 0 times
+
+From file <gail24b.cha>
+----------------------------------------
+*** File "gail24b.cha": line 762.
+*MOT:	all your nice cuddly toys came from the fair .
+%mor:	qn|all det:poss|your (1)adj|nice (1)adj|cuddle&dv-Y (1)n|toy-PL v|come&PAST
+	prep|from det:art|the n|fair .
+
+    Strings matched 1 times
+
+From file <gail25a.cha>
+----------------------------------------
+*** File "gail25a.cha": line 278.
+*MOT:	did you have your own special bed ?
+%mor:	v|do&PAST pro:per|you v|have det:poss|your (1)adj|own (1)adj|special
+	(1)n|bed ?
+----------------------------------------
+*** File "gail25a.cha": line 1257.
+*MOT:	and we've got our own little house and what's it got ?
+%mor:	coord|and pro:sub|we~aux|have part|get&PASTP det:poss|our (1)adj|own
+	(1)adj|little (1)n|house coord|and pro:int|what~poss|s pro:per|it
+	v|get&PAST ?
+----------------------------------------
+*** File "gail25a.cha": line 1953.
+*MOT:	big heavy going .
+%mor:	(1)adj|big (1)adj|heavy (1)n:gerund|go-PRESP .
+
+    Strings matched 3 times
+
+From file <gail25b.cha>
+----------------------------------------
+*** File "gail25b.cha": line 15.
+*MOT:	they're special new Jaffa cakes , aren't they ?
+%mor:	pro:sub|they~aux|be&PRES (1)adj|special (1)adj|new (1)n:prop|Jaffa n|cake-PL
+	cm|cm aux|be&PRES~neg|not pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <gail26a.cha>
+----------------------------------------
+*** File "gail26a.cha": line 522.
+*MOT:	they said we've got a new little girl .
+%mor:	pro:sub|they v|say&PAST pro:sub|we~aux|have part|get&PASTP
+	det:art|a (1)adj|new (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "gail26a.cha": line 2557.
+*MOT:	poor old Snowdon .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Snowdon .
+----------------------------------------
+*** File "gail26a.cha": line 2708.
+*MOT:	these lovely soft trousers , aren't they ?
+%mor:	pro:dem|these (1)adj|love&dn-LY (1)adj|soft (1)n|trouser-PL cm|cm
+	aux|be&PRES~neg|not pro:sub|they ?
+
+    Strings matched 3 times
+
+From file <gail26b.cha>
+
+    Strings matched 0 times
+
+From file <gail27a.cha>
+
+    Strings matched 0 times
+
+From file <gail27b.cha>
+----------------------------------------
+*** File "gail27b.cha": line 1115.
+*MOT:	ready steady flop .
+%mor:	(1)adj|ready (1)adj|steady (1)n|flop .
+
+    Strings matched 1 times
+
+From file <gail28a.cha>
+----------------------------------------
+*** File "gail28a.cha": line 1644.
+*MOT:	you've made a rare old mess .
+%mor:	pro:per|you~aux|have part|make&PASTP det:art|a (1)adj|rare (1)adj|old
+	(1)n|mess .
+
+    Strings matched 1 times
+
+From file <gail28b.cha>
+
+    Strings matched 0 times
+
+From file <gail29a.cha>
+
+    Strings matched 0 times
+
+From file <gail29b.cha>
+----------------------------------------
+*** File "gail29b.cha": line 348.
+*MOT:	your brother's having a good old sleep , isn't he ?
+%mor:	det:poss|your n|brother~aux|be&3S part|have-PRESP det:art|a
+	(1)adj|good (1)adj|old (1)n|sleep cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <gail30a.cha>
+----------------------------------------
+*** File "gail30a.cha": line 1565.
+*MOT:	a timid turquoise tortoise that loved playing +...
+%mor:	det:art|a (1)adj|timid (1)adj|turquoise (1)n|tortoise pro:rel|that
+	v|love-PAST n:gerund|play-PRESP +...
+----------------------------------------
+*** File "gail30a.cha": line 1731.
+*MOT:	went to bed late last night .
+%mor:	v|go&PAST prep|to n|bed (1)adj|late (1)adj|last (1)n|night .
+
+    Strings matched 2 times
+
+From file <gail30b.cha>
+
+    Strings matched 0 times
+
+From file <gail31a.cha>
+----------------------------------------
+*** File "gail31a.cha": line 580.
+*MOT:	they had little front doors .
+%mor:	pro:sub|they v|have&PAST (1)adj|little (1)adj|front (1)n|door-PL .
+----------------------------------------
+*** File "gail31a.cha": line 1482.
+*MOT:	a round dotty mouth .
+%mor:	det:art|a (1)adj|round (1)adj|dot&dn-Y (1)n|mouth .
+
+    Strings matched 2 times
+
+From file <gail31b.cha>
+----------------------------------------
+*** File "gail31b.cha": line 161.
+*MOT:	it's all_gone funny Mummy noticed the other day .
+%mor:	pro:per|it~cop|be&3S (1)adj|all_gone (1)adj|fun&dn-Y (1)n:prop|Mummy
+	v|notice-PAST det:art|the qn|other n|day .
+----------------------------------------
+*** File "gail31b.cha": line 1407.
+*MOT:	organic free range ones please .
+%mor:	(1)adj|organic (1)adj|free (1)n|range det:num|one-PL co|please .
+
+    Strings matched 2 times
+
+From file <gail32a.cha>
+----------------------------------------
+*** File "gail32a.cha": line 616.
+*MOT:	outside on this funny old train which was a bit nerve+wracking ,
+	wasn't it ?
+%mor:	adv|outside prep|on pro:dem|this (1)adj|fun&dn-Y (1)adj|old (1)n|train
+	pro:rel|which cop|be&PAST&13S det:art|a n|bit
+	adj|+n|nerve+adj|wracking cm|cm cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "gail32a.cha": line 2959.
+*MOT:	<the dirty old dog> [>] .
+%mor:	det:art|the (1)adj|dirt&dn-Y (1)adj|old (1)n|dog .
+
+    Strings matched 2 times
+
+From file <gail32b.cha>
+----------------------------------------
+*** File "gail32b.cha": line 1644.
+*MOT:	her own little house .
+%mor:	pro:obj|her (1)adj|own (1)adj|little (1)n|house .
+
+    Strings matched 1 times
+
+From file <gail33a.cha>
+
+    Strings matched 0 times
+
+From file <gail33b.cha>
+
+    Strings matched 0 times
+
+From file <gail34a.cha>
+
+    Strings matched 0 times
+
+From file <gail34b.cha>
+
+    Strings matched 0 times
+

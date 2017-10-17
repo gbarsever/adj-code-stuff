@@ -1,0 +1,356 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:34:40 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acelw7.cha>
+
+    Strings matched 0 times
+
+From file <admlw7.cha>
+
+    Strings matched 0 times
+
+From file <aimlw7.cha>
+----------------------------------------
+*** File "aimlw7.cha": line 13.
+*CHI:	I want a different erasable pen .
+%mor:	pro:sub|I v|want det:art|a (1)adj|different (1)adj|erase&dv-ABLE (1)n|pen .
+
+    Strings matched 1 times
+
+From file <alilw7.cha>
+----------------------------------------
+*** File "alilw7.cha": line 314.
+*CHI:	(.) the next day was Sunday again the caterpillar ate through (.) one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "alilw7.cha": line 322.
+*CHI:	now he wasn't hungry anymore and he wasn't a little caterpillar (.) anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file <alllw7.cha>
+----------------------------------------
+*** File "alllw7.cha": line 139.
+*CHI:	good old Saturday .
+%mor:	(1)adj|good (1)adj|old (1)n:prop|Saturday .
+----------------------------------------
+*** File "alllw7.cha": line 181.
+*CHI:	the caterpillar ate through a nice green leaf and after that <he left> [//] he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through det:art|a
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 2 times
+
+From file <analw7.cha>
+
+    Strings matched 0 times
+
+From file <annlw7.cha>
+----------------------------------------
+*** File "annlw7.cha": line 239.
+*CHI:	the caterpillar ate through one nice green leaf and after that he (.) felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <aprlw7.cha>
+
+    Strings matched 0 times
+
+From file <boblw7.cha>
+
+    Strings matched 0 times
+
+From file <bralw7.cha>
+
+    Strings matched 0 times
+
+From file <brilw7.cha>
+
+    Strings matched 0 times
+
+From file <brnlw7.cha>
+----------------------------------------
+*** File "brnlw7.cha": line 274.
+*CHI:	the callapitur [: caterpillar] ate through one nice green leaf and after that he left [//] felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <caslw7.cha>
+
+    Strings matched 0 times
+
+From file <catlw7.cha>
+
+    Strings matched 0 times
+
+From file <clalw7.cha>
+
+    Strings matched 0 times
+
+From file <conlw7.cha>
+
+    Strings matched 0 times
+
+From file <ctrlw7.cha>
+
+    Strings matched 0 times
+
+From file <davlw7.cha>
+
+    Strings matched 0 times
+
+From file <dialw7.cha>
+
+    Strings matched 0 times
+
+From file <emilw7.cha>
+
+    Strings matched 0 times
+
+From file <ethlw7.cha>
+
+    Strings matched 0 times
+
+From file <geolw7.cha>
+----------------------------------------
+*** File "geolw7.cha": line 539.
+*CHI:	<if I did> [<] it would be a pretty big butterfly .
+%mor:	conj|if pro:sub|I mod|do&PAST pro:per|it mod|will&COND cop|be
+	det:art|a (1)adj|pretty (1)adj|big (1)n|+n|butter+n|fly .
+----------------------------------------
+*** File "geolw7.cha": line 887.
+*CHI:	(.) why did the caterpillar have_to eat through everything <and then> [/] (.) and then (.) get really fat and then (.) make a cocoon and turn into a skinny little butterfly ?
+%mor:	adv:int|why mod|do&PAST det:art|the n|caterpillar mod:aux|have_to
+	v|eat adv|through pro:indef|everything coord|and adv:tem|then v|get
+	adv|real&dadj-LY adj|fat coord|and adv:tem|then v|make det:art|a
+	n|cocoon coord|and n|turn prep|into det:art|a (1)adj|skin&dn-Y
+	(1)adj|little (1)n|+n|butter+n|fly ?
+----------------------------------------
+*** File "geolw7.cha": line 900.
+*CHI:	why did it have_to be a skinny little butterfly ?
+%mor:	adv:int|why mod|do&PAST pro:per|it mod:aux|have_to cop|be det:art|a
+	(1)adj|skin&dn-Y (1)adj|little (1)n|+n|butter+n|fly ?
+----------------------------------------
+*** File "geolw7.cha": line 905.
+*CHI:	(be)cause it if [/] if it was so fat (.) then <how can he> [/] how can he &+s turn into a &+s little [//] skinny little butterfly ?
+%mor:	conj|because pro:per|it conj|if pro:per|it cop|be&PAST&13S adv|so
+	adj|fat adv:tem|then adv:int|how mod|can pro:sub|he v|turn prep|into
+	det:art|a (1)adj|skin&dn-Y (1)adj|little (1)n|+n|butter+n|fly ?
+----------------------------------------
+*** File "geolw7.cha": line 1355.
+*CHI:	(.) I &+w wrote my first name &-um <since I was &-um> [//] my whole entire name since I was (.) hm: three .
+%mor:	pro:sub|I v|write&PAST det:poss|my adj|first n|name det:poss|my
+	(1)adj|whole (1)adj|entire (1)n|name conj|since pro:sub|I cop|be&PAST&13S
+	co|hm det:num|three .
+
+    Strings matched 5 times
+
+From file <grelw7.cha>
+
+    Strings matched 0 times
+
+From file <jacet7.cha>
+
+    Strings matched 0 times
+
+From file <jaclw7.cha>
+
+    Strings matched 0 times
+
+From file <jamlw7.cha>
+
+    Strings matched 0 times
+
+From file <jealw7.cha>
+----------------------------------------
+*** File "jealw7.cha": line 269.
+*CHI:	+^ the caterpillar ate through (.) one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <jeblw7.cha>
+----------------------------------------
+*** File "jeblw7.cha": line 436.
+*CHI:	&-um <just use> [//] if it's capital just use the capitals .
+%mor:	conj|if pro:per|it~cop|be&3S (1)adj|capital (1)adj|just (1)n|use det:art|the
+	n|capital-PL .
+
+    Strings matched 1 times
+
+From file <jenlw7.cha>
+
+    Strings matched 0 times
+
+From file <jerlw7.cha>
+
+    Strings matched 0 times
+
+From file <jeslw7.cha>
+----------------------------------------
+*** File "jeslw7.cha": line 429.
+*CHI:	<I wanna sit on the> [>] comfortable little chair .
+%mor:	pro:sub|I v|want~inf|to v|sit prep|on det:art|the
+	(1)adj|comfort&dv-ABLE (1)adj|little (1)n|chair .
+----------------------------------------
+*** File "jeslw7.cha": line 655.
+*CHI:	I'm not comfortable writing with this small little thing .
+%mor:	pro:sub|I~cop|be&1S neg|not adj|comfort&dv-ABLE part|write-PRESP
+	prep|with pro:dem|this (1)adj|small (1)adj|little (1)n|thing .
+
+    Strings matched 2 times
+
+From file <joelw7.cha>
+
+    Strings matched 0 times
+
+From file <joylw7.cha>
+
+    Strings matched 0 times
+
+From file <juslw7.cha>
+
+    Strings matched 0 times
+
+From file <kevlw7.cha>
+
+    Strings matched 0 times
+
+From file <kurlw7.cha>
+
+    Strings matched 0 times
+
+From file <marlw7.cha>
+
+    Strings matched 0 times
+
+From file <maylw7.cha>
+
+    Strings matched 0 times
+
+From file <meglw7.cha>
+
+    Strings matched 0 times
+
+From file <mellw7.cha>
+----------------------------------------
+*** File "mellw7.cha": line 148.
+*CHI:	the caterpillar ate through one nice green leaf (.) and after (.) that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <nedlw7.cha>
+
+    Strings matched 0 times
+
+From file <paulw7.cha>
+----------------------------------------
+*** File "paulw7.cha": line 239.
+*CHI:	+^ again [!] the caterpillar (.) ate through one nice green leaf and after that he felt much better .
+%mor:	adv|again det:art|the n|caterpillar v|eat&PAST prep|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <petlw7.cha>
+
+    Strings matched 0 times
+
+From file <raslw7.cha>
+
+    Strings matched 0 times
+
+From file <raulw7.cha>
+----------------------------------------
+*** File "raulw7.cha": line 583.
+*CHI:	<the caterpillar ate through one nice green leaf and after he [//] that he left he was> [>] +/.
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|leave&PAST pro:sub|he cop|be&PAST&13S +/.
+
+    Strings matched 1 times
+
+From file <rillw7.cha>
+
+    Strings matched 0 times
+
+From file <roclw7.cha>
+
+    Strings matched 0 times
+
+From file <roslw7.cha>
+
+    Strings matched 0 times
+
+From file <sarlw7.cha>
+
+    Strings matched 0 times
+
+From file <stnlw7.cha>
+
+    Strings matched 0 times
+
+From file <suslw7.cha>
+
+    Strings matched 0 times
+
+From file <todlw7.cha>
+
+    Strings matched 0 times
+
+From file <tomlw7.cha>
+----------------------------------------
+*** File "tomlw7.cha": line 158.
+*CHI:	the caterpillar ate through a nice green (.) leaf and after that (.) he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through det:art|a
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <trilw7.cha>
+
+    Strings matched 0 times
+
+From file <viclw7.cha>
+----------------------------------------
+*** File "viclw7.cha": line 231.
+*CHI:	the next (.) Sunday again caterpillar ate through one [!] nice green leaf and after that he felt much better .
+%mor:	det:art|the adv|next n:prop|Sunday adv|again n|caterpillar
+	v|eat&PAST adj|through pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf
+	coord|and conj|after det:dem|that pro:sub|he v|feel&PAST adv|much
+	adj|good&CP .
+
+    Strings matched 1 times
+
+From file <zanlw7.cha>
+----------------------------------------
+*** File "zanlw7.cha": line 571.
+*CHI:	(.) one nice (.) green leaf ?
+%mor:	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf ?
+
+    Strings matched 1 times
+

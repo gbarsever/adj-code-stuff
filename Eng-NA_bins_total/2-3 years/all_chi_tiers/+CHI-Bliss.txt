@@ -1,0 +1,42 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:01:00 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <noraimee.cha>
+
+    Strings matched 0 times
+
+From file <norjusti.cha>
+
+    Strings matched 0 times
+
+From file <normarjo.cha>
+
+    Strings matched 0 times
+
+From file <normelis.cha>
+
+    Strings matched 0 times
+
+From file <normered.cha>
+
+    Strings matched 0 times
+
+From file <nortrevo.cha>
+----------------------------------------
+*** File "nortrevo.cha": line 792.
+*CHI:	it be a real big flat cookie (.) .
+%mor:	pro:per|it cop|be det:art|a (1)adj|real (1)adj|big (1)n|flat n|cookie .
+
+    Strings matched 1 times
+
+From file <norwilli.cha>
+----------------------------------------
+*** File "norwilli.cha": line 299.
+*CHI:	green green green !
+%mor:	(1)adj|green (1)adj|green (1)n|green !
+
+    Strings matched 1 times
+

@@ -1,0 +1,58 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:10:39 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <jack02.cha>
+
+    Strings matched 0 times
+
+From file <jack03.cha>
+
+    Strings matched 0 times
+
+From file <jack04.cha>
+
+    Strings matched 0 times
+
+From file <jack05.cha>
+
+    Strings matched 0 times
+
+From file <jack06.cha>
+
+    Strings matched 0 times
+
+From file <jack07.cha>
+----------------------------------------
+*** File "jack07.cha": line 1156.
+*CHI:	I want a funny funny face .
+%mor:	pro:sub|I v|want det:art|a (1)adj|fun&dn-Y (1)adj|fun&dn-Y (1)n|face .
+
+    Strings matched 1 times
+
+From file <jack08.cha>
+----------------------------------------
+*** File "jack08.cha": line 1534.
+*CHI:	fatty bum bum (2.) .
+%mor:	(1)adj|fat-Y (1)adj|bum (1)n|bum .
+
+    Strings matched 1 times
+
+From file <jack09.cha>
+----------------------------------------
+*** File "jack09.cha": line 369.
+*CHI:	you great big fat tummy (4.) .
+%mor:	pro:per|you (1)adj|great (1)adj|big (1)n|fat n|tummy .
+
+    Strings matched 1 times
+
+From file <jack10.cha>
+
+    Strings matched 0 times
+
+From file <jack21.cha>
+
+    Strings matched 0 times
+

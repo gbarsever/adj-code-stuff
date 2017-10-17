@@ -1,0 +1,315 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:05:42 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acebr5.cha>
+
+    Strings matched 0 times
+
+From file <admbr5.cha>
+
+    Strings matched 0 times
+
+From file <aimbr5.cha>
+
+    Strings matched 0 times
+
+From file <alibr5.cha>
+
+    Strings matched 0 times
+
+From file <allbr5.cha>
+
+    Strings matched 0 times
+
+From file <anabr5.cha>
+
+    Strings matched 0 times
+
+From file <annbr5.cha>
+
+    Strings matched 0 times
+
+From file <astbr5.cha>
+
+    Strings matched 0 times
+
+From file <bobbr5.cha>
+----------------------------------------
+*** File "bobbr5.cha": line 32.
+*FAT:	<wow big> [>] (.) big line .
+%mor:	co|wow (1)adj|big (1)adj|big (1)n|line .
+
+    Strings matched 1 times
+
+From file <brabr5.cha>
+
+    Strings matched 0 times
+
+From file <bribr5.cha>
+
+    Strings matched 0 times
+
+From file <brimt5.cha>
+
+    Strings matched 0 times
+
+From file <brnbr5.cha>
+----------------------------------------
+*** File "brnbr5.cha": line 289.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <casbr5.cha>
+
+    Strings matched 0 times
+
+From file <catbr5.cha>
+
+    Strings matched 0 times
+
+From file <clabr5.cha>
+
+    Strings matched 0 times
+
+From file <conbr5.cha>
+
+    Strings matched 0 times
+
+From file <ctrbr5.cha>
+
+    Strings matched 0 times
+
+From file <davbr5.cha>
+
+    Strings matched 0 times
+
+From file <diabr5.cha>
+
+    Strings matched 0 times
+
+From file <donbr5.cha>
+
+    Strings matched 0 times
+
+From file <emibr5.cha>
+
+    Strings matched 0 times
+
+From file <ethbr5.cha>
+
+    Strings matched 0 times
+
+From file <geobr5.cha>
+
+    Strings matched 0 times
+
+From file <gilbr5.cha>
+
+    Strings matched 0 times
+
+From file <grebr5.cha>
+
+    Strings matched 0 times
+
+From file <guybr5.cha>
+
+    Strings matched 0 times
+
+From file <inabr5.cha>
+
+    Strings matched 0 times
+
+From file <jacbr5.cha>
+
+    Strings matched 0 times
+
+From file <jambr5.cha>
+
+    Strings matched 0 times
+
+From file <jeabr5.cha>
+
+    Strings matched 0 times
+
+From file <jebbr5.cha>
+
+    Strings matched 0 times
+
+From file <jenbr5.cha>
+
+    Strings matched 0 times
+
+From file <jerbr5.cha>
+----------------------------------------
+*** File "jerbr5.cha": line 449.
+*MOT:	poor little guy &=laughs .
+%mor:	(1)adj|poor (1)adj|little (1)n|guy .
+
+    Strings matched 1 times
+
+From file <jesbr5.cha>
+----------------------------------------
+*** File "jesbr5.cha": line 500.
+*MOT:	the caterpillar ate through (.) <one [/] (.) one nice> [>] green leaf (.) and after that he felt +//.
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST +//.
+----------------------------------------
+*** File "jesbr5.cha": line 563.
+*MOT:	okay the caterpillar ate through one nice green <lafe [: leaf]> [//] leaf and after that he felt much better .
+%mor:	co|okay det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 2 times
+
+From file <joebr5.cha>
+
+    Strings matched 0 times
+
+From file <joybr5.cha>
+
+    Strings matched 0 times
+
+From file <jusbr5.cha>
+
+    Strings matched 0 times
+
+From file <karbr5.cha>
+----------------------------------------
+*** File "karbr5.cha": line 558.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt (.) much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <kevbr5.cha>
+
+    Strings matched 0 times
+
+From file <kurbr5.cha>
+
+    Strings matched 0 times
+
+From file <marbr5.cha>
+
+    Strings matched 0 times
+
+From file <maybr5.cha>
+
+    Strings matched 0 times
+
+From file <megbr5.cha>
+
+    Strings matched 0 times
+
+From file <melbr5.cha>
+
+    Strings matched 0 times
+
+From file <monbr5.cha>
+
+    Strings matched 0 times
+
+From file <morbr5.cha>
+
+    Strings matched 0 times
+
+From file <mrkbr5.cha>
+
+    Strings matched 0 times
+
+From file <nedbr5.cha>
+
+    Strings matched 0 times
+
+From file <paubr5.cha>
+
+    Strings matched 0 times
+
+From file <petbr5.cha>
+
+    Strings matched 0 times
+
+From file <raubr5.cha>
+
+    Strings matched 0 times
+
+From file <rilbr5.cha>
+
+    Strings matched 0 times
+
+From file <rocbr5.cha>
+
+    Strings matched 0 times
+
+From file <rosbr5.cha>
+
+    Strings matched 0 times
+
+From file <sarbr5.cha>
+----------------------------------------
+*** File "sarbr5.cha": line 955.
+*MOT:	the caterpillar ate through one [!] nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+
+    Strings matched 1 times
+
+From file <shlbr5.cha>
+
+    Strings matched 0 times
+
+From file <shobr5.cha>
+
+    Strings matched 0 times
+
+From file <stnbr5.cha>
+
+    Strings matched 0 times
+
+From file <susbr5.cha>
+
+    Strings matched 0 times
+
+From file <tambr5.cha>
+
+    Strings matched 0 times
+
+From file <terbr5.cha>
+
+    Strings matched 0 times
+
+From file <todbr5.cha>
+
+    Strings matched 0 times
+
+From file <tombr5.cha>
+
+    Strings matched 0 times
+
+From file <tribr5.cha>
+
+    Strings matched 0 times
+
+From file <vicbr5.cha>
+
+    Strings matched 0 times
+
+From file <zanbr5.cha>
+
+    Strings matched 0 times
+
+From file <zenbr5.cha>
+
+    Strings matched 0 times
+

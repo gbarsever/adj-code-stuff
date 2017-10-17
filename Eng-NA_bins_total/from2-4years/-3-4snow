@@ -1,0 +1,333 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:51:40 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903a.cha": line 90.
+*FAT:	that's the next happy birthday . %snd:"790903a"_61926_63079
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|next (1)adj|happy
+	(1)n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903a.cha": line 368.
+*MOT:	because it was old old movies . %snd:"790903a"_256535_259757
+%mor:	conj|because pro:per|it cop|be&PAST&13S (1)adj|old (1)adj|old (1)n|movie-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903a.cha": line 385.
+*MOT:	it was old old movies and they were especially good singers and
+	dancers . %snd:"790903a"_267520_272887
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|old (1)adj|old (1)n|movie-PL coord|and
+	pro:sub|they cop|be&PAST adv|especial&dadj-LY adj|good
+	n|sing&dv-AGT-PL coord|and n|dance&dv-AGT-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 924.
+*KAT:	nice damp day . %snd:"790903b"_905490_907786
+%mor:	(1)adj|nice (1)adj|damp (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 1125.
+*KAT:	well there's what I call real great logic . %snd:"790903b"_1058166_1061882
+%mor:	co|well pro:exist|there~cop|be&3S pro:int|what pro:sub|I v|call
+	(1)adj|real (1)adj|great (1)n|logic .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 2163.
+*KAT:	that's a good big head of Daddy . %snd:"790903b"_1643506_1645158
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|big (1)n|head prep|of
+	n:prop|Daddy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 2708.
+*KAT:	who's the lovely little blonde lady there with the beautiful long
+	hair ? %snd:"790903b"_1957221_1961141
+%mor:	pro:int|who~poss|s det:art|the (1)adj|love&dn-LY (1)adj|little (1)n|blonde
+	n|lady adv|there prep|with det:art|the (2)adj|beautiful (2)adj|long (2)n|hair
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 5171.
+*MOT:	<they also got> [//] the little girls had got new long dress for
+	the party . %snd:"790903b"_3399936_3406169
+%mor:	det:art|the adj|little n|girl-PL v|have&PAST v|get&PAST (1)adj|new
+	(1)adj|long (1)n|dress prep|for det:art|the n|party .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 5725.
+*KAT:	you're such a nice little sweetie+pie aren't you ? %snd:"790903b"_3750868_3753507
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|nice (1)adj|little
+	(1)n|+adj|sweetie+n|pie aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 6328.
+*KAT:	Ernie with the googly googly eyes ? %snd:"790903b"_4096705_4099267
+%mor:	n:prop|Ernie prep|with det:art|the (1)adj|google&dv-Y (1)adj|google&dv-Y
+	(1)n|eye-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 6355.
+*KAT:	I'll tell you she gives you a real close treatment doesn't she ? %snd:"790903b"_4119451_4125191
+%mor:	pro:sub|I~mod|will v|tell pro:per|you pro:sub|she v|give-3S
+	pro:per|you det:art|a (1)adj|real (1)adj|close (1)n|treatment
+	mod|do&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 7536.
+*KAT:	it had a nice little frame on it . %snd:"790903b"_4861957_4864186
+%mor:	pro:per|it v|have&PAST det:art|a (1)adj|nice (1)adj|little (1)n|frame
+	prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 8018.
+*KAT:	let's put these things in a little tiny bit (.) and make a little
+	bit of room here . %snd:"790903b"_5207905_5213327
+%mor:	v|let~pro:obj|us v|put&ZERO pro:dem|these n|thing-PL prep|in
+	det:art|a (1)adj|little (1)adj|tiny (1)n|bit coord|and v|make det:art|a
+	adj|little n|bit prep|of n|room adv|here .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 8648.
+*MOT:	and put <fresh water> [//] fresh hot water on it and leave it sit .
+	%snd:"790903b"_5628163_5631468
+%mor:	coord|and v|put&ZERO (1)adj|fresh (1)adj|hot (1)n|water prep|on pro:per|it
+	coord|and v|leave pro:per|it v|sit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 8671.
+*MOT:	fresh hot water yeah . %snd:"790903b"_5639642_5640894
+%mor:	(1)adj|fresh (1)adj|hot (1)n|water co|yeah .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790903b.cha": line 9692.
+*KAT:	<let's> [/] <let's> [/] <let's> [/] <let's use> [/] let's use real
+	good common sense and brains . %snd:"790903b"_6530446_6536390
+%mor:	v|let~pro:obj|us v|use adj|real (1)adj|good (1)adj|common (1)n|sense
+	coord|and n|brain-PL .
+
+    Strings matched 14 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790906a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790906b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790906b.cha": line 269.
+*KAT:	on your nice little belly . %snd:"790906b"_216117_217315
+%mor:	prep|on det:poss|your (1)adj|nice (1)adj|little (1)n|belly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790906b.cha": line 272.
+*KAT:	on your nice little belly . %snd:"790906b"_217315_218225
+%mor:	prep|on det:poss|your (1)adj|nice (1)adj|little (1)n|belly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790906b.cha": line 1129.
+*MOT:	an old+fashioned upstairs airplane . %snd:"790906b"_1019446_1020560
+%mor:	det:art|a (1)adj|+adj|old+adj|fashioned (1)adj|upstairs (1)n|airplane .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790922a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790922a.cha": line 521.
+*MOT:	+" <a long long song> [>] .
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|song .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790922b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790922c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/790922c.cha": line 180.
+*MOT:	+" a big red wood box was +...
+%mor:	det:art|a (1)adj|big (1)adj|red (1)n|wood n|box cop|be&PAST&13S +...
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112a.cha": line 325.
+*MOT:	+" a long long song . %snd:"791112a"_212742_214228
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|song .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112a.cha": line 990.
+*MOT:	remember the great big jungle gym in England ? %snd:"791112a"_665561_668838
+%mor:	v|remember det:art|the (1)adj|great (1)adj|big (1)n|jungle n|gym prep|in
+	n:prop|England ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112a.cha": line 2983.
+*MOT:	+" busy busy busy bears . %snd:"791112a"_1847644_1849852
+%mor:	adj|busy (1)adj|busy (1)adj|busy (1)n|bear-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112a.cha": line 3401.
+*MOT:	isn't that a nice dutch house ? %snd:"791112a"_2098822_2099936
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|nice (1)adj|dutch (1)n|house
+	?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791112c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791118.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791118.cha": line 305.
+*MOT:	(be)cause there's just a tiny little bit in there and it (i)s
+	really xxx caught underneath so it won't come out . %snd:"791118"_221670_228896
+%mor:	conj|because pro:exist|there~cop|be&3S adv|just det:art|a (1)adj|tiny
+	(1)adj|little (1)n|bit prep|in adv|there coord|and pro:per|it cop|be&3S
+	adv|real&dadj-LY v|catch&PAST adv|underneath conj|so pro:per|it
+	mod|will~neg|not v|come adv|out .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791224.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791224bx.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791224bx.cha": line 887.
+*FAT:	+" will you give your doctor and dentist a great big smile the next
+	time you see them ?
+%mor:	mod|will pro:per|you v|give det:poss|your n|doctor coord|and
+	n|dentist det:art|a (1)adj|great (1)adj|big (1)n|smile det:art|the adj|next
+	n|time pro:per|you v|see pro:obj|them ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791224bx.cha": line 1665.
+*FAT:	+" busy busy busy bears .
+%mor:	adj|busy (1)adj|busy (1)adj|busy (1)n|bear-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791225a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791225b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791225b.cha": line 355.
+*MOT:	they haven't had a bath for a long: long long long time . %snd:"791225b2"_197010_201556
+%mor:	pro:sub|they aux|have~neg|not v|have&PAST det:art|a n|bath prep|for
+	det:art|a adj|long adj|long (1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226a.cha": line 457.
+*MOT:	it would be just like you having a picture of a great big ice cream
+	cone in your living room . %snd:"791226a"_299983_303406
+%mor:	pro:per|it mod|will&COND cop|be adv|just prep|like pro:per|you
+	part|have-PRESP det:art|a n|picture prep|of det:art|a (1)adj|great
+	(1)adj|big (1)n|ice n|cream n|cone prep|in det:poss|your part|live-PRESP
+	n|room .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226a.cha": line 1235.
+*MOT:	I bet that's one of those big snuggly tails that you can wrap
+	around yourself to keep warm at night . %snd:"791226a"_792608_796434
+%mor:	pro:sub|I v|bet&ZERO pro:dem|that~cop|be&3S pro:indef|one prep|of
+	pro:dem|those (1)adj|big (1)adj|snuggle&dv-Y (1)n|tail-PL pro:rel|that
+	pro:per|you mod|can v|wrap prep|around pro:refl|yourself inf|to
+	v|keep v|warm prep|at n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226a.cha": line 3760.
+*MOT:	+" busy busy busy bears . %snd:"791226a"_2542742_2544328
+%mor:	adj|busy (1)adj|busy (1)adj|busy (1)n|bear-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226b.cha": line 395.
+*MOT:	such a good little bear . %snd:"791226b"_261521_264685
+%mor:	qn|such det:art|a (1)adj|good (1)adj|little (1)n|bear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791226b.cha": line 4079.
+*MOT:	+" busy busy busy busy bears . %snd:"791226b"_2665998_2667938
+%mor:	adj|busy adj|busy (1)adj|busy (1)adj|busy (1)n|bear-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/791229.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800103.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800103.cha": line 1758.
+*MOT:	+" don't knock so hard next time &+mo Mose . %snd:"800103"_1056896_1059426
+%mor:	mod|do~neg|not v|knock adv|so (1)adj|hard (1)adj|next (1)n|time n:prop|Mose
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 1397.
+*MOT:	but when you're a little baby then people usually use little tiny
+	bath+tubs to give you a bath in (be)cause it's not so scary . %snd:"800106a"_710953_715085
+%mor:	conj|but conj|when pro:per|you~cop|be&PRES det:art|a adj|little
+	n|baby adv:tem|then n|person&PL adv|usual&dadj-LY v|use (1)adj|little
+	(1)adj|tiny (1)n|+n|bath+n|tub-PL inf|to v|give pro:per|you det:art|a
+	n|bath prep|in conj|because pro:per|it~cop|be&3S neg|not adv|so
+	adj|scare&dn-Y .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 1952.
+*MOT:	well you don't cry when you have just a little sore throat . %snd:"800106a"_985685_987163
+%mor:	co|well pro:per|you mod|do~neg|not v|cry conj|when pro:per|you
+	v|have adv|just det:art|a (1)adj|little (1)adj|sore (1)n|throat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 2613.
+*MOT:	it's a long long time away . %snd:"800106a"_1352346_1354155
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|long (1)adj|long (1)n|time adv|away .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 3940.
+*MOT:	(be)cause that's what happens when you walk through wet paint . %snd:"800106a"_2006133_2007991
+%mor:	conj|because pro:dem|that~aux|be&3S pro:int|what v|happen-3S
+	conj|when pro:per|you n|walk (1)adj|through (1)adj|wet (1)n|paint .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 4333.
+*MOT:	+" in cloudy rainy weather he gets wet . %snd:"800106a"_2202815_2204188
+%mor:	prep|in (1)adj|cloud&dn-Y (1)adj|rain&dn-Y (1)n|weather pro:sub|he v|get-3S
+	part|wet&PASTP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106a.cha": line 4337.
+*MOT:	+" in stormy windy weather he hides in a hayloft in the barn . %snd:"800106a"_2204188_2206645
+%mor:	prep|in (1)adj|storm&dn-Y (1)adj|wind&dn-Y (1)n|weather pro:sub|he n|hide-PL
+	prep|in det:art|a n|+n|hay+n|loft prep|in det:art|the n|barn .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106b.cha": line 361.
+*MOT:	+" with tiny light feet and a soft pink nose . %snd:"800106b"_194405_196211
+%mor:	prep|with (1)adj|tiny (1)adj|light (1)n|foot&PL coord|and det:art|a adj|soft
+	n|pink n|nose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800106b.cha": line 623.
+*MOT:	+" this little pig said (.) nice sweet lettuce . %snd:"800106b"_348476_352680
+%mor:	pro:dem|this adj|little n|pig v|say&PAST (1)adj|nice (1)adj|sweet
+	(1)n|lettuce .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800401.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800401.cha": line 127.
+*MOT:	the nice straight ball ? %snd:"800401"_78845_80195
+%mor:	det:art|the (1)adj|nice (1)adj|straight (1)n|ball ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800518.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800518.cha": line 740.
+*MOT:	(be)cause he's a special big eared bunny . %snd:"800518"_445595_447385
+%mor:	conj|because pro:sub|he~aux|be&3S det:art|a n|special (1)adj|big
+	(1)adj|eared (1)n|bunny .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Snow/800520x.cha>
+
+    Strings matched 0 times
+

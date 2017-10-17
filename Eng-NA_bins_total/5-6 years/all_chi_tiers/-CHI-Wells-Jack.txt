@@ -1,0 +1,54 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:10:34 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <jack02.cha>
+
+    Strings matched 0 times
+
+From file <jack03.cha>
+
+    Strings matched 0 times
+
+From file <jack04.cha>
+
+    Strings matched 0 times
+
+From file <jack05.cha>
+
+    Strings matched 0 times
+
+From file <jack06.cha>
+
+    Strings matched 0 times
+
+From file <jack07.cha>
+----------------------------------------
+*** File "jack07.cha": line 268.
+*MOT:	nice big tank look .
+%mor:	(1)adj|nice (1)adj|big (1)n|tank co|look .
+
+    Strings matched 1 times
+
+From file <jack08.cha>
+
+    Strings matched 0 times
+
+From file <jack09.cha>
+
+    Strings matched 0 times
+
+From file <jack10.cha>
+
+    Strings matched 0 times
+
+From file <jack21.cha>
+----------------------------------------
+*** File "jack21.cha": line 1314.
+*MOT:	you crafty little worm .
+%mor:	pro:per|you (1)adj|craft&dn-Y (1)adj|little (1)n|worm .
+
+    Strings matched 1 times
+

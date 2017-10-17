@@ -1,0 +1,305 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:49:16 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rachel1.cha>
+----------------------------------------
+*** File "rachel1.cha": line 835.
+*MOT:	try again a bit harder (.) good girl .
+%mor:	v|try adv|again det:art|a n|bit (1)adj|hard-CP (1)adj|good (1)n|girl .
+----------------------------------------
+*** File "rachel1.cha": line 1392.
+*MOT:	no she was (.) I don't think she was (.) more advanced at talking
+	than any other children because I've got a wee friend and her
+	daughter's four and I remember (.) I thought she was just over a
+	year (.) she was saying near enough sentences so I was sort of maybe
+	comparing her a bit to her but I think she was more or less just
+	average at talking but she seems to have a real capacity for memory
+	you know .
+%mor:	co|no pro:sub|she cop|be&PAST&13S pro:sub|I mod|do~neg|not v|think
+	pro:sub|she aux|be&PAST&13S adv|more v|advance-PAST prep|at
+	n:gerund|talk-PRESP prep|than qn|any qn|other n|child&PL
+	conj|because pro:sub|I~aux|have part|get&PASTP det:art|a adj|wee
+	n|friend coord|and det:poss|her n|daughter~poss|s det:num|four
+	coord|and pro:sub|I v|remember pro:sub|I v|think&PAST pro:sub|she
+	cop|be&PAST&13S adv|just prep|over det:art|a n|year pro:sub|she
+	aux|be&PAST&13S part|say-PRESP (1)adj|near (1)adj|enough (1)n|sentence-PL
+	co|so pro:sub|I cop|be&PAST&13S n|sort prep|of adv|maybe
+	part|compare-PRESP pro:obj|her det:art|a v|bite&PAST prep|to
+	pro:obj|her conj|but pro:sub|I v|think pro:sub|she aux|be&PAST&13S
+	adv|more coord|or (2)adj|less (2)adj|just (2)n|average prep|at
+	n:gerund|talk-PRESP conj|but pro:sub|she cop|seem-3S inf|to v|have
+	det:art|a adj|real n|capacity prep|for n|memory pro:per|you v|know .
+----------------------------------------
+*** File "rachel1.cha": line 1944.
+*INV:	there's a little brown bear .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|brown (1)n|bear .
+
+    Strings matched 4 times
+
+From file <rachel2.cha>
+----------------------------------------
+*** File "rachel2.cha": line 766.
+*MOT:	I'm doing the Highway Code at the moment and it's all about driving
+	at night and all (.) I mean no way am I ever going to drive on ice
+	or snow (.) even heavy rain I don't think I could do that .
+%mor:	pro:sub|I~aux|be&1S part|do-PRESP det:art|the n:prop|Highway
+	n:prop|Code prep|at det:art|the n|moment coord|and
+	pro:per|it~cop|be&3S adv|all adv|about part|drive-PRESP prep|at
+	n|night coord|and pro:indef|all pro:sub|I v|mean qn|no n|way
+	aux|be&1S pro:sub|I adv|ever part|go-PRESP prep|to n|drive prep|on
+	n|ice coord|or n|snow (1)adj|even (1)adj|heavy (1)n|rain pro:sub|I
+	mod|do~neg|not v|think pro:sub|I mod|could v|do pro:dem|that .
+----------------------------------------
+*** File "rachel2.cha": line 1154.
+*INV:	I think they've got wee tiny faces .
+%mor:	pro:sub|I v|think pro:sub|they~aux|have v|get&PAST (1)adj|wee (1)adj|tiny
+	(1)n|face-PL .
+
+    Strings matched 2 times
+
+From file <rachel3.cha>
+----------------------------------------
+*** File "rachel3.cha": line 557.
+*MOT:	but well he managed to get it sorted out okay (.) it was (.) it
+	looked worse than it actually was (.) but his friend's getting
+	married soon and he was storing a brand new suite of furniture .
+%mor:	conj|but n|well pro:sub|he v|manage-PAST inf|to v|get pro:per|it
+	v|sort-PAST prep|out adj|okay pro:per|it cop|be&PAST&13S pro:per|it
+	cop|look-PAST adj|bad&CP prep|than pro:per|it adv|actual&dadj-LY
+	cop|be&PAST&13S conj|but det:poss|his n|friend~aux|be&3S
+	part|get-PRESP part|marry-PASTP adv|soon coord|and pro:sub|he
+	aux|be&PAST&13S part|store-PRESP det:art|a (1)adj|brand (1)adj|new (1)n|suite
+	prep|of n|furniture .
+----------------------------------------
+*** File "rachel3.cha": line 1100.
+*MOT:	Rachel look at that wee tiny book do you see (.) isn't that lovely
+	?
+%mor:	n:prop|Rachel cop|look prep|at pro:dem|that (1)adj|wee (1)adj|tiny (1)n|book
+	v|do pro:per|you v|see cop|be&3S~neg|not pro:dem|that adj|love&dn-LY
+	?
+----------------------------------------
+*** File "rachel3.cha": line 1134.
+*INV:	and you've smart new shoes (.) lovely boots you've got there .
+%mor:	coord|and pro:per|you~aux|have (1)adj|smart (1)adj|new (1)n|shoe-PL
+	adj|love&dn-LY n|boot-PL pro:per|you~aux|have v|get&PAST adv|there .
+----------------------------------------
+*** File "rachel3.cha": line 2120.
+*INV:	well you know all your rhymes don't you (.) yeah I heard you doing
+	eensie weensie spider was that what she was doing ?
+%mor:	co|well pro:per|you v|know qn|all det:poss|your n|rhyme-PL
+	mod|do~neg|not pro:per|you co|yeah pro:sub|I v|hear&PAST pro:per|you
+	part|do-PRESP (1)adj|eensie (1)adj|weensie (1)n|spider cop|be&PAST&13S
+	pro:dem|that pro:int|what pro:sub|she aux|be&PAST&13S part|do-PRESP
+	?
+----------------------------------------
+*** File "rachel3.cha": line 2375.
+*MOT:	that's right and plus then you're losing a_lot_of your own natural
+	resources .
+%mor:	pro:dem|that~cop|be&3S n|right coord|and adv|plus adv:tem|then
+	pro:per|you~aux|be&PRES part|lose-PRESP qn|a_lot_of det:poss|your
+	(1)adj|own (1)adj|natural (1)n|resource-PL .
+----------------------------------------
+*** File "rachel3.cha": line 2705.
+*MOT:	nice big shell on the back .
+%mor:	(1)adj|nice (1)adj|big (1)n|shell prep|on det:art|the n|back .
+
+    Strings matched 6 times
+
+From file <rachel4.cha>
+----------------------------------------
+*** File "rachel4.cha": line 460.
+*MOT:	and what happened to poor wee Jack (.) where's he away to now ?
+%mor:	coord|and pro:int|what v|happen-PAST prep|to (1)adj|poor (1)adj|wee
+	(1)n:prop|Jack pro:rel|where~aux|be&3S pro:sub|he adv|away inf|to
+	adv|now ?
+----------------------------------------
+*** File "rachel4.cha": line 1190.
+*MOT:	oh easy easy Rachel !
+%mor:	co|oh (1)adj|ease&dn-Y (1)adj|ease&dn-Y (1)n:prop|Rachel !
+----------------------------------------
+*** File "rachel4.cha": line 2291.
+*INV:	big big moon last night .
+%mor:	(1)adj|big (1)adj|big (1)n|moon adv|last n|night .
+----------------------------------------
+*** File "rachel4.cha": line 3628.
+*INV:	last time we went (.) took one of the boys (.) our dentist had a
+	new machine (.) it's like (.) a video and on the thing he looks
+	round was a tiny little camera +...
+%mor:	adj|last n|time pro:sub|we v|go&PAST v|take&PAST pro:indef|one
+	prep|of det:art|the n|boy-PL det:poss|our n|dentist v|have&PAST
+	det:art|a adj|new n|machine pro:per|it~cop|be&3S conj|like det:art|a
+	n|video coord|and prep|on det:art|the n|thing pro:sub|he cop|look-3S
+	adv|round cop|be&PAST&13S det:art|a (1)adj|tiny (1)adj|little (1)n|camera
+	+...
+
+    Strings matched 4 times
+
+From file <rachel5.cha>
+----------------------------------------
+*** File "rachel5.cha": line 1490.
+*MOT:	that's her wee bag and d(o) you see that wee red cross on her bag
+	that's how you know she's a nurse or a doctor or another person who
+	helps someone when they are sick .
+%mor:	pro:dem|that~cop|be&3S pro:obj|her adj|wee n|bag coord|and v|do
+	pro:per|you v|see pro:rel|that (1)adj|wee (1)adj|red (1)n|cross prep|on
+	det:poss|her n|bag pro:rel|that~aux|be&3S adv:int|how pro:per|you
+	v|know pro:sub|she~aux|be&3S det:art|a n|nurse coord|or det:art|a
+	n|doctor coord|or qn|another n|person pro:rel|who v|help-3S
+	pro:indef|someone conj|when pro:sub|they cop|be&PRES adj|sick .
+----------------------------------------
+*** File "rachel5.cha": line 1505.
+*MOT:	when you see a wee red cross you know that that person helps
+	someone when they're sick (.) doctors or nurses and it's on the
+	ambulance as_well isn't it ?
+%mor:	conj|when pro:per|you v|see det:art|a (1)adj|wee (1)adj|red (1)n|cross
+	pro:per|you v|know pro:rel|that pro:dem|that n|person v|help-3S
+	pro:indef|someone pro:rel|when pro:sub|they~cop|be&PRES adj|sick
+	n|doctor-PL coord|or n|nurse-PL coord|and pro:per|it~cop|be&3S
+	prep|on det:art|the n|ambulance adv|as_well aux|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "rachel5.cha": line 1525.
+*MOT:	that's (.) she's got a wee red cross on her hat as_well (.) a wee
+	nurses hat .
+%mor:	pro:dem|that~cop|be&3S pro:sub|she~aux|be&3S part|get&PASTP
+	det:art|a (1)adj|wee (1)adj|red (1)n|cross prep|on det:poss|her n|hat
+	adv|as_well det:art|a adj|wee n|nurse-PL n|hat .
+----------------------------------------
+*** File "rachel5.cha": line 1633.
+*MOT:	oh no I think owls are lovely (.) they have lovely big round eyes .
+%mor:	co|oh co|no pro:sub|I v|think n|owl-PL aux|be&PRES adj|love&dn-LY
+	pro:sub|they v|have (1)adj|love&dn-LY (1)adj|big (1)n|round n|eye-PL .
+----------------------------------------
+*** File "rachel5.cha": line 1649.
+*MOT:	an(d) that's a wee small p@l .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a (1)adj|wee (1)adj|small
+	(1)n:let|p .
+----------------------------------------
+*** File "rachel5.cha": line 1744.
+*MOT:	that's a musical instrument as_well (.) we'll get to that in a wee
+	minute (.) w@l is for +...
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|musical n|instrument
+	adv|as_well pro:sub|we~mod|will v|get prep|to pro:dem|that prep|in
+	det:art|a (1)adj|wee (1)adj|minute (1)n:let|w cop|be&3S prep|for +...
+----------------------------------------
+*** File "rachel5.cha": line 2803.
+*MOT:	no that's a spoon a big wooden spoon you know what mummie uses a
+	big wooden spoon doesn't she ?
+%mor:	co|no pro:dem|that~cop|be&3S det:art|a n|spoon det:art|a (1)adj|big
+	(1)adj|wooden (1)n|spoon pro:per|you v|know pro:int|what n|mum&dadj-DIM
+	v|use-3S det:art|a (2)adj|big (2)adj|wooden (2)n|spoon mod|do&3S~neg|not
+	pro:sub|she ?
+
+    Strings matched 8 times
+
+From file <rachel6.cha>
+----------------------------------------
+*** File "rachel6.cha": line 12.
+*MOT:	yes hold on a wee second (.) hold on a wee second I'll finish up in
+	here .
+%mor:	co|yes n|hold prep|on det:art|a (1)adj|wee (1)adj|second (1)n|hold prep|on
+	det:art|a adj|wee n|second pro:sub|I~mod|will v|finish adv|up
+	prep|in adv|here .
+----------------------------------------
+*** File "rachel6.cha": line 267.
+*MOT:	&-um not even with a li(ttle) whole lot of red sauce over it ?
+%mor:	neg|not adv|even prep|with det:art|a (1)adj|little (1)adj|whole (1)n|lot
+	prep|of adj|red n|sauce adv|over pro:per|it ?
+----------------------------------------
+*** File "rachel6.cha": line 278.
+*MOT:	yeah a wee tiny knife .
+%mor:	co|yeah det:art|a (1)adj|wee (1)adj|tiny (1)n|knife .
+
+    Strings matched 3 times
+
+From file <rachel7.cha>
+----------------------------------------
+*** File "rachel7.cha": line 159.
+*MOT:	but real bad nausea .
+%mor:	conj|but (1)adj|real (1)adj|bad (1)n|nausea .
+----------------------------------------
+*** File "rachel7.cha": line 591.
+*INV:	and what does the first little piggy build his house out_of ?
+%mor:	coord|and pro:int|what v|do&3S det:art|the (1)adj|first (1)adj|little
+	(1)n|pig-DIM v|build det:poss|his n|house prep|out_of ?
+----------------------------------------
+*** File "rachel7.cha": line 602.
+*INV:	and what does the first little piggy xxx do to that set of (.)
+	what's that ?
+%mor:	coord|and pro:int|what mod|do&3S det:art|the (1)adj|first (1)adj|little
+	(1)n|pig-DIM v|do prep|to det:dem|that n|set prep|of
+	pro:int|what~poss|s pro:dem|that ?
+----------------------------------------
+*** File "rachel7.cha": line 619.
+*MOT:	the big bad wolf [=! laughs] .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "rachel7.cha": line 1130.
+*INV:	oh they are quite hard aren't they (.) oh they are (.) there lovely
+	wee shoes xxx I've never seen ones like that .
+%mor:	co|oh pro:sub|they cop|be&PRES adv|quite adj|hard
+	aux|be&PRES~neg|not pro:sub|they co|oh pro:sub|they cop|be&PRES
+	adv|there (1)adj|love&dn-LY (1)adj|wee (1)n|shoe-PL pro:sub|I~aux|have
+	adv|never part|see&PASTP det:num|one-PL prep|like pro:dem|that .
+----------------------------------------
+*** File "rachel7.cha": line 2804.
+*INV:	those nice little shoes ?
+%mor:	pro:dem|those (1)adj|nice (1)adj|little (1)n|shoe-PL ?
+----------------------------------------
+*** File "rachel7.cha": line 4332.
+*MOT:	maybe it would be like a good a lazy enough pet .
+%mor:	adv|maybe pro:per|it mod|will&COND cop|be prep|like det:art|a
+	adj|good det:art|a (1)adj|laze&dv-Y (1)adj|enough (1)n|pet .
+
+    Strings matched 7 times
+
+From file <rachel8.cha>
+----------------------------------------
+*** File "rachel8.cha": line 342.
+*MOT:	uhhuh it's just &-um different courses and that .
+%mor:	co|uhhuh pro:per|it~cop|be&3S (1)adj|just (1)adj|different (1)n|course-PL
+	coord|and pro:dem|that .
+----------------------------------------
+*** File "rachel8.cha": line 2246.
+*INV:	and you're going to have lovely sunny weather and you're going to
+	be able to splash about in it aren't you ?
+%mor:	coord|and pro:per|you~cop|be&PRES part|go-PRESP inf|to v|have
+	(1)adj|love&dn-LY (1)adj|sun&dn-Y (1)n|weather coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to cop|be adj|able inf|to
+	v|splash adv|about prep|in pro:per|it aux|be&PRES~neg|not
+	pro:per|you ?
+
+    Strings matched 2 times
+
+From file <rachel9.cha>
+----------------------------------------
+*** File "rachel9.cha": line 28.
+*MOT:	and my mum does want to take her grandchildren (.) apparently she
+	says it's really good (.) there's some real funny bits in it .
+%mor:	coord|and det:poss|my n|mum v|do&3S v|want inf|to v|take
+	pro:obj|her grand#n|child&PL adv|apparent&dadj-LY pro:sub|she
+	v|say-3S pro:per|it~aux|be&3S adv|real&dadj-LY adj|good
+	pro:exist|there~cop|be&3S qn|some (1)adj|real (1)adj|fun&dn-Y (1)n|bit-PL
+	prep|in pro:per|it .
+----------------------------------------
+*** File "rachel9.cha": line 190.
+*INV:	ah that's lovely that's (.) and have you got a nice new trouser
+	dungaree suit ?
+%mor:	co|ah pro:dem|that~cop|be&3S adj|love&dn-LY pro:rel|that~aux|be&3S
+	coord|and v|have pro:per|you v|get&PAST det:art|a (1)adj|nice (1)adj|new
+	(1)n|trouser n|dungaree n|suit ?
+----------------------------------------
+*** File "rachel9.cha": line 2690.
+*MOT:	are you a big hungry girl ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|big (1)adj|hungry (1)n|girl ?
+----------------------------------------
+*** File "rachel9.cha": line 2803.
+*INV:	do and a big big potato (.) a big baked potato ?
+%mor:	mod|do coord|and det:art|a (1)adj|big (1)adj|big (1)n|potato det:art|a
+	adj|big part|bake-PASTP n|potato ?
+
+    Strings matched 4 times
+

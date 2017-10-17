@@ -1,0 +1,365 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:24:58 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew04.cha": line 1332.
+*SIB:	and the big bad wolf takes him .
+%mor:	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|take-3S pro:obj|him
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew04.cha": line 1381.
+*MOT:	what does the big bad wolf do ?
+%mor:	pro:int|what v|do&3S det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|do ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew04.cha": line 1403.
+*SIB:	the three little pig run away from the big bad wolf .
+%mor:	det:art|the det:num|three adj|little n|pig part|run&PASTP adv|away
+	prep|from det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew05.cha": line 2012.
+*MOT:	little tiny butterfly .
+%mor:	(1)adj|little (1)adj|tiny (1)n|+n|butter+n|fly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew05.cha": line 2820.
+*MOT:	that's a pretty little horse .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|horse .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 155.
+*MOT:	ole rotten puppy .
+%mor:	(1)adj|ole (1)adj|rotten (1)n|puppy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 778.
+*MOT:	we have a little wooden thing they say is yours .
+%mor:	pro:sub|we v|have det:art|a (1)adj|little (1)adj|wooden (1)n|thing
+	pro:sub|they v|say aux|be&3S pro:poss|yours .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 1773.
+*MOT:	grouchy old Oscar isn't he ?
+%mor:	(1)adj|grouch&dn-Y (1)adj|old (1)n:prop|Oscar cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 2011.
+*MOT:	and a mean old grouchy Oscar's in there .
+%mor:	coord|and det:art|a adj|mean (1)adj|old (1)adj|grouch&dn-Y
+	(1)n:prop|Oscar~poss|s adv|in adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 3360.
+*MOT:	he's a busy little ole bear isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a adj|busy (1)adj|little (1)adj|ole (1)n|bear
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew06.cha": line 3509.
+*MOT:	+" possum child has a great big dog .
+%mor:	n|possum n|child v|have&3S det:art|a (1)adj|great (1)adj|big (1)n|dog .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew07.cha": line 393.
+*MOT:	I bet he didn't (be)cause you were sleepin(g) silly last night .
+%mor:	pro:sub|I v|bet&ZERO pro:sub|he mod|do&PAST~neg|not conj|because
+	pro:per|you aux|be&PAST part|sleep-PRESP (1)adj|silly (1)adj|last (1)n|night
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew07.cha": line 2391.
+*MOT:	that dress is about too little for you a little tiny bit .
+%mor:	pro:dem|that n|dress cop|be&3S adv|about adv|too adj|little
+	prep|for pro:per|you det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew07.cha": line 2474.
+*SIB:	it's different yellow hair .
+%mor:	pro:per|it~cop|be&3S (1)adj|different (1)adj|yellow (1)n|hair .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 82.
+*MOT:	Melissa here say hey to Papa on the telephone real quick Papa's
+	fixin(g) to leave .
+%mor:	n:prop|Melissa adv|here co|say co|hey prep|to n:prop|Papa prep|on
+	det:art|the n|telephone (1)adj|real (1)adj|quick (1)n:prop|Papa~aux|be&3S
+	part|fix-PRESP prep|to n|leave .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 321.
+*MOT:	you're a real curly head aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|curl&dv-Y (1)n|head
+	cop|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 1766.
+*SIB:	here's a big old table oops !
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|table co|oops
+	!
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 1963.
+*MOT:	+" then one day in his own good time Leo bloomed .
+%mor:	adv:tem|then det:num|one n|day prep|in det:poss|his (1)adj|own
+	(1)adj|good (1)n|time n:prop|Leo v|bloom-PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 2066.
+*MOT:	+" the pokey little puppy went for a walk and this is what he saw .
+%mor:	det:art|the (1)adj|pokey (1)adj|little (1)n|puppy v|go&PAST prep|for
+	det:art|a n|walk coord|and pro:dem|this cop|be&3S pro:int|what
+	pro:sub|he v|see&PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 2258.
+*SIB:	yep pokey little puppy .
+%mor:	co|yep (1)adj|pokey (1)adj|little (1)n|puppy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 2560.
+*MOT:	ten of (th)em my_goodness that pokey little puppy knew how to count
+	good didn't he ?
+%mor:	det:num|ten prep|of pro:obj|them co|my_goodness pro:rel|that
+	(1)adj|pokey (1)adj|little (1)n|puppy v|know&PAST adv:int|how inf|to v|count
+	adj|good mod|do&PAST~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 3102.
+*MOT:	<look over there he's sittin(g) in the little inner tube> [<] .
+%mor:	cop|look prep|over adv|there pro:sub|he~aux|be&3S part|sit-PRESP
+	prep|in det:art|the (1)adj|little (1)adj|inner (1)n|tube .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 3266.
+*MOT:	+" time to freshen up see how pretty you look with your brand new
+	hair ribbon ?
+%mor:	n|time inf|to v|freshen adv|up co|see adv:int|how adv|pretty
+	pro:per|you cop|look prep|with det:poss|your (1)adj|brand (1)adj|new
+	(1)n|hair n|ribbon ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew08.cha": line 3648.
+*SIB:	where's that big new toy ?
+%mor:	adv:int|where~cop|be&3S pro:dem|that (1)adj|big (1)adj|new (1)n|toy ?
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew09.cha": line 196.
+*MOT:	it's hard to pull that little tiny handle .
+%mor:	pro:per|it~cop|be&3S adj|hard inf|to v|pull pro:dem|that (1)adj|little
+	(1)adj|tiny (1)n|handle .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Lew/lew10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she06.cha": line 1736.
+*SIB:	l@l m@l n@l O p@l got big old fingers .
+%mor:	n:let|l n:let|m n:let|n n:prop|O n:let|p v|get&PAST (1)adj|big (1)adj|old
+	(1)n|finger-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she07.cha": line 923.
+*SIB:	I ain't puttin(g) old ugly pigs together .
+%mor:	pro:sub|I aux|be&1S~neg|not part|put-PRESP (1)adj|old (1)adj|ugly
+	(1)n|pig-PL adv|together .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she07.cha": line 1973.
+*SIB:	I throw a big bad wolf on yall .
+%mor:	pro:sub|I v|throw det:art|a (1)adj|big (1)adj|bad (1)n|wolf prep|on
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she07.cha": line 1978.
+*MOT:	a big bad wolf ?
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she07.cha": line 1981.
+*SIB:	the big bad wolf .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she08.cha": line 537.
+*SIB:	the same the same round man .
+%mor:	det:art|the adj|same det:art|the (1)adj|same (1)adj|round (1)n|man .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she08.cha": line 2033.
+*MOT:	a big old frog he's got big legs ain't he ?
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|frog pro:sub|he~aux|be&3S v|get&PAST
+	adj|big n|leg-PL aux|be&1S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she08.cha": line 2038.
+*SIB:	yeah big old frog .
+%mor:	co|yeah (1)adj|big (1)adj|old (1)n|frog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she08.cha": line 2041.
+*SIB:	a big stupid frog .
+%mor:	det:art|a (1)adj|big (1)adj|stupid (1)n|frog .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she10.cha": line 1067.
+*MOT:	are you gettin(g) it real tall Sally ?
+%mor:	cop|be&PRES pro:per|you n:gerund|get-PRESP pro:per|it (1)adj|real
+	(1)adj|tall (1)n:prop|Sally ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/She/she10.cha": line 2064.
+*MOT:	come on you don't need an ol(d) hot dog .
+%mor:	v|come prep|on pro:per|you mod|do~neg|not v|need det:art|a (1)adj|old
+	(1)adj|hot (1)n|dog .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha": line 2243.
+*MOT:	you have a little tiny baby don't ya ?
+%mor:	pro:per|you v|have det:art|a (1)adj|little (1)adj|tiny (1)n|baby
+	mod|do~neg|not pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha": line 2371.
+*MOT:	little tiny baby one .
+%mor:	(1)adj|little (1)adj|tiny (1)n|baby pro:indef|one .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha": line 2374.
+*SIB:	I got a little tiny baby one too .
+%mor:	pro:sub|I v|get&PAST det:art|a (1)adj|little (1)adj|tiny (1)n|baby
+	pro:indef|one post|too .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha": line 2944.
+*MOT:	he has a real good pen built for it .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|real (1)adj|good (1)n|pen v|build&PAST
+	prep|for pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow06.cha": line 4255.
+*MOT:	oh that is a real good job on that one .
+%mor:	co|oh pro:rel|that cop|be&3S det:art|a (1)adj|real (1)adj|good (1)n|job
+	prep|on pro:dem|that pro:indef|one .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 232.
+*MOT:	no it doesn't it's just pretend money .
+%mor:	co|no pro:per|it mod|do&3S~neg|not pro:per|it~aux|be&3S (1)adj|just
+	(1)adj|pretend (1)n|money .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 1191.
+*MOT:	a little tiny pen ?
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|pen ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 1194.
+*SIB:	yeah a little tiny pen a square pen .
+%mor:	co|yeah det:art|a (1)adj|little (1)adj|tiny (1)n|pen det:art|a adj|square
+	n|pen .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 2565.
+*MOT:	+" then one day in his own good time Leo bloomed !
+%mor:	adv:tem|then det:num|one n|day prep|in det:poss|his (1)adj|own
+	(1)adj|good (1)n|time n:prop|Leo v|bloom-PAST !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 2797.
+*MOT:	the pokey little puppy ?
+%mor:	det:art|the (1)adj|pokey (1)adj|little (1)n|puppy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 2808.
+*MOT:	+" the pokey little puppies (.) the pokey little puppy went for a
+	walk .
+%mor:	det:art|the (1)adj|pokey (1)adj|little (1)n|puppy-PL det:art|the (2)adj|pokey
+	(2)adj|little (2)n|puppy v|go&PAST prep|for det:art|a n|walk .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 3097.
+*MOT:	+" time to freshen up see how pretty you look in your brand new
+	hair ribbon .
+%mor:	n|time inf|to v|freshen adv|up co|see adv:int|how adv|pretty
+	pro:per|you cop|look prep|in det:poss|your (1)adj|brand (1)adj|new (1)n|hair
+	n|ribbon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 3183.
+*SIB:	yellow yellow yellow yellow .
+%mor:	adj|yellow (1)adj|yellow (1)adj|yellow (1)n|yellow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 4796.
+*MOT:	little bitty pinkie .
+%mor:	(1)adj|little (1)adj|bit&dn-Y (1)n|pink&dadj-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 4877.
+*MOT:	that's that pokey little puppy .
+%mor:	pro:dem|that~cop|be&3S pro:dem|that (1)adj|pokey (1)adj|little (1)n|puppy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow07.cha": line 4902.
+*MOT:	that's the pokey little puppy again .
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|pokey (1)adj|little (1)n|puppy
+	adv|again .
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow08.cha": line 2635.
+*MOT:	that's his tail that squirrel has got a great big tail bushy tail .
+%mor:	pro:dem|that~cop|be&3S det:poss|his n|tail pro:rel|that n|squirrel
+	aux|have&3S part|get&PASTP det:art|a (1)adj|great (1)adj|big (1)n|tail
+	adj|bush&dn-Y n|tail .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow08.cha": line 3327.
+*MOT:	+" I Grover the baseball player will throw a super fast ball I want
+	a baseball cap .
+%mor:	pro:sub|I n:prop|Grover det:art|the n|baseball n|play&dv-AGT
+	mod|will v|throw det:art|a (1)adj|super (1)adj|fast (1)n|ball pro:sub|I
+	v|want det:art|a n|baseball n|cap .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow09.cha": line 1949.
+*MOT:	he's a pretty tough little fellow Travis .
+%mor:	pro:sub|he~aux|be&3S det:art|a adj|pretty (1)adj|tough (1)adj|little
+	(1)n|fellow n:prop|Travis .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow09.cha": line 2099.
+*SIB:	where's my other neat old worker ?
+%mor:	adv:int|where~cop|be&3S co|my qn|other (1)adj|neat (1)adj|old
+	(1)n|work&dv-AGT ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow10.cha": line 2472.
+*SIB:	I'm makin(g) me a big old pen for my transformers .
+%mor:	pro:sub|I~aux|be&1S part|make-PRESP pro:obj|me det:art|a (1)adj|big
+	(1)adj|old (1)n|pen prep|for det:poss|my n|transform&dv-AGT-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow10.cha": line 2689.
+*SIB:	big square pen ?
+%mor:	(1)adj|big (1)adj|square (1)n|pen ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Post/Tow/tow10.cha": line 4353.
+*SIB:	oh I see a big old hat .
+%mor:	co|oh pro:sub|I v|see det:art|a (1)adj|big (1)adj|old (1)n|hat .
+
+    Strings matched 3 times
+

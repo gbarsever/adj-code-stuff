@@ -1,0 +1,55 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:07:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <debbie02.cha>
+
+    Strings matched 0 times
+
+From file <debbie03.cha>
+
+    Strings matched 0 times
+
+From file <debbie04.cha>
+----------------------------------------
+*** File "debbie04.cha": line 871.
+*CHI:	big fat girl (3.) .
+%mor:	(1)adj|big (1)adj|fat (1)n|girl .
+
+    Strings matched 1 times
+
+From file <debbie05.cha>
+
+    Strings matched 0 times
+
+From file <debbie06.cha>
+
+    Strings matched 0 times
+
+From file <debbie07.cha>
+
+    Strings matched 0 times
+
+From file <debbie08.cha>
+
+    Strings matched 0 times
+
+From file <debbie09.cha>
+
+    Strings matched 0 times
+
+From file <debbie10.cha>
+
+    Strings matched 0 times
+
+From file <debbie21.cha>
+----------------------------------------
+*** File "debbie21.cha": line 1249.
+*CHI:	he a nice little boy isn't he ?
+%mor:	pro:sub|he det:art|a (1)adj|nice (1)adj|little (1)n|boy cop|be&3S~neg|not
+	pro:sub|he ?
+
+    Strings matched 1 times
+

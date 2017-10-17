@@ -1,0 +1,2196 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:01:09 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <2-00-01b.cha>
+----------------------------------------
+*** File "2-00-01b.cha": line 485.
+*MOT:	his mother gave a great big grin showing all of her great big teeth  . [+ R] %snd:"2-00-01B-FR"_465101_470128
+%mor:	det:poss|his n|mother v|give&PAST det:art|a (1)adj|great (1)adj|big
+	(1)n|grin part|show-PRESP qn|all prep|of det:poss|her (2)adj|great (2)adj|big
+	(2)n|tooth&PL .
+----------------------------------------
+*** File "2-00-01b.cha": line 673.
+*MOT:	and giant Baby_bear had a splashing bath in a great big tub . [+ R] %snd:"2-00-01B-FR"_617038_621252
+%mor:	coord|and adj|giant n:prop|Baby_bear v|have&PAST det:art|a
+	part|splash-PRESP n|bath prep|in det:art|a (1)adj|great (1)adj|big (1)n|tub .
+----------------------------------------
+*** File "2-00-01b.cha": line 2545.
+*MOT:	a little curly tail . %snd:"2-00-01B-FR"_2124039_2126454
+%mor:	det:art|a (1)adj|little (1)adj|curl&dv-Y (1)n|tail .
+----------------------------------------
+*** File "2-00-01b.cha": line 2557.
+*MOT:	a little curly tail . %snd:"2-00-01B-FR"_2133171_2137234
+%mor:	det:art|a (1)adj|little (1)adj|curl&dv-Y (1)n|tail .
+
+    Strings matched 5 times
+
+From file <2-00-01v.cha>
+
+    Strings matched 0 times
+
+From file <2-00-02a.cha>
+----------------------------------------
+*** File "2-00-02a.cha": line 126.
+*MOT:	what's wrong with your big big house ? %snd:"2-00-02A-FR"_152709_154578
+%mor:	pro:int|what~aux|be&3S adj|wrong prep|with det:poss|your (1)adj|big
+	(1)adj|big (1)n|house ?
+
+    Strings matched 1 times
+
+From file <2-00-02b.cha>
+----------------------------------------
+*** File "2-00-02b.cha": line 2791.
+*MOT:	what a cute little nose . %snd:"2-00-02B-FR"_2627622_2629596
+%mor:	pro:int|what det:art|a (1)adj|cute (1)adj|little (1)n|nose .
+----------------------------------------
+*** File "2-00-02b.cha": line 3128.
+*MOT:	some nice green dragons . [+ R] %snd:"2-00-02B-FR"_2961033_2963122
+%mor:	qn|some (1)adj|nice (1)adj|green (1)n|dragon-PL .
+----------------------------------------
+*** File "2-00-02b.cha": line 3215.
+*MOT:	if a great big purple dragon comes to see me in the dark . [+ R] %snd:"2-00-02B-FR"_3004172_3007527
+%mor:	conj|if det:art|a adj|great (1)adj|big (1)adj|purple (1)n|dragon v|come-3S
+	inf|to v|see pro:obj|me prep|in det:art|the n|dark .
+
+    Strings matched 3 times
+
+From file <2-00-03a.cha>
+----------------------------------------
+*** File "2-00-03a.cha": line 2064.
+*MOT:	what is a friendly little bird . [+ R] %snd:"2-00-03A-FR"_1315251_1317527
+%mor:	pro:int|what cop|be&3S det:art|a (1)adj|friend&dn-LY (1)adj|little (1)n|bird
+	.
+
+    Strings matched 1 times
+
+From file <2-00-03b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-05a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-06b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-08a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-08b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-09a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-10a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-10b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-12a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-12b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-13b.cha>
+----------------------------------------
+*** File "2-00-13b.cha": line 1107.
+*MOT:	nice short grass over there then won't there be ? %snd:"2-00-13B-FR"_751514_753883
+%mor:	(1)adj|nice (1)adj|short (1)n|grass adv|over adv|there adv:tem|then
+	mod|will~neg|not adv|there cop|be ?
+----------------------------------------
+*** File "2-00-13b.cha": line 1216.
+*MOT:	and then we have a nice empty bin [>] . %snd:"2-00-13B-FR"_810902_812945
+%mor:	coord|and adv:tem|then pro:sub|we v|have det:art|a (1)adj|nice
+	(1)adj|empty (1)n|bin .
+
+    Strings matched 2 times
+
+From file <2-00-13v.cha>
+
+    Strings matched 0 times
+
+From file <2-00-15a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-15b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-16a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-16b.cha>
+----------------------------------------
+*** File "2-00-16b.cha": line 1006.
+*MOT:	yeah that's a big big shadow ,, isn't it ? %snd:"2-00-16B-FR"_846293_848417
+%mor:	co|yeah pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|shadow
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <2-00-18a.cha>
+----------------------------------------
+*** File "2-00-18a.cha": line 2001.
+*MOT:	+, happy second birthday . [+ R] %snd:"2-00-18A-FR"_1157759_1159420
+%mor:	(1)adj|happy (1)adj|second (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "2-00-18a.cha": line 2437.
+*MOT:	happy second birthday . [+ R] %snd:"2-00-18A-FR"_1393696_1395182
+%mor:	(1)adj|happy (1)adj|second (1)n|+n|birth+n|day .
+----------------------------------------
+*** File "2-00-18a.cha": line 2731.
+*MOT:	it's bear in the big blue house . %snd:"2-00-18A-FR"_1529469_1531222
+%mor:	pro:per|it~cop|be&3S n|bear prep|in det:art|the (1)adj|big (1)adj|blue
+	(1)n|house .
+----------------------------------------
+*** File "2-00-18a.cha": line 3731.
+*MOT:	he has a great big beak . [+ R] %snd:"2-00-18A-FR"_2108687_2110777
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|great (1)adj|big (1)n|beak .
+
+    Strings matched 4 times
+
+From file <2-00-18b.cha>
+----------------------------------------
+*** File "2-00-18b.cha": line 42.
+*MOT:	oh big big star . %snd:"2-00-18B-FR"_19039_21094
+%mor:	co|oh (1)adj|big (1)adj|big (1)n|star .
+----------------------------------------
+*** File "2-00-18b.cha": line 252.
+*MOT:	Fraser was sick last night ,, wasn't he ? %snd:"2-00-18B-FR"_184551_187105
+%mor:	n:prop|Fraser cop|be&PAST&13S (1)adj|sick (1)adj|last (1)n|night cm|cm cm|cm
+	cop|be&PAST&13S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "2-00-18b.cha": line 257.
+*MOT:	were you sick last night ? %snd:"2-00-18B-FR"_187655_190290
+%mor:	cop|be&PAST pro:per|you (1)adj|sick (1)adj|last (1)n|night ?
+----------------------------------------
+*** File "2-00-18b.cha": line 1034.
+*MOT:	big big stone . %snd:"2-00-18B-FR"_664230_665728
+%mor:	(1)adj|big (1)adj|big (1)n|stone .
+----------------------------------------
+*** File "2-00-18b.cha": line 2970.
+*MOT:	he has a great big beak . %snd:"2-00-18B-FR"_2239900_2241758
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|great (1)adj|big (1)n|beak .
+
+    Strings matched 5 times
+
+From file <2-00-19a.cha>
+----------------------------------------
+*** File "2-00-19a.cha": line 4294.
+*MOT:	he's getting a nice big hug so he's happy . %snd:"2-00-19A-FR"_3028514_3030882
+%mor:	pro:sub|he~aux|be&3S part|get-PRESP det:art|a (1)adj|nice (1)adj|big
+	(1)n|hug adv|so pro:sub|he~cop|be&3S adj|happy .
+
+    Strings matched 1 times
+
+From file <2-00-19b.cha>
+----------------------------------------
+*** File "2-00-19b.cha": line 4311.
+*MOT:	at least you weren't sick last night ,, were you ? %snd:"2-00-19B-FR"_3527811_3530272
+%mor:	prep|at n|least pro:per|you cop|be&PAST~neg|not (1)adj|sick (1)adj|last
+	(1)n|night cm|cm cm|cm cop|be&PAST pro:per|you ?
+
+    Strings matched 1 times
+
+From file <2-00-20b.cha>
+----------------------------------------
+*** File "2-00-20b.cha": line 358.
+*MOT:	Helen came along wearing a raincoat (.) a big rainhat and shiny red rubber boots . [+ R] %snd:"2-00-20B-FR"_221425_227068
+%mor:	n:prop|Helen v|come&PAST adv|along part|wear-PRESP det:art|a
+	n|+n|rain+n|coat det:art|a adj|big n|+n|rain+n|hat coord|and
+	(1)adj|shine&dn-Y (1)adj|red (1)n|rubber n|boot-PL .
+----------------------------------------
+*** File "2-00-20b.cha": line 680.
+*MOT:	maybe he's gonna give it to a good little boy . %snd:"2-00-20B-FR"_389711_391615
+%mor:	adv|maybe pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|give
+	pro:per|it prep|to det:art|a (1)adj|good (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "2-00-20b.cha": line 2318.
+*MOT:	a thin silky thread trailed from her body . [+ R] %snd:"2-00-20B-FR"_1568735_1572264
+%mor:	det:art|a (1)adj|thin (1)adj|silk&dn-Y (1)n|thread v|trail-PAST prep|from
+	det:poss|her n|body .
+
+    Strings matched 3 times
+
+From file <2-00-20v.cha>
+----------------------------------------
+*** File "2-00-20v.cha": line 4285.
+*MOT:	naughty naughty hedgehog ? %snd:"2-00-20V-FR"_2737418_2739392
+%mor:	(1)adj|naughty (1)adj|naughty (1)n|hedgehog ?
+
+    Strings matched 1 times
+
+From file <2-00-21a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-21b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-23b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-23v.cha>
+
+    Strings matched 0 times
+
+From file <2-00-24a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-24b.cha>
+----------------------------------------
+*** File "2-00-24b.cha": line 1445.
+*MOT:	nice big rainbow ,, isn't it ? %snd:"2-00-24B-FR"_1181542_1183411
+%mor:	(1)adj|nice (1)adj|big (1)n|+n|rain+n|bow cm|cm cm|cm cop|be&3S~neg|not
+	pro:per|it ?
+
+    Strings matched 1 times
+
+From file <2-00-26a.cha>
+----------------------------------------
+*** File "2-00-26a.cha": line 1445.
+*MOT:	scraping it's huge front legs together . [+ R] %snd:"2-00-26A-FR"_1280251_1282724
+%mor:	part|scrape-PRESP pro:per|it~cop|be&3S (1)adj|huge (1)adj|front (1)n|leg-PL
+	adv|together .
+
+    Strings matched 1 times
+
+From file <2-00-26b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-27b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-27v.cha>
+
+    Strings matched 0 times
+
+From file <2-00-28b.cha>
+
+    Strings matched 0 times
+
+From file <2-00-28v.cha>
+
+    Strings matched 0 times
+
+From file <2-00-30a.cha>
+
+    Strings matched 0 times
+
+From file <2-00-30b.cha>
+
+    Strings matched 0 times
+
+From file <2-01-00a.cha>
+
+    Strings matched 0 times
+
+From file <2-01-01b.cha>
+----------------------------------------
+*** File "2-01-01b.cha": line 1937.
+*FAT:	big red ball with yellow spots . %snd:"2-01-01B-FR"_1545910_1548034
+%mor:	(1)adj|big (1)adj|red (1)n|ball prep|with n|yellow n|spot-PL .
+
+    Strings matched 1 times
+
+From file <2-01-02a.cha>
+
+    Strings matched 0 times
+
+From file <2-01-02b.cha>
+
+    Strings matched 0 times
+
+From file <2-01-03a.cha>
+----------------------------------------
+*** File "2-01-03a.cha": line 913.
+*MOT:	we missed you baby bear they said giving him a great big hug . [+ R] %snd:"2-01-03A-FR"_668250_672824
+%mor:	pro:sub|we v|miss-PAST pro:per|you n|baby n|bear pro:sub|they
+	v|say&PAST n:gerund|give-PRESP pro:obj|him det:art|a (1)adj|great
+	(1)adj|big (1)n|hug .
+----------------------------------------
+*** File "2-01-03a.cha": line 2523.
+*MOT:	a big big rocket . %snd:"2-01-03A-FR"_2203004_2204559
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|rocket .
+----------------------------------------
+*** File "2-01-03a.cha": line 2700.
+*MOT:	he's got a long long neck ,, hasn't he ? %snd:"2-01-03A-FR"_2371118_2373799
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|long (1)adj|long
+	(1)n|neck cm|cm cm|cm aux|have&3S~neg|not pro:sub|he ?
+
+    Strings matched 3 times
+
+From file <2-01-03b.cha>
+----------------------------------------
+*** File "2-01-03b.cha": line 3085.
+*MOT:	I think it's a squirrel because that one's got a big bushy tail . %snd:"2-01-03B-FR"_3556238_3559140
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S det:art|a n|squirrel
+	conj|because pro:dem|that pro:indef|one~cop|be&3S v|get&PAST
+	det:art|a (1)adj|big (1)adj|bush&dn-Y (1)n|tail .
+
+    Strings matched 1 times
+
+From file <2-01-05a.cha>
+----------------------------------------
+*** File "2-01-05a.cha": line 2096.
+*MOT:	you having a nice little game over there with yourself , Fraser [% CHI] ? %snd:"2-01-05A-FR"_1925058_1928170
+%mor:	pro:per|you part|have-PRESP det:art|a (1)adj|nice (1)adj|little (1)n|game
+	adv|over adv|there prep|with pro:refl|yourself cm|cm n:prop|Fraser ?
+
+    Strings matched 1 times
+
+From file <2-01-05b.cha>
+----------------------------------------
+*** File "2-01-05b.cha": line 1340.
+*MOT:	Bear in the big blue house . %snd:"2-01-05B-FR"_1171471_1172992
+%mor:	n:prop|Bear prep|in det:art|the (1)adj|big (1)adj|blue (1)n|house .
+----------------------------------------
+*** File "2-01-05b.cha": line 2127.
+*MOT:	you having a nice little game over there with yourself , Fraser ? %snd:"2-01-05B-FR"_1925058_1928170
+%mor:	pro:per|you part|have-PRESP det:art|a (1)adj|nice (1)adj|little (1)n|game
+	adv|over adv|there prep|with pro:refl|yourself cm|cm n:prop|Fraser ?
+
+    Strings matched 2 times
+
+From file <2-01-06a.cha>
+----------------------------------------
+*** File "2-01-06a.cha": line 3282.
+*MOT:	you are such a cheeky little boy ,, aren't you ? %snd:"2-01-06A-FR"_2833960_2837478
+%mor:	pro:per|you cop|be&PRES qn|such det:art|a (1)adj|cheek&dn-Y (1)adj|little
+	(1)n|boy cm|cm cm|cm aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <2-01-06b.cha>
+
+    Strings matched 0 times
+
+From file <2-01-07a.cha>
+----------------------------------------
+*** File "2-01-07a.cha": line 2572.
+*MOT:	just a cheeky little Fraser  . %snd:"2-01-07A-FR"_2418322_2420017
+%mor:	adv|just det:art|a (1)adj|cheek&dn-Y (1)adj|little (1)n:prop|Fraser .
+
+    Strings matched 1 times
+
+From file <2-01-07b.cha>
+
+    Strings matched 0 times
+
+From file <2-01-09a.cha>
+----------------------------------------
+*** File "2-01-09a.cha": line 1162.
+*MOT:	it's a nice green dragon . %snd:"2-01-09A-FR"_813718_815215
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|green (1)n|dragon .
+----------------------------------------
+*** File "2-01-09a.cha": line 1185.
+*MOT:	and I will not get a fright in the middle of the night if a great big purple dragon comes to see me in the dark . [+ R] %snd:"2-01-09A-FR"_827141_834572
+%mor:	coord|and pro:sub|I mod|will neg|not v|get det:art|a n|fright
+	prep|in det:art|the n|middle prep|of det:art|the n|night conj|if
+	det:art|a adj|great (1)adj|big (1)adj|purple (1)n|dragon v|come-3S inf|to
+	v|see pro:obj|me prep|in det:art|the n|dark .
+
+    Strings matched 2 times
+
+From file <2-01-09b.cha>
+
+    Strings matched 0 times
+
+From file <2-01-10b.cha>
+----------------------------------------
+*** File "2-01-10b.cha": line 3489.
+*MOT:	ah look at them fluffy yellow chicks . %snd:"2-01-10B-FR"_3387928_3390854
+%mor:	co|ah cop|look prep|at pro:obj|them (1)adj|fluff&dn-Y (1)adj|yellow
+	(1)n|chick-PL .
+
+    Strings matched 1 times
+
+From file <2-01-10v.cha>
+----------------------------------------
+*** File "2-01-10v.cha": line 2043.
+*MOT:	big red dragon . %snd:"2-01-10V-FR"_1434159_1435924
+%mor:	(1)adj|big (1)adj|red (1)n|dragon .
+----------------------------------------
+*** File "2-01-10v.cha": line 3396.
+*INV:	naughty [?] red dragon book . %snd:"2-01-10V-FR"_2569677_2572243
+%mor:	(1)adj|naughty (1)adj|red (1)n|dragon n|book .
+
+    Strings matched 2 times
+
+From file <2-02-01b.cha>
+----------------------------------------
+*** File "2-02-01b.cha": line 741.
+*MOT:	lovely warm day . %snd:"2-02-01B-FR"_698777_700623
+%mor:	(1)adj|love&dn-LY (1)adj|warm (1)n|day .
+
+    Strings matched 1 times
+
+From file <2-02-01v.cha>
+----------------------------------------
+*** File "2-02-01v.cha": line 1280.
+*INV:	why don't you make a big house for the big big giant to live in ? %snd:"2-02-01V-FR"_809955_812881
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|make det:art|a adj|big
+	n|house prep|for det:art|the (1)adj|big (1)adj|big (1)n|giant inf|to adj|live
+	adv|in ?
+----------------------------------------
+*** File "2-02-01v.cha": line 2009.
+*INV:	a big tall beanstalk ? %snd:"2-02-01V-FR"_1207904_1209855
+%mor:	det:art|a (1)adj|big (1)adj|tall (1)n|+n|bean+n|stalk ?
+
+    Strings matched 2 times
+
+From file <2-02-02a.cha>
+----------------------------------------
+*** File "2-02-02a.cha": line 996.
+*MOT:	with a little green ball on the end . %snd:"2-02-02A-FR"_689046_690637
+%mor:	prep|with det:art|a (1)adj|little (1)adj|green (1)n|ball prep|on det:art|the
+	n|end .
+----------------------------------------
+*** File "2-02-02a.cha": line 1240.
+*MOT:	later the toys found a lovely little spot by the pond . [+ R] %snd:"2-02-02A-FR"_822519_825875
+%mor:	adv|later det:art|the n|toy-PL v|find&PAST det:art|a (1)adj|love&dn-LY
+	(1)adj|little (1)n|spot prep|by det:art|the n|pond .
+----------------------------------------
+*** File "2-02-02a.cha": line 1883.
+*MOT:	Bear in the big blue house . %snd:"2-02-02A-FR"_1222975_1224543
+%mor:	n:prop|Bear prep|in det:art|the (1)adj|big (1)adj|blue (1)n|house .
+
+    Strings matched 3 times
+
+From file <2-02-02b.cha>
+
+    Strings matched 0 times
+
+From file <2-02-04a.cha>
+----------------------------------------
+*** File "2-02-04a.cha": line 1730.
+*MOT:	funny little noise you're making . %snd:"2-02-04A-FR"_1264201_1266465
+%mor:	(1)adj|fun&dn-Y (1)adj|little (1)n|noise pro:per|you~aux|be&PRES
+	part|make-PRESP .
+
+    Strings matched 1 times
+
+From file <2-02-04b.cha>
+----------------------------------------
+*** File "2-02-04b.cha": line 5120.
+*MOT:	it's a big white van . %snd:"2-02-04B-FR"_3921242_3922832
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|white (1)n|van .
+
+    Strings matched 1 times
+
+From file <2-02-05a.cha>
+----------------------------------------
+*** File "2-02-05a.cha": line 1981.
+*MOT:	especially not cheeky little boys like you . %snd:"2-02-05A-FR"_1162947_1164735
+%mor:	adv|especial&dadj-LY neg|not (1)adj|cheek&dn-Y (1)adj|little (1)n|boy-PL
+	prep|like pro:per|you .
+----------------------------------------
+*** File "2-02-05a.cha": line 2643.
+*MOT:	good little mouse . %snd:"2-02-05A-FR"_1549785_1551247
+%mor:	(1)adj|good (1)adj|little (1)n|mouse .
+----------------------------------------
+*** File "2-02-05a.cha": line 4799.
+*MOT:	didn't you have a nice long sleep in the car ? %snd:"2-02-05A-FR"_2996201_2998337
+%mor:	mod|do&PAST~neg|not pro:per|you v|have det:art|a (1)adj|nice (1)adj|long
+	(1)n|sleep prep|in det:art|the n|car ?
+
+    Strings matched 3 times
+
+From file <2-02-05b.cha>
+
+    Strings matched 0 times
+
+From file <2-02-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-02-06b.cha>
+----------------------------------------
+*** File "2-02-06b.cha": line 3855.
+*MOT:	that's a nice big kiss . %snd:"2-02-06B-FR"_2369311_2370960
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|kiss .
+
+    Strings matched 1 times
+
+From file <2-03-00a.cha>
+
+    Strings matched 0 times
+
+From file <2-03-00b.cha>
+
+    Strings matched 0 times
+
+From file <2-03-01b.cha>
+
+    Strings matched 0 times
+
+From file <2-03-01v.cha>
+----------------------------------------
+*** File "2-03-01v.cha": line 587.
+*INV:	a cute little rabbit . %snd:"2-03-01V-FR"_363182_364877
+%mor:	det:art|a (1)adj|cute (1)adj|little (1)n|rabbit .
+
+    Strings matched 1 times
+
+From file <2-03-03a.cha>
+----------------------------------------
+*** File "2-03-03a.cha": line 152.
+*MOT:	little black cat . %snd:"2-03-03A-FR"_71426_72053
+%mor:	(1)adj|little (1)adj|black (1)n|cat .
+----------------------------------------
+*** File "2-03-03a.cha": line 482.
+*MOT:	and she's got little yellow rubber duck ,, hasn't she ? %snd:"2-03-03A-FR"_241648_244934
+%mor:	coord|and pro:sub|she~aux|be&3S v|get&PAST (1)adj|little (1)adj|yellow
+	(1)n|rubber n|duck cm|cm cm|cm aux|have&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "2-03-03a.cha": line 1616.
+*MOT:	and big black shadow for that rabbit . %snd:"2-03-03A-FR"_868296_870641
+%mor:	coord|and (1)adj|big (1)adj|black (1)n|shadow prep|for pro:dem|that n|rabbit
+	.
+----------------------------------------
+*** File "2-03-03a.cha": line 1639.
+*MOT:	and he's got a little black nose . %snd:"2-03-03A-FR"_879420_881672
+%mor:	coord|and pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|little
+	(1)adj|black (1)n|nose .
+----------------------------------------
+*** File "2-03-03a.cha": line 3742.
+*MOT:	little pink dragon in the bed ! %snd:"2-03-03A-FR"_2173473_2175400
+%mor:	(1)adj|little (1)adj|pink (1)n|dragon prep|in det:art|the n|bed !
+----------------------------------------
+*** File "2-03-03a.cha": line 3764.
+*MOT:	some nice green dragons . [+ R] %snd:"2-03-03A-FR"_2186614_2188831
+%mor:	qn|some (1)adj|nice (1)adj|green (1)n|dragon-PL .
+
+    Strings matched 6 times
+
+From file <2-03-03b.cha>
+
+    Strings matched 0 times
+
+From file <2-03-05a.cha>
+----------------------------------------
+*** File "2-03-05a.cha": line 787.
+*MOT:	and you were up late last night ,, weren't you ? %snd:"2-03-05A-FR"_423365_425721
+%mor:	coord|and pro:per|you cop|be&PAST adv|up (1)adj|late (1)adj|last (1)n|night
+	cm|cm cm|cm cop|be&PAST~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <2-03-05b.cha>
+
+    Strings matched 0 times
+
+From file <2-03-06a.cha>
+----------------------------------------
+*** File "2-03-06a.cha": line 433.
+*MOT:	is that bear in the big blue house ? %snd:"2-03-06A-FR"_245498_247785
+%mor:	cop|be&3S pro:dem|that n|bear prep|in det:art|the (1)adj|big (1)adj|blue
+	(1)n|house ?
+----------------------------------------
+*** File "2-03-06a.cha": line 842.
+*MOT:	little black cat . %snd:"2-03-06A-FR"_525855_526993
+%mor:	(1)adj|little (1)adj|black (1)n|cat .
+
+    Strings matched 2 times
+
+From file <2-03-06b.cha>
+----------------------------------------
+*** File "2-03-06b.cha": line 3100.
+*MOT:	you're a big heavy lump . %snd:"2-03-06b-FR"_2191609_2192874
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|big (1)adj|heavy (1)n|lump .
+----------------------------------------
+*** File "2-03-06b.cha": line 4857.
+*MOT:	who's that cute little boy ? %snd:"2-03-06b-FR"_3271840_3273524
+%mor:	pro:int|who~cop|be&3S pro:dem|that (1)adj|cute (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "2-03-06b.cha": line 4986.
+*MOT:	and you're a big heavy lump . %snd:"2-03-06b-FR"_3341072_3342604
+%mor:	coord|and pro:per|you~cop|be&PRES det:art|a (1)adj|big (1)adj|heavy
+	(1)n|lump .
+----------------------------------------
+*** File "2-03-06b.cha": line 5003.
+*MOT:	big heavy lump . %snd:"2-03-06b-FR"_3350129_3351186
+%mor:	(1)adj|big (1)adj|heavy (1)n|lump .
+----------------------------------------
+*** File "2-03-06b.cha": line 5009.
+*MOT:	are you a big heavy lump . %snd:"2-03-06b-FR"_3352523_3353591
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|big (1)adj|heavy (1)n|lump .
+----------------------------------------
+*** File "2-03-06b.cha": line 5019.
+*MOT:	are you a big heavy lump ? %snd:"2-03-06b-FR"_3356756_3357835
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|big (1)adj|heavy (1)n|lump ?
+
+    Strings matched 6 times
+
+From file <2-04-01b.cha>
+----------------------------------------
+*** File "2-04-01b.cha": line 1815.
+*MOT:	this poor little teddy+bear's sad . %snd:"2-04-01B-FR"_979437_981608
+%mor:	pro:dem|this (1)adj|poor (1)adj|little (1)n|+n|teddy+n|bear~poss|s adj|sad .
+----------------------------------------
+*** File "2-04-01b.cha": line 4486.
+*MOT:	you're a messy cheeky boy . %snd:"2-04-01B-FR"_2573988_2575834
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|mess&dn-Y (1)adj|cheek&dn-Y
+	(1)n|boy .
+----------------------------------------
+*** File "2-04-01b.cha": line 4945.
+*MOT:	like tiny little diamonds . %snd:"2-04-01B-FR"_2886455_2888197
+%mor:	prep|like (1)adj|tiny (1)adj|little (1)n|diamond-PL .
+----------------------------------------
+*** File "2-04-01b.cha": line 4951.
+*MOT:	and the shiny yellow moon looks down on us below . %snd:"2-04-01B-FR"_2890196_2893772
+%mor:	coord|and det:art|the (1)adj|shine&dn-Y (1)adj|yellow (1)n|moon cop|look-3S
+	adv|down prep|on pro:obj|us adv|below .
+
+    Strings matched 4 times
+
+From file <2-04-02a.cha>
+
+    Strings matched 0 times
+
+From file <2-04-02b.cha>
+----------------------------------------
+*** File "2-04-02b.cha": line 732.
+*FAT:	poor old Daddy got to go to work . %snd:"2-04-02B-FR"_434167_435967
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Daddy v|get&PAST inf|to v|go inf|to v|work
+	.
+
+    Strings matched 1 times
+
+From file <2-04-03v.cha>
+----------------------------------------
+*** File "2-04-03v.cha": line 1532.
+*INV:	this is like a big long snake ,, isn't it ? %snd:"2-04-03V-FR"_866568_868669
+%mor:	pro:dem|this cop|be&3S co|like det:art|a (1)adj|big (1)adj|long (1)n|snake
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "2-04-03v.cha": line 1540.
+*INV:	big long snake . %snd:"2-04-03V-FR"_871139_874111
+%mor:	(1)adj|big (1)adj|long (1)n|snake .
+----------------------------------------
+*** File "2-04-03v.cha": line 1663.
+*INV:	ooh it's a big long [/] long puzzle ,, isn't it ? %snd:"2-04-03V-FR"_950463_953423
+%mor:	v|ooh pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|long (1)n|puzzle
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "2-04-03v.cha": line 1948.
+*MOT:	it's got a big bushy tail ,, hasn't it ? %snd:"2-04-03V-FR"_1149898_1151569
+%mor:	pro:per|it~aux|be&3S v|get&PAST det:art|a (1)adj|big (1)adj|bush&dn-Y
+	(1)n|tail cm|cm cm|cm aux|have&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "2-04-03v.cha": line 4782.
+*INV:	have I got big puffy hair ? %snd:"2-04-03V-FR"_2800409_2801768
+%mor:	v|have pro:sub|I v|get&PAST (1)adj|big (1)adj|puff&dn-Y (1)n|hair ?
+
+    Strings matched 5 times
+
+From file <2-04-04a.cha>
+
+    Strings matched 0 times
+
+From file <2-04-04b.cha>
+----------------------------------------
+*** File "2-04-04b.cha": line 1090.
+*MOT:	you drew a big long [/] long neck ? %snd:"2-04-04B-FR"_891168_893177
+%mor:	pro:per|you v|draw&PAST det:art|a (1)adj|big (1)adj|long (1)n|neck ?
+----------------------------------------
+*** File "2-04-04b.cha": line 2604.
+*MOT:	<the tiger's got> [>] big sharp teeth ? %snd:"2-04-04B-FR"_2154332_2156306
+%mor:	det:art|the n|tiger~poss|s v|get&PAST (1)adj|big (1)adj|sharp (1)n|tooth&PL
+	?
+
+    Strings matched 2 times
+
+From file <2-04-05a.cha>
+
+    Strings matched 0 times
+
+From file <2-04-05b.cha>
+
+    Strings matched 0 times
+
+From file <2-04-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-04-06b.cha>
+----------------------------------------
+*** File "2-04-06b.cha": line 77.
+*MOT:	look at that big grey cloud over there , Fraser [% child] . %snd:"2-04-06B-FR"_37441_39984
+%mor:	cop|look prep|at pro:dem|that (1)adj|big (1)adj|grey (1)n|cloud adv|over
+	adv|there cm|cm n:prop|Fraser .
+----------------------------------------
+*** File "2-04-06b.cha": line 1589.
+*MOT:	are you a nosey little boy ? %snd:"2-04-06B-FR"_1087391_1088970
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|nosey (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "2-04-06b.cha": line 2405.
+*MOT:	then Mrpotato pulled out a brand new white smock . %snd:"2-04-06B-FR"_1504462_1508270
+%mor:	adv:tem|then n:prop|Mrpotato v|pull-PAST prep|out det:art|a
+	adj|brand (1)adj|new (1)adj|white (1)n|smock .
+----------------------------------------
+*** File "2-04-06b.cha": line 3563.
+*MOT:	look at that big grey cloud over there , Fraser [% child] .
+%mor:	cop|look prep|at pro:dem|that (1)adj|big (1)adj|grey (1)n|cloud adv|over
+	adv|there cm|cm n:prop|Fraser .
+
+    Strings matched 4 times
+
+From file <2-05-00a.cha>
+----------------------------------------
+*** File "2-05-00a.cha": line 5805.
+*MOT:	<giving him a great big hug> [>] . [+ R] %snd:"2-05-00A-FR"_3387828_3389965
+%mor:	part|give-PRESP pro:obj|him det:art|a (1)adj|great (1)adj|big (1)n|hug .
+
+    Strings matched 1 times
+
+From file <2-05-00b.cha>
+----------------------------------------
+*** File "2-05-00b.cha": line 5490.
+*MOT:	he's got a green hat and blue gloves and a big red nose . %snd:"2-05-00B-FR"_3010702_3013987
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a n|green n|hat
+	coord|and adj|blue n|glove-PL coord|and det:art|a (1)adj|big (1)adj|red
+	(1)n|nose .
+
+    Strings matched 1 times
+
+From file <2-05-01b.cha>
+
+    Strings matched 0 times
+
+From file <2-05-01v.cha>
+----------------------------------------
+*** File "2-05-01v.cha": line 4236.
+*INV:	he has got a big long [/] long neck . %snd:"2-05-01V-FR"_2395844_2397760
+%mor:	pro:sub|he aux|have&3S part|get&PASTP det:art|a (1)adj|big (1)adj|long
+	(1)n|neck .
+----------------------------------------
+*** File "2-05-01v.cha": line 4867.
+*INV:	what is a friendly little bird (.) with a +... [+ IN] %snd:"2-05-01V-FR"_2680116_2682658
+%mor:	pro:int|what cop|be&3S det:art|a (1)adj|friend&dn-LY (1)adj|little (1)n|bird
+	prep|with det:art|a +...
+
+    Strings matched 2 times
+
+From file <2-05-03a.cha>
+----------------------------------------
+*** File "2-05-03a.cha": line 1698.
+*MOT:	he's a nice soft lion ,, isn't he ? %snd:"2-05-03A-FR"_890059_891928
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|soft (1)n|lion cm|cm cm|cm
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "2-05-03a.cha": line 1764.
+*MOT:	that's (be)cause he's a big cuddly toy . %snd:"2-05-03A-FR"_924030_925632
+%mor:	pro:dem|that~cop|be&3S conj|because pro:sub|he~aux|be&3S det:art|a
+	(1)adj|big (1)adj|cuddle&dv-Y (1)n|toy .
+
+    Strings matched 2 times
+
+From file <2-05-03b.cha>
+----------------------------------------
+*** File "2-05-03b.cha": line 1167.
+*FAT:	little <sloppy kiss> [>] . %snd:"2-05-03B-FR"_757010_758856
+%mor:	(1)adj|little (1)adj|slop&dn-Y (1)n|kiss .
+----------------------------------------
+*** File "2-05-03b.cha": line 4561.
+*MOT:	that's a big hot air balloon . %snd:"2-05-03B-FR"_2826616_2828822
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|hot (1)n|air n|balloon .
+----------------------------------------
+*** File "2-05-03b.cha": line 4710.
+*MOT:	a yellow hot air balloon . %snd:"2-05-03B-FR"_2918408_2920207
+%mor:	det:art|a (1)adj|yellow (1)adj|hot (1)n|air n|balloon .
+
+    Strings matched 3 times
+
+From file <2-05-04a.cha>
+----------------------------------------
+*** File "2-05-04a.cha": line 316.
+*MOT:	bouncy bouncy bouncy bouncy fun fun fun fun fun . %snd:"2-05-04A-FR"_210350_212869
+%mor:	adj|bounce&dv-Y adj|bounce&dv-Y (1)adj|bounce&dv-Y (1)adj|bounce&dv-Y
+	(1)n|fun n|fun n|fun n|fun n|fun .
+----------------------------------------
+*** File "2-05-04a.cha": line 1101.
+*MOT:	super strong boy you are ,, aren't <you> [>] ? %snd:"2-05-04A-FR"_677039_678885
+%mor:	(1)adj|super (1)adj|strong (1)n|boy pro:per|you cop|be&PRES cm|cm cm|cm
+	aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 2 times
+
+From file <2-05-04b.cha>
+
+    Strings matched 0 times
+
+From file <2-05-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-05-06b.cha>
+----------------------------------------
+*** File "2-05-06b.cha": line 1198.
+*MOT:	<bear in> [>] the big blue house ? %snd:"2-05-06B-FR"_969077_970783
+%mor:	n|bear prep|in det:art|the (1)adj|big (1)adj|blue (1)n|house ?
+----------------------------------------
+*** File "2-05-06b.cha": line 1205.
+*MOT:	bear in the big blue house ? %snd:"2-05-06B-FR"_971201_972629
+%mor:	n|bear prep|in det:art|the (1)adj|big (1)adj|blue (1)n|house ?
+----------------------------------------
+*** File "2-05-06b.cha": line 3538.
+*MOT:	and Lala's got that funny pointy thing ,, hasn't she ? %snd:"2-05-06B-FR"_2566097_2568884
+%mor:	coord|and n:prop|Lala~aux|be&3S part|get&PASTP det:dem|that
+	(1)adj|fun&dn-Y (1)adj|point&dn-Y (1)n|thing cm|cm cm|cm aux|have&3S~neg|not
+	pro:sub|she ?
+----------------------------------------
+*** File "2-05-06b.cha": line 5279.
+*MOT:	his mother gave a great big grin . [+ R] %snd:"2-05-06B-FR"_3660416_3662656
+%mor:	det:poss|his n|mother v|give&PAST det:art|a (1)adj|great (1)adj|big
+	(1)n|grin .
+----------------------------------------
+*** File "2-05-06b.cha": line 5304.
+*MOT:	his mother gave a <great big grin> [>] showing all her great big teeth . [+ R] %snd:"2-05-06B-FR"_3671491_3675079
+%mor:	det:poss|his n|mother v|give&PAST det:art|a (1)adj|great (1)adj|big
+	(1)n|grin part|show-PRESP qn|all det:poss|her (2)adj|great (2)adj|big
+	(2)n|tooth&PL .
+
+    Strings matched 6 times
+
+From file <2-06-01a.cha>
+----------------------------------------
+*** File "2-06-01a.cha": line 2574.
+*MOT:	nice big hug . %snd:"2-06-01A-FR"_1574658_1575587
+%mor:	(1)adj|nice (1)adj|big (1)n|hug .
+----------------------------------------
+*** File "2-06-01a.cha": line 5241.
+*MOT:	he's got little green spots ,, hasn't he ? %snd:"2-06-01A-FR"_3177138_3178554
+%mor:	pro:sub|he~aux|be&3S v|get&PAST (1)adj|little (1)adj|green (1)n|spot-PL
+	cm|cm cm|cm aux|have&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <2-06-01b.cha>
+
+    Strings matched 0 times
+
+From file <2-06-02a.cha>
+----------------------------------------
+*** File "2-06-02a.cha": line 4365.
+*MOT:	dark brown eyes . %snd:"2-06-02A-FR"_2862526_2863745
+%mor:	(1)adj|dark (1)adj|brown (1)n|eye-PL .
+
+    Strings matched 1 times
+
+From file <2-06-02b.cha>
+----------------------------------------
+*** File "2-06-02b.cha": line 2044.
+*MOT:	is that its big long trunk ? %snd:"2-06-02B-FR"_1172139_1173706
+%mor:	cop|be&3S pro:rel|that det:poss|its (1)adj|big (1)adj|long (1)n|trunk ?
+----------------------------------------
+*** File "2-06-02b.cha": line 2655.
+*MOT:	who wears that green stripy top ? %snd:"2-06-02B-FR"_1487952_1489786
+%mor:	pro:int|who v|wear-3S det:dem|that (1)adj|green (1)adj|stripe&dn-Y (1)n|top
+	?
+
+    Strings matched 2 times
+
+From file <2-06-03a.cha>
+----------------------------------------
+*** File "2-06-03a.cha": line 4588.
+*FAT:	nice clean teethies . %snd:"2-06-03A-FR"_3055383_3056787
+%mor:	(1)adj|nice (1)adj|clean (1)n|tooth&PL-DIM-PL .
+----------------------------------------
+*** File "2-06-03a.cha": line 5687.
+*FAT:	Mr_Bear was just coming in with a big square parcel . [+ R] %snd:"2-06-03A-FR"_3554441_3557483
+%mor:	n:prop|Mr_Bear cop|be&PAST&13S adv|just part|come-PRESP adv|in
+	prep|with det:art|a (1)adj|big (1)adj|square (1)n|parcel .
+
+    Strings matched 2 times
+
+From file <2-06-03b.cha>
+----------------------------------------
+*** File "2-06-03b.cha": line 2481.
+*MOT:	cheeky little monster . %snd:"2-06-03B-FR"_1614821_1616701
+%mor:	(1)adj|cheek&dn-Y (1)adj|little (1)n|monster .
+----------------------------------------
+*** File "2-06-03b.cha": line 3091.
+*MOT:	look at that cute little boy . %snd:"2-06-03B-FR"_2097977_2099881
+%mor:	cop|look prep|at pro:dem|that (1)adj|cute (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "2-06-03b.cha": line 3494.
+*MOT:	you [<] are a cheeky little monkey ,, aren't you ?  %snd:"2-06-03B-FR"_2346713_2349279
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|cheek&dn-Y (1)adj|little
+	(1)n|monkey cm|cm cm|cm aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 3 times
+
+From file <2-06-04a.cha>
+----------------------------------------
+*** File "2-06-04a.cha": line 1381.
+*MOT:	those little tiny ants . %snd:"2-06-04A-FR"_793716_795202
+%mor:	pro:dem|those (1)adj|little (1)adj|tiny (1)n|ant-PL .
+----------------------------------------
+*** File "2-06-04a.cha": line 4763.
+*MOT:	big rainy rain+cloud ? %snd:"2-06-04A-FR"_2931732_2934216
+%mor:	(1)adj|big (1)adj|rain&dn-Y (1)n|+n|rain+n|cloud ?
+
+    Strings matched 2 times
+
+From file <2-06-04b.cha>
+
+    Strings matched 0 times
+
+From file <2-06-06b.cha>
+
+    Strings matched 0 times
+
+From file <2-06-08v.cha>
+----------------------------------------
+*** File "2-06-08v.cha": line 1322.
+*INV:	it's a big long track . %snd:"2-06-08V-FR"_788093_790601
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|long (1)n|track .
+----------------------------------------
+*** File "2-06-08v.cha": line 1334.
+*INV:	and a bigger longer track . %snd:"2-06-08V-FR"_799529_801862
+%mor:	coord|and det:art|a (1)adj|big-CP (1)adj|long-CP (1)n|track .
+----------------------------------------
+*** File "2-06-08v.cha": line 1340.
+*INV:	a bigger longer track . %snd:"2-06-08V-FR"_805102_806692
+%mor:	det:art|a (1)adj|big-CP (1)adj|long-CP (1)n|track .
+----------------------------------------
+*** File "2-06-08v.cha": line 1944.
+*MOT:	on this big long track somewhere . %snd:"2-06-08V-FR"_1262477_1264358
+%mor:	prep|on pro:dem|this (1)adj|big (1)adj|long (1)n|track n|somewhere .
+----------------------------------------
+*** File "2-06-08v.cha": line 1984.
+*INV:	(be)cause that taxi thing goes in the big yellow thing . %snd:"2-06-08V-FR"_1290097_1292907
+%mor:	conj|because pro:dem|that n|taxi n|thing v|go-3S prep|in
+	det:art|the (1)adj|big (1)adj|yellow (1)n|thing .
+----------------------------------------
+*** File "2-06-08v.cha": line 1989.
+*INV:	<is there a big yellow thing> [>] ? %snd:"2-06-08V-FR"_1293220_1294335
+%mor:	cop|be&3S adv|there det:art|a (1)adj|big (1)adj|yellow (1)n|thing ?
+
+    Strings matched 6 times
+
+From file <2-07-00v.cha>
+----------------------------------------
+*** File "2-07-00v.cha": line 1231.
+*INV:	<not a bad> [<] little footballer . %snd:"2-07-00V-FR"_623687_625857
+%mor:	neg|not det:art|a (1)adj|bad (1)adj|little (1)n|+n|foot+n|baller .
+----------------------------------------
+*** File "2-07-00v.cha": line 2498.
+*INV:	so we've got a lovely big track . %snd:"2-07-00V-FR"_1397554_1398877
+%mor:	adv|so pro:sub|we~aux|have part|get&PASTP det:art|a (1)adj|love&dn-LY
+	(1)adj|big (1)n|track .
+----------------------------------------
+*** File "2-07-00v.cha": line 2503.
+*INV:	a lovely big town . %snd:"2-07-00V-FR"_1398831_1399992
+%mor:	det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|town .
+
+    Strings matched 3 times
+
+From file <2-07-02a.cha>
+----------------------------------------
+*** File "2-07-02a.cha": line 2309.
+*MOT:	and you got some nice new books as well for christmas ,, didn't you
+	? %snd:"2-07-02A-FR"_1500048_1502869
+%mor:	coord|and pro:per|you v|get&PAST qn|some (1)adj|nice (1)adj|new (1)n|book-PL
+	adv|as adv|well prep|for n|christmas cm|cm cm|cm mod|do&PAST~neg|not
+	pro:per|you ?
+----------------------------------------
+*** File "2-07-02a.cha": line 4973.
+*MOT:	that's when Jwww [% brother] was a little boy and Fraser was
+	an even littler boy . %snd:"2-07-02A-FR"_3419212_3422114
+%mor:	pro:dem|that~cop|be&3S conj|when n:prop|Jwww cop|be&PAST&13S
+	det:art|a adj|little n|boy coord|and n:prop|Fraser cop|be&PAST&13S
+	det:art|a (1)adj|even (1)adj|little-CP (1)n|boy .
+
+    Strings matched 2 times
+
+From file <2-07-02b.cha>
+----------------------------------------
+*** File "2-07-02b.cha": line 73.
+*MOT:	so when you see people you have to say happy new year . %snd:"2-07-02B-FR"_37603_40273
+%mor:	co|so conj|when pro:per|you v|see n|person&PL pro:per|you v|have
+	inf|to v|say (1)adj|happy (1)adj|new (1)n|year .
+----------------------------------------
+*** File "2-07-02b.cha": line 81.
+*MOT:	say happy new year . %snd:"2-07-02B-FR"_42804_44011
+%mor:	v|say (1)adj|happy (1)adj|new (1)n|year .
+----------------------------------------
+*** File "2-07-02b.cha": line 292.
+*MOT:	Jwww'll [% brother]  be very tired this morning (be)cause he went to bed really late last night . %snd:"2-07-02B-FR"_175225_181308
+%mor:	n:prop|Jwww~mod|will cop|be adv|very v|tire-PAST pro:dem|this
+	n|morning conj|because pro:sub|he v|go&PAST prep|to n|bed
+	adv|real&dadj-LY (1)adj|late (1)adj|last (1)n|night .
+
+    Strings matched 3 times
+
+From file <2-07-04a.cha>
+----------------------------------------
+*** File "2-07-04a.cha": line 3123.
+*MOT:	oh what a horrible little boy you're being . %snd:"2-07-04A-FR"_2099307_2103522
+%mor:	co|oh pro:int|what det:art|a (1)adj|horrible (1)adj|little (1)n|boy
+	pro:per|you~aux|be&PRES part|be-PRESP .
+----------------------------------------
+*** File "2-07-04a.cha": line 4855.
+*MOT:	well you have [//] probably haven't got dark brown hair . %snd:"2-07-04A-FR"_3115538_3117053
+%mor:	co|well pro:per|you adv|probable&dadj-LY aux|have~neg|not
+	v|get&PAST (1)adj|dark (1)adj|brown (1)n|hair .
+
+    Strings matched 2 times
+
+From file <2-07-04b.cha>
+----------------------------------------
+*** File "2-07-04b.cha": line 3294.
+*MOT:	and a big long nose . %snd:"2-07-04B-FR"_2315842_2317606
+%mor:	coord|and det:art|a (1)adj|big (1)adj|long (1)n|nose .
+----------------------------------------
+*** File "2-07-04b.cha": line 3307.
+*MOT:	big long nose is a trunk ,, isn't it ? %snd:"2-07-04B-FR"_2324266_2325763
+%mor:	(1)adj|big (1)adj|long (1)n|nose cop|be&3S det:art|a n|trunk cm|cm cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "2-07-04b.cha": line 3312.
+*MOT:	I meant big long tusks . %snd:"2-07-04B-FR"_2325682_2327923
+%mor:	pro:sub|I v|mean&PAST (1)adj|big (1)adj|long (1)n|tusk-PL .
+----------------------------------------
+*** File "2-07-04b.cha": line 3385.
+*MOT:	long long necks . %snd:"2-07-04B-FR"_2374118_2375558
+%mor:	(1)adj|long (1)adj|long (1)n|neck-PL .
+
+    Strings matched 4 times
+
+From file <2-07-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-07-06b.cha>
+----------------------------------------
+*** File "2-07-06b.cha": line 99.
+*MOT:	it says “snappy little christmas pop up fun” . %snd:"2-07-06B-FR"_70011_74193
+%mor:	pro:per|it v|say-3S bq|bq (1)adj|snap&dv-Y (1)adj|little (1)n|christmas
+	n|pop adv|up adj|fun eq|eq .
+----------------------------------------
+*** File "2-07-06b.cha": line 3980.
+*MOT:	bear in the big blue house . %snd:"2-07-06B-FR"_2721723_2722954
+%mor:	n|bear prep|in det:art|the (1)adj|big (1)adj|blue (1)n|house .
+----------------------------------------
+*** File "2-07-06b.cha": line 5551.
+*MOT:	what a nice little doggy . %snd:"2-07-06B-FR"_3533206_3534472
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|dog-DIM .
+
+    Strings matched 3 times
+
+From file <2-07-07a.cha>
+
+    Strings matched 0 times
+
+From file <2-07-07b.cha>
+----------------------------------------
+*** File "2-07-07b.cha": line 3765.
+*BRO:	what about a little tiny elephant go in there ? %snd:"2-07-07B-FR"_1843260_1847172
+%mor:	pro:int|what adv|about det:art|a (1)adj|little (1)adj|tiny (1)n|elephant
+	v|go prep|in adv|there ?
+
+    Strings matched 1 times
+
+From file <2-07-08a.cha>
+
+    Strings matched 0 times
+
+From file <2-08-01b.cha>
+
+    Strings matched 0 times
+
+From file <2-08-01v.cha>
+----------------------------------------
+*** File "2-08-01v.cha": line 2395.
+*INV:	is a nice big cup of tea . [+ R] %snd:"2-08-01V-FR"_1565838_1567046
+%mor:	cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|cup prep|of n|tea .
+
+    Strings matched 1 times
+
+From file <2-08-02a.cha>
+
+    Strings matched 0 times
+
+From file <2-08-04a.cha>
+
+    Strings matched 0 times
+
+From file <2-08-04b.cha>
+
+    Strings matched 0 times
+
+From file <2-08-05a.cha>
+----------------------------------------
+*** File "2-08-05a.cha": line 701.
+*MOT:	oh [<] it's big hungry bear . %snd:"2-08-05A-FR"_484138_486263
+%mor:	co|oh pro:per|it~cop|be&3S (1)adj|big (1)adj|hungry (1)n|bear .
+
+    Strings matched 1 times
+
+From file <2-08-05b.cha>
+----------------------------------------
+*** File "2-08-05b.cha": line 5277.
+*MOT:	are you the little orange dragon ? %snd:"2-08-05B-FR"_3460067_3461762
+%mor:	cop|be&PRES pro:per|you det:art|the (1)adj|little (1)adj|orange (1)n|dragon
+	?
+
+    Strings matched 1 times
+
+From file <2-08-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-08-06b.cha>
+
+    Strings matched 0 times
+
+From file <2-09-03a.cha>
+----------------------------------------
+*** File "2-09-03a.cha": line 3908.
+*MOT:	poor little boy . %snd:"2-09-03A-FR"_2236182_2237935
+%mor:	(1)adj|poor (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "2-09-03a.cha": line 5520.
+*MOT:	he's got a big happy mouth ? %snd:"2-09-03A-FR"_3183845_3185169
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|happy
+	(1)n|mouth ?
+
+    Strings matched 2 times
+
+From file <2-09-03b.cha>
+----------------------------------------
+*** File "2-09-03b.cha": line 5254.
+*MOT:	he's got a big happy mouth ? %snd:"2-09-03b-FR"_3183825_3185300
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|happy
+	(1)n|mouth ?
+
+    Strings matched 1 times
+
+From file <2-09-05b.cha>
+----------------------------------------
+*** File "2-09-05b.cha": line 391.
+*MOT:	then she would climb up the beautiful long hair . [+ R] %snd:"2-09-05B-FR"_267542_270549
+%mor:	adv:tem|then pro:sub|she mod|will&COND v|climb prep|up det:art|the
+	(1)adj|beautiful (1)adj|long (1)n|hair .
+----------------------------------------
+*** File "2-09-05b.cha": line 1995.
+*MOT:	has it got a big long neck ? %snd:"2-09-05B-FR"_1369313_1370834
+%mor:	aux|have&3S pro:per|it v|get&PAST det:art|a (1)adj|big (1)adj|long (1)n|neck
+	?
+----------------------------------------
+*** File "2-09-05b.cha": line 4676.
+*MOT:	did you see a big yellow lorry ? %snd:"2-09-05B-FR"_3094534_3096368
+%mor:	v|do&PAST pro:per|you v|see det:art|a (1)adj|big (1)adj|yellow (1)n|lorry ?
+
+    Strings matched 3 times
+
+From file <2-09-05v.cha>
+----------------------------------------
+*** File "2-09-05v.cha": line 4506.
+*INV:	squiggly wiggly [/] wiggly [/] wiggly worms . %snd:"2-09-05V-FR"_2605518_2607375
+%mor:	(1)adj|squiggle&dv-Y (1)adj|wiggle&dv-Y (1)n|worm-PL .
+
+    Strings matched 1 times
+
+From file <2-09-07a.cha>
+----------------------------------------
+*** File "2-09-07a.cha": line 200.
+*MOT:	that's another dark green piece ,, isn't it ? %snd:"2-09-07A-FR"_128853_131976
+%mor:	pro:dem|that~cop|be&3S pro:indef|another (1)adj|dark (1)adj|green (1)n|piece
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "2-09-07a.cha": line 2352.
+*MOT:	a big bad wolf . %snd:"2-09-07A-FR"_1441843_1443260
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 2 times
+
+From file <2-09-07b.cha>
+
+    Strings matched 0 times
+
+From file <2-09-08a.cha>
+----------------------------------------
+*** File "2-09-08a.cha": line 291.
+*MOT:	you can make a big long train if you wanted to . %snd:"2-09-08A-FR"_161578_164574
+%mor:	pro:per|you mod|can v|make det:art|a (1)adj|big (1)adj|long (1)n|train
+	conj|if pro:per|you v|want-PAST prep|to .
+----------------------------------------
+*** File "2-09-08a.cha": line 1250.
+*MOT:	a big tall orange tower . %snd:"2-09-08A-FR"_915191_917594
+%mor:	det:art|a adj|big (1)adj|tall (1)adj|orange (1)n|tower .
+
+    Strings matched 2 times
+
+From file <2-09-08b.cha>
+----------------------------------------
+*** File "2-09-08b.cha": line 207.
+*MOT:	no [<] you've got little cute ears . %snd:"2-09-08B-FR"_141135_143202
+%mor:	co|no pro:per|you~aux|have v|get&PAST (1)adj|little (1)adj|cute (1)n|ear-PL
+	.
+----------------------------------------
+*** File "2-09-08b.cha": line 1920.
+*MOT:	cute little duck . %snd:"2-09-08B-FR"_1500622_1502201
+%mor:	(1)adj|cute (1)adj|little (1)n|duck .
+----------------------------------------
+*** File "2-09-08b.cha": line 2136.
+*MOT:	a big brown grizzly bear . %snd:"2-09-08B-FR"_1656188_1658254
+%mor:	det:art|a (1)adj|big (1)adj|brown (1)n|grizzly n|bear .
+----------------------------------------
+*** File "2-09-08b.cha": line 2211.
+*MOT:	a naughty little boy broke his arm . %snd:"2-09-08B-FR"_1710272_1712617
+%mor:	det:art|a (1)adj|naughty (1)adj|little (1)n|boy v|break&PAST det:poss|his
+	n|arm .
+
+    Strings matched 4 times
+
+From file <2-09-09a.cha>
+----------------------------------------
+*** File "2-09-09a.cha": line 2032.
+*MOT:	a nice big strong house [>] . %snd:"2-09-09A-FR"_1415970_1417537
+%mor:	det:art|a adj|nice (1)adj|big (1)adj|strong (1)n|house .
+----------------------------------------
+*** File "2-09-09a.cha": line 4375.
+*MOT:	are you doing a big purple house ? %snd:"2-09-09A-FR"_3019668_3022617
+%mor:	cop|be&PRES pro:per|you part|do-PRESP det:art|a (1)adj|big (1)adj|purple
+	(1)n|house ?
+
+    Strings matched 2 times
+
+From file <2-09-09b.cha>
+----------------------------------------
+*** File "2-09-09b.cha": line 4515.
+*MOT:	is he a big scary bear ? %snd:"2-09-09B-FR"_2873435_2875107
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|big (1)adj|scare&dn-Y (1)n|bear ?
+
+    Strings matched 1 times
+
+From file <2-10-00a.cha>
+----------------------------------------
+*** File "2-10-00a.cha": line 5392.
+*MOT:	is there a big big spider ? %snd:"2-10-00a-FR"_3364632_3366478
+%mor:	cop|be&3S adv|there det:art|a (1)adj|big (1)adj|big (1)n|spider ?
+
+    Strings matched 1 times
+
+From file <2-10-00b.cha>
+
+    Strings matched 0 times
+
+From file <2-10-01a.cha>
+----------------------------------------
+*** File "2-10-01a.cha": line 2781.
+*MOT:	that's a big yellow tower ,, isn't it ? %snd:"2-10-01A-FR"_1838544_1840147
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|yellow (1)n|tower cm|cm
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <2-10-01b.cha>
+----------------------------------------
+*** File "2-10-01b.cha": line 3281.
+*MOT:	it's a shiny golden pear . %snd:"2-10-01B-FR"_2024825_2027635
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|shine&dn-Y (1)adj|golden (1)n|pear .
+
+    Strings matched 1 times
+
+From file <2-10-03a.cha>
+
+    Strings matched 0 times
+
+From file <2-10-03b.cha>
+----------------------------------------
+*** File "2-10-03b.cha": line 1446.
+*MOT:	also a large bony shield protected its neck . [+ R] %snd:"2-10-03B-FR"_924946_928208
+%mor:	adv|also det:art|a (1)adj|large (1)adj|bone&dn-Y (1)n|shield v|protect-PAST
+	det:poss|its n|neck .
+----------------------------------------
+*** File "2-10-03b.cha": line 5117.
+*MOT:	boys should have nice short nails like Daddy . %snd:"2-10-03B-FR"_2969786_2972259
+%mor:	n|boy-PL mod|should v|have (1)adj|nice (1)adj|short (1)n|nail-PL co|like
+	n:prop|Daddy .
+
+    Strings matched 2 times
+
+From file <2-10-05b.cha>
+
+    Strings matched 0 times
+
+From file <2-10-05v.cha>
+----------------------------------------
+*** File "2-10-05v.cha": line 2277.
+*INV:	they're funny little things ,, aren't they ? %snd:"2-10-05V-FR"_1268235_1270127
+%mor:	pro:sub|they~aux|be&PRES (1)adj|fun&dn-Y (1)adj|little (1)n|thing-PL cm|cm
+	cm|cm aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "2-10-05v.cha": line 3198.
+*INV:	a big tall tower again ? %snd:"2-10-05V-FR"_1829056_1830484
+%mor:	det:art|a (1)adj|big (1)adj|tall (1)n|tower adv|again ?
+----------------------------------------
+*** File "2-10-05v.cha": line 3207.
+*INV:	big tall tower . %snd:"2-10-05V-FR"_1838207_1840134
+%mor:	(1)adj|big (1)adj|tall (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 3304.
+*INV:	big fat tower . %snd:"2-10-05V-FR"_1902877_1904537
+%mor:	(1)adj|big (1)adj|fat (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 3324.
+*INV:	big fat tower . %snd:"2-10-05V-FR"_1910085_1911501
+%mor:	(1)adj|big (1)adj|fat (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 3330.
+*INV:	big huge fat tower [//] tower . %snd:"2-10-05V-FR"_1917914_1920665
+%mor:	(1)adj|big (1)adj|huge (1)n|fat n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 3507.
+*INV:	a big big castle . %snd:"2-10-05V-FR"_2019256_2020266
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|castle .
+----------------------------------------
+*** File "2-10-05v.cha": line 3776.
+*INV:	big [/] (.) big strong tower . %snd:"2-10-05V-FR"_2149253_2152783
+%mor:	(1)adj|big (1)adj|strong (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 3779.
+*INV:	big strong fat high tower ! %snd:"2-10-05V-FR"_2157177_2161310
+%mor:	(1)adj|big (1)adj|strong (1)n|fat n|high n|tower !
+----------------------------------------
+*** File "2-10-05v.cha": line 4283.
+*INV:	so big fat tower . %snd:"2-10-05V-FR"_2421147_2422679
+%mor:	adv|so (1)adj|big (1)adj|fat (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 4321.
+*INV:	big fatty tower . %snd:"2-10-05V-FR"_2437081_2438451
+%mor:	(1)adj|big (1)adj|fat-Y (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 4330.
+*INV:	big fatty tower . %snd:"2-10-05V-FR"_2441195_2443250
+%mor:	(1)adj|big (1)adj|fat-Y (1)n|tower .
+----------------------------------------
+*** File "2-10-05v.cha": line 4336.
+*INV:	big fatty tower . %snd:"2-10-05V-FR"_2444548_2445941
+%mor:	(1)adj|big (1)adj|fat-Y (1)n|tower .
+
+    Strings matched 13 times
+
+From file <2-10-06a.cha>
+----------------------------------------
+*** File "2-10-06a.cha": line 1195.
+*MOT:	Dipsy's got a long thin antenna on his head ,, hasn't he ? %snd:"2-10-06A-FR"_803226_807162
+%mor:	n:prop|Dipsy~aux|be&3S part|get&PASTP det:art|a (1)adj|long (1)adj|thin
+	(1)n|antenna prep|on det:poss|his n|head cm|cm cm|cm
+	aux|have&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <2-10-06b.cha>
+
+    Strings matched 0 times
+
+From file <2-11-00a.cha>
+
+    Strings matched 0 times
+
+From file <2-11-00b.cha>
+
+    Strings matched 0 times
+
+From file <2-11-01a.cha>
+----------------------------------------
+*** File "2-11-01a.cha": line 865.
+*MOT:	big grey clouds now . %snd:"2-11-01A-FR"_568883_571020
+%mor:	(1)adj|big (1)adj|grey (1)n|cloud-PL adv|now .
+
+    Strings matched 1 times
+
+From file <2-11-01b.cha>
+----------------------------------------
+*** File "2-11-01b.cha": line 1004.
+*MOT:	is it the big bad wolf ? %snd:"2-11-01B-FR"_517795_519328
+%mor:	aux|be&3S pro:per|it det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "2-11-01b.cha": line 1032.
+*MOT:	a big bad wolf . %snd:"2-11-01B-FR"_533605_535138
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "2-11-01b.cha": line 1104.
+*MOT:	growled the wolf with a big bad smile . [+ R] %snd:"2-11-01B-FR"_568260_570524
+%mor:	v|growl-PAST det:art|the n|wolf prep|with det:art|a (1)adj|big (1)adj|bad
+	(1)n|smile .
+----------------------------------------
+*** File "2-11-01b.cha": line 1195.
+*MOT:	“I'm hungry” thought the big bad wolf .[+ R]  %snd:"2-11-01B-FR"_626708_629274
+%mor:	bq|bq pro:sub|I~cop|be&1S adj|hungry eq|eq v|think&PAST det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "2-11-01b.cha": line 1237.
+*MOT:	that sounds more like the big bad wolf thought Grandmother and she crept quickly under the bed . [+ R] %snd:"2-11-01B-FR"_652007_657521
+%mor:	pro:dem|that n|sound-PL adv|more prep|like det:art|the (1)adj|big
+	(1)adj|bad (1)n|wolf v|think&PAST n:prop|Grandmother coord|and pro:sub|she
+	v|creep&PAST adv|quick&dadj-LY prep|under det:art|the n|bed .
+----------------------------------------
+*** File "2-11-01b.cha": line 3221.
+*MOT:	it was a beautiful sunny day . %snd:"2-11-01B-FR"_1820812_1823366
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|beautiful (1)adj|sun&dn-Y
+	(1)n|day .
+----------------------------------------
+*** File "2-11-01b.cha": line 6478.
+*MOT:	those are pinky purple xxx people . [+ PI] %snd:"2-11-01B-FR"_3552188_3554533
+%mor:	pro:dem|those cop|be&PRES (1)adj|pink-Y (1)adj|purple (1)n|person&PL .
+
+    Strings matched 7 times
+
+From file <2-11-02b.cha>
+----------------------------------------
+*** File "2-11-02b.cha": line 946.
+*MOT:	monsters that eat naughty little boys . %snd:"2-11-02B-FR"_803634_805724
+%mor:	n|monster-PL pro:rel|that v|eat (1)adj|naughty (1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "2-11-02b.cha": line 990.
+*MOT:	they probably eat maybe naughty little boys . %snd:"2-11-02B-FR"_836907_839333
+%mor:	pro:sub|they adv|probable&dadj-LY v|eat adv|maybe (1)adj|naughty
+	(1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "2-11-02b.cha": line 1075.
+*MOT:	monsters that eat naughty little boys . %snd:"2-11-02B-FR"_910200_912116
+%mor:	n|monster-PL pro:rel|that v|eat (1)adj|naughty (1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "2-11-02b.cha": line 1111.
+*MOT:	they eat naughty little boys . %snd:"2-11-02B-FR"_929373_930639
+%mor:	pro:sub|they v|eat (1)adj|naughty (1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "2-11-02b.cha": line 2200.
+*MOT:	naughty little boys . %snd:"2-11-02B-FR"_1672637_1673926
+%mor:	(1)adj|naughty (1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "2-11-02b.cha": line 3344.
+*MOT:	that's Blue's big pajama party . %snd:"2-11-02B-FR"_2586397_2589068
+%mor:	pro:dem|that~cop|be&3S n:prop|Blue~poss|s (1)adj|big (1)adj|pajama
+	(1)n|party .
+
+    Strings matched 6 times
+
+From file <2-11-02v.cha>
+----------------------------------------
+*** File "2-11-02v.cha": line 4778.
+*INV:	do you remember last time we built a big tall big [/] big tall [/]
+	tall strong fat tower ? %snd:"2-11-02V-FR"_3174486_3180685
+%mor:	mod|do pro:per|you v|remember adj|last n|time pro:sub|we
+	v|build&PAST det:art|a adj|big adj|tall adj|big (1)adj|tall (1)adj|strong
+	(1)n|fat n|tower ?
+
+    Strings matched 1 times
+
+From file <2-11-04a.cha>
+----------------------------------------
+*** File "2-11-04a.cha": line 498.
+*MOT:	poor little Fraser . %snd:"2-11-04A-FR"_247405_248764
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Fraser .
+----------------------------------------
+*** File "2-11-04a.cha": line 738.
+*MOT:	and that mask that you made with all that white fluffy stuff . %snd:"2-11-04A-FR"_383341_386023
+%mor:	coord|and pro:dem|that n|mask pro:rel|that pro:per|you v|make&PAST
+	prep|with qn|all pro:dem|that (1)adj|white (1)adj|fluff&dn-Y (1)n|stuff .
+----------------------------------------
+*** File "2-11-04a.cha": line 1480.
+*MOT:	the big naughty bear ? %snd:"2-11-04A-FR"_833816_835128
+%mor:	det:art|the (1)adj|big (1)adj|naughty (1)n|bear ?
+
+    Strings matched 3 times
+
+From file <2-11-04b.cha>
+----------------------------------------
+*** File "2-11-04b.cha": line 5629.
+*MOT:	<he's a> [<] nice little car ,, isn't he ? %snd:"2-11-04B-FR"_3331450_3333075
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|car cm|cm
+	cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <2-11-06a.cha>
+
+    Strings matched 0 times
+
+From file <2-11-06b.cha>
+----------------------------------------
+*** File "2-11-06b.cha": line 3061.
+*MOT:	horrible little boy you are . %snd:"2-11-06B-FR"_1915627_1917322
+%mor:	(1)adj|horrible (1)adj|little (1)n|boy pro:per|you cop|be&PRES .
+----------------------------------------
+*** File "2-11-06b.cha": line 5972.
+*FAT:	a [<] big bad wolf is hiding in the forest ,, isn't he ? %snd:"2-11-06B-FR"_3776862_3779514
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|wolf aux|be&3S part|hide-PRESP prep|in
+	det:art|the n|forest cm|cm cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <3-00-00b.cha>
+----------------------------------------
+*** File "3-00-00b.cha": line 1745.
+*MOT:	chalk and cheese feel very small when they meet a great big hungry cat . [+ R] %snd:"3-00-00B-FR"_1044150_1050675
+%mor:	n|chalk coord|and n|cheese v|feel adv|very adj|small conj|when
+	pro:sub|they v|meet det:art|a adj|great (1)adj|big (1)adj|hungry (1)n|cat .
+----------------------------------------
+*** File "3-00-00b.cha": line 1756.
+*MOT:	it's a big hungry cat ,, isn't he ? %snd:"3-00-00B-FR"_1053338_1054522
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|hungry (1)n|cat cm|cm cm|cm
+	cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <3-00-00v.cha>
+----------------------------------------
+*** File "3-00-00v.cha": line 2473.
+*INV:	ooh that's a lovely big head . %snd:"3-00-00V-FR"_1089435_1091397
+%mor:	v|ooh pro:dem|that~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|big
+	(1)n|head .
+----------------------------------------
+*** File "3-00-00v.cha": line 2503.
+*MOT:	it's a big fat head ? %snd:"3-00-00V-FR"_1101671_1102983
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|fat (1)n|head ?
+----------------------------------------
+*** File "3-00-00v.cha": line 3113.
+*INV:	<itsy bitsy> [<] bugs . %snd:"3-00-00V-FR"_1367560_1369811
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|bug-PL .
+----------------------------------------
+*** File "3-00-00v.cha": line 6898.
+*MOT:	itsy bitsy bugs one ? %snd:"3-00-00V-FR"_3550865_3552293
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|bug-PL pro:indef|one ?
+
+    Strings matched 4 times
+
+From file <3-00-02a.cha>
+----------------------------------------
+*** File "3-00-02a.cha": line 2009.
+*MOT:	now they're good bad guys ? %snd:"3-00-02A-FR"_1216062_1217397
+%mor:	adv|now pro:sub|they~aux|be&PRES (1)adj|good (1)adj|bad (1)n|guy-PL ?
+----------------------------------------
+*** File "3-00-02a.cha": line 2018.
+*MOT:	what's a good bad guy ? %snd:"3-00-02A-FR"_1219725_1221095
+%mor:	pro:int|what~aux|be&3S det:art|a (1)adj|good (1)adj|bad (1)n|guy ?
+----------------------------------------
+*** File "3-00-02a.cha": line 3762.
+*MOT:	he's got a big smiley face and all his teeth are showing . %snd:"3-00-02A-FR"_2331018_2334304
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|smiley
+	(1)n|face coord|and qn|all det:poss|his n|tooth&PL aux|be&PRES
+	part|show-PRESP .
+
+    Strings matched 3 times
+
+From file <3-00-02b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-04a.cha>
+----------------------------------------
+*** File "3-00-04a.cha": line 2450.
+*MOT:	it's just pretend fire ,, isn't it ? %snd:"3-00-04A-FR"_1516872_1518636
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|pretend (1)n|fire cm|cm cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <3-00-04b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-05a.cha>
+
+    Strings matched 0 times
+
+From file <3-00-05b.cha>
+----------------------------------------
+*** File "3-00-05b.cha": line 1852.
+*MOT:	tiny [/] tiny little holes . %snd:"3-00-05B-FR"_1150578_1151983
+%mor:	(1)adj|tiny (1)adj|little (1)n|hole-PL .
+----------------------------------------
+*** File "3-00-05b.cha": line 4200.
+*MOT:	ah (.) that's a nice little duck ,, isn't it ? %snd:"3-00-05B-FR"_2883623_2885782
+%mor:	co|ah pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|duck
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <3-00-06a.cha>
+----------------------------------------
+*** File "3-00-06a.cha": line 3055.
+*MOT:	can you find a bright blue butterfly ? %snd:"3-00-06A-FR"_1728581_1732215
+%mor:	mod|can pro:per|you v|find det:art|a (1)adj|bright (1)adj|blue
+	(1)n|+n|butter+n|fly ?
+
+    Strings matched 1 times
+
+From file <3-00-06b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-08a.cha>
+----------------------------------------
+*** File "3-00-08a.cha": line 2762.
+*MOT:	snappy little dinosaurs . %snd:"3-00-08A-FR"_1767252_1769365
+%mor:	(1)adj|snap&dv-Y (1)adj|little (1)n|dinosaur-PL .
+
+    Strings matched 1 times
+
+From file <3-00-08b.cha>
+----------------------------------------
+*** File "3-00-08b.cha": line 2402.
+*MOT:	little old man [>1] by the window stood [>2] . [+ R] %snd:"3-00-08B-FR"_1584593_1588087
+%mor:	(1)adj|little (1)adj|old (1)n|man prep|by det:art|the n|window v|stand&PAST
+	.
+----------------------------------------
+*** File "3-00-08b.cha": line 3398.
+*MOT:	go away from my <pretty green garden said I> [>] . [+ R] %snd:"3-00-08B-FR"_2258972_2262234
+%mor:	v|go adv|away prep|from det:poss|my (1)adj|pretty (1)adj|green (1)n|garden
+	v|say&PAST pro:sub|I .
+----------------------------------------
+*** File "3-00-08b.cha": line 5104.
+*MOT:	look [/] look at these yummy red apples . %snd:"3-00-08B-FR"_3254732_3257379
+%mor:	cop|look prep|at pro:dem|these (1)adj|yum&dn-Y (1)adj|red (1)n|apple-PL .
+
+    Strings matched 3 times
+
+From file <3-00-10a.cha>
+----------------------------------------
+*** File "3-00-10a.cha": line 2172.
+*MOT:	they build a great big sandcastle . [+ R] %snd:"3-00-10A-FR"_1175105_1178344
+%mor:	pro:sub|they v|build det:art|a (1)adj|great (1)adj|big (1)n|+n|sand+n|castle
+	.
+----------------------------------------
+*** File "3-00-10a.cha": line 2451.
+*MOT:	poor little kitten . %snd:"3-00-10A-FR"_1336164_1337116
+%mor:	(1)adj|poor (1)adj|little (1)n|kitten .
+
+    Strings matched 2 times
+
+From file <3-00-10b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-11a.cha>
+----------------------------------------
+*** File "3-00-11a.cha": line 192.
+*MOT:	that was to make it dark last night so you two could get to sleep . %snd:"3-00-11A-FR"_108966_112518
+%mor:	pro:dem|that cop|be&PAST&13S inf|to v|make pro:per|it (1)adj|dark
+	(1)adj|last (1)n|night conj|so pro:per|you det:num|two mod|could v|get
+	prep|to n|sleep .
+
+    Strings matched 1 times
+
+From file <3-00-11b.cha>
+----------------------------------------
+*** File "3-00-11b.cha": line 2183.
+*FAT:	big bad wolf . %snd:"3-00-11B-FR"_1133486_1134333
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "3-00-11b.cha": line 2245.
+*FAT:	big bad wolf . %snd:"3-00-11B-FR"_1162848_1163707
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "3-00-11b.cha": line 2579.
+*FAT:	<he killed> [<] the big bad wolf ,, didn't he ? %snd:"3-00-11B-FR"_1355111_1357096
+%mor:	pro:sub|he v|kill-PAST det:art|the (1)adj|big (1)adj|bad (1)n|wolf cm|cm
+	cm|cm mod|do&PAST~neg|not pro:sub|he ?
+
+    Strings matched 3 times
+
+From file <3-00-12a.cha>
+----------------------------------------
+*** File "3-00-12a.cha": line 4546.
+*MOT:	dinosaurs red (.) blue (.) yellow and +... [+ IN] [+ R] %snd:"3-00-12A-FR"_2876861_2880356
+%mor:	n|dinosaur-PL (1)adj|red (1)adj|blue (1)n|yellow coord|and +...
+
+    Strings matched 1 times
+
+From file <3-00-12b.cha>
+----------------------------------------
+*** File "3-00-12b.cha": line 2065.
+*FAT:	big red chicken ? %snd:"3-00-12B-FR"_1124522_1125799
+%mor:	(1)adj|big (1)adj|red (1)n|chicken ?
+
+    Strings matched 1 times
+
+From file <3-00-13b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-13v.cha>
+----------------------------------------
+*** File "3-00-13v.cha": line 112.
+*MOT:	and then you have a little special hammer +... [+ IN] %snd:"3-00-13V-FR"_66666_68814
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|a (1)adj|little
+	(1)adj|special (1)n|hammer +...
+----------------------------------------
+*** File "3-00-13v.cha": line 1746.
+*INV:	big [<] [/] big huge circle . %snd:"3-00-13V-FR"_1119330_1121699
+%mor:	(1)adj|big (1)adj|huge (1)n|circle .
+----------------------------------------
+*** File "3-00-13v.cha": line 1749.
+*INV:	big [/] <big [/] big huge circle> [>] . %snd:"3-00-13V-FR"_1122843_1128010
+%mor:	(1)adj|big (1)adj|huge (1)n|circle .
+----------------------------------------
+*** File "3-00-13v.cha": line 1792.
+*INV:	will we make an even bigger circle with all these pieces too ? %snd:"3-00-13V-FR"_1140819_1143803
+%mor:	mod|will pro:sub|we v|make det:art|a (1)adj|even (1)adj|big-CP (1)n|circle
+	prep|with qn|all pro:dem|these n|piece-PL adv|too ?
+----------------------------------------
+*** File "3-00-13v.cha": line 1845.
+*INV:	we're gonna [: going to] make a big huge circle . %snd:"3-00-13V-FR"_1172041_1175199
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|make det:art|a
+	(1)adj|big (1)adj|huge (1)n|circle .
+----------------------------------------
+*** File "3-00-13v.cha": line 1853.
+*INV:	a big huge circle . %snd:"3-00-13V-FR"_1178085_1180766
+%mor:	det:art|a (1)adj|big (1)adj|huge (1)n|circle .
+----------------------------------------
+*** File "3-00-13v.cha": line 1955.
+*INV:	<little tiny square 0 [=! gasps]> [=! whispering] . %snd:"3-00-13V-FR"_1245974_1248401
+%mor:	(1)adj|little (1)adj|tiny (1)n|square .
+----------------------------------------
+*** File "3-00-13v.cha": line 1958.
+*INV:	<little tiny square> [=! whispering] . %snd:"3-00-13V-FR"_1248470_1249956
+%mor:	(1)adj|little (1)adj|tiny (1)n|square .
+----------------------------------------
+*** File "3-00-13v.cha": line 2334.
+*INV:	so what happens when the one green martian falls ? %snd:"3-00-13V-FR"_1457287_1459563
+%mor:	co|so det:int|what v|happen-3S conj|when det:art|the pro:indef|one
+	(1)adj|green (1)adj|martian (1)n|fall-PL ?
+----------------------------------------
+*** File "3-00-13v.cha": line 2549.
+*INV:	hey (.) he looks a big strong tiger . %snd:"3-00-13V-FR"_1561744_1563485
+%mor:	co|hey pro:sub|he cop|look-3S det:art|a (1)adj|big (1)adj|strong (1)n|tiger
+	.
+----------------------------------------
+*** File "3-00-13v.cha": line 2742.
+*INV:	he's got a big black nose ,, hasn't he ? %snd:"3-00-13V-FR"_1679122_1681236
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|black
+	(1)n|nose cm|cm cm|cm aux|have&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "3-00-13v.cha": line 2774.
+*INV:	<has he> [<] got a big black nose like you ? %snd:"3-00-13V-FR"_1695487_1697136
+%mor:	v|have&3S pro:sub|he v|get&PAST det:art|a (1)adj|big (1)adj|black (1)n|nose
+	prep|like pro:per|you ?
+
+    Strings matched 12 times
+
+From file <3-00-15a.cha>
+
+    Strings matched 0 times
+
+From file <3-00-15b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-16a.cha>
+----------------------------------------
+*** File "3-00-16a.cha": line 2190.
+*MOT:	oh [<] what a cheeky little boy you are [>] . %snd:"3-00-16A-FR"_1428339_1431299
+%mor:	co|oh pro:int|what det:art|a (1)adj|cheek&dn-Y (1)adj|little (1)n|boy
+	pro:per|you cop|be&PRES .
+----------------------------------------
+*** File "3-00-16a.cha": line 2794.
+*MOT:	big huge tankfuls of water . %snd:"3-00-16A-FR"_1764358_1766889
+%mor:	(1)adj|big (1)adj|huge (1)n|tank-FUL-PL prep|of n|water .
+
+    Strings matched 2 times
+
+From file <3-00-16b.cha>
+----------------------------------------
+*** File "3-00-16b.cha": line 2661.
+*MOT:	they've got big sharp teeth ,, haven't they ? %snd:"3-00-16B-FR"_1621937_1623864
+%mor:	pro:sub|they~aux|have part|get&PASTP (1)adj|big (1)adj|sharp (1)n|tooth&PL
+	cm|cm cm|cm aux|have~neg|not pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <3-00-18a.cha>
+----------------------------------------
+*** File "3-00-18a.cha": line 1194.
+*MOT:	a little cuddly toy ,, isn't it ? %snd:"3-00-18A-FR"_570943_573416
+%mor:	det:art|a (1)adj|little (1)adj|cuddle&dv-Y (1)n|toy cm|cm cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "3-00-18a.cha": line 3370.
+*MOT:	that's a (.) little old lady . %snd:"3-00-18A-FR"_1857710_1859417
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|old (1)n|lady .
+----------------------------------------
+*** File "3-00-18a.cha": line 4591.
+*MOT:	snappy little dinosaurs . [+ R] %snd:"3-00-18A-FR"_2544375_2546673
+%mor:	(1)adj|snap&dv-Y (1)adj|little (1)n|dinosaur-PL .
+----------------------------------------
+*** File "3-00-18a.cha": line 4702.
+*MOT:	shall we have a quick look at the snappy little dinosaurs then ? %snd:"3-00-18A-FR"_2600829_2603035
+%mor:	mod|shall pro:sub|we v|have det:art|a adj|quick cop|look prep|at
+	det:art|the (1)adj|snap&dv-Y (1)adj|little (1)n|dinosaur-PL adv:tem|then ?
+----------------------------------------
+*** File "3-00-18a.cha": line 4724.
+*MOT:	<is there> [>] a snappy little numbers or +... [+ IN] %snd:"3-00-18A-FR"_2611882_2613589
+%mor:	cop|be&3S adv|there det:art|a (1)adj|snap&dv-Y (1)adj|little (1)n|number-PL
+	coord|or +...
+----------------------------------------
+*** File "3-00-18a.cha": line 4766.
+*MOT:	look at snappy little dinosaurs ? %snd:"3-00-18A-FR"_2626575_2628491
+%mor:	cop|look prep|at (1)adj|snap&dv-Y (1)adj|little (1)n|dinosaur-PL ?
+----------------------------------------
+*** File "3-00-18a.cha": line 4936.
+*MOT:	there were big purple bird flying around ? %snd:"3-00-18A-FR"_2720462_2722714
+%mor:	pro:exist|there cop|be&PAST (1)adj|big (1)adj|purple (1)n|bird
+	part|fly-PRESP adv|around ?
+----------------------------------------
+*** File "3-00-18a.cha": line 5031.
+*MOT:	<is it snappy> [>] [/] snappy little bugs ? %snd:"3-00-18A-FR"_2781919_2784056
+%mor:	(1)adj|snap&dv-Y (1)adj|little (1)n|bug-PL ?
+----------------------------------------
+*** File "3-00-18a.cha": line 5040.
+*MOT:	yeah they're called snappy little bugs . %snd:"3-00-18A-FR"_2785202_2786607
+%mor:	co|yeah pro:sub|they~aux|be&PRES part|call-PASTP (1)adj|snap&dv-Y
+	(1)adj|little (1)n|bug-PL .
+----------------------------------------
+*** File "3-00-18a.cha": line 5065.
+*MOT:	yeah but that's not one of the snappy little books ,, is it ? %snd:"3-00-18A-FR"_2799450_2801900
+%mor:	co|yeah conj|but pro:dem|that~cop|be&3S neg|not pro:indef|one
+	prep|of det:art|the (1)adj|snap&dv-Y (1)adj|little (1)n|book-PL cm|cm cm|cm
+	aux|be&3S pro:per|it ?
+
+    Strings matched 10 times
+
+From file <3-00-18b.cha>
+----------------------------------------
+*** File "3-00-18b.cha": line 5423.
+*MOT:	there's a tiny (.) little spider in there ? %snd:"3-00-18B-FR"_3314649_3316855
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|spider
+	prep|in adv|there ?
+
+    Strings matched 1 times
+
+From file <3-00-19a.cha>
+----------------------------------------
+*** File "3-00-19a.cha": line 404.
+*MOT:	just like her [/] her big long car there . %snd:"3-00-19A-FR"_178707_180855
+%mor:	adv|just co|like det:poss|her (1)adj|big (1)adj|long (1)n|car adv|there .
+----------------------------------------
+*** File "3-00-19a.cha": line 872.
+*MOT:	you were a bit poorly sick last night ,, weren't you ? %snd:"3-00-19A-FR"_442065_444166
+%mor:	pro:per|you cop|be&PAST det:art|a n|bit adv|poor&dadj-LY (1)adj|sick
+	(1)adj|last (1)n|night cm|cm cm|cm cop|be&PAST~neg|not pro:per|you ?
+----------------------------------------
+*** File "3-00-19a.cha": line 1045.
+*MOT:	you've got nice hair now so you should have (.) nice short nails like your nice short hair . %snd:"3-00-19A-FR"_521688_525983
+%mor:	pro:per|you~aux|have v|get&PAST adj|nice n|hair adv|now conj|so
+	pro:per|you mod|should v|have (1)adj|nice (1)adj|short (1)n|nail-PL prep|like
+	det:poss|your (2)adj|nice (2)adj|short (2)n|hair .
+
+    Strings matched 4 times
+
+From file <3-00-19b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-20a.cha>
+----------------------------------------
+*** File "3-00-20a.cha": line 319.
+*MOT:	and they're going to have a big bouncy castle . %snd:"3-00-20A-FR"_175216_177352
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|have
+	det:art|a (1)adj|big (1)adj|bounce&dv-Y (1)n|castle .
+----------------------------------------
+*** File "3-00-20a.cha": line 4428.
+*MOT:	soon he was wrapped in a soft brown papery cocoon . [+ R] %snd:"3-00-20A-FR"_2658900_2662313
+%mor:	adv|soon pro:sub|he aux|be&PAST&13S part|wrap-PASTP prep|in
+	det:art|a adj|soft (1)adj|brown (1)adj|paper&dn-Y (1)n|cocoon .
+----------------------------------------
+*** File "3-00-20a.cha": line 4455.
+*MOT:	this nice juicy caterpillar . [+ R] %snd:"3-00-20A-FR"_2675881_2677704
+%mor:	pro:dem|this (1)adj|nice (1)adj|juice&dn-Y (1)n|caterpillar .
+----------------------------------------
+*** File "3-00-20a.cha": line 4558.
+*MOT:	once he saw a strange brown papery parcel on a leaf . [+ R] %snd:"3-00-20A-FR"_2729472_2732653
+%mor:	adv|once pro:sub|he v|see&PAST det:art|a adj|strange (1)adj|brown
+	(1)adj|paper&dn-Y (1)n|parcel prep|on det:art|a n|leaf .
+----------------------------------------
+*** File "3-00-20a.cha": line 4681.
+*MOT:	and saw a lovely beautiful butterfly . [+ R] %snd:"3-00-20A-FR"_2786932_2789754
+%mor:	coord|and v|see&PAST det:art|a (1)adj|love&dn-LY (1)adj|beautiful
+	(1)n|+n|butter+n|fly .
+
+    Strings matched 5 times
+
+From file <3-00-20b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-21b.cha>
+----------------------------------------
+*** File "3-00-21b.cha": line 1600.
+*MOT:	it's a big brown bear ,, isn't it ? %snd:"3-00-21B-FR"_1047914_1049447
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|brown (1)n|bear cm|cm cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "3-00-21b.cha": line 1605.
+*MOT:	yeah (.) it's a big brown bear . %snd:"3-00-21B-FR"_1049540_1051119
+%mor:	co|yeah pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|brown (1)n|bear .
+----------------------------------------
+*** File "3-00-21b.cha": line 1608.
+*MOT:	is he a nice friendly bear ? %snd:"3-00-21B-FR"_1051552_1053084
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|nice (1)adj|friend&dn-LY (1)n|bear ?
+
+    Strings matched 3 times
+
+From file <3-00-21v.cha>
+----------------------------------------
+*** File "3-00-21v.cha": line 1019.
+*INV:	shall we build a nice big long track ? %snd:"3-00-21V-FR"_608344_611618
+%mor:	mod|shall pro:sub|we v|build det:art|a adj|nice (1)adj|big (1)adj|long
+	(1)n|track ?
+----------------------------------------
+*** File "3-00-21v.cha": line 1048.
+*INV:	you want me to build a nice big long road as well . %snd:"3-00-21V-FR"_626246_628382
+%mor:	pro:per|you v|want pro:obj|me inf|to v|build det:art|a adj|nice
+	(1)adj|big (1)adj|long (1)n|road prep|as adv|well .
+
+    Strings matched 2 times
+
+From file <3-00-23a.cha>
+----------------------------------------
+*** File "3-00-23a.cha": line 3463.
+*MOT:	aren't you lovely little boys ? %snd:"3-00-23A-FR"_2258467_2260185
+%mor:	aux|be&PRES~neg|not pro:per|you (1)adj|love&dn-LY (1)adj|little (1)n|boy-PL
+	?
+----------------------------------------
+*** File "3-00-23a.cha": line 3504.
+*MOT:	that's a fluffy white rug . %snd:"3-00-23A-FR"_2293216_2295062
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fluff&dn-Y (1)adj|white (1)n|rug .
+----------------------------------------
+*** File "3-00-23a.cha": line 3519.
+*MOT:	that's a fluffy white rug . %snd:"3-00-23A-FR"_2305497_2307470
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fluff&dn-Y (1)adj|white (1)n|rug .
+
+    Strings matched 3 times
+
+From file <3-00-23b.cha>
+----------------------------------------
+*** File "3-00-23b.cha": line 7145.
+*FAT:	the same square color ? %snd:"3-00-23B-FR"_3633700_3634942
+%mor:	det:art|the (1)adj|same (1)adj|square (1)n|color ?
+
+    Strings matched 1 times
+
+From file <3-00-25a.cha>
+----------------------------------------
+*** File "3-00-25a.cha": line 559.
+*MOT:	oh what a lovely clean little boy now . %snd:"3-00-25A-FR"_328540_332058
+%mor:	co|oh pro:int|what det:art|a adj|love&dn-LY (1)adj|clean (1)adj|little
+	(1)n|boy adv|now .
+----------------------------------------
+*** File "3-00-25a.cha": line 2281.
+*MOT:	this big orange ball . %snd:"3-00-25A-FR"_1355695_1356832
+%mor:	pro:dem|this (1)adj|big (1)adj|orange (1)n|ball .
+----------------------------------------
+*** File "3-00-25a.cha": line 3311.
+*MOT:	thick oozy mud . %snd:"3-00-25A-FR"_2006198_2009205
+%mor:	(1)adj|thick (1)adj|ooze&dn-Y (1)n|mud .
+----------------------------------------
+*** File "3-00-25a.cha": line 3564.
+*MOT:	a narrow gloomy cave . %snd:"3-00-25A-FR"_2144305_2147312
+%mor:	det:art|a (1)adj|narrow (1)adj|gloom&dn-Y (1)n|cave .
+----------------------------------------
+*** File "3-00-25a.cha": line 3609.
+*MOT:	one shiny wet nose . %snd:"3-00-25A-FR"_2174544_2177911
+%mor:	det:num|one (1)adj|shine&dn-Y (1)adj|wet (1)n|nose .
+----------------------------------------
+*** File "3-00-25a.cha": line 3615.
+*MOT:	two big goggly eyes . %snd:"3-00-25A-FR"_2181482_2183712
+%mor:	det:num|two (1)adj|big (1)adj|goggle&dn-Y (1)n|eye-PL .
+----------------------------------------
+*** File "3-00-25a.cha": line 4763.
+*MOT:	look at those little skinny legs you had . %snd:"3-00-25A-FR"_3065999_3068182
+%mor:	cop|look prep|at pro:dem|those (1)adj|little (1)adj|skin&dn-Y (1)n|leg-PL
+	pro:per|you v|have&PAST .
+----------------------------------------
+*** File "3-00-25a.cha": line 4771.
+*MOT:	look at those little skinny legs [=! laughs] . %snd:"3-00-25A-FR"_3071247_3073998
+%mor:	cop|look prep|at pro:dem|those (1)adj|little (1)adj|skin&dn-Y (1)n|leg-PL .
+
+    Strings matched 8 times
+
+From file <3-00-25b.cha>
+----------------------------------------
+*** File "3-00-25b.cha": line 3220.
+*FAT:	it's a nice green boat though ,, isn't it ? %snd:"3-00-25B-FR"_1911171_1913226
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|green (1)n|boat adv|though
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <3-00-26a.cha>
+
+    Strings matched 0 times
+
+From file <3-00-26b.cha>
+----------------------------------------
+*** File "3-00-26b.cha": line 2591.
+*MOT:	is he a big scary monster ? %snd:"3-00-26B-FR"_1781416_1783099
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|big (1)adj|scare&dn-Y (1)n|monster ?
+----------------------------------------
+*** File "3-00-26b.cha": line 2881.
+*MOT:	that's a nice big smile ,, isn't it ? %snd:"3-00-26B-FR"_2116185_2118611
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|smile cm|cm
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <3-00-27b.cha>
+
+    Strings matched 0 times
+
+From file <3-00-27v.cha>
+----------------------------------------
+*** File "3-00-27v.cha": line 150.
+*INV:	oh [<] you've got a nice big house . %snd:"3-00-27V-FR"_72942_74346
+%mor:	co|oh pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|nice
+	(1)adj|big (1)n|house .
+----------------------------------------
+*** File "3-00-27v.cha": line 612.
+*INV:	we can make a big long river . %snd:"3-00-27V-FR"_349308_352814
+%mor:	pro:sub|we mod|can v|make det:art|a (1)adj|big (1)adj|long (1)n|river .
+----------------------------------------
+*** File "3-00-27v.cha": line 2539.
+*INV:	<you make a big> [//] you see if you can make a big long sea that stretches from your house to the dragon's . %snd:"3-00-27V-FR"_1427871_1433641
+%mor:	pro:per|you v|see conj|if pro:per|you mod|can v|make det:art|a
+	(1)adj|big (1)adj|long (1)n|sea pro:rel|that v|stretch-3S prep|from
+	det:poss|your n|house prep|to det:art|the n|dragon~poss|s .
+----------------------------------------
+*** File "3-00-27v.cha": line 5220.
+*INV:	<final last> [<] call . %snd:"3-00-27V-FR"_2942305_2943501
+%mor:	(1)adj|final (1)adj|last (1)n|call .
+
+    Strings matched 4 times
+
+From file <3-00-29a.cha>
+----------------------------------------
+*** File "3-00-29a.cha": line 393.
+*MOT:	poor little Fraser . %snd:"3-00-29A-FR"_244260_245931
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Fraser .
+----------------------------------------
+*** File "3-00-29a.cha": line 1074.
+*MOT:	you being a good little helper ? %snd:"3-00-29A-FR"_652055_653541
+%mor:	pro:per|you n:gerund|be-PRESP det:art|a (1)adj|good (1)adj|little
+	(1)n|help&dv-AGT ?
+
+    Strings matched 2 times
+
+From file <3-00-29b.cha>
+----------------------------------------
+*** File "3-00-29b.cha": line 2853.
+*MOT:	ah (.) such a cute little boy ,, aren't you ? %snd:"3-00-29B-FR"_1932912_1934956
+%mor:	co|ah qn|such det:art|a (1)adj|cute (1)adj|little (1)n|boy cm|cm cm|cm
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "3-00-29b.cha": line 4429.
+*MOT:	and you went on that little round boat with Daddy ,, didn't you ? %snd:"3-00-29B-FR"_2813540_2816279
+%mor:	coord|and pro:per|you v|go&PAST prep|on pro:dem|that (1)adj|little
+	(1)adj|round (1)n|boat prep|with n:prop|Daddy cm|cm cm|cm
+	mod|do&PAST~neg|not pro:per|you ?
+
+    Strings matched 2 times
+
+From file <3-00-30a.cha>
+----------------------------------------
+*** File "3-00-30a.cha": line 619.
+*MOT:	think it was a cheeky little boy ? %snd:"3-00-30A-FR"_382636_384285
+%mor:	v|think pro:per|it cop|be&PAST&13S det:art|a (1)adj|cheek&dn-Y
+	(1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "3-00-30a.cha": line 1342.
+*MOT:	some nice green dragons . [+ R] %snd:"3-00-30A-FR"_865082_866951
+%mor:	qn|some (1)adj|nice (1)adj|green (1)n|dragon-PL .
+----------------------------------------
+*** File "3-00-30a.cha": line 1429.
+*MOT:	if a great big purple dragon comes to see me in the dark . [+ R] %snd:"3-00-30A-FR"_910188_914612
+%mor:	conj|if det:art|a adj|great (1)adj|big (1)adj|purple (1)n|dragon v|come-3S
+	inf|to v|see pro:obj|me prep|in det:art|the n|dark .
+----------------------------------------
+*** File "3-00-30a.cha": line 1498.
+*MOT:	green [>] orange white blue spotty yellow pink (.) purple . %snd:"3-00-30A-FR"_947160_952315
+%mor:	n|green n|orange n|white (1)adj|blue (1)adj|spot&dn-Y (1)n|yellow n|pink
+	n|purple .
+----------------------------------------
+*** File "3-00-30a.cha": line 4718.
+*MOT:	oh it's quite noisy next door ,, isn't it ? %snd:"3-00-30A-FR"_2969065_2971225
+%mor:	co|oh pro:per|it~cop|be&3S adv|quite (1)adj|noise&dn-Y (1)adj|next (1)n|door
+	cm|cm cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "3-00-30a.cha": line 5373.
+*MOT:	are they noisy next door ? %snd:"3-00-30A-FR"_3326204_3327469
+%mor:	cop|be&PRES pro:sub|they (1)adj|noise&dn-Y (1)adj|next (1)n|door ?
+
+    Strings matched 6 times
+
+From file <3-00-30b.cha>
+----------------------------------------
+*** File "3-00-30b.cha": line 119.
+*MOT:	is that a nice new top ? %snd:"3-00-30B-FR"_93515_95105
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|nice (1)adj|new (1)n|top ?
+----------------------------------------
+*** File "3-00-30b.cha": line 2713.
+*MOT:	play with a nice quiet toy . %snd:"3-00-30B-FR"_1899831_1902304
+%mor:	n|play prep|with det:art|a (1)adj|nice (1)adj|quiet (1)n|toy .
+
+    Strings matched 2 times
+
+From file <3-01-00a.cha>
+
+    Strings matched 0 times
+
+From file <3-01-00b.cha>
+
+    Strings matched 0 times
+
+From file <3-01-02b.cha>
+
+    Strings matched 0 times
+
+From file <3-01-03a.cha>
+----------------------------------------
+*** File "3-01-03a.cha": line 1378.
+*MOT:	Daddy came home really late last night . %snd:"3-01-03A-FR"_984572_986813
+%mor:	n:prop|Daddy v|come&PAST adv|home adv|real&dadj-LY (1)adj|late
+	(1)adj|last (1)n|night .
+----------------------------------------
+*** File "3-01-03a.cha": line 2999.
+*MOT:	<green yellow> [/] green yellow green . %snd:"3-01-03A-FR"_2174328_2176999
+%mor:	(1)adj|green (1)adj|yellow (1)n|green .
+----------------------------------------
+*** File "3-01-03a.cha": line 3014.
+*MOT:	it's green yellow green yellow +... [+ IN] %snd:"3-01-03A-FR"_2184361_2186950
+%mor:	pro:per|it~cop|be&3S adj|green (1)adj|yellow (1)adj|green (1)n|yellow +...
+
+    Strings matched 3 times
+

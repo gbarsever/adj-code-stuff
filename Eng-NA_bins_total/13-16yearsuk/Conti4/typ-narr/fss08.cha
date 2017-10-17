@@ -1,0 +1,173 @@
+@UTF8
+@PID:	11312/c-00004880-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.29||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	a boy and a dog look at a <fr(og)> [/-] <fr(og)> [/-] frog in a jar
+	.
+%mor:	det:art|a n|boy coord|and det:art|a n|dog cop|look prep|at
+	det:art|a n|frog prep|in det:art|a n|jar .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*CHI:	and then they go to sleep .
+%mor:	coord|and adv:tem|then pro:sub|they v|go inf|to v|sleep .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	and the frog gets out .
+%mor:	coord|and det:art|the n|frog v|get-3S adv|out .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and then in the morning the &-um boy and the dog look to see the
+	frog .
+%mor:	coord|and adv:tem|then prep|in det:art|the n|morning det:art|the
+	n|boy coord|and det:art|the n|dog co|look inf|to v|see det:art|the
+	n|frog .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|7|DET 7|3|POBJ
+	8|7|CONJ 9|10|DET 10|8|COORD 11|10|XMOD 12|13|INF 13|11|XCOMP 14|15|DET
+	15|13|OBJ 16|1|PUNCT
+*CHI:	and he's not there .
+%mor:	coord|and pro:sub|he~aux|be&3S neg|not adv|there .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	so they try looking everywhere in the boy's room .
+%mor:	co|so pro:sub|they v|try part|look-PRESP adv|everywhere prep|in
+	det:art|the n|boy~poss|s n|room .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|4|JCT 7|8|DET 8|10|MOD
+	9|8|POSS 10|6|POBJ 11|3|PUNCT
+*CHI:	but the frog isn't there .
+%mor:	conj|but det:art|the n|frog cop|be&3S~neg|not adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+*CHI:	they look out a window .
+%mor:	pro:sub|they cop|look prep|out det:art|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	the dog's got his head stuck in the jar .
+%mor:	det:art|the n|dog~aux|be&3S part|get&PASTP det:poss|his n|head
+	v|stick&PAST prep|in det:art|the n|jar .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|7|LINK 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*CHI:	&-um the dog falls out_of the window and <smash it> [//] smashes the
+	glass jar on his head .
+%mor:	det:art|the n|dog n|fall-PL prep|out_of det:art|the n|window
+	coord|and v|smash-3S det:art|the n|glass n|jar prep|on det:poss|his
+	n|head .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|3|PUNCT
+*CHI:	and the boy is really angry at the dog .
+%mor:	coord|and det:art|the n|boy aux|be&3S adv|real&dadj-LY adj|angry
+	prep|at det:art|the n|dog .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	&-er 0 [*] dog and the boy try looking for him in a forest .
+%mor:	n|dog coord|and det:art|the n|boy v|try part|look-PRESP prep|for
+	pro:obj|him prep|in det:art|a n|forest .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+%err:	0 = the
+*CHI:	and <they look> [//] the boy looks down a hole .
+%mor:	coord|and det:art|the n|boy cop|look-3S prep|down det:art|a n|hole
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	but the dog's trying to chase <the> [//] some bees or wasps .
+%mor:	conj|but det:art|the n|dog~aux|be&3S part|try-PRESP inf|to v|chase
+	qn|some n|bee-PL coord|or n|wasp-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|9|QUANT
+	9|7|OBJ 10|9|CONJ 11|10|COORD 12|5|PUNCT
+*CHI:	<and &-um> [//] and then the gerbil [//] rat or something &-er bites
+	the boy's nose .
+%mor:	coord|and adv:tem|then det:art|the n|rat coord|or
+	pro:indef|something v|bite-3S det:art|the n|boy~poss|s n|nose .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|9|DET 9|11|MOD 10|9|POSS 11|7|OBJ 12|1|PUNCT
+*CHI:	and the dog is &-um shaking the tree with the hive on it .
+%mor:	coord|and det:art|the n|dog aux|be&3S part|shake-PRESP det:art|the
+	n|tree prep|with det:art|the n|hive prep|on pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|5|PUNCT
+*CHI:	the hive falls off .
+%mor:	det:art|the n|hive v|fall-3S adv|off .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and then with [//] all the bees come out towards the dog , while
+	the boy's climbed a tree looking in a hole .
+%mor:	coord|and adv:tem|then qn|all det:art|the n|bee-PL v|come adv|out
+	prep|towards det:art|the n|dog cm|cm conj|while det:art|the
+	n|boy~poss|s part|climb-PASTP det:art|a n|tree part|look-PRESP
+	prep|in det:art|a n|hole .
+%gra:	1|6|LINK 2|6|JCT 3|5|QUANT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|LP 12|19|LINK 13|14|DET 14|19|SUBJ 15|14|POSS
+	16|14|XMOD 17|18|DET 18|16|OBJ 19|6|CJCT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|6|PUNCT
+*CHI:	the owl &-um comes out_of a hole in the tree .
+%mor:	det:art|the n|owl v|come-3S prep|out_of det:art|a n|hole prep|in
+	det:art|the n|tree .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*CHI:	and the bees chase the dog .
+%mor:	coord|and det:art|the n|bee-PL n|chase det:art|the n|dog .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	&-um 0 [*] owl chases the boy up on the rock .
+%mor:	n|owl v|chase-3S det:art|the n|boy adv|up prep|on det:art|the
+	n|rock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	the boy shouts into the forest holding what he thinks is [*] sticks
+	.
+%mor:	det:art|the n|boy v|shout-3S prep|into det:art|the n|forest
+	part|hold-PRESP pro:int|what pro:sub|he v|think-3S cop|be&3S
+	n|stick-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|10|OBJ 12|11|PRED 13|3|PUNCT
+%err:	is = are
+*CHI:	and then the deer lifts the boy up &-um (be)cause his antlers the
+	boy thinks are sticks .
+%mor:	coord|and adv:tem|then det:art|the n|deer v|lift-3S det:art|the
+	n|boy adv|up conj|because det:poss|his n|antler-PL det:art|the n|boy
+	v|think-3S aux|be&PRES n|stick-PL .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|COMP 10|11|MOD 11|9|OBJ 12|13|DET 13|14|SUBJ 14|11|CMOD 15|16|MOD
+	16|14|OBJ 17|5|PUNCT
+*CHI:	and <the> [/] &-um the deer runs to an edge of the forest and tips
+	him off <into the> [//] into a lake or a river .
+%mor:	coord|and det:art|the n|deer v|run-3S prep|to det:art|a n|edge
+	prep|of det:art|the n|forest coord|and v|tip-3S pro:obj|him adv|off
+	prep|into det:art|a n|lake coord|or det:art|a n|river .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|17|DET 17|15|POBJ 18|17|CONJ 19|20|DET 20|18|COORD 21|4|PUNCT
+*CHI:	and then they fall off into the river .
+%mor:	coord|and adv:tem|then pro:sub|they v|fall adv|off prep|into
+	det:art|the n|river .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	and the boy <hears that> [//] hears something .
+%mor:	coord|and det:art|the n|boy v|hear-3S pro:indef|something .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	he tells the dog to be quiet .
+%mor:	pro:sub|he v|tell-3S det:art|the n|dog inf|to cop|be n|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|4|XMOD 7|6|PRED 8|2|PUNCT
+*CHI:	and they look over a log .
+%mor:	coord|and pro:sub|they cop|look prep|over det:art|a n|log .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and <then> [//] there they see two frogs , his frog and another
+	frog .
+%mor:	coord|and adv|there pro:sub|they v|see det:num|two n|frog-PL cm|cm
+	det:poss|his n|frog coord|and qn|another n|frog .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|LP 8|9|MOD
+	9|6|ENUM 10|9|CONJ 11|12|QUANT 12|10|COORD 13|4|PUNCT
+*CHI:	<with> [/] <with> [//] then all the &-um young come out .
+%mor:	adv:tem|then qn|all det:art|the adj|young v|come adv|out .
+%gra:	1|5|JCT 2|5|QUANT 3|5|DET 4|5|MOD 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and then the boy and the dog go home with one of <their> [//] the
+	young of the frogs .
+%mor:	coord|and adv:tem|then det:art|the n|boy coord|and det:art|the
+	n|dog v|go n|home prep|with det:num|one prep|of det:art|the
+	adj|young prep|of det:art|the n|frog-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|8|LINK 6|7|DET 7|8|SUBJ
+	8|4|CMOD 9|8|JCT 10|8|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|JCT
+	16|17|DET 17|15|POBJ 18|1|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

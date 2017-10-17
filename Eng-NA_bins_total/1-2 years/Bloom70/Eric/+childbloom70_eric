@@ -1,0 +1,23 @@
+combo +t%mor +t*CHI +t*JEN +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:56:04 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *JEN;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <eric1.cha>
+----------------------------------------
+*** File "eric1.cha": line 2272.
+*CHI:	nice nice nice nice nice nice nice (ma)chine .
+%mor:	adj|nice adj|nice adj|nice adj|nice adj|nice (1)adj|nice (1)adj|nice
+	(1)n|machine .
+
+    Strings matched 1 times
+
+From file <eric2.cha>
+
+    Strings matched 0 times
+
+From file <eric3.cha>
+
+    Strings matched 0 times
+

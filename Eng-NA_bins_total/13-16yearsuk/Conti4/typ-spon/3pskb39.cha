@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/c-00004955-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.15||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he always calls me stupid when I do something that might be the
+	wrong thing to do .
+%mor:	pro:sub|he adv|always v|call-3S pro:obj|me adj|stupid conj|when
+	pro:sub|I v|do pro:indef|something pro:rel|that mod|might cop|be
+	det:art|the adj|wrong n|thing inf|to v|do .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|15|DET 14|15|MOD 15|12|PRED
+	16|17|INF 17|15|XMOD 18|3|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he always says something .
+%mor:	pro:sub|he adv|always v|say-3S pro:indef|something .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	so_that we just have an argument .
+%mor:	conj|so_that pro:sub|we adv|just v|have det:art|a n|argument .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and &-um it really annoys everybody else around us .
+%mor:	coord|and pro:per|it adv|real&dadj-LY v|annoy-3S
+	pro:indef|everybody post|else prep|around pro:obj|us .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and he always tells people that I don't want to know things .
+%mor:	coord|and pro:sub|he adv|always v|tell-3S n|person&PL pro:rel|that
+	pro:sub|I mod|do~neg|not v|want inf|to v|know n|thing-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|5|CMOD 11|12|INF 12|10|XCOMP 13|12|OBJ 14|4|PUNCT
+*CHI:	the things that might embarrass me quite a lot .
+%mor:	det:art|the n|thing-PL pro:rel|that mod|might v|embarrass
+	pro:obj|me adv|quite det:art|a n|lot .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|5|OBJ 7|9|JCT 8|9|DET
+	9|5|JCT 10|2|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	so &-um he's very argumentative .
+%mor:	conj|so pro:sub|he~cop|be&3S adv|very adj|argumentative .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	and so I don't know what say to him a_lot_of the time (be)cause he
+	just turns it into something horrible which annoys me a lot .
+%mor:	coord|and co|so pro:sub|I mod|do~neg|not v|know pro:int|what v|say
+	prep|to pro:obj|him qn|a_lot_of det:art|the n|time conj|because
+	pro:sub|he adv|just v|turn-3S pro:per|it prep|into
+	pro:indef|something adj|horrible pro:rel|which v|annoy-3S pro:obj|me
+	det:art|a n|lot .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|JCT 10|9|POBJ 11|13|QUANT 12|13|DET 13|8|JCT 14|17|LINK 15|17|SUBJ
+	16|17|JCT 17|13|CJCT 18|17|OBJ 19|17|JCT 20|19|POBJ 21|20|PRED 22|23|LINK
+	23|21|CMOD 24|23|OBJ 25|26|DET 26|23|OBJ 27|6|PUNCT
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah I can why .
+%mor:	co|yeah pro:sub|I mod|can adv:int|why .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

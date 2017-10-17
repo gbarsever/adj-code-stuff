@@ -1,0 +1,355 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:12:36 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <the01a.cha>
+----------------------------------------
+*** File "the01a.cha": line 1951.
+*MOT:	your poor little tummy . %snd:"the01a"_1554295_1556119
+%mor:	det:poss|your (1)adj|poor (1)adj|little (1)n|tummy .
+----------------------------------------
+*** File "the01a.cha": line 2022.
+*MOT:	some nice warm <pants> [>] . %snd:"the01a"_1620021_1621925
+%mor:	qn|some (1)adj|nice (1)adj|warm (1)n:pt|pants .
+----------------------------------------
+*** File "the01a.cha": line 2273.
+*MOT:	here , I'm gonna make (..) a tall tall tower . %snd:"the01a"_1786377_1790505
+%mor:	adv|here cm|cm pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make
+	det:art|a (1)adj|tall (1)adj|tall (1)n|tower .
+----------------------------------------
+*** File "the01a.cha": line 2336.
+*MOT:	the itsy bitsy spider went up the water spout . %snd:"the01a"_1883016_1887512
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "the01a.cha": line 2348.
+*MOT:	out came the sun and dried up all the rain and the itsy bitsy
+	spider went up the spout again . %snd:"the01a"_1893422_1902942
+%mor:	adv|out v|come&PAST det:art|the n|sun coord|and v|dry-PAST adv|up
+	adv|all det:art|the n|rain coord|and det:art|the (1)adj|itsy (1)adj|bitsy
+	(1)n|spider v|go&PAST adv|up det:art|the n|spout adv|again .
+
+    Strings matched 5 times
+
+From file <the01b.cha>
+
+    Strings matched 0 times
+
+From file <the02a.cha>
+
+    Strings matched 0 times
+
+From file <the02b.cha>
+----------------------------------------
+*** File "the02b.cha": line 422.
+*MOT:	bum bum bum . %snd:"the02b"_436465_438353
+%mor:	(1)adj|bum (1)adj|bum (1)n|bum .
+
+    Strings matched 1 times
+
+From file <the02c.cha>
+----------------------------------------
+*** File "the02c.cha": line 46.
+*MOT:	you had a nice long nap . %snd:"the02c"_37740_39564
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 1 times
+
+From file <the03a.cha>
+
+    Strings matched 0 times
+
+From file <the03b.cha>
+
+    Strings matched 0 times
+
+From file <the03c.cha>
+
+    Strings matched 0 times
+
+From file <the04a.cha>
+
+    Strings matched 0 times
+
+From file <the04b.cha>
+
+    Strings matched 0 times
+
+From file <the05.cha>
+
+    Strings matched 0 times
+
+From file <the06a.cha>
+----------------------------------------
+*** File "the06a.cha": line 1261.
+*MOT:	just not really the big messy stuff . %snd:"the06a"_1214396_1217164
+%mor:	adv|just neg|not adv|real&dadj-LY det:art|the (1)adj|big (1)adj|mess&dn-Y
+	(1)n|stuff .
+
+    Strings matched 1 times
+
+From file <the06b.cha>
+
+    Strings matched 0 times
+
+From file <the06c.cha>
+----------------------------------------
+*** File "the06c.cha": line 341.
+*MOT:	that's a cute little shirt . %snd:"the06c"_350048_352400
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|shirt .
+
+    Strings matched 1 times
+
+From file <the06d.cha>
+
+    Strings matched 0 times
+
+From file <the07a.cha>
+
+    Strings matched 0 times
+
+From file <the07b.cha>
+
+    Strings matched 0 times
+
+From file <the07c.cha>
+
+    Strings matched 0 times
+
+From file <the07d.cha>
+
+    Strings matched 0 times
+
+From file <the07e.cha>
+----------------------------------------
+*** File "the07e.cha": line 95.
+*MOT:	oh , look at the cute little guy . %snd:"the07e"_57022_59390
+%mor:	co|oh cm|cm cop|look prep|at det:art|the (1)adj|cute (1)adj|little (1)n|guy
+	.
+
+    Strings matched 1 times
+
+From file <the08a.cha>
+
+    Strings matched 0 times
+
+From file <the08b.cha>
+
+    Strings matched 0 times
+
+From file <the08c.cha>
+----------------------------------------
+*** File "the08c.cha": line 40.
+*MOT:	<the itsy bitsy spider went up the water+spout> [=! singing] . %snd:"the08c"_37602_43090
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|+n|water+n|spout .
+----------------------------------------
+*** File "the08c.cha": line 107.
+*MOT:	(...) <the itsy bitsy spider went up the water+spout , down came
+	the rain and washed the spider out> [=! singing] . %snd:"the08c"_112935_123623
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|+n|water+n|spout cm|cm adv|down v|come&PAST
+	det:art|the n|rain coord|and v|wash-PAST det:art|the n|spider
+	adv|out .
+----------------------------------------
+*** File "the08c.cha": line 119.
+*MOT:	<out came the sun and dried up all the rain , and the itsy bitsy
+	spider went up the spout again> [=! singing] . %snd:"the08c"_127299_136947
+%mor:	adv|out v|come&PAST det:art|the n|sun coord|and v|dry-PAST adv|up
+	adv|all det:art|the n|rain cm|cm coord|and det:art|the (1)adj|itsy
+	(1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the n|spout adv|again .
+
+    Strings matched 3 times
+
+From file <the09a.cha>
+----------------------------------------
+*** File "the09a.cha": line 607.
+*MOT:	oh_my_goodness , there goes another big stinky truck . %snd:"the09a"_653603_657603
+%mor:	co|oh_my_goodness cm|cm adv|there v|go-3S qn|another (1)adj|big
+	(1)adj|stink&dn-Y (1)n|truck .
+
+    Strings matched 1 times
+
+From file <the09b.cha>
+
+    Strings matched 0 times
+
+From file <the10a.cha>
+
+    Strings matched 0 times
+
+From file <the10b.cha>
+
+    Strings matched 0 times
+
+From file <the11a.cha>
+----------------------------------------
+*** File "the11a.cha": line 935.
+*MOT:	can you do itsy bitsy spider Theo ? %snd:"the11a"_836187_838875
+%mor:	mod|can pro:per|you v|do (1)adj|itsy (1)adj|bitsy (1)n|spider n:prop|Theo ?
+
+    Strings matched 1 times
+
+From file <the11b.cha>
+----------------------------------------
+*** File "the11b.cha": line 995.
+*MOT:	poor little sockie . %snd:"the11b"_1256509_1258509
+%mor:	(1)adj|poor (1)adj|little (1)n|sock-DIM .
+
+    Strings matched 1 times
+
+From file <the11c.cha>
+
+    Strings matched 0 times
+
+From file <the11d.cha>
+----------------------------------------
+*** File "the11d.cha": line 134.
+*MOT:	<the itsy bitsy spider went up <the water spout> [=! laughs]>
+	[=! singing] . %snd:"the11d"_113443_118899
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "the11d.cha": line 152.
+*MOT:	<and the itsy bitsy spider went up the spout <again> [>]>
+	[=! singing] . %snd:"the11d"_132781_139453
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "the11d.cha": line 173.
+*MOT:	<the <itsy bitsy spider> [>] went up <the water> [=! laughing]
+	spout> [=! singing] . %snd:"the11d"_149080_154200
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "the11d.cha": line 199.
+*MOT:	<and the itsy bitsy spider went up the spout again> [=! singing] .
+	%snd:"the11d"_174741_180261
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "the11d.cha": line 533.
+*MOT:	bouncy bouncy bounce . %snd:"the11d"_521938_524162
+%mor:	(1)adj|bounce&dv-Y (1)adj|bounce&dv-Y (1)n|bounce .
+
+    Strings matched 5 times
+
+From file <the12.cha>
+----------------------------------------
+*** File "the12.cha": line 201.
+*MOT:	<itsy bitsy spider went up the waterspout> [=! singing] . %snd:"the12"_183515_188699
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the
+	n|+n|water+n|spout .
+----------------------------------------
+*** File "the12.cha": line 254.
+*MOT:	what were we doin(g) , we were doin(g) itsy bitsy spider , ready ?
+	%snd:"the12"_235049_238073
+%mor:	pro:int|what aux|be&PAST pro:sub|we part|do-PRESP cm|cm pro:sub|we
+	aux|be&PAST part|do-PRESP (1)adj|itsy (1)adj|bitsy (1)n|spider cm|cm
+	adj|ready ?
+----------------------------------------
+*** File "the12.cha": line 266.
+*MOT:	<and the itsy bitsy spider went up the spout again> [=! singing] .
+	%snd:"the12"_243396_249236
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "the12.cha": line 479.
+*MOT:	look at that big green truck . %snd:"the12"_492150_495126
+%mor:	cop|look prep|at pro:dem|that (1)adj|big (1)adj|green (1)n|truck .
+----------------------------------------
+*** File "the12.cha": line 1495.
+*MOT:	it's kind of a funny giant baby picture . %snd:"the12"_1832773_1836421
+%mor:	pro:per|it~cop|be&3S n|kind prep|of det:art|a (1)adj|fun&dn-Y
+	(1)adj|giant (1)n|baby n|picture .
+----------------------------------------
+*** File "the12.cha": line 1675.
+*MOT:	(..) <down in the meadow in an itty bitty pool swam two little
+	fishies and a mama fishie too> [=! singing] . %snd:"the12"_2049719_2057367
+%mor:	adv|down prep|in det:art|the n|meadow prep|in det:art|a (1)adj|itty
+	(1)adj|bit&dn-Y (1)n|pool v|swim&PAST det:num|two adj|little n|fish-DIM-PL
+	coord|and det:art|a n|mama n|fish-DIM post|too .
+
+    Strings matched 6 times
+
+From file <the13a.cha>
+
+    Strings matched 0 times
+
+From file <the13b.cha>
+----------------------------------------
+*** File "the13b.cha": line 52.
+*MOT:	did you have a good little nappie ? %snd:"the13b"_31392_33424
+%mor:	v|do&PAST pro:per|you v|have det:art|a (1)adj|good (1)adj|little (1)n|nappie
+	?
+
+    Strings matched 1 times
+
+From file <the14a.cha>
+
+    Strings matched 0 times
+
+From file <the14b.cha>
+----------------------------------------
+*** File "the14b.cha": line 794.
+*MOT:	shaky shaky shake shake shake . %snd:"the14b"_1031997_1035261
+%mor:	(1)adj|shake&dv-Y (1)adj|shake&dv-Y (1)n|shake n|shake n|shake .
+
+    Strings matched 1 times
+
+From file <the14c.cha>
+
+    Strings matched 0 times
+
+From file <the14d.cha>
+
+    Strings matched 0 times
+
+From file <the15a.cha>
+
+    Strings matched 0 times
+
+From file <the15b.cha>
+
+    Strings matched 0 times
+
+From file <the15c.cha>
+
+    Strings matched 0 times
+
+From file <the16.cha>
+----------------------------------------
+*** File "the16.cha": line 1553.
+*MOT:	see the long lean lion ? %snd:"the16"_1323337_1325465
+%mor:	v|see det:art|the (1)adj|long (1)adj|lean (1)n|lion ?
+
+    Strings matched 1 times
+
+From file <the17a.cha>
+
+    Strings matched 0 times
+
+From file <the17b.cha>
+----------------------------------------
+*** File "the17b.cha": line 784.
+*MOT:	then they all lived together in a little crooked house . %snd:"the17b"_667378_670767
+%mor:	adv:tem|then pro:sub|they post|all v|live-PAST adv|together prep|in
+	det:art|a (1)adj|little (1)adj|crooked (1)n|house .
+----------------------------------------
+*** File "the17b.cha": line 1048.
+*MOT:	o:h and look he's in this cute little basket . %snd:"the17b"_858052_862327
+%mor:	co|oh coord|and cop|look pro:sub|he~cop|be&3S prep|in pro:dem|this
+	(1)adj|cute (1)adj|little (1)n|basket .
+----------------------------------------
+*** File "the17b.cha": line 1080.
+*MOT:	look at that nice soft kitty . %snd:"the17b"_881649_884405
+%mor:	cop|look prep|at pro:dem|that (1)adj|nice (1)adj|soft (1)n|kitty .
+----------------------------------------
+*** File "the17b.cha": line 1665.
+*MOT:	bu:mpy bro:wn (.) toad . %snd:"the17b"_1449364_1453092
+%mor:	(1)adj|bump&dv-Y (1)adj|brown (1)n|toad .
+
+    Strings matched 4 times
+

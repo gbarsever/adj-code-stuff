@@ -1,0 +1,51 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:11:46 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <lee02.cha>
+----------------------------------------
+*** File "lee02.cha": line 282.
+*GRA:	I hope the weather will be bit better next week .
+%mor:	pro:sub|I v|hope det:art|the n|weather mod|will cop|be n|bit
+	(1)adj|good&CP (1)adj|next (1)n|week .
+
+    Strings matched 1 times
+
+From file <lee03.cha>
+
+    Strings matched 0 times
+
+From file <lee04.cha>
+
+    Strings matched 0 times
+
+From file <lee05.cha>
+
+    Strings matched 0 times
+
+From file <lee06.cha>
+----------------------------------------
+*** File "lee06.cha": line 18.
+*FAT:	you horrible little swine (3.) .
+%mor:	pro:per|you (1)adj|horrible (1)adj|little (1)n|swine .
+
+    Strings matched 1 times
+
+From file <lee07.cha>
+
+    Strings matched 0 times
+
+From file <lee09.cha>
+
+    Strings matched 0 times
+
+From file <lee10.cha>
+----------------------------------------
+*** File "lee10.cha": line 235.
+*MOT:	only got_to get nice little swing now .
+%mor:	adv|only mod:aux|got_to v|get (1)adj|nice (1)adj|little (1)n|swing adv|now .
+
+    Strings matched 1 times
+

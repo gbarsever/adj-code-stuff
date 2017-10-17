@@ -1,0 +1,1140 @@
+combo +t%mor -t*CHI -t*MAG +re +s(adj*^adj*^n*) *.cha
+Mon May  8 21:48:25 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MAG;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 359.
+*MOT:	that's a little orange circle huh ? %snd:"c1-m30dec96"_565299_567398
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|orange (1)n|circle
+	co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 538.
+*MOT:	your big wide open mouth . %snd:"c1-m30dec96"_782252_783924
+%mor:	det:poss|your adj|big (1)adj|wide (1)adj|open (1)n|mouth .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 1219.
+*MOT:	yummy yummy water . %snd:"c1-m30dec96"_1527980_1529332
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|water .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 1887.
+*MOT:	the silly silly baby . %snd:"c1-m30dec96"_2522625_2524463
+%mor:	det:art|the (1)adj|silly (1)adj|silly (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 1903.
+*MOT:	you're such a big strong girl . %snd:"c1-m30dec96"_2537853_2539592
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|big (1)adj|strong (1)n|girl
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 2288.
+*MOT:	just have a nice nice nappie xxx ! %snd:"c1-m30dec96"_2983925_2987435
+%mor:	adv|just v|have det:art|a (1)adj|nice (1)adj|nice (1)n|nappie !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 3369.
+*MOT:	yummy yummy chicken and noodles . %snd:"c1-m30dec96"_3872277_3874383
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|chicken coord|and n|noodle-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 3650.
+*MOT:	what a greedy little piglet . %snd:"c1-m30dec96"_4277469_4279156
+%mor:	pro:int|what det:art|a (1)adj|greed&dn-Y (1)adj|little (1)n|piglet .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0902.cha": line 3731.
+*MOT:	oh and you're quite the thirsty little girl huh ? %snd:"c1-m30dec96"_4408435_4410735
+%mor:	co|oh coord|and pro:per|you~cop|be&PRES adv|quite det:art|the
+	(1)adj|thirst&dn-Y (1)adj|little (1)n|girl co|huh ?
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 513.
+*MOT:	yummy yummy yellow cross ? %snd:"c1-t14jan97"_460490_462357
+%mor:	adj|yum&dn-Y (1)adj|yum&dn-Y (1)adj|yellow (1)n|cross ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 1447.
+*MOT:	silly (.) silly (.) silly (.) seal . %snd:"c1-t14jan97"_1409150_1411344
+%mor:	co|silly (1)adj|silly (1)adj|silly (1)n|seal .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 2502.
+*MOT:	tasty yummy yummy toes . %snd:"c1-t14jan97"_2315693_2318435
+%mor:	adj|taste&dn-Y (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|toe-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 2516.
+*MOT:	yummy yummy toes [=! voice] . %snd:"c1-t14jan97"_2333507_2335667
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|toe-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 3094.
+*MOT:	Morgan's little gray sweat+pants &=noise . %snd:"c1-t14jan97"_2776591_2779642
+%mor:	n:prop|Morgan~poss|s (1)adj|little (1)adj|gray (1)n|+n|sweat+n|pants .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 3149.
+*MOT:	Morgan's little green shir(t) . %snd:"c1-t14jan97"_2824020_2825841
+%mor:	n:prop|Morgan~poss|s (1)adj|little (1)adj|green (1)n|shirt .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 3152.
+*MOT:	Morgan's little green shir(t) [=! voice] . %snd:"c1-t14jan97"_2828810_2830680
+%mor:	n:prop|Morgan~poss|s (1)adj|little (1)adj|green (1)n|shirt .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 3161.
+*MOT:	now look at Morgan's little pink shir(t) ! %snd:"c1-t14jan97"_2840878_2842843
+%mor:	adv|now cop|look prep|at n:prop|Morgan~poss|s (1)adj|little (1)adj|pink
+	(1)n|shirt !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 3172.
+*MOT:	with little pink and purple flowers and little green leaves . %snd:"c1-t14jan97"_2846832_2850931
+%mor:	prep|with adj|little n|pink coord|and adj|purple n|flower-PL
+	coord|and (1)adj|little (1)adj|green (1)n|leaf-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 4087.
+*MOT:	yes yes yes little pink feet . %snd:"c1-t14jan97"_3884714_3886277
+%mor:	co|yes co|yes co|yes (1)adj|little (1)adj|pink (1)n|foot&PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-0917.cha": line 4504.
+*MOT:	yellow orangish (.) tanish color &=noise . %snd:"c1-t14jan97"_4492902_4495342
+%mor:	n|yellow (1)adj|orange-ISH (1)adj|tan&dn-ISH (1)n|color .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1014.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha": line 927.
+*MOT:	there now you're a clean little baby girl &=noise . %snd:"c1-m24feb97"_1118117_1120426
+%mor:	adv|there adv|now pro:per|you~aux|be&PRES det:art|a (1)adj|clean
+	(1)adj|little (1)n|baby n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha": line 1373.
+*MOT:	white ruffly sock huh ? %snd:"c1-m24feb97"_1497170_1498773
+%mor:	(1)adj|white (1)adj|ruffle&dv-Y (1)n|sock co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha": line 2958.
+*MOT:	fuzzy yellow circle [=! read] . %snd:"c1-m24feb97"_3492483_3494410
+%mor:	(1)adj|fuzz&dn-Y (1)adj|yellow (1)n|circle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha": line 2965.
+*MOT:	bumpy brown triangle [=! read] . %snd:"c1-m24feb97"_3514959_3517030
+%mor:	(1)adj|bump&dv-Y (1)adj|brown (1)n|triangle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1027.cha": line 2998.
+*MOT:	what's on the (..) bumpy brown triangle ? %snd:"c1-m24feb97"_3545181_3551418
+%mor:	pro:int|what~aux|be&3S prep|on det:art|the (1)adj|bump&dv-Y (1)adj|brown
+	(1)n|triangle ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 340.
+*MOT:	that's a big pink foot . %snd:"c1-w26mar97"_807308_808962
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|pink (1)n|foot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 344.
+*MOT:	big pink foot . %snd:"c1-w26mar97"_813136_814015
+%mor:	(1)adj|big (1)adj|pink (1)n|foot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 347.
+*MOT:	what do you think of your big pink foot ? %snd:"c1-w26mar97"_815017_816900
+%mor:	pro:int|what mod|do pro:per|you v|think prep|of det:poss|your
+	(1)adj|big (1)adj|pink (1)n|foot ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 355.
+*MOT:	bright big pink foot . %snd:"c1-w26mar97"_818982_820225
+%mor:	(1)adj|bright (1)adj|big (1)n|pink n|foot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 413.
+*MOT:	that's a big pink foot . %snd:"c1-w26mar97"_854979_856390
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|pink (1)n|foot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 423.
+*MOT:	do you want your big pink foot ? %snd:"c1-w26mar97"_869047_870350
+%mor:	mod|do pro:per|you v|want det:poss|your (1)adj|big (1)adj|pink (1)n|foot ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 436.
+*MOT:	what is the yellow thing on the big pink foot ? %snd:"c1-w26mar97"_877956_880071
+%mor:	pro:int|what cop|be&3S det:art|the n|yellow n|thing prep|on
+	det:art|the (1)adj|big (1)adj|pink (1)n|foot ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/c1/c1-1129.cha": line 523.
+*MOT:	what a pretty little ear . %snd:"c1-w26mar97"_934207_936271
+%mor:	pro:int|what det:art|a (1)adj|pretty (1)adj|little (1)n|ear .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha": line 480.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"d1-f15nov96"_403530_406196
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha": line 499.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"d1-f15nov96"_420091_422770
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha": line 2037.
+*MOT:	pat your head head head [=! sung] ! %snd:"d1-f15nov96"_2132937_2134895
+%mor:	v|pat det:poss|your (1)adj|head (1)adj|head (1)n|head !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha": line 2040.
+*MOT:	find something yellow yellow yellow [=! sung] ! %snd:"d1-f15nov96"_2135741_2138741
+%mor:	v|find pro:indef|something (1)adj|yellow (1)adj|yellow (1)n|yellow !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-0904.cha": line 3379.
+*MOT:	chubby little tummy [?] all stuffed with fluff [=! sung] . %snd:"d1-f15nov96"_3748779_3752031
+%mor:	(1)adj|chubby (1)adj|little (1)n|tummy post|all v|stuff-PAST prep|with
+	n|fluff .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1026.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1026.cha": line 1483.
+*MOT:	yummy yummy pears [=! sung] . %snd:"d1-m6jan97"_1741293_1743161
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|pear-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1026.cha": line 1487.
+*MOT:	some yummy yummy pears [=! sung] . %snd:"d1-m6jan97"_1743810_1746125
+%mor:	qn|some (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|pear-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1106.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1106.cha": line 2929.
+*MOT:	I'm real sorry Mommy has_to wipe you up when you're so tired
+	[=! whispered] . %snd:"d1-f17jan97"_3853306_3856352
+%mor:	pro:sub|I~cop|be&1S (1)adj|real (1)adj|sorry (1)n:prop|Mommy mod:aux|has_to
+	v|wipe pro:per|you adv|up conj|when pro:per|you~cop|be&PRES adv|so
+	part|tire-PASTP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/d1/d1-1120.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha": line 639.
+*MOT:	we can't have xxx have you having the same messy face all day ,
+	baby . %snd:"f1-r5dec96"_1317510_1320959
+%mor:	pro:sub|we mod|can~neg|not v|have v|have pro:per|you
+	part|have-PRESP det:art|the (1)adj|same (1)adj|mess&dn-Y (1)n|face qn|all
+	n|day cm|cm n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha": line 1615.
+*MOT:	got a big smily face . %snd:"f1-r5dec96"_3217177_3218192
+%mor:	v|get&PAST det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha": line 1676.
+*MOT:	big yellow hat . %snd:"f1-r5dec96"_3265939_3266667
+%mor:	(1)adj|big (1)adj|yellow (1)n|hat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha": line 1739.
+*MOT:	in the hot hot sun [=! read] . %snd:"f1-r5dec96"_3341136_3342476
+%mor:	prep|in det:art|the (1)adj|hot (1)adj|hot (1)n|sun .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-0828.cha": line 1829.
+*MOT:	a long long way [=! read] . %snd:"f1-r5dec96"_3441565_3443554
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|way .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1003.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1003.cha": line 334.
+*MOT:	the itsy bitsy spider goes up the water spout [=! sung] . %snd:"f1-f10jan97"_346772_351525
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S prep|up det:art|the
+	n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1003.cha": line 350.
+*MOT:	the itsy bitsy spider goes up to Dillon's head [=! sung] . %snd:"f1-f10jan97"_363473_368465
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 333.
+*MOT:	the itsy bitsy spider walks up (...) Dillon's belly [=! sung] . %snd:"f1-m20jan97"_341325_346852
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|up
+	n:prop|Dillon~poss|s n|belly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 348.
+*MOT:	the itsy bitsy spider walks up to Dillon's head [=! sung] . %snd:"f1-m20jan97"_358008_363284
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 359.
+*MOT:	the itsy bitsy spider walks (a)cross Dillon's belly [=! sung] . %snd:"f1-m20jan97"_367489_373556
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|across
+	n:prop|Dillon~poss|s n|belly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 374.
+*MOT:	the itsy bitsy spider walks up to Dillon's head [=! sung] . %snd:"f1-m20jan97"_383357_388387
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 382.
+*MOT:	the itsy bitsy spider walks up Dillon's leg [=! sung] . %snd:"f1-m20jan97"_396667_402675
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|up
+	n:prop|Dillon~poss|s n|leg .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 397.
+*MOT:	so the itsy bitsy spider walked across Dillon's shoulder [=! sung]
+	. %snd:"f1-m20jan97"_414288_420279
+%mor:	co|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-PAST
+	prep|across n:prop|Dillon~poss|s n|shoulder .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 501.
+*MOT:	that was quite a little old (.) burp and cough there . %snd:"f1-m20jan97"_717565_720448
+%mor:	pro:dem|that cop|be&PAST&13S adv|quite det:art|a (1)adj|little (1)adj|old
+	(1)n|burp coord|and n|cough adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 513.
+*MOT:	that sounded like a big ol(d) frog in your throat . %snd:"f1-m20jan97"_729235_731218
+%mor:	pro:rel|that part|sound-PASTP prep|like det:art|a (1)adj|big (1)adj|old
+	(1)n|frog prep|in det:poss|your n|throat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 619.
+*MOT:	xxx hold up those loose [?] loose pieces ? %snd:"f1-m20jan97"_878418_880316
+%mor:	n|hold adv|up det:dem|those (1)adj|loose (1)adj|loose (1)n|piece-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 1215.
+*MOT:	blue green yellow orange . %snd:"f1-m20jan97"_1622276_1624592
+%mor:	adj|blue (1)adj|green (1)adj|yellow (1)n|orange .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 1854.
+*MOT:	there's a big green frog on that page . %snd:"f1-m20jan97"_2427071_2429811
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|green (1)n|frog
+	prep|on pro:dem|that n|page .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 1859.
+*MOT:	big green frog [=! voice] . %snd:"f1-m20jan97"_2431139_2432846
+%mor:	(1)adj|big (1)adj|green (1)n|frog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 2543.
+*MOT:	this has been such a long long day . %snd:"f1-m20jan97"_3072139_3075363
+%mor:	pro:dem|this aux|have&3S aux|be&PASTP qn|such det:art|a (1)adj|long
+	(1)adj|long (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 2788.
+*MOT:	little little tiny baby Hannah . %snd:"f1-m20jan97"_3279031_3280899
+%mor:	adj|little (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 2791.
+*MOT:	little little tiny baby Hannah . %snd:"f1-m20jan97"_3281745_3283466
+%mor:	adj|little (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1013.cha": line 2795.
+*MOT:	real little tiny baby Hannah . %snd:"f1-m20jan97"_3288347_3289892
+%mor:	adj|real (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+
+    Strings matched 16 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 71.
+*MOT:	fuzzy little panther [=! sung] . %snd:"f1-w29jan97"_52310_54405
+%mor:	(1)adj|fuzz&dn-Y (1)adj|little (1)n|panther .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 161.
+*MOT:	the itsy bitsy spider goes up the water spout [=! sung] . %snd:"f1-w29jan97"_135514_142244
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S prep|up det:art|the
+	n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 178.
+*MOT:	the itsy bitsy spider crawls up to Dillon's head [=! sung] . %snd:"f1-w29jan97"_154728_160066
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 206.
+*MOT:	the itsy bitsy spider crawls up the water spout [=! sung] . %snd:"f1-w29jan97"_178616_184927
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S prep|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 221.
+*MOT:	an(d) the itsy bitsy spider crawls up to Dillon's head again
+	[=! sung] . %snd:"f1-w29jan97"_194796_198529
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S adv|up
+	prep|to n:prop|Dillon~poss|s adj|head adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 230.
+*MOT:	itsy bitsy spider crawls up the water spout [=! sung] . %snd:"f1-w29jan97"_201075_204739
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S prep|up det:art|the n|water
+	n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 245.
+*MOT:	an(d) the itsy bitsy spider crawls up the spout again [=! sung] . %snd:"f1-w29jan97"_210884_214899
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S
+	prep|up det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1022.cha": line 2995.
+*MOT:	itty bitty teddy bear . %snd:"f1-w29jan97"_4362112_4363884
+%mor:	(1)adj|itty (1)adj|bit&dn-Y (1)n|teddy n|bear .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1106.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1106.cha": line 188.
+*MOT:	and the happy little girl . %snd:"f1-r13feb97"_161935_163646
+%mor:	coord|and det:art|the (1)adj|happy (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1106.cha": line 3546.
+*MOT:	that's a real big mouth . %snd:"f1-r13feb97"_4497139_4497837
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|real (1)adj|big (1)n|mouth .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f1/f1-1120.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-0827.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-0912.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-1010.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-1010.cha": line 2221.
+*MOT:	the same (.) exact (...) thing . %snd:"f2-s16apr00"_2935000_2937820
+%mor:	det:art|the (1)adj|same (1)adj|exact (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-1024.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/f2/f2-1024.cha": line 1952.
+*MOT:	he's a easy open [?] baby . %snd:"f2-s30apr00"_3090670_3092603
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|ease&dn-Y (1)adj|open (1)n|baby .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0901.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0901.cha": line 494.
+*MOT:	what are you doing , you big funny boy &=laugh ? %snd:"i1-s2mar97"_389493_391690
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP cm|cm
+	pro:per|you (1)adj|big (1)adj|fun&dn-Y (1)n|boy ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 84.
+*MOT:	is that a good hot bean ? %snd:"i1-h15mar97"_122889_124307
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|good (1)adj|hot (1)n|bean ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 901.
+*MOT:	lovely [?] yummy stuff . %snd:"i1-h15mar97"_839099_840430
+%mor:	(1)adj|love&dn-LY (1)adj|yum&dn-Y (1)n|stuff .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 1114.
+*MOT:	a big big toothie peg . %snd:"i1-h15mar97"_1026231_1027844
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|tooth-DIM n|peg .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 2323.
+*MOT:	let's do the (t)eensie weensie spider ! %snd:"i1-h15mar97"_2351047_2352364
+%mor:	v|let~pro:obj|us v|do det:art|the (1)adj|teensie (1)adj|weensie (1)n|spider
+	!
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 2330.
+*MOT:	the (t)eensie weensie spider [=! sung] . %snd:"i1-h15mar97"_2354007_2357416
+%mor:	det:art|the (1)adj|teensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 2347.
+*MOT:	an(d) the (t)eensie weensie spider [=! sung] . %snd:"i1-h15mar97"_2371057_2374490
+%mor:	coord|and det:art|the (1)adj|teensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0914.cha": line 3278.
+*MOT:	thirsty little baby huh [=! whispered] ? %snd:"i1-h15mar97"_3281468_3282852
+%mor:	(1)adj|thirst&dn-Y (1)adj|little (1)n|baby co|huh ?
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0930.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0930.cha": line 1232.
+*MOT:	that's my big ugly foot . %snd:"i1-m31mar97"_1251524_1252789
+%mor:	pro:dem|that~cop|be&3S det:poss|my (1)adj|big (1)adj|ugly (1)n|foot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0930.cha": line 1923.
+*MOT:	she's gonna eat a little small amount here &=noise . %snd:"i1-m31mar97"_2104915_2106959
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|eat det:art|a
+	(1)adj|little (1)adj|small (1)n|amount adv|here .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0930.cha": line 2099.
+*MOT:	the eensie weensie spider went up the water spout [=! sung] . %snd:"i1-m31mar97"_2404784_2411839
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-0930.cha": line 2132.
+*MOT:	and the eensie weensie spider [=! sung] . %snd:"i1-m31mar97"_2435700_2438667
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-1005.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-1005.cha": line 414.
+*MOT:	yummy yummy noodles &=noise . %snd:"i1-s6apr97"_283065_284849
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|noodle-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/i1/i1-1005.cha": line 461.
+*MOT:	this is a big tough squash I'm cutting . %snd:"i1-s6apr97"_334357_336681
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|tough (1)n|squash
+	pro:sub|I~aux|be&1S part|cut-PRESP .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/j1/j1-0908.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/j1/j1-0922.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/j1/j1-1005.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/j1/j1-1106.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1013.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1013.cha": line 481.
+*MOT:	<“stroke my soft silky fur”> [=! read] ! %snd:"m2-s11jun00"_3005820_3008383
+%mor:	bq|bq v|stroke det:poss|my (1)adj|soft (1)adj|silk&dn-Y (1)n|fur eq|eq !
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 139.
+*MOT:	see the smooth shiny tag ? %snd:"m2-s25jun00"_1141630_1143050
+%mor:	v|see det:art|the (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 150.
+*MOT:	this kitty's got a hard yellow bowl . %snd:"m2-s25jun00"_1157320_1159147
+%mor:	pro:dem|this n|kitty~aux|be&3S part|get&PASTP det:art|a (1)adj|hard
+	(1)adj|yellow (1)n|bowl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 220.
+*MOT:	see kitty's eatin(g) out_of a hard yellow bowl ! %snd:"m2-s25jun00"_1285533_1287830
+%mor:	co|see n|kitty~aux|be&3S part|eat-PRESP prep|out_of det:art|a
+	(1)adj|hard (1)adj|yellow (1)n|bowl !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 302.
+*MOT:	look at our smooth shiny tags [=! read] . %snd:"m2-s25jun00"_1426067_1428353
+%mor:	cop|look prep|at det:poss|our (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 313.
+*MOT:	the hard yellow bowl ? %snd:"m2-s25jun00"_1439517_1440467
+%mor:	det:art|the (1)adj|hard (1)adj|yellow (1)n|bowl ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 383.
+*MOT:	stroke my soft silky fur [=! read] ! %snd:"m2-s25jun00"_1582493_1584587
+%mor:	v|stroke det:poss|my (1)adj|soft (1)adj|silk&dn-Y (1)n|fur !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 416.
+*MOT:	look at our smooth shiny tags [=! read] ! %snd:"m2-s25jun00"_1617403_1619753
+%mor:	cop|look prep|at det:poss|our (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag-PL !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/m2/m2-1027.cha": line 1098.
+*MOT:	how about the shiny smooth tags &=noise ? %snd:"m2-s25jun00"_4103203_4105447
+%mor:	adv:int|how adv|about det:art|the (1)adj|shine&dn-Y (1)adj|smooth
+	(1)n|tag-PL ?
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/q1/q1-0928.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/q1/q1-0928.cha": line 530.
+*MOT:	don't bite your little bitty toe ! %snd:"q1-m8may00"_1014210_1016377
+%mor:	mod|do~neg|not v|bite det:poss|your (1)adj|little (1)adj|bit&dn-Y (1)n|toe !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/q1/q1-0928.cha": line 533.
+*MOT:	it you(r) [?] little bitty fat feet . %snd:"q1-m8may00"_1017087_1018670
+%mor:	pro:per|it det:poss|your adj|little (1)adj|bit&dn-Y (1)adj|fat (1)n|foot&PL
+	.
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 1342.
+*MOT:	back back back back back back back . %snd:"s1-t11mar97"_1701133_1702354
+%mor:	adv|back adj|back adj|back adj|back (1)adj|back (1)adj|back (1)n|back .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 1949.
+*MOT:	we'll just take a real quick walk . %snd:"s1-t11mar97"_2518799_2520498
+%mor:	pro:sub|we~mod|will adv|just v|take det:art|a (1)adj|real (1)adj|quick
+	(1)n|walk .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 1957.
+*MOT:	real quick walk . %snd:"s1-t11mar97"_2524490_2525486
+%mor:	(1)adj|real (1)adj|quick (1)n|walk .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2701.
+*MOT:	wanna do eensie weensie spider ? %snd:"s1-t11mar97"_3565704_3567475
+%mor:	v|want~inf|to v|do (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2704.
+*MOT:	wanna do eensie weensie spider ? %snd:"s1-t11mar97"_3568323_3570010
+%mor:	v|want~inf|to v|do (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2710.
+*MOT:	you wanna sit up and do eensie weensie spider ? %snd:"s1-t11mar97"_3572558_3574524
+%mor:	pro:per|you v|want~inf|to v|sit adv|up coord|and v|do (1)adj|eensie
+	(1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2715.
+*MOT:	do eensie weensie spider ! %snd:"s1-t11mar97"_3575391_3576598
+%mor:	v|do (1)adj|eensie (1)adj|weensie (1)n|spider !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2721.
+*MOT:	the eensie weensie spider went up the water spout [=! sung] . %snd:"s1-t11mar97"_3578745_3584062
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0902.cha": line 2736.
+*MOT:	and the eensie weensie spider went up the spout again . %snd:"s1-t11mar97"_3595684_3601089
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST
+	adv|up det:art|the n|spout adv|again .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0919.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0919.cha": line 1146.
+*MOT:	xxx xxx xxx the eensie weensie spider ? %snd:"s1-f28mar97"_1566367_1568534
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-0919.cha": line 1149.
+*MOT:	where's the eensie weensie spider , Tim ? %snd:"s1-f28mar97"_1569769_1571884
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider
+	cm|cm n:prop|Tim ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1015.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 14.
+*MOT:	we haven't done eensie weensie spider in a long time . %snd:"s1-r8may97"_1622_4539
+%mor:	pro:sub|we aux|have~neg|not part|do&PASTP (1)adj|eensie (1)adj|weensie
+	(1)n|spider prep|in det:art|a adj|long n|time .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 22.
+*MOT:	The eensie weensie spider went up the water spout [=! sung] . %snd:"s1-r8may97"_6150_13302
+%mor:	n:prop|The (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 40.
+*MOT:	and the eensie weensie spider went up the spout again [=! sung] . %snd:"s1-r8may97"_27386_33891
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST
+	adv|up det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 45.
+*MOT:	the eensie weensie spider . %snd:"s1-r8may97"_34927_36431
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 2441.
+*MOT:	say (.) “bouncy bouncy bouncy bouncy (.) ball ball ball” &=noise !
+	%snd:"s1-r8may97"_3121174_3124618
+%mor:	co|say bq|bq adj|bounce&dv-Y adj|bounce&dv-Y (1)adj|bounce&dv-Y
+	(1)adj|bounce&dv-Y (1)n|ball n|ball n|ball eq|eq !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 2887.
+*MOT:	a stove and a sink (.) and a refrigerator (...) and a long wooden
+	counter [=! read] . %snd:"s1-r8may97"_3556065_3562669
+%mor:	det:art|a n|stove coord|and det:art|a n|sink coord|and det:art|a
+	n|refrigerator coord|and det:art|a (1)adj|long (1)adj|wooden (1)n|counter .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 2950.
+*MOT:	or from the cool clear brook [=! read] . %snd:"s1-r8may97"_3618415_3620958
+%mor:	coord|or prep|from det:art|the (1)adj|cool (1)adj|clear (1)n|brook .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 2957.
+*MOT:	in the tall meadow grass [=! read] . %snd:"s1-r8may97"_3625340_3627718
+%mor:	prep|in det:art|the (1)adj|tall (1)adj|meadow (1)n|grass .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 3244.
+*MOT:	red blue yellow green &=noise . %snd:"s1-r8may97"_3906827_3909024
+%mor:	adj|red (1)adj|blue (1)adj|yellow (1)n|green .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1029.cha": line 3247.
+*MOT:	green yellow blue red &=noise . %snd:"s1-r8may97"_3909486_3911218
+%mor:	adj|green (1)adj|yellow (1)adj|blue (1)n|red .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1113.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1113.cha": line 2339.
+*MOT:	in the tall meadow grass [=! read] . %snd:"s1-r22may97"_3493275_3495674
+%mor:	prep|in det:art|the (1)adj|tall (1)adj|meadow (1)n|grass .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s1/s1-1126.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 552.
+*MOT:	nice little grey horse stops to look below [=! read] . %snd:"s2-h3aug96"_306667_309496
+%mor:	adj|nice (1)adj|little (1)adj|grey (1)n|horse v|stop-3S inf|to cop|look
+	adv|below .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 573.
+*MOT:	nice little brown cow stops to say (..) <hello@q> [=! read] . %snd:"s2-h3aug96"_317993_321176
+%mor:	adj|nice (1)adj|little (1)adj|brown (1)n|cow v|stop-3S inf|to v|say
+	meta|hello .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 587.
+*MOT:	nice little white sheep standing in a row [=! read] . %snd:"s2-h3aug96"_327337_329949
+%mor:	adj|nice (1)adj|little (1)adj|white (1)n|sheep part|stand-PRESP prep|in
+	det:art|a n|row .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 611.
+*MOT:	nice little (.) pink (.) pig wiggles to+and+fro [=! read] . %snd:"s2-h3aug96"_341704_344694
+%mor:	adj|nice (1)adj|little (1)adj|pink (1)n|pig n|wiggle-PL
+	n|+n|to+conj|and+n|fro .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 919.
+*MOT:	who is that cute little girl ? %snd:"s2-h3aug96"_691616_692823
+%mor:	pro:int|who cop|be&3S pro:dem|that (1)adj|cute (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 922.
+*MOT:	who is that cute little girl ? %snd:"s2-h3aug96"_693177_694442
+%mor:	pro:int|who cop|be&3S pro:dem|that (1)adj|cute (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 931.
+*MOT:	look at that cute little girl ! %snd:"s2-h3aug96"_697588_699033
+%mor:	cop|look prep|at pro:dem|that (1)adj|cute (1)adj|little (1)n|girl !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-0921.cha": line 1877.
+*MOT:	say <“I bonked our head last time”> [=! voice] ! %snd:"s2-h3aug96"_1758016_1759663
+%mor:	co|say bq|bq pro:sub|I v|bonk-PAST det:poss|our (1)adj|head (1)adj|last
+	(1)n|time eq|eq !
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1004.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1004.cha": line 423.
+*MOT:	(tha)t's a big ol(d) cup huh ? %snd:"s2-h17aug96"_414289_415478
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|cup co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1004.cha": line 4593.
+*MOT:	and a real soft ball . %snd:"s2-h17aug96"_3937003_3938381
+%mor:	coord|and det:art|a (1)adj|real (1)adj|soft (1)n|ball .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1004.cha": line 4966.
+*MOT:	the cute little rabbit [=! voice] . %snd:"s2-h17aug96"_4200568_4201969
+%mor:	det:art|the (1)adj|cute (1)adj|little (1)n|rabbit .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1018.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1018.cha": line 4782.
+*MOT:	those your big ol(d) [?] beads huh ? %snd:"s2-h31aug96"_4018361_4019879
+%mor:	pro:dem|those det:poss|your (1)adj|big (1)adj|old (1)n|bead-PL co|huh ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1105.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1105.cha": line 689.
+*MOT:	you can have a matching little turtleneck and leggings and your own
+	little fleece jacket . %snd:"s2-w18sep96"_914037_917949
+%mor:	pro:per|you mod|can v|have det:art|a part|match-PRESP adj|little
+	n|turtleneck coord|and n|legging-PL coord|and det:poss|your (1)adj|own
+	(1)adj|little (1)n|fleece n|jacket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1105.cha": line 724.
+*MOT:	and maybe a cute little pair of jeans huh ? %snd:"s2-w18sep96"_938918_941236
+%mor:	coord|and adv|maybe det:art|a (1)adj|cute (1)adj|little (1)n|pair prep|of
+	n|jeans co|huh ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1124.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1124.cha": line 509.
+*MOT:	an eensie weensie spider (.) went up the water spout [=! read] . %snd:"s2-s6oct96"_362598_365952
+%mor:	det:art|a (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1124.cha": line 524.
+*MOT:	and the eensie weensie spider (.) went up (..) the spout again
+	[=! read] . %snd:"s2-s6oct96"_375337_380689
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST
+	adv|up det:art|the n|spout adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1124.cha": line 1770.
+*MOT:	whoa that was a pretty good thing . %snd:"s2-s6oct96"_2161010_2162673
+%mor:	co|whoa pro:rel|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s2/s2-1124.cha": line 2233.
+*MOT:	that's a pretty cute little outfit . %snd:"s2-s6oct96"_2612997_2614309
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|pretty (1)adj|cute (1)adj|little
+	(1)n|outfit .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/s3/s3-1112.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-0927.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-0927.cha": line 673.
+*MOT:	nice little chickie . %snd:"t1-f15dec00"_1083707_1084933
+%mor:	(1)adj|nice (1)adj|little (1)n|chick-DIM .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1016.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1016.cha": line 1557.
+*MOT:	eating Mommy's face might be a pretty bad thing . %snd:"t1-w3jan01"_2886403_2889670
+%mor:	part|eat-PRESP n:prop|Mommy~poss|s n|face mod|might cop|be
+	det:art|a (1)adj|pretty (1)adj|bad (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1108.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1108.cha": line 202.
+*MOT:	nasty nasty vitamins . %snd:"t1-f26jan01"_255430_257137
+%mor:	(1)adj|nasty (1)adj|nasty (1)n|vitamin-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1108.cha": line 1176.
+*MOT:	with a great (..) big hug and a kiss from me to you [=! sung] . %snd:"t1-f26jan01"_1536147_1539843
+%mor:	prep|with det:art|a (1)adj|great (1)adj|big (1)n|hug coord|and det:art|a
+	n|kiss prep|from pro:obj|me prep|to pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1108.cha": line 1197.
+*MOT:	with a great (.) big (.) hug and a kiss from me to you [=! read] .
+	%snd:"t1-f26jan01"_1552310_1555650
+%mor:	prep|with det:art|a (1)adj|great (1)adj|big (1)n|hug coord|and det:art|a
+	n|kiss prep|from pro:obj|me prep|to pro:per|you .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1126.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1126.cha": line 287.
+*MOT:	o:h yummy yummy (ba)nana . %snd:"t1-f16feb01"_387690_391030
+%mor:	co|oh (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|banana .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1126.cha": line 1246.
+*MOT:	put on new clean diapie ! %snd:"t1-f16feb01"_1735850_1737557
+%mor:	v|put&ZERO prep|on (1)adj|new (1)adj|clean (1)n|diapie !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/t1/t1-1126.cha": line 2489.
+*MOT:	old bad telephone , don't do that to the baby ! %snd:"t1-f16feb01"_3185723_3188400
+%mor:	(1)adj|old (1)adj|bad (1)n|telephone cm|cm mod|do~neg|not v|do pro:dem|that
+	prep|to det:art|the n|baby !
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0828.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0828.cha": line 2252.
+*MOT:	you dropped your big plastic spoon &=noise . %snd:"v1-t25feb97"_3100450_3102380
+%mor:	pro:per|you v|drop-PAST det:poss|your (1)adj|big (1)adj|plastic (1)n|spoon .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0828.cha": line 2496.
+*MOT:	I have a brand new toy &=noise . %snd:"v1-t25feb97"_3583570_3585295
+%mor:	pro:sub|I v|have det:art|a (1)adj|brand (1)adj|new (1)n|toy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0828.cha": line 2500.
+*MOT:	a brand new toy . %snd:"v1-t25feb97"_3588766_3590380
+%mor:	det:art|a (1)adj|brand (1)adj|new (1)n|toy .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0924.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-0924.cha": line 1678.
+*MOT:	(c)hubby little cubby hole [?] stuffed with fluff [=! sung] . %snd:"v1-m24mar97"_2198549_2201593
+%mor:	adj|chubby (1)adj|little (1)adj|cub&dn-Y (1)n|hole v|stuff-PAST prep|with
+	n|fluff .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1007.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1007.cha": line 1438.
+*MOT:	that's a brown haired boy . %snd:"v1-f4apr97"_1768921_1770209
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|brown (1)adj|haired (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1007.cha": line 1441.
+*MOT:	want the black brown haired boy &=noise ? %snd:"v1-f4apr97"_1772250_1773658
+%mor:	v|want det:art|the n|black (1)adj|brown (1)adj|haired (1)n|boy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1007.cha": line 3109.
+*MOT:	(be)cause Tweetie's a tiny little bird &=noise . %snd:"v1-f4apr97"_4480500_4482612
+%mor:	conj|because n:prop|Tweetie~poss|s det:art|a (1)adj|tiny (1)adj|little
+	(1)n|bird .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1007.cha": line 3113.
+*MOT:	he's always smarter than the big mean kitty &=noise . %snd:"v1-f4apr97"_4483105_4485854
+%mor:	pro:sub|he~cop|be&3S adv|always adj|smart-CP prep|than det:art|the
+	(1)adj|big (1)adj|mean (1)n|kitty .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1024.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1115.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v1/v1-1115.cha": line 1100.
+*MOT:	that was from you were a very little tiny baby . %snd:"v1-m12may97"_1477762_1480492
+%mor:	pro:dem|that cop|be&PAST&13S prep|from pro:per|you cop|be&PAST
+	det:art|a adv|very (1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1000.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1000.cha": line 265.
+*MOT:	just some good ol(d) water . %snd:"v2-s10sep00"_511383_512523
+%mor:	adv|just qn|some (1)adj|good (1)adj|old (1)n|water .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1000.cha": line 316.
+*MOT:	big old control freak . %snd:"v2-s10sep00"_645850_647117
+%mor:	(1)adj|big (1)adj|old (1)n|control n|freak .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1000.cha": line 2099.
+*MOT:	you big ol(d) baby . %snd:"v2-s10sep00"_3493347_3494383
+%mor:	pro:per|you (1)adj|big (1)adj|old (1)n|baby .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1028.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1028.cha": line 753.
+*MOT:	this little chubby self . %snd:"v2-s8oct00"_1416917_1417977
+%mor:	pro:dem|this (1)adj|little (1)adj|chubby (1)n|self .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1028.cha": line 2014.
+*MOT:	my big ol(d) fat boy . %snd:"v2-s8oct00"_3652730_3653830
+%mor:	det:poss|my (1)adj|big (1)adj|old (1)n|fat n|boy .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1112.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1112.cha": line 1922.
+*MOT:	that little hard baseball cap is . %snd:"v2-s22oct00"_3658700_3660240
+%mor:	pro:dem|that (1)adj|little (1)adj|hard (1)n|baseball n|cap cop|be&3S .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1125.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1125.cha": line 524.
+*MOT:	you big old fat boy . %snd:"v2-s5nov00"_1098960_1100037
+%mor:	pro:per|you (1)adj|big (1)adj|old (1)n|fat n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/v2/v2-1125.cha": line 821.
+*MOT:	that was a big old kiss . %snd:"v2-s5nov00"_1933473_1934997
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|big (1)adj|old (1)n|kiss .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-0913.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-0913.cha": line 2541.
+*MOT:	Jesus told a story about a little wooly white lamb that wandered
+	off and got lost [=! read] . %snd:"w1-f10may96"_3850472_3856092
+%mor:	n:prop|Jesus v|tell&PAST det:art|a n|story prep|about det:art|a
+	adj|little (1)adj|wool&dn-Y (1)adj|white (1)n|lamb pro:rel|that v|wander-PAST
+	adv|off coord|and v|get&PAST v|lose&PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-0913.cha": line 2606.
+*MOT:	little tiny babies &=noise . %snd:"w1-f10may96"_3913432_3914473
+%mor:	(1)adj|little (1)adj|tiny (1)n|baby-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-0913.cha": line 2630.
+*MOT:	red orange yellow green blue and purple and made a rainbow
+	[=! read] . %snd:"w1-f10may96"_3935282_3939585
+%mor:	adj|red adj|orange (1)adj|yellow (1)adj|green (1)n|blue coord|and adj|purple
+	coord|and v|make&PAST det:art|a n|+n|rain+n|bow .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 69.
+*EVA:	oopsie bitty bitty bitty baby girl . %snd:"w1-h1jun96"_168640_170615
+%mor:	co|oopsie adj|bit&dn-Y (1)adj|bit&dn-Y (1)adj|bit&dn-Y (1)n|baby n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 456.
+*EVA:	Jesus told a story about a little wooly white lamb that wandered
+	off and got lost [=! read] . %snd:"w1-h1jun96"_552343_558569
+%mor:	n:prop|Jesus v|tell&PAST det:art|a n|story prep|about det:art|a
+	adj|little (1)adj|wool&dn-Y (1)adj|white (1)n|lamb pro:rel|that v|wander-PAST
+	adv|off coord|and v|get&PAST v|lose&PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 481.
+*EVA:	red orange yellow green blue and purple [=! read] . %snd:"w1-h1jun96"_574996_577602
+%mor:	adj|red adj|orange (1)adj|yellow (1)adj|green (1)n|blue coord|and adj|purple
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 824.
+*EVA:	and also some good sweet potato which you're going to have (...)
+	some for lunch &=noise . %snd:"w1-h1jun96"_1037115_1041520
+%mor:	coord|and adv|also qn|some (1)adj|good (1)adj|sweet (1)n|potato
+	pro:rel|which pro:per|you~aux|be&PRES part|go-PRESP inf|to v|have
+	qn|some prep|for n|lunch .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1031.
+*EVA:	you're a sweet good girl &=noise . %snd:"w1-h1jun96"_1595408_1596632
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|sweet (1)adj|good (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1034.
+*EVA:	good sweet girl &=noise . %snd:"w1-h1jun96"_1597288_1598056
+%mor:	(1)adj|good (1)adj|sweet (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1247.
+*EVA:	mm big (...) big nice (.) big open mouth &=noise . %snd:"w1-h1jun96"_1968248_1972016
+%mor:	co|mm adj|big adj|big adj|nice (1)adj|big (1)adj|open (1)n|mouth .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1395.
+*EVA:	just a little tiny bit &=noise . %snd:"w1-h1jun96"_2304660_2305937
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1398.
+*EVA:	for a little tiny bit of food &=noise . %snd:"w1-h1jun96"_2307571_2309174
+%mor:	conj|for det:art|a (1)adj|little (1)adj|tiny (1)n|bit prep|of n|food .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1402.
+*EVA:	just a little tiny bit for a tiny bit of food &=noise . %snd:"w1-h1jun96"_2310336_2313012
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit prep|for det:art|a
+	adj|tiny n|bit prep|of n|food .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1426.
+*EVA:	little tiny bit hot &=noise . %snd:"w1-h1jun96"_2416356_2417908
+%mor:	(1)adj|little (1)adj|tiny (1)n|bit adj|hot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 1471.
+*EVA:	you just got one little tiny bit to go &=noise . %snd:"w1-h1jun96"_2522581_2525684
+%mor:	pro:per|you adv|just v|get&PAST pro:indef|one (1)adj|little (1)adj|tiny
+	(1)n|bit prep|to v|go .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1005.cha": line 2343.
+*EVA:	good good day . %snd:"w1-h1jun96"_4148697_4149485
+%mor:	(1)adj|good (1)adj|good (1)n|day .
+
+    Strings matched 13 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1011.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1011.cha": line 409.
+*MOT:	Jesus told a story about a little wooly white (..) lamb (..) that
+	wandered off and got lost . %snd:"w1-f7jun96"_300027_306396
+%mor:	n:prop|Jesus v|tell&PAST det:art|a n|story prep|about det:art|a
+	adj|little (1)adj|wool&dn-Y (1)adj|white (1)n|lamb pro:rel|that v|wander-PAST
+	adv|off coord|and v|get&PAST v|lose&PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1011.cha": line 444.
+*MOT:	+" red orange yellow green blue and purple . %snd:"w1-f7jun96"_325945_330210
+%mor:	adj|red adj|orange (1)adj|yellow (1)adj|green (1)n|blue coord|and adj|purple
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1011.cha": line 633.
+*MOT:	+" you good little kittens . %snd:"w1-f7jun96"_512540_513958
+%mor:	pro:per|you (1)adj|good (1)adj|little (1)n|kitten-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1011.cha": line 1825.
+*MOT:	red orange yellow &=noise . %snd:"w1-f7jun96"_1584268_1585948
+%mor:	(1)adj|red (1)adj|orange (1)n|yellow .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1025.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1025.cha": line 142.
+*MOT:	you had a nice long night's sleepie &=noise . %snd:"w1-f21jun96"_104860_107873
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|long (1)n|night~poss|s
+	n|sleep-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1025.cha": line 603.
+*MOT:	we'll have a nice tasty (...) treat . %snd:"w1-f21jun96"_498406_502196
+%mor:	pro:sub|we~mod|will v|have det:art|a (1)adj|nice (1)adj|taste&dn-Y
+	(1)n|treat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1025.cha": line 625.
+*MOT:	today is a pretty nice day . %snd:"w1-f21jun96"_533837_535611
+%mor:	adv:tem|today cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w1/w1-1025.cha": line 2339.
+*MOT:	you're a wonderful little baby girl &=noise . %snd:"w1-f21jun96"_3030559_3032520
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|wonder-FULL (1)adj|little (1)n|baby
+	n|girl .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-0923.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-0923.cha": line 2476.
+*MOT:	angry little baby . %snd:"w3-m20mar00"_3758260_3759633
+%mor:	(1)adj|angry (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-0923.cha": line 2523.
+*MOT:	big ol(d) se(l)f . %snd:"w3-m20mar00"_3846313_3847197
+%mor:	(1)adj|big (1)adj|old (1)n|self .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1107.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1107.cha": line 2716.
+*MOT:	you a hard head little baby . %snd:"w3-m1may00"_3822177_3823643
+%mor:	pro:per|you det:art|a adj|hard (1)adj|head (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1107.cha": line 2840.
+*MOT:	like I did a big ol(d) job [?] . %snd:"w3-m1may00"_4357537_4359343
+%mor:	conj|like pro:sub|I v|do&PAST det:art|a (1)adj|big (1)adj|old (1)n|job .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1122.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1122.cha": line 1585.
+*MOT:	you used to be a greedy little baby . %snd:"w3-t16may00"_3180640_3182093
+%mor:	pro:per|you v|use-PAST inf|to cop|be det:art|a (1)adj|greed&dn-Y
+	(1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Brent/w3/w3-1122.cha": line 2256.
+*MOT:	look at these big ol(d) eyes ! %snd:"w3-t16may00"_4282020_4283353
+%mor:	cop|look prep|at pro:dem|these (1)adj|big (1)adj|old (1)n|eye-PL !
+
+    Strings matched 2 times
+

@@ -1,0 +1,246 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:49:55 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-aida.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-aida.cha": line 190.
+*MOT:	ah perfect good job .
+%mor:	co|ah (1)adj|perfect (1)adj|good (1)n|job .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-aida.cha": line 261.
+*MOT:	a little bitty corner .
+%mor:	det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|corner .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-aida.cha": line 264.
+*MOT:	you have_to look at the itty bitty edges .
+%mor:	pro:per|you mod:aux|have_to cop|look prep|at det:art|the (1)adj|itty
+	(1)adj|bit&dn-Y (1)n|edge-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-aida.cha": line 1069.
+*MOT:	a new new box of toys .
+%mor:	det:art|a (1)adj|new (1)adj|new (1)n|box prep|of n|toy-PL .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-delfina.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-kande.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-mabel.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-mabel.cha": line 1142.
+*MOT:	I'm falling asleep I stayed up too late last night .
+%mor:	pro:sub|I~aux|be&1S part|fall-PRESP adv|asleep pro:sub|I
+	cop|stay-PAST adv|up adv|too (1)adj|late (1)adj|last (1)n|night .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36f-rane.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-alistaire.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-calhoun.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-calhoun.cha": line 2043.
+*MOT:	I'm going to follow this big red car .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|follow pro:dem|this
+	(1)adj|big (1)adj|red (1)n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-calhoun.cha": line 2054.
+*MOT:	oh my gosh that's an awful big car .
+%mor:	co|oh det:poss|my co|gosh pro:dem|that~cop|be&3S det:art|a
+	(1)adj|awful (1)adj|big (1)n|car .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-earl.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-jarvis.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-klaus.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-klaus.cha": line 2076.
+*MOT:	a real big car like that .
+%mor:	det:art|a (1)adj|real (1)adj|big (1)n|car prep|like pro:dem|that .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-mace.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-mace.cha": line 1378.
+*MOT:	it's towing a little blue truck right ?
+%mor:	pro:per|it~aux|be&3S part|tow-PRESP det:art|a (1)adj|little (1)adj|blue
+	(1)n|truck adj|right ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-mace.cha": line 1386.
+*MOT:	cause the little blue truck must be broken .
+%mor:	v|cause det:art|the (1)adj|little (1)adj|blue (1)n|truck mod|must aux|be
+	part|break&PASTP .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-nelek.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-nelek.cha": line 1017.
+*MOT:	that whole big column but you know what kind it is ?
+%mor:	pro:dem|that (1)adj|whole (1)adj|big (1)n|column conj|but pro:per|you v|know
+	pro:int|what n|kind pro:per|it cop|be&3S ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-ramsis.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh36m-raphael.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-addison.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-aiko.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-aiko.cha": line 1746.
+*MOT:	it's a neat little watch .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|neat (1)adj|little (1)n|watch .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-aliza.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-aliza.cha": line 1814.
+*MOT:	nice little treat huh ?
+%mor:	(1)adj|nice (1)adj|little (1)n|treat co|huh ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-brooklyn.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-elsie.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-elsie.cha": line 2124.
+*MOT:	a nice big wind there okay ?
+%mor:	det:art|a (1)adj|nice (1)adj|big (1)n|wind adv|there adj|okay ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42f-saloman.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-conan.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-conan.cha": line 2147.
+*MOT:	you turn this little white thing .
+%mor:	pro:per|you v|turn pro:dem|this (1)adj|little (1)adj|white (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-jafaru.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-jethro.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-jezy.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-jezy.cha": line 1511.
+*MOT:	this is a pretty neat car .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-jezy.cha": line 2114.
+*MOT:	but it's brown curly hair not blonde .
+%mor:	conj|but pro:per|it~cop|be&3S (1)adj|brown (1)adj|curl&dv-Y (1)n|hair
+	neg|not adj|blonde .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-parson.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-parson.cha": line 141.
+*MOT:	who the real tall guy or the short fat guy ?
+%mor:	pro:int|who det:art|the (1)adj|real (1)adj|tall (1)n|guy coord|or
+	det:art|the adj|short n|fat n|guy ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh42m-ramsey.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-adelaide.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-charisse.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-kame.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-kame.cha": line 47.
+*MOT:	didn't you say you hit your head last night ?
+%mor:	mod|do&PAST~neg|not pro:per|you v|say pro:per|you n|hit
+	det:poss|your (1)adj|head (1)adj|last (1)n|night ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-kame.cha": line 1921.
+*MOT:	that's really not a real nice thing to do Kame .
+%mor:	pro:dem|that~cop|be&3S adv|real&dadj-LY neg|not det:art|a (1)adj|real
+	(1)adj|nice (1)n|thing inf|to v|do n:prop|Kame .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-kame.cha": line 2381.
+*MOT:	I had to work late last night .
+%mor:	pro:sub|I v|have&PAST prep|to n|work (1)adj|late (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-kame.cha": line 2633.
+*MOT:	&+mm Alex is a pretty big cat .
+%mor:	n:prop|Alex cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|cat .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-ramya.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48f-ramya.cha": line 578.
+*MOT:	that little black boat .
+%mor:	pro:dem|that (1)adj|little (1)adj|black (1)n|boat .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48m-brewster.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48m-brewster.cha": line 119.
+*MOT:	here we're just makin(g) a real big mess here .
+%mor:	adv|here pro:sub|we~aux|be&PRES adv|just part|make-PRESP det:art|a
+	(1)adj|real (1)adj|big (1)n|mess adv|here .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48m-jobey.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/NH/nh48m-maat.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,72 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:18:14 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 1322.
+*MOT:	a big black seal .
+%mor:	det:art|a (1)adj|big (1)adj|black (1)n|seal .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 1328.
+*MOT:	yes (.) he's a big black seal .
+%mor:	co|yes pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|black (1)n|seal .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 4532.
+*MOT:	I bought you some new red socks .
+%mor:	pro:sub|I v|buy&PAST pro:per|you qn|some (1)adj|new (1)adj|red (1)n|sock-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 4536.
+*MOT:	let's take off your sneakers (.) and try on your new red socks .
+%mor:	v|let~pro:obj|us v|take prep|off det:poss|your n|sneaker-PL
+	coord|and v|try prep|on det:poss|your (1)adj|new (1)adj|red (1)n|sock-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 4778.
+*MOT:	I bought you some new red socks .
+%mor:	pro:sub|I v|buy&PAST pro:per|you qn|some (1)adj|new (1)adj|red (1)n|sock-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 4782.
+*MOT:	let's take off your sneakers (.) and try on your new red socks .
+%mor:	v|let~pro:obj|us v|take prep|off det:poss|your n|sneaker-PL
+	coord|and v|try prep|on det:poss|your (1)adj|new (1)adj|red (1)n|sock-PL .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha": line 1289.
+*MOT:	where's the little red duck that Nonna sent you ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|red (1)n|duck
+	pro:rel|that n:prop|Nonna v|send&PAST pro:per|you ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha": line 3073.
+*MOT:	it's a big black roof .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|black (1)n|roof .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha": line 3085.
+*MOT:	where is the big black roof ?
+%mor:	adv:int|where cop|be&3S det:art|the (1)adj|big (1)adj|black (1)n|roof ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha": line 3091.
+*MOT:	where is the big black (.) black roof ?
+%mor:	pro:rel|where cop|be&3S det:art|the adj|big (1)adj|black (1)adj|black
+	(1)n|roof ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina03.cha": line 45.
+*MOT:	that's a cute little chicken .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|chicken .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina03.cha": line 720.
+*MOT:	they were little black animals .
+%mor:	pro:sub|they cop|be&PAST (1)adj|little (1)adj|black (1)n|animal-PL .
+
+    Strings matched 2 times
+

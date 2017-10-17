@@ -1,0 +1,228 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:59:00 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <andy.cha>
+
+    Strings matched 0 times
+
+From file <bobby.cha>
+----------------------------------------
+*** File "bobby.cha": line 1926.
+*FAT:	little tiny thing .
+%mor:	(1)adj|little (1)adj|tiny (1)n|thing .
+
+    Strings matched 1 times
+
+From file <charlie.cha>
+----------------------------------------
+*** File "charlie.cha": line 1677.
+*FAT:	see those little thin guys there ?
+%mor:	v|see pro:dem|those (1)adj|little (1)adj|thin (1)n|guy-PL adv|there ?
+----------------------------------------
+*** File "charlie.cha": line 2005.
+*MOT:	he had a big long nap .
+%mor:	pro:sub|he v|have&PAST det:art|a (1)adj|big (1)adj|long (1)n|nap .
+----------------------------------------
+*** File "charlie.cha": line 2175.
+*FAT:	two [<] mouthfuls of <terrible yucky corn> [>] .
+%mor:	det:num|two n|mouth-FUL-PL prep|of (1)adj|terrible (1)adj|yuck&dn-Y
+	(1)n|corn .
+----------------------------------------
+*** File "charlie.cha": line 2373.
+*FAT:	use this connection to set up the meeting , but it would look a little silly seeing as he personally had been invited down twice .
+%mor:	v|use pro:dem|this n|connection inf|to v|set&ZERO prep|up
+	det:art|the part|meet-PRESP cm|cm conj|but pro:per|it mod|will&COND
+	co|look det:art|a (1)adj|little (1)adj|silly (1)n:gerund|see-PRESP adv|as
+	pro:sub|he adv|personal&dadj-LY v|have&PAST aux|be&PASTP
+	part|invite-PASTP adv|down adv|twice .
+----------------------------------------
+*** File "charlie.cha": line 3478.
+*FAT:	ya know (.) there was a thing in Time magazine this week on descendants of the , &-uh , (.) <of the original founding fathers> [>] .
+%mor:	pro:per|you v|know adv|there cop|be&PAST&13S det:art|a n|thing
+	prep|in n:prop|Time n|magazine pro:dem|this n|week prep|on
+	n|descendant-PL prep|of det:art|the cm|cm cm|cm prep|of det:art|the
+	(1)adj|original (1)adj|founding (1)n|father-PL .
+----------------------------------------
+*** File "charlie.cha": line 4103.
+*FAT:	I think you have enough on your shirt (.) to last you through a long cold winter .
+%mor:	pro:sub|I v|think pro:per|you v|have adv|enough prep|on
+	det:poss|your n|shirt inf|to v|last pro:per|you prep|through
+	det:art|a (1)adj|long (1)adj|cold (1)n|winter .
+
+    Strings matched 6 times
+
+From file <david.cha>
+----------------------------------------
+*** File "david.cha": line 516.
+*MOT:	she has a great big dog .
+%mor:	pro:sub|she v|have&3S det:art|a (1)adj|great (1)adj|big (1)n|dog .
+----------------------------------------
+*** File "david.cha": line 940.
+*FAT:	<you bring> [<] those little funny books back to school today ?
+%mor:	pro:per|you v|bring pro:dem|those (1)adj|little (1)adj|fun&dn-Y (1)n|book-PL
+	adv|back prep|to n|school adv:tem|today ?
+
+    Strings matched 2 times
+
+From file <eddie.cha>
+
+    Strings matched 0 times
+
+From file <frank.cha>
+----------------------------------------
+*** File "frank.cha": line 1502.
+*MOT:	<tiny little pieces then> [<] .
+%mor:	(1)adj|tiny (1)adj|little (1)n|piece-PL adv:tem|then .
+
+    Strings matched 1 times
+
+From file <guy.cha>
+
+    Strings matched 0 times
+
+From file <helen.cha>
+----------------------------------------
+*** File "helen.cha": line 1836.
+*MOT:	it's just a little sensitive thing , that's all .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|little (1)adj|sensitive
+	(1)n|thing cm|cm pro:dem|that~cop|be&3S pro:indef|all .
+
+    Strings matched 1 times
+
+From file <isadora.cha>
+
+    Strings matched 0 times
+
+From file <john.cha>
+----------------------------------------
+*** File "john.cha": line 729.
+*MOT:	little gay , like little teeny houses (.) .
+%mor:	adj|little adj|gay cm|cm prep|like (1)adj|little (1)adj|teeny (1)n|house-PL
+	.
+
+    Strings matched 1 times
+
+From file <katie.cha>
+----------------------------------------
+*** File "katie.cha": line 460.
+*AUN:	they [<] have a great big Santa Claus .
+%mor:	pro:sub|they v|have det:art|a (1)adj|great (1)adj|big (1)n:prop|Santa
+	n:prop|Claus .
+----------------------------------------
+*** File "katie.cha": line 3116.
+*MOT:	she was really good last night .
+%mor:	pro:sub|she cop|be&PAST&13S adv|real&dadj-LY (1)adj|good (1)adj|last
+	(1)n|night .
+
+    Strings matched 2 times
+
+From file <laurel.cha>
+
+    Strings matched 0 times
+
+From file <martin.cha>
+----------------------------------------
+*** File "martin.cha": line 1353.
+*MOT:	you know that [//] you hafta eat lettuce in little teeny+weeny bits , Martin , cause it's hard to chew .
+%mor:	pro:per|you v|know pro:per|you mod:aux|hafta v|eat n|lettuce
+	prep|in (1)adj|little (1)adj|+adj|teeny+adj|weeny (1)n|bit-PL cm|cm
+	n:prop|Martin cm|cm n|cause pro:per|it~cop|be&3S adj|hard inf|to
+	v|chew .
+----------------------------------------
+*** File "martin.cha": line 1663.
+*FAT:	she wanted a little medical advice .
+%mor:	pro:sub|she v|want-PAST det:art|a (1)adj|little (1)adj|medical (1)n|advice .
+
+    Strings matched 2 times
+
+From file <nanette.cha>
+
+    Strings matched 0 times
+
+From file <olivia.cha>
+----------------------------------------
+*** File "olivia.cha": line 920.
+*FAT:	are you a good lil [: little] girl , Olivia ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|good (1)adj|little (1)n|girl cm|cm
+	n:prop|Olivia ?
+----------------------------------------
+*** File "olivia.cha": line 1245.
+*FAT:	you know , it's just pure agony .
+%mor:	pro:per|you v|know cm|cm pro:per|it~cop|be&3S (1)adj|just (1)adj|pure
+	(1)n|agony .
+
+    Strings matched 2 times
+
+From file <patricia.cha>
+----------------------------------------
+*** File "patricia.cha": line 195.
+*FAT:	Stop_and_shop is a real hectic thing .
+%mor:	n:prop|Stop_and_shop cop|be&3S det:art|a (1)adj|real (1)adj|hectic
+	(1)n|thing .
+----------------------------------------
+*** File "patricia.cha": line 1944.
+*MOT:	<that's a greasy french fry> [<] .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|grease&dn-Y (1)adj|french (1)n|fry .
+
+    Strings matched 2 times
+
+From file <susan.cha>
+----------------------------------------
+*** File "susan.cha": line 3630.
+*MOT:	I have two very big large boxes of paper in the car .
+%mor:	pro:sub|I v|have det:num|two adv|very (1)adj|big (1)adj|large (1)n|box-PL
+	prep|of n|paper prep|in det:art|the n|car .
+----------------------------------------
+*** File "susan.cha": line 4027.
+*FAT:	oh I have such a nice <little girl up on my lap> [>] .
+%mor:	co|oh pro:sub|I v|have qn|such det:art|a (1)adj|nice (1)adj|little (1)n|girl
+	adv|up prep|on det:poss|my n|lap .
+
+    Strings matched 2 times
+
+From file <theresa.cha>
+----------------------------------------
+*** File "theresa.cha": line 1408.
+*MOT:	bum bum bum .
+%mor:	(1)adj|bum (1)adj|bum (1)n|bum .
+
+    Strings matched 1 times
+
+From file <victor.cha>
+----------------------------------------
+*** File "victor.cha": line 72.
+*FAT:	nice cool small spoon .
+%mor:	adj|nice (1)adj|cool (1)adj|small (1)n|spoon .
+
+    Strings matched 1 times
+
+From file <wanda.cha>
+----------------------------------------
+*** File "wanda.cha": line 1942.
+*MOT:	this was the first crazy thing she did .
+%mor:	pro:dem|this cop|be&PAST&13S det:art|the (1)adj|first (1)adj|craze&dv-Y
+	(1)n|thing pro:sub|she v|do&PAST .
+
+    Strings matched 1 times
+
+From file <william.cha>
+
+    Strings matched 0 times
+
+From file <xavia.cha>
+----------------------------------------
+*** File "xavia.cha": line 222.
+*MOT:	we picked a good crunchy dinner , didn't we ?
+%mor:	pro:sub|we v|pick-PAST det:art|a (1)adj|good (1)adj|crunch&dv-Y (1)n|dinner
+	cm|cm mod|do&PAST~neg|not pro:sub|we ?
+----------------------------------------
+*** File "xavia.cha": line 1579.
+*MOT:	Spacey is a pretty funny name for a kid , don't you think ?
+%mor:	n:prop|Spacey cop|be&3S det:art|a (1)adj|pretty (1)adj|fun&dn-Y (1)n|name
+	prep|for det:art|a n|kid cm|cm mod|do~neg|not pro:per|you v|think ?
+
+    Strings matched 2 times
+

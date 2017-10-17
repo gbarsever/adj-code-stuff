@@ -1,0 +1,54 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:38:55 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <lew01.cha>
+
+    Strings matched 0 times
+
+From file <lew02.cha>
+
+    Strings matched 0 times
+
+From file <lew03.cha>
+
+    Strings matched 0 times
+
+From file <lew04.cha>
+
+    Strings matched 0 times
+
+From file <lew05.cha>
+
+    Strings matched 0 times
+
+From file <lew06.cha>
+----------------------------------------
+*** File "lew06.cha": line 932.
+*CHI:	pink (.) blue (.) green .
+%mor:	(1)adj|pink (1)adj|blue (1)n|green .
+----------------------------------------
+*** File "lew06.cha": line 1334.
+*CHI:	green green green green green .
+%mor:	adj|green adj|green (1)adj|green (1)adj|green (1)n|green .
+
+    Strings matched 2 times
+
+From file <lew07.cha>
+
+    Strings matched 0 times
+
+From file <lew08.cha>
+
+    Strings matched 0 times
+
+From file <lew09.cha>
+
+    Strings matched 0 times
+
+From file <lew10.cha>
+
+    Strings matched 0 times
+

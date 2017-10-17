@@ -1,0 +1,525 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:55:31 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <cr06.cha>
+----------------------------------------
+*** File "cr06.cha": line 415.
+*TUR:	who's a beautiful little girl hm: ?
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|beautiful (1)adj|little (1)n|girl
+	co|hm ?
+----------------------------------------
+*** File "cr06.cha": line 515.
+*TUR:	who's a gorgeous little girl ?
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|gorgeous (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "cr06.cha": line 523.
+*TUR:	who's a gorgeous little girl ?
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|gorgeous (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "cr06.cha": line 682.
+*ATT:	poor little Gillian .
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Gillian .
+----------------------------------------
+*** File "cr06.cha": line 1338.
+*TUR:	who looks like a little yellow chicken ?
+%mor:	pro:int|who cop|look-3S prep|like det:art|a (1)adj|little (1)adj|yellow
+	(1)n|chicken ?
+----------------------------------------
+*** File "cr06.cha": line 1355.
+*TUR:	like a little yellow chicken .
+%mor:	prep|like det:art|a (1)adj|little (1)adj|yellow (1)n|chicken .
+
+    Strings matched 6 times
+
+From file <cr07.cha>
+----------------------------------------
+*** File "cr07.cha": line 893.
+*TUR:	big strong girl aren't you ?
+%mor:	(1)adj|big (1)adj|strong (1)n|girl aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "cr07.cha": line 898.
+*TUR:	big strong girl .
+%mor:	(1)adj|big (1)adj|strong (1)n|girl .
+----------------------------------------
+*** File "cr07.cha": line 1142.
+*TUR:	nice big smile .
+%mor:	(1)adj|nice (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "cr07.cha": line 1147.
+*TUR:	nice big smile for the camera .
+%mor:	(1)adj|nice (1)adj|big (1)n|smile prep|for det:art|the n|camera .
+
+    Strings matched 4 times
+
+From file <cr11.cha>
+----------------------------------------
+*** File "cr11.cha": line 2327.
+*TUR:	poor funny face .
+%mor:	(1)adj|poor (1)adj|fun&dn-Y (1)n|face .
+
+    Strings matched 1 times
+
+From file <cr15.cha>
+
+    Strings matched 0 times
+
+From file <cr16.cha>
+----------------------------------------
+*** File "cr16.cha": line 134.
+*TUR:	o:h what a big fat belly .
+%mor:	co|oh pro:int|what det:art|a (1)adj|big (1)adj|fat (1)n|belly .
+----------------------------------------
+*** File "cr16.cha": line 267.
+*ATT:	ticky ticky ticky Gillian's tummy .
+%mor:	adj|tick&dv-Y (1)adj|tick&dv-Y (1)adj|tick&dv-Y (1)n:prop|Gillian~poss|s
+	n|tummy .
+----------------------------------------
+*** File "cr16.cha": line 853.
+*TUR:	lovely little toes .
+%mor:	(1)adj|love&dn-LY (1)adj|little (1)n|toe-PL .
+----------------------------------------
+*** File "cr16.cha": line 861.
+*TUR:	they're lovely little toes .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|love&dn-LY (1)adj|little (1)n|toe-PL .
+----------------------------------------
+*** File "cr16.cha": line 1036.
+*FAT:	ticky ticky ticky tee .
+%mor:	adj|tick&dv-Y (1)adj|tick&dv-Y (1)adj|tick&dv-Y (1)n|tee .
+----------------------------------------
+*** File "cr16.cha": line 1040.
+*FAT:	ticky ticky ticky tee .
+%mor:	adj|tick&dv-Y (1)adj|tick&dv-Y (1)adj|tick&dv-Y (1)n|tee .
+----------------------------------------
+*** File "cr16.cha": line 1591.
+*ATT:	ticky ticky tick tick .
+%mor:	(1)adj|tick&dv-Y (1)adj|tick&dv-Y (1)n|tick n|tick .
+----------------------------------------
+*** File "cr16.cha": line 1853.
+*FAT:	who's a pretty little girl then ?
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|girl
+	adv:tem|then ?
+
+    Strings matched 8 times
+
+From file <gi06.cha>
+
+    Strings matched 0 times
+
+From file <gi07.cha>
+----------------------------------------
+*** File "gi07.cha": line 957.
+*ATT:	big fat feet ?
+%mor:	(1)adj|big (1)adj|fat (1)n|foot&PL ?
+
+    Strings matched 1 times
+
+From file <gi11.cha>
+----------------------------------------
+*** File "gi11.cha": line 763.
+*TUR:	you're a funny little boy aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|boy
+	aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <gi15.cha>
+
+    Strings matched 0 times
+
+From file <gi16.cha>
+----------------------------------------
+*** File "gi16.cha": line 440.
+*FAT:	horny young lad .
+%mor:	(1)adj|horn&dn-Y (1)adj|young (1)n|lad .
+----------------------------------------
+*** File "gi16.cha": line 502.
+*TUR:	been having a nice good sleep have you ?
+%mor:	aux|be&PASTP part|have-PRESP det:art|a (1)adj|nice (1)adj|good (1)n|sleep
+	v|have pro:per|you ?
+----------------------------------------
+*** File "gi16.cha": line 3321.
+*TUR:	goodness gracious great balls of fire .
+%mor:	co|goodness (1)adj|gracious (1)adj|great (1)n|ball-PL prep|of n|fire .
+
+    Strings matched 3 times
+
+From file <gl06.cha>
+----------------------------------------
+*** File "gl06.cha": line 1765.
+*TUR:	that was an awful big sleep today .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|awful (1)adj|big (1)n|sleep
+	adv:tem|today .
+----------------------------------------
+*** File "gl06.cha": line 1770.
+*TUR:	it was an awful good sleep .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|awful (1)adj|good (1)n|sleep .
+----------------------------------------
+*** File "gl06.cha": line 1922.
+*TUR:	and she's got_to have a dusty old bath .
+%mor:	coord|and pro:sub|she~aux|be&3S mod:aux|got_to v|have det:art|a
+	(1)adj|dust&dn-Y (1)adj|old (1)n|bath .
+----------------------------------------
+*** File "gl06.cha": line 1936.
+*TUR:	she's got_to have a rotten old bath .
+%mor:	pro:sub|she~aux|be&3S mod:aux|got_to v|have det:art|a (1)adj|rotten
+	(1)adj|old (1)n|bath .
+----------------------------------------
+*** File "gl06.cha": line 2159.
+*TUR:	you've got_to have nice clean curly hair .
+%mor:	pro:per|you~aux|have mod:aux|got_to v|have adj|nice (1)adj|clean
+	(1)adj|curl&dv-Y (1)n|hair .
+----------------------------------------
+*** File "gl06.cha": line 2181.
+*TUR:	you've got_to have nice clean curlies .
+%mor:	pro:per|you~aux|have mod:aux|got_to v|have (1)adj|nice (1)adj|clean
+	(1)n|curl-DIM-PL .
+----------------------------------------
+*** File "gl06.cha": line 2204.
+*TUR:	all the little soapy suds .
+%mor:	qn|all det:art|the (1)adj|little (1)adj|soap&dn-Y (1)n|suds .
+----------------------------------------
+*** File "gl06.cha": line 2258.
+*TUR:	there nice clean curlies .
+%mor:	adv|there (1)adj|nice (1)adj|clean (1)n|curl-DIM-PL .
+
+    Strings matched 8 times
+
+From file <gl07.cha>
+----------------------------------------
+*** File "gl07.cha": line 1769.
+*TUR:	you got a big fat tum(my) .
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "gl07.cha": line 1774.
+*TUR:	yes you got a big fat tummy .
+%mor:	co|yes pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "gl07.cha": line 1873.
+*TUR:	big fat baba .
+%mor:	(1)adj|big (1)adj|fat (1)n|baby .
+
+    Strings matched 3 times
+
+From file <gl11.cha>
+----------------------------------------
+*** File "gl11.cha": line 717.
+*TUR:	you didn't like that old cold water .
+%mor:	pro:per|you mod|do&PAST~neg|not v|like det:dem|that (1)adj|old
+	(1)adj|cold (1)n|water .
+
+    Strings matched 1 times
+
+From file <gl15.cha>
+----------------------------------------
+*** File "gl15.cha": line 1371.
+*TUR:	this is the strong silent type we've got today .
+%mor:	pro:dem|this cop|be&3S det:art|the (1)adj|strong (1)adj|silent (1)n|type
+	pro:sub|we~aux|have part|get&PASTP adv:tem|today .
+----------------------------------------
+*** File "gl15.cha": line 1800.
+*TUR:	and stop putting on this strong silent act .
+%mor:	coord|and n|stop part|put-PRESP prep|on pro:dem|this (1)adj|strong
+	(1)adj|silent (1)n|act .
+
+    Strings matched 2 times
+
+From file <gl16.cha>
+----------------------------------------
+*** File "gl16.cha": line 1282.
+*TUR:	wee fat bum (i)t is so .
+%mor:	(1)adj|wee (1)adj|fat (1)n|bum pro:per|it aux|be&3S adv|so .
+----------------------------------------
+*** File "gl16.cha": line 1286.
+*TUR:	wee fat bum I see it .
+%mor:	(1)adj|wee (1)adj|fat (1)n|bum pro:sub|I v|see pro:per|it .
+----------------------------------------
+*** File "gl16.cha": line 1338.
+*TUR:	oh it's a hard hard life darling .
+%mor:	co|oh pro:per|it~cop|be&3S det:art|a (1)adj|hard (1)adj|hard (1)n|life
+	co|darling .
+----------------------------------------
+*** File "gl16.cha": line 2202.
+*TUR:	is that an awful good thumb ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|awful (1)adj|good (1)n|thumb ?
+----------------------------------------
+*** File "gl16.cha": line 2210.
+*TUR:	is that an awful good thumb ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|awful (1)adj|good (1)n|thumb ?
+----------------------------------------
+*** File "gl16.cha": line 2285.
+*TUR:	oh these awful good stories .
+%mor:	co|oh pro:dem|these (1)adj|awful (1)adj|good (1)n|story-PL .
+----------------------------------------
+*** File "gl16.cha": line 2289.
+*TUR:	these awful good stories we've got here .
+%mor:	pro:dem|these (1)adj|awful (1)adj|good (1)n|story-PL pro:sub|we~aux|have
+	part|get&PASTP adv|here .
+----------------------------------------
+*** File "gl16.cha": line 2727.
+*TUR:	its a big fat bum .
+%mor:	det:poss|its det:art|a (1)adj|big (1)adj|fat (1)n|bum .
+----------------------------------------
+*** File "gl16.cha": line 2731.
+*TUR:	its a big fat bum is so .
+%mor:	det:poss|its det:art|a (1)adj|big (1)adj|fat (1)n|bum aux|be&3S adv|so .
+----------------------------------------
+*** File "gl16.cha": line 2939.
+*TUR:	you're getting to be a right little wriggler .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be det:art|a
+	(1)adj|right (1)adj|little (1)n|wriggle&dv-AGT .
+----------------------------------------
+*** File "gl16.cha": line 2981.
+*TUR:	a nice clean nappie .
+%mor:	det:art|a (1)adj|nice (1)adj|clean (1)n|nappie .
+----------------------------------------
+*** File "gl16.cha": line 3108.
+*ATT:	clean clean clean clean face .
+%mor:	adj|clean adj|clean (1)adj|clean (1)adj|clean (1)n|face .
+----------------------------------------
+*** File "gl16.cha": line 3118.
+*ATT:	dirty dirty dirty dirty dirty face .
+%mor:	adj|dirt&dn-Y adj|dirt&dn-Y adj|dirt&dn-Y (1)adj|dirt&dn-Y
+	(1)adj|dirt&dn-Y (1)n|face .
+
+    Strings matched 13 times
+
+From file <hi06.cha>
+
+    Strings matched 0 times
+
+From file <hi07.cha>
+----------------------------------------
+*** File "hi07.cha": line 31.
+*TUR:	give us a nice big smile .
+%mor:	v|give pro:obj|us det:art|a (1)adj|nice (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "hi07.cha": line 205.
+*TUR:	come_on give us a nice big smile .
+%mor:	co|come_on v|give pro:obj|us det:art|a (1)adj|nice (1)adj|big (1)n|smile .
+
+    Strings matched 2 times
+
+From file <hi11.cha>
+
+    Strings matched 0 times
+
+From file <hi15.cha>
+----------------------------------------
+*** File "hi15.cha": line 332.
+*TUR:	give us a nice big smile .
+%mor:	v|give pro:obj|us det:art|a (1)adj|nice (1)adj|big (1)n|smile .
+
+    Strings matched 1 times
+
+From file <hi16.cha>
+----------------------------------------
+*** File "hi16.cha": line 72.
+*TUR:	poor little baby boy .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby n|boy .
+----------------------------------------
+*** File "hi16.cha": line 76.
+*TUR:	poor little baby boy .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby n|boy .
+
+    Strings matched 2 times
+
+From file <la06.cha>
+----------------------------------------
+*** File "la06.cha": line 1492.
+*TUR:	there's a nice clean girl .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|clean (1)n|girl .
+----------------------------------------
+*** File "la06.cha": line 1496.
+*TUR:	a nice clean girl .
+%mor:	det:art|a (1)adj|nice (1)adj|clean (1)n|girl .
+----------------------------------------
+*** File "la06.cha": line 1511.
+*TUR:	nice clean girl .
+%mor:	(1)adj|nice (1)adj|clean (1)n|girl .
+----------------------------------------
+*** File "la06.cha": line 1852.
+*TUR:	nice clean nappie on .
+%mor:	(1)adj|nice (1)adj|clean (1)n|nappie adv|on .
+
+    Strings matched 4 times
+
+From file <la07.cha>
+
+    Strings matched 0 times
+
+From file <la11.cha>
+----------------------------------------
+*** File "la11.cha": line 2954.
+*TUR:	a nice big smile .
+%mor:	det:art|a (1)adj|nice (1)adj|big (1)n|smile .
+
+    Strings matched 1 times
+
+From file <la15.cha>
+----------------------------------------
+*** File "la15.cha": line 350.
+*TUR:	did you have a nice sleepy last night ?
+%mor:	v|do&PAST pro:per|you v|have det:art|a adj|nice (1)adj|sleep&dn-Y
+	(1)adj|last (1)n|night ?
+----------------------------------------
+*** File "la15.cha": line 425.
+*TUR:	give mummie a big big smile .
+%mor:	v|give n|mum&dadj-DIM det:art|a (1)adj|big (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "la15.cha": line 1516.
+*TUR:	you show what a big strong girlie you are .
+%mor:	pro:per|you v|show pro:int|what det:art|a (1)adj|big (1)adj|strong
+	(1)n|girl-DIM pro:per|you cop|be&PRES .
+
+    Strings matched 3 times
+
+From file <la16.cha>
+----------------------------------------
+*** File "la16.cha": line 746.
+*FAT:	big fat miss chubby legs .
+%mor:	(1)adj|big (1)adj|fat (1)n|miss adj|chubby n|leg-PL .
+----------------------------------------
+*** File "la16.cha": line 2413.
+*TUR:	shall we open a window in your room for some nice fresh air ?
+%mor:	mod|shall pro:sub|we v|open det:art|a n|window prep|in
+	det:poss|your n|room prep|for qn|some (1)adj|nice (1)adj|fresh (1)n|air ?
+----------------------------------------
+*** File "la16.cha": line 2419.
+*TUR:	for some nice fresh air say .
+%mor:	conj|for qn|some (1)adj|nice (1)adj|fresh (1)n|air v|say .
+----------------------------------------
+*** File "la16.cha": line 2804.
+*TUR:	in the nice fresh air .
+%mor:	prep|in det:art|the (1)adj|nice (1)adj|fresh (1)n|air .
+----------------------------------------
+*** File "la16.cha": line 2825.
+*TUR:	nice new sunshine .
+%mor:	(1)adj|nice (1)adj|new (1)n|sunshine .
+----------------------------------------
+*** File "la16.cha": line 2955.
+*TUR:	I thought you were having a nice big sleepie .
+%mor:	pro:sub|I v|think&PAST pro:per|you aux|be&PAST part|have-PRESP
+	det:art|a (1)adj|nice (1)adj|big (1)n|sleep-DIM .
+----------------------------------------
+*** File "la16.cha": line 3600.
+*TUR:	what a funny little paddy .
+%mor:	pro:int|what det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|paddy .
+----------------------------------------
+*** File "la16.cha": line 3606.
+*TUR:	what a funny little paddy .
+%mor:	pro:int|what det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|paddy .
+----------------------------------------
+*** File "la16.cha": line 4130.
+*TUR:	there's a big big smile .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "la16.cha": line 4798.
+*TUR:	mummie kiss your lovely little botty [: bottom] .
+%mor:	n|mum&dadj-DIM v|kiss det:poss|your (1)adj|love&dn-LY (1)adj|little
+	(1)n|bottom .
+----------------------------------------
+*** File "la16.cha": line 4907.
+*TUR:	that's a great big smile .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "la16.cha": line 4911.
+*TUR:	a great big smile .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|smile .
+----------------------------------------
+*** File "la16.cha": line 4945.
+*TUR:	nice clean towel for Hannah .
+%mor:	(1)adj|nice (1)adj|clean (1)n|towel prep|for n:prop|Hannah .
+----------------------------------------
+*** File "la16.cha": line 4949.
+*TUR:	nice clean towel for Hannah .
+%mor:	(1)adj|nice (1)adj|clean (1)n|towel prep|for n:prop|Hannah .
+----------------------------------------
+*** File "la16.cha": line 4967.
+*TUR:	o:h a nice deep bathie for Hannah .
+%mor:	co|oh det:art|a (1)adj|nice (1)adj|deep (1)n|bath-DIM prep|for n:prop|Hannah
+	.
+----------------------------------------
+*** File "la16.cha": line 7228.
+*TUR:	are we having a right little talk now ?
+%mor:	cop|be&PRES pro:sub|we part|have-PRESP det:art|a (1)adj|right
+	(1)adj|little (1)n|talk adv|now ?
+
+    Strings matched 16 times
+
+From file <st06.cha>
+----------------------------------------
+*** File "st06.cha": line 266.
+*TUR:	does that mean you've not got any wind and you're ready for the next
+	little lot ?
+%mor:	mod|do&3S pro:dem|that adj|mean pro:per|you~aux|have neg|not
+	part|get&PASTP qn|any n|wind coord|and pro:per|you~cop|be&PRES
+	adj|ready prep|for det:art|the (1)adj|next (1)adj|little (1)n|lot ?
+----------------------------------------
+*** File "st06.cha": line 554.
+*TUR:	had a nice little sleep ?
+%mor:	v|have&PAST det:art|a (1)adj|nice (1)adj|little (1)n|sleep ?
+----------------------------------------
+*** File "st06.cha": line 779.
+*TUR:	well you've got just a tiny little mouthful in here .
+%mor:	n|well pro:per|you~aux|have v|get&PAST adv|just det:art|a (1)adj|tiny
+	(1)adj|little (1)n|mouth-FUL adv|in adv|here .
+
+    Strings matched 3 times
+
+From file <st07.cha>
+----------------------------------------
+*** File "st07.cha": line 310.
+*TUR:	it's a nice big smile isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|smile
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <st11.cha>
+
+    Strings matched 0 times
+
+From file <st15.cha>
+----------------------------------------
+*** File "st15.cha": line 1060.
+*TUR:	kick it come_on as though you were in a really real bad temper .
+%mor:	v|kick pro:per|it co|come_on adv|as conj|though pro:per|you
+	cop|be&PAST prep|in det:art|a adv|real&dadj-LY (1)adj|real (1)adj|bad
+	(1)n|temper .
+
+    Strings matched 1 times
+
+From file <st16.cha>
+----------------------------------------
+*** File "st16.cha": line 1063.
+*TUR:	look at these lovely little toes .
+%mor:	cop|look prep|at pro:dem|these (1)adj|love&dn-LY (1)adj|little (1)n|toe-PL .
+----------------------------------------
+*** File "st16.cha": line 1153.
+*TUR:	that's a funny little noise Lewis .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|noise
+	n:prop|Lewis .
+----------------------------------------
+*** File "st16.cha": line 1158.
+*TUR:	it is isn't it a funny little noise ?
+%mor:	pro:per|it cop|be&3S cop|be&3S~neg|not pro:per|it det:art|a
+	(1)adj|fun&dn-Y (1)adj|little (1)n|noise ?
+----------------------------------------
+*** File "st16.cha": line 2110.
+*FAT:	hey little big mouth .
+%mor:	co|hey (1)adj|little (1)adj|big (1)n|mouth .
+----------------------------------------
+*** File "st16.cha": line 2557.
+*TUR:	like a little soft toy isn't she ?
+%mor:	prep|like det:art|a (1)adj|little (1)adj|soft (1)n|toy cop|be&3S~neg|not
+	pro:sub|she ?
+----------------------------------------
+*** File "st16.cha": line 2728.
+*TUR:	nice little sleep ?
+%mor:	(1)adj|nice (1)adj|little (1)n|sleep ?
+
+    Strings matched 6 times
+

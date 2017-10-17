@@ -1,0 +1,330 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:41:35 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <alice1.cha>
+----------------------------------------
+*** File "alice1.cha": line 33.
+*MOT:	(.) actually , I was gonna ask you where you got (th)em (.) she
+	(ha)s got bigger and smaller ones (.) she (ha)s got small wooden
+	ones and great big cardboard ones .
+%mor:	adv|actual&dadj-LY cm|cm pro:sub|I cop|be&PAST&13S
+	part|go-PRESP~inf|to v|ask pro:per|you pro:rel|where pro:per|you
+	v|get&PAST pro:obj|them pro:sub|she aux|have&3S v|get&PAST
+	adj|big-CP coord|and adj|small-CP det:num|one-PL pro:sub|she
+	aux|have&3S v|get&PAST adj|small adj|wooden pro:indef|one-PL
+	coord|and (1)adj|great (1)adj|big (1)n|cardboard pro:indef|one-PL .
+----------------------------------------
+*** File "alice1.cha": line 219.
+*MOT:	no (.) and I do n(o)t think &+th (.) &-uh these would probably be
+	better just baby .
+%mor:	co|no coord|and pro:sub|I mod|do neg|not v|think pro:dem|these
+	mod|will&COND adv|probable&dadj-LY aux|be (1)adj|good&CP (1)adj|just
+	(1)n|baby .
+----------------------------------------
+*** File "alice1.cha": line 238.
+*MOT:	she likes to put things (.) the putting in and taking out (.) we
+	have some stacking barrels (.) and she loves the (.) y(ou) know (.)
+	putting things (.) Well , she (wi)ll take all the barrels out (.)
+	and keep the biggest one and fill it up with other things and
+	buckets and with her small wooden blocks .
+%mor:	pro:sub|she v|like-3S inf|to v|put&ZERO n|thing-PL det:art|the
+	n:gerund|put-PRESP adv|in coord|and part|take-PRESP adv|out
+	pro:sub|we v|have qn|some n:gerund|stack-PRESP n|barrel-PL coord|and
+	pro:sub|she v|love-3S det:art|the pro:per|you v|know part|put-PRESP
+	n|thing-PL n:prop|Well cm|cm pro:sub|she mod|will v|take qn|all
+	det:art|the n|barrel-PL adv|out coord|and v|keep det:art|the
+	adj|big-SP det:num|one coord|and v|fill pro:per|it adv|up prep|with
+	qn|other n|thing-PL coord|and n|bucket-PL coord|and prep|with
+	det:poss|her (1)adj|small (1)adj|wooden (1)n|block-PL .
+
+    Strings matched 3 times
+
+From file <alice3.cha>
+----------------------------------------
+*** File "alice3.cha": line 121.
+*MOT:	I think a little bit (.) later on (.) I mean , if (.) if it had
+	looked a little bit mm (.) more like a duck with a real distinct
+	bill , then I would've (.) maybe .
+%mor:	pro:sub|I v|think det:art|a adj|little n|bit adv|later adv|on
+	pro:sub|I adj|mean cm|cm conj|if conj|if pro:per|it v|have&PAST
+	cop|look-PAST det:art|a adj|little n|bit co|mm adv|more prep|like
+	det:art|a n|duck prep|with det:art|a (1)adj|real (1)adj|distinct (1)n|bill
+	cm|cm adv:tem|then pro:sub|I mod|will&COND~aux|have adv|maybe .
+----------------------------------------
+*** File "alice3.cha": line 409.
+*NAN:	big new word is apple , right ?
+%mor:	(1)adj|big (1)adj|new (1)n|word cop|be&3S n|apple cm|cm n|right ?
+----------------------------------------
+*** File "alice3.cha": line 426.
+*NAN:	does she have her own little chair ?
+%mor:	mod|do&3S pro:sub|she v|have pro:obj|her (1)adj|own (1)adj|little (1)n|chair
+	?
+
+    Strings matched 3 times
+
+From file <amelia1.cha>
+----------------------------------------
+*** File "amelia1.cha": line 266.
+*MOT:	we'll , &+u:m I think dragons are a (.) pretty distinct thing +...
+%mor:	pro:sub|we~mod|will cm|cm pro:sub|I v|think n|dragon-PL cop|be&PRES
+	det:art|a (1)adj|pretty (1)adj|distinct (1)n|thing +...
+----------------------------------------
+*** File "amelia1.cha": line 290.
+*MOT:	I think adults probably associate bad things with dragons , but
+	+...
+%mor:	pro:sub|I v|think n|adult-PL adv|probable&dadj-LY (1)adj|associate
+	(1)adj|bad (1)n|thing-PL prep|with n|dragon-PL cm|cm conj|but +...
+----------------------------------------
+*** File "amelia1.cha": line 391.
+*MOT:	I [/] I think they probably understand (.) <maybe the same amount>
+	[//] maybe a few (.) different things (.) but (.) I think they're
+	(.) pretty much the same (.) as far as understanding goes (.) No ,
+	<I don't> [/] I don't think so (.) I think they (.) probably react
+	&+diff [//] a little differently (.) &+u:m I [/] I don't know but (.)
+	I [/] I know that (.) I just seem to have <different &+com> [//]
+	maybe a little different conversations with Amelia (.) she [/] she's
+	a little more vocal than is (.) right now .
+%mor:	pro:sub|I v|think pro:sub|they adv|probable&dadj-LY v|understand
+	adv|maybe det:art|a qn|few adj|different n|thing-PL conj|but
+	pro:sub|I v|think pro:sub|they~aux|be&PRES adj|pretty adv|much
+	det:art|the adj|same adv|as adv|far conj|as
+	n:gerund|understand-PRESP v|go-3S n:prop|No cm|cm pro:sub|I
+	mod|do~neg|not v|think co|so pro:sub|I v|think pro:sub|they
+	adv|probable&dadj-LY v|react det:art|a adj|little
+	adv|different&dadj-LY pro:sub|I mod|do~neg|not v|know conj|but
+	pro:sub|I v|know pro:rel|that pro:sub|I adv|just cop|seem inf|to
+	aux|have adv|maybe det:art|a (1)adj|little (1)adj|different
+	(1)n|conversation-PL prep|with n:prop|Amelia pro:sub|she~aux|be&3S
+	det:art|a adj|little adv|more adj|vocal prep|than cop|be&3S
+	adv|right adv|now .
+
+    Strings matched 3 times
+
+From file <amelia2.cha>
+
+    Strings matched 0 times
+
+From file <amelia3.cha>
+
+    Strings matched 0 times
+
+From file <anne1.cha>
+
+    Strings matched 0 times
+
+From file <anne2.cha>
+----------------------------------------
+*** File "anne2.cha": line 707.
+*MOT:	except the obvious little girl dolls .
+%mor:	v|except det:art|the (1)adj|obvious (1)adj|little (1)n|girl n|doll-PL .
+----------------------------------------
+*** File "anne2.cha": line 722.
+*MOT:	that big sound after the elephant is my husband makes a huge sound
+	(.) elephant sound that she tries to imitate [=! laughs] .
+%mor:	pro:dem|that adj|big adj|sound prep|after det:art|the n|elephant
+	cop|be&3S det:poss|my n|husband v|make-3S det:art|a (1)adj|huge
+	(1)adj|sound (1)n|elephant adj|sound pro:rel|that pro:sub|she v|try-3S
+	inf|to v|imitate .
+
+    Strings matched 2 times
+
+From file <anne3.cha>
+
+    Strings matched 0 times
+
+From file <cindy1.cha>
+----------------------------------------
+*** File "cindy1.cha": line 394.
+*MOT:	she has her own little phone , an(d) all she says is hi and bye .
+%mor:	pro:sub|she aux|have&3S pro:obj|her (1)adj|own (1)adj|little (1)n|phone
+	cm|cm coord|and pro:indef|all pro:sub|she v|say-3S cop|be&3S co|hi
+	coord|and co|bye .
+----------------------------------------
+*** File "cindy1.cha": line 635.
+*MOT:	it's a pretty bright green phone xxx .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|pretty (1)adj|bright (1)adj|green
+	(1)n|phone .
+
+    Strings matched 2 times
+
+From file <cindy2.cha>
+----------------------------------------
+*** File "cindy2.cha": line 644.
+*MOT:	and that kinda gives you an even better perspective , (be)cause
+	those fish are real big !
+%mor:	coord|and pro:dem|that adv|kinda v|give-3S pro:per|you det:art|a
+	(1)adj|even (1)adj|good&CP (1)n|perspective cm|cm conj|because pro:dem|those
+	n|fish cop|be&PRES adj|real adj|big !
+
+    Strings matched 1 times
+
+From file <cindy3.cha>
+----------------------------------------
+*** File "cindy3.cha": line 815.
+*MOT:	she doesn't eat out_of glass bowls (.) the big bowls like that ,
+	and we really have a lot more plates than we have of bowls (.) her ,
+	her dish is a plastic dish with the three sections in it , or a
+	wooden bowl (.) it's a very flat wooden bowl (.) she eats soup
+	out_of the plastic , three sectioned plastic bowl (.) but it's a
+	whole different , very (.) obvious bowl (.) and she does eat soup
+	out_of it .
+%mor:	pro:sub|she mod|do&3S~neg|not v|eat prep|out_of n|glass n|bowl-PL
+	det:art|the adj|big n|bowl-PL prep|like pro:dem|that cm|cm coord|and
+	pro:sub|we adv|real&dadj-LY v|have det:art|a n|lot adv|more
+	n|plate-PL prep|than pro:sub|we v|have prep|of n|bowl-PL pro:obj|her
+	cm|cm det:poss|her n|dish cop|be&3S det:art|a adj|plastic n|dish
+	prep|with det:art|the det:num|three n|section-PL prep|in pro:per|it
+	cm|cm coord|or det:art|a adj|wooden n|bowl pro:per|it~cop|be&3S
+	det:art|a adv|very (1)adj|flat (1)adj|wooden (1)n|bowl pro:sub|she v|eat-3S
+	n|soup prep|out_of det:art|the n|plastic cm|cm det:num|three
+	(2)adj|sectioned (2)adj|plastic (2)n|bowl conj|but pro:per|it~cop|be&3S
+	det:art|a adj|whole adj|different cm|cm adv|very adj|obvious n|bowl
+	coord|and pro:sub|she v|do&3S v|eat n|soup prep|out_of pro:per|it .
+----------------------------------------
+*** File "cindy3.cha": line 1032.
+*MOT:	no , and we have some beautiful wooden blocks , too , that she just
+	got , and she [/] she the only thing she'll make with them is she'll
+	lay them flat on the floor and make a house to sit on [=! laughs]
+	not stack !
+%mor:	co|no cm|cm coord|and pro:sub|we v|have qn|some (1)adj|beautiful
+	(1)adj|wooden (1)n|block-PL cm|cm adv|too cm|cm pro:rel|that pro:sub|she
+	adv|just v|get&PAST cm|cm coord|and pro:sub|she det:art|the qn|only
+	n|thing pro:sub|she~mod|will v|make prep|with pro:obj|them aux|be&3S
+	pro:sub|she~mod|will v|lay pro:obj|them adj|flat prep|on det:art|the
+	n|floor coord|and v|make det:art|a n|house inf|to v|sit adv|on
+	neg|not v|stack !
+
+    Strings matched 3 times
+
+From file <dale1.cha>
+
+    Strings matched 0 times
+
+From file <dale2.cha>
+----------------------------------------
+*** File "dale2.cha": line 552.
+*NAN:	it's a pretty broad term (.) do you think she knows ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|broad (1)n|term v|do
+	pro:per|you v|think pro:sub|she v|know-3S ?
+
+    Strings matched 1 times
+
+From file <dale3.cha>
+
+    Strings matched 0 times
+
+From file <gail2.cha>
+----------------------------------------
+*** File "gail2.cha": line 538.
+*MOT:	with her (.) little (.) little people .
+%mor:	prep|with det:poss|her (1)adj|little (1)adj|little (1)n|person&PL .
+----------------------------------------
+*** File "gail2.cha": line 924.
+*MOT:	she knows all of make way for ducklings , she knows all of this ,
+	all of that (.) everything and (.) she's reading a_lot_of <her old>
+	[//] her older sister's books (.) vintage (.) when she was four or
+	five years old (.) she loves stories with content (.) I got these
+	little golden books , Hansel and Gretl (.) loves it (.) and she
+	seems to be able to sit through to the very end , just enjoying the
+	words !
+%mor:	pro:sub|she v|know-3S adv|all prep|of v|make n|way prep|for
+	n|duckling-PL cm|cm pro:sub|she v|know-3S adv|all prep|of
+	pro:dem|this cm|cm qn|all prep|of det:dem|that pro:indef|everything
+	coord|and pro:sub|she~aux|be&3S part|read-PRESP qn|a_lot_of
+	det:poss|her adj|old-CP n|sister~poss|s n|book-PL n|vintage
+	conj|when pro:sub|she cop|be&PAST&13S det:num|four coord|or
+	det:num|five n|year-PL adj|old pro:sub|she v|love-3S n|story-PL
+	prep|with adj|content pro:sub|I v|get&PAST pro:dem|these (1)adj|little
+	(1)adj|golden (1)n|book-PL cm|cm n:prop|Hansel coord|and n:prop|Gretl
+	v|love-3S pro:per|it coord|and pro:sub|she cop|seem-3S inf|to cop|be
+	adj|able inf|to v|sit adv|through prep|to det:art|the adv|very n|end
+	cm|cm adv|just part|enjoy-PRESP det:art|the n|word-PL !
+
+    Strings matched 2 times
+
+From file <gail3.cha>
+
+    Strings matched 0 times
+
+From file <kay2.cha>
+----------------------------------------
+*** File "kay2.cha": line 503.
+*NAN:	do you think she knows that that abstract little thing is a house ?
+%mor:	mod|do pro:per|you v|think pro:sub|she v|know-3S pro:rel|that
+	det:dem|that (1)adj|abstract (1)adj|little (1)n|thing cop|be&3S det:art|a
+	n|house ?
+----------------------------------------
+*** File "kay2.cha": line 585.
+*MOT:	in fact , she wanted to pick the flowers in the nice little
+	arrangements on the way in here .
+%mor:	prep|in n|fact cm|cm pro:sub|she v|want-PAST inf|to v|pick
+	det:art|the n|flower-PL prep|in det:art|the (1)adj|nice (1)adj|little
+	(1)n|arrangement-PL prep|on det:art|the n|way prep|in adv|here .
+
+    Strings matched 2 times
+
+From file <kay3.cha>
+----------------------------------------
+*** File "kay3.cha": line 397.
+*MOT:	she has a new little toy that she plays with all my hair things ,
+	my bobby pins and barrettes and hair+brush (.) and yesterday I said
+	either +"/.
+%mor:	pro:sub|she v|have&3S det:art|a (1)adj|new (1)adj|little (1)n|toy
+	pro:rel|that pro:sub|she v|play-3S prep|with qn|all det:poss|my
+	n|hair n|thing-PL cm|cm det:poss|my n|bobby n|pin-PL coord|and
+	n|barrette-PL coord|and n|+n|hair+n|brush coord|and
+	adv:tem|yesterday pro:sub|I v|say&PAST adv|either +"/.
+
+    Strings matched 1 times
+
+From file <lena2.cha>
+----------------------------------------
+*** File "lena2.cha": line 208.
+*MOT:	no , when she gets on a real live phone , she doesn't say a word
+	(.) but (.) when she's playing with a play phone (.) she talks (.)
+	(.) Occasionally , she'll say +"/.
+%mor:	co|no cm|cm adv:int|when pro:sub|she v|get-3S adv|on det:art|a
+	(1)adj|real (1)adj|live (1)n|phone cm|cm pro:sub|she mod|do&3S~neg|not v|say
+	det:art|a n|word conj|but conj|when pro:sub|she~aux|be&3S
+	part|play-PRESP prep|with det:art|a n|play n|phone pro:sub|she
+	v|talk-3S n:prop|Occasionally cm|cm pro:sub|she~mod|will v|say +"/.
+
+    Strings matched 1 times
+
+From file <lena3.cha>
+----------------------------------------
+*** File "lena3.cha": line 198.
+*NAN:	but with her own little books , picture books (.) ?
+%mor:	conj|but prep|with pro:obj|her (1)adj|own (1)adj|little (1)n|book-PL cm|cm
+	n|picture n|book-PL ?
+----------------------------------------
+*** File "lena3.cha": line 413.
+*MOT:	she had a pretty good grasp on it (.) but didn't know how (.) to
+	exert the pressure to get it up or down +...
+%mor:	pro:sub|she v|have&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|grasp
+	prep|on pro:per|it conj|but mod|do&PAST~neg|not v|know adv:int|how
+	inf|to v|exert det:art|the n|pressure inf|to v|get pro:per|it adv|up
+	coord|or adv|down +...
+
+    Strings matched 2 times
+
+From file <marie1.cha>
+
+    Strings matched 0 times
+
+From file <marie2.cha>
+
+    Strings matched 0 times
+
+From file <marie3.cha>
+----------------------------------------
+*** File "marie3.cha": line 230.
+*MOT:	but she has a little hard time putting it on herself .
+%mor:	conj|but pro:sub|she v|have&3S det:art|a (1)adj|little (1)adj|hard (1)n|time
+	part|put-PRESP pro:per|it prep|on pro:refl|herself .
+
+    Strings matched 1 times
+

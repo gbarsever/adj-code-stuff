@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004930-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;05.20||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&-um my brother because he [//] he's always annoying me .
+%mor:	det:poss|my n|brother conj|because pro:sub|he~aux|be&3S adv|always
+	part|annoy-PRESP pro:obj|me .
+%gra:	1|2|MOD 2|0|INCROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|JCT 7|2|CJCT 8|7|OBJ
+	9|2|PUNCT
+*CHI:	and he always has_to be round me and my friends all the time .
+%mor:	coord|and pro:sub|he adv|always mod:aux|has_to cop|be adv|round
+	pro:obj|me coord|and det:poss|my n|friend-PL adv|all det:art|the
+	n|time .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|CONJ
+	9|10|MOD 10|13|SUBJ 11|13|JCT 12|13|DET 13|8|COORD 14|5|PUNCT
+*CHI:	and he always tells on me .
+%mor:	coord|and pro:sub|he adv|always v|tell-3S prep|on pro:obj|me .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	that's cool , anything else ?
+%mor:	pro:dem|that~cop|be&3S adj|cool cm|cm pro:indef|anything post|else
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|LP 5|2|ENUM 6|5|PQ 7|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,104 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:14:08 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <s1-1210.cha>
+----------------------------------------
+*** File "s1-1210.cha": line 2134.
+*MOT:	how (a)bout the eensie weensie spider ? %snd:"s1-r19jun97"_3280190_3283079
+%mor:	adv:int|how adv|about det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "s1-1210.cha": line 2137.
+*MOT:	the eensie weensie spider went up (...) the water spout [=! sung] .
+	%snd:"s1-r19jun97"_3284136_3291562
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "s1-1210.cha": line 2154.
+*MOT:	and the eensie weensie spider went up (...) the spout (...) again
+	[=! sung] . %snd:"s1-r19jun97"_3308578_3316273
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST
+	adv|up det:art|the n|spout adv|again .
+
+    Strings matched 3 times
+
+From file <s1-1224.cha>
+----------------------------------------
+*** File "s1-1224.cha": line 230.
+*MOT:	that was a eensie weensie spider . %snd:"s1-r3jul97"_269878_271781
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|eensie (1)adj|weensie
+	(1)n|spider .
+----------------------------------------
+*** File "s1-1224.cha": line 237.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"s1-r3jul97"_274551_278165
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "s1-1224.cha": line 253.
+*MOT:	and the eensie weensie spider crawled up the spout again [=! read]
+	. %snd:"s1-r3jul97"_298163_304114
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|crawl-PAST
+	prep|up det:art|the n|spout adv|again .
+
+    Strings matched 3 times
+
+From file <s1-1308.cha>
+----------------------------------------
+*** File "s1-1308.cha": line 1141.
+*MOT:	blue orange green . %snd:"s1-r17jul97"_1530257_1532000
+%mor:	(1)adj|blue (1)adj|orange (1)n|green .
+
+    Strings matched 1 times
+
+From file <s1-1322.cha>
+----------------------------------------
+*** File "s1-1322.cha": line 2453.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"s1-r31jul97"_3692510_3695577
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "s1-1322.cha": line 2456.
+*MOT:	wanna do eensie weensie spider ? %snd:"s1-r31jul97"_3696250_3697813
+%mor:	v|want~inf|to v|do (1)adj|eensie (1)adj|weensie (1)n|spider ?
+
+    Strings matched 2 times
+
+From file <s1-1406.cha>
+
+    Strings matched 0 times
+
+From file <s1-1424.cha>
+----------------------------------------
+*** File "s1-1424.cha": line 2796.
+*MOT:	do you wanna do eensie weensie spider &=noise ? %snd:"s1-t2sep97"_3966548_3968486
+%mor:	mod|do pro:per|you v|want~inf|to v|do (1)adj|eensie (1)adj|weensie
+	(1)n|spider ?
+
+    Strings matched 1 times
+
+From file <s1-1500.cha>
+----------------------------------------
+*** File "s1-1500.cha": line 2342.
+*MOT:	or from the cool clear (...) brook [=! read] . %snd:"s1-t9sep97"_3363245_3366808
+%mor:	coord|or prep|from det:art|the (1)adj|cool (1)adj|clear (1)n|brook .
+----------------------------------------
+*** File "s1-1500.cha": line 2960.
+*MOT:	you wanna do eensie weensie (...) spider ? %snd:"s1-t9sep97"_4051558_4053696
+%mor:	pro:per|you v|want~inf|to v|do (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "s1-1500.cha": line 2963.
+*MOT:	the eensie weensie spider went up (...) the water spout [=! sung] .
+	%snd:"s1-t9sep97"_4054470_4061347
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "s1-1500.cha": line 2994.
+*MOT:	here comes the eensie weensie spider . %snd:"s1-t9sep97"_4101544_4103668
+%mor:	adv|here v|come-3S det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "s1-1500.cha": line 3154.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"s1-t9sep97"_4469656_4472034
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 5 times
+

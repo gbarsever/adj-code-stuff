@@ -1,0 +1,26 @@
+combo +t%mor -t*CHI -t*CRY -t*ABB -t*FRE -t*ZAC -t*JEN -t*DAV -t*AAR -t*KEI -t*TOB -t*JAY -t*NIC -t*ERL -t*ALT -t*WEN -t*MAT -t*MOS -t*DAN -t*CHR -t*CHA -t*DEB -t*JOS +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:29:20 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *CRY; *ABB; *FRE; *ZAC; *JEN; *DAV; *AAR; *KEI; *TOB; *JAY; *NIC; *ERL; *ALT; *WEN; *MAT; *MOS; *DAN; *CHR; *CHA; *DEB; *JOS;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Cornell/haas1924.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Cornell/haas1926.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Cornell/haas1927.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Cornell/haas1927.cha": line 81.
+*MOT:	is Corey a nice little boy ?
+%mor:	cop|be&3S n:prop|Corey det:art|a (1)adj|nice (1)adj|little (1)n|boy ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Cornell/haas1929.cha>
+
+    Strings matched 0 times
+

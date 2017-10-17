@@ -1,0 +1,143 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:13:19 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <eve01.cha>
+
+    Strings matched 0 times
+
+From file <eve02.cha>
+
+    Strings matched 0 times
+
+From file <eve03.cha>
+
+    Strings matched 0 times
+
+From file <eve04.cha>
+
+    Strings matched 0 times
+
+From file <eve05.cha>
+
+    Strings matched 0 times
+
+From file <eve06.cha>
+
+    Strings matched 0 times
+
+From file <eve07.cha>
+
+    Strings matched 0 times
+
+From file <eve08.cha>
+
+    Strings matched 0 times
+
+From file <eve09.cha>
+
+    Strings matched 0 times
+
+From file <eve10.cha>
+
+    Strings matched 0 times
+
+From file <eve11.cha>
+
+    Strings matched 0 times
+
+From file <eve12.cha>
+
+    Strings matched 0 times
+
+From file <eve13.cha>
+----------------------------------------
+*** File "eve13.cha": line 4470.
+*CHI:	Fraser write a little man (.) little big man (.) big man an(d) a
+	little lady an(d) a little man .
+%mor:	n:prop|Fraser v|write det:art|a adj|little n|man (1)adj|little (1)adj|big
+	(1)n|man adj|big n|man coord|and det:art|a adj|little n|lady coord|and
+	det:art|a adj|little n|man .
+
+    Strings matched 1 times
+
+From file <eve14.cha>
+----------------------------------------
+*** File "eve14.cha": line 2604.
+*CHI:	oh (.) where big round cook ?
+%mor:	co|oh adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+----------------------------------------
+*** File "eve14.cha": line 2615.
+*CHI:	where big round cook ?
+%mor:	adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+----------------------------------------
+*** File "eve14.cha": line 2630.
+*CHI:	big round cook . [+ RES]
+%mor:	(1)adj|big (1)adj|round (1)n|cook .
+----------------------------------------
+*** File "eve14.cha": line 2648.
+*CHI:	where big round cook ?
+%mor:	adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+
+    Strings matched 4 times
+
+From file <eve15.cha>
+----------------------------------------
+*** File "eve15.cha": line 4090.
+*CHI:	my new pink bibbie .
+%mor:	det:poss|my (1)adj|new (1)adj|pink (1)n|bib-DIM .
+
+    Strings matched 1 times
+
+From file <eve16.cha>
+----------------------------------------
+*** File "eve16.cha": line 1236.
+*CHI:	it'll make a great big hole . [+ IMIT]
+%mor:	pro:per|it~mod|will v|make det:art|a (1)adj|great (1)adj|big (1)n|hole .
+----------------------------------------
+*** File "eve16.cha": line 1265.
+*CHI:	I go make a great big hole in my pants .
+%mor:	pro:sub|I v|go v|make det:art|a (1)adj|great (1)adj|big (1)n|hole prep|in
+	det:poss|my n:pt|pants .
+
+    Strings matched 2 times
+
+From file <eve17.cha>
+----------------------------------------
+*** File "eve17.cha": line 10841.
+*CHI:	yep (.) a little tiny bit . [+ RES]
+%mor:	co|yep det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+
+    Strings matched 1 times
+
+From file <eve18.cha>
+----------------------------------------
+*** File "eve18.cha": line 2131.
+*CHI:	<I see> [/] I [/] I see great big tunnel .
+%mor:	pro:sub|I v|see (1)adj|great (1)adj|big (1)n|tunnel .
+
+    Strings matched 1 times
+
+From file <eve19.cha>
+----------------------------------------
+*** File "eve19.cha": line 460.
+*CHI:	did you make a great big hole in here ?
+%mor:	v|do&PAST pro:per|you v|make det:art|a (1)adj|great (1)adj|big (1)n|hole
+	prep|in adv|here ?
+----------------------------------------
+*** File "eve19.cha": line 695.
+*CHI:	all the live long day .
+%mor:	qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "eve19.cha": line 2466.
+*CHI:	he xxx great big horse .
+%mor:	pro:sub|he (1)adj|great (1)adj|big (1)n|horse .
+
+    Strings matched 3 times
+
+From file <eve20.cha>
+
+    Strings matched 0 times
+

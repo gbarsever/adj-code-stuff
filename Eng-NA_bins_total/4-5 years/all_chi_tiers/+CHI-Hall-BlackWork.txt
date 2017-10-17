@@ -1,0 +1,126 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:30:31 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <anl.cha>
+----------------------------------------
+*** File "anl.cha": line 5734.
+*CHI:	a bes(t) bes(t) frien(d) went an(d) told me that it was my [!] best
+	frien(d) &+flah &+flah &+flah &+flah (.) &+in &+huhz it was m:y bes(t) (.)
+	+...
+%mor:	det:art|a (1)adj|good&SP (1)adj|good&SP (1)n|friend v|go&PAST coord|and
+	v|tell&PAST pro:obj|me pro:rel|that pro:per|it cop|be&PAST&13S
+	det:poss|my adj|good&SP n|friend pro:per|it cop|be&PAST&13S
+	det:poss|my adj|good&SP +...
+
+    Strings matched 1 times
+
+From file <deg.cha>
+
+    Strings matched 0 times
+
+From file <kig.cha>
+----------------------------------------
+*** File "kig.cha": line 22334.
+*CHI:	a man [!] was eating an(d) duh [: the] lady said &+buht [!] &+wuht
+	[!] then they said outside delicious yum crunchy , inside delight
+	&+chee:in crunch , that's why it taste so light y [: you] wanna
+	[: want to] eat two .
+%mor:	det:art|a n|man aux|be&PAST&13S part|eat-PRESP coord|and
+	det:art|the n|lady v|say&PAST adv:tem|then pro:sub|they v|say&PAST
+	(1)adj|outside (1)adj|delicious (1)n|yum adj|crunch&dv-Y cm|cm adj|inside
+	n|delight n|crunch cm|cm pro:dem|that~cop|be&3S adv:int|why
+	pro:per|it n|taste adv|so adj|light pro:per|you v|want inf|to v|eat
+	det:num|two .
+
+    Strings matched 1 times
+
+From file <kmf.cha>
+----------------------------------------
+*** File "kmf.cha": line 1849.
+*CHI:	so who wants dat [: that] ol(d) du:mb [!] thing ?
+%mor:	adv|so pro:rel|who v|want-3S pro:rel|that (1)adj|old (1)adj|dumb (1)n|thing
+	?
+----------------------------------------
+*** File "kmf.cha": line 4433.
+*CHI:	an(d) the big bad wolf is comin(g) .
+%mor:	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf aux|be&3S
+	part|come-PRESP .
+----------------------------------------
+*** File "kmf.cha": line 8845.
+*CHI:	I am first bwaek [: black] wumn [: woman] to be appoint(ed) to yuh
+	[: the] federal judgeship .
+%mor:	pro:sub|I aux|be&1S (1)adj|first (1)adj|black (1)n|woman inf|to aux|be
+	part|appoint-PASTP prep|to det:art|the adj|federal n|judgeship .
+
+    Strings matched 3 times
+
+From file <lef.cha>
+----------------------------------------
+*** File "lef.cha": line 7219.
+*CHI:	he a nice sweet guy .
+%mor:	pro:sub|he det:art|a (1)adj|nice (1)adj|sweet (1)n|guy .
+----------------------------------------
+*** File "lef.cha": line 9633.
+*CHI:	you big head bum (.) .
+%mor:	pro:per|you (1)adj|big (1)adj|head (1)n|bum .
+----------------------------------------
+*** File "lef.cha": line 11878.
+*CHI:	well she was dead right mom ?
+%mor:	co|well pro:sub|she cop|be&PAST&13S (1)adj|dead (1)adj|right (1)n|mom ?
+----------------------------------------
+*** File "lef.cha": line 13902.
+*CHI:	and she a wicked old witch (.) .
+%mor:	coord|and pro:sub|she det:art|a (1)adj|wicked (1)adj|old (1)n|witch .
+
+    Strings matched 4 times
+
+From file <mis.cha>
+
+    Strings matched 0 times
+
+From file <pag.cha>
+----------------------------------------
+*** File "pag.cha": line 4167.
+*CHI:	Kimberly got a big ol(d) chair .
+%mor:	n:prop|Kimberly v|get&PAST det:art|a (1)adj|big (1)adj|old (1)n|chair .
+
+    Strings matched 1 times
+
+From file <rog.cha>
+----------------------------------------
+*** File "rog.cha": line 17362.
+*CHI:	look how big ole water .
+%mor:	co|look adv:int|how (1)adj|big (1)adj|ole (1)n|water .
+----------------------------------------
+*** File "rog.cha": line 17697.
+*CHI:	I'm a [: going to] [*] make a big ol(d) circle .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|make det:art|a (1)adj|big
+	(1)adj|old (1)n|circle .
+----------------------------------------
+*** File "rog.cha": line 18579.
+*CHI:	Didi got one a big ol(d) fat motorcycle &=laugh .
+%mor:	n:prop|Didi v|get&PAST pro:indef|one det:art|a adj|big (1)adj|old
+	(1)adj|fat (1)n|motorcycle .
+
+    Strings matched 3 times
+
+From file <roj.cha>
+
+    Strings matched 0 times
+
+From file <trc.cha>
+----------------------------------------
+*** File "trc.cha": line 6397.
+*CHI:	bum bum bum bum bum bum bum bum bum bum bum bu:m bu:m .
+%mor:	adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum
+	adj|bum adj|bum (1)adj|bum (1)adj|bum (1)n|bum .
+----------------------------------------
+*** File "trc.cha": line 10610.
+*CHI:	you got a big fat butt .
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|butt .
+
+    Strings matched 2 times
+

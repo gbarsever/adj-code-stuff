@@ -1,0 +1,58 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:09:58 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <harrie02.cha>
+
+    Strings matched 0 times
+
+From file <harrie03.cha>
+
+    Strings matched 0 times
+
+From file <harrie04.cha>
+
+    Strings matched 0 times
+
+From file <harrie05.cha>
+
+    Strings matched 0 times
+
+From file <harrie06.cha>
+----------------------------------------
+*** File "harrie06.cha": line 1411.
+*MOT:	+" lazy little Piggly_Wriggly often stays in bed to snore after
+	Mother pig had called him for he always snored before .
+%mor:	(1)adj|laze&dv-Y (1)adj|little (1)n:prop|Piggly_Wriggly adv|often
+	cop|stay-3S prep|in n|bed inf|to v|snore conj|after n:prop|Mother
+	n|pig aux|have&PAST part|call-PASTP pro:obj|him prep|for pro:sub|he
+	adv|always part|snore-PASTP adv|before .
+
+    Strings matched 1 times
+
+From file <harrie07.cha>
+
+    Strings matched 0 times
+
+From file <harrie08.cha>
+
+    Strings matched 0 times
+
+From file <harrie09.cha>
+----------------------------------------
+*** File "harrie09.cha": line 1182.
+*RIC:	poor little girl (2.) .
+%mor:	(1)adj|poor (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <harrie10.cha>
+
+    Strings matched 0 times
+
+From file <harrie21.cha>
+
+    Strings matched 0 times
+

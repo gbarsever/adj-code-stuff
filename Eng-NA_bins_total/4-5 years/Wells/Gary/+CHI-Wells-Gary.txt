@@ -1,0 +1,71 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:08:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gary02.cha>
+
+    Strings matched 0 times
+
+From file <gary03.cha>
+
+    Strings matched 0 times
+
+From file <gary04.cha>
+
+    Strings matched 0 times
+
+From file <gary05.cha>
+
+    Strings matched 0 times
+
+From file <gary06.cha>
+
+    Strings matched 0 times
+
+From file <gary07.cha>
+
+    Strings matched 0 times
+
+From file <gary08.cha>
+
+    Strings matched 0 times
+
+From file <gary09.cha>
+
+    Strings matched 0 times
+
+From file <gary10.cha>
+----------------------------------------
+*** File "gary10.cha": line 525.
+*CHI:	nice clean peg .
+%mor:	(1)adj|nice (1)adj|clean (1)n|peg .
+----------------------------------------
+*** File "gary10.cha": line 529.
+*CHI:	nice clean peg .
+%mor:	(1)adj|nice (1)adj|clean (1)n|peg .
+----------------------------------------
+*** File "gary10.cha": line 532.
+*CHI:	nice clean peg .
+%mor:	(1)adj|nice (1)adj|clean (1)n|peg .
+----------------------------------------
+*** File "gary10.cha": line 535.
+*CHI:	nice clean peg .
+%mor:	(1)adj|nice (1)adj|clean (1)n|peg .
+----------------------------------------
+*** File "gary10.cha": line 538.
+*CHI:	nice clean peg .
+%mor:	(1)adj|nice (1)adj|clean (1)n|peg .
+----------------------------------------
+*** File "gary10.cha": line 1078.
+*CHI:	Mum I've got a sore bum still .
+%mor:	n:prop|Mum pro:sub|I~aux|have part|get&PASTP det:art|a (1)adj|sore
+	(1)adj|bum (1)n|still .
+
+    Strings matched 6 times
+
+From file <gary21.cha>
+
+    Strings matched 0 times
+

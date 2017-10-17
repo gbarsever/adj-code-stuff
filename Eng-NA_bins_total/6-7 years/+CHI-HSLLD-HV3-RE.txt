@@ -1,0 +1,193 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:33:43 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admre3.cha>
+
+    Strings matched 0 times
+
+From file <alire3.cha>
+----------------------------------------
+*** File "alire3.cha": line 283.
+*CHI:	he ate [!] a nice juicy leaf .
+%mor:	pro:sub|he v|eat&PAST det:art|a (1)adj|nice (1)adj|juice&dn-Y (1)n|leaf .
+
+    Strings matched 1 times
+
+From file <annre3.cha>
+
+    Strings matched 0 times
+
+From file <aprre3.cha>
+
+    Strings matched 0 times
+
+From file <bobre3.cha>
+
+    Strings matched 0 times
+
+From file <brnre3.cha>
+
+    Strings matched 0 times
+
+From file <brtre3.cha>
+
+    Strings matched 0 times
+
+From file <catre3.cha>
+
+    Strings matched 0 times
+
+From file <deare3.cha>
+
+    Strings matched 0 times
+
+From file <devre3.cha>
+
+    Strings matched 0 times
+
+From file <geore3.cha>
+
+    Strings matched 0 times
+
+From file <guyre3.cha>
+
+    Strings matched 0 times
+
+From file <jamre3.cha>
+----------------------------------------
+*** File "jamre3.cha": line 43.
+*CHI:	<and &-uh> [/] (.) and he was not a little hungry caterpillar anymore .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S neg|not det:art|a (1)adj|little
+	(1)adj|hungry (1)n|caterpillar adv|anymore .
+
+    Strings matched 1 times
+
+From file <jeare3.cha>
+----------------------------------------
+*** File "jeare3.cha": line 234.
+*CHI:	big fat caterpillar .
+%mor:	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 1 times
+
+From file <jebre3.cha>
+
+    Strings matched 0 times
+
+From file <jenre3.cha>
+
+    Strings matched 0 times
+
+From file <jerre3.cha>
+
+    Strings matched 0 times
+
+From file <jesre3.cha>
+
+    Strings matched 0 times
+
+From file <joyre3.cha>
+----------------------------------------
+*** File "joyre3.cha": line 13.
+*CHI:	the hungry hungry caterpillar .
+%mor:	det:art|the (1)adj|hungry (1)adj|hungry (1)n|caterpillar .
+----------------------------------------
+*** File "joyre3.cha": line 17.
+*CHI:	the hungry hungry caterpillar .
+%mor:	det:art|the (1)adj|hungry (1)adj|hungry (1)n|caterpillar .
+----------------------------------------
+*** File "joyre3.cha": line 40.
+*CHI:	the hungry little caterpilla(r) came out of +...
+%mor:	det:art|the (1)adj|hungry (1)adj|little (1)n|caterpillar v|come&PAST adv|out
+	prep|of +...
+----------------------------------------
+*** File "joyre3.cha": line 97.
+*CHI:	and then ah &=gasps he ate a piece of big juicy juicy (.) bite of leaf !
+%mor:	coord|and adv:tem|then co|ah pro:sub|he v|eat&PAST det:art|a
+	n|piece prep|of adj|big (1)adj|juice&dn-Y (1)adj|juice&dn-Y (1)n|bite prep|of
+	n|leaf !
+----------------------------------------
+*** File "joyre3.cha": line 116.
+*CHI:	turned into a big [!] big [!] butterfly !
+%mor:	v|turn-PAST prep|into det:art|a (1)adj|big (1)adj|big (1)n|+n|butter+n|fly !
+
+    Strings matched 5 times
+
+From file <marre3.cha>
+----------------------------------------
+*** File "marre3.cha": line 56.
+*CHI:	a very tiny hungry caterpillar came .
+%mor:	det:art|a adv|very (1)adj|tiny (1)adj|hungry (1)n|caterpillar v|come&PAST .
+----------------------------------------
+*** File "marre3.cha": line 171.
+*CHI:	he was a great big fat caterpillar .
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a adj|great (1)adj|big (1)adj|fat
+	(1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file <melre3.cha>
+
+    Strings matched 0 times
+
+From file <monre3.cha>
+
+    Strings matched 0 times
+
+From file <raure3.cha>
+----------------------------------------
+*** File "raure3.cha": line 207.
+*CHI:	and then (.) little own cocoon .
+%mor:	coord|and adv:tem|then (1)adj|little (1)adj|own (1)n|cocoon .
+
+    Strings matched 1 times
+
+From file <rilre3.cha>
+
+    Strings matched 0 times
+
+From file <rosre3.cha>
+----------------------------------------
+*** File "rosre3.cha": line 130.
+*CHI:	he's a big [!] big fat one .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|big (1)n|fat pro:indef|one
+	.
+
+    Strings matched 1 times
+
+From file <sarre3.cha>
+----------------------------------------
+*** File "sarre3.cha": line 70.
+*CHI:	then he eats [?] (.) the [?] a nice [!] juicy leaf .
+%mor:	adv:tem|then pro:sub|he v|eat-3S det:art|the det:art|a (1)adj|nice
+	(1)adj|juice&dn-Y (1)n|leaf .
+
+    Strings matched 1 times
+
+From file <susre3.cha>
+
+    Strings matched 0 times
+
+From file <terre3.cha>
+
+    Strings matched 0 times
+
+From file <trere3.cha>
+
+    Strings matched 0 times
+
+From file <trire3.cha>
+
+    Strings matched 0 times
+
+From file <vicre3.cha>
+
+    Strings matched 0 times
+
+From file <zanre3.cha>
+
+    Strings matched 0 times
+

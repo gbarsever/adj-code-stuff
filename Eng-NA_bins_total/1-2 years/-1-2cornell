@@ -1,0 +1,61 @@
+combo +t%mor -t*CHI -t*CRY -t*ABB -t*FRE -t*ZAC -t*JEN -t*DAV -t*AAR -t*KEI -t*TOB -t*JAY -t*NIC -t*ERL -t*ALT -t*WEN -t*MAT -t*MOS -t*DAN -t*CHR -t*CHA -t*DEB -t*JOS +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:03:50 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *CRY; *ABB; *FRE; *ZAC; *JEN; *DAV; *AAR; *KEI; *TOB; *JAY; *NIC; *ERL; *ALT; *WEN; *MAT; *MOS; *DAN; *CHR; *CHA; *DEB; *JOS;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1917.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1918.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1920.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1921.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1921.cha": line 440.
+*MOT:	that's a good answer , you little smart aleck .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|answer cm|cm
+	pro:per|you (1)adj|little (1)adj|smart (1)n|aleck .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1923.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/haas1923.cha": line 739.
+*MOT:	do you think they are getting ready to take the presents to all of
+	the good little girls and boys ?
+%mor:	mod|do pro:per|you v|think pro:sub|they aux|be&PRES part|get-PRESP
+	adj|ready inf|to v|take det:art|the n|present-PL prep|to qn|all
+	prep|of det:art|the (1)adj|good (1)adj|little (1)n|girl-PL coord|and n|boy-PL
+	?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/moore189.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/moore189.cha": line 332.
+*FAT:	a big black bear ?
+%mor:	det:art|a (1)adj|big (1)adj|black (1)n|bear ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/moore189.cha": line 1065.
+*FAT:	oh , that is a nice little book .
+%mor:	co|oh cm|cm pro:rel|that cop|be&3S det:art|a (1)adj|nice (1)adj|little
+	(1)n|book .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Cornell/moore189.cha": line 1587.
+*MOT:	well , it's just , yeah , it's not really much , it's just last
+	Friday that was all day and then this week .
+%mor:	co|well cm|cm pro:per|it~cop|be&3S adj|just cm|cm co|yeah cm|cm
+	pro:per|it~cop|be&3S neg|not adv|real&dadj-LY adv|much cm|cm
+	pro:per|it~aux|be&3S (1)adj|just (1)adj|last (1)n:prop|Friday pro:rel|that
+	aux|be&PAST&13S adv|all n|day coord|and adv:tem|then pro:dem|this
+	n|week .
+
+    Strings matched 3 times
+

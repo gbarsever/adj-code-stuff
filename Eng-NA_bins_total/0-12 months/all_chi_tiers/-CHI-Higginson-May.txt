@@ -1,0 +1,27 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:01:35 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <may01.cha>
+----------------------------------------
+*** File "may01.cha": line 918.
+*MOT:	he's a pretty busy guy .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|busy (1)n|guy .
+
+    Strings matched 1 times
+
+From file <may02.cha>
+----------------------------------------
+*** File "may02.cha": line 935.
+*MOT:	you're a pretty big girl aren't you .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|girl
+	aux|be&PRES~neg|not pro:per|you .
+----------------------------------------
+*** File "may02.cha": line 940.
+*MOT:	you're a pretty big girl .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|girl .
+
+    Strings matched 2 times
+

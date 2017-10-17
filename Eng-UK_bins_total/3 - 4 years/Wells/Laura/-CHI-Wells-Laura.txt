@@ -1,0 +1,60 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:11:25 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <laura02.cha>
+
+    Strings matched 0 times
+
+From file <laura03.cha>
+
+    Strings matched 0 times
+
+From file <laura04.cha>
+
+    Strings matched 0 times
+
+From file <laura05.cha>
+
+    Strings matched 0 times
+
+From file <laura06.cha>
+----------------------------------------
+*** File "laura06.cha": line 273.
+*MOT:	I see-ed [: saw] some beautiful little cars in the kitchen .
+%mor:	pro:sub|I v|see&PAST qn|some (1)adj|beautiful (1)adj|little (1)n|car-PL
+	prep|in det:art|the n|kitchen .
+----------------------------------------
+*** File "laura06.cha": line 318.
+*MOT:	there's a nice little dress you've got on .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|dress
+	pro:per|you~aux|have v|get&PAST adv|on .
+----------------------------------------
+*** File "laura06.cha": line 714.
+*MOT:	xxx old podgy face .
+%mor:	(1)adj|old (1)adj|podgy (1)n|face .
+----------------------------------------
+*** File "laura06.cha": line 1117.
+*SAR:	xxx that great big lump Laura (2.) .
+%mor:	pro:dem|that (1)adj|great (1)adj|big (1)n|lump n:prop|Laura .
+
+    Strings matched 4 times
+
+From file <laura07.cha>
+
+    Strings matched 0 times
+
+From file <laura08.cha>
+
+    Strings matched 0 times
+
+From file <laura09.cha>
+
+    Strings matched 0 times
+
+From file <laura10.cha>
+
+    Strings matched 0 times
+

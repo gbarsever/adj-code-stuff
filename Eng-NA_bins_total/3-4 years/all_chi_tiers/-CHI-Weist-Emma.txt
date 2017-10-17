@@ -1,0 +1,222 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:15:39 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <emm01.cha>
+
+    Strings matched 0 times
+
+From file <emm02.cha>
+----------------------------------------
+*** File "emm02.cha": line 782.
+*MOT:	do you think you could help out your poor deaf mother and speak louder ? %snd:"emm02"_1015085_1024678
+%mor:	mod|do pro:per|you v|think pro:per|you mod|could v|help adv|out
+	det:poss|your (1)adj|poor (1)adj|deaf (1)n|mother coord|and v|speak
+	adj|loud-CP ?
+
+    Strings matched 1 times
+
+From file <emm03.cha>
+----------------------------------------
+*** File "emm03.cha": line 303.
+*FAT:	so , should we paint a little green light ? %snd:"emm03"_329475_330622
+%mor:	adv|so cm|cm mod|should pro:sub|we v|paint det:art|a (1)adj|little
+	(1)adj|green (1)n|light ?
+----------------------------------------
+*** File "emm03.cha": line 311.
+*FAT:	put a little green circle . %snd:"emm03"_331271_332901
+%mor:	v|put&ZERO det:art|a (1)adj|little (1)adj|green (1)n|circle .
+
+    Strings matched 2 times
+
+From file <emm04.cha>
+----------------------------------------
+*** File "emm04.cha": line 890.
+*MOT:	you be gentle pretty girl . %snd:"emm04"_1470536_1473462
+%mor:	pro:per|you cop|be (1)adj|gentle (1)adj|pretty (1)n|girl .
+
+    Strings matched 1 times
+
+From file <emm05.cha>
+----------------------------------------
+*** File "emm05.cha": line 154.
+*FAT:	hm: , that's a pretty short slide .
+%mor:	co|hm cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|short
+	(1)n|slide .
+----------------------------------------
+*** File "emm05.cha": line 677.
+*FAT:	it's a pretty long walk to the store if you just try to walk it .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|long (1)n|walk prep|to
+	det:art|the n|store conj|if pro:per|you adv|just v|try inf|to v|walk
+	pro:per|it .
+
+    Strings matched 2 times
+
+From file <emm06.cha>
+----------------------------------------
+*** File "emm06.cha": line 502.
+*JES:	so , where we gonna go in this nice big car ?
+%mor:	adv|so cm|cm pro:rel|where pro:sub|we part|go-PRESP~inf|to v|go
+	prep|in pro:dem|this (1)adj|nice (1)adj|big (1)n|car ?
+
+    Strings matched 1 times
+
+From file <emm07.cha>
+
+    Strings matched 0 times
+
+From file <emm08.cha>
+----------------------------------------
+*** File "emm08.cha": line 1804.
+*FAT:	someone must've had some little sharp object I think . %snd:"emm08"_1702256_1705432
+%mor:	pro:indef|someone mod|must~aux|have v|have&PAST qn|some (1)adj|little
+	(1)adj|sharp (1)n|object pro:sub|I v|think .
+
+    Strings matched 1 times
+
+From file <emm09.cha>
+
+    Strings matched 0 times
+
+From file <emm10.cha>
+
+    Strings matched 0 times
+
+From file <emm11.cha>
+----------------------------------------
+*** File "emm11.cha": line 1366.
+*JES:	do I have a big red mark on my forehead ? %snd:"emm11"_1344908_1349131
+%mor:	mod|do pro:sub|I v|have det:art|a (1)adj|big (1)adj|red (1)n|mark prep|on
+	det:poss|my n|forehead ?
+
+    Strings matched 1 times
+
+From file <emm12.cha>
+----------------------------------------
+*** File "emm12.cha": line 1535.
+*JES:	I had a nice long nap . %snd:"emm12"_1293666_1296509
+%mor:	pro:sub|I v|have&PAST det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 1 times
+
+From file <emm13.cha>
+
+    Strings matched 0 times
+
+From file <emm14.cha>
+
+    Strings matched 0 times
+
+From file <emm15.cha>
+
+    Strings matched 0 times
+
+From file <emm16.cha>
+
+    Strings matched 0 times
+
+From file <emm17.cha>
+
+    Strings matched 0 times
+
+From file <emm18.cha>
+----------------------------------------
+*** File "emm18.cha": line 1562.
+*FAT:	you have a funny little bump on your back horsie . %snd:"emm18"_1310007_1314896
+%mor:	pro:per|you v|have det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|bump prep|on
+	det:poss|your adj|back n|horse-DIM .
+
+    Strings matched 1 times
+
+From file <emm19.cha>
+
+    Strings matched 0 times
+
+From file <emm20.cha>
+----------------------------------------
+*** File "emm20.cha": line 827.
+*FAT:	huh , so what are all of those little yellow discs in your (.) basket
+	there ? %snd:"emm20"_784023_790256
+%mor:	co|huh cm|cm adv|so pro:int|what aux|be&PRES pro:indef|all prep|of
+	pro:dem|those (1)adj|little (1)adj|yellow (1)n|disc-PL prep|in det:poss|your
+	n|basket adv|there ?
+----------------------------------------
+*** File "emm20.cha": line 2426.
+*FAT:	you have a pretty full basket over there , ya [: you] know . %snd:"emm20"_2025988_2028674
+%mor:	pro:per|you v|have det:art|a (1)adj|pretty (1)adj|full (1)n|basket adv|over
+	adv|there cm|cm pro:per|you v|know .
+
+    Strings matched 2 times
+
+From file <emm21.cha>
+----------------------------------------
+*** File "emm21.cha": line 286.
+*FAT:	maybe , yeah , that's for , I don't know what all , all the different equestrian xxx things sort of , or is associated with horses , but .
+%mor:	adv|maybe cm|cm co|yeah cm|cm pro:rel|that~aux|be&3S conj|for cm|cm
+	pro:sub|I mod|do~neg|not v|know pro:int|what adv|all cm|cm qn|all
+	det:art|the (1)adj|different (1)adj|equestrian (1)n|thing-PL n|sort prep|of
+	cm|cm coord|or aux|be&3S part|associate-PASTP prep|with n|horse-PL
+	cm|cm conj|but .
+
+    Strings matched 1 times
+
+From file <emm22.cha>
+----------------------------------------
+*** File "emm22.cha": line 515.
+*LAU:	it's a pretty big flower .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|flower .
+----------------------------------------
+*** File "emm22.cha": line 537.
+*LAU:	yeah , it is a pretty big flower .
+%mor:	co|yeah cm|cm pro:per|it cop|be&3S det:art|a (1)adj|pretty (1)adj|big
+	(1)n|flower .
+----------------------------------------
+*** File "emm22.cha": line 1776.
+*FAT:	new shiny car , okay .
+%mor:	(1)adj|new (1)adj|shine&dn-Y (1)n|car cm|cm adj|okay .
+
+    Strings matched 3 times
+
+From file <emm23.cha>
+----------------------------------------
+*** File "emm23.cha": line 927.
+*LAU:	how (a)bout you , little grey horsies ? %snd:"emm23"_830496_832739
+%mor:	adv:int|how prep|about pro:per|you cm|cm (1)adj|little (1)adj|grey
+	(1)n|horse-DIM-PL ?
+
+    Strings matched 1 times
+
+From file <emm24.cha>
+----------------------------------------
+*** File "emm24.cha": line 228.
+*LAU:	+, what was wrong last week ? %snd:"emm24"_141399_142464
+%mor:	pro:int|what cop|be&PAST&13S (1)adj|wrong (1)adj|last (1)n|week ?
+
+    Strings matched 1 times
+
+From file <emm25.cha>
+----------------------------------------
+*** File "emm25.cha": line 1313.
+*LAU:	oh , puppy , I checked in back and we don't have any short purple
+	brooms , is there a second choice ? %snd:"emm25"_1000888_1007887
+%mor:	co|oh cm|cm n|puppy cm|cm pro:sub|I v|check-PAST prep|in adv|back
+	coord|and pro:sub|we mod|do~neg|not v|have qn|any (1)adj|short
+	(1)adj|purple (1)n|broom-PL cm|cm aux|be&3S adv|there det:art|a adj|second
+	n|choice ?
+
+    Strings matched 1 times
+
+From file <emm26.cha>
+
+    Strings matched 0 times
+
+From file <emm28.cha>
+
+    Strings matched 0 times
+
+From file <emm29.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,619 @@
+combo +t%mor +t*CHI +t*MAD +t*UNK +t*MAR +t*BEN +t*ROS +t*JOE +t*ALL +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:47:42 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *MAD; *UNK; *MAR; *BEN; *ROS; *JOE; *ALL;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/32a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/32a1.cha": line 467.
+*CHI:	but you're a real good boy . %snd:"32a1"_473535_476878
+%mor:	conj|but pro:per|you~cop|be&PRES det:art|a (1)adj|real (1)adj|good (1)n|boy
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/32a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/32b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/32b.cha": line 651.
+*CHI:	and Santa got up the chimney and he went in his sleigh with the
+	little tiny reindeers [: reindeer] [*] and he went away with his
+	little tiny reindeers [: reindeer] [*] . %snd:"32b"_946951_962266
+%mor:	coord|and n:prop|Santa v|get&PAST adv|up det:art|the n|chimney
+	coord|and pro:sub|he v|go&PAST prep|in det:poss|his n|sleigh
+	prep|with det:art|the (1)adj|little (1)adj|tiny (1)n|reindeer coord|and
+	pro:sub|he v|go&PAST adv|away prep|with det:poss|his (2)adj|little
+	(2)adj|tiny (2)n|reindeer .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/33a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/33a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/33b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/33b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/34a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/34a1.cha": line 578.
+*CHI:	+, and and when I was a big boy I used to sleep and now I'm a great
+	big big boy and I say a word . %snd:"34a1"_869444_889302
+%mor:	coord|and coord|and conj|when pro:sub|I cop|be&PAST&13S det:art|a
+	adj|big n|boy pro:sub|I v|use-PAST inf|to v|sleep coord|and adv|now
+	pro:sub|I~aux|be&1S det:art|a adj|great (1)adj|big (1)adj|big (1)n|boy
+	coord|and pro:sub|I v|say det:art|a n|word .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/34a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/34b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/34b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a1.cha": line 679.
+*CHI:	he does (.) he does to get <those> [//] <that> [//] those little
+	tiny racing motorcycles and those two men <fell off that> [//] fell
+	off those racing little motorcycles falled off those racing little
+	motorcycles . %snd:"35a1"_1130664_1162057
+%mor:	pro:sub|he v|do&3S pro:sub|he v|do&3S inf|to v|get pro:dem|those
+	(1)adj|little (1)adj|tiny (1)n:gerund|race-PRESP n|motorcycle-PL coord|and
+	pro:dem|those det:num|two n|man&PL v|fall&PAST prep|off
+	det:dem|those part|race-PRESP adj|little n|motorcycle-PL v|fall-PAST
+	prep|off det:dem|those part|race-PRESP adj|little n|motorcycle-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a2.cha": line 1135.
+*CHI:	<yep> [//] no (.) my teensie (.) eensie (.) weensie spider . %snd:"35a2"_849708_855938
+%mor:	qn|no det:poss|my adj|teensie (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a2.cha": line 1141.
+*CHI:	eensie (.) weensie spider is really careful and you touch him
+	really careful . %snd:"35a2"_858353_868178
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider aux|be&3S adv|real&dadj-LY
+	co|careful coord|and pro:per|you v|touch pro:obj|him
+	adv|real&dadj-LY co|careful .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a2.cha": line 1247.
+*CHI:	do you know the song about eensie (.) weensie (.) spider ? %snd:"35a2"_937483_942396
+%mor:	mod|do pro:per|you v|know det:art|the n|song prep|about (1)adj|eensie
+	(1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35a2.cha": line 1270.
+*CHI:	the eensie (.) weensie (.) spider crawled up the water spout (.)
+	down came the rain and washed the spider out (.) out came the sun
+	and dried up all the rain (.) and the eensie (.) weensie (.) spider
+	crawled up the water spout again . %snd:"35a2"_947783_983094
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|crawl-PAST prep|up
+	det:art|the n|water n|spout adv|down v|come&PAST det:art|the n|rain
+	coord|and v|wash-PAST det:art|the n|spider adv|out adv|out
+	v|come&PAST det:art|the n|sun coord|and v|dry-PAST adv|up qn|all
+	det:art|the n|rain coord|and det:art|the (2)adj|eensie (2)adj|weensie
+	(2)n|spider v|crawl-PAST prep|up det:art|the n|water n|spout adv|again
+	.
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b1.cha": line 472.
+*CHI:	I don't want to come to that big bad little witch because I'm going
+	to to pinch her . %snd:"35b1"_551211_562170
+%mor:	pro:sub|I mod|do~neg|not v|want inf|to v|come prep|to pro:dem|that
+	adj|big (1)adj|bad (1)adj|little (1)n|witch conj|because pro:sub|I~aux|be&1S
+	part|go-PRESP prep|to inf|to v|pinch pro:obj|her .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b2.cha": line 187.
+*CHI:	big little baby . %snd:"35b2"_157959_161386
+%mor:	(1)adj|big (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b2.cha": line 1127.
+*CHI:	where is my brand new Superman shirt ? %snd:"35b2"_945427_954324
+%mor:	pro:rel|where aux|be&3S co|my (1)adj|brand (1)adj|new (1)n:prop|Superman
+	n|shirt ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b2.cha": line 1776.
+*CHI:	little tiny baby cow and this is the mommy cow . %snd:"35b2"_1518255_1527812
+%mor:	(1)adj|little (1)adj|tiny (1)n|baby n|cow coord|and pro:dem|this cop|be&3S
+	det:art|the n|mommy n|cow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/35b2.cha": line 1822.
+*CHI:	this is the great big daddy brother . %snd:"35b2"_1567750_1572311
+%mor:	pro:dem|this cop|be&3S det:art|the (1)adj|great (1)adj|big (1)n|daddy
+	n|brother .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a1.cha": line 10.
+*CHI:	go away from that big bad boy . %snd:"36a1"_0_26172
+%mor:	v|go adv|away prep|from pro:dem|that (1)adj|big (1)adj|bad (1)n|boy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha": line 98.
+*CHI:	but their problem was the big bad wolf . %snd:"36a2"_106505_114594
+%mor:	conj|but det:poss|their n|problem cop|be&PAST&13S det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha": line 103.
+*CHI:	and they tried to hide where the big bad wolf can't find you . %snd:"36a2"_114594_123882
+%mor:	coord|and pro:sub|they v|try-PAST prep|to n|hide pro:rel|where
+	det:art|the (1)adj|big (1)adj|bad (1)n|wolf mod|can~neg|not v|find
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha": line 109.
+*CHI:	the big bad wolf came and went who's [!] that [!] chopping [!] on
+	[!] my [!] heart [!] ? %snd:"36a2"_123882_148652
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|come&PAST coord|and v|go&PAST
+	pro:int|who~cop|be&3S pro:dem|that part|chop-PRESP prep|on
+	det:poss|my n|heart ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha": line 163.
+*CHI:	the big bad wolf says little [!] pigs [!] (.) little [!] pigs [!]
+	(.) let [!] me [!] come in [!] . %snd:"36a2"_167433_175773
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|say-3S adj|little n|pig-PL
+	adj|little n|pig-PL v|let&ZERO pro:obj|me v|come adv|in .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36a2.cha": line 211.
+*CHI:	and their house was broken and the big bad wolf hurt their house
+	and they made another house of bricks . %snd:"36a2"_218377_242154
+%mor:	coord|and det:poss|their n|house aux|be&PAST&13S part|break&PASTP
+	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|hurt&ZERO
+	det:poss|their n|house coord|and pro:sub|they v|make&PAST qn|another
+	n|house prep|of n|brick-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha": line 305.
+*CHI:	a good wicked witch . %snd:"36b1"_190308_192537
+%mor:	det:art|a (1)adj|good (1)adj|wicked (1)n|witch .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha": line 314.
+*CHI:	he takes the bad wicked witch and he made her a xxx . %snd:"36b1"_195964_210415
+%mor:	pro:sub|he v|take-3S det:art|the (1)adj|bad (1)adj|wicked (1)n|witch
+	coord|and pro:sub|he v|make&PAST pro:obj|her det:art|a .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha": line 519.
+*CHI:	you won't be good enough then the good wicked witch comes . %snd:"36b1"_342758_348309
+%mor:	pro:per|you mod|will~neg|not cop|be adj|good adv|enough
+	adv:tem|then det:art|the (1)adj|good (1)adj|wicked (1)n|witch v|come-3S .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha": line 527.
+*CHI:	she leaves the magic ring and she marks the bad wicked witch . %snd:"36b1"_349900_358612
+%mor:	pro:sub|she v|leave-3S det:art|the n|magic n|ring coord|and
+	pro:sub|she v|mark-3S det:art|the (1)adj|bad (1)adj|wicked (1)n|witch .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b1.cha": line 638.
+*CHI:	I'm gonna get you a brand new Dukes of Hazard car with a lion in it
+	and glass on the windows . %snd:"36b1"_441339_446168
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|get pro:per|you
+	det:art|a (1)adj|brand (1)adj|new (1)n:prop|Dukes prep|of n:prop|Hazard n|car
+	prep|with det:art|a n|lion prep|in pro:per|it coord|and n|glass
+	prep|on det:art|the n|window-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/36b2.cha": line 610.
+*CHI:	you know how people become melted like the little bad witch did ? %snd:"36b2"_744992_754197
+%mor:	pro:per|you v|know adv:int|how n|person&PL part|become&PASTP
+	part|melt-PASTP co|like det:art|the (1)adj|little (1)adj|bad (1)n|witch
+	v|do&PAST ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37a1.cha": line 1810.
+*CHI:	big (.) big (.) big (.) big son's make messes . %snd:"37a1"_1480631_1486287
+%mor:	adj|big adj|big (1)adj|big (1)adj|big (1)n|son~poss|s v|make n|mess-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37a2.cha": line 736.
+*CHI:	they locked that mean old troll (.) and they went back <to those
+	bad> [//] to those good Godzilla's house and they lived happily
+	after after again . %snd:"37a2"_715657_740094
+%mor:	pro:sub|they v|lock-PAST pro:dem|that (1)adj|mean (1)adj|old (1)n|troll
+	coord|and pro:sub|they v|go&PAST adv|back prep|to pro:dem|those
+	adj|good n:prop|Godzilla~poss|s n|house coord|and pro:sub|they
+	v|live-PAST adv|happy&dadj-LY prep|after prep|after adv|again .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/37b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38a1.cha": line 551.
+*CHI:	I want good wicked witches daddy (.) not bad ones . %snd:"38a1"_358023_362296
+%mor:	pro:sub|I v|want (1)adj|good (1)adj|wicked (1)n|witch-PL n|daddy neg|not
+	adj|bad pro:indef|one-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b1.cha": line 811.
+*CHI:	a cute little baby one . %snd:"38b1"_611690_614208
+%mor:	det:art|a (1)adj|cute (1)adj|little (1)n|baby pro:indef|one .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b1.cha": line 1501.
+*CHI:	they're for big daddy's and big (.) little boys . %snd:"38b1"_1238217_1246287
+%mor:	pro:sub|they~cop|be&PRES prep|for adj|big n|daddy~poss|s coord|and
+	(1)adj|big (1)adj|little (1)n|boy-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b2.cha": line 155.
+*CHI:	so we have_to find a brand new gun for his hand . %snd:"38b2"_124810_132612
+%mor:	co|so pro:sub|we mod:aux|have_to v|find det:art|a (1)adj|brand (1)adj|new
+	(1)n|gun prep|for det:poss|his n|hand .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/38b2.cha": line 1094.
+*CHI:	but those big bad monsters were bad and they wanted to eat us (.)
+	right ? %snd:"38b2"_1320360_1336316
+%mor:	conj|but pro:dem|those (1)adj|big (1)adj|bad (1)n|monster-PL cop|be&PAST
+	adj|bad coord|and pro:sub|they v|want-PAST inf|to v|eat pro:obj|us
+	n|right ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39a2.cha": line 1241.
+*CHI:	my dreaming was about those big black monsters . %snd:"39a2"_909685_913029
+%mor:	det:poss|my n:gerund|dream-PRESP cop|be&PAST&13S prep|about
+	pro:dem|those (1)adj|big (1)adj|black (1)n|monster-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39a2.cha": line 1249.
+*CHI:	big black monsters . %snd:"39a2"_915713_919614
+%mor:	(1)adj|big (1)adj|black (1)n|monster-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/39b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/40a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/40a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/40b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/41a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/41a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/41b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/41b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a1.cha": line 981.
+*CHI:	+" why did little little Gabor say stupid . %snd:"42a1"_739544_741913
+%mor:	adv:int|why mod|do&PAST (1)adj|little (1)adj|little (1)n:prop|Gabor co|say
+	adj|stupid .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a1.cha": line 1362.
+*CHI:	let's pretend that Mark is a cute sexy little girl . %snd:"42a1"_1103850_1118711
+%mor:	v|let~pro:obj|us adj|pretend pro:rel|that n:prop|Mark cop|be&3S
+	det:art|a adj|cute (1)adj|sex&dn-Y (1)adj|little (1)n|girl .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a2.cha": line 259.
+*CHI:	cute little dog say in Denver rrrrrr@o . %snd:"42a2"_233034_236569
+%mor:	(1)adj|cute (1)adj|little (1)n|dog v|say prep|in n:prop|Denver on|rrrrrr .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a2.cha": line 1757.
+*CHI:	he couldn't get captured so he went on the big bad wolf's back and
+	he he went boo then it got cold and he freeze and he melted . %snd:"42a2"_1442481_1462171
+%mor:	pro:sub|he mod|could~neg|not aux|get part|capture-PASTP adv|so
+	pro:sub|he v|go&PAST prep|on det:art|the (1)adj|big (1)adj|bad
+	(1)n|wolf~poss|s adv|back coord|and pro:sub|he pro:sub|he v|go&PAST
+	co|boo adv:tem|then pro:per|it v|get&PAST adj|cold coord|and
+	pro:sub|he v|freeze coord|and pro:sub|he v|melt-PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42a2.cha": line 1769.
+*CHI:	but the big bad wolf got him and ate him up . %snd:"42a2"_1462171_1466915
+%mor:	conj|but det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|get&PAST pro:obj|him
+	coord|and v|eat&PAST pro:obj|him adv|up .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/42b2.cha": line 128.
+*CHI:	you mean when I get like my poor old parents ? %snd:"42b2"_182870_205550
+%mor:	pro:per|you v|mean conj|when pro:sub|I v|get prep|like det:poss|my
+	(1)adj|poor (1)adj|old (1)n|parent-PL ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a2.cha": line 1780.
+*CHI:	do you want to see what super super hero I am ? %snd:"43a2"_1866973_1871040
+%mor:	mod|do pro:per|you v|want inf|to v|see pro:int|what (1)adj|super
+	(1)adj|super (1)n|hero pro:sub|I aux|be&1S ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a2.cha": line 2217.
+*CHI:	no (.) that's a big (.) huge woman . %snd:"43a2"_2330298_2334470
+%mor:	co|no pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|huge (1)n|woman .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a2.cha": line 2273.
+*CHI:	huge (.) big boy . %snd:"43a2"_2370136_2372179
+%mor:	(1)adj|huge (1)adj|big (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43a2.cha": line 2456.
+*CHI:	why can I stick my tongue out and why can I talk when I'm a little
+	little puppy ? %snd:"43a2"_2509270_2514740
+%mor:	adv:int|why mod|can pro:sub|I v|stick det:poss|my n|tongue adv|out
+	coord|and adv:int|why mod|can pro:sub|I n|talk conj|when
+	pro:sub|I~cop|be&1S det:art|a (1)adj|little (1)adj|little (1)n|puppy ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43b2.cha": line 661.
+*CHI:	poor big people have_to drink that yucky stuff . %snd:"43b2"_622259_629235
+%mor:	(1)adj|poor (1)adj|big (1)n|person&PL mod:aux|have_to v|drink pro:dem|that
+	adj|yuck&dn-Y n|stuff .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/43b2.cha": line 1692.
+*CHI:	not our crummy old car . %snd:"43b2"_1464693_1468780
+%mor:	neg|not det:poss|our (1)adj|crummy (1)adj|old (1)n|car .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a1.cha": line 327.
+*CHI:	he's going to eat those bad little guys up . %snd:"44a1"_253234_258064
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP inf|to v|eat pro:dem|those
+	(1)adj|bad (1)adj|little (1)n|guy-PL adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a1.cha": line 935.
+*CHI:	I picked a big strong brick up and those people said +"/. %snd:"44a1"_665603_670555
+%mor:	pro:sub|I v|pick-PAST det:art|a (1)adj|big (1)adj|strong (1)n|brick adv|up
+	coord|and pro:dem|those n|person&PL v|say&PAST +"/.
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a2.cha": line 453.
+*CHI:	then you're going to go to your own own school (.) then Marky's
+	going to go to (.) I'll find a own school for Mark (.) no (.) Marky
+	gets bigger at Pittsburgh and I get bigger at Pittsburgh . %snd:"44a2"_310140_326878
+%mor:	adv:tem|then pro:per|you~aux|be&PRES part|go-PRESP inf|to v|go
+	prep|to det:poss|your (1)adj|own (1)adj|own (1)n|school adv:tem|then
+	n:prop|Marky~aux|be&3S part|go-PRESP inf|to v|go prep|to
+	pro:sub|I~mod|will v|find det:art|a adj|own n|school prep|for
+	n:prop|Mark co|no n:prop|Marky v|get-3S adj|big-CP prep|at
+	n:prop|Pittsburgh coord|and pro:sub|I v|get adj|big-CP prep|at
+	n:prop|Pittsburgh .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44a2.cha": line 1106.
+*CHI:	Marky is a naked little bird like a what ? %snd:"44a2"_838296_842466
+%mor:	n:prop|Marky cop|be&3S det:art|a (1)adj|naked (1)adj|little (1)n|bird
+	prep|like det:art|a pro:int|what ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b1.cha": line 764.
+*CHI:	Cacy is my best best friend . %snd:"44b1"_543964_547577
+%mor:	n:prop|Cacy aux|be&3S det:poss|my (1)adj|good&SP (1)adj|good&SP (1)n|friend
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b1.cha": line 1541.
+*CHI:	it goes bbbrrrrrmmmm@o [!] and I want huge big slide (.) a long
+	slide for it to go a long way . %snd:"44b1"_1303248_1318955
+%mor:	pro:per|it v|go-3S on|bbbrrrrrmmmm coord|and pro:sub|I v|want
+	(1)adj|huge (1)adj|big (1)n|slide det:art|a adj|long n|slide prep|for
+	pro:per|it inf|to v|go det:art|a adj|long n|way .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b2.cha": line 136.
+*CHI:	no (.) I want him to be a polite little girl (.) and I'll be a big
+	polite little girl (.) big girl . %snd:"44b2"_115977_128237
+%mor:	co|no pro:sub|I v|want pro:obj|him inf|to cop|be det:art|a
+	(1)adj|polite (1)adj|little (1)n|girl coord|and pro:sub|I~mod|will cop|be
+	det:art|a adj|big (2)adj|polite (2)adj|little (2)n|girl adj|big n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b2.cha": line 352.
+*CHI:	xxx big sister (.) and good little sister . %snd:"44b2"_284461_290488
+%mor:	adj|big n|sister coord|and (1)adj|good (1)adj|little (1)n|sister .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/44b2.cha": line 448.
+*CHI:	I want to be ugly and little Marky be a nice little little face . %snd:"44b2"_337485_344832
+%mor:	pro:sub|I v|want inf|to cop|be adj|ugly coord|and adj|little
+	n:prop|Marky cop|be det:art|a adj|nice (1)adj|little (1)adj|little (1)n|face
+	.
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a1.cha": line 1394.
+*CHI:	no (.) I'll be a big sexy boy . %snd:"45a1"_1271607_1274950
+%mor:	co|no pro:sub|I~mod|will cop|be det:art|a (1)adj|big (1)adj|sex&dn-Y
+	(1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a1.cha": line 1489.
+*CHI:	maybe Marky should do it when he gets bigger (.) okay (.) Dad ? %snd:"45a1"_1310802_1315260
+%mor:	adv|maybe n:prop|Marky mod|should v|do pro:per|it conj|when
+	pro:sub|he v|get-3S (1)adj|big-CP (1)adj|okay (1)n:prop|Dad ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a2.cha": line 97.
+*CHI:	and they have a_lot_of games that you go downstairs and they have a
+	bridge and a mean troll hurts and eats the bad people and the big
+	(.) big (.) big (.) big (.) big reindeer ! %snd:"45a2"_214719_245452
+%mor:	coord|and pro:sub|they v|have qn|a_lot_of n|game-PL pro:rel|that
+	pro:per|you v|go adv|downstairs coord|and pro:sub|they v|have
+	det:art|a n|bridge coord|and det:art|a adj|mean n|troll v|hurt-3S
+	coord|and v|eat-3S det:art|the adj|bad n|person&PL coord|and
+	det:art|the adj|big adj|big adj|big (1)adj|big (1)adj|big (1)n|reindeer !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45a2.cha": line 133.
+*CHI:	the mean goat (.) big big mean goat . %snd:"45a2"_263099_273316
+%mor:	det:art|the adj|mean n|goat adj|big (1)adj|big (1)adj|mean (1)n|goat .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/45b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/46a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/46a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/46b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/46b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/46b2.cha": line 512.
+*CHI:	sought out the new secret base of Han Solo . %snd:"46b2"_526957_532613
+%mor:	v|seek&PAST prep|out det:art|the (1)adj|new (1)adj|secret (1)n|base prep|of
+	n:prop|Han n:prop|Solo .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/47a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65a2.cha": line 1705.
+*CHI:	yeah (.) bad (.) bad witch . %snd:"65a2"_1209754_1212438
+%mor:	co|yeah (1)adj|bad (1)adj|bad (1)n|witch .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65b2.cha": line 1611.
+*CHI:	xxx he's gonna go in slow big circles . %snd:"65b2"_998743_1004213
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|go prep|in (1)adj|slow
+	(1)adj|big (1)n|circle-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65b2.cha": line 1690.
+*CHI:	a big full house +... %snd:"65b2"_1047207_1048116
+%mor:	det:art|a (1)adj|big (1)adj|full (1)n|house +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/MacWhinney/65b2.cha": line 1705.
+*CHI:	<it has> [//] his big house has (.) <a big> [/] <a big> [//] <to
+	(.) a_lot_of (.) &-uh (.) food in> [//] he has a_lot_of food in his
+	big (.) big house . %snd:"65b2"_1053789_1071085
+%mor:	det:poss|his adj|big n|house v|have&3S pro:sub|he v|have&3S
+	qn|a_lot_of n|food prep|in det:poss|his (1)adj|big (1)adj|big (1)n|house .
+
+    Strings matched 3 times
+

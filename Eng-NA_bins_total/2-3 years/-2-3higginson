@@ -1,0 +1,53 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:16:08 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april04.cha": line 262.
+*MOT:	that's a pretty good mountain .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|mountain .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april04.cha": line 2410.
+*MOT:	oh (.) that darned little bird .
+%mor:	co|oh pro:rel|that (1)adj|darned (1)adj|little (1)n|bird .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april04.cha": line 2772.
+*MOT:	well (.) you read that real nice (.) April .
+%mor:	co|well pro:per|you v|read&ZERO pro:dem|that (1)adj|real (1)adj|nice
+	(1)n:prop|April .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april05.cha": line 1668.
+*MOT:	oh (.) you're doing a pretty good job .
+%mor:	co|oh pro:per|you~aux|be&PRES part|do-PRESP det:art|a (1)adj|pretty
+	(1)adj|good (1)n|job .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april05.cha": line 2762.
+*MOT:	purple (.) pink (.) green ?
+%mor:	(1)adj|purple (1)adj|pink (1)n|green ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april05.cha": line 3512.
+*MOT:	that was a pretty neat book (.) huh ?
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|neat (1)n|book
+	co|huh ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Higginson/April/april06.cha>
+
+    Strings matched 0 times
+

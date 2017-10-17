@@ -1,0 +1,314 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:32:39 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <shem01.cha>
+
+    Strings matched 0 times
+
+From file <shem02.cha>
+
+    Strings matched 0 times
+
+From file <shem03.cha>
+
+    Strings matched 0 times
+
+From file <shem04.cha>
+----------------------------------------
+*** File "shem04.cha": line 3909.
+*CHI:	oh: (.) &+s a little tiny boy .
+%mor:	co|oh det:art|a (1)adj|little (1)adj|tiny (1)n|boy .
+----------------------------------------
+*** File "shem04.cha": line 3920.
+*CHI:	yeah (.) li(tt)le teeny doggie (.) so little .
+%mor:	co|yeah (1)adj|little (1)adj|teeny (1)n|dog-DIM adv|so adj|little .
+
+    Strings matched 2 times
+
+From file <shem05.cha>
+----------------------------------------
+*** File "shem05.cha": line 1228.
+*CHI:	a big big car .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|car .
+
+    Strings matched 1 times
+
+From file <shem06.cha>
+
+    Strings matched 0 times
+
+From file <shem07.cha>
+
+    Strings matched 0 times
+
+From file <shem08.cha>
+
+    Strings matched 0 times
+
+From file <shem09.cha>
+----------------------------------------
+*** File "shem09.cha": line 2834.
+*CHI:	no (.) the big (.) big record .
+%mor:	qn|no det:art|the (1)adj|big (1)adj|big (1)n|record .
+
+    Strings matched 1 times
+
+From file <shem10.cha>
+
+    Strings matched 0 times
+
+From file <shem11.cha>
+
+    Strings matched 0 times
+
+From file <shem12.cha>
+
+    Strings matched 0 times
+
+From file <shem13.cha>
+
+    Strings matched 0 times
+
+From file <shem14.cha>
+
+    Strings matched 0 times
+
+From file <shem15.cha>
+
+    Strings matched 0 times
+
+From file <shem16.cha>
+
+    Strings matched 0 times
+
+From file <shem17.cha>
+----------------------------------------
+*** File "shem17.cha": line 3098.
+*CHI:	where's dat [: that] big yong [: long] man ?
+%mor:	adv:int|where~cop|be&3S pro:dem|that (1)adj|big (1)adj|long (1)n|man ?
+
+    Strings matched 1 times
+
+From file <shem18.cha>
+----------------------------------------
+*** File "shem18.cha": line 373.
+*CHI:	yeah (.) yittle [: little] tiny holes .
+%mor:	co|yeah (1)adj|little (1)adj|tiny (1)n|hole-PL .
+----------------------------------------
+*** File "shem18.cha": line 379.
+*CHI:	lil [: little] tiny holes that going ooninganingana@si (.) an(d)
+	den i(t) talks .
+%mor:	(1)adj|little (1)adj|tiny (1)n|hole-PL pro:rel|that n:gerund|go-PRESP
+	sing|ooninganingana coord|and n|den pro:per|it v|talk-3S .
+----------------------------------------
+*** File "shem18.cha": line 884.
+*CHI:	I (.) I want da [: that] big yong [: long] box .
+%mor:	pro:sub|I pro:sub|I v|want pro:dem|that (1)adj|big (1)adj|long (1)n|box .
+----------------------------------------
+*** File "shem18.cha": line 2015.
+*CHI:	go(i)ng (.) color (.) color &+n [/] color names (.) color da
+	[: that] (.) &+da [/] da [: that] big &+n [/] big [/] big names (.) I
+	wanna cut dese [: these] out .
+%mor:	part|go-PRESP n|color n|color n|color v|name-3S n|color
+	pro:rel|that pro:dem|that (1)adj|big (1)adj|big (1)n|name-PL pro:sub|I
+	v|want~inf|to n|cut pro:dem|these adv|out .
+
+    Strings matched 4 times
+
+From file <shem19.cha>
+----------------------------------------
+*** File "shem19.cha": line 745.
+*CHI:	and I can't wea [/] weach [: reach] duh [: the] glasses (.) how
+	(a)bout Ana use this little tiny glass ?
+%mor:	coord|and pro:sub|I mod|can~neg|not v|reach det:art|the n|glass-PL
+	adv:int|how prep|about n:prop|Ana v|use pro:dem|this (1)adj|little
+	(1)adj|tiny (1)n|glass ?
+----------------------------------------
+*** File "shem19.cha": line 929.
+*CHI:	yeah an(d) duh [: the] big one a [/] a [/] an(d) duh [: the] big
+	[/] an(d) duh [: the] big mom an(d) dad have duh [: the] big &-um [/]
+	scary lions (.) go roar .
+%mor:	co|yeah coord|and det:art|the adj|big det:num|one coord|and
+	det:art|the coord|and det:art|the adj|big n|mom coord|and n|dad
+	v|have det:art|the (1)adj|big (1)adj|scare&dn-Y (1)n|lion-PL v|go n|roar .
+
+    Strings matched 2 times
+
+From file <shem20.cha>
+----------------------------------------
+*** File "shem20.cha": line 1400.
+*CHI:	but i(t)'s this lit(tl)est tiny O .
+%mor:	conj|but pro:per|it~aux|be&3S det:dem|this (1)adj|little-SP (1)adj|tiny
+	(1)n:prop|O .
+----------------------------------------
+*** File "shem20.cha": line 1508.
+*CHI:	bu(t) he can climb through [//] through dat [: that] yittle
+	[: little] (.) tiny hole .
+%mor:	conj|but pro:sub|he mod|can v|climb adv|through pro:dem|that
+	(1)adj|little (1)adj|tiny (1)n|hole .
+----------------------------------------
+*** File "shem20.cha": line 3650.
+*CHI:	how (a)bout I would get a big long plate ?
+%mor:	adv:int|how adv|about pro:sub|I mod|will&COND v|get det:art|a
+	(1)adj|big (1)adj|long (1)n|plate ?
+
+    Strings matched 3 times
+
+From file <shem21a.cha>
+
+    Strings matched 0 times
+
+From file <shem21b.cha>
+
+    Strings matched 0 times
+
+From file <shem22a.cha>
+
+    Strings matched 0 times
+
+From file <shem22b.cha>
+
+    Strings matched 0 times
+
+From file <shem23.cha>
+----------------------------------------
+*** File "shem23.cha": line 969.
+*CHI:	big (.) big holes .
+%mor:	(1)adj|big (1)adj|big (1)n|hole-PL .
+----------------------------------------
+*** File "shem23.cha": line 1870.
+*CHI:	and duh [: the] udder [: other] ones make big water , big water (.)
+	big (.) big &+wa [//] water .
+%mor:	coord|and det:art|the qn|other det:num|one-PL v|make adj|big
+	n|water cm|cm adj|big n|water (1)adj|big (1)adj|big (1)n|water .
+----------------------------------------
+*** File "shem23.cha": line 2234.
+*CHI:	I don't know where it [//] my little teeny record is .
+%mor:	pro:sub|I mod|do~neg|not v|know adv:int|where det:poss|my
+	(1)adj|little (1)adj|teeny (1)n|record cop|be&3S .
+
+    Strings matched 3 times
+
+From file <shem24.cha>
+
+    Strings matched 0 times
+
+From file <shem25.cha>
+
+    Strings matched 0 times
+
+From file <shem26.cha>
+
+    Strings matched 0 times
+
+From file <shem27a.cha>
+
+    Strings matched 0 times
+
+From file <shem27b.cha>
+
+    Strings matched 0 times
+
+From file <shem28a.cha>
+
+    Strings matched 0 times
+
+From file <shem28b.cha>
+
+    Strings matched 0 times
+
+From file <shem29.cha>
+
+    Strings matched 0 times
+
+From file <shem30a.cha>
+----------------------------------------
+*** File "shem30a.cha": line 28.
+*CHI:	this [//] dat's [: that's] a [?] guy dat's [: that's] holding a
+	little tiny baby bird .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|guy pro:rel|that~aux|be&3S
+	part|hold-PRESP det:art|a (1)adj|little (1)adj|tiny (1)n|baby n|bird .
+----------------------------------------
+*** File "shem30a.cha": line 1944.
+*CHI:	little tiny windows .
+%mor:	(1)adj|little (1)adj|tiny (1)n|window-PL .
+
+    Strings matched 2 times
+
+From file <shem30b.cha>
+
+    Strings matched 0 times
+
+From file <shem31a.cha>
+
+    Strings matched 0 times
+
+From file <shem31b.cha>
+
+    Strings matched 0 times
+
+From file <shem32a.cha>
+
+    Strings matched 0 times
+
+From file <shem32b.cha>
+
+    Strings matched 0 times
+
+From file <shem33.cha>
+
+    Strings matched 0 times
+
+From file <shem34.cha>
+
+    Strings matched 0 times
+
+From file <shem35.cha>
+
+    Strings matched 0 times
+
+From file <shem36.cha>
+----------------------------------------
+*** File "shem36.cha": line 3903.
+*CHI:	where's duh [: the] tin [//] teeny tiny truck ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|teeny (1)adj|tiny (1)n|truck ?
+----------------------------------------
+*** File "shem36.cha": line 3909.
+*CHI:	teeny (.) tiny truck .
+%mor:	(1)adj|teeny (1)adj|tiny (1)n|truck .
+----------------------------------------
+*** File "shem36.cha": line 4018.
+*CHI:	&+a an(d) [//] an(d) dis [: this] is duh [: the] teeny (.) tiny
+	truck an(d) it's gonna go wif dem [: them] .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the (1)adj|teeny (1)adj|tiny
+	(1)n|truck coord|and pro:per|it~aux|be&3S part|go-PRESP~inf|to v|go
+	n|wife pro:obj|them .
+
+    Strings matched 3 times
+
+From file <shem37.cha>
+
+    Strings matched 0 times
+
+From file <shem38.cha>
+
+    Strings matched 0 times
+
+From file <shem39.cha>
+
+    Strings matched 0 times
+
+From file <shem40.cha>
+----------------------------------------
+*** File "shem40.cha": line 1802.
+*CHI:	no (.) I ne [//] no (.) I'm not going to the big l [//] big kids'
+	place yet [?] .
+%mor:	co|no pro:sub|I co|no pro:sub|I~cop|be&1S neg|not part|go-PRESP
+	prep|to det:art|the (1)adj|big (1)adj|big (1)n|kid-PL~poss|s n|place adv|yet
+	.
+
+    Strings matched 1 times
+

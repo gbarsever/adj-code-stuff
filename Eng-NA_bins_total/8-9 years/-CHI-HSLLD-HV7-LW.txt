@@ -1,0 +1,398 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:06:23 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acelw7.cha>
+----------------------------------------
+*** File "acelw7.cha": line 115.
+*INV:	you wrote a nice long letter .
+%mor:	pro:per|you v|write&PAST det:art|a (1)adj|nice (1)adj|long (1)n|letter .
+
+    Strings matched 1 times
+
+From file <admlw7.cha>
+
+    Strings matched 0 times
+
+From file <aimlw7.cha>
+
+    Strings matched 0 times
+
+From file <alilw7.cha>
+
+    Strings matched 0 times
+
+From file <alllw7.cha>
+----------------------------------------
+*** File "alllw7.cha": line 972.
+*INV:	the world's famous small writer .
+%mor:	det:art|the n|world~poss|s (1)adj|famous (1)adj|small (1)n|write&dv-AGT .
+
+    Strings matched 1 times
+
+From file <analw7.cha>
+----------------------------------------
+*** File "analw7.cha": line 25.
+*INV:	I like the nice colorful pictures especially the page with the colorful butterfly on it .
+%mor:	pro:sub|I v|like det:art|the (1)adj|nice (1)adj|color&dn-FULL
+	(1)n|picture-PL adv|especial&dadj-LY det:art|the n|page prep|with
+	det:art|the adj|color&dn-FULL n|+n|butter+n|fly prep|on pro:per|it .
+----------------------------------------
+*** File "analw7.cha": line 161.
+*MOT:	he's known all around the world as an outstanding original artist and designer .
+%mor:	pro:sub|he~aux|be&3S part|know&PASTP adv|all prep|around
+	det:art|the n|world prep|as det:art|a (1)adj|outstanding (1)adj|original
+	(1)n|artist coord|and n|design&dv-AGT .
+
+    Strings matched 2 times
+
+From file <annlw7.cha>
+
+    Strings matched 0 times
+
+From file <aprlw7.cha>
+
+    Strings matched 0 times
+
+From file <boblw7.cha>
+
+    Strings matched 0 times
+
+From file <bralw7.cha>
+
+    Strings matched 0 times
+
+From file <brilw7.cha>
+
+    Strings matched 0 times
+
+From file <brnlw7.cha>
+
+    Strings matched 0 times
+
+From file <caslw7.cha>
+
+    Strings matched 0 times
+
+From file <catlw7.cha>
+----------------------------------------
+*** File "catlw7.cha": line 172.
+*MOT:	I have a hard enough time thinkin(g) for myself !
+%mor:	pro:sub|I v|have det:art|a (1)adj|hard (1)adj|enough (1)n|time
+	part|think-PRESP prep|for pro:refl|myself !
+----------------------------------------
+*** File "catlw7.cha": line 199.
+*MOT:	(be)cause he's gonna turn into a butterfly and he'll be one fat little butterfly !
+%mor:	conj|because pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|turn
+	prep|into det:art|a n|+n|butter+n|fly coord|and pro:sub|he~mod|will
+	cop|be pro:indef|one (1)adj|fat (1)adj|little (1)n|+n|butter+n|fly !
+----------------------------------------
+*** File "catlw7.cha": line 730.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he &+lef felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 3 times
+
+From file <clalw7.cha>
+----------------------------------------
+*** File "clalw7.cha": line 41.
+*INV:	well <you just> [//] also can be just a regular old letter to him .
+%mor:	adv|well adv|also mod|can cop|be adv|just det:art|a (1)adj|regular
+	(1)adj|old (1)n|letter prep|to pro:obj|him .
+
+    Strings matched 1 times
+
+From file <conlw7.cha>
+----------------------------------------
+*** File "conlw7.cha": line 554.
+*MOT:	+^ the caterpillar ate through one nice green leaf but after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf conj|but conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <ctrlw7.cha>
+----------------------------------------
+*** File "ctrlw7.cha": line 43.
+*INV:	really like ten minutes so you don't have_to write him a <whole long> [//] (.) big long letter .
+%mor:	adv|real&dadj-LY co|like det:num|ten n|minute-PL co|so pro:per|you
+	mod|do~neg|not mod:aux|have_to v|write pro:obj|him det:art|a (1)adj|big
+	(1)adj|long (1)n|letter .
+
+    Strings matched 1 times
+
+From file <davlw7.cha>
+----------------------------------------
+*** File "davlw7.cha": line 201.
+*MOT:	the caterpillar ate through one [!] nice [!] green [!] leaf [!] and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <dialw7.cha>
+
+    Strings matched 0 times
+
+From file <emilw7.cha>
+
+    Strings matched 0 times
+
+From file <ethlw7.cha>
+
+    Strings matched 0 times
+
+From file <geolw7.cha>
+----------------------------------------
+*** File "geolw7.cha": line 925.
+*MOT:	okay (.) now he wasn't hungry anymore (.) <he was> [/] he was xxx &=mumbles a big fat caterpillar .
+%mor:	co|okay adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry
+	adv|anymore pro:sub|he cop|be&PAST&13S det:art|a (1)adj|big (1)adj|fat
+	(1)n|caterpillar .
+----------------------------------------
+*** File "geolw7.cha": line 1218.
+*MOT:	had a bad last year in school &=laughs .
+%mor:	v|have&PAST det:art|a (1)adj|bad (1)adj|last (1)n|year prep|in n|school .
+----------------------------------------
+*** File "geolw7.cha": line 1304.
+*MOT:	(..) xxx write your <full first name> [>] .
+%mor:	v|write det:poss|your (1)adj|full (1)adj|first (1)n|name .
+----------------------------------------
+*** File "geolw7.cha": line 1343.
+*MOT:	(..) write [/] write your full first name .
+%mor:	v|write det:poss|your (1)adj|full (1)adj|first (1)n|name .
+----------------------------------------
+*** File "geolw7.cha": line 2741.
+*MOT:	why [!] is there only and that's a real (.) obvious question .
+%mor:	adv:int|why cop|be&3S adv|there adv|only coord|and
+	pro:dem|that~cop|be&3S det:art|a (1)adj|real (1)adj|obvious (1)n|question .
+----------------------------------------
+*** File "geolw7.cha": line 2759.
+*MOT:	you know and the question mark it's a little (.) iffy@wp but this way (.) you've separated <it's xxx> [//] it's a real clear (.) question [>] .
+%mor:	pro:per|you v|know coord|and det:art|the n|question n|mark
+	pro:per|it~cop|be&3S det:art|a adj|little wplay|iffy conj|but
+	pro:dem|this n|way pro:per|you~aux|have part|separate-PASTP
+	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|clear (1)n|question .
+
+    Strings matched 6 times
+
+From file <grelw7.cha>
+----------------------------------------
+*** File "grelw7.cha": line 248.
+*INV:	yeah you guys have the same first name .
+%mor:	co|yeah pro:per|you n|guy-PL v|have det:art|the (1)adj|same (1)adj|first
+	(1)n|name .
+----------------------------------------
+*** File "grelw7.cha": line 515.
+*INV:	(.) that's good (.) hard work pays off huh ?
+%mor:	pro:dem|that~cop|be&3S (1)adj|good (1)adj|hard (1)n|work v|pay-3S adv|off
+	co|huh ?
+----------------------------------------
+*** File "grelw7.cha": line 527.
+*MOT:	a lot of people have upper respiratory difficulties .
+%mor:	det:art|a n|lot prep|of n|person&PL v|have (1)adj|upper
+	(1)adj|respirator&dn-Y (1)n|difficulty-PL .
+----------------------------------------
+*** File "grelw7.cha": line 871.
+*MOT:	+^ they have a new phonetic way of approaching things .
+%mor:	pro:sub|they v|have det:art|a (1)adj|new (1)adj|phonetic (1)n|way prep|of
+	n:gerund|approach-PRESP n|thing-PL .
+----------------------------------------
+*** File "grelw7.cha": line 907.
+*MOT:	so I think he has a real hard time with that .
+%mor:	co|so pro:sub|I v|think pro:sub|he v|have&3S det:art|a (1)adj|real
+	(1)adj|hard (1)n|time prep|with pro:dem|that .
+
+    Strings matched 5 times
+
+From file <jacet7.cha>
+----------------------------------------
+*** File "jacet7.cha": line 1230.
+*MOT:	that must be a pretty strong magnet &=laughs .
+%mor:	pro:dem|that mod|must cop|be det:art|a (1)adj|pretty (1)adj|strong
+	(1)n|magnet .
+
+    Strings matched 1 times
+
+From file <jaclw7.cha>
+----------------------------------------
+*** File "jaclw7.cha": line 452.
+*MOT:	that's a pretty common style Chi .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|common (1)n|style
+	n:prop|Chi .
+
+    Strings matched 1 times
+
+From file <jamlw7.cha>
+----------------------------------------
+*** File "jamlw7.cha": line 449.
+*FAT:	(..) you know it'll probably be like this big long letter like [//] you [//] like twenty pages with like two or three words on each page .
+%mor:	pro:per|you v|know pro:per|it~mod|will adv|probable&dadj-LY cop|be
+	prep|like pro:dem|this (1)adj|big (1)adj|long (1)n|letter co|like
+	det:num|twenty n|page-PL prep|with co|like det:num|two coord|or
+	det:num|three n|word-PL prep|on qn|each n|page .
+
+    Strings matched 1 times
+
+From file <jealw7.cha>
+----------------------------------------
+*** File "jealw7.cha": line 179.
+*MOT:	okay you <have_to talk a little louder okay> [>] honey ?
+%mor:	co|okay pro:per|you mod:aux|have_to v|talk det:art|a adj|little
+	(1)adj|loud-CP (1)adj|okay (1)n|honey ?
+----------------------------------------
+*** File "jealw7.cha": line 451.
+*INV:	big [//] nice <big eraser on that one> [=! laughing] .
+%mor:	(1)adj|nice (1)adj|big (1)n|erase&dv-AGT prep|on pro:dem|that pro:indef|one
+	.
+
+    Strings matched 2 times
+
+From file <jeblw7.cha>
+
+    Strings matched 0 times
+
+From file <jenlw7.cha>
+
+    Strings matched 0 times
+
+From file <jerlw7.cha>
+
+    Strings matched 0 times
+
+From file <jeslw7.cha>
+
+    Strings matched 0 times
+
+From file <joelw7.cha>
+----------------------------------------
+*** File "joelw7.cha": line 349.
+*MOT:	now just write him a nice little letter .
+%mor:	adv|now adv|just v|write pro:obj|him det:art|a (1)adj|nice (1)adj|little
+	(1)n|letter .
+
+    Strings matched 1 times
+
+From file <joylw7.cha>
+
+    Strings matched 0 times
+
+From file <juslw7.cha>
+
+    Strings matched 0 times
+
+From file <kevlw7.cha>
+
+    Strings matched 0 times
+
+From file <kurlw7.cha>
+
+    Strings matched 0 times
+
+From file <marlw7.cha>
+
+    Strings matched 0 times
+
+From file <maylw7.cha>
+
+    Strings matched 0 times
+
+From file <meglw7.cha>
+----------------------------------------
+*** File "meglw7.cha": line 342.
+*INV:	our first second pager .
+%mor:	det:poss|our (1)adj|first (1)adj|second (1)n|pager .
+
+    Strings matched 1 times
+
+From file <mellw7.cha>
+
+    Strings matched 0 times
+
+From file <nedlw7.cha>
+
+    Strings matched 0 times
+
+From file <paulw7.cha>
+
+    Strings matched 0 times
+
+From file <petlw7.cha>
+----------------------------------------
+*** File "petlw7.cha": line 143.
+*INV:	(.) here it's a nice long letter .
+%mor:	adv|here pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|long (1)n|letter
+	.
+
+    Strings matched 1 times
+
+From file <raslw7.cha>
+
+    Strings matched 0 times
+
+From file <raulw7.cha>
+
+    Strings matched 0 times
+
+From file <rillw7.cha>
+
+    Strings matched 0 times
+
+From file <roclw7.cha>
+----------------------------------------
+*** File "roclw7.cha": line 334.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <roslw7.cha>
+
+    Strings matched 0 times
+
+From file <sarlw7.cha>
+
+    Strings matched 0 times
+
+From file <stnlw7.cha>
+
+    Strings matched 0 times
+
+From file <suslw7.cha>
+
+    Strings matched 0 times
+
+From file <todlw7.cha>
+
+    Strings matched 0 times
+
+From file <tomlw7.cha>
+
+    Strings matched 0 times
+
+From file <trilw7.cha>
+----------------------------------------
+*** File "trilw7.cha": line 197.
+*MOT:	like (.) caterpillars become butterflies (.) that sometimes little crawly things come out to be beautiful things ?
+%mor:	prep|like n|caterpillar-PL part|become&PASTP n|+n|butter+n|fly-PL
+	pro:rel|that adv|sometimes (1)adj|little (1)adj|crawl&dv-Y (1)n|thing-PL
+	v|come adv|out inf|to cop|be adj|beautiful n|thing-PL ?
+
+    Strings matched 1 times
+
+From file <viclw7.cha>
+
+    Strings matched 0 times
+
+From file <zanlw7.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,192 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:49:14 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <tre01.cha>
+
+    Strings matched 0 times
+
+From file <tre02.cha>
+
+    Strings matched 0 times
+
+From file <tre03.cha>
+
+    Strings matched 0 times
+
+From file <tre04.cha>
+
+    Strings matched 0 times
+
+From file <tre05.cha>
+
+    Strings matched 0 times
+
+From file <tre06.cha>
+----------------------------------------
+*** File "tre06.cha": line 135.
+*FAT:	there's even a chair for your little bitty bear .
+%mor:	pro:exist|there~cop|be&3S adv|even det:art|a n|chair prep|for
+	det:poss|your (1)adj|little (1)adj|bit&dn-Y (1)n|bear .
+
+    Strings matched 1 times
+
+From file <tre07.cha>
+----------------------------------------
+*** File "tre07.cha": line 1967.
+*FAT:	in li:ttle bi:tty bites .
+%mor:	prep|in (1)adj|little (1)adj|bit&dn-Y (1)n|bite-PL .
+
+    Strings matched 1 times
+
+From file <tre08.cha>
+
+    Strings matched 0 times
+
+From file <tre09.cha>
+
+    Strings matched 0 times
+
+From file <tre10.cha>
+----------------------------------------
+*** File "tre10.cha": line 1394.
+*FAT:	it's a pretty big cake .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|cake .
+
+    Strings matched 1 times
+
+From file <tre11.cha>
+----------------------------------------
+*** File "tre11.cha": line 436.
+*FAT:	he's the mean old Grampa .
+%mor:	pro:sub|he~aux|be&3S det:art|the (1)adj|mean (1)adj|old (1)n:prop|Grampa .
+
+    Strings matched 1 times
+
+From file <tre12.cha>
+
+    Strings matched 0 times
+
+From file <tre13.cha>
+----------------------------------------
+*** File "tre13.cha": line 440.
+*FAT:	that's a big old race car .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|race n|car .
+
+    Strings matched 1 times
+
+From file <tre14.cha>
+
+    Strings matched 0 times
+
+From file <tre16.cha>
+----------------------------------------
+*** File "tre16.cha": line 585.
+*FAT:	you're a pretty tough Daddy .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|tough (1)n:prop|Daddy
+	.
+----------------------------------------
+*** File "tre16.cha": line 1848.
+*FAT:	you're a pretty tough Daddy .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|tough (1)n:prop|Daddy
+	.
+
+    Strings matched 2 times
+
+From file <tre17.cha>
+----------------------------------------
+*** File "tre17.cha": line 867.
+*FAT:	oh the big red motorcycle .
+%mor:	co|oh det:art|the (1)adj|big (1)adj|red (1)n|motorcycle .
+----------------------------------------
+*** File "tre17.cha": line 1041.
+*FAT:	they have these big ol(d) honken [: honking] engines on the back
+	and they go .
+%mor:	pro:sub|they v|have pro:dem|these (1)adj|big (1)adj|old
+	(1)n:gerund|honk-PRESP n|engine-PL prep|on det:art|the adv|back
+	coord|and pro:sub|they v|go .
+
+    Strings matched 2 times
+
+From file <tre18.cha>
+
+    Strings matched 0 times
+
+From file <tre19.cha>
+----------------------------------------
+*** File "tre19.cha": line 190.
+*FAT:	I could get in that huge ole bus .
+%mor:	pro:sub|I mod|could v|get prep|in pro:dem|that (1)adj|huge (1)adj|ole
+	(1)n|bus .
+----------------------------------------
+*** File "tre19.cha": line 1357.
+*FAT:	their next door neighbor their real good friends of theirs and
+	Brett says he want you to meet em .
+%mor:	det:poss|their adj|next n|door n|neighbor det:poss|their (1)adj|real
+	(1)adj|good (1)n|friend-PL prep|of pro:poss|theirs coord|and n:prop|Brett
+	v|say-3S pro:sub|he v|want pro:per|you inf|to v|meet pro:obj|them .
+
+    Strings matched 2 times
+
+From file <tre20.cha>
+
+    Strings matched 0 times
+
+From file <tre21.cha>
+
+    Strings matched 0 times
+
+From file <tre23.cha>
+----------------------------------------
+*** File "tre23.cha": line 1498.
+*FAT:	and big plastic balls .
+%mor:	coord|and (1)adj|big (1)adj|plastic (1)n|ball-PL .
+
+    Strings matched 1 times
+
+From file <tre24.cha>
+----------------------------------------
+*** File "tre24.cha": line 1699.
+*FAT:	a nice soft baby powder blue .
+%mor:	det:art|a (1)adj|nice (1)adj|soft (1)n|baby n|powder adj|blue .
+
+    Strings matched 1 times
+
+From file <tre25.cha>
+----------------------------------------
+*** File "tre25.cha": line 562.
+*FAT:	it's a pretty good trick .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|trick .
+
+    Strings matched 1 times
+
+From file <tre26.cha>
+----------------------------------------
+*** File "tre26.cha": line 718.
+*FAT:	they had these big things that were [//] that looked kinda like
+	sticks (.) big flat sticks (.) and they were the (.) I forget what
+	you call (th)em , but anyways they were the things that when you
+	landed on the water they were were flat like boards and they held
+	them up on the water .
+%mor:	pro:sub|they v|have&PAST pro:dem|these adj|big n|thing-PL
+	pro:rel|that det:dem|that cop|look-PAST adv|kinda co|like n|stick-PL
+	(1)adj|big (1)adj|flat (1)n|stick-PL coord|and pro:sub|they cop|be&PAST
+	det:art|the pro:sub|I v|forget pro:int|what pro:per|you v|call
+	pro:obj|them cm|cm conj|but adv|anyways pro:sub|they cop|be&PAST
+	det:art|the n|thing-PL pro:rel|that conj|when pro:per|you
+	v|land-PAST prep|on det:art|the n|water pro:sub|they aux|be&PAST
+	aux|be&PAST adj|flat co|like n|board-PL coord|and pro:sub|they
+	v|hold&PAST pro:obj|them adv|up prep|on det:art|the n|water .
+
+    Strings matched 1 times
+
+From file <tre27.cha>
+
+    Strings matched 0 times
+
+From file <tre28.cha>
+
+    Strings matched 0 times
+

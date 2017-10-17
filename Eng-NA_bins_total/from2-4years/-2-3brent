@@ -1,0 +1,36 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:25:28 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 149.
+*MOT:	my poor little girl . %snd:"w1-f25oct96"_122686_124083
+%mor:	det:poss|my (1)adj|poor (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 152.
+*MOT:	you poor little girl . %snd:"w1-f25oct96"_125259_126644
+%mor:	pro:per|you (1)adj|poor (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 434.
+*MOT:	wonderful wonderful sockie [=! sung] . %snd:"w1-f25oct96"_441605_444358
+%mor:	(1)adj|wonder-FULL (1)adj|wonder-FULL (1)n|sock-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 797.
+*MOT:	you're the sweetest little girl in the world . %snd:"w1-f25oct96"_798559_800231
+%mor:	pro:per|you~aux|be&PRES det:art|the (1)adj|sweet-SP (1)adj|little (1)n|girl
+	prep|in det:art|the n|world .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 2517.
+*MOT:	yummy yummy pear pear . %snd:"w1-f25oct96"_3025116_3027105
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|pear n|pear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brent/w1/w1-1428.cha": line 2520.
+*MOT:	pear pear yummy yummy yummy yummy pear . %snd:"w1-f25oct96"_3027799_3030170
+%mor:	n|pear n|pear adj|yum&dn-Y adj|yum&dn-Y (1)adj|yum&dn-Y (1)adj|yum&dn-Y
+	(1)n|pear .
+
+    Strings matched 6 times
+

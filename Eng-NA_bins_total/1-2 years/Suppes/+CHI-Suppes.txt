@@ -1,0 +1,381 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:40:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <nina01.cha>
+----------------------------------------
+*** File "nina01.cha": line 821.
+*CHI:	big (.) tiny mousie .
+%mor:	(1)adj|big (1)adj|tiny (1)n|mouse-DIM .
+----------------------------------------
+*** File "nina01.cha": line 827.
+*CHI:	tiny (.) tiny (.) big kangaroo .
+%mor:	adj|tiny (1)adj|tiny (1)adj|big (1)n|kangaroo .
+----------------------------------------
+*** File "nina01.cha": line 1325.
+*CHI:	big black seal ?
+%mor:	(1)adj|big (1)adj|black (1)n|seal ?
+
+    Strings matched 3 times
+
+From file <nina02.cha>
+
+    Strings matched 0 times
+
+From file <nina03.cha>
+----------------------------------------
+*** File "nina03.cha": line 4129.
+*CHI:	big (.) big gorilla .
+%mor:	(1)adj|big (1)adj|big (1)n|gorilla .
+
+    Strings matched 1 times
+
+From file <nina04.cha>
+----------------------------------------
+*** File "nina04.cha": line 1559.
+*CHI:	little tiny stones .
+%mor:	(1)adj|little (1)adj|tiny (1)n|stone-PL .
+----------------------------------------
+*** File "nina04.cha": line 1562.
+*CHI:	little tiny stones .
+%mor:	(1)adj|little (1)adj|tiny (1)n|stone-PL .
+----------------------------------------
+*** File "nina04.cha": line 2303.
+*CHI:	that brown (.) brown cow drinking milk .
+%mor:	pro:dem|that (1)adj|brown (1)adj|brown (1)n|cow part|drink-PRESP n|milk .
+----------------------------------------
+*** File "nina04.cha": line 3844.
+*CHI:	Mommy (.) big (.) big puzzle out .
+%mor:	n:prop|Mommy (1)adj|big (1)adj|big (1)n|puzzle adv|out .
+
+    Strings matched 4 times
+
+From file <nina05.cha>
+----------------------------------------
+*** File "nina05.cha": line 1580.
+*CHI:	that's yellow (.) little yellow house .
+%mor:	pro:dem|that~cop|be&3S adj|yellow (1)adj|little (1)adj|yellow (1)n|house .
+
+    Strings matched 1 times
+
+From file <nina06.cha>
+----------------------------------------
+*** File "nina06.cha": line 1529.
+*CHI:	yeah [= yes] (.) my big blue dog .
+%mor:	co|yeah det:poss|my (1)adj|big (1)adj|blue (1)n|dog .
+----------------------------------------
+*** File "nina06.cha": line 1725.
+*CHI:	green (.) green (.) green .
+%mor:	(1)adj|green (1)adj|green (1)n|green .
+
+    Strings matched 2 times
+
+From file <nina07.cha>
+
+    Strings matched 0 times
+
+From file <nina09.cha>
+----------------------------------------
+*** File "nina09.cha": line 2453.
+*CHI:	cute little nose .
+%mor:	(1)adj|cute (1)adj|little (1)n|nose .
+
+    Strings matched 1 times
+
+From file <nina10.cha>
+----------------------------------------
+*** File "nina10.cha": line 1887.
+*CHI:	where's the more little green chairs ?
+%mor:	adv:int|where~cop|be&3S det:art|the adv|more (1)adj|little (1)adj|green
+	(1)n|chair-PL ?
+----------------------------------------
+*** File "nina10.cha": line 1891.
+*CHI:	where's the little green chair fall down ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|green (1)n|chair
+	n|fall adv|down ?
+----------------------------------------
+*** File "nina10.cha": line 1903.
+*CHI:	little green table .
+%mor:	(1)adj|little (1)adj|green (1)n|table .
+
+    Strings matched 3 times
+
+From file <nina11.cha>
+
+    Strings matched 0 times
+
+From file <nina12.cha>
+
+    Strings matched 0 times
+
+From file <nina13.cha>
+----------------------------------------
+*** File "nina13.cha": line 862.
+*CHI:	little tiny ants .
+%mor:	(1)adj|little (1)adj|tiny (1)n|ant-PL .
+----------------------------------------
+*** File "nina13.cha": line 3674.
+*CHI:	big (.) big zebra .
+%mor:	(1)adj|big (1)adj|big (1)n|zebra .
+
+    Strings matched 2 times
+
+From file <nina14.cha>
+
+    Strings matched 0 times
+
+From file <nina15.cha>
+----------------------------------------
+*** File "nina15.cha": line 856.
+*CHI:	sharp pointy beak .
+%mor:	(1)adj|sharp (1)adj|point&dn-Y (1)n|beak .
+----------------------------------------
+*** File "nina15.cha": line 1896.
+*CHI:	nice (.) nice rabbit .
+%mor:	(1)adj|nice (1)adj|nice (1)n|rabbit .
+
+    Strings matched 2 times
+
+From file <nina16.cha>
+
+    Strings matched 0 times
+
+From file <nina17.cha>
+
+    Strings matched 0 times
+
+From file <nina18.cha>
+
+    Strings matched 0 times
+
+From file <nina19.cha>
+
+    Strings matched 0 times
+
+From file <nina20.cha>
+----------------------------------------
+*** File "nina20.cha": line 3923.
+*CHI:	a great big house .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|house .
+
+    Strings matched 1 times
+
+From file <nina21.cha>
+
+    Strings matched 0 times
+
+From file <nina22.cha>
+
+    Strings matched 0 times
+
+From file <nina23.cha>
+
+    Strings matched 0 times
+
+From file <nina27.cha>
+
+    Strings matched 0 times
+
+From file <nina28.cha>
+
+    Strings matched 0 times
+
+From file <nina29.cha>
+
+    Strings matched 0 times
+
+From file <nina30.cha>
+
+    Strings matched 0 times
+
+From file <nina31.cha>
+
+    Strings matched 0 times
+
+From file <nina32.cha>
+
+    Strings matched 0 times
+
+From file <nina33.cha>
+----------------------------------------
+*** File "nina33.cha": line 1479.
+*CHI:	the little tiny baby .
+%mor:	det:art|the (1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 1 times
+
+From file <nina34.cha>
+----------------------------------------
+*** File "nina34.cha": line 812.
+*CHI:	does it have little (.) little wheels ?
+%mor:	mod|do&3S pro:per|it v|have (1)adj|little (1)adj|little (1)n|wheel-PL ?
+
+    Strings matched 1 times
+
+From file <nina35.cha>
+
+    Strings matched 0 times
+
+From file <nina36.cha>
+
+    Strings matched 0 times
+
+From file <nina37.cha>
+
+    Strings matched 0 times
+
+From file <nina38.cha>
+
+    Strings matched 0 times
+
+From file <nina39.cha>
+----------------------------------------
+*** File "nina39.cha": line 4881.
+*CHI:	I want my little white blanket .
+%mor:	pro:sub|I v|want det:poss|my (1)adj|little (1)adj|white (1)n|blanket .
+
+    Strings matched 1 times
+
+From file <nina40.cha>
+
+    Strings matched 0 times
+
+From file <nina41.cha>
+
+    Strings matched 0 times
+
+From file <nina42.cha>
+
+    Strings matched 0 times
+
+From file <nina43.cha>
+----------------------------------------
+*** File "nina43.cha": line 4440.
+*CHI:	I got this pink little blanket .
+%mor:	pro:sub|I v|get&PAST pro:dem|this (1)adj|pink (1)adj|little (1)n|blanket .
+
+    Strings matched 1 times
+
+From file <nina44.cha>
+
+    Strings matched 0 times
+
+From file <nina45.cha>
+----------------------------------------
+*** File "nina45.cha": line 180.
+*CHI:	and my little soft monkey .
+%mor:	coord|and det:poss|my (1)adj|little (1)adj|soft (1)n|monkey .
+
+    Strings matched 1 times
+
+From file <nina46.cha>
+----------------------------------------
+*** File "nina46.cha": line 240.
+*CHI:	a big little puppy .
+%mor:	det:art|a (1)adj|big (1)adj|little (1)n|puppy .
+----------------------------------------
+*** File "nina46.cha": line 2538.
+*CHI:	a brown (.) brown flower .
+%mor:	det:art|a (1)adj|brown (1)adj|brown (1)n|flower .
+----------------------------------------
+*** File "nina46.cha": line 3144.
+*CHI:	the little (.) little man is taking a ride .
+%mor:	det:art|the (1)adj|little (1)adj|little (1)n|man aux|be&3S part|take-PRESP
+	det:art|a n|ride .
+
+    Strings matched 3 times
+
+From file <nina47.cha>
+
+    Strings matched 0 times
+
+From file <nina48.cha>
+----------------------------------------
+*** File "nina48.cha": line 1674.
+*CHI:	happy merry Christmas .
+%mor:	(1)adj|happy (1)adj|merry (1)n:prop|Christmas .
+----------------------------------------
+*** File "nina48.cha": line 2273.
+*CHI:	have a good nice Christmas .
+%mor:	v|have det:art|a (1)adj|good (1)adj|nice (1)n:prop|Christmas .
+----------------------------------------
+*** File "nina48.cha": line 2276.
+*CHI:	have a good nice Christmas .
+%mor:	v|have det:art|a (1)adj|good (1)adj|nice (1)n:prop|Christmas .
+
+    Strings matched 3 times
+
+From file <nina49.cha>
+
+    Strings matched 0 times
+
+From file <nina50.cha>
+----------------------------------------
+*** File "nina50.cha": line 3191.
+*CHI:	those bad (.) bad animals .
+%mor:	pro:dem|those (1)adj|bad (1)adj|bad (1)n|animal-PL .
+----------------------------------------
+*** File "nina50.cha": line 4816.
+*CHI:	stay (.) stay all alone and got some warm sunny day on ?
+%mor:	n|stay n|stay adv|all adv|alone coord|and v|get&PAST qn|some
+	(1)adj|warm (1)adj|sun&dn-Y (1)n|day adv|on ?
+
+    Strings matched 2 times
+
+From file <nina51.cha>
+----------------------------------------
+*** File "nina51.cha": line 1720.
+*CHI:	in his little tiny xxx crib he wants to sleep in .
+%mor:	prep|in det:poss|his (1)adj|little (1)adj|tiny (1)n|crib pro:sub|he
+	v|want-3S inf|to v|sleep adv|in .
+----------------------------------------
+*** File "nina51.cha": line 2732.
+*CHI:	my daddy and me saw big (.) big snowman .
+%mor:	det:poss|my n|daddy coord|and pro:obj|me v|saw (1)adj|big (1)adj|big
+	(1)n|+n|snow+n|man .
+
+    Strings matched 2 times
+
+From file <nina52.cha>
+----------------------------------------
+*** File "nina52.cha": line 522.
+*CHI:	I want the little tiny baby .
+%mor:	pro:sub|I v|want det:art|the (1)adj|little (1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "nina52.cha": line 535.
+*CHI:	I want the little tiny baby .
+%mor:	pro:sub|I v|want det:art|the (1)adj|little (1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "nina52.cha": line 617.
+*CHI:	I want the little tiny baby .
+%mor:	pro:sub|I v|want det:art|the (1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 3 times
+
+From file <nina53.cha>
+
+    Strings matched 0 times
+
+From file <nina54.cha>
+----------------------------------------
+*** File "nina54.cha": line 3088.
+*CHI:	my Mommy has a great big needle that's sharp .
+%mor:	det:poss|my n:prop|Mommy v|have&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|needle pro:rel|that~aux|be&3S adj|sharp .
+
+    Strings matched 1 times
+
+From file <nina55.cha>
+
+    Strings matched 0 times
+
+From file <nina56.cha>
+----------------------------------------
+*** File "nina56.cha": line 1621.
+*CHI:	hoppy (.) hoppy (.) hop .
+%mor:	(1)adj|hop&dv-Y (1)adj|hop&dv-Y (1)n|hop .
+
+    Strings matched 1 times
+

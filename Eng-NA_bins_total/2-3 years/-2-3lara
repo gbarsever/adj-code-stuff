@@ -1,0 +1,1622 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:17:35 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-02.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-02.30.cha": line 872.
+*MOT:	big big big blow .
+%mor:	adj|big (1)adj|big (1)adj|big (1)n|blow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-02.30.cha": line 1146.
+*MOT:	poor little skittles ?
+%mor:	(1)adj|poor (1)adj|little (1)n|skittle-PL ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-08.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-08.30.cha": line 1935.
+*DAD:	been a big long day , mummy .
+%mor:	cop|be&PASTP det:art|a (1)adj|big (1)adj|long (1)n|day cm|cm n|mummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-08.30.cha": line 1938.
+*DAD:	it's been a big long day .
+%mor:	pro:per|it~aux|be&3S cop|be&PASTP det:art|a (1)adj|big (1)adj|long (1)n|day
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-08.30.cha": line 2630.
+*DAD:	you're a clever little girl .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|clever (1)adj|little (1)n|girl .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-17.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-17.30.cha": line 1977.
+*MOT:	oh poor old Lara .
+%mor:	co|oh (1)adj|poor (1)adj|old (1)n:prop|Lara .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-19.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-19.30.cha": line 70.
+*GRF:	I'm a big fat pig .
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|big (1)adj|fat (1)n|pig .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-00-19.30.cha": line 256.
+*GRF:	there they go in a big long line .
+%mor:	adv|there pro:sub|they v|go prep|in det:art|a (1)adj|big (1)adj|long
+	(1)n|line .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-10.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-10.30.cha": line 1086.
+*DAD:	but nobody not even good girls get lollipops after breakfast .
+%mor:	conj|but pro:indef|nobody neg|not (1)adj|even (1)adj|good (1)n|girl-PL v|get
+	n|lollipop-PL prep|after n|breakfast .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-11.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-16.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-16.30.cha": line 783.
+*DAD:	clever old Po_Pat .
+%mor:	(1)adj|clever (1)adj|old (1)n:prop|Po_Pat .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha": line 2305.
+*MOT:	that's a bit of a (.) nice pretty lady .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|bit prep|of det:art|a (1)adj|nice
+	(1)adj|pretty (1)n|lady .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha": line 2419.
+*MOT:	brown orange green yellow (.) black red blue pink .
+%mor:	adj|brown adj|orange adj|green adj|yellow adj|black (1)adj|red
+	(1)adj|blue (1)n|pink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha": line 2424.
+*MOT:	brown orange green yellow black red blue pink .
+%mor:	adj|brown adj|orange adj|green adj|yellow adj|black (1)adj|red
+	(1)adj|blue (1)n|pink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha": line 2435.
+*MOT:	brown (.) orange green yellow black red blue pink .
+%mor:	adj|brown adj|orange adj|green adj|yellow adj|black (1)adj|red
+	(1)adj|blue (1)n|pink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-19.50.cha": line 2443.
+*MOT:	what about brown orange green .
+%mor:	pro:int|what adv|about (1)adj|brown (1)adj|orange (1)n|green .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-21.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-21.30.cha": line 1633.
+*DAD:	poor old hippo .
+%mor:	(1)adj|poor (1)adj|old (1)n|hippo .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-25.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-25.60.cha": line 22.
+*SAR:	little tiny baby .
+%mor:	(1)adj|little (1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-01-25.60.cha": line 271.
+*DAD:	poor old Heidi Rosie Samantha .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Heidi n:prop|Rosie n:prop|Samantha .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-03.35.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-03.35.cha": line 1160.
+*MOT:	let's make a nice full tree for the giraffe to eat .
+%mor:	v|let~pro:obj|us v|make det:art|a (1)adj|nice (1)adj|full (1)n|tree prep|for
+	det:art|the n|giraffe inf|to v|eat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-03.35.cha": line 1818.
+*MOT:	poor old daddy .
+%mor:	(1)adj|poor (1)adj|old (1)n|daddy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-03.35.cha": line 2267.
+*MOT:	my poor little baby .
+%mor:	det:poss|my (1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-04.40.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-05.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-05.60.cha": line 838.
+*MOT:	mummy's got big fat tummy .
+%mor:	n|mummy~poss|s v|get&PAST (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-05.60.cha": line 867.
+*MOT:	big fat tummy .
+%mor:	(1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-05.60.cha": line 3469.
+*SAR:	I can't resist that little bare bum .
+%mor:	pro:sub|I mod|can~neg|not v|resist pro:dem|that (1)adj|little (1)adj|bare
+	(1)n|bum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-05.60.cha": line 3478.
+*SAR:	I can't resist that little bare bum .
+%mor:	pro:sub|I mod|can~neg|not v|resist pro:dem|that (1)adj|little (1)adj|bare
+	(1)n|bum .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-14.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-17.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-17.30.cha": line 18.
+*DAD:	are you a loopy looney tune ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|loop&dn-Y (1)adj|looney (1)n|tune ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-17.30.cha": line 1235.
+*DAD:	you're a mischievous little imp .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|mischievous (1)adj|little (1)n|imp
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-17.30.cha": line 1384.
+*DAD:	daddy gets all the little nuggety sort of ones .
+%mor:	n|daddy v|get-3S qn|all det:art|the (1)adj|little (1)adj|nugget&dn-Y
+	(1)n|sort prep|of pro:indef|one-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-18.45.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha": line 1079.
+*MOT:	look at this big fat tummy .
+%mor:	cop|look prep|at pro:dem|this (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha": line 1082.
+*MOT:	it doesn't go around your big fat tummy .
+%mor:	pro:per|it mod|do&3S~neg|not v|go prep|around det:poss|your (1)adj|big
+	(1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha": line 1087.
+*MOT:	it doesn't go around your big fat tummy !
+%mor:	pro:per|it mod|do&3S~neg|not v|go prep|around det:poss|your (1)adj|big
+	(1)adj|fat (1)n|tummy !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha": line 2272.
+*DAD:	it was a great big fork flash .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|fork
+	n|flash .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-02-21.35.cha": line 2533.
+*DAD:	noisy old thunder hey ?
+%mor:	(1)adj|noise&dn-Y (1)adj|old (1)n|thunder co|hey ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-03-16.25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-03-23.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-03-23.60.cha": line 1531.
+*MOT:	big big big book .
+%mor:	adj|big (1)adj|big (1)adj|big (1)n|book .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-16.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-16.30.cha": line 491.
+*MOT:	little green frog .
+%mor:	(1)adj|little (1)adj|green (1)n|frog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-16.30.cha": line 764.
+*MOT:	cake and she says see that the big bad wolf doesn't get you . [+ R]
+%mor:	n|cake coord|and pro:sub|she v|say-3S v|see pro:rel|that
+	det:art|the (1)adj|big (1)adj|bad (1)n|wolf mod|do&3S~neg|not v|get
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-16.30.cha": line 907.
+*MOT:	and then there's the big bad (.) wolf .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-18.25.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-18.25.cha": line 909.
+*MOT:	I only play with nice little girls .
+%mor:	pro:sub|I qn|only n|play prep|with (1)adj|nice (1)adj|little (1)n|girl-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-04-18.25.cha": line 1005.
+*MOT:	come and give Amy a little gentle kiss .
+%mor:	v|come coord|and v|give n:prop|Amy det:art|a (1)adj|little (1)adj|gentle
+	(1)n|kiss .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-05-08.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-05-08.30.cha": line 1079.
+*MOT:	help teddy enjoy a lovely hot bath . [+ R]
+%mor:	n|help n|teddy v|enjoy det:art|a (1)adj|love&dn-LY (1)adj|hot (1)n|bath .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-05-08.30.cha": line 1163.
+*MOT:	help teddy enjoy a lovely hot bath . [+ R]
+%mor:	n|help n|teddy v|enjoy det:art|a (1)adj|love&dn-LY (1)adj|hot (1)n|bath .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-05-10.20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-05-25.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-00.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 55.
+*MOT:	I'm making a big red tower .
+%mor:	pro:sub|I~aux|be&1S part|make-PRESP det:art|a (1)adj|big (1)adj|red
+	(1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 1379.
+*MOT:	you missed , you great big sausage .
+%mor:	pro:per|you v|miss-PAST cm|cm pro:per|you (1)adj|great (1)adj|big
+	(1)n|sausage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 1629.
+*MOT:	look at this big podgy tummy .
+%mor:	cop|look prep|at pro:dem|this (1)adj|big (1)adj|podgy (1)n|tummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 2557.
+*MOT:	on a nice warm summer's day picnics can be fun . [+ R]
+%mor:	prep|on det:art|a (1)adj|nice (1)adj|warm (1)n|summer~poss|s n|day
+	n|picnic-PL mod|can cop|be n|fun .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 2616.
+*MOT:	it soars among the bright green trees high up in the sky . [+ R]
+%mor:	pro:per|it v|soar-3S prep|among det:art|the (1)adj|bright (1)adj|green
+	(1)n|tree-PL adj|high adv|up prep|in det:art|the n|sky .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-07.40.cha": line 2697.
+*MOT:	xxx on a windy bright march day xxx . [+ R]
+%mor:	prep|on det:art|a (1)adj|wind&dn-Y (1)adj|bright (1)n|march n|day .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-16.45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-16.45.cha": line 122.
+*MOT:	I have sharp little teeth and I'm long like a snake .
+%mor:	pro:sub|I v|have (1)adj|sharp (1)adj|little (1)n|tooth&PL coord|and
+	pro:sub|I~aux|be&1S adv|long prep|like det:art|a n|snake .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-18.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-18.30.cha": line 1427.
+*MOT:	bit of a warm tropical climate but never mind .
+%mor:	n|bit prep|of det:art|a (1)adj|warm (1)adj|tropic-AL (1)n|climate conj|but
+	adv|never n|mind .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-19.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-19.30.cha": line 1277.
+*MOT:	look at this big fat tummy .
+%mor:	cop|look prep|at pro:dem|this (1)adj|big (1)adj|fat (1)n|tummy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-22.120.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-22.120.cha": line 1512.
+*MOT:	little tiny crisp .
+%mor:	(1)adj|little (1)adj|tiny (1)n|crisp .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-22.120.cha": line 2864.
+*MOT:	elephants have big flappy ears and thick legs and a long trunk .
+%mor:	n|elephant-PL v|have (1)adj|big (1)adj|flap&dv-Y (1)n|ear-PL coord|and
+	adj|thick n|leg-PL coord|and det:art|a adj|long n|trunk .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-22.120.cha": line 3193.
+*MOT:	that's a nice long line , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|long (1)n|line cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-24.15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-25.45.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-28.150.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-28.150.cha": line 7363.
+*DAD:	poor old Amy couldn't see Cookie_Monster .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy mod|could~neg|not v|see
+	n:prop|Cookie_Monster .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-06-28.150.cha": line 9561.
+*DAD:	I'm putting it all up so it looks like a pretty pretty tree .
+%mor:	pro:sub|I~aux|be&1S part|put-PRESP pro:per|it adv|all adv|up co|so
+	pro:per|it cop|look-3S prep|like det:art|a (1)adj|pretty (1)adj|pretty
+	(1)n|tree .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-02.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-07.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-07.60.cha": line 1129.
+*MOT:	what a stubborn little girl .
+%mor:	pro:int|what det:art|a (1)adj|stubborn (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-12.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-12.60.cha": line 1155.
+*MOT:	shall we put it away before it gets mixed up with the blue and goes
+	a horrid yucky browny greyey [: grey] [* p] color ?
+%mor:	mod|shall pro:sub|we v|put&ZERO pro:per|it adv|away prep|before
+	pro:per|it aux|get&3S part|mix-PASTP adv|up prep|with det:art|the
+	n|blue coord|and v|go-3S det:art|a adj|horrid adj|yuck&dn-Y
+	(1)adj|brown-Y (1)adj|grey (1)n|color ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-12.60.cha": line 1788.
+*DAD:	big smiley mouth like that .
+%mor:	(1)adj|big (1)adj|smiley (1)n|mouth prep|like pro:dem|that .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-13.60.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-14.25.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-14.25.cha": line 461.
+*MOT:	that's a nice little hole .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|hole .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-15.35.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-25.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-26.60.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 507.
+*MOT:	you mean big bowls to eat your dinner off ?
+%mor:	pro:per|you (1)adj|mean (1)adj|big (1)n|bowl-PL inf|to v|eat det:poss|your
+	n|dinner adv|off ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 1279.
+*MOT:	Amy's done a big big poo as well .
+%mor:	n:prop|Amy~aux|be&3S part|do&PASTP det:art|a (1)adj|big (1)adj|big (1)n|poo
+	adv|as adv|well .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 3531.
+*MOT:	big big big sleep .
+%mor:	adj|big (1)adj|big (1)adj|big (1)n|sleep .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 3804.
+*MOT:	++ big fat porker .
+%mor:	(1)adj|big (1)adj|fat (1)n|porker .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 5506.
+*MOT:	they will be sorry they did not ask me she told her big black bird . [+ R]
+%mor:	pro:sub|they mod|will cop|be adj|sorry pro:sub|they mod|do&PAST
+	neg|not v|ask pro:obj|me pro:sub|she v|tell&PAST det:poss|her
+	(1)adj|big (1)adj|black (1)n|bird .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 5560.
+*MOT:	we have various little gifts for the little princess said the first good fairy . [+ R]
+%mor:	pro:sub|we v|have (1)adj|various (1)adj|little (1)n|gift-PL prep|for
+	det:art|the adj|little n|princess v|say&PAST det:art|the (2)adj|first
+	(2)adj|good (2)n|fairy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 5821.
+*MOT:	she told her big black bird +/. [+ IN]
+%mor:	pro:sub|she v|tell&PAST det:poss|her (1)adj|big (1)adj|black (1)n|bird +/.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-07-27.90.cha": line 6032.
+*MOT:	he didn't see that a big black bird was watching him . [+ R]
+%mor:	pro:sub|he mod|do&PAST~neg|not v|see pro:rel|that det:art|a (1)adj|big
+	(1)adj|black (1)n|bird aux|be&PAST&13S part|watch-PRESP pro:obj|him .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-01.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-01.60.cha": line 1959.
+*MOT:	poor old Amy can't sit up properly .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy mod|can~neg|not v|sit adv|up
+	adv|proper&dadj-LY .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-02.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-02.60.cha": line 3421.
+*MOT:	Flopsy Mopsy and Cottontail who were good little bunnies went down the lane to gather blackberries . [+ R]
+%mor:	n:prop|Flopsy n:prop|Mopsy coord|and n:prop|Cottontail pro:rel|who
+	cop|be&PAST (1)adj|good (1)adj|little (1)n|bunny-PL v|go&PAST prep|down
+	det:art|the n|lane inf|to v|gather n|blackberry-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-02.60.cha": line 3485.
+*MOT:	he's a big greedy bunny .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|greed&dn-Y (1)n|bunny .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-02.60.cha": line 3677.
+*MOT:	Peter who was quite lost saw a little old mouse carrying peas to her family . [+ R]
+%mor:	n:prop|Peter pro:rel|who cop|be&PAST&13S adv|quite v|lose&PAST
+	v|see&PAST det:art|a (1)adj|little (1)adj|old (1)n|mouse part|carry-PRESP
+	n|pea-PL prep|to det:poss|her n|family .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-03.40.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-03.40.cha": line 2642.
+*DAD:	Lara says I should have the [/] the losing one from last time with the stupid girly nurse on it .
+%mor:	n:prop|Lara v|say-3S pro:sub|I mod|should v|have det:art|the
+	part|lose-PRESP det:num|one prep|from adj|last n|time prep|with
+	det:art|the (1)adj|stupid (1)adj|girl&dn-Y (1)n|nurse prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-03.40.cha": line 4274.
+*MOT:	poor old Amy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-04.15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-09.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-09.90.cha": line 2204.
+*MOT:	it's just different pictures of the same baby .
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|different (1)n|picture-PL prep|of
+	det:art|the adj|same n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-09.90.cha": line 3088.
+*MOT:	put a nice pretty bobble in it .
+%mor:	v|put&ZERO det:art|a (1)adj|nice (1)adj|pretty (1)n|bobble prep|in
+	pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-09.90.cha": line 4912.
+*MOT:	a big big dragon .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|dragon .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 2687.
+*DAD:	poor old Amy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 2940.
+*DAD:	and Baba puts his crown in a little red bag . [+ R]
+%mor:	coord|and n:prop|Baba v|put-3S det:poss|his n|crown prep|in
+	det:art|a (1)adj|little (1)adj|red (1)n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 3193.
+*DAD:	so they go for a lovely little ride along the river . [+ R]
+%mor:	co|so pro:sub|they v|go prep|for det:art|a (1)adj|love&dn-LY
+	(1)adj|little (1)n|ride prep|along det:art|the n|river .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 3564.
+*DAD:	he has got a little red bag in his hand . [+ R]
+%mor:	pro:sub|he aux|have&3S part|get&PASTP det:art|a (1)adj|little (1)adj|red
+	(1)n|bag prep|in det:poss|his n|hand .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 3714.
+*DAD:	then they see another man with a small red bag . [+ R]
+%mor:	adv:tem|then pro:sub|they v|see qn|another n|man prep|with
+	det:art|a (1)adj|small (1)adj|red (1)n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 3857.
+*DAD:	poor old Baba .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Baba .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-10.50.cha": line 4104.
+*DAD:	so we hat in the house on that cold <cold day> [>] . [+ R]
+%mor:	co|so pro:sub|we n|hat prep|in det:art|the n|house prep|on
+	pro:dem|that (1)adj|cold (1)adj|cold (1)n|day .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-11.40.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-11.40.cha": line 1860.
+*GRM:	what about the poor little piggy ?
+%mor:	pro:int|what adv|about det:art|the (1)adj|poor (1)adj|little (1)n|pig-DIM ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-15.60.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha": line 1848.
+*DAD:	poor old daddy , hey ?
+%mor:	(1)adj|poor (1)adj|old (1)n|daddy cm|cm co|hey ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha": line 6009.
+*MOT:	it's a nice warm spring day .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|warm (1)n|spring n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha": line 6302.
+*MOT:	because it's a lovely hot day .
+%mor:	conj|because pro:per|it~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|hot
+	(1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha": line 6759.
+*MOT:	you've got a horrid horrid snotty nose .
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a adj|horrid (1)adj|horrid
+	(1)adj|snot&dn-Y (1)n|nose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-08-23.180.cha": line 6786.
+*MOT:	look at that horrid snotty nose .
+%mor:	cop|look prep|at pro:dem|that (1)adj|horrid (1)adj|snot&dn-Y (1)n|nose .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 1857.
+*MOT:	it's just a wet miserable day .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|wet (1)adj|miserable (1)n|day
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 2272.
+*MOT:	it's a hot day so he's having a nice cool drink .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|hot n|day adv|so
+	pro:sub|he~aux|be&3S part|have-PRESP det:art|a (1)adj|nice (1)adj|cool
+	(1)n|drink .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 2537.
+*MOT:	say hello to the first little chick . [+ R]
+%mor:	v|say co|hello prep|to det:art|the (1)adj|first (1)adj|little (1)n|chick .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 2549.
+*MOT:	say hello to the second little chick .
+%mor:	v|say co|hello prep|to det:art|the (1)adj|second (1)adj|little (1)n|chick .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 2629.
+*MOT:	say hello to the first little chick .
+%mor:	v|say co|hello prep|to det:art|the (1)adj|first (1)adj|little (1)n|chick .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 2659.
+*MOT:	say hello to the second little chick .
+%mor:	v|say co|hello prep|to det:art|the (1)adj|second (1)adj|little (1)n|chick .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 3227.
+*MOT:	little tiny drink ?
+%mor:	(1)adj|little (1)adj|tiny (1)n|drink ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 3230.
+*MOT:	little tiny sip .
+%mor:	(1)adj|little (1)adj|tiny (1)n|sip .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 6654.
+*MOT:	that's a funny little pink color .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|fun&dn-Y (1)adj|little (1)adj|pink
+	(1)n|color .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 8988.
+*DAD:	you were very good last night .
+%mor:	pro:per|you cop|be&PAST adv|very (1)adj|good (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-00.150.cha": line 11024.
+*MOT:	that's [/] that's supposed to go in the middle so that you don't hurt yourself when you fall over , you great big sausage .
+%mor:	pro:dem|that~cop|be&3S v|suppose-PAST inf|to v|go prep|in
+	det:art|the n|middle adv|so pro:rel|that pro:per|you mod|do~neg|not
+	v|hurt&ZERO pro:refl|yourself conj|when pro:per|you v|fall adv|over
+	cm|cm pro:per|you (1)adj|great (1)adj|big (1)n|sausage .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-09.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-09.30.cha": line 1637.
+*MOT:	that's taking an awful long time .
+%mor:	pro:rel|that~aux|be&3S part|take-PRESP det:art|a (1)adj|awful (1)adj|long
+	(1)n|time .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-10.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-10.30.cha": line 1728.
+*MOT:	+" no you're wrong little cat .
+%mor:	co|no pro:per|you~cop|be&PRES (1)adj|wrong (1)adj|little (1)n|cat .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-13.135.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-13.135.cha": line 1261.
+*MOT:	make a big big big big big tower .
+%mor:	v|make det:art|a adj|big adj|big adj|big (1)adj|big (1)adj|big (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-13.135.cha": line 1586.
+*MOT:	bigger bigger bigger bigger tower .
+%mor:	adj|big-CP adj|big-CP (1)adj|big-CP (1)adj|big-CP (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-13.135.cha": line 3344.
+*MOT:	poor old Pingu .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Pingu .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-13.135.cha": line 3401.
+*MOT:	we'll do them blue grey eyes , shall we ?
+%mor:	pro:sub|we~mod|will v|do pro:obj|them (1)adj|blue (1)adj|grey (1)n|eye-PL
+	cm|cm mod|shall pro:sub|we ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-14.125.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-14.125.cha": line 5024.
+*MOT:	oh poor old Amy .
+%mor:	co|oh (1)adj|poor (1)adj|old (1)n:prop|Amy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-14.125.cha": line 6886.
+*MOT:	+" you'll have_to stop smoking that smelly old pipe now we have a baby in the house . [+ R]
+%mor:	pro:per|you~mod|will mod:aux|have_to v|stop n:gerund|smoke-PRESP
+	pro:rel|that (1)adj|smell&dv-Y (1)adj|old (1)n|pipe adv|now pro:sub|we v|have
+	det:art|a n|baby prep|in det:art|the n|house .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-14.125.cha": line 8241.
+*DAD:	poor old Pingu , hey ?
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Pingu cm|cm co|hey ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-14.125.cha": line 8488.
+*DAD:	+" you'll have_to stop smoking that smelly old pipe now we have a baby in the house . [+ R]
+%mor:	pro:per|you~mod|will mod:aux|have_to v|stop n:gerund|smoke-PRESP
+	pro:rel|that (1)adj|smell&dv-Y (1)adj|old (1)n|pipe adv|now pro:sub|we v|have
+	det:art|a n|baby prep|in det:art|the n|house .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-09-26.45.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-04.45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-04.45.cha": line 280.
+*MOT:	I'm going to build a big big big tower .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|build det:art|a adj|big
+	(1)adj|big (1)adj|big (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-04.45.cha": line 839.
+*GRD:	what a great big tower .
+%mor:	pro:int|what det:art|a (1)adj|great (1)adj|big (1)n|tower .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-04.45.cha": line 1218.
+*MOT:	oh that's nice warm feet , Amy .
+%mor:	co|oh pro:dem|that~cop|be&3S (1)adj|nice (1)adj|warm (1)n|foot&PL cm|cm
+	n:prop|Amy .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-05.45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-05.45.cha": line 2637.
+*DAD:	where's [/] where's that little fancy light where the needles are ?
+%mor:	adv:int|where~cop|be&3S pro:dem|that (1)adj|little (1)adj|fancy (1)n|light
+	adv:int|where det:art|the n|needle-PL cop|be&PRES ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-05.45.cha": line 2645.
+*DAD:	there was a little fancy light on it .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|little (1)adj|fancy
+	(1)n|light prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-05.45.cha": line 3227.
+*MOT:	I'm just getting your cold full stop .
+%mor:	pro:sub|I~aux|be&1S adv|just part|get-PRESP det:poss|your (1)adj|cold
+	(1)adj|full (1)n|stop .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-05.45.cha": line 3608.
+*MOT:	you great big banana !
+%mor:	pro:per|you (1)adj|great (1)adj|big (1)n|banana !
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-06.45.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-07.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-07.90.cha": line 3125.
+*MOT:	shall we give him one little little bit ?
+%mor:	mod|shall pro:sub|we v|give pro:obj|him pro:indef|one (1)adj|little
+	(1)adj|little (1)n|bit ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-07.90.cha": line 3177.
+*MOT:	it's stuck to your sleeve , you great big banana .
+%mor:	pro:per|it~aux|be&3S v|stick&PAST prep|to det:poss|your n|sleeve
+	cm|cm pro:per|you (1)adj|great (1)adj|big (1)n|banana .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-12.90.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-13.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-13.90.cha": line 5971.
+*MOT:	nice fresh air .
+%mor:	(1)adj|nice (1)adj|fresh (1)n|air .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 1731.
+*MOT:	you're a great big sausage .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|great (1)adj|big (1)n|sausage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 2437.
+*MOT:	don't be selfish little girl .
+%mor:	mod|do~neg|not aux|be (1)adj|self&dn-ISH (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 3376.
+*ELS:	and we went to Durham once and he wouldn't go up without them and we had a great big tub of match boxes full of ladybirds up to my mam's at Durham .
+%mor:	coord|and pro:sub|we v|go&PAST prep|to n:prop|Durham adv|once
+	coord|and pro:sub|he mod|will&COND~neg|not v|go adv|up prep|without
+	pro:obj|them coord|and pro:sub|we v|have&PAST det:art|a (1)adj|great
+	(1)adj|big (1)n|tub prep|of n|match v|box-3S adj|full prep|of
+	n|ladybird-PL adv|up prep|to det:poss|my co|mam~poss|s prep|at
+	n:prop|Durham .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 3531.
+*ELS:	making a mess on the nice clean floor .
+%mor:	part|make-PRESP det:art|a n|mess prep|on det:art|the (1)adj|nice
+	(1)adj|clean (1)n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 4824.
+*ELS:	they put the puppies in a big black bag then they climbed out the window . [+ R]
+%mor:	pro:sub|they v|put&ZERO det:art|the n|puppy-PL prep|in det:art|a
+	(1)adj|big (1)adj|black (1)n|bag adv:tem|then pro:sub|they v|climb-PAST
+	prep|out det:art|the n|window .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 5070.
+*ELS:	a man was holding a big black bag . [+ R]
+%mor:	det:art|a n|man aux|be&PAST&13S part|hold-PRESP det:art|a (1)adj|big
+	(1)adj|black (1)n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 5988.
+*DAD:	there's her little little ball there .
+%mor:	pro:exist|there~cop|be&3S det:poss|her (1)adj|little (1)adj|little (1)n|ball
+	adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-14.135.cha": line 7744.
+*MOT:	poor old Amy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy .
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-15.90.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-19.35.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-21.30.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-21.30.cha": line 278.
+*DAD:	poor old mummy .
+%mor:	(1)adj|poor (1)adj|old (1)n|mummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-21.30.cha": line 730.
+*DAD:	poor little baby horsie .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby n|horse-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-21.30.cha": line 1970.
+*DAD:	you're making lots_of nasty little marks .
+%mor:	pro:per|you~aux|be&PRES part|make-PRESP qn|lots_of (1)adj|nasty
+	(1)adj|little (1)n|mark-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-22.105.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-22.105.cha": line 1449.
+*MOT:	nice clean bottom .
+%mor:	(1)adj|nice (1)adj|clean (1)n|bottom .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-22.105.cha": line 1452.
+*MOT:	nice clean bottom .
+%mor:	(1)adj|nice (1)adj|clean (1)n|bottom .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-28.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-29.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-10-30.15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-02.45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-02.45.cha": line 1286.
+*MOT:	we've got just enough bricks .
+%mor:	pro:sub|we~aux|have part|get&PASTP (1)adj|just (1)adj|enough (1)n|brick-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-02.45.cha": line 1438.
+*GRD:	very very faint light rain .
+%mor:	adv|very adv|very (1)adj|faint (1)adj|light (1)n|rain .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-02.45.cha": line 2729.
+*MOT:	I'm building a big big big big big tower .
+%mor:	pro:sub|I~aux|be&1S part|build-PRESP det:art|a adj|big adj|big
+	adj|big (1)adj|big (1)adj|big (1)n|tower .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-03.120.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-03.120.cha": line 3226.
+*MOT:	it's a tiny tiny little speck .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|tiny (1)adj|tiny (1)adj|little (1)n|speck
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-03.120.cha": line 5835.
+*MOT:	darling wonderful intelligent witty funny mummy .
+%mor:	adj|darling adj|wonder-FULL adj|intelligent (1)adj|wit&dn-Y
+	(1)adj|fun&dn-Y (1)n|mummy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-03.120.cha": line 7458.
+*DAD:	that's a nice big piece for +//. [+ IN]
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|piece prep|for
+	+//.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-03.120.cha": line 7766.
+*MOT:	you are going to have a big fat tummy .
+%mor:	pro:per|you aux|be&PRES part|go-PRESP inf|to v|have det:art|a
+	(1)adj|big (1)adj|fat (1)n|tummy .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 537.
+*DAD:	poor old Amy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Amy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 714.
+*MOT:	poor old dad .
+%mor:	(1)adj|poor (1)adj|old (1)n|dad .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 3616.
+*MOT:	I'm going to make a big long line .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|make det:art|a (1)adj|big
+	(1)adj|long (1)n|line .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 3647.
+*MOT:	there's a big long line .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|long (1)n|line .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 4234.
+*MOT:	poor old Helena .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Helena .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-04.90.cha": line 5842.
+*MOT:	have you got a big fat tummy ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy ?
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-09.30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-10.90.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha": line 466.
+*MOT:	make them a nice big field up here , look .
+%mor:	v|make pro:obj|them det:art|a (1)adj|nice (1)adj|big (1)n|field adv|up
+	adv|here cm|cm co|look .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha": line 1991.
+*MOT:	do you mean hot dog sausages ?
+%mor:	mod|do pro:per|you (1)adj|mean (1)adj|hot (1)n|dog n|sausage-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha": line 1998.
+*MOT:	hot cross sausages ?
+%mor:	(1)adj|hot (1)adj|cross (1)n|sausage-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha": line 2795.
+*ELS:	so xxx a pretty little house . [+ PI]
+%mor:	co|so det:art|a (1)adj|pretty (1)adj|little (1)n|house .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-11.60.cha": line 2813.
+*ELS:	+" I love fat little pigs . [+ R]
+%mor:	pro:sub|I v|love (1)adj|fat (1)adj|little (1)n|pig-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 1551.
+*MOT:	that big big big big pile ?
+%mor:	pro:dem|that adj|big adj|big (1)adj|big (1)adj|big (1)n|pile ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 1568.
+*MOT:	because the little tiny mouse is small compared to that big big big lot of butter .
+%mor:	conj|because det:art|the (1)adj|little (1)adj|tiny (1)n|mouse cop|be&3S
+	adj|small part|compare-PASTP prep|to pro:dem|that adj|big (2)adj|big
+	(2)adj|big (2)n|lot prep|of n|butter .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 1767.
+*MOT:	it's a long long long long long long long way away .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|long adj|long adj|long adj|long
+	adj|long (1)adj|long (1)adj|long (1)n|way adv|away .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 2033.
+*MOT:	which twisted and tumbled between high rocky banks and Christopher_Robin's door .
+%mor:	pro:rel|which v|twist-PAST coord|and v|tumble-PAST adv|between
+	(1)adj|high (1)adj|rock&dn-Y (1)n|bank-PL coord|and
+	n:prop|Christopher_Robin~poss|s n|door .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 2897.
+*MOT:	can you see lots_of big grey clouds ?
+%mor:	mod|can pro:per|you v|see qn|lots_of (1)adj|big (1)adj|grey (1)n|cloud-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 5012.
+*MOT:	because you're a great big banana .
+%mor:	conj|because pro:per|you~cop|be&PRES det:art|a (1)adj|great (1)adj|big
+	(1)n|banana .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-20.90.cha": line 6366.
+*MOT:	what's cheeky cheeky cheek ?
+%mor:	pro:int|what~aux|be&3S (1)adj|cheek&dn-Y (1)adj|cheek&dn-Y (1)n|cheek ?
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-21.25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-22.20.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-22.20.cha": line 35.
+*MOT:	poor old More_Dadaw .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|More_Dadaw .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-24.45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-24.45.cha": line 1123.
+*MOT:	I'm sitting in a nice comfy chair .
+%mor:	pro:sub|I~aux|be&1S part|sit-PRESP prep|in det:art|a (1)adj|nice
+	(1)adj|comfy (1)n|chair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-24.45.cha": line 1135.
+*MOT:	and grandad's sitting here in a nice comfy chair too .
+%mor:	coord|and grand#n|ad~aux|be&3S part|sit-PRESP adv|here prep|in
+	det:art|a (1)adj|nice (1)adj|comfy (1)n|chair post|too .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-24.45.cha": line 1144.
+*GRD:	and you're sitting on the nice comfy floor .
+%mor:	coord|and pro:per|you~cop|be&PRES part|sit-PRESP prep|on
+	det:art|the (1)adj|nice (1)adj|comfy (1)n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-24.45.cha": line 1183.
+*MOT:	I'm sitting on a nice comfy chair .
+%mor:	pro:sub|I~aux|be&1S part|sit-PRESP prep|on det:art|a (1)adj|nice
+	(1)adj|comfy (1)n|chair .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-25.90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-25.90.cha": line 968.
+*MOT:	trim trim trim trim .
+%mor:	adj|trim (1)adj|trim (1)adj|trim (1)n|trim .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-25.90.cha": line 4213.
+*MOT:	see the little white lumps of ice ?
+%mor:	v|see det:art|the (1)adj|little (1)adj|white (1)n|lump-PL prep|of n|ice ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-25.90.cha": line 5201.
+*MOT:	in the kitchen there's a big black bin sack with some paper in it .
+%mor:	prep|in det:art|the n|kitchen pro:exist|there~cop|be&3S det:art|a
+	(1)adj|big (1)adj|black (1)n|bin n|sack prep|with qn|some n|paper prep|in
+	pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/2-11-25.90.cha": line 5479.
+*MOT:	that's the door to the outside front garden .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|door prep|to det:art|the
+	(1)adj|outside (1)adj|front (1)n|garden .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-23.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-24.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-26.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-27.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-28.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-29.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-07-30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-00.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-17.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-18.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-19.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-23.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-24.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-26.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-27.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-28.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-29.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-08-30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-00.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-17.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-18.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-19.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-23.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-26.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-09-27.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-00.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-15.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-17.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-18.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-19.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-23.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-24.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-26.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-27.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-28.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-29.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-10-30.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-00.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-17.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-18.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-19.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-22.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-23.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-24.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-25.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-26.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-27.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-28.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-29.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Lara/Lara-Diary/2-11-30.cha>
+
+    Strings matched 0 times
+

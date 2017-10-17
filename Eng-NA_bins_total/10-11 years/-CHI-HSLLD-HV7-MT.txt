@@ -1,0 +1,301 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:06:41 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acemt7.cha>
+
+    Strings matched 0 times
+
+From file <admmt7.cha>
+----------------------------------------
+*** File "admmt7.cha": line 2039.
+*FAT:	I'll get a big big bottle of that for you .
+%mor:	pro:sub|I~mod|will v|get det:art|a (1)adj|big (1)adj|big (1)n|bottle prep|of
+	pro:dem|that prep|for pro:per|you .
+----------------------------------------
+*** File "admmt7.cha": line 2229.
+*FAT:	they're awful small pieces Sis (.) to bring to school .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|awful (1)adj|small (1)n|piece-PL n:prop|Sis
+	inf|to v|bring prep|to n|school .
+
+    Strings matched 2 times
+
+From file <allmt7.cha>
+
+    Strings matched 0 times
+
+From file <annmt7.cha>
+
+    Strings matched 0 times
+
+From file <aprmt7.cha>
+
+    Strings matched 0 times
+
+From file <astmt7.cha>
+
+    Strings matched 0 times
+
+From file <bobmt7.cha>
+----------------------------------------
+*** File "bobmt7.cha": line 1459.
+*MOT:	honey (.) I really want you to start using the graph paper I got you so you can make some better organizational skills in terms of keepin(g) your numbers (.) square .
+%mor:	co|honey pro:sub|I adv|real&dadj-LY v|want pro:per|you inf|to
+	v|start part|use-PRESP det:art|the n|graph n|paper pro:sub|I
+	v|get&PAST pro:per|you adv|so pro:per|you mod|can v|make qn|some
+	(1)adj|good&CP (1)adj|organizational (1)n|skill-PL prep|in n|term-PL prep|of
+	n:gerund|keep-PRESP det:poss|your n|number-PL adv|square .
+
+    Strings matched 1 times
+
+From file <bramt7.cha>
+
+    Strings matched 0 times
+
+From file <brimt7.cha>
+
+    Strings matched 0 times
+
+From file <brnmt7.cha>
+
+    Strings matched 0 times
+
+From file <casmt7.cha>
+----------------------------------------
+*** File "casmt7.cha": line 39.
+*MOT:	it's a nice yellow outfit and you'll get it all jelly donut on it .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|yellow (1)n|outfit
+	coord|and pro:per|you~mod|will aux|get pro:per|it adv|all n|jelly
+	n|donut prep|on pro:per|it .
+
+    Strings matched 1 times
+
+From file <conmt7.cha>
+
+    Strings matched 0 times
+
+From file <davmt7.cha>
+
+    Strings matched 0 times
+
+From file <diamt7.cha>
+
+    Strings matched 0 times
+
+From file <emimt7.cha>
+
+    Strings matched 0 times
+
+From file <ethmt7.cha>
+----------------------------------------
+*** File "ethmt7.cha": line 63.
+*MOT:	that's a pretty good program „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|program
+	end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "ethmt7.cha": line 523.
+*MOT:	or with just regular pieces ?
+%mor:	coord|or prep|with (1)adj|just (1)adj|regular (1)n|piece-PL ?
+
+    Strings matched 2 times
+
+From file <gremt7.cha>
+
+    Strings matched 0 times
+
+From file <jeamt7.cha>
+
+    Strings matched 0 times
+
+From file <jebmt7.cha>
+----------------------------------------
+*** File "jebmt7.cha": line 507.
+*MOT:	you're a big bad girl yes you are .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|big (1)adj|bad (1)n|girl co|yes
+	pro:per|you cop|be&PRES .
+
+    Strings matched 1 times
+
+From file <jenmt7.cha>
+
+    Strings matched 0 times
+
+From file <jermt7.cha>
+----------------------------------------
+*** File "jermt7.cha": line 1533.
+*KID:	imagine there was just like a deep deep deep hole of water right ?
+%mor:	v|imagine adv|there cop|be&PAST&13S adv|just prep|like det:art|a
+	n|deep (1)adj|deep (1)adj|deep (1)n|hole prep|of n|water adj|right ?
+----------------------------------------
+*** File "jermt7.cha": line 1950.
+*SIS:	this big last time .
+%mor:	pro:dem|this (1)adj|big (1)adj|last (1)n|time .
+
+    Strings matched 2 times
+
+From file <jesmt7.cha>
+
+    Strings matched 0 times
+
+From file <joymt7.cha>
+----------------------------------------
+*** File "joymt7.cha": line 103.
+*SIS:	it's this little tiny puppy ?
+%mor:	pro:per|it~aux|be&3S pro:dem|this (1)adj|little (1)adj|tiny (1)n|puppy ?
+----------------------------------------
+*** File "joymt7.cha": line 119.
+*SIS:	and he has got little brown feet ?
+%mor:	coord|and pro:sub|he aux|have&3S v|get&PAST (1)adj|little (1)adj|brown
+	(1)n|foot&PL ?
+
+    Strings matched 2 times
+
+From file <kevmt7.cha>
+----------------------------------------
+*** File "kevmt7.cha": line 1098.
+*MOT:	this is the first peaceful hot meal I've eaten in a long time !
+%mor:	pro:dem|this cop|be&3S det:art|the adj|first (1)adj|peace&dn-FULL
+	(1)adj|hot (1)n|meal pro:sub|I~aux|have part|eat&PASTP prep|in det:art|a
+	adj|long n|time !
+
+    Strings matched 1 times
+
+From file <kurmt7.cha>
+
+    Strings matched 0 times
+
+From file <marmt7.cha>
+----------------------------------------
+*** File "marmt7.cha": line 1932.
+*FAT:	xxx do we have_to into a regular dental place ?
+%mor:	mod|do pro:sub|we mod:aux|have_to prep|into det:art|a (1)adj|regular
+	(1)adj|dental (1)n|place ?
+
+    Strings matched 1 times
+
+From file <maymt7.cha>
+
+    Strings matched 0 times
+
+From file <megmt7.cha>
+----------------------------------------
+*** File "megmt7.cha": line 866.
+*FAT:	the next full check I get ?
+%mor:	det:art|the (1)adj|next (1)adj|full (1)n|check pro:sub|I v|get ?
+
+    Strings matched 1 times
+
+From file <melmt7.cha>
+----------------------------------------
+*** File "melmt7.cha": line 374.
+*MOT:	(.) they'll say who's this obnoxious little boy crunching a carrot right into the microphone ?
+%mor:	pro:sub|they~mod|will v|say pro:int|who~cop|be&3S pro:dem|this
+	(1)adj|obnoxious (1)adj|little (1)n|boy part|crunch-PRESP det:art|a n|carrot
+	adv|right prep|into det:art|the n|microphone ?
+----------------------------------------
+*** File "melmt7.cha": line 1908.
+*BRO:	what do you expect a humongous fat piece ?
+%mor:	pro:int|what mod|do pro:per|you v|expect det:art|a (1)adj|humongous
+	(1)adj|fat (1)n|piece ?
+
+    Strings matched 2 times
+
+From file <paumt7.cha>
+----------------------------------------
+*** File "paumt7.cha": line 977.
+*BRO:	good good delicious apple crust I think it was .
+%mor:	adj|good (1)adj|good (1)adj|delicious (1)n|apple n|crust pro:sub|I v|think
+	pro:per|it cop|be&PAST&13S .
+----------------------------------------
+*** File "paumt7.cha": line 1797.
+*BRO:	and <the [/] the &+se [//] the second> [//] that's the first spare tire he had to go to his dad to tow it .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the (1)adj|first (1)adj|spare
+	(1)n|tire pro:sub|he v|have&PAST inf|to v|go prep|to det:poss|his n|dad
+	inf|to v|tow pro:per|it .
+
+    Strings matched 2 times
+
+From file <petmt7.cha>
+
+    Strings matched 0 times
+
+From file <rasmt7.cha>
+----------------------------------------
+*** File "rasmt7.cha": line 365.
+*SI2:	<yummy yummy yummy yummy taste [?] xxx> [>] .
+%mor:	adj|yum&dn-Y adj|yum&dn-Y (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|taste .
+----------------------------------------
+*** File "rasmt7.cha": line 374.
+*SI2:	<yummy yummy> [>] yummy yummy tastes so fine .
+%mor:	adj|yum&dn-Y adj|yum&dn-Y (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|taste-PL
+	adv|so adv|fine .
+
+    Strings matched 2 times
+
+From file <raumt7.cha>
+
+    Strings matched 0 times
+
+From file <rilmt7.cha>
+
+    Strings matched 0 times
+
+From file <rosmt7.cha>
+
+    Strings matched 0 times
+
+From file <sarmt7.cha>
+
+    Strings matched 0 times
+
+From file <stnmt7.cha>
+
+    Strings matched 0 times
+
+From file <susmt7.cha>
+
+    Strings matched 0 times
+
+From file <todmt7.cha>
+----------------------------------------
+*** File "todmt7.cha": line 493.
+*SIS:	who'd wanna scare little scrawny Rascal was .
+%mor:	pro:rel|who~mod|genmod v|want~inf|to v|scare (1)adj|little (1)adj|scrawny
+	(1)n:prop|Rascal cop|be&PAST&13S .
+
+    Strings matched 1 times
+
+From file <tommt7.cha>
+----------------------------------------
+*** File "tommt7.cha": line 1374.
+*MOT:	well you know the story with Mike McTye honey and he's gonna [: going to] have those kinda [: kind of] weird little outbursts .
+%mor:	adv|well pro:per|you v|know det:art|the n|story prep|with
+	n:prop|Mike n:prop|McTye n|honey coord|and pro:sub|he~aux|be&3S
+	part|go-PRESP inf|to v|have det:dem|those adj|kind prep|of (1)adj|weird
+	(1)adj|little (1)n|outburst-PL .
+
+    Strings matched 1 times
+
+From file <trimt7.cha>
+
+    Strings matched 0 times
+
+From file <vicmt7.cha>
+----------------------------------------
+*** File "vicmt7.cha": line 286.
+*SIS:	did you see the little black puppy I liked ?
+%mor:	v|do&PAST pro:per|you v|see det:art|the (1)adj|little (1)adj|black
+	(1)n|puppy pro:sub|I v|like-PAST ?
+----------------------------------------
+*** File "vicmt7.cha": line 294.
+*MOT:	<cute [?] little puppies> [<] ?
+%mor:	(1)adj|cute (1)adj|little (1)n|puppy-PL ?
+
+    Strings matched 2 times
+
+From file <zanmt7.cha>
+
+    Strings matched 0 times
+

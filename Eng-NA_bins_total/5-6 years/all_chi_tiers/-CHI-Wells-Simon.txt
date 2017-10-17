@@ -1,0 +1,50 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:14:26 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <simon02.cha>
+
+    Strings matched 0 times
+
+From file <simon03.cha>
+
+    Strings matched 0 times
+
+From file <simon04.cha>
+
+    Strings matched 0 times
+
+From file <simon05.cha>
+
+    Strings matched 0 times
+
+From file <simon06.cha>
+
+    Strings matched 0 times
+
+From file <simon07.cha>
+
+    Strings matched 0 times
+
+From file <simon08.cha>
+
+    Strings matched 0 times
+
+From file <simon09.cha>
+----------------------------------------
+*** File "simon09.cha": line 86.
+*SUS:	little innocent chops (2.) .
+%mor:	(1)adj|little (1)adj|innocent (1)n|chop-PL .
+----------------------------------------
+*** File "simon09.cha": line 89.
+*SUS:	little innocent chops (37.) .
+%mor:	(1)adj|little (1)adj|innocent (1)n|chop-PL .
+
+    Strings matched 2 times
+
+From file <simon10.cha>
+
+    Strings matched 0 times
+

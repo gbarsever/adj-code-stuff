@@ -1,0 +1,426 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:11:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <al12.cha>
+----------------------------------------
+*** File "al12.cha": line 83.
+*MOT:	that's a pretty cool phone „ isn't it . %snd:"al12"_61503_64946
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|cool (1)n|phone
+	end|end cop|be&3S~neg|not pro:per|it .
+
+    Strings matched 1 times
+
+From file <cb06.cha>
+
+    Strings matched 0 times
+
+From file <cb09.cha>
+----------------------------------------
+*** File "cb09.cha": line 369.
+*MOT:	we're out_of animals except for this funny little (.) little (.)
+	penguin . %snd:"cb09"_525896_533768
+%mor:	pro:sub|we~cop|be&PRES prep|out_of n|animal-PL prep|except prep|for
+	pro:dem|this adj|fun&dn-Y (1)adj|little (1)adj|little (1)n|penguin .
+----------------------------------------
+*** File "cb09.cha": line 985.
+*MOT:	this will make loud noises like Mot [= mommy's] little back
+	massager at home that you were banging ag(a)inst the . %snd:"cb09"_775350_781591
+%mor:	pro:dem|this mod|will v|make adj|loud n|noise-PL co|like n:prop|Mot
+	(1)adj|little (1)adj|back (1)n|massage&dv-AGT prep|at n|home pro:rel|that
+	pro:per|you aux|be&PAST part|bang-PRESP prep|against det:art|the .
+
+    Strings matched 2 times
+
+From file <cb12.cha>
+
+    Strings matched 0 times
+
+From file <cc09.cha>
+
+    Strings matched 0 times
+
+From file <cc12.cha>
+----------------------------------------
+*** File "cc12.cha": line 1102.
+*MOT:	persistent little devil those are no+nos . %snd:"cc12"_1151288_1153756
+%mor:	(1)adj|persistent (1)adj|little (1)n|devil pro:dem|those cop|be&PRES
+	n|+n|no+n|no-PL .
+
+    Strings matched 1 times
+
+From file <ch06.cha>
+----------------------------------------
+*** File "ch06.cha": line 34.
+*MOT:	you ol(d) silly boy . %snd:"ch06"_21810_24772
+%mor:	pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "ch06.cha": line 37.
+*MOT:	you ol(d) silly boy . %snd:"ch06"_24773_26253
+%mor:	pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "ch06.cha": line 559.
+*MOT:	Chi you old silly boy . %snd:"ch06"_295586_298755
+%mor:	n:prop|Chi pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+
+    Strings matched 3 times
+
+From file <ch09.cha>
+
+    Strings matched 0 times
+
+From file <ch12.cha>
+
+    Strings matched 0 times
+
+From file <ck12.cha>
+
+    Strings matched 0 times
+
+From file <cm12.cha>
+
+    Strings matched 0 times
+
+From file <cr12.cha>
+
+    Strings matched 0 times
+
+From file <cy06.cha>
+----------------------------------------
+*** File "cy06.cha": line 33.
+*MOT:	you ol(d) silly boy . %snd:"cy06"_197783_200870
+%mor:	pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "cy06.cha": line 36.
+*MOT:	you ol(d) silly boy . %snd:"cy06"_200870_202511
+%mor:	pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "cy06.cha": line 591.
+*MOT:	Chi you old silly boy . %snd:"cy06"_753100_756120
+%mor:	n:prop|Chi pro:per|you (1)adj|old (1)adj|silly (1)n|boy .
+
+    Strings matched 3 times
+
+From file <cy09.cha>
+
+    Strings matched 0 times
+
+From file <cy12.cha>
+
+    Strings matched 0 times
+
+From file <di06.cha>
+----------------------------------------
+*** File "di06.cha": line 502.
+*MOT:	oh I here a fun noisy toy in there . %snd:"di06"_801586_804957
+%mor:	co|oh pro:sub|I adv|here det:art|a (1)adj|fun (1)adj|noise&dn-Y (1)n|toy
+	prep|in adv|there .
+----------------------------------------
+*** File "di06.cha": line 1271.
+*MOT:	look at the big red nose . %snd:"di06"_1135564_1136488
+%mor:	cop|look prep|at det:art|the (1)adj|big (1)adj|red (1)n|nose .
+
+    Strings matched 2 times
+
+From file <di09.cha>
+----------------------------------------
+*** File "di09.cha": line 203.
+*MOT:	red orange yellow . %snd:"di09"_462493_464173
+%mor:	(1)adj|red (1)adj|orange (1)n|yellow .
+----------------------------------------
+*** File "di09.cha": line 544.
+*MOT:	it's like a clown with a big red nose . %snd:"di09"_579481_581981
+%mor:	pro:per|it~cop|be&3S conj|like det:art|a n|clown prep|with
+	det:art|a (1)adj|big (1)adj|red (1)n|nose .
+----------------------------------------
+*** File "di09.cha": line 1727.
+*MOT:	&-uh huh that tastes real good mom mmmm@o . %snd:"di09"_1039091_1044741
+%mor:	co|huh pro:rel|that v|taste-3S (1)adj|real (1)adj|good (1)n|mom on|mmmm .
+----------------------------------------
+*** File "di09.cha": line 2008.
+*MOT:	she's easier to hold that that big old Big_Bird . %snd:"di09"_1168953_1171046
+%mor:	pro:sub|she~aux|be&3S adj|ease&dn-Y-CP inf|to v|hold pro:rel|that
+	pro:dem|that (1)adj|big (1)adj|old (1)n:prop|Big_Bird .
+----------------------------------------
+*** File "di09.cha": line 2133.
+*MOT:	that that small smaller end +//. %snd:"di09"_1227791_1229358
+%mor:	pro:rel|that pro:dem|that (1)adj|small (1)adj|small-CP (1)n|end +//.
+
+    Strings matched 5 times
+
+From file <di12.cha>
+----------------------------------------
+*** File "di12.cha": line 1130.
+*MOT:	shall we have our own little band ? %snd:"di12"_688765_690173
+%mor:	mod|shall pro:sub|we v|have det:poss|our (1)adj|own (1)adj|little (1)n|band
+	?
+----------------------------------------
+*** File "di12.cha": line 1989.
+*MOT:	ye(a)h (.) lots_of pretty big circles . %snd:"di12"_918821_920750
+%mor:	co|yeah qn|lots_of (1)adj|pretty (1)adj|big (1)n|circle-PL .
+----------------------------------------
+*** File "di12.cha": line 2309.
+*MOT:	red orange yellow green blue . %snd:"di12"_985798_990275
+%mor:	adj|red adj|orange (1)adj|yellow (1)adj|green (1)n|blue .
+----------------------------------------
+*** File "di12.cha": line 3114.
+*MOT:	happy happy family . %snd:"di12"_1187788_1189905
+%mor:	(1)adj|happy (1)adj|happy (1)n|family .
+
+    Strings matched 4 times
+
+From file <ds06.cha>
+
+    Strings matched 0 times
+
+From file <ds09.cha>
+
+    Strings matched 0 times
+
+From file <ds12.cha>
+
+    Strings matched 0 times
+
+From file <gb09.cha>
+
+    Strings matched 0 times
+
+From file <gb12.cha>
+
+    Strings matched 0 times
+
+From file <hc06.cha>
+
+    Strings matched 0 times
+
+From file <hc09.cha>
+
+    Strings matched 0 times
+
+From file <hc12.cha>
+
+    Strings matched 0 times
+
+From file <hp09.cha>
+
+    Strings matched 0 times
+
+From file <hp12.cha>
+
+    Strings matched 0 times
+
+From file <im06.cha>
+----------------------------------------
+*** File "im06.cha": line 365.
+*MOT:	that's a pretty great toy isn't it . %snd:"im06"_543015_549848
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|great (1)n|toy
+	cop|be&3S~neg|not pro:per|it .
+
+    Strings matched 1 times
+
+From file <im09.cha>
+
+    Strings matched 0 times
+
+From file <im12.cha>
+----------------------------------------
+*** File "im12.cha": line 300.
+*MOT:	look at those little blue balls . %snd:"im12"_329540_331250
+%mor:	cop|look prep|at pro:dem|those (1)adj|little (1)adj|blue (1)n|ball-PL .
+----------------------------------------
+*** File "im12.cha": line 1220.
+*MOT:	there's a nice big bird . %snd:"im12"_651506_652368
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|bird .
+
+    Strings matched 2 times
+
+From file <jp09.cha>
+
+    Strings matched 0 times
+
+From file <jp12.cha>
+
+    Strings matched 0 times
+
+From file <jw03.cha>
+
+    Strings matched 0 times
+
+From file <jw06.cha>
+
+    Strings matched 0 times
+
+From file <jw09.cha>
+----------------------------------------
+*** File "jw09.cha": line 379.
+*MOT:	0 [=! singing] the itsy bitsy birdie was sneaking up on Chi . %snd:"jw09"_570095_573218
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|bird-DIM aux|be&PAST&13S
+	part|sneak-PRESP adv|up prep|on n:prop|Chi .
+----------------------------------------
+*** File "jw09.cha": line 1110.
+*MOT:	oh is that a pretty yellow color . %snd:"jw09"_928791_931246
+%mor:	co|oh cop|be&3S pro:rel|that det:art|a (1)adj|pretty (1)adj|yellow
+	(1)n|color .
+----------------------------------------
+*** File "jw09.cha": line 1267.
+*MOT:	that's a pretty cool toy . %snd:"jw09"_1056740_1059001
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|cool (1)n|toy .
+
+    Strings matched 3 times
+
+From file <jw12a.cha>
+
+    Strings matched 0 times
+
+From file <ma09.cha>
+
+    Strings matched 0 times
+
+From file <ma12.cha>
+
+    Strings matched 0 times
+
+From file <me03.cha>
+
+    Strings matched 0 times
+
+From file <me06.cha>
+
+    Strings matched 0 times
+
+From file <me09.cha>
+----------------------------------------
+*** File "me09.cha": line 2629.
+*MOT:	big old nose xxx left kleenex in your mouth .
+%mor:	(1)adj|big (1)adj|old (1)n|nose v|leave&PAST n|kleenex prep|in det:poss|your
+	n|mouth .
+
+    Strings matched 1 times
+
+From file <me12.cha>
+----------------------------------------
+*** File "me12.cha": line 1769.
+*MOT:	you want to do chubby little snowman ? %snd:"me12"_526120_527905
+%mor:	pro:per|you v|want inf|to v|do (1)adj|chubby (1)adj|little
+	(1)n|+n|snow+n|man ?
+----------------------------------------
+*** File "me12.cha": line 1777.
+*MOT:	let's do chubby little snowman . %snd:"me12"_527905_529178
+%mor:	v|let~pro:obj|us v|do (1)adj|chubby (1)adj|little (1)n|+n|snow+n|man .
+----------------------------------------
+*** File "me12.cha": line 1787.
+*MOT:	chubby little snowman . %snd:"me12"_529555_532383
+%mor:	(1)adj|chubby (1)adj|little (1)n|+n|snow+n|man .
+----------------------------------------
+*** File "me12.cha": line 1815.
+*MOT:	that hungry little bunny . %snd:"me12"_539698_542618
+%mor:	pro:dem|that (1)adj|hungry (1)adj|little (1)n|bunny .
+
+    Strings matched 4 times
+
+From file <nb06.cha>
+
+    Strings matched 0 times
+
+From file <nb09.cha>
+
+    Strings matched 0 times
+
+From file <nb12.cha>
+
+    Strings matched 0 times
+
+From file <st09.cha>
+
+    Strings matched 0 times
+
+From file <st12.cha>
+
+    Strings matched 0 times
+
+From file <sw06.cha>
+----------------------------------------
+*** File "sw06.cha": line 345.
+*MOT:	it's a pretty little dollie . %snd:"sw06"_311230_313668
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll-DIM .
+----------------------------------------
+*** File "sw06.cha": line 348.
+*MOT:	it's a pretty little dollie ,, huh . %snd:"sw06"_313668_316445
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll-DIM
+	cm|cm cm|cm co|huh .
+----------------------------------------
+*** File "sw06.cha": line 353.
+*MOT:	she's a nice little dollie . %snd:"sw06"_316445_319513
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|doll-DIM .
+
+    Strings matched 3 times
+
+From file <sw09.cha>
+----------------------------------------
+*** File "sw09.cha": line 64.
+*MOT:	and I think you're a cute little boy .
+%mor:	coord|and pro:sub|I v|think pro:per|you~aux|be&PRES det:art|a
+	(1)adj|cute (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <sw12.cha>
+
+    Strings matched 0 times
+
+From file <sx06.cha>
+----------------------------------------
+*** File "sx06.cha": line 421.
+*MOT:	it's a pretty little dollie . %snd:"sx06"_492240_494970
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll-DIM .
+----------------------------------------
+*** File "sx06.cha": line 424.
+*MOT:	it's a pretty little dollie „ huh . %snd:"sx06"_494970_497996
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll-DIM
+	end|end co|huh .
+----------------------------------------
+*** File "sx06.cha": line 429.
+*MOT:	she's a nice little dollie . %snd:"sx06"_497996_501066
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|doll-DIM .
+
+    Strings matched 3 times
+
+From file <sx09.cha>
+----------------------------------------
+*** File "sx09.cha": line 65.
+*MOT:	and I think you're a cute little boy . %snd:"sx09"_156768_161173
+%mor:	coord|and pro:sub|I v|think pro:per|you~aux|be&PRES det:art|a
+	(1)adj|cute (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <sx12.cha>
+
+    Strings matched 0 times
+
+From file <te06.cha>
+
+    Strings matched 0 times
+
+From file <te09.cha>
+
+    Strings matched 0 times
+
+From file <te12.cha>
+
+    Strings matched 0 times
+
+From file <tt12.cha>
+
+    Strings matched 0 times
+
+From file <zm09.cha>
+
+    Strings matched 0 times
+
+From file <zm12.cha>
+
+    Strings matched 0 times
+

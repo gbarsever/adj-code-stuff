@@ -1,0 +1,35 @@
+combo +t%mor +t*CHI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:07:52 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/beth.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/beth.cha": line 203.
+*CHI:	very good little elephant .
+%mor:	adv|very (1)adj|good (1)adj|little (1)n|elephant .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 149.
+*CHI:	on the good ol(d) boys , and xxx find that page .
+%mor:	prep|on det:art|the (1)adj|good (1)adj|old (1)n|boy-PL cm|cm coord|and
+	v|find pro:dem|that n|page .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 330.
+*CHI:	a dear little jacket .
+%mor:	det:art|a (1)adj|dear (1)adj|little (1)n|jacket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 1749.
+*CHI:	small back wheel .
+%mor:	(1)adj|small (1)adj|back (1)n|wheel .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/mary.cha>
+
+    Strings matched 0 times
+

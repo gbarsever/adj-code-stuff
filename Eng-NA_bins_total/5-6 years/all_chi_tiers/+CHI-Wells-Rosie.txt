@@ -1,0 +1,50 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:13:37 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rosie02.cha>
+
+    Strings matched 0 times
+
+From file <rosie03.cha>
+
+    Strings matched 0 times
+
+From file <rosie04.cha>
+
+    Strings matched 0 times
+
+From file <rosie05.cha>
+
+    Strings matched 0 times
+
+From file <rosie06.cha>
+
+    Strings matched 0 times
+
+From file <rosie07.cha>
+
+    Strings matched 0 times
+
+From file <rosie08.cha>
+----------------------------------------
+*** File "rosie08.cha": line 875.
+*CHI:	nice little dog .
+%mor:	(1)adj|nice (1)adj|little (1)n|dog .
+
+    Strings matched 1 times
+
+From file <rosie09.cha>
+----------------------------------------
+*** File "rosie09.cha": line 350.
+*CHI:	nice little dog .
+%mor:	(1)adj|nice (1)adj|little (1)n|dog .
+
+    Strings matched 1 times
+
+From file <rosie10.cha>
+
+    Strings matched 0 times
+

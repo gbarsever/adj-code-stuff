@@ -1,0 +1,103 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:16:09 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew01.cha": line 4091.
+*MOT:	she has little tiny underwear .
+%mor:	pro:sub|she aux|have&3S (1)adj|little (1)adj|tiny (1)n|underwear .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew02.cha": line 3241.
+*SIB:	it's Kate's mean real dog .
+%mor:	pro:per|it~aux|be&3S n:prop|Kate~poss|s (1)adj|mean (1)adj|real (1)n|dog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew02.cha": line 4047.
+*MOT:	Oscar that old grouchy Oscar and a bear .
+%mor:	n:prop|Oscar pro:rel|that (1)adj|old (1)adj|grouch&dn-Y (1)n:prop|Oscar
+	coord|and det:art|a n|bear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Lew/lew02.cha": line 4314.
+*MOT:	grouchy grouchy grouchy Oscar .
+%mor:	adj|grouch&dn-Y (1)adj|grouch&dn-Y (1)adj|grouch&dn-Y (1)n:prop|Oscar .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she01.cha": line 2480.
+*MOT:	+" they went out to play a bright red ball .
+%mor:	pro:sub|they v|go&PAST adv|out inf|to v|play det:art|a (1)adj|bright
+	(1)adj|red (1)n|ball .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she02.cha": line 1811.
+*MOT:	pink brown yellow grey purple red green white blue orange .
+%mor:	(1)adj|pink (1)adj|brown (1)n|yellow adj|grey n|purple adj|red n|green
+	n|white n|blue n|orange .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she05.cha": line 1032.
+*SIB:	yeah them are big ol(d) frogs is in there .
+%mor:	co|yeah pro:obj|them aux|be&PRES (1)adj|big (1)adj|old (1)n|frog-PL
+	cop|be&3S prep|in adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/She/she05.cha": line 1037.
+*SIB:	there's a big ol(d) frog there's a big ol(d) frog .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|frog
+	pro:exist|there~cop|be&3S det:art|a (2)adj|big (2)adj|old (2)n|frog .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow04.cha": line 4868.
+*MOT:	+" time to freshen up see how pretty you look with your brand new
+	hair ribbon .
+%mor:	n|time inf|to v|freshen adv|up co|see adv:int|how adv|pretty
+	pro:per|you cop|look prep|with det:poss|your (1)adj|brand (1)adj|new
+	(1)n|hair n|ribbon .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Post/Tow/tow05.cha": line 76.
+*MOT:	say it's a real tall building then you make it long &-er .
+%mor:	co|say pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|tall (1)n|building
+	adv:tem|then pro:per|you v|make pro:per|it adv|long .
+
+    Strings matched 1 times
+

@@ -1,0 +1,80 @@
+combo +t%mor +t*CHI +t*ISA +t*JOA +t*HAN +t*EMI +t*ROB +t*NIC +t*SHE +t*SAR +t*DAN +t*SHA +t*STE +t*PAU +t*STP +t*MAT +t*ANN +t*JAS +t*STU +t*REN +t*NEG +t*CLA +t*DOR +t*MIC +t*JOH +t*TRA +t*GEO +t*ANT +t*JAN +t*IAN +t*JUL +t*SIM +t*AND +t*NEI +t*JUS +t*DUS +t*MAR +t*LIS +t*ADA +t*CHR +t*CAT +t*KAT +t*NAO +t*TIN +t*FRA +t*LOU +t*FAY +t*KAY +t*TER +t*KIM +t*KER +t*KEL +t*DAL +t*LEE +t*SAL +t*RAC +t*DAV +t*PAT +t*DON +t*CAR +t*HAZ +t*AMA +t*DEA +t*ELA +t*OTH +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:08:42 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *ISA; *JOA; *HAN; *EMI; *ROB; *NIC; *SHE; *SAR; *DAN; *SHA; *STE; *PAU; *STP; *MAT; *ANN; *JAS; *STU; *REN; *NEG; *CLA; *DOR; *MIC; *JOH; *TRA; *GEO; *ANT; *JAN; *IAN; *JUL; *SIM; *AND; *NEI; *JUS; *DUS; *MAR; *LIS; *ADA; *CHR; *CAT; *KAT; *NAO; *TIN; *FRA; *LOU; *FAY; *KAY; *TER; *KIM; *KER; *KEL; *DAL; *LEE; *SAL; *RAC; *DAV; *PAT; *DON; *CAR; *HAZ; *AMA; *DEA; *ELA; *OTH;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Abigail/abigai21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Betty/betty21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Darren/darren21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Darren/darren21.cha": line 2372.
+*CHI:	but we seen a big big boy with a fatty tummy didn't we Ma ?
+%mor:	conj|but pro:sub|we part|see&PASTP det:art|a (1)adj|big (1)adj|big (1)n|boy
+	prep|with det:art|a adj|fat-Y n|tummy mod|do&PAST~neg|not pro:sub|we
+	n:prop|Ma ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Ellen/ellen21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Ellen/ellen21.cha": line 2571.
+*CHI:	a nice cheesy omelette .
+%mor:	det:art|a (1)adj|nice (1)adj|cheese&dn-Y (1)n|omelette .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Frances/frances21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gary/gary21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gavin/gavin21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gerald/gerald21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Harriet/harrie21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Harriet/harrie21.cha": line 1150.
+*CHI:	and those are and those are and those are little crispy things what
+	I made .
+%mor:	coord|and pro:dem|those cop|be&PRES coord|and pro:dem|those
+	cop|be&PRES coord|and pro:dem|those cop|be&PRES (1)adj|little
+	(1)adj|crisp-Y (1)n|thing-PL pro:int|what pro:sub|I v|make&PAST .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Iris/iris21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jack/jack21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jonathan/jonath21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jonathan/jonath21.cha": line 53.
+*CHI:	was it a <real reward> [/] real real reward he collected ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|real (1)adj|real (1)n|reward
+	pro:sub|he v|collect-PAST ?
+
+    Strings matched 1 times
+

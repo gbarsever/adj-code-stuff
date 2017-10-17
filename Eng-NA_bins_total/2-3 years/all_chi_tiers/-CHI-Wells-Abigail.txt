@@ -1,0 +1,102 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:06:29 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <abigai02.cha>
+
+    Strings matched 0 times
+
+From file <abigai03.cha>
+
+    Strings matched 0 times
+
+From file <abigai04.cha>
+----------------------------------------
+*** File "abigai04.cha": line 711.
+*REB:	three little piglets funny old nose .
+%mor:	det:num|three adj|little n|piglet-PL (1)adj|fun&dn-Y (1)adj|old (1)n|nose .
+
+    Strings matched 1 times
+
+From file <abigai05.cha>
+----------------------------------------
+*** File "abigai05.cha": line 330.
+*LOU:	wee wee bang bang (9.) .
+%mor:	(1)adj|wee (1)adj|wee (1)n|bang n|bang .
+
+    Strings matched 1 times
+
+From file <abigai06.cha>
+----------------------------------------
+*** File "abigai06.cha": line 43.
+*LOU:	dear old Ab .
+%mor:	(1)adj|dear (1)adj|old (1)n:prop|Ab .
+----------------------------------------
+*** File "abigai06.cha": line 1383.
+*MOT:	you funny old thing (2.) .
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|old (1)n|thing .
+
+    Strings matched 2 times
+
+From file <abigai07.cha>
+----------------------------------------
+*** File "abigai07.cha": line 392.
+*REB:	nice little shoes on then .
+%mor:	(1)adj|nice (1)adj|little (1)n|shoe-PL adv|on adv:tem|then .
+----------------------------------------
+*** File "abigai07.cha": line 522.
+*LOU:	you did a nice little pussy cat at school or nursery once .
+%mor:	pro:per|you v|do&PAST det:art|a (1)adj|nice (1)adj|little (1)n|pussy n|cat
+	prep|at n|school coord|or n|nursery adv|once .
+
+    Strings matched 2 times
+
+From file <abigai08.cha>
+----------------------------------------
+*** File "abigai08.cha": line 113.
+*MOT:	putting the big new beds xxx (4.) .
+%mor:	part|put-PRESP det:art|the (1)adj|big (1)adj|new (1)n|bed-PL .
+----------------------------------------
+*** File "abigai08.cha": line 481.
+*MOT:	and it's in a really nice fishy sauce .
+%mor:	coord|and pro:per|it~cop|be&3S prep|in det:art|a adv|real&dadj-LY
+	(1)adj|nice (1)adj|fish&dn-Y (1)n|sauce .
+
+    Strings matched 2 times
+
+From file <abigai09.cha>
+----------------------------------------
+*** File "abigai09.cha": line 751.
+*MOT:	because this makes lovely frothy meringue .
+%mor:	conj|because pro:dem|this v|make-3S (1)adj|love&dn-LY (1)adj|froth&dn-Y
+	(1)n|meringue .
+
+    Strings matched 1 times
+
+From file <abigai10.cha>
+----------------------------------------
+*** File "abigai10.cha": line 380.
+*MOT:	Corky brought her a pretty green garden snake .
+%mor:	n:prop|Corky v|bring&PAST pro:obj|her det:art|a (1)adj|pretty
+	(1)adj|green (1)n|garden n|snake .
+----------------------------------------
+*** File "abigai10.cha": line 912.
+*MOT:	have you seen Abby's very smart new recording department ?
+%mor:	v|have pro:per|you part|see&PASTP n:prop|Abby~aux|be&3S adv|very
+	(1)adj|smart (1)adj|new (1)n:gerund|record-PRESP n|department ?
+
+    Strings matched 2 times
+
+From file <abigai21.cha>
+----------------------------------------
+*** File "abigai21.cha": line 232.
+*MOT:	are you going to give one of your nice little books to school when
+	she leaves ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|give det:num|one
+	prep|of det:poss|your (1)adj|nice (1)adj|little (1)n|book-PL prep|to n|school
+	conj|when pro:sub|she v|leave-3S ?
+
+    Strings matched 1 times
+

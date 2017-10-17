@@ -1,0 +1,99 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:47:34 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <barb01.cha>
+
+    Strings matched 0 times
+
+From file <barb02.cha>
+
+    Strings matched 0 times
+
+From file <barb03.cha>
+----------------------------------------
+*** File "barb03.cha": line 3045.
+*CHI:	eensie weensie spider climbs up the drain[?] that's xxx .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider v|climb-3S prep|up det:art|the
+	n|drain pro:rel|that~aux|be&3S .
+
+    Strings matched 1 times
+
+From file <barb04.cha>
+----------------------------------------
+*** File "barb04.cha": line 4191.
+*CHI:	light (.) light (.) light (.) happy birthday .
+%mor:	adj|light adj|light (1)adj|light (1)adj|happy (1)n|+n|birth+n|day .
+
+    Strings matched 1 times
+
+From file <barb06.cha>
+
+    Strings matched 0 times
+
+From file <barb07.cha>
+
+    Strings matched 0 times
+
+From file <barb08.cha>
+----------------------------------------
+*** File "barb08.cha": line 78.
+*CHI:	the big big high school .
+%mor:	det:art|the adj|big (1)adj|big (1)adj|high (1)n|school .
+
+    Strings matched 1 times
+
+From file <barb09.cha>
+----------------------------------------
+*** File "barb09.cha": line 765.
+*CHI:	it's just cold stuff for a while .
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|cold (1)n|stuff prep|for det:art|a
+	n|while .
+
+    Strings matched 1 times
+
+From file <barb10.cha>
+
+    Strings matched 0 times
+
+From file <barb11.cha>
+----------------------------------------
+*** File "barb11.cha": line 212.
+*CHI:	he has a big fat head [=! laughs] .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|fat (1)n|head .
+
+    Strings matched 1 times
+
+From file <barb12.cha>
+----------------------------------------
+*** File "barb12.cha": line 1455.
+*CHI:	they were makin(g) an awful awful awful mess .
+%mor:	pro:sub|they aux|be&PAST part|make-PRESP det:art|a adj|awful
+	(1)adj|awful (1)adj|awful (1)n|mess .
+
+    Strings matched 1 times
+
+From file <barb13.cha>
+----------------------------------------
+*** File "barb13.cha": line 369.
+*CHI:	jumpy jumpy jump (.) hoppy hoppy hoppy !
+%mor:	(1)adj|jump&dv-Y (1)adj|jump&dv-Y (1)n|jump adj|hop&dv-Y adj|hop&dv-Y
+	adj|hop&dv-Y !
+
+    Strings matched 1 times
+
+From file <barb14.cha>
+----------------------------------------
+*** File "barb14.cha": line 2831.
+*CHI:	floppy floppy floppy floppy flop flop flop flop flop !
+%mor:	adj|flop&dv-Y adj|flop&dv-Y (1)adj|flop&dv-Y (1)adj|flop&dv-Y (1)n|flop
+	n|flop n|flop n|flop n|flop !
+
+    Strings matched 1 times
+
+From file <barb15.cha>
+
+    Strings matched 0 times
+

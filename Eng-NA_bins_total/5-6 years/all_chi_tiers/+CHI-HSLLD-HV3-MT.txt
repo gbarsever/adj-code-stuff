@@ -1,0 +1,310 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:33:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admmt3.cha>
+----------------------------------------
+*** File "admmt3.cha": line 1762.
+*CHI:	my old [!] big Mama .
+%mor:	det:poss|my (1)adj|old (1)adj|big (1)n:prop|Mama .
+
+    Strings matched 1 times
+
+From file <alimt3.cha>
+
+    Strings matched 0 times
+
+From file <allmt3.cha>
+
+    Strings matched 0 times
+
+From file <anamt3.cha>
+----------------------------------------
+*** File "anamt3.cha": line 192.
+*CHI:	she's a bad bad bad girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a adj|bad (1)adj|bad (1)adj|bad (1)n|girl .
+
+    Strings matched 1 times
+
+From file <annmt3.cha>
+
+    Strings matched 0 times
+
+From file <aprmt3.cha>
+
+    Strings matched 0 times
+
+From file <astmt3.cha>
+
+    Strings matched 0 times
+
+From file <bobmt3.cha>
+
+    Strings matched 0 times
+
+From file <bramt3.cha>
+
+    Strings matched 0 times
+
+From file <brimt3.cha>
+----------------------------------------
+*** File "brimt3.cha": line 1481.
+*CHI:	<I'm not doing one side xxx whole John Hancock> [<] .
+%mor:	pro:sub|I~cop|be&1S neg|not part|do-PRESP pro:indef|one (1)adj|side
+	(1)adj|whole (1)n:prop|John n:prop|Hancock .
+
+    Strings matched 1 times
+
+From file <brnmt3.cha>
+
+    Strings matched 0 times
+
+From file <brtmt3.cha>
+
+    Strings matched 0 times
+
+From file <casmt3.cha>
+
+    Strings matched 0 times
+
+From file <catmt3.cha>
+----------------------------------------
+*** File "catmt3.cha": line 416.
+*CHI:	(.) everybody in my whole whole family is fucking [?] good .
+%mor:	pro:indef|everybody prep|in det:poss|my (1)adj|whole (1)adj|whole
+	(1)n|family aux|be&3S part|fuck-PRESP adj|good .
+
+    Strings matched 1 times
+
+From file <conmt3.cha>
+
+    Strings matched 0 times
+
+From file <davmt3.cha>
+
+    Strings matched 0 times
+
+From file <deamt3.cha>
+----------------------------------------
+*** File "deamt3.cha": line 276.
+*CHI:	put the wrong [!] wrong thing !
+%mor:	v|put&ZERO det:art|the (1)adj|wrong (1)adj|wrong (1)n|thing !
+
+    Strings matched 1 times
+
+From file <devmt3.cha>
+
+    Strings matched 0 times
+
+From file <diamt3.cha>
+
+    Strings matched 0 times
+
+From file <ethmt3.cha>
+
+    Strings matched 0 times
+
+From file <geomt3.cha>
+
+    Strings matched 0 times
+
+From file <guymt3.cha>
+
+    Strings matched 0 times
+
+From file <jammt3.cha>
+
+    Strings matched 0 times
+
+From file <jeamt3.cha>
+
+    Strings matched 0 times
+
+From file <jermt3.cha>
+
+    Strings matched 0 times
+
+From file <jesmt3.cha>
+----------------------------------------
+*** File "jesmt3.cha": line 484.
+*CHI:	(..) I'm being a real real good girl !
+%mor:	pro:sub|I~aux|be&1S n:gerund|be-PRESP det:art|a adj|real (1)adj|real
+	(1)adj|good (1)n|girl !
+
+    Strings matched 1 times
+
+From file <joemt3.cha>
+----------------------------------------
+*** File "joemt3.cha": line 20.
+*CHI:	no big red cups .
+%mor:	qn|no (1)adj|big (1)adj|red (1)n|cup-PL .
+
+    Strings matched 1 times
+
+From file <joymt3.cha>
+----------------------------------------
+*** File "joymt3.cha": line 346.
+*CHI:	just a little tiny bit more .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit pro:indef|more .
+
+    Strings matched 1 times
+
+From file <jusmt3.cha>
+
+    Strings matched 0 times
+
+From file <karmt3.cha>
+
+    Strings matched 0 times
+
+From file <kevmt3.cha>
+
+    Strings matched 0 times
+
+From file <kurmt3.cha>
+----------------------------------------
+*** File "kurmt3.cha": line 400.
+*CHI:	it was very old old chicken .
+%mor:	pro:per|it cop|be&PAST&13S adv|very (1)adj|old (1)adj|old (1)n|chicken .
+
+    Strings matched 1 times
+
+From file <maymt3.cha>
+----------------------------------------
+*** File "maymt3.cha": line 237.
+*CHI:	<I [<] I I> [/] I have three [!] sisters a long long time ago when I was a baby !
+%mor:	pro:sub|I v|have det:num|three n|sister-PL det:art|a (1)adj|long
+	(1)adj|long (1)n|time adv|ago conj|when pro:sub|I cop|be&PAST&13S
+	det:art|a n|baby !
+----------------------------------------
+*** File "maymt3.cha": line 476.
+*CHI:	yeah a long long time ago I did .
+%mor:	co|yeah det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago pro:sub|I
+	v|do&PAST .
+----------------------------------------
+*** File "maymt3.cha": line 925.
+*CHI:	a [<] big big dollar !
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|dollar !
+
+    Strings matched 3 times
+
+From file <megmt3.cha>
+
+    Strings matched 0 times
+
+From file <melmt3.cha>
+
+    Strings matched 0 times
+
+From file <monmt3.cha>
+
+    Strings matched 0 times
+
+From file <mormt3.cha>
+
+    Strings matched 0 times
+
+From file <paumt3.cha>
+----------------------------------------
+*** File "paumt3.cha": line 86.
+*CHI:	yeah they were putting new lights on and &-um they were taking (.) and xxx on (.) they were taking all that &-um <xxx xxx> [>] light bulb xxx and they put new &-um new xxx on the &+ce ceiling (.) they put new light bulbs and <&the> [//] they made a big huge mess .
+%mor:	co|yeah pro:sub|they aux|be&PAST part|put-PRESP adj|new n|light-PL
+	adv|on coord|and pro:sub|they aux|be&PAST part|take-PRESP coord|and
+	adv|on pro:sub|they aux|be&PAST part|take-PRESP qn|all pro:dem|that
+	n|light n|bulb coord|and pro:sub|they v|put&ZERO adj|new adj|new
+	prep|on det:art|the n|ceiling pro:sub|they v|put&ZERO (1)adj|new
+	(1)adj|light (1)n|bulb-PL coord|and pro:sub|they v|make&PAST det:art|a
+	(2)adj|big (2)adj|huge (2)n|mess .
+
+    Strings matched 2 times
+
+From file <raumt3.cha>
+
+    Strings matched 0 times
+
+From file <remmt3.cha>
+
+    Strings matched 0 times
+
+From file <rilmt3.cha>
+
+    Strings matched 0 times
+
+From file <rosmt3.cha>
+----------------------------------------
+*** File "rosmt3.cha": line 2113.
+*CHI:	you big old Garfield .
+%mor:	pro:per|you (1)adj|big (1)adj|old (1)n:prop|Garfield .
+
+    Strings matched 1 times
+
+From file <sarmt3.cha>
+----------------------------------------
+*** File "sarmt3.cha": line 2356.
+*CHI:	<all dressed in black (.) black (.) black> [=! singing] .
+%mor:	qn|all v|dress-PAST adv|in (1)adj|black (1)adj|black (1)n|black .
+
+    Strings matched 1 times
+
+From file <stnmt3.cha>
+----------------------------------------
+*** File "stnmt3.cha": line 666.
+*CHI:	it's a new hard bone .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|new (1)adj|hard (1)n|bone .
+
+    Strings matched 1 times
+
+From file <susmt3.cha>
+
+    Strings matched 0 times
+
+From file <termt3.cha>
+----------------------------------------
+*** File "termt3.cha": line 1067.
+*CHI:	a beautiful beautiful bowl [?] .
+%mor:	det:art|a (1)adj|beautiful (1)adj|beautiful (1)n|bowl .
+
+    Strings matched 1 times
+
+From file <todmt3.cha>
+----------------------------------------
+*** File "todmt3.cha": line 900.
+*CHI:	just [//] Sis just <kiss them back> [>] [/] just kiss them back they'll stop it .
+%mor:	n:prop|Sis (1)adj|just (1)adj|just (1)n|kiss pro:obj|them adv|back
+	pro:sub|they~mod|will v|stop pro:per|it .
+
+    Strings matched 1 times
+
+From file <tommt3.cha>
+
+    Strings matched 0 times
+
+From file <trimt3.cha>
+
+    Strings matched 0 times
+
+From file <vicmt3.cha>
+----------------------------------------
+*** File "vicmt3.cha": line 1762.
+*CHI:	one was <light pink> [>] one was red (.) dark [/] dark (.) pink .
+%mor:	pro:indef|one aux|be&PAST&13S adj|light adj|pink pro:indef|one
+	cop|be&PAST&13S (1)adj|red (1)adj|dark (1)n|pink .
+----------------------------------------
+*** File "vicmt3.cha": line 2166.
+*CHI:	and I put (.) big big huge teeth .
+%mor:	coord|and pro:sub|I v|put&ZERO adj|big (1)adj|big (1)adj|huge (1)n|tooth&PL
+	.
+----------------------------------------
+*** File "vicmt3.cha": line 2170.
+*CHI:	and large &-uh small (.) teeth like you [?] like this .
+%mor:	coord|and (1)adj|large (1)adj|small (1)n|tooth&PL v|like pro:per|you v|like
+	pro:dem|this .
+
+    Strings matched 3 times
+
+From file <zanmt3.cha>
+
+    Strings matched 0 times
+

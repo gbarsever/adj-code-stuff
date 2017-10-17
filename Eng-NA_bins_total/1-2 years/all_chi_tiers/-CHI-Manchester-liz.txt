@@ -1,0 +1,492 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:58:57 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <liz01a.cha>
+
+    Strings matched 0 times
+
+From file <liz01b.cha>
+
+    Strings matched 0 times
+
+From file <liz02a.cha>
+----------------------------------------
+*** File "liz02a.cha": line 327.
+*MOT:	and a little tiny doggy .
+%mor:	coord|and det:art|a (1)adj|little (1)adj|tiny (1)n|dog-DIM .
+----------------------------------------
+*** File "liz02a.cha": line 1162.
+*MOT:	great big ears .
+%mor:	(1)adj|great (1)adj|big (1)n|ear-PL .
+----------------------------------------
+*** File "liz02a.cha": line 1171.
+*MOT:	great big ears and little eyes .
+%mor:	(1)adj|great (1)adj|big (1)n|ear-PL coord|and adj|little n|eye-PL .
+----------------------------------------
+*** File "liz02a.cha": line 2018.
+*MOT:	little tufty hair .
+%mor:	(1)adj|little (1)adj|tuft&dn-Y (1)n|hair .
+
+    Strings matched 4 times
+
+From file <liz02b.cha>
+----------------------------------------
+*** File "liz02b.cha": line 1299.
+*MOT:	it's got a big bushy tail .
+%mor:	pro:per|it~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|bush&dn-Y
+	(1)n|tail .
+
+    Strings matched 1 times
+
+From file <liz03a.cha>
+
+    Strings matched 0 times
+
+From file <liz03b.cha>
+
+    Strings matched 0 times
+
+From file <liz04a.cha>
+
+    Strings matched 0 times
+
+From file <liz04b.cha>
+----------------------------------------
+*** File "liz04b.cha": line 722.
+*MOT:	I'm making a dead good cage look .
+%mor:	pro:sub|I~aux|be&1S part|make-PRESP det:art|a (1)adj|dead (1)adj|good
+	(1)n|cage co|look .
+
+    Strings matched 1 times
+
+From file <liz05a.cha>
+----------------------------------------
+*** File "liz05a.cha": line 91.
+*MOT:	and a funny little nose .
+%mor:	coord|and det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|nose .
+
+    Strings matched 1 times
+
+From file <liz05b.cha>
+
+    Strings matched 0 times
+
+From file <liz06a.cha>
+----------------------------------------
+*** File "liz06a.cha": line 629.
+*MOT:	that's a great big cow .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|cow .
+
+    Strings matched 1 times
+
+From file <liz06b.cha>
+
+    Strings matched 0 times
+
+From file <liz07a.cha>
+----------------------------------------
+*** File "liz07a.cha": line 764.
+*MOT:	that's the great big seesaw at the caravan , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|great (1)adj|big (1)n|seesaw
+	prep|at det:art|the n|caravan cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "liz07a.cha": line 1402.
+*MOT:	we could do eensie weensie spider .
+%mor:	pro:sub|we mod|could v|do (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "liz07a.cha": line 1408.
+*MOT:	do you want to do eensie weensie spider ?
+%mor:	mod|do pro:per|you v|want inf|to v|do (1)adj|eensie (1)adj|weensie
+	(1)n|spider ?
+----------------------------------------
+*** File "liz07a.cha": line 1597.
+*MOT:	shall we do eensie weensie spider ?
+%mor:	mod|shall pro:sub|we v|do (1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "liz07a.cha": line 1803.
+*MOT:	eensie weensie spider climbed up the spout .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up det:art|the
+	n|spout .
+----------------------------------------
+*** File "liz07a.cha": line 1854.
+*MOT:	and eensie weensie spider climbed up the spout again .
+%mor:	coord|and (1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up
+	det:art|the n|spout adv|again .
+
+    Strings matched 6 times
+
+From file <liz07b.cha>
+
+    Strings matched 0 times
+
+From file <liz08a.cha>
+
+    Strings matched 0 times
+
+From file <liz08b.cha>
+----------------------------------------
+*** File "liz08b.cha": line 1417.
+*MOT:	oh that was a big wee Liz .
+%mor:	co|oh pro:rel|that cop|be&PAST&13S det:art|a (1)adj|big (1)adj|wee
+	(1)n:prop|Liz .
+
+    Strings matched 1 times
+
+From file <liz09a.cha>
+
+    Strings matched 0 times
+
+From file <liz09b.cha>
+
+    Strings matched 0 times
+
+From file <liz10a.cha>
+
+    Strings matched 0 times
+
+From file <liz10b.cha>
+
+    Strings matched 0 times
+
+From file <liz11a.cha>
+----------------------------------------
+*** File "liz11a.cha": line 97.
+*MOT:	eensie weensie spider .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "liz11a.cha": line 1540.
+*MOT:	I'd better just move that envelope .
+%mor:	pro:sub|I~mod|genmod (1)adj|good&CP (1)adj|just (1)n|move pro:rel|that
+	n|envelope .
+
+    Strings matched 2 times
+
+From file <liz11b.cha>
+
+    Strings matched 0 times
+
+From file <liz12a.cha>
+
+    Strings matched 0 times
+
+From file <liz12b.cha>
+
+    Strings matched 0 times
+
+From file <liz13a.cha>
+----------------------------------------
+*** File "liz13a.cha": line 314.
+*MOT:	who came to watch the eensie weensie spider going up the spout .
+%mor:	pro:int|who v|come&PAST inf|to v|watch det:art|the (1)adj|eensie
+	(1)adj|weensie (1)n|spider part|go-PRESP prep|up det:art|the n|spout .
+
+    Strings matched 1 times
+
+From file <liz13b.cha>
+
+    Strings matched 0 times
+
+From file <liz14a.cha>
+----------------------------------------
+*** File "liz14a.cha": line 577.
+*MOT:	funny funny dog .
+%mor:	(1)adj|fun&dn-Y (1)adj|fun&dn-Y (1)n|dog .
+
+    Strings matched 1 times
+
+From file <liz14b.cha>
+
+    Strings matched 0 times
+
+From file <liz15a.cha>
+
+    Strings matched 0 times
+
+From file <liz15b.cha>
+
+    Strings matched 0 times
+
+From file <liz16a.cha>
+
+    Strings matched 0 times
+
+From file <liz16b.cha>
+----------------------------------------
+*** File "liz16b.cha": line 216.
+*MOT:	oh a free personal diary .
+%mor:	co|oh det:art|a (1)adj|free (1)adj|personal (1)n|diary .
+
+    Strings matched 1 times
+
+From file <liz17a.cha>
+----------------------------------------
+*** File "liz17a.cha": line 1512.
+*MOT:	white curly hair .
+%mor:	(1)adj|white (1)adj|curl&dv-Y (1)n|hair .
+
+    Strings matched 1 times
+
+From file <liz17b.cha>
+----------------------------------------
+*** File "liz17b.cha": line 1091.
+*MOT:	I'll put it on for you in a little little bit .
+%mor:	pro:sub|I~mod|will v|put&ZERO pro:per|it adv|on prep|for
+	pro:per|you prep|in det:art|a (1)adj|little (1)adj|little (1)n|bit .
+----------------------------------------
+*** File "liz17b.cha": line 1096.
+*MOT:	a little little bit okay ?
+%mor:	det:art|a (1)adj|little (1)adj|little (1)n|bit adj|okay ?
+
+    Strings matched 2 times
+
+From file <liz18a.cha>
+
+    Strings matched 0 times
+
+From file <liz18b.cha>
+----------------------------------------
+*** File "liz18b.cha": line 1547.
+*MOT:	a quacking duck with a bright yellow bill .
+%mor:	det:art|a part|quack-PRESP n|duck prep|with det:art|a (1)adj|bright
+	(1)adj|yellow (1)n|bill .
+----------------------------------------
+*** File "liz18b.cha": line 1552.
+*MOT:	a slow old turtle with a wrinkly neck .
+%mor:	det:art|a (1)adj|slow (1)adj|old (1)n|turtle prep|with det:art|a
+	adj|wrinkle&dn-Y n|neck .
+----------------------------------------
+*** File "liz18b.cha": line 1569.
+*MOT:	a busy brown beaver with a wide flat tail .
+%mor:	det:art|a (1)adj|busy (1)adj|brown (1)n|beaver prep|with det:art|a adj|wide
+	n|flat n|tail .
+
+    Strings matched 3 times
+
+From file <liz19a.cha>
+----------------------------------------
+*** File "liz19a.cha": line 1118.
+*MOT:	and the Daddy and the oldest little girl have gone on the train to
+	visit the Granddad , haven't they ?
+%mor:	coord|and det:art|the n:prop|Daddy coord|and det:art|the (1)adj|old-SP
+	(1)adj|little (1)n|girl aux|have part|go&PASTP prep|on det:art|the n|train
+	inf|to v|visit det:art|the n:prop|Granddad cm|cm aux|have~neg|not
+	pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <liz19b.cha>
+
+    Strings matched 0 times
+
+From file <liz20a.cha>
+----------------------------------------
+*** File "liz20a.cha": line 1191.
+*MOT:	and they have funny little feet , don't they like that ?
+%mor:	coord|and pro:sub|they v|have (1)adj|fun&dn-Y (1)adj|little (1)n|foot&PL
+	cm|cm mod|do~neg|not pro:sub|they co|like pro:dem|that ?
+
+    Strings matched 1 times
+
+From file <liz20b.cha>
+
+    Strings matched 0 times
+
+From file <liz21a.cha>
+
+    Strings matched 0 times
+
+From file <liz21b.cha>
+
+    Strings matched 0 times
+
+From file <liz22a.cha>
+
+    Strings matched 0 times
+
+From file <liz22b.cha>
+
+    Strings matched 0 times
+
+From file <liz23a.cha>
+
+    Strings matched 0 times
+
+From file <liz23b.cha>
+----------------------------------------
+*** File "liz23b.cha": line 1171.
+*MOT:	who put a nice squashy cushion in my chair ?
+%mor:	pro:int|who v|put&ZERO det:art|a (1)adj|nice (1)adj|squash&dv-Y (1)n|cushion
+	prep|in det:poss|my n|chair ?
+
+    Strings matched 1 times
+
+From file <liz24a.cha>
+----------------------------------------
+*** File "liz24a.cha": line 498.
+*MOT:	it's a great big chimney that .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|chimney
+	pro:dem|that .
+
+    Strings matched 1 times
+
+From file <liz24b.cha>
+----------------------------------------
+*** File "liz24b.cha": line 1080.
+*MOT:	eensie weensie spider climbed up the water spout .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up det:art|the
+	n|water n|spout .
+----------------------------------------
+*** File "liz24b.cha": line 1095.
+*MOT:	and the eensie weensie spider climbed up the spout again .
+%mor:	coord|and det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST
+	prep|up det:art|the n|spout adv|again .
+
+    Strings matched 2 times
+
+From file <liz25a.cha>
+----------------------------------------
+*** File "liz25a.cha": line 473.
+*MOT:	he's got a little white dot on his nose .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|little (1)adj|white
+	(1)n|dot prep|on det:poss|his n|nose .
+
+    Strings matched 1 times
+
+From file <liz25b.cha>
+
+    Strings matched 0 times
+
+From file <liz26a.cha>
+
+    Strings matched 0 times
+
+From file <liz26b.cha>
+
+    Strings matched 0 times
+
+From file <liz27a.cha>
+----------------------------------------
+*** File "liz27a.cha": line 1319.
+*MOT:	and a nice big smily mouth .
+%mor:	coord|and det:art|a adj|nice (1)adj|big (1)adj|smile&dv-Y (1)n|mouth .
+----------------------------------------
+*** File "liz27a.cha": line 1423.
+*MOT:	you've done a big black circle around you now .
+%mor:	pro:per|you~aux|have part|do&PASTP det:art|a (1)adj|big (1)adj|black
+	(1)n|circle prep|around pro:per|you adv|now .
+
+    Strings matched 2 times
+
+From file <liz27b.cha>
+
+    Strings matched 0 times
+
+From file <liz28a.cha>
+
+    Strings matched 0 times
+
+From file <liz28b.cha>
+
+    Strings matched 0 times
+
+From file <liz29a.cha>
+----------------------------------------
+*** File "liz29a.cha": line 366.
+*MOT:	Pooh is a golden yellow bear .
+%mor:	n:prop|Pooh cop|be&3S det:art|a (1)adj|golden (1)adj|yellow (1)n|bear .
+
+    Strings matched 1 times
+
+From file <liz29b.cha>
+----------------------------------------
+*** File "liz29b.cha": line 590.
+*MOT:	that's a little brown horsie , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|brown (1)n|horse-DIM
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <liz30a.cha>
+
+    Strings matched 0 times
+
+From file <liz30b.cha>
+
+    Strings matched 0 times
+
+From file <liz31a.cha>
+----------------------------------------
+*** File "liz31a.cha": line 337.
+*MOT:	oh big wide steps , aren't they ?
+%mor:	co|oh (1)adj|big (1)adj|wide (1)n|step-PL cm|cm aux|be&PRES~neg|not
+	pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <liz31b.cha>
+----------------------------------------
+*** File "liz31b.cha": line 1078.
+*MOT:	you can tell by its big bushy tail .
+%mor:	pro:per|you mod|can v|tell prep|by det:poss|its (1)adj|big
+	(1)adj|bush&dn-Y (1)n|tail .
+----------------------------------------
+*** File "liz31b.cha": line 1184.
+*MOT:	getting little tiny bits of food from them .
+%mor:	part|get-PRESP (1)adj|little (1)adj|tiny (1)n|bit-PL prep|of n|food
+	prep|from pro:obj|them .
+
+    Strings matched 2 times
+
+From file <liz32a.cha>
+----------------------------------------
+*** File "liz32a.cha": line 41.
+*MOT:	it was okay last time , wasn't it ?
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|okay (1)adj|last (1)n|time cm|cm
+	cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "liz32a.cha": line 1415.
+*MOT:	a nice hot cup of tea .
+%mor:	det:art|a (1)adj|nice (1)adj|hot (1)n|cup prep|of n|tea .
+
+    Strings matched 2 times
+
+From file <liz32b.cha>
+----------------------------------------
+*** File "liz32b.cha": line 1018.
+*MOT:	she just likes to have nice fancy dresses on , does she ?
+%mor:	pro:sub|she adv|just v|like-3S inf|to v|have (1)adj|nice (1)adj|fancy
+	(1)n|dress-PL adv|on cm|cm v|do&3S pro:sub|she ?
+
+    Strings matched 1 times
+
+From file <liz33a.cha>
+----------------------------------------
+*** File "liz33a.cha": line 33.
+*MOT:	oh nice bright colors .
+%mor:	co|oh (1)adj|nice (1)adj|bright (1)n|color-PL .
+
+    Strings matched 1 times
+
+From file <liz33b.cha>
+
+    Strings matched 0 times
+
+From file <liz34a.cha>
+----------------------------------------
+*** File "liz34a.cha": line 196.
+*MOT:	eensie weensie spider .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "liz34a.cha": line 762.
+*MOT:	a nice big cup of tea .
+%mor:	det:art|a (1)adj|nice (1)adj|big (1)n|cup prep|of n|tea .
+
+    Strings matched 2 times
+
+From file <liz34b.cha>
+
+    Strings matched 0 times
+

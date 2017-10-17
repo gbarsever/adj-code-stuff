@@ -1,0 +1,187 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:11:03 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <lew01.cha>
+----------------------------------------
+*** File "lew01.cha": line 4091.
+*MOT:	she has little tiny underwear .
+%mor:	pro:sub|she aux|have&3S (1)adj|little (1)adj|tiny (1)n|underwear .
+
+    Strings matched 1 times
+
+From file <lew02.cha>
+----------------------------------------
+*** File "lew02.cha": line 3241.
+*SIB:	it's Kate's mean real dog .
+%mor:	pro:per|it~aux|be&3S n:prop|Kate~poss|s (1)adj|mean (1)adj|real (1)n|dog .
+----------------------------------------
+*** File "lew02.cha": line 4047.
+*MOT:	Oscar that old grouchy Oscar and a bear .
+%mor:	n:prop|Oscar pro:rel|that (1)adj|old (1)adj|grouch&dn-Y (1)n:prop|Oscar
+	coord|and det:art|a n|bear .
+----------------------------------------
+*** File "lew02.cha": line 4314.
+*MOT:	grouchy grouchy grouchy Oscar .
+%mor:	adj|grouch&dn-Y (1)adj|grouch&dn-Y (1)adj|grouch&dn-Y (1)n:prop|Oscar .
+
+    Strings matched 3 times
+
+From file <lew03.cha>
+
+    Strings matched 0 times
+
+From file <lew04.cha>
+----------------------------------------
+*** File "lew04.cha": line 1332.
+*SIB:	and the big bad wolf takes him .
+%mor:	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|take-3S pro:obj|him
+	.
+----------------------------------------
+*** File "lew04.cha": line 1381.
+*MOT:	what does the big bad wolf do ?
+%mor:	pro:int|what v|do&3S det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|do ?
+----------------------------------------
+*** File "lew04.cha": line 1403.
+*SIB:	the three little pig run away from the big bad wolf .
+%mor:	det:art|the det:num|three adj|little n|pig part|run&PASTP adv|away
+	prep|from det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 3 times
+
+From file <lew05.cha>
+----------------------------------------
+*** File "lew05.cha": line 2012.
+*MOT:	little tiny butterfly .
+%mor:	(1)adj|little (1)adj|tiny (1)n|+n|butter+n|fly .
+----------------------------------------
+*** File "lew05.cha": line 2820.
+*MOT:	that's a pretty little horse .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|horse .
+
+    Strings matched 2 times
+
+From file <lew06.cha>
+----------------------------------------
+*** File "lew06.cha": line 155.
+*MOT:	ole rotten puppy .
+%mor:	(1)adj|ole (1)adj|rotten (1)n|puppy .
+----------------------------------------
+*** File "lew06.cha": line 778.
+*MOT:	we have a little wooden thing they say is yours .
+%mor:	pro:sub|we v|have det:art|a (1)adj|little (1)adj|wooden (1)n|thing
+	pro:sub|they v|say aux|be&3S pro:poss|yours .
+----------------------------------------
+*** File "lew06.cha": line 1773.
+*MOT:	grouchy old Oscar isn't he ?
+%mor:	(1)adj|grouch&dn-Y (1)adj|old (1)n:prop|Oscar cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "lew06.cha": line 2011.
+*MOT:	and a mean old grouchy Oscar's in there .
+%mor:	coord|and det:art|a adj|mean (1)adj|old (1)adj|grouch&dn-Y
+	(1)n:prop|Oscar~poss|s adv|in adv|there .
+----------------------------------------
+*** File "lew06.cha": line 3360.
+*MOT:	he's a busy little ole bear isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a adj|busy (1)adj|little (1)adj|ole (1)n|bear
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "lew06.cha": line 3509.
+*MOT:	+" possum child has a great big dog .
+%mor:	n|possum n|child v|have&3S det:art|a (1)adj|great (1)adj|big (1)n|dog .
+
+    Strings matched 6 times
+
+From file <lew07.cha>
+----------------------------------------
+*** File "lew07.cha": line 393.
+*MOT:	I bet he didn't (be)cause you were sleepin(g) silly last night .
+%mor:	pro:sub|I v|bet&ZERO pro:sub|he mod|do&PAST~neg|not conj|because
+	pro:per|you aux|be&PAST part|sleep-PRESP (1)adj|silly (1)adj|last (1)n|night
+	.
+----------------------------------------
+*** File "lew07.cha": line 2391.
+*MOT:	that dress is about too little for you a little tiny bit .
+%mor:	pro:dem|that n|dress cop|be&3S adv|about adv|too adj|little
+	prep|for pro:per|you det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "lew07.cha": line 2474.
+*SIB:	it's different yellow hair .
+%mor:	pro:per|it~cop|be&3S (1)adj|different (1)adj|yellow (1)n|hair .
+
+    Strings matched 3 times
+
+From file <lew08.cha>
+----------------------------------------
+*** File "lew08.cha": line 82.
+*MOT:	Melissa here say hey to Papa on the telephone real quick Papa's
+	fixin(g) to leave .
+%mor:	n:prop|Melissa adv|here co|say co|hey prep|to n:prop|Papa prep|on
+	det:art|the n|telephone (1)adj|real (1)adj|quick (1)n:prop|Papa~aux|be&3S
+	part|fix-PRESP prep|to n|leave .
+----------------------------------------
+*** File "lew08.cha": line 321.
+*MOT:	you're a real curly head aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|curl&dv-Y (1)n|head
+	cop|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "lew08.cha": line 1766.
+*SIB:	here's a big old table oops !
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|table co|oops
+	!
+----------------------------------------
+*** File "lew08.cha": line 1963.
+*MOT:	+" then one day in his own good time Leo bloomed .
+%mor:	adv:tem|then det:num|one n|day prep|in det:poss|his (1)adj|own
+	(1)adj|good (1)n|time n:prop|Leo v|bloom-PAST .
+----------------------------------------
+*** File "lew08.cha": line 2066.
+*MOT:	+" the pokey little puppy went for a walk and this is what he saw .
+%mor:	det:art|the (1)adj|pokey (1)adj|little (1)n|puppy v|go&PAST prep|for
+	det:art|a n|walk coord|and pro:dem|this cop|be&3S pro:int|what
+	pro:sub|he v|see&PAST .
+----------------------------------------
+*** File "lew08.cha": line 2258.
+*SIB:	yep pokey little puppy .
+%mor:	co|yep (1)adj|pokey (1)adj|little (1)n|puppy .
+----------------------------------------
+*** File "lew08.cha": line 2560.
+*MOT:	ten of (th)em my_goodness that pokey little puppy knew how to count
+	good didn't he ?
+%mor:	det:num|ten prep|of pro:obj|them co|my_goodness pro:rel|that
+	(1)adj|pokey (1)adj|little (1)n|puppy v|know&PAST adv:int|how inf|to v|count
+	adj|good mod|do&PAST~neg|not pro:sub|he ?
+----------------------------------------
+*** File "lew08.cha": line 3102.
+*MOT:	<look over there he's sittin(g) in the little inner tube> [<] .
+%mor:	cop|look prep|over adv|there pro:sub|he~aux|be&3S part|sit-PRESP
+	prep|in det:art|the (1)adj|little (1)adj|inner (1)n|tube .
+----------------------------------------
+*** File "lew08.cha": line 3266.
+*MOT:	+" time to freshen up see how pretty you look with your brand new
+	hair ribbon ?
+%mor:	n|time inf|to v|freshen adv|up co|see adv:int|how adv|pretty
+	pro:per|you cop|look prep|with det:poss|your (1)adj|brand (1)adj|new
+	(1)n|hair n|ribbon ?
+----------------------------------------
+*** File "lew08.cha": line 3648.
+*SIB:	where's that big new toy ?
+%mor:	adv:int|where~cop|be&3S pro:dem|that (1)adj|big (1)adj|new (1)n|toy ?
+
+    Strings matched 10 times
+
+From file <lew09.cha>
+----------------------------------------
+*** File "lew09.cha": line 196.
+*MOT:	it's hard to pull that little tiny handle .
+%mor:	pro:per|it~cop|be&3S adj|hard inf|to v|pull pro:dem|that (1)adj|little
+	(1)adj|tiny (1)n|handle .
+
+    Strings matched 1 times
+
+From file <lew10.cha>
+
+    Strings matched 0 times
+

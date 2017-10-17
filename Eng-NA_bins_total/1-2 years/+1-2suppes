@@ -1,0 +1,34 @@
+combo +t%mor +t*CHI +t*ELI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:18:03 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *ELI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 821.
+*CHI:	big (.) tiny mousie .
+%mor:	(1)adj|big (1)adj|tiny (1)n|mouse-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 827.
+*CHI:	tiny (.) tiny (.) big kangaroo .
+%mor:	adj|tiny (1)adj|tiny (1)adj|big (1)n|kangaroo .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina01.cha": line 1325.
+*CHI:	big black seal ?
+%mor:	(1)adj|big (1)adj|black (1)n|seal ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina02.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Suppes/nina03.cha": line 4129.
+*CHI:	big (.) big gorilla .
+%mor:	(1)adj|big (1)adj|big (1)n|gorilla .
+
+    Strings matched 1 times
+

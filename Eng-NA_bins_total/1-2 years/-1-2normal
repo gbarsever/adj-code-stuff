@@ -1,0 +1,59 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:14:57 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/josh1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/josh2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/ken1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/ken2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/lana1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/lana2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/shelly1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/shelly2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/shelly2.cha": line 787.
+*MOT:	does she have a pretty brown dress ?
+%mor:	mod|do&3S pro:sub|she v|have det:art|a (1)adj|pretty (1)adj|brown (1)n|dress
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/shelly2.cha": line 1440.
+*MOT:	is there a little tiny boat here ?
+%mor:	cop|be&3S adv|there det:art|a (1)adj|little (1)adj|tiny (1)n|boat adv|here ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/tansy1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/tansy2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Normal/tansy2.cha": line 494.
+*MOT:	that's a mighty little bear .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|might&dn-Y (1)adj|little (1)n|bear .
+
+    Strings matched 1 times
+

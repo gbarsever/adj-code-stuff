@@ -1,0 +1,50 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:12:53 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <nevill02.cha>
+
+    Strings matched 0 times
+
+From file <nevill03.cha>
+
+    Strings matched 0 times
+
+From file <nevill04.cha>
+
+    Strings matched 0 times
+
+From file <nevill05.cha>
+
+    Strings matched 0 times
+
+From file <nevill06.cha>
+
+    Strings matched 0 times
+
+From file <nevill07.cha>
+
+    Strings matched 0 times
+
+From file <nevill08.cha>
+----------------------------------------
+*** File "nevill08.cha": line 182.
+*CHI:	creepy crawly snail .
+%mor:	(1)adj|creep&dn-Y (1)adj|crawl&dv-Y (1)n|snail .
+----------------------------------------
+*** File "nevill08.cha": line 194.
+*CHI:	creepy crawly snail .
+%mor:	(1)adj|creep&dn-Y (1)adj|crawl&dv-Y (1)n|snail .
+
+    Strings matched 2 times
+
+From file <nevill09.cha>
+
+    Strings matched 0 times
+
+From file <nevill10.cha>
+
+    Strings matched 0 times
+

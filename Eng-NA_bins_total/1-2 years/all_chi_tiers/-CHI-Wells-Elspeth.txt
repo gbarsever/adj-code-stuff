@@ -1,0 +1,64 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:07:57 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <elspet02.cha>
+
+    Strings matched 0 times
+
+From file <elspet03.cha>
+
+    Strings matched 0 times
+
+From file <elspet04.cha>
+
+    Strings matched 0 times
+
+From file <elspet05.cha>
+
+    Strings matched 0 times
+
+From file <elspet06.cha>
+
+    Strings matched 0 times
+
+From file <elspet07.cha>
+----------------------------------------
+*** File "elspet07.cha": line 733.
+*FAT:	she a cross little girl isn't she ?
+%mor:	pro:sub|she det:art|a (1)adj|cross (1)adj|little (1)n|girl cop|be&3S~neg|not
+	pro:sub|she ?
+
+    Strings matched 1 times
+
+From file <elspet08.cha>
+----------------------------------------
+*** File "elspet08.cha": line 881.
+*GEO:	don't be a naughty little boy .
+%mor:	mod|do~neg|not cop|be det:art|a (1)adj|naughty (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <elspet09.cha>
+----------------------------------------
+*** File "elspet09.cha": line 825.
+*MOT:	have a coupe of those because they're nice new potatoes (18.) .
+%mor:	v|have det:art|a n|coupe prep|of pro:dem|those conj|because
+	pro:sub|they~cop|be&PRES (1)adj|nice (1)adj|new (1)n|potato-PL .
+
+    Strings matched 1 times
+
+From file <elspet10.cha>
+----------------------------------------
+*** File "elspet10.cha": line 684.
+*MOT:	xxx be a nice useful person ?
+%mor:	cop|be det:art|a (1)adj|nice (1)adj|use&dn-FULL (1)n|person ?
+
+    Strings matched 1 times
+
+From file <elspet21.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,27 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:18:56 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Warren/jeff.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Warren/jeff.cha": line 32.
+*MOT:	that's a pretty yellow block .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|yellow (1)n|block .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Warren/megan.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Warren/megan.cha": line 579.
+*MOT:	it's a big old shoe , isn't it .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|shoe cm|cm
+	cop|be&3S~neg|not pro:per|it .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Warren/scott.cha>
+
+    Strings matched 0 times
+

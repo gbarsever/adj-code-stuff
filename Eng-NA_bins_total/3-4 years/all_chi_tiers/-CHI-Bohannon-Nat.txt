@@ -1,0 +1,131 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:43:22 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <angela.cha>
+
+    Strings matched 0 times
+
+From file <bob.cha>
+
+    Strings matched 0 times
+
+From file <claire.cha>
+
+    Strings matched 0 times
+
+From file <dan.cha>
+
+    Strings matched 0 times
+
+From file <debbie.cha>
+----------------------------------------
+*** File "debbie.cha": line 537.
+*DEB:	gave the carrot to the big big rabbit .
+%mor:	v|give&PAST det:art|the n|carrot prep|to det:art|the (1)adj|big
+	(1)adj|big (1)n|rabbit .
+----------------------------------------
+*** File "debbie.cha": line 565.
+*DEB:	I had a big green blanket that I took everywhere I went with me .
+%mor:	pro:sub|I v|have&PAST det:art|a (1)adj|big (1)adj|green (1)n|blanket
+	pro:rel|that pro:sub|I v|take&PAST n|everywhere pro:sub|I v|go&PAST
+	prep|with pro:obj|me .
+
+    Strings matched 2 times
+
+From file <doug.cha>
+
+    Strings matched 0 times
+
+From file <elliott.cha>
+----------------------------------------
+*** File "elliott.cha": line 245.
+*ELL:	did it take a real long time to get there ?
+%mor:	v|do&PAST pro:per|it v|take det:art|a (1)adj|real (1)adj|long (1)n|time
+	inf|to v|get adv|there ?
+
+    Strings matched 1 times
+
+From file <harvey.cha>
+----------------------------------------
+*** File "harvey.cha": line 2211.
+*MOT:	you did a pretty good job on that .
+%mor:	pro:per|you v|do&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|job prep|on
+	pro:dem|that .
+----------------------------------------
+*** File "harvey.cha": line 4502.
+*HHH:	that's a pretty good boat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|boat .
+
+    Strings matched 2 times
+
+From file <jim.cha>
+----------------------------------------
+*** File "jim.cha": line 625.
+*DDD:	that's an awful pretty motorbike !
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|awful (1)adj|pretty
+	(1)n|+n|motor+n|bike !
+
+    Strings matched 1 times
+
+From file <john.cha>
+----------------------------------------
+*** File "john.cha": line 259.
+*JJJ:	what a nice little monkey he thought .
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|monkey pro:sub|he
+	v|think&PAST .
+
+    Strings matched 1 times
+
+From file <kim.cha>
+
+    Strings matched 0 times
+
+From file <lauren.cha>
+----------------------------------------
+*** File "lauren.cha": line 1088.
+*LLL:	look at those little green things .
+%mor:	cop|look prep|at pro:dem|those (1)adj|little (1)adj|green (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <lindsey.cha>
+
+    Strings matched 0 times
+
+From file <noel.cha>
+
+    Strings matched 0 times
+
+From file <ruth.cha>
+----------------------------------------
+*** File "ruth.cha": line 139.
+*RRR:	that looks like a pretty mean dog .
+%mor:	pro:dem|that cop|look-3S prep|like det:art|a (1)adj|pretty (1)adj|mean
+	(1)n|dog .
+
+    Strings matched 1 times
+
+From file <stephani.cha>
+----------------------------------------
+*** File "stephani.cha": line 141.
+*SSS:	this is a pretty good helicopter .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|helicopter .
+
+    Strings matched 1 times
+
+From file <tom.cha>
+----------------------------------------
+*** File "tom.cha": line 143.
+*TTT:	a big ole house ?
+%mor:	det:art|a (1)adj|big (1)adj|ole (1)n|house ?
+----------------------------------------
+*** File "tom.cha": line 275.
+*TTT:	how did they get him on that big ole boat ?
+%mor:	adv:int|how mod|do&PAST pro:sub|they v|get pro:obj|him prep|on
+	pro:dem|that (1)adj|big (1)adj|ole (1)n|boat ?
+
+    Strings matched 2 times
+

@@ -1,0 +1,387 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:48:22 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <david01.cha>
+----------------------------------------
+*** File "david01.cha": line 1436.
+*INV:	full time mum (.) hard work isn't it ?
+%mor:	adj|full n|time (1)adj|mum (1)adj|hard (1)n|work cop|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "david01.cha": line 2087.
+*INV:	och &+it's &+it's it's a lovely wee name (.) it's very unusual .
+%mor:	co|och pro:per|it~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|wee (1)n|name
+	pro:per|it~cop|be&3S adv|very un#adj|usual .
+
+    Strings matched 2 times
+
+From file <david02.cha>
+----------------------------------------
+*** File "david02.cha": line 1066.
+*INV:	look at his big red beak .
+%mor:	cop|look prep|at det:poss|his (1)adj|big (1)adj|red (1)n|beak .
+----------------------------------------
+*** File "david02.cha": line 2036.
+*INV:	&+he has_to (.) he has_to be careful you see cause he's a racing
+	driver and he has_to have a hat a big hard hat on in_case he has an
+	accident and hurts his head .
+%mor:	mod:aux|has_to pro:sub|he mod:aux|has_to cop|be co|careful
+	pro:per|you v|see n|cause pro:sub|he~cop|be&3S det:art|a
+	part|race-PRESP n|drive&dv-AGT coord|and pro:sub|he mod:aux|has_to
+	v|have det:art|a n|hat det:art|a (1)adj|big (1)adj|hard (1)n|hat adv|on
+	conj|in_case pro:sub|he v|have&3S det:art|a n|accident coord|and
+	v|hurt-3S det:poss|his n|head .
+----------------------------------------
+*** File "david02.cha": line 2077.
+*MOT:	they love wee silly things like that .
+%mor:	pro:sub|they v|love (1)adj|wee (1)adj|silly (1)n|thing-PL prep|like
+	pro:dem|that .
+----------------------------------------
+*** File "david02.cha": line 2090.
+*INV:	they love wee silly things more than (.) .
+%mor:	pro:sub|they v|love (1)adj|wee (1)adj|silly (1)n|thing-PL adv|more prep|than
+	.
+----------------------------------------
+*** File "david02.cha": line 3122.
+*INV:	those wee hungry mice .
+%mor:	pro:dem|those (1)adj|wee (1)adj|hungry (1)n|mouse&PL .
+----------------------------------------
+*** File "david02.cha": line 4134.
+*GRA:	but Virgin seem to do a pretty good deal xxx getting through .
+%mor:	conj|but n:prop|Virgin cop|seem inf|to v|do det:art|a (1)adj|pretty
+	(1)adj|good (1)n|deal part|get-PRESP adv|through .
+----------------------------------------
+*** File "david02.cha": line 4391.
+*INV:	look at those lovely wee apples .
+%mor:	cop|look prep|at pro:dem|those (1)adj|love&dn-LY (1)adj|wee (1)n|apple-PL .
+
+    Strings matched 7 times
+
+From file <david03.cha>
+----------------------------------------
+*** File "david03.cha": line 232.
+*GRA:	we'd only him like and away we went and I didn't know what I was
+	going for so they'd a big big play area where he was in his element
+	.
+%mor:	pro:sub|we~mod|genmod adv|only pro:obj|him prep|like coord|and
+	adv|away pro:sub|we v|go&PAST coord|and pro:sub|I
+	mod|do&PAST~neg|not v|know pro:int|what pro:sub|I aux|be&PAST&13S
+	part|go-PRESP prep|for adv|so pro:sub|they~mod|genmod det:art|a
+	(1)adj|big (1)adj|big (1)n|play n|area pro:rel|where pro:sub|he
+	cop|be&PAST&13S prep|in det:poss|his n|element .
+----------------------------------------
+*** File "david03.cha": line 1105.
+*INV:	you have_to give him big floppy ears cause he's an elephant and he
+	has big floppy ears .
+%mor:	pro:per|you mod:aux|have_to v|give pro:obj|him (1)adj|big
+	(1)adj|flop&dv-Y (1)n|ear-PL n|cause pro:sub|he~aux|be&3S det:art|a
+	n|elephant coord|and pro:sub|he aux|have&3S (2)adj|big (2)adj|flop&dv-Y
+	(2)n|ear-PL .
+----------------------------------------
+*** File "david03.cha": line 1216.
+*INV:	poor wee Denver (.) he's got a sore tummy hasn't he ?
+%mor:	(1)adj|poor (1)adj|wee (1)n:prop|Denver pro:sub|he~aux|be&3S part|get&PASTP
+	det:art|a n|sore n|tummy aux|have&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "david03.cha": line 1342.
+*INV:	we'll give him a wee mouth (.) a big silly mouth .
+%mor:	pro:sub|we~mod|will v|give pro:obj|him det:art|a adj|wee n|mouth
+	det:art|a (1)adj|big (1)adj|silly (1)n|mouth .
+----------------------------------------
+*** File "david03.cha": line 1347.
+*INV:	look he's got a big smily mouth hasn't he ?
+%mor:	co|look pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|big
+	(1)adj|smile&dv-Y (1)n|mouth aux|have&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "david03.cha": line 1558.
+*INV:	some big funny ears (.) some big elephant's ears .
+%mor:	qn|some (1)adj|big (1)adj|fun&dn-Y (1)n|ear-PL qn|some adj|big
+	n|elephant~poss|s n|ear-PL .
+----------------------------------------
+*** File "david03.cha": line 1580.
+*INV:	a big long nose isn't it ?
+%mor:	det:art|a (1)adj|big (1)adj|long (1)n|nose cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "david03.cha": line 2623.
+*INV:	look at poor wee teddy (.) he's far away from his home isn't he ?
+%mor:	cop|look prep|at (1)adj|poor (1)adj|wee (1)n|teddy pro:sub|he~cop|be&3S
+	adv|far adv|away prep|from det:poss|his n|home cop|be&3S~neg|not
+	pro:sub|he ?
+
+    Strings matched 9 times
+
+From file <david04.cha>
+----------------------------------------
+*** File "david04.cha": line 122.
+*INV:	just round Stewarts and Toytown and places like that .
+%mor:	(1)adj|just (1)adj|round (1)n:prop|Stewarts coord|and n:prop|Toytown
+	coord|and n|place-PL prep|like pro:dem|that .
+----------------------------------------
+*** File "david04.cha": line 1777.
+*INV:	and mummie dries him up with a lovely warm towel .
+%mor:	coord|and n|mum&dadj-DIM v|dry-3S pro:obj|him adv|up prep|with
+	det:art|a (1)adj|love&dn-LY (1)adj|warm (1)n|towel .
+----------------------------------------
+*** File "david04.cha": line 2223.
+*INV:	and what happened the poor wee pussycat ?
+%mor:	coord|and pro:int|what v|happen-PAST det:art|the (1)adj|poor (1)adj|wee
+	(1)n|+n|pussy+n|cat ?
+----------------------------------------
+*** File "david04.cha": line 2811.
+*INV:	that's a wee tiny digger .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|wee (1)adj|tiny (1)n|dig&dv-AGT .
+----------------------------------------
+*** File "david04.cha": line 3201.
+*INV:	isn't he great I mean he's absolutely marvelous (.) you're landed
+	he's a really good wee boy you know .
+%mor:	cop|be&3S~neg|not pro:sub|he adj|great pro:sub|I v|mean
+	pro:sub|he~aux|be&3S adv|absolute&dadj-LY adj|marvelous
+	pro:per|you~aux|be&PRES part|land-PASTP pro:sub|he~aux|be&3S
+	det:art|a adv|real&dadj-LY (1)adj|good (1)adj|wee (1)n|boy pro:per|you v|know
+	.
+----------------------------------------
+*** File "david04.cha": line 4351.
+*MOT:	so she's due next year sometime but Diane doesn't know whether
+	she's getting the baby this time or what .
+%mor:	conj|so pro:sub|she~aux|be&3S (1)adj|due (1)adj|next (1)n|year adv|sometime
+	conj|but n:prop|Diane mod|do&3S~neg|not v|know conj|whether
+	pro:sub|she~aux|be&3S part|get-PRESP det:art|the v|baby pro:dem|this
+	n|time coord|or pro:int|what .
+
+    Strings matched 6 times
+
+From file <david05.cha>
+----------------------------------------
+*** File "david05.cha": line 688.
+*INV:	he always goes to the same wee book too .
+%mor:	pro:sub|he adv|always v|go-3S prep|to det:art|the (1)adj|same (1)adj|wee
+	(1)n|book post|too .
+----------------------------------------
+*** File "david05.cha": line 874.
+*GRA:	you could have said to old grumpy drawers and she might have stayed
+	.
+%mor:	pro:per|you mod|could aux|have part|say&PASTP prep|to (1)adj|old
+	(1)adj|grump&dn-Y (1)n|drawer-PL coord|and pro:sub|she mod|might aux|have
+	part|stay-PASTP .
+----------------------------------------
+*** File "david05.cha": line 1743.
+*INV:	poor wee teddy (.) what's teddy doing ?
+%mor:	(1)adj|poor (1)adj|wee (1)n|teddy pro:int|what~poss|s n|teddy part|do-PRESP
+	?
+----------------------------------------
+*** File "david05.cha": line 2707.
+*MOT:	well I'm hoping to get him into a wee daily nursery after Christmas
+	.
+%mor:	co|well pro:sub|I~aux|be&1S part|hope-PRESP inf|to v|get
+	pro:obj|him prep|into det:art|a (1)adj|wee (1)adj|daily (1)n|nursery
+	adv:tem|after n:prop|Christmas .
+----------------------------------------
+*** File "david05.cha": line 2747.
+*INV:	oh aye so it's a wee voluntary thing then .
+%mor:	co|oh co|aye adv|so pro:per|it~cop|be&3S det:art|a (1)adj|wee
+	(1)adj|voluntary (1)n|thing adv:tem|then .
+
+    Strings matched 5 times
+
+From file <david07.cha>
+----------------------------------------
+*** File "david07.cha": line 1266.
+*INV:	that's broken too (.) see my house (.) it's got a dodgy front wheel
+	.
+%mor:	pro:dem|that~cop|be&3S part|break&PASTP adv|too v|see det:poss|my
+	n|house pro:per|it~aux|be&3S v|get&PAST det:art|a (1)adj|dodge&dv-Y
+	(1)adj|front (1)n|wheel .
+----------------------------------------
+*** File "david07.cha": line 1600.
+*INV:	silly big floppy ears .
+%mor:	co|silly (1)adj|big (1)adj|flop&dv-Y (1)n|ear-PL .
+----------------------------------------
+*** File "david07.cha": line 1667.
+*INV:	and a funny big mouth !
+%mor:	coord|and det:art|a (1)adj|fun&dn-Y (1)adj|big (1)n|mouth !
+----------------------------------------
+*** File "david07.cha": line 1944.
+*INV:	and there's the pussycat (.) ach look aren't those lovely wee
+	puzzles ?
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|+n|pussy+n|cat
+	co|ach co|look aux|be&PRES~neg|not det:dem|those (1)adj|love&dn-LY
+	(1)adj|wee (1)n|puzzle-PL ?
+----------------------------------------
+*** File "david07.cha": line 2745.
+*GRA:	these wee tiny tablets and she was sitting and she was going .
+%mor:	pro:dem|these (1)adj|wee (1)adj|tiny (1)n|tablet-PL coord|and pro:sub|she
+	aux|be&PAST&13S part|sit-PRESP coord|and pro:sub|she aux|be&PAST&13S
+	part|go-PRESP .
+----------------------------------------
+*** File "david07.cha": line 3740.
+*GRA:	well I've got one big black bag full of .
+%mor:	co|well pro:sub|I~aux|have part|get&PASTP pro:indef|one (1)adj|big
+	(1)adj|black (1)n|bag adj|full prep|of .
+
+    Strings matched 6 times
+
+From file <david08.cha>
+----------------------------------------
+*** File "david08.cha": line 771.
+*INV:	he's not a big big child .
+%mor:	pro:sub|he~aux|be&3S neg|not det:art|a (1)adj|big (1)adj|big (1)n|child .
+----------------------------------------
+*** File "david08.cha": line 3824.
+*INV:	it's the same wee girl .
+%mor:	pro:per|it~cop|be&3S det:art|the (1)adj|same (1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "david08.cha": line 4250.
+*INV:	into the wee thing cause cause cause I thought it was awful cruel
+	keepin(g) it in the wee thing .
+%mor:	prep|into det:art|the adj|wee n|thing n|cause n|cause n|cause
+	pro:sub|I v|think&PAST pro:per|it cop|be&PAST&13S (1)adj|awful
+	(1)adj|cruel (1)n:gerund|keep-PRESP pro:per|it prep|in det:art|the adj|wee
+	n|thing .
+----------------------------------------
+*** File "david08.cha": line 4274.
+*INV:	and em and &-eh I finally one day I said to him “Adam you'll have_to
+	let that poor wee thing go” .
+%mor:	coord|and pro:obj|them coord|and pro:sub|I adv|final&dadj-LY
+	det:num|one n|day pro:sub|I v|say&PAST prep|to pro:obj|him bq|bq
+	n:prop|Adam pro:per|you~mod|will mod:aux|have_to v|let&ZERO
+	pro:dem|that (1)adj|poor (1)adj|wee (1)n|thing v|go eq|eq .
+
+    Strings matched 4 times
+
+From file <david09.cha>
+----------------------------------------
+*** File "david09.cha": line 66.
+*INV:	wee tiny babies wreck the place don't they ?
+%mor:	(1)adj|wee (1)adj|tiny (1)n|baby-PL v|wreck det:art|the n|place
+	mod|do~neg|not pro:sub|they ?
+----------------------------------------
+*** File "david09.cha": line 715.
+*INV:	he's generally a very passive wee boy .
+%mor:	pro:sub|he~aux|be&3S adv|general&dadj-LY det:art|a adv|very
+	(1)adj|passive (1)adj|wee (1)n|boy .
+----------------------------------------
+*** File "david09.cha": line 1276.
+*MOT:	the big bouncy castle .
+%mor:	det:art|the (1)adj|big (1)adj|bounce&dv-Y (1)n|castle .
+----------------------------------------
+*** File "david09.cha": line 1653.
+*INV:	it would even be a nice wee thing to sit in his room .
+%mor:	pro:per|it mod|will&COND adv|even cop|be det:art|a (1)adj|nice (1)adj|wee
+	(1)n|thing inf|to v|sit prep|in det:poss|his n|room .
+----------------------------------------
+*** File "david09.cha": line 1937.
+*INV:	he really is a real wee boy now .
+%mor:	pro:sub|he adv|real&dadj-LY cop|be&3S det:art|a (1)adj|real (1)adj|wee
+	(1)n|boy adv|now .
+----------------------------------------
+*** File "david09.cha": line 3364.
+*MOT:	big big big boys .
+%mor:	adj|big (1)adj|big (1)adj|big (1)n|boy-PL .
+----------------------------------------
+*** File "david09.cha": line 4102.
+*INV:	do you not find that an awful long day then ?
+%mor:	mod|do pro:per|you neg|not v|find pro:rel|that det:art|a (1)adj|awful
+	(1)adj|long (1)n|day adv:tem|then ?
+
+    Strings matched 7 times
+
+From file <david10.cha>
+----------------------------------------
+*** File "david10.cha": line 731.
+*INV:	living in a house with brand new carpet and everything .
+%mor:	part|live-PRESP prep|in det:art|a n|house prep|with (1)adj|brand
+	(1)adj|new (1)n|carpet coord|and pro:indef|everything .
+
+    Strings matched 1 times
+
+From file <david11.cha>
+
+    Strings matched 0 times
+
+From file <david12.cha>
+----------------------------------------
+*** File "david12.cha": line 450.
+*MOT:	sure that's the first thing I noticed (.) the first sunny day I was
+	up here I checked to see if the sun shone out the back here cause
+	see if it didn't I couldn't have bought the house (.) see with the
+	kids .
+%mor:	adj|sure pro:dem|that~cop|be&3S det:art|the adj|first n|thing
+	pro:sub|I v|notice-PAST det:art|the (1)adj|first (1)adj|sun&dn-Y (1)n|day
+	pro:sub|I aux|be&PAST&13S adv|up adv|here pro:sub|I v|check-PAST
+	inf|to v|see conj|if det:art|the n|sun v|shine&PAST prep|out
+	det:art|the adj|back adv|here n|cause v|see conj|if pro:per|it
+	mod|do&PAST~neg|not pro:sub|I mod|could~neg|not aux|have
+	part|buy&PASTP det:art|the n|house v|see prep|with det:art|the
+	n|kid-PL .
+
+    Strings matched 1 times
+
+From file <david13.cha>
+----------------------------------------
+*** File "david13.cha": line 1174.
+*INV:	dark dark green actually .
+%mor:	(1)adj|dark (1)adj|dark (1)n|green adv|actual&dadj-LY .
+----------------------------------------
+*** File "david13.cha": line 1385.
+*MOT:	he's cutting his big back teeth .
+%mor:	pro:sub|he~aux|be&3S part|cut-PRESP det:poss|his (1)adj|big (1)adj|back
+	(1)n|tooth&PL .
+----------------------------------------
+*** File "david13.cha": line 1455.
+*INV:	he is a placid easy child .
+%mor:	pro:sub|he cop|be&3S det:art|a (1)adj|placid (1)adj|ease&dn-Y (1)n|child .
+----------------------------------------
+*** File "david13.cha": line 1468.
+*INV:	a typical wee boy .
+%mor:	det:art|a (1)adj|typical (1)adj|wee (1)n|boy .
+----------------------------------------
+*** File "david13.cha": line 2028.
+*INV:	but you see what's different about him is that he's so blonde but
+	yet he's got the big brown eyes you see .
+%mor:	conj|but pro:per|you v|see pro:int|what~poss|s adj|different
+	prep|about pro:obj|him aux|be&3S pro:rel|that pro:sub|he~cop|be&3S
+	adv|so adj|blonde conj|but adv|yet pro:sub|he~aux|be&3S
+	part|get&PASTP det:art|the (1)adj|big (1)adj|brown (1)n|eye-PL pro:per|you
+	v|see .
+----------------------------------------
+*** File "david13.cha": line 2400.
+*MOT:	the doctor I got he was a wee chinese doctor .
+%mor:	det:art|the n|doctor pro:sub|I v|get&PAST pro:sub|he
+	cop|be&PAST&13S det:art|a (1)adj|wee (1)adj|chinese (1)n|doctor .
+
+    Strings matched 6 times
+
+From file <davkath1.cha>
+----------------------------------------
+*** File "davkath1.cha": line 768.
+*INV:	you've got a wee bad chest this morning haven't you ?
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|wee (1)adj|bad
+	(1)n|chest pro:dem|this n|morning aux|have~neg|not pro:per|you ?
+----------------------------------------
+*** File "davkath1.cha": line 1929.
+*INV:	that was a lovely wee puppy today in school .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|love&dn-LY (1)adj|wee
+	(1)n|puppy adv:tem|today prep|in n|school .
+
+    Strings matched 2 times
+
+From file <davkath2.cha>
+----------------------------------------
+*** File "davkath2.cha": line 284.
+*KAT:	no it would be a long long time .
+%mor:	co|no pro:per|it mod|will&COND cop|be det:art|a (1)adj|long (1)adj|long
+	(1)n|time .
+----------------------------------------
+*** File "davkath2.cha": line 1070.
+*KAT:	I lost my wee tiny Barbie .
+%mor:	pro:sub|I v|lose&PAST det:poss|my (1)adj|wee (1)adj|tiny (1)n:prop|Barbie .
+----------------------------------------
+*** File "davkath2.cha": line 1896.
+*KAT:	stupid old window !
+%mor:	(1)adj|stupid (1)adj|old (1)n|window !
+
+    Strings matched 3 times
+

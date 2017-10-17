@@ -1,0 +1,205 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:52:28 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11005.cha>
+
+    Strings matched 0 times
+
+From file <11016.cha>
+
+    Strings matched 0 times
+
+From file <11043.cha>
+
+    Strings matched 0 times
+
+From file <11052.cha>
+
+    Strings matched 0 times
+
+From file <11066.cha>
+
+    Strings matched 0 times
+
+From file <11068.cha>
+
+    Strings matched 0 times
+
+From file <11070.cha>
+
+    Strings matched 0 times
+
+From file <11073.cha>
+----------------------------------------
+*** File "11073.cha": line 975.
+*INV:	you're a brave little girl .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|brave (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <11078.cha>
+
+    Strings matched 0 times
+
+From file <12009.cha>
+
+    Strings matched 0 times
+
+From file <12017.cha>
+----------------------------------------
+*** File "12017.cha": line 68.
+*INV:	wow that sounds like a real fancy sort of construction truck or
+	something .
+%mor:	co|wow pro:rel|that v|sound-3S prep|like det:art|a (1)adj|real
+	(1)adj|fancy (1)n|sort prep|of n|construction n|truck coord|or
+	pro:indef|something .
+
+    Strings matched 1 times
+
+From file <12022.cha>
+
+    Strings matched 0 times
+
+From file <12036.cha>
+
+    Strings matched 0 times
+
+From file <12038.cha>
+
+    Strings matched 0 times
+
+From file <12074.cha>
+
+    Strings matched 0 times
+
+From file <12076.cha>
+
+    Strings matched 0 times
+
+From file <12080.cha>
+
+    Strings matched 0 times
+
+From file <12081.cha>
+
+    Strings matched 0 times
+
+From file <12082.cha>
+
+    Strings matched 0 times
+
+From file <12083.cha>
+
+    Strings matched 0 times
+
+From file <21110.cha>
+
+    Strings matched 0 times
+
+From file <21117.cha>
+
+    Strings matched 0 times
+
+From file <21129.cha>
+
+    Strings matched 0 times
+
+From file <21146.cha>
+
+    Strings matched 0 times
+
+From file <21165.cha>
+
+    Strings matched 0 times
+
+From file <22111.cha>
+
+    Strings matched 0 times
+
+From file <22112.cha>
+
+    Strings matched 0 times
+
+From file <22131.cha>
+
+    Strings matched 0 times
+
+From file <22142.cha>
+----------------------------------------
+*** File "22142.cha": line 1390.
+*INV:	long long trip huh ?
+%mor:	(1)adj|long (1)adj|long (1)n|trip co|huh ?
+----------------------------------------
+*** File "22142.cha": line 1393.
+*INV:	so what did you do for that long long trip on the airplane ?
+%mor:	adv|so pro:int|what mod|do&PAST pro:per|you v|do prep|for
+	pro:dem|that (1)adj|long (1)adj|long (1)n|trip prep|on det:art|the n|airplane
+	?
+
+    Strings matched 2 times
+
+From file <22150.cha>
+
+    Strings matched 0 times
+
+From file <22161.cha>
+----------------------------------------
+*** File "22161.cha": line 947.
+*INV:	now , the last little bit that we have_to talk , I^'d love for you
+	to tell me about a trip that you took with your family .
+%mor:	adv|now cm|cm det:art|the (1)adj|last (1)adj|little (1)n|bit pro:rel|that
+	pro:sub|we mod:aux|have_to n|talk cm|cm pro:sub|I~mod|genmod v|love
+	prep|for pro:per|you inf|to v|tell pro:obj|me prep|about det:art|a
+	n|trip pro:rel|that pro:per|you v|take&PAST prep|with det:poss|your
+	n|family .
+
+    Strings matched 1 times
+
+From file <22162.cha>
+
+    Strings matched 0 times
+
+From file <22164.cha>
+
+    Strings matched 0 times
+
+From file <22169.cha>
+
+    Strings matched 0 times
+
+From file <22170.cha>
+----------------------------------------
+*** File "22170.cha": line 159.
+*INV:	okay , so it's just pretend money .
+%mor:	adj|okay cm|cm adv|so pro:per|it~aux|be&3S (1)adj|just (1)adj|pretend
+	(1)n|money .
+----------------------------------------
+*** File "22170.cha": line 1004.
+*INV:	now the last little teeny bit of talking we have_to do , I^'d like
+	for you to tell me a little bit about places you've gone with your
+	family .
+%mor:	adv|now det:art|the adj|last (1)adj|little (1)adj|teeny (1)n|bit prep|of
+	n:gerund|talk-PRESP pro:sub|we mod:aux|have_to v|do cm|cm
+	pro:sub|I~mod|genmod co|like prep|for pro:per|you inf|to v|tell
+	pro:obj|me det:art|a adj|little n|bit prep|about n|place-PL
+	pro:per|you~aux|have part|go&PASTP prep|with det:poss|your n|family
+	.
+----------------------------------------
+*** File "22170.cha": line 1469.
+*INV:	really , and did you see &-um a little pretend restaurant there ?
+%mor:	adv|real&dadj-LY cm|cm coord|and v|do&PAST pro:per|you v|see
+	det:art|a (1)adj|little (1)adj|pretend (1)n|restaurant adv|there ?
+----------------------------------------
+*** File "22170.cha": line 1474.
+*INV:	or a little pretend kitchen ?
+%mor:	coord|or det:art|a (1)adj|little (1)adj|pretend (1)n|kitchen ?
+
+    Strings matched 4 times
+
+From file <22175.cha>
+
+    Strings matched 0 times
+

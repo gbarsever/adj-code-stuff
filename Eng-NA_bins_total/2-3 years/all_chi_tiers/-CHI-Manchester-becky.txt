@@ -1,0 +1,371 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:57:17 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <becky01a.cha>
+
+    Strings matched 0 times
+
+From file <becky01b.cha>
+
+    Strings matched 0 times
+
+From file <becky02a.cha>
+
+    Strings matched 0 times
+
+From file <becky02b.cha>
+
+    Strings matched 0 times
+
+From file <becky03a.cha>
+
+    Strings matched 0 times
+
+From file <becky03b.cha>
+----------------------------------------
+*** File "becky03b.cha": line 1906.
+*MOT:	poor old Sukie .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sukie .
+
+    Strings matched 1 times
+
+From file <becky04a.cha>
+----------------------------------------
+*** File "becky04a.cha": line 1257.
+*MOT:	poor old Sukie_cat .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sukie_cat .
+----------------------------------------
+*** File "becky04a.cha": line 1636.
+*MOT:	can you just put them all together in a big long line .
+%mor:	mod|can pro:per|you adv|just v|put&ZERO pro:obj|them post|all
+	adv|together prep|in det:art|a (1)adj|big (1)adj|long (1)n|line .
+
+    Strings matched 2 times
+
+From file <becky04b.cha>
+----------------------------------------
+*** File "becky04b.cha": line 2523.
+*INV:	&+a:h poor old panda .
+%mor:	(1)adj|poor (1)adj|old (1)n|panda .
+
+    Strings matched 1 times
+
+From file <becky05a.cha>
+
+    Strings matched 0 times
+
+From file <becky05b.cha>
+
+    Strings matched 0 times
+
+From file <becky06a.cha>
+
+    Strings matched 0 times
+
+From file <becky06b.cha>
+
+    Strings matched 0 times
+
+From file <becky07a.cha>
+----------------------------------------
+*** File "becky07a.cha": line 1823.
+*INV:	poor old Tiny_Tears .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Tiny_Tears .
+
+    Strings matched 1 times
+
+From file <becky07b.cha>
+
+    Strings matched 0 times
+
+From file <becky08a.cha>
+----------------------------------------
+*** File "becky08a.cha": line 457.
+*MOT:	poor old Sukie .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sukie .
+----------------------------------------
+*** File "becky08a.cha": line 838.
+*MOT:	but he <might want> [//] might lie on this nice soft blanket .
+%mor:	conj|but pro:sub|he mod|might v|lie prep|on pro:dem|this (1)adj|nice
+	(1)adj|soft (1)n|blanket .
+
+    Strings matched 2 times
+
+From file <becky08b.cha>
+
+    Strings matched 0 times
+
+From file <becky09a.cha>
+----------------------------------------
+*** File "becky09a.cha": line 1876.
+*MOT:	poor old Sukie_cat .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sukie_cat .
+
+    Strings matched 1 times
+
+From file <becky09b.cha>
+
+    Strings matched 0 times
+
+From file <becky10a.cha>
+
+    Strings matched 0 times
+
+From file <becky10b.cha>
+
+    Strings matched 0 times
+
+From file <becky11a.cha>
+
+    Strings matched 0 times
+
+From file <becky11b.cha>
+
+    Strings matched 0 times
+
+From file <becky12a.cha>
+----------------------------------------
+*** File "becky12a.cha": line 1278.
+*INV:	he's having a nice little sleep here .
+%mor:	pro:sub|he~aux|be&3S part|have-PRESP det:art|a (1)adj|nice (1)adj|little
+	(1)n|sleep adv|here .
+
+    Strings matched 1 times
+
+From file <becky12b.cha>
+----------------------------------------
+*** File "becky12b.cha": line 1803.
+*MOT:	poor old Sukie .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Sukie .
+
+    Strings matched 1 times
+
+From file <becky13a.cha>
+
+    Strings matched 0 times
+
+From file <becky13b.cha>
+
+    Strings matched 0 times
+
+From file <becky14a.cha>
+----------------------------------------
+*** File "becky14a.cha": line 2591.
+*MOT:	he told me that you were a bit lively last night .
+%mor:	pro:sub|he v|tell&PAST pro:obj|me pro:rel|that pro:per|you
+	cop|be&PAST det:art|a n|bit (1)adj|lively (1)adj|last (1)n|night .
+
+    Strings matched 1 times
+
+From file <becky14b.cha>
+----------------------------------------
+*** File "becky14b.cha": line 1326.
+*MOT:	the big horrible dinosaur ?
+%mor:	det:art|the (1)adj|big (1)adj|horrible (1)n|dinosaur ?
+
+    Strings matched 1 times
+
+From file <becky15a.cha>
+
+    Strings matched 0 times
+
+From file <becky15b.cha>
+
+    Strings matched 0 times
+
+From file <becky16a.cha>
+
+    Strings matched 0 times
+
+From file <becky16b.cha>
+
+    Strings matched 0 times
+
+From file <becky17a.cha>
+
+    Strings matched 0 times
+
+From file <becky17b.cha>
+
+    Strings matched 0 times
+
+From file <becky18a.cha>
+----------------------------------------
+*** File "becky18a.cha": line 2700.
+*MOT:	let's find you a nice red mouth .
+%mor:	v|let~pro:obj|us v|find pro:per|you det:art|a (1)adj|nice (1)adj|red
+	(1)n|mouth .
+----------------------------------------
+*** File "becky18a.cha": line 2854.
+*MOT:	can you see another little blue circle there for me ?
+%mor:	mod|can pro:per|you v|see qn|another (1)adj|little (1)adj|blue (1)n|circle
+	adv|there prep|for pro:obj|me ?
+
+    Strings matched 2 times
+
+From file <becky18b.cha>
+
+    Strings matched 0 times
+
+From file <becky19a.cha>
+
+    Strings matched 0 times
+
+From file <becky19b.cha>
+
+    Strings matched 0 times
+
+From file <becky20a.cha>
+
+    Strings matched 0 times
+
+From file <becky20b.cha>
+
+    Strings matched 0 times
+
+From file <becky21a.cha>
+----------------------------------------
+*** File "becky21a.cha": line 1020.
+*MOT:	with the little thin bit at the bottom .
+%mor:	prep|with det:art|the (1)adj|little (1)adj|thin (1)n|bit prep|at det:art|the
+	n|bottom .
+
+    Strings matched 1 times
+
+From file <becky21b.cha>
+
+    Strings matched 0 times
+
+From file <becky22a.cha>
+
+    Strings matched 0 times
+
+From file <becky22b.cha>
+
+    Strings matched 0 times
+
+From file <becky23a.cha>
+
+    Strings matched 0 times
+
+From file <becky23b.cha>
+
+    Strings matched 0 times
+
+From file <becky24a.cha>
+
+    Strings matched 0 times
+
+From file <becky24b.cha>
+
+    Strings matched 0 times
+
+From file <becky25a.cha>
+----------------------------------------
+*** File "becky25a.cha": line 96.
+*INV:	do a big nice picture on Mummy's back .
+%mor:	v|do det:art|a (1)adj|big (1)adj|nice (1)n|picture prep|on
+	n:prop|Mummy~poss|s n|back .
+
+    Strings matched 1 times
+
+From file <becky25b.cha>
+----------------------------------------
+*** File "becky25b.cha": line 47.
+*INV:	they stick big long tongues out and catch flys .
+%mor:	pro:sub|they v|stick (1)adj|big (1)adj|long (1)n|tongue-PL adv|out coord|and
+	v|catch n|fly-PL .
+
+    Strings matched 1 times
+
+From file <becky26a.cha>
+
+    Strings matched 0 times
+
+From file <becky26b.cha>
+
+    Strings matched 0 times
+
+From file <becky27a.cha>
+
+    Strings matched 0 times
+
+From file <becky27b.cha>
+
+    Strings matched 0 times
+
+From file <becky28a.cha>
+
+    Strings matched 0 times
+
+From file <becky28b.cha>
+
+    Strings matched 0 times
+
+From file <becky29a.cha>
+----------------------------------------
+*** File "becky29a.cha": line 3131.
+*MOT:	a big bad baby monster ?
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|baby n|monster ?
+
+    Strings matched 1 times
+
+From file <becky29b.cha>
+
+    Strings matched 0 times
+
+From file <becky30a.cha>
+
+    Strings matched 0 times
+
+From file <becky30b.cha>
+
+    Strings matched 0 times
+
+From file <becky31a.cha>
+
+    Strings matched 0 times
+
+From file <becky31b.cha>
+
+    Strings matched 0 times
+
+From file <becky32a.cha>
+----------------------------------------
+*** File "becky32a.cha": line 848.
+*INV:	funny [/] funny little cat .
+%mor:	(1)adj|fun&dn-Y (1)adj|little (1)n|cat .
+
+    Strings matched 1 times
+
+From file <becky32b.cha>
+----------------------------------------
+*** File "becky32b.cha": line 2263.
+*MOT:	poor little soldier .
+%mor:	(1)adj|poor (1)adj|little (1)n|soldier .
+
+    Strings matched 1 times
+
+From file <becky33a.cha>
+----------------------------------------
+*** File "becky33a.cha": line 2419.
+*MOT:	poor little Becky .
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Becky .
+
+    Strings matched 1 times
+
+From file <becky33b.cha>
+
+    Strings matched 0 times
+
+From file <becky34a.cha>
+
+    Strings matched 0 times
+
+From file <becky34b.cha>
+
+    Strings matched 0 times
+

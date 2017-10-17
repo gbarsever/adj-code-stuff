@@ -1,0 +1,753 @@
+combo +t%mor -t*CHI -t*ISA -t*JOA -t*HAN -t*EMI -t*ROB -t*NIC -t*SHE -t*SAR -t*DAN -t*SHA -t*STE -t*PAU -t*STP -t*MAT -t*ANN -t*JAS -t*STU -t*REN -t*NEG -t*CLA -t*DOR -t*MIC -t*JOH -t*TRA -t*GEO -t*ANT -t*JAN -t*IAN -t*JUL -t*SIM -t*AND -t*NEI -t*JUS -t*DUS -t*MAR -t*LIS -t*ADA -t*CHR -t*CAT -t*KAT -t*NAO -t*TIN -t*FRA -t*LOU -t*FAY -t*KAY -t*TER -t*KIM -t*KER -t*KEL -t*DAL -t*LEE -t*SAL -t*RAC -t*DAV -t*PAT -t*DON -t*CAR -t*HAZ -t*AMA -t*DEA -t*ELA -t*OTH +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:32:20 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *ISA; *JOA; *HAN; *EMI; *ROB; *NIC; *SHE; *SAR; *DAN; *SHA; *STE; *PAU; *STP; *MAT; *ANN; *JAS; *STU; *REN; *NEG; *CLA; *DOR; *MIC; *JOH; *TRA; *GEO; *ANT; *JAN; *IAN; *JUL; *SIM; *AND; *NEI; *JUS; *DUS; *MAR; *LIS; *ADA; *CHR; *CAT; *KAT; *NAO; *TIN; *FRA; *LOU; *FAY; *KAY; *TER; *KIM; *KER; *KEL; *DAL; *LEE; *SAL; *RAC; *DAV; *PAT; *DON; *CAR; *HAZ; *AMA; *DEA; *ELA; *OTH;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai04.cha": line 711.
+*REB:	three little piglets funny old nose .
+%mor:	det:num|three adj|little n|piglet-PL (1)adj|fun&dn-Y (1)adj|old (1)n|nose .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai06.cha": line 1383.
+*MOT:	you funny old thing (2.) .
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|old (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Abigail/abigai07.cha": line 392.
+*REB:	nice little shoes on then .
+%mor:	(1)adj|nice (1)adj|little (1)n|shoe-PL adv|on adv:tem|then .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam05.cha": line 715.
+*MOT:	what a whiny little voice .
+%mor:	pro:int|what det:art|a (1)adj|whine&dv-Y (1)adj|little (1)n|voice .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam05.cha": line 851.
+*MOT:	big fat bully (3.) .
+%mor:	(1)adj|big (1)adj|fat (1)n|bully .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam05.cha": line 906.
+*MOT:	big fat leg .
+%mor:	(1)adj|big (1)adj|fat (1)n|leg .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam05.cha": line 911.
+*MOT:	and a skinny little knee (6.) .
+%mor:	coord|and det:art|a (1)adj|skin&dn-Y (1)adj|little (1)n|knee .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam06.cha": line 1054.
+*MOT:	you are a naughty little girl (6.) .
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|naughty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam06.cha": line 1073.
+*MOT:	you're a very naughty little girl [>] .
+%mor:	pro:per|you~aux|be&PRES det:art|a adv|very (1)adj|naughty (1)adj|little
+	(1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam06.cha": line 1208.
+*MOT:	nasty little beasties (2.) .
+%mor:	(1)adj|nasty (1)adj|little (1)n|beast-DIM-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Benjamin/benjam08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Betty/betty04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Betty/betty04.cha": line 383.
+*FAT:	vicious little sod (5.) .
+%mor:	(1)adj|vicious (1)adj|little (1)n|sod .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Betty/betty05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Betty/betty06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Betty/betty07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren05.cha": line 1193.
+*MOT:	so the little grey mouse came out_of his cupboard .
+%mor:	co|so det:art|the (1)adj|little (1)adj|grey (1)n|mouse v|come&PAST
+	prep|out_of det:poss|his n|cupboard .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren05.cha": line 1227.
+*MOT:	outside the wizard's house he met a big fierce dog .
+%mor:	prep|outside det:art|the n|wizard~poss|s n|house pro:sub|he
+	v|meet&PAST det:art|a (1)adj|big (1)adj|fierce (1)n|dog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren05.cha": line 1232.
+*MOT:	the big fierce dog sprang at him and chased him down the street .
+%mor:	det:art|the (1)adj|big (1)adj|fierce (1)n|dog v|spring&PAST prep|at
+	pro:obj|him coord|and v|chase-PAST pro:obj|him adv|down det:art|the
+	n|street .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren06.cha": line 2054.
+*MOT:	poor old Nod_nod .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Nod_nod .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren06.cha": line 2061.
+*MOT:	poor old Nod_nod .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Nod_nod .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Darren/darren07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha": line 1478.
+*GRA:	poor [>] little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha": line 1487.
+*GRA:	poor [<] little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha": line 1490.
+*GRA:	poor little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha": line 1502.
+*GRA:	poor little baby (3.) .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie05.cha": line 1512.
+*GRA:	poor little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Debbie/debbie07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen06.cha": line 172.
+*UNC:	xxx [<] [>] chubby little cheeks (2.) .
+%mor:	(1)adj|chubby (1)adj|little (1)n|cheek-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen07.cha": line 831.
+*MOT:	you can have a nice big glass full .
+%mor:	pro:per|you mod|can v|have det:art|a (1)adj|nice (1)adj|big (1)n|glass
+	adj|full .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen08.cha": line 1868.
+*MOT:	oh that's a nice (1.) little bike .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|bike .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Ellen/ellen08.cha": line 2036.
+*MOT:	<riding on a big fat pony> [<] [>] .
+%mor:	part|ride-PRESP prep|on det:art|a (1)adj|big (1)adj|fat (1)n|pony .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Elspeth/elspet04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Elspeth/elspet05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Elspeth/elspet06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Elspeth/elspet07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Elspeth/elspet07.cha": line 733.
+*FAT:	she a cross little girl isn't she ?
+%mor:	pro:sub|she det:art|a (1)adj|cross (1)adj|little (1)n|girl cop|be&3S~neg|not
+	pro:sub|she ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances07.cha": line 471.
+*MOT:	nice clean coat on the floor .
+%mor:	(1)adj|nice (1)adj|clean (1)n|coat prep|on det:art|the n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances07.cha": line 474.
+*MOT:	nice clean coat on the floor .
+%mor:	(1)adj|nice (1)adj|clean (1)n|coat prep|on det:art|the n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances07.cha": line 522.
+*MOT:	nasty old cough isn't it ?
+%mor:	(1)adj|nasty (1)adj|old (1)n|cough cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Frances/frances08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gary/gary04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gary/gary05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gary/gary06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gary/gary07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gavin/gavin05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gavin/gavin05.cha": line 477.
+*MOT:	funny little boy .
+%mor:	(1)adj|fun&dn-Y (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gavin/gavin07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr07.cha": line 1199.
+*MOT:	with a nice red hat give him .
+%mor:	prep|with det:art|a (1)adj|nice (1)adj|red (1)n|hat v|give pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr07.cha": line 1217.
+*MOT:	give him two little red dot eyes .
+%mor:	v|give pro:obj|him det:num|two (1)adj|little (1)adj|red (1)n|dot n|eye-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Geoffrey/geoffr07.cha": line 1301.
+*MOT:	bright red scarf .
+%mor:	(1)adj|bright (1)adj|red (1)n|scarf .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald05.cha": line 212.
+*MOT:	can you make a great big jump (5.) ?
+%mor:	mod|can pro:per|you v|make det:art|a (1)adj|great (1)adj|big (1)n|jump ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald06.cha": line 1036.
+*MOT:	+" what a naughty little rascal (1.) .
+%mor:	pro:int|what det:art|a (1)adj|naughty (1)adj|little (1)n|rascal .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Gerald/gerald08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Harriet/harrie04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Harriet/harrie05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Harriet/harrie06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Harriet/harrie06.cha": line 1411.
+*MOT:	+" lazy little Piggly_Wriggly often stays in bed to snore after
+	Mother pig had called him for he always snored before .
+%mor:	(1)adj|laze&dv-Y (1)adj|little (1)n:prop|Piggly_Wriggly adv|often
+	cop|stay-3S prep|in n|bed inf|to v|snore conj|after n:prop|Mother
+	n|pig aux|have&PAST part|call-PASTP pro:obj|him prep|for pro:sub|he
+	adv|always part|snore-PASTP adv|before .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Harriet/harrie07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Iris/iris04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Iris/iris04.cha": line 1493.
+*GRA:	funny funny nose he's got (3.) .
+%mor:	(1)adj|fun&dn-Y (1)adj|fun&dn-Y (1)n|nose pro:sub|he~aux|be&3S
+	part|get&PASTP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Iris/iris05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Iris/iris06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Iris/iris07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack07.cha": line 268.
+*MOT:	nice big tank look .
+%mor:	(1)adj|nice (1)adj|big (1)n|tank co|look .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jack/jack08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jason/jason04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jason/jason05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jason/jason06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jason/jason07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jonathan/jonath05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jonathan/jonath06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jonathan/jonath07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jonathan/jonath07.cha": line 423.
+*MOT:	get off you greasy little toad (8.) .
+%mor:	v|get prep|off pro:per|you (1)adj|grease&dn-Y (1)adj|little (1)n|toad .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Jonathan/jonath08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura06.cha": line 273.
+*MOT:	I see-ed [: saw] some beautiful little cars in the kitchen .
+%mor:	pro:sub|I v|see&PAST qn|some (1)adj|beautiful (1)adj|little (1)n|car-PL
+	prep|in det:art|the n|kitchen .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura06.cha": line 318.
+*MOT:	there's a nice little dress you've got on .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|dress
+	pro:per|you~aux|have v|get&PAST adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura06.cha": line 714.
+*MOT:	xxx old podgy face .
+%mor:	(1)adj|old (1)adj|podgy (1)n|face .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Laura/laura07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Lee/lee03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Lee/lee05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Lee/lee06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Lee/lee06.cha": line 18.
+*FAT:	you horrible little swine (3.) .
+%mor:	pro:per|you (1)adj|horrible (1)adj|little (1)n|swine .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Lee/lee07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Martin/martin04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Martin/martin05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Martin/martin06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Martin/martin07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Nancy/nancy04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Nancy/nancy05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Nancy/nancy06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Nancy/nancy07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neil/neil05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neil/neil06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill04.cha": line 639.
+*MOT:	look at they poor little dickie birds out in the rain (2.) .
+%mor:	cop|look prep|at pro:sub|they (1)adj|poor (1)adj|little (1)n|dick-DIM
+	n|bird-PL adv|out prep|in det:art|the n|rain .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill05.cha": line 898.
+*MOT:	want to go wee wee pottie ?
+%mor:	v|want inf|to v|go (1)adj|wee (1)adj|wee (1)n|pot-DIM ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill05.cha": line 904.
+*MOT:	do you want to go wee wee pottie (1.) ?
+%mor:	mod|do pro:per|you v|want inf|to v|go (1)adj|wee (1)adj|wee (1)n|pot-DIM ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Neville/nevill07.cha": line 1023.
+*MOT:	eensie weensie spider .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia05.cha": line 443.
+*MOT:	you lazy little cow (2.) .
+%mor:	pro:per|you (1)adj|laze&dv-Y (1)adj|little (1)n|cow .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia07.cha": line 180.
+*MOT:	what a nice sloppy kiss ?
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|slop&dn-Y (1)n|kiss ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Olivia/olivia08.cha": line 482.
+*NAN:	nobody won't leave their dear old man on a Saturday night .
+%mor:	pro:indef|nobody mod|will~neg|not v|leave det:poss|their (1)adj|dear
+	(1)adj|old (1)n|man prep|on det:art|a n:prop|Saturday n|night .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny07.cha": line 901.
+*MOT:	it's a dirty horrible red or brown or whatever it is .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|dirt&dn-Y (1)adj|horrible (1)n|red
+	coord|or adj|brown coord|or pro:int|whatever pro:per|it cop|be&3S .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Penny/penny08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Rosie/rosie04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Rosie/rosie05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Rosie/rosie06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Rosie/rosie07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Rosie/rosie07.cha": line 33.
+*MOT:	if you sees a nice cheap dolly along there you can get it for her
+	birthday .
+%mor:	conj|if pro:per|you v|see-3S det:art|a (1)adj|nice (1)adj|cheap
+	(1)n|doll-DIM prep|along adv|there pro:per|you mod|can aux|get
+	pro:per|it prep|for pro:obj|her n|+n|birth+n|day .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant05.cha": line 95.
+*MOT:	she's a funny little tyke (3.) .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|tyke .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant08.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant08.cha": line 20.
+*JON:	big bad wolf (1.) .
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Samantha/samant08.cha": line 23.
+*JON:	<who's afraid of> [>] the big bad wolf ?
+%mor:	pro:rel|who~cop|be&3S adj|afraid prep|of det:art|the (1)adj|big
+	(1)adj|bad (1)n|wolf ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sean/sean05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sean/sean06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sean/sean07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sheila/sheila05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sheila/sheila05.cha": line 496.
+*UNK:	poor little cat .
+%mor:	(1)adj|poor (1)adj|little (1)n|cat .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sheila/sheila06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sheila/sheila07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Sheila/sheila08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Simon/simon05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Simon/simon06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Stella/stella05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Stella/stella06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Stella/stella07.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Stella/stella08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony06.cha": line 320.
+*MOT:	well just in front of the baby sheep is a little tiny mouse .
+%mor:	co|well adv|just prep|in n|front prep|of det:art|the n|baby n|sheep
+	cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|mouse .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony07.cha": line 151.
+*MOT:	she gone a long long way away in a car .
+%mor:	pro:sub|she part|go&PASTP det:art|a (1)adj|long (1)adj|long (1)n|way
+	adv|away prep|in det:art|a n|car .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Wells/Tony/tony08.cha>
+
+    Strings matched 0 times
+

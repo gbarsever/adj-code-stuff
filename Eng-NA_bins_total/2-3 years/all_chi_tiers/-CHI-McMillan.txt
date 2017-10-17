@@ -1,0 +1,32 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:08:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rachel.cha>
+----------------------------------------
+*** File "rachel.cha": line 122.
+*MOT:	my dog is a big red dog .
+%mor:	det:poss|my n|dog cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|dog .
+----------------------------------------
+*** File "rachel.cha": line 194.
+*MOT:	you want to play on the big red ball ? %snd:"rachel"_133068_136213
+%mor:	pro:per|you v|want inf|to v|play prep|on det:art|the (1)adj|big
+	(1)adj|red (1)n|ball ?
+----------------------------------------
+*** File "rachel.cha": line 199.
+*MOT:	do you want to play on the big red ball ? %snd:"rachel"_138213_139300
+%mor:	mod|do pro:per|you v|want inf|to v|play prep|on det:art|the (1)adj|big
+	(1)adj|red (1)n|ball ?
+
+    Strings matched 3 times
+
+From file <sarah.cha>
+
+    Strings matched 0 times
+
+From file <triplets.cha>
+
+    Strings matched 0 times
+

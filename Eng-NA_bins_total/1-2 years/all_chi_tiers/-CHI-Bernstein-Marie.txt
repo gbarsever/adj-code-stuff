@@ -1,0 +1,26 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:35:17 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <marie1.cha>
+
+    Strings matched 0 times
+
+From file <marie2.cha>
+----------------------------------------
+*** File "marie2.cha": line 440.
+*MOT:	to make a nice soft &+s surface +... %snd:"marie2"_573296_576802
+%mor:	inf|to v|make det:art|a (1)adj|nice (1)adj|soft (1)n|surface +...
+
+    Strings matched 1 times
+
+From file <marie3.cha>
+----------------------------------------
+*** File "marie3.cha": line 746.
+*MOT:	nice red tongue +... %snd:"marie3"_1066681_1068074
+%mor:	(1)adj|nice (1)adj|red (1)n|tongue +...
+
+    Strings matched 1 times
+

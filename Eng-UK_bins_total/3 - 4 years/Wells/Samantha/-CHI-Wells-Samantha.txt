@@ -1,0 +1,67 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:13:47 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <samant02.cha>
+
+    Strings matched 0 times
+
+From file <samant03.cha>
+
+    Strings matched 0 times
+
+From file <samant04.cha>
+----------------------------------------
+*** File "samant04.cha": line 440.
+*NAN:	say what a stupid little thing (3.) .
+%mor:	v|say pro:int|what det:art|a (1)adj|stupid (1)adj|little (1)n|thing .
+
+    Strings matched 1 times
+
+From file <samant05.cha>
+----------------------------------------
+*** File "samant05.cha": line 95.
+*MOT:	she's a funny little tyke (3.) .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|tyke .
+
+    Strings matched 1 times
+
+From file <samant06.cha>
+
+    Strings matched 0 times
+
+From file <samant07.cha>
+
+    Strings matched 0 times
+
+From file <samant08.cha>
+----------------------------------------
+*** File "samant08.cha": line 20.
+*JON:	big bad wolf (1.) .
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "samant08.cha": line 23.
+*JON:	<who's afraid of> [>] the big bad wolf ?
+%mor:	pro:rel|who~cop|be&3S adj|afraid prep|of det:art|the (1)adj|big
+	(1)adj|bad (1)n|wolf ?
+
+    Strings matched 2 times
+
+From file <samant09.cha>
+
+    Strings matched 0 times
+
+From file <samant10.cha>
+----------------------------------------
+*** File "samant10.cha": line 455.
+*MOT:	poor little thing .
+%mor:	(1)adj|poor (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "samant10.cha": line 494.
+*MOT:	oh poor little kid [= N] .
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|kid .
+
+    Strings matched 2 times
+

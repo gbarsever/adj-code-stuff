@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00004945-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.13||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	I [/-] he calls me names a lot .
+%mor:	pro:sub|he v|call-3S pro:obj|me n|name-PL det:art|a n|lot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	he's always like trying to be [//] beat me at everything .
+%mor:	pro:sub|he~cop|be&3S adv|always co|like part|try-PRESP prep|to
+	n|beat pro:obj|me prep|at pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|XJCT 6|5|JCT 7|6|POBJ 8|5|XJCT
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*CHI:	no matter what I try and do he thinks that he's better !
+%mor:	co|no v|matter pro:int|what pro:sub|I v|try coord|and mod|do
+	pro:sub|he v|think-3S pro:rel|that pro:sub|he~aux|be&3S adj|good&CP
+	!
+%gra:	1|2|COM 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|CONJ 7|9|AUX 8|9|SUBJ
+	9|6|COORD 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|COMP 14|2|PUNCT
+*CHI:	really annoying !
+%mor:	adv|real&dadj-LY part|annoy-PRESP !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	and like he [/] he knows stuff that annoys me .
+%mor:	coord|and conj|like pro:sub|he v|know-3S n|stuff pro:rel|that
+	v|annoy-3S pro:obj|me .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|4|PUNCT
+*CHI:	so he tries to do it .
+%mor:	co|so pro:sub|he v|try-3S inf|to v|do pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	like if I want to watch like <a th(ing)> [//] like rugby or
+	something on the tellie he has_to change it over and watch football
+	.
+%mor:	co|like conj|if pro:sub|I v|want prep|to n|watch prep|like co|like
+	n|rugby coord|or pro:indef|something prep|on det:art|the n|tellie
+	pro:sub|he mod:aux|has_to v|change pro:per|it adv|over coord|and
+	n|watch n|+n|foot+n|ball .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|COM
+	9|7|POBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|SUBJ
+	16|17|AUX 17|11|CMOD 18|17|OBJ 19|17|JCT 20|17|CONJ 21|22|MOD 22|20|COORD
+	23|4|PUNCT
+*CHI:	I don't mind football but not as much as rugby .
+%mor:	pro:sub|I mod|do~neg|not v|mind n|+n|foot+n|ball conj|but neg|not
+	prep|as qn|much prep|as n|rugby .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|NEG 8|9|COORD
+	9|6|COORD 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*CHI:	so it [//] that really annoys me !
+%mor:	adv|so pro:rel|that adv|real&dadj-LY v|annoy-3S pro:obj|me !
+%gra:	1|2|JCT 2|4|LINK 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and like whatever I say I do something he's already done it .
+%mor:	coord|and co|like pro:int|whatever pro:sub|I v|say pro:sub|I v|do
+	pro:indef|something pro:sub|he~cop|be&3S adv|already part|do&PASTP
+	pro:per|it .
+%gra:	1|5|LINK 2|5|COM 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|10|SUBJ 10|7|COMP 11|12|JCT 12|10|PRED 13|12|OBJ 14|5|PUNCT
+*CHI:	so he thinks that he's better .
+%mor:	co|so pro:sub|he v|think-3S pro:rel|that pro:sub|he~aux|be&3S
+	adj|good&CP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|PRED 8|3|PUNCT
+*INV:	+< uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	like generally stuff like that !
+%mor:	prep|like adv|general&dadj-LY n|stuff prep|like pro:dem|that !
+%gra:	1|0|INCROOT 2|3|JCT 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

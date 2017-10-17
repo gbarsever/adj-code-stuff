@@ -1,0 +1,191 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:59:57 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <c1-1207.cha>
+----------------------------------------
+*** File "c1-1207.cha": line 35.
+*MOT:	it's just a dirty old thing &=noise . %snd:"c1-f4apr97"_24170_26100
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|dirt&dn-Y (1)adj|old
+	(1)n|thing .
+----------------------------------------
+*** File "c1-1207.cha": line 47.
+*MOT:	it won't taste any better next time than now either &=laugh . %snd:"c1-f4apr97"_31035_34176
+%mor:	pro:per|it mod|will~neg|not v|taste qn|any (1)adj|good&CP (1)adj|next
+	(1)n|time prep|than adv|now adv|either .
+----------------------------------------
+*** File "c1-1207.cha": line 98.
+*MOT:	(be)cause you got dirty dirty hands . %snd:"c1-f4apr97"_94201_96739
+%mor:	conj|because pro:per|you v|get&PAST (1)adj|dirt&dn-Y (1)adj|dirt&dn-Y
+	(1)n|hand-PL .
+----------------------------------------
+*** File "c1-1207.cha": line 225.
+*MOT:	that's a pretty awful little noise there . %snd:"c1-f4apr97"_217148_219262
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|pretty (1)adj|awful (1)adj|little
+	(1)n|noise adv|there .
+----------------------------------------
+*** File "c1-1207.cha": line 1493.
+*MOT:	you have no hair to keep your bald little head warm . %snd:"c1-f4apr97"_2174732_2178183
+%mor:	pro:per|you v|have qn|no n|hair inf|to v|keep det:poss|your
+	(1)adj|bald (1)adj|little (1)n|head v|warm .
+----------------------------------------
+*** File "c1-1207.cha": line 2098.
+*MOT:	there are no big tall rocks in our creek though . %snd:"c1-f4apr97"_3072799_3075262
+%mor:	adv|there cop|be&PRES qn|no (1)adj|big (1)adj|tall (1)n|rock-PL prep|in
+	det:poss|our n|creek adv|though .
+----------------------------------------
+*** File "c1-1207.cha": line 2169.
+*MOT:	bumpy bumpy tree . %snd:"c1-f4apr97"_3153197_3154825
+%mor:	(1)adj|bump&dv-Y (1)adj|bump&dv-Y (1)n|tree .
+----------------------------------------
+*** File "c1-1207.cha": line 2286.
+*MOT:	tasty tasty finger ? %snd:"c1-f4apr97"_3308586_3310483
+%mor:	(1)adj|taste&dn-Y (1)adj|taste&dn-Y (1)n|finger ?
+----------------------------------------
+*** File "c1-1207.cha": line 2329.
+*MOT:	look at the (...) little white flowers again ! %snd:"c1-f4apr97"_3399894_3402218
+%mor:	cop|look prep|at det:art|the (1)adj|little (1)adj|white (1)n|flower-PL
+	adv|again !
+----------------------------------------
+*** File "c1-1207.cha": line 2434.
+*MOT:	look at the pretty yellow flower ! %snd:"c1-f4apr97"_3601829_3603721
+%mor:	co|look prep|at det:art|the (1)adj|pretty (1)adj|yellow (1)n|flower !
+----------------------------------------
+*** File "c1-1207.cha": line 2464.
+*MOT:	Morgie , look at Daddy's pretty yellow bushes ! %snd:"c1-f4apr97"_3656682_3659184
+%mor:	n:prop|Morgie cm|cm cop|look prep|at n:prop|Daddy~poss|s (1)adj|pretty
+	(1)adj|yellow (1)n|bush-PL !
+----------------------------------------
+*** File "c1-1207.cha": line 2490.
+*MOT:	look at Daddy's pretty yellow bush ! %snd:"c1-f4apr97"_3701049_3702874
+%mor:	cop|look prep|at n:prop|Daddy~poss|s (1)adj|pretty (1)adj|yellow (1)n|bush !
+----------------------------------------
+*** File "c1-1207.cha": line 2583.
+*MOT:	it's just a nasty old piece of bark &=noise . %snd:"c1-f4apr97"_3895639_3898408
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|nasty (1)adj|old (1)n|piece
+	prep|of n|bark .
+----------------------------------------
+*** File "c1-1207.cha": line 2592.
+*MOT:	it's a nasty old piece of tree bark . %snd:"c1-f4apr97"_3903864_3905960
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nasty (1)adj|old (1)n|piece prep|of
+	n|tree n|bark .
+
+    Strings matched 14 times
+
+From file <c1-1217.cha>
+----------------------------------------
+*** File "c1-1217.cha": line 1953.
+*MOT:	look at this pretty yellow flower ! %snd:"c1-m14apr97"_3350532_3353376
+%mor:	cop|look prep|at pro:dem|this (1)adj|pretty (1)adj|yellow (1)n|flower !
+----------------------------------------
+*** File "c1-1217.cha": line 2033.
+*MOT:	but these little purple weeds . %snd:"c1-m14apr97"_3482618_3484372
+%mor:	conj|but pro:dem|these (1)adj|little (1)adj|purple (1)n|weed-PL .
+----------------------------------------
+*** File "c1-1217.cha": line 2581.
+*MOT:	look at your li(tt)le naked foot ! %snd:"c1-m14apr97"_4339371_4340759
+%mor:	cop|look prep|at det:poss|your (1)adj|little (1)adj|naked (1)n|foot !
+
+    Strings matched 3 times
+
+From file <c1-1309.cha>
+----------------------------------------
+*** File "c1-1309.cha": line 872.
+*MOT:	you are one messy little girl . %snd:"c1-w7may97"_2092187_2093912
+%mor:	pro:per|you cop|be&PRES det:num|one (1)adj|mess&dn-Y (1)adj|little (1)n|girl
+	.
+----------------------------------------
+*** File "c1-1309.cha": line 1433.
+*MOT:	let's see if we can have a clean clean spaghetti free nose ! %snd:"c1-w7may97"_3064709_3067561
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|have det:art|a
+	(1)adj|clean (1)adj|clean (1)n|spaghetti adv|free v|nose !
+----------------------------------------
+*** File "c1-1309.cha": line 2056.
+*MOT:	you got a clean little bottom . %snd:"c1-w7may97"_3654423_3655915
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|clean (1)adj|little (1)n|bottom .
+----------------------------------------
+*** File "c1-1309.cha": line 2104.
+*MOT:	had lotion on Morgan's feet and her little bitty toes . %snd:"c1-w7may97"_3692544_3695214
+%mor:	v|have&PAST n|lotion prep|on n:prop|Morgan~poss|s n|foot&PL
+	coord|and det:poss|her (1)adj|little (1)adj|bit&dn-Y (1)n|toe-PL .
+
+    Strings matched 4 times
+
+From file <c1-1321.cha>
+----------------------------------------
+*** File "c1-1321.cha": line 322.
+*MOT:	good good dinner ? %snd:"c1-m19may97"_1426367_1427224
+%mor:	(1)adj|good (1)adj|good (1)n|dinner ?
+----------------------------------------
+*** File "c1-1321.cha": line 391.
+*MOT:	this [?] little bald head . %snd:"c1-m19may97"_1517031_1518180
+%mor:	pro:dem|this (1)adj|little (1)adj|bald (1)n|head .
+----------------------------------------
+*** File "c1-1321.cha": line 1104.
+*MOT:	your sweaty little head . %snd:"c1-m19may97"_2423075_2423999
+%mor:	det:poss|your (1)adj|sweat&dn-Y (1)adj|little (1)n|head .
+----------------------------------------
+*** File "c1-1321.cha": line 1628.
+*MOT:	let's go up and get a clean clean clean clean clean clean clean
+	clean clean diaper [=! voice] ! %snd:"c1-m19may97"_3119534_3123675
+%mor:	v|let~pro:obj|us v|go adv|up coord|and v|get det:art|a adj|clean
+	adj|clean adj|clean adj|clean adj|clean adj|clean adj|clean
+	(1)adj|clean (1)adj|clean (1)n|diaper !
+
+    Strings matched 4 times
+
+From file <c1-1329.cha>
+----------------------------------------
+*** File "c1-1329.cha": line 184.
+*MOT:	good good water . %snd:"c1-t27may97"_232949_234150
+%mor:	(1)adj|good (1)adj|good (1)n|water .
+----------------------------------------
+*** File "c1-1329.cha": line 2399.
+*MOT:	a thin silky thread [=! read] . %snd:"c1-t27may97"_3540463_3542365
+%mor:	det:art|a (1)adj|thin (1)adj|silk&dn-Y (1)n|thread .
+----------------------------------------
+*** File "c1-1329.cha": line 2405.
+*MOT:	thin silky thread trailed from her body [=! read] . %snd:"c1-t27may97"_3543942_3546815
+%mor:	(1)adj|thin (1)adj|silk&dn-Y (1)n|thread v|trail-PAST prep|from det:poss|her
+	n|body .
+
+    Strings matched 3 times
+
+From file <c1-1417.cha>
+----------------------------------------
+*** File "c1-1417.cha": line 1396.
+*MOT:	that's a big pink flower . %snd:"c1-h14jun97"_1768459_1770116
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|pink (1)n|flower .
+----------------------------------------
+*** File "c1-1417.cha": line 2719.
+*MOT:	yeah it makes a nice shaky noise doesn't it ? %snd:"c1-h14jun97"_3492777_3495508
+%mor:	co|yeah pro:per|it v|make-3S det:art|a (1)adj|nice (1)adj|shake&dv-Y
+	(1)n|noise mod|do&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "c1-1417.cha": line 2739.
+*MOT:	okay if we're gonna play ball we're gonna play with a nice soft
+	ball . %snd:"c1-h14jun97"_3505668_3509240
+%mor:	adj|okay conj|if pro:sub|we~aux|be&PRES part|go-PRESP~inf|to n|play
+	n|ball pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|play prep|with
+	det:art|a (1)adj|nice (1)adj|soft (1)n|ball .
+
+    Strings matched 3 times
+
+From file <c1-1504.cha>
+----------------------------------------
+*** File "c1-1504.cha": line 343.
+*MOT:	big big doggie . %snd:"c1-w2jul97"_741828_743067
+%mor:	(1)adj|big (1)adj|big (1)n|dog-DIM .
+----------------------------------------
+*** File "c1-1504.cha": line 562.
+*MOT:	such a big strong girl . %snd:"c1-w2jul97"_1306599_1308415
+%mor:	qn|such det:art|a (1)adj|big (1)adj|strong (1)n|girl .
+----------------------------------------
+*** File "c1-1504.cha": line 913.
+*MOT:	a little bitty bird . %snd:"c1-w2jul97"_1739636_1740670
+%mor:	det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|bird .
+
+    Strings matched 3 times
+

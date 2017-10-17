@@ -1,0 +1,263 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:51:05 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11006.cha>
+
+    Strings matched 0 times
+
+From file <11013.cha>
+
+    Strings matched 0 times
+
+From file <11023.cha>
+
+    Strings matched 0 times
+
+From file <11025.cha>
+----------------------------------------
+*** File "11025.cha": line 47.
+*INV:	I'm gonna dump it all out so we have one big loud noise for our
+	listeners .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|dump pro:per|it adv|all
+	adv|out conj|so pro:sub|we v|have pro:indef|one (1)adj|big (1)adj|loud
+	(1)n|noise prep|for det:poss|our n|listen&dv-AGT-PL .
+
+    Strings matched 1 times
+
+From file <11051.cha>
+
+    Strings matched 0 times
+
+From file <11053.cha>
+
+    Strings matched 0 times
+
+From file <11055.cha>
+
+    Strings matched 0 times
+
+From file <11057.cha>
+
+    Strings matched 0 times
+
+From file <12003.cha>
+----------------------------------------
+*** File "12003.cha": line 148.
+*INV:	I see a great big bed .
+%mor:	pro:sub|I v|see det:art|a (1)adj|great (1)adj|big (1)n|bed .
+
+    Strings matched 1 times
+
+From file <12004.cha>
+
+    Strings matched 0 times
+
+From file <12007.cha>
+
+    Strings matched 0 times
+
+From file <12008.cha>
+
+    Strings matched 0 times
+
+From file <12011.cha>
+
+    Strings matched 0 times
+
+From file <12014.cha>
+
+    Strings matched 0 times
+
+From file <12015.cha>
+
+    Strings matched 0 times
+
+From file <12029.cha>
+
+    Strings matched 0 times
+
+From file <12033.cha>
+----------------------------------------
+*** File "12033.cha": line 155.
+*INV:	that's a great big family .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|family .
+----------------------------------------
+*** File "12033.cha": line 472.
+*INV:	well look at this great big bed .
+%mor:	co|well cop|look prep|at pro:dem|this (1)adj|great (1)adj|big (1)n|bed .
+
+    Strings matched 2 times
+
+From file <12037.cha>
+
+    Strings matched 0 times
+
+From file <12050.cha>
+----------------------------------------
+*** File "12050.cha": line 58.
+*INV:	that makes a little less noise later on for the <person listening>
+	[>] .
+%mor:	pro:rel|that v|make-3S det:art|a (1)adj|little (1)adj|less (1)n|noise
+	adv|later adv|on prep|for det:art|the n|person part|listen-PRESP .
+
+    Strings matched 1 times
+
+From file <12056.cha>
+
+    Strings matched 0 times
+
+From file <12061.cha>
+
+    Strings matched 0 times
+
+From file <12071.cha>
+
+    Strings matched 0 times
+
+From file <12077.cha>
+
+    Strings matched 0 times
+
+From file <12095.cha>
+
+    Strings matched 0 times
+
+From file <21092.cha>
+
+    Strings matched 0 times
+
+From file <21097.cha>
+
+    Strings matched 0 times
+
+From file <21099.cha>
+
+    Strings matched 0 times
+
+From file <21116.cha>
+----------------------------------------
+*** File "21116.cha": line 841.
+*INV:	oh she's [/?] she's got a nice big plate .
+%mor:	co|oh pro:sub|she~aux|be&3S part|get&PASTP det:art|a (1)adj|nice
+	(1)adj|big (1)n|plate .
+
+    Strings matched 1 times
+
+From file <21121.cha>
+----------------------------------------
+*** File "21121.cha": line 168.
+*INV:	there's a little tiny owie there .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|owie
+	adv|there .
+
+    Strings matched 1 times
+
+From file <21132.cha>
+
+    Strings matched 0 times
+
+From file <21135.cha>
+
+    Strings matched 0 times
+
+From file <21189.cha>
+
+    Strings matched 0 times
+
+From file <21191.cha>
+----------------------------------------
+*** File "21191.cha": line 312.
+*INV:	look it there's a great big bed .
+%mor:	co|look pro:per|it pro:exist|there~cop|be&3S det:art|a (1)adj|great
+	(1)adj|big (1)n|bed .
+----------------------------------------
+*** File "21191.cha": line 657.
+*INV:	that would be a pretty good deal .
+%mor:	pro:dem|that mod|will&COND cop|be det:art|a (1)adj|pretty (1)adj|good
+	(1)n|deal .
+
+    Strings matched 2 times
+
+From file <22089.cha>
+
+    Strings matched 0 times
+
+From file <22101.cha>
+
+    Strings matched 0 times
+
+From file <22103.cha>
+
+    Strings matched 0 times
+
+From file <22108.cha>
+
+    Strings matched 0 times
+
+From file <22109.cha>
+
+    Strings matched 0 times
+
+From file <22113.cha>
+
+    Strings matched 0 times
+
+From file <22118.cha>
+
+    Strings matched 0 times
+
+From file <22120.cha>
+----------------------------------------
+*** File "22120.cha": line 90.
+*INV:	yeah there's just a nice little space right there .
+%mor:	co|yeah pro:exist|there~cop|be&3S adv|just det:art|a (1)adj|nice
+	(1)adj|little (1)n|space adv|right adv|there .
+----------------------------------------
+*** File "22120.cha": line 343.
+*INV:	okay you know what and there's a little bouncy seat for the other
+	baby .
+%mor:	co|okay pro:per|you v|know pro:int|what coord|and
+	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|bounce&dv-Y
+	(1)n|seat prep|for det:art|the qn|other n|baby .
+
+    Strings matched 2 times
+
+From file <22124.cha>
+
+    Strings matched 0 times
+
+From file <22128.cha>
+----------------------------------------
+*** File "22128.cha": line 603.
+*INV:	a nice soft bed .
+%mor:	det:art|a (1)adj|nice (1)adj|soft (1)n|bed .
+
+    Strings matched 1 times
+
+From file <22148.cha>
+
+    Strings matched 0 times
+
+From file <22180.cha>
+
+    Strings matched 0 times
+
+From file <22181.cha>
+
+    Strings matched 0 times
+
+From file <22184.cha>
+
+    Strings matched 0 times
+
+From file <22186.cha>
+
+    Strings matched 0 times
+
+From file <22187.cha>
+
+    Strings matched 0 times
+

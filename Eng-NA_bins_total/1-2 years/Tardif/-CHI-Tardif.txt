@@ -1,0 +1,203 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:13:23 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <e01.cha>
+----------------------------------------
+*** File "e01.cha": line 304.
+*MOT:	itsy bitsy mouse (.) went up the front of you .
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|mouse v|go&PAST adv|up det:art|the n|front
+	prep|of pro:per|you .
+----------------------------------------
+*** File "e01.cha": line 894.
+*MOT:	<great big dinosaur> [=! deeply] .
+%mor:	(1)adj|great (1)adj|big (1)n|dinosaur .
+
+    Strings matched 2 times
+
+From file <e02.cha>
+----------------------------------------
+*** File "e02.cha": line 1214.
+*MOT:	you're such a ticklish little guy .
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|ticklish (1)adj|little
+	(1)n|guy .
+
+    Strings matched 1 times
+
+From file <e03.cha>
+
+    Strings matched 0 times
+
+From file <e04.cha>
+----------------------------------------
+*** File "e04.cha": line 667.
+*MOT:	that's a pretty big book .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|book .
+
+    Strings matched 1 times
+
+From file <e06.cha>
+----------------------------------------
+*** File "e06.cha": line 1238.
+*MOT:	he's a pretty neat frog , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|frog cm|cm
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "e06.cha": line 2464.
+*MOT:	yeah [: yes] , that's a pretty neat car .
+%mor:	co|yes cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat
+	(1)n|car .
+
+    Strings matched 2 times
+
+From file <e07.cha>
+
+    Strings matched 0 times
+
+From file <e08.cha>
+----------------------------------------
+*** File "e08.cha": line 375.
+*MOT:	see all these little pink ones and little tiny blue ones .
+%mor:	v|see qn|all pro:dem|these adj|little n|pink det:num|one-PL
+	coord|and (1)adj|little (1)adj|tiny (1)n|blue pro:indef|one-PL .
+----------------------------------------
+*** File "e08.cha": line 734.
+*MOT:	bugs , creepy old bugs .
+%mor:	n|bug-PL cm|cm (1)adj|creep&dn-Y (1)adj|old (1)n|bug-PL .
+----------------------------------------
+*** File "e08.cha": line 2486.
+*MOT:	I like to put them in a nice tall tower .
+%mor:	pro:sub|I v|like inf|to v|put&ZERO pro:obj|them prep|in det:art|a
+	(1)adj|nice (1)adj|tall (1)n|tower .
+
+    Strings matched 3 times
+
+From file <e09.cha>
+----------------------------------------
+*** File "e09.cha": line 861.
+*MOT:	these are some pretty neat toys , huh ?
+%mor:	pro:dem|these cop|be&PRES qn|some (1)adj|pretty (1)adj|neat (1)n|toy-PL
+	cm|cm co|huh ?
+
+    Strings matched 1 times
+
+From file <e10.cha>
+----------------------------------------
+*** File "e10.cha": line 147.
+*MOT:	just like in your hungry little caterpillar .
+%mor:	adv|just prep|like prep|in det:poss|your (1)adj|hungry (1)adj|little
+	(1)n|caterpillar .
+----------------------------------------
+*** File "e10.cha": line 1380.
+*MOT:	huh yeah [: yes] that's a pretty cool telephone .
+%mor:	co|huh co|yes pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|cool
+	(1)n|telephone .
+
+    Strings matched 2 times
+
+From file <e11.cha>
+----------------------------------------
+*** File "e11.cha": line 642.
+*MOT:	the great big Daddy bear .
+%mor:	det:art|the (1)adj|great (1)adj|big (1)n:prop|Daddy n|bear .
+----------------------------------------
+*** File "e11.cha": line 806.
+*MOT:	&+aw look at his great big ears .
+%mor:	cop|look prep|at det:poss|his (1)adj|great (1)adj|big (1)n|ear-PL .
+
+    Strings matched 2 times
+
+From file <e12.cha>
+
+    Strings matched 0 times
+
+From file <e13.cha>
+
+    Strings matched 0 times
+
+From file <e14.cha>
+
+    Strings matched 0 times
+
+From file <e15.cha>
+
+    Strings matched 0 times
+
+From file <e16.cha>
+
+    Strings matched 0 times
+
+From file <e17.cha>
+
+    Strings matched 0 times
+
+From file <e18.cha>
+
+    Strings matched 0 times
+
+From file <e19.cha>
+
+    Strings matched 0 times
+
+From file <e20.cha>
+----------------------------------------
+*** File "e20.cha": line 458.
+*MOT:	that almost looks like your dressy dressy doll .
+%mor:	pro:dem|that adv|almost cop|look-3S prep|like det:poss|your
+	(1)adj|dress&dv-Y (1)adj|dress&dv-Y (1)n|doll .
+----------------------------------------
+*** File "e20.cha": line 1393.
+*MOT:	have your own little stand .
+%mor:	v|have det:poss|your (1)adj|own (1)adj|little (1)n|stand .
+
+    Strings matched 2 times
+
+From file <e21.cha>
+
+    Strings matched 0 times
+
+From file <e22.cha>
+
+    Strings matched 0 times
+
+From file <e23.cha>
+----------------------------------------
+*** File "e23.cha": line 1732.
+*MOT:	he's a good little guy .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|good (1)adj|little (1)n|guy .
+----------------------------------------
+*** File "e23.cha": line 2115.
+*MOT:	look at , we can build a great big tower: !
+%mor:	cop|look prep|at cm|cm pro:sub|we mod|can v|build det:art|a
+	(1)adj|great (1)adj|big (1)n|tower !
+
+    Strings matched 2 times
+
+From file <e24.cha>
+
+    Strings matched 0 times
+
+From file <e25.cha>
+----------------------------------------
+*** File "e25.cha": line 79.
+*MOT:	&+aw , there's a great big lion .
+%mor:	cm|cm pro:exist|there~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|lion
+	.
+----------------------------------------
+*** File "e25.cha": line 1746.
+*MOT:	<the itsy bitsy spi:der> [=! singing] +...
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider +...
+----------------------------------------
+*** File "e25.cha": line 2289.
+*MOT:	yeah [: yes] , those are pink little balls .
+%mor:	co|yes cm|cm pro:dem|those cop|be&PRES (1)adj|pink (1)adj|little
+	(1)n|ball-PL .
+
+    Strings matched 3 times
+
+From file <e26book.cha>
+
+    Strings matched 0 times
+

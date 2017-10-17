@@ -1,0 +1,241 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:10:00 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+
+    Strings matched 0 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <06.cha>
+
+    Strings matched 0 times
+
+From file <07.cha>
+
+    Strings matched 0 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <13.cha>
+----------------------------------------
+*** File "13.cha": line 1582.
+*MOT:	naughty naughty Michael .
+%mor:	(1)adj|naughty (1)adj|naughty (1)n:prop|Michael .
+
+    Strings matched 1 times
+
+From file <14.cha>
+----------------------------------------
+*** File "14.cha": line 372.
+*MOT:	an old old car .
+%mor:	det:art|a (1)adj|old (1)adj|old (1)n|car .
+
+    Strings matched 1 times
+
+From file <15.cha>
+
+    Strings matched 0 times
+
+From file <16.cha>
+
+    Strings matched 0 times
+
+From file <19.cha>
+
+    Strings matched 0 times
+
+From file <20.cha>
+
+    Strings matched 0 times
+
+From file <23.cha>
+
+    Strings matched 0 times
+
+From file <25.cha>
+----------------------------------------
+*** File "25.cha": line 2357.
+*MOT:	do you wanna color with a nice dark color ?
+%mor:	mod|do pro:per|you v|want~inf|to v|color prep|with det:art|a
+	(1)adj|nice (1)adj|dark (1)n|color ?
+
+    Strings matched 1 times
+
+From file <26.cha>
+----------------------------------------
+*** File "26.cha": line 335.
+*MOT:	they're a little funny xxx eyes aren't they ?
+%mor:	pro:sub|they~aux|be&PRES det:art|a (1)adj|little (1)adj|fun&dn-Y (1)n|eye-PL
+	aux|be&PRES~neg|not pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <27.cha>
+
+    Strings matched 0 times
+
+From file <28.cha>
+
+    Strings matched 0 times
+
+From file <29.cha>
+
+    Strings matched 0 times
+
+From file <30.cha>
+
+    Strings matched 0 times
+
+From file <31.cha>
+
+    Strings matched 0 times
+
+From file <32.cha>
+
+    Strings matched 0 times
+
+From file <34.cha>
+
+    Strings matched 0 times
+
+From file <36.cha>
+
+    Strings matched 0 times
+
+From file <38.cha>
+
+    Strings matched 0 times
+
+From file <43.cha>
+
+    Strings matched 0 times
+
+From file <45.cha>
+
+    Strings matched 0 times
+
+From file <49.cha>
+
+    Strings matched 0 times
+
+From file <55.cha>
+----------------------------------------
+*** File "55.cha": line 490.
+*INV:	I don't remember him being so shy last time .
+%mor:	pro:sub|I mod|do~neg|not v|remember pro:obj|him part|be-PRESP
+	adv|so (1)adj|shy (1)adj|last (1)n|time .
+
+    Strings matched 1 times
+
+From file <57.cha>
+
+    Strings matched 0 times
+
+From file <59.cha>
+
+    Strings matched 0 times
+
+From file <60.cha>
+
+    Strings matched 0 times
+
+From file <61.cha>
+----------------------------------------
+*** File "61.cha": line 987.
+*MOT:	big blue ball .
+%mor:	(1)adj|big (1)adj|blue (1)n|ball .
+
+    Strings matched 1 times
+
+From file <65.cha>
+
+    Strings matched 0 times
+
+From file <66.cha>
+
+    Strings matched 0 times
+
+From file <68.cha>
+----------------------------------------
+*** File "68.cha": line 2249.
+*MOT:	+^ it's [= CHI's drawing] starting to look like a rainbow or a real
+	<pretty sky> [>] .
+%mor:	pro:per|it~aux|be&3S part|start-PRESP inf|to cop|look conj|like
+	det:art|a n|+n|rain+n|bow coord|or det:art|a (1)adj|real (1)adj|pretty
+	(1)n|sky .
+
+    Strings matched 1 times
+
+From file <70.cha>
+
+    Strings matched 0 times
+
+From file <75.cha>
+
+    Strings matched 0 times
+
+From file <84.cha>
+
+    Strings matched 0 times
+
+From file <85.cha>
+
+    Strings matched 0 times
+
+From file <86.cha>
+
+    Strings matched 0 times
+
+From file <87.cha>
+
+    Strings matched 0 times
+
+From file <90.cha>
+----------------------------------------
+*** File "90.cha": line 1212.
+*INV:	that [= activity] was easy enough Jenessa .
+%mor:	pro:dem|that cop|be&PAST&13S (1)adj|ease&dn-Y (1)adj|enough
+	(1)n:prop|Jenessa .
+
+    Strings matched 1 times
+
+From file <92.cha>
+----------------------------------------
+*** File "92.cha": line 1242.
+*MOT:	real big throwing .
+%mor:	(1)adj|real (1)adj|big (1)n:gerund|throw-PRESP .
+
+    Strings matched 1 times
+
+From file <96.cha>
+
+    Strings matched 0 times
+
+From file <97.cha>
+
+    Strings matched 0 times
+
+From file <98.cha>
+
+    Strings matched 0 times
+
+From file <99.cha>
+
+    Strings matched 0 times
+

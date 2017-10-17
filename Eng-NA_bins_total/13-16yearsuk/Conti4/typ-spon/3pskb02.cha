@@ -1,0 +1,115 @@
+@UTF8
+@PID:	11312/c-00004918-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;11.21||||Target_Child|||
+@Date:	12-JUL-2001
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	one thing he did yesterday , he (.) passed his driving test first
+	time .
+%mor:	det:num|one n|thing pro:sub|he mod|do&PAST adv:tem|yesterday cm|cm
+	pro:sub|he v|pass-PAST det:poss|his part|drive-PRESP n|test
+	adj|first n|time .
+%gra:	1|2|QUANT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|JCT 6|5|LP 7|8|SUBJ 8|0|ROOT
+	9|11|MOD 10|11|MOD 11|13|MOD 12|13|MOD 13|8|OBJ 14|8|PUNCT
+*CHI:	and he was just so big+headed about it .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|just adv|so
+	adj|+adj|big+adj|headed prep|about pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|PRED 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	and he kept &-um annoying me by saying +"/.
+%mor:	coord|and pro:sub|he v|keep&PAST n:gerund|annoy-PRESP pro:obj|me
+	adv|by part|say-PRESP +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|4|JCT 7|4|XJCT 8|3|PUNCT
+*CHI:	+" I passed my test I passed <my best> [//] my test there's no way
+	you can beat me now !
+%mor:	pro:sub|I v|pass-PAST det:poss|my n|test pro:sub|I v|pass-PAST
+	det:poss|my n|test pro:exist|there~cop|be&3S qn|no n|way pro:per|you
+	mod|can v|beat&ZERO pro:obj|me adv|now !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|SUBJ 6|2|CJCT 7|8|MOD 8|6|OBJ
+	9|10|SUBJ 10|6|COMP 11|12|QUANT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|10|PRED
+	16|15|OBJ 17|15|JCT 18|2|PUNCT
+*CHI:	and I go +"/.
+%mor:	coord|and pro:sub|I v|go +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	+" there is one way that I can beat you .
+%mor:	adv|there cop|be&3S det:num|one n|way pro:rel|that pro:sub|I
+	mod|can v|beat&ZERO pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+*CHI:	I can pass my theory test first , because he didn't pass his theory
+	test first .
+%mor:	pro:sub|I mod|can v|pass det:poss|my n|theory n|test adv|first
+	cm|cm conj|because pro:sub|he mod|do&PAST~neg|not v|pass
+	det:poss|his n|theory n|test adv|first .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|LP
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|3|CJCT 14|15|MOD 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|3|PUNCT
+*CHI:	so I can pass that first .
+%mor:	co|so pro:sub|I mod|can v|pass pro:dem|that adv|first .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	and he kept beating me up as_well .
+%mor:	coord|and pro:sub|he v|keep&PAST n:gerund|beat-PRESP pro:obj|me
+	adv|up adv|as_well .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|4|JCT 7|3|JCT 8|3|PUNCT
+*CHI:	so he's quite annoying (.) .
+%mor:	conj|so pro:sub|he~cop|be&3S adv|quite part|annoy-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	not beating me up .
+%mor:	neg|not part|beat-PRESP pro:obj|me adv|up .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	he just kept kicking me and stuff like <that> [>] .
+%mor:	pro:sub|he adv|just v|keep&PAST n:gerund|kick-PRESP pro:obj|me
+	coord|and n|stuff prep|like pro:dem|that .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|4|CONJ 7|6|COORD 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	<yeah> [<] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<and that> [/-] but he's [//] he can be nice .
+%mor:	conj|but pro:sub|he mod|can cop|be adj|nice .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	and he can be annoying .
+%mor:	coord|and pro:sub|he mod|can aux|be part|annoy-PRESP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	okay what sort of things generally what sort of things does he do
+	that are annoying and +...
+%mor:	co|okay det:int|what n|sort prep|of n|thing-PL adv|general&dadj-LY
+	det:int|what n|sort prep|of n|thing-PL mod|do&3S pro:sub|he v|do
+	det:dem|that aux|be&PRES part|annoy-PRESP coord|and +...
+%gra:	1|16|COM 2|16|LINK 3|16|SUBJ 4|3|NJCT 5|4|POBJ 6|16|JCT 7|16|LINK
+	8|16|JCT 9|8|NJCT 10|13|SUBJ 11|13|AUX 12|13|SUBJ 13|9|POBJ 14|16|SUBJ
+	15|16|AUX 16|0|ROOT 17|16|CONJ 18|16|PUNCT
+*CHI:	&-um when I open a bag of crisps he always says shut up (.)
+	(be)cause he's trying to watch tv .
+%mor:	conj|when pro:sub|I v|open det:art|a n|bag prep|of n|crisp-PL
+	pro:sub|he adv|always v|say-3S part|shut&PASTP adv|up conj|because
+	pro:sub|he~aux|be&3S part|try-PRESP prep|to n|watch n|tv .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|10|OBJ 12|11|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|10|CJCT 17|16|JCT 18|19|MOD 19|17|POBJ 20|10|PUNCT
+*INV:	0 too noisy .
+%mor:	adv|too adj|noise&dn-Y .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%exp:	laughs .
+*CHI:	yeah 0 and &-um +...
+%mor:	co|yeah coord|and +...
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%exp:	laughs .
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	0 [*] can't think of anything really that he annoys me about .
+%mor:	mod|can~neg|not v|think prep|of pro:indef|anything adv|real&dadj-LY
+	pro:rel|that pro:sub|he v|annoy-3S pro:obj|me adv|about .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|9|JCT 12|3|PUNCT
+%err:	0 = subject
+*INV:	&+www .
+%exp:	child and investigator talk briefly as disc is turned off .
+@End

@@ -1,0 +1,27 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:50:55 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <anne1.cha>
+----------------------------------------
+*** File "anne1.cha": line 194.
+*MOT:	what a nice little place for a puppy .
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|place prep|for
+	det:art|a n|puppy .
+
+    Strings matched 1 times
+
+From file <anne2.cha>
+
+    Strings matched 0 times
+
+From file <anne3a.cha>
+----------------------------------------
+*** File "anne3a.cha": line 903.
+*MOT:	your poor old nose . %snd:"anne3a"_1685192_1698823
+%mor:	det:poss|your (1)adj|poor (1)adj|old (1)n|nose .
+
+    Strings matched 1 times
+

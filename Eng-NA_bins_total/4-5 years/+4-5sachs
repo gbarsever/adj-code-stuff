@@ -1,0 +1,26 @@
+combo +t%mor +t*CHI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:06:43 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Sachs/n91.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Sachs/n91.cha": line 160.
+*CHI:	Froggy and Pogo live next door . %snd:"n91"_195579_199364
+%mor:	n:prop|Froggy coord|and n:prop|Pogo (1)adj|live (1)adj|next (1)n|door .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Sachs/n91.cha": line 740.
+*CHI:	look at my great big scratch . %snd:"n91"_710594_713546
+%mor:	cop|look prep|at det:poss|my (1)adj|great (1)adj|big (1)n|scratch .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Sachs/n92.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Sachs/n93.cha>
+
+    Strings matched 0 times
+

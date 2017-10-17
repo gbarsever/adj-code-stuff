@@ -1,0 +1,522 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:00:43 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gas.cha>
+----------------------------------------
+*** File "gas.cha": line 2757.
+*MOT:	where is the little teenee [: teeny] car ?
+%mor:	adv:int|where cop|be&3S det:art|the (1)adj|little (1)adj|teeny (1)n|car ?
+----------------------------------------
+*** File "gas.cha": line 4771.
+*EXP:	nice little piles here and there .
+%mor:	(1)adj|nice (1)adj|little (1)n|pile-PL adv|here coord|and adv|there .
+----------------------------------------
+*** File "gas.cha": line 11648.
+*FCH:	now it's hander for me to (be)cause people took the old skinny pie
+	away from me !
+%mor:	adv|now pro:per|it~cop|be&3S n|hand&dv-AGT prep|for pro:obj|me
+	prep|to conj|because n|person&PL v|take&PAST det:art|the (1)adj|old
+	(1)adj|skin&dn-Y (1)n|pie adv|away prep|from pro:obj|me !
+----------------------------------------
+*** File "gas.cha": line 12874.
+*EXP:	roll it a little tighter Tony .
+%mor:	v|roll pro:per|it det:art|a (1)adj|little (1)adj|tight-CP (1)n:prop|Tony .
+----------------------------------------
+*** File "gas.cha": line 18731.
+*MOT:	it had little black spots in it .
+%mor:	pro:per|it v|have&PAST (1)adj|little (1)adj|black (1)n|spot-PL prep|in
+	pro:per|it .
+----------------------------------------
+*** File "gas.cha": line 18748.
+*MOT:	and when they grind them up to make vanilla ice cream , they put
+	little black specks in the ice cream .
+%mor:	coord|and conj|when pro:sub|they v|grind pro:obj|them adv|up inf|to
+	v|make n|vanilla n|ice n|cream cm|cm pro:sub|they v|put&ZERO
+	(1)adj|little (1)adj|black (1)n|speck-PL prep|in det:art|the n|ice n|cream .
+----------------------------------------
+*** File "gas.cha": line 22976.
+*MOT:	hey that's a mean old bumpy bump .
+%mor:	co|hey pro:dem|that~cop|be&3S det:art|a adj|mean (1)adj|old
+	(1)adj|bump&dv-Y (1)n|bump .
+----------------------------------------
+*** File "gas.cha": line 23428.
+*MOT:	I: been working on the ra:ilroad , a:ll the live long day hey !
+%mor:	pro:sub|I aux|be&PASTP part|work-PRESP prep|on det:art|the
+	n|railroad cm|cm qn|all det:art|the (1)adj|live (1)adj|long (1)n|day co|hey !
+----------------------------------------
+*** File "gas.cha": line 23521.
+*MOT:	ra:ilroad all the live long day , I've been workin(g) on the
+	ra:ilroad , just to pass the time away: ay:ay ay , can't you hear
+	the whistle blowing +...
+%mor:	n|railroad qn|all det:art|the (1)adj|live (1)adj|long (1)n|day cm|cm
+	pro:sub|I~aux|have aux|be&PASTP part|work-PRESP prep|on det:art|the
+	n|railroad cm|cm adv|just prep|to n|pass det:art|the n|time adv|away
+	adj|aya&dn-Y co|ay cm|cm mod|can~neg|not pro:per|you v|hear
+	det:art|the n|whistle part|blow-PRESP +...
+----------------------------------------
+*** File "gas.cha": line 25981.
+*MOT:	I think you're had a pretty busy day in school .
+%mor:	pro:sub|I v|think pro:per|you~aux|be&PRES v|have&PAST det:art|a
+	(1)adj|pretty (1)adj|busy (1)n|day prep|in n|school .
+----------------------------------------
+*** File "gas.cha": line 26000.
+*MOT:	I think I know a girl who's had a pretty busy week in school .
+%mor:	pro:sub|I v|think pro:sub|I v|know det:art|a n|girl
+	pro:rel|who~aux|be&3S v|have&PAST det:art|a (1)adj|pretty (1)adj|busy
+	(1)n|week prep|in n|school .
+----------------------------------------
+*** File "gas.cha": line 29640.
+*MOT:	his b:angs (.) oh , &+hah , &+hah , he's a long haired man .
+%mor:	det:poss|his n|bang-PL co|oh cm|cm cm|cm cm|cm pro:sub|he~aux|be&3S
+	det:art|a (1)adj|long (1)adj|haired (1)n|man .
+
+    Strings matched 12 times
+
+From file <grc.cha>
+
+    Strings matched 0 times
+
+From file <job.cha>
+----------------------------------------
+*** File "job.cha": line 7341.
+*TEA:	got some more , &-um , new new zoo animals if anybody's inter(e)sted
+	.
+%mor:	v|get&PAST qn|some pro:indef|more cm|cm cm|cm (1)adj|new (1)adj|new (1)n|zoo
+	n|animal-PL conj|if pro:indef|anybody~aux|be&3S v|interest-PAST .
+----------------------------------------
+*** File "job.cha": line 14661.
+*FAT:	gee I think you did a pretty good job .
+%mor:	co|gee pro:sub|I v|think pro:per|you v|do&PAST det:art|a (1)adj|pretty
+	(1)adj|good (1)n|job .
+----------------------------------------
+*** File "job.cha": line 16002.
+*FAT:	he just does little little bits and pieces .
+%mor:	pro:sub|he adv|just mod|do&3S (1)adj|little (1)adj|little (1)n|bit-PL
+	coord|and n|piece-PL .
+----------------------------------------
+*** File "job.cha": line 17976.
+*MOT:	this is a better hot dog (.) .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|good&CP (1)adj|hot (1)n|dog .
+----------------------------------------
+*** File "job.cha": line 20877.
+*MOT:	the long thin things you can write with room .
+%mor:	det:art|the (1)adj|long (1)adj|thin (1)n|thing-PL pro:per|you mod|can
+	v|write prep|with n|room .
+----------------------------------------
+*** File "job.cha": line 20887.
+*MOT:	just look at all these long thin things you can write with .
+%mor:	adv|just cop|look prep|at qn|all pro:dem|these (1)adj|long (1)adj|thin
+	(1)n|thing-PL pro:per|you mod|can v|write prep|with .
+----------------------------------------
+*** File "job.cha": line 20951.
+*MOT:	next comes all the vegetables in the whole wide world besides
+	carrots room .
+%mor:	adv|next v|come-3S adv|all det:art|the n|vegetable-PL prep|in
+	det:art|the (1)adj|whole (1)adj|wide (1)n|world prep|besides n|carrot-PL
+	n|room .
+----------------------------------------
+*** File "job.cha": line 21084.
+*MOT:	hello , cute little small hall , ah haha .
+%mor:	co|hello cm|cm adj|cute (1)adj|little (1)adj|small (1)n|hall cm|cm co|ah
+	co|haha .
+----------------------------------------
+*** File "job.cha": line 21188.
+*FAT:	I have seen lots_of things so far in this everything in the whole
+	wide world museum but I have not seen everything in the whole wide
+	world yet .
+%mor:	pro:sub|I aux|have part|see&PASTP qn|lots_of n|thing-PL adv|so
+	adv|far prep|in pro:dem|this pro:indef|everything prep|in
+	det:art|the (1)adj|whole (1)adj|wide (1)n|world n|museum conj|but pro:sub|I
+	v|have neg|not part|see&PASTP pro:indef|everything prep|in
+	det:art|the (2)adj|whole (2)adj|wide (2)n|world adv|yet .
+----------------------------------------
+*** File "job.cha": line 21312.
+*MOT:	oh boy , carrying a heavy big rock is not easy .
+%mor:	co|oh n|boy cm|cm part|carry-PRESP det:art|a (1)adj|heavy (1)adj|big
+	(1)n|rock aux|be&3S neg|not adj|ease&dn-Y .
+----------------------------------------
+*** File "job.cha": line 22563.
+*MOT:	the long thin things you can write with .
+%mor:	det:art|the (1)adj|long (1)adj|thin (1)n|thing-PL pro:per|you mod|can
+	v|write prep|with .
+----------------------------------------
+*** File "job.cha": line 22588.
+*MOT:	just look at all these long thin things you can write with .
+%mor:	adv|just cop|look prep|at qn|all pro:dem|these (1)adj|long (1)adj|thin
+	(1)n|thing-PL pro:per|you mod|can v|write prep|with .
+----------------------------------------
+*** File "job.cha": line 22630.
+*MOT:	next comes all the vegetables in the whole wide world besides
+	carrots .
+%mor:	adv|next v|come-3S adv|all det:art|the n|vegetable-PL prep|in
+	det:art|the (1)adj|whole (1)adj|wide (1)n|world prep|besides n|carrot-PL .
+----------------------------------------
+*** File "job.cha": line 22767.
+*MOT:	so he pokes his head in that room , and hello , cute little small
+	hall .
+%mor:	co|so pro:sub|he v|poke-3S det:poss|his n|head prep|in pro:dem|that
+	n|room cm|cm coord|and n|hello cm|cm adj|cute (1)adj|little (1)adj|small
+	(1)n|hall .
+
+    Strings matched 15 times
+
+From file <jub.cha>
+----------------------------------------
+*** File "jub.cha": line 4079.
+*EXP:	okay , am I a funny comic book ?
+%mor:	co|okay cm|cm aux|be&1S pro:sub|I det:art|a (1)adj|fun&dn-Y (1)adj|comic
+	(1)n|book ?
+----------------------------------------
+*** File "jub.cha": line 5088.
+*FCH:	I don't want to sit there that's a little smaller chair , look .
+%mor:	pro:sub|I mod|do~neg|not v|want inf|to v|sit adv|there
+	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|small-CP (1)n|chair
+	cm|cm co|look .
+----------------------------------------
+*** File "jub.cha": line 8344.
+*FCH:	you big loud mouth !
+%mor:	pro:per|you (1)adj|big (1)adj|loud (1)n|mouth !
+----------------------------------------
+*** File "jub.cha": line 11452.
+*MOT:	but if you wanna hear it just in your [//] and no one else will
+	hear it in the room , put those head+phones on , those ear+phones ,
+	and get your own private music concert (.) .
+%mor:	conj|but conj|if pro:per|you v|want~inf|to v|hear pro:per|it
+	adv|just adv|in coord|and co|no pro:indef|one post|else mod|will
+	v|hear pro:per|it prep|in det:art|the n|room cm|cm part|put&PASTP
+	pro:dem|those n|+n|head+n|phone-PL adv|on cm|cm pro:dem|those
+	n|+n|ear+n|phone-PL cm|cm coord|and v|get det:poss|your (1)adj|own
+	(1)adj|private (1)n|music n|concert .
+----------------------------------------
+*** File "jub.cha": line 11873.
+*MOT:	would you like to make fresh orange juice ?
+%mor:	mod|will&COND pro:per|you v|like inf|to v|make (1)adj|fresh (1)adj|orange
+	(1)n|juice ?
+----------------------------------------
+*** File "jub.cha": line 13817.
+*MOT:	they're like little hot dogs .
+%mor:	pro:sub|they~cop|be&PRES prep|like (1)adj|little (1)adj|hot (1)n|dog-PL .
+----------------------------------------
+*** File "jub.cha": line 15605.
+*BRO:	and real good swords .
+%mor:	coord|and (1)adj|real (1)adj|good (1)n|sword-PL .
+----------------------------------------
+*** File "jub.cha": line 16675.
+*MOT:	but it's gotta [: has got_to] be a heavy blanket because if it was
+	just a little thin piece of material it would catch fire (.) see
+	they're showing you all kinds of fires .
+%mor:	conj|but pro:per|it~cop|be&3S aux|have&3S mod:aux|got_to cop|be
+	det:art|a adj|heavy n|blanket conj|because conj|if pro:per|it
+	cop|be&PAST&13S adv|just det:art|a (1)adj|little (1)adj|thin (1)n|piece
+	prep|of n|material pro:per|it mod|will&COND v|catch n|fire co|see
+	pro:sub|they~aux|be&PRES part|show-PRESP pro:per|you adv|all
+	n|kind-PL prep|of n|fire-PL .
+----------------------------------------
+*** File "jub.cha": line 18231.
+*BRO:	can I have some &+m &+m more of them soggy french fries ?
+%mor:	mod|can pro:sub|I v|have qn|some qn|more prep|of pro:obj|them
+	(1)adj|soggy (1)adj|french (1)n|fry-PL ?
+----------------------------------------
+*** File "jub.cha": line 19896.
+*MOT:	they had the pah [//] we went to this little french festival at
+	pace , and they had these cookies xxx .
+%mor:	pro:sub|they v|have&PAST det:art|the pro:sub|we v|go&PAST prep|to
+	pro:dem|this (1)adj|little (1)adj|french (1)n|festival prep|at n|pace cm|cm
+	coord|and pro:sub|they v|have&PAST pro:dem|these n|cookie-PL .
+----------------------------------------
+*** File "jub.cha": line 20611.
+*MOT:	but it's [//] well , you see it's a very sweet little thing .
+%mor:	conj|but n|well cm|cm pro:per|you v|see pro:per|it~cop|be&3S
+	det:art|a adv|very (1)adj|sweet (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "jub.cha": line 20628.
+*MOT:	but it's very [//] a responsive little thing yes [!] , and it was a
+	pathetic situation , so we're hoping .
+%mor:	conj|but pro:per|it~cop|be&3S det:art|a (1)adj|responsive (1)adj|little
+	(1)n|thing co|yes cm|cm coord|and pro:per|it cop|be&PAST&13S det:art|a
+	adj|pathetic n|situation cm|cm adv|so pro:sub|we~aux|be&PRES
+	part|hope-PRESP .
+----------------------------------------
+*** File "jub.cha": line 21952.
+*BRO:	all [!] the live long da:y [!] .
+%mor:	qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "jub.cha": line 21971.
+*BRO:	all the live long day .
+%mor:	qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "jub.cha": line 21989.
+*BRO:	all the live long day .
+%mor:	qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "jub.cha": line 23156.
+*FAT:	+" snow white , was dreaming , about marrying a handsome young
+	price .
+%mor:	n|snow adj|white cm|cm aux|be&PAST&13S part|dream-PRESP cm|cm
+	adv|about part|marry-PRESP det:art|a (1)adj|handsome (1)adj|young (1)n|price
+	.
+----------------------------------------
+*** File "jub.cha": line 23219.
+*FAT:	and there she saw a beautiful [!] little house , that belonged to
+	the (.) &+s &+s &+s +...
+%mor:	coord|and adv|there pro:sub|she v|see&PAST det:art|a (1)adj|beautiful
+	(1)adj|little (1)n|house cm|cm pro:rel|that v|belong-PAST prep|to
+	det:art|the +...
+----------------------------------------
+*** File "jub.cha": line 24117.
+*MOT:	+" he had nice little hufs [: hooves] .
+%mor:	pro:sub|he v|have&PAST (1)adj|nice (1)adj|little (1)n|hoof-PL .
+----------------------------------------
+*** File "jub.cha": line 24165.
+*MOT:	+" it's a real [!] live [!] pig [!] .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|live (1)n|pig .
+----------------------------------------
+*** File "jub.cha": line 27617.
+*MOT:	Bambi never took his eyes off his mother as he walked with slo:w
+	cautious steps .
+%mor:	n:prop|Bambi adv|never v|take&PAST det:poss|his n|eye-PL prep|off
+	det:poss|his n|mother conj|as pro:sub|he v|walk-PAST prep|with
+	(1)adj|slow (1)adj|cautious (1)n|step-PL .
+----------------------------------------
+*** File "jub.cha": line 27760.
+*MOT:	o:h the daddy deer has big antlers , big jumbo horns , Daniel !
+%mor:	co|oh det:art|the n|daddy n|deer aux|have&3S adj|big n|antler-PL
+	cm|cm (1)adj|big (1)adj|jumbo (1)n|horn-PL cm|cm n:prop|Daniel !
+----------------------------------------
+*** File "jub.cha": line 27892.
+*MOT:	and there's gonna be some little tiny buds coming out on those
+	trees .
+%mor:	coord|and pro:exist|there~cop|be&3S part|go-PRESP~inf|to cop|be
+	qn|some (1)adj|little (1)adj|tiny (1)n|bud-PL part|come-PRESP adv|out prep|on
+	pro:dem|those n|tree-PL .
+
+    Strings matched 22 times
+
+From file <lea.cha>
+
+    Strings matched 0 times
+
+From file <maa.cha>
+----------------------------------------
+*** File "maa.cha": line 2002.
+*MOT:	well , maybe a little tiny bit (.) .
+%mor:	co|well cm|cm adv|maybe det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "maa.cha": line 3119.
+*FAD:	big red noses yeah .
+%mor:	(1)adj|big (1)adj|red (1)n|nose-PL co|yeah .
+----------------------------------------
+*** File "maa.cha": line 4891.
+*MOT:	happy gerbil , also known as slippy happy Gerome .
+%mor:	adj|happy n|gerbil cm|cm adv|also part|know&PASTP prep|as
+	(1)adj|slip&dv-Y (1)adj|happy (1)n:prop|Gerome .
+----------------------------------------
+*** File "maa.cha": line 5695.
+*MCH:	I've been working on the railroad , all the live long day .
+%mor:	pro:sub|I~aux|have aux|be&PASTP part|work-PRESP prep|on det:art|the
+	n|railroad cm|cm qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "maa.cha": line 7078.
+*MCH:	that's a great big giant rabbit !
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|great (1)adj|big (1)adj|giant
+	(1)n|rabbit !
+----------------------------------------
+*** File "maa.cha": line 19593.
+*FAD:	sneaky little devil .
+%mor:	(1)adj|sneak&dv-Y (1)adj|little (1)n|devil .
+----------------------------------------
+*** File "maa.cha": line 23956.
+*MOT:	and then a world of easter eggs that danced about on little short
+	legs .
+%mor:	coord|and adv:tem|then det:art|a n|world prep|of adj|east-CP
+	n|egg-PL pro:rel|that v|dance-PAST adv|about prep|on (1)adj|little
+	(1)adj|short (1)n|leg-PL .
+----------------------------------------
+*** File "maa.cha": line 23984.
+*MOT:	that a green cat danced with a little pink dog .
+%mor:	pro:rel|that det:art|a n|green n|cat v|dance-PAST prep|with
+	det:art|a (1)adj|little (1)adj|pink (1)n|dog .
+----------------------------------------
+*** File "maa.cha": line 23992.
+*MOT:	till they all disappeared in a soft grey fog .
+%mor:	n|till pro:sub|they post|all dis#part|appear-PASTP prep|in
+	det:art|a (1)adj|soft (1)adj|grey (1)n|fog .
+----------------------------------------
+*** File "maa.cha": line 24014.
+*MOT:	they crawled out_of bed into a big bright world .
+%mor:	pro:sub|they v|crawl-PAST prep|out_of n|bed prep|into det:art|a
+	(1)adj|big (1)adj|bright (1)n|world .
+
+    Strings matched 10 times
+
+From file <rob.cha>
+----------------------------------------
+*** File "rob.cha": line 2928.
+*EXP:	these are nice little cars .
+%mor:	pro:dem|these cop|be&PRES (1)adj|nice (1)adj|little (1)n|car-PL .
+----------------------------------------
+*** File "rob.cha": line 5171.
+*MCH:	now don't you dare go there or I'll really be mad xxx funny hats .
+%mor:	adv|now mod|do~neg|not pro:per|you v|dare v|go adv|there coord|or
+	pro:sub|I~mod|will adv|real&dadj-LY cop|be (1)adj|mad (1)adj|fun&dn-Y
+	(1)n|hat-PL .
+----------------------------------------
+*** File "rob.cha": line 6094.
+*MCH:	I am the big long Spider_man &+tsh Spider_man !
+%mor:	pro:sub|I aux|be&1S det:art|the (1)adj|big (1)adj|long (1)n:prop|Spider_man
+	n:prop|Spider_man !
+----------------------------------------
+*** File "rob.cha": line 17343.
+*FAT:	oh , two of them , my_goodness gracious , two great big fantastic
+	hugs and [!] a broken neck for daddy .
+%mor:	co|oh cm|cm det:num|two prep|of pro:obj|them cm|cm co|my_goodness
+	adj|gracious cm|cm det:num|two adj|great (1)adj|big (1)adj|fantastic
+	(1)n|hug-PL coord|and det:art|a part|break&PASTP n|neck prep|for
+	n|daddy .
+----------------------------------------
+*** File "rob.cha": line 18125.
+*MOT:	you may find , you may find a very small little stake , snake , but
+	not the big rattle snakes .
+%mor:	pro:per|you mod|may v|find cm|cm pro:per|you mod|may v|find
+	det:art|a adv|very (1)adj|small (1)adj|little (1)n|stake cm|cm n|snake cm|cm
+	conj|but neg|not det:art|the adj|big n|rattle n|snake-PL .
+----------------------------------------
+*** File "rob.cha": line 18520.
+*MOT:	because up above you have another tooth growing , and it wants to
+	push out the other one , xxx this one falls out , and you get a big
+	strong tooth coming out .
+%mor:	conj|because adv|up prep|above pro:per|you v|have qn|another
+	n|tooth part|grow-PRESP cm|cm coord|and pro:per|it v|want-3S inf|to
+	v|push prep|out det:art|the qn|other pro:indef|one cm|cm
+	pro:dem|this pro:indef|one v|fall-3S adv|out cm|cm coord|and
+	pro:per|you v|get det:art|a (1)adj|big (1)adj|strong (1)n|tooth
+	part|come-PRESP adv|out .
+----------------------------------------
+*** File "rob.cha": line 20496.
+*FAT:	ah , a real silly question .
+%mor:	co|ah cm|cm det:art|a (1)adj|real (1)adj|silly (1)n|question .
+----------------------------------------
+*** File "rob.cha": line 23238.
+*MOT:	a little old woman and a little old man lived together in a little
+	old house and they were lonesome , but they had no boys or little
+	girls to play with them .
+%mor:	det:art|a (1)adj|little (1)adj|old (1)n|woman coord|and det:art|a (2)adj|little
+	(2)adj|old (2)n|man v|live-PAST adv|together prep|in det:art|a (3)adj|little
+	(3)adj|old (3)n|house coord|and pro:sub|they cop|be&PAST adj|lonesome
+	cm|cm conj|but pro:sub|they v|have&PAST qn|no n|boy-PL coord|or
+	adj|little n|girl-PL prep|to n|play prep|with pro:obj|them .
+----------------------------------------
+*** File "rob.cha": line 23310.
+*MOT:	yelled the little old man .
+%mor:	v|yell-PAST det:art|the (1)adj|little (1)adj|old (1)n|man .
+----------------------------------------
+*** File "rob.cha": line 23325.
+*MOT:	and the little old woman and the little old man ran and ran .
+%mor:	coord|and det:art|the (1)adj|little (1)adj|old (1)n|woman coord|and
+	det:art|the (2)adj|little (2)adj|old (2)n|man v|run&PAST coord|and v|run&PAST
+	.
+----------------------------------------
+*** File "rob.cha": line 23475.
+*MOT:	and there by the river was a sly old fox .
+%mor:	coord|and adv|there prep|by det:art|the n|river cop|be&PAST&13S
+	det:art|a (1)adj|sly (1)adj|old (1)n|fox .
+----------------------------------------
+*** File "rob.cha": line 24010.
+*MOT:	so , stop , cried the little old woman , stop cried the little old
+	man .
+%mor:	adv|so cm|cm n|stop cm|cm v|cry-PAST det:art|the (1)adj|little (1)adj|old
+	(1)n|woman cm|cm n|stop v|cry-PAST det:art|the (2)adj|little (2)adj|old (2)n|man
+	.
+----------------------------------------
+*** File "rob.cha": line 24032.
+*MOT:	the little old lady and the little old man ran and ran , but they
+	couldn't catch him .
+%mor:	det:art|the (1)adj|little (1)adj|old (1)n|lady coord|and det:art|the
+	(2)adj|little (2)adj|old (2)n|man v|run&PAST coord|and v|run&PAST cm|cm
+	conj|but pro:sub|they mod|could~neg|not v|catch pro:obj|him .
+----------------------------------------
+*** File "rob.cha": line 24257.
+*MOT:	and there by the river was the sly old fox .
+%mor:	coord|and adv|there prep|by det:art|the n|river cop|be&PAST&13S
+	det:art|the (1)adj|sly (1)adj|old (1)n|fox .
+
+    Strings matched 19 times
+
+From file <toh.cha>
+
+    Strings matched 0 times
+
+From file <tos.cha>
+----------------------------------------
+*** File "tos.cha": line 2273.
+*MAD:	I got a great big key and ?
+%mor:	pro:sub|I v|get&PAST det:art|a (1)adj|great (1)adj|big (1)n|key coord|and ?
+----------------------------------------
+*** File "tos.cha": line 3497.
+*MOT:	you got nice strong legs .
+%mor:	pro:per|you v|get&PAST (1)adj|nice (1)adj|strong (1)n|leg-PL .
+----------------------------------------
+*** File "tos.cha": line 7450.
+*MCH:	just a little teeny piece a [: of] hair .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|teeny (1)n|piece prep|of n|hair .
+----------------------------------------
+*** File "tos.cha": line 17209.
+*MOT:	to have seen this show fifty times and this poor little kid make
+	this thing (.) .
+%mor:	inf|to v|have part|see&PASTP pro:dem|this n|show det:num|fifty
+	n|time-PL coord|and pro:dem|this (1)adj|poor (1)adj|little (1)n|kid v|make
+	pro:dem|this n|thing .
+----------------------------------------
+*** File "tos.cha": line 17414.
+*MOT:	in grand central station .
+%mor:	prep|in (1)adj|grand (1)adj|central (1)n|station .
+----------------------------------------
+*** File "tos.cha": line 19698.
+*FAT:	you mean , that's the same old song (.) .
+%mor:	pro:per|you adj|mean cm|cm pro:dem|that~cop|be&3S det:art|the
+	(1)adj|same (1)adj|old (1)n|song .
+----------------------------------------
+*** File "tos.cha": line 19704.
+*FAT:	it's the same (.) old song (.) .
+%mor:	pro:per|it~cop|be&3S det:art|the (1)adj|same (1)adj|old (1)n|song .
+----------------------------------------
+*** File "tos.cha": line 19717.
+*FAT:	it's the same old song .
+%mor:	pro:per|it~cop|be&3S det:art|the (1)adj|same (1)adj|old (1)n|song .
+----------------------------------------
+*** File "tos.cha": line 20317.
+*FAT:	clean new clothes (.) that we treat with great care .
+%mor:	(1)adj|clean (1)adj|new (1)n:pt|clothes pro:rel|that pro:sub|we v|treat
+	prep|with adj|great n|care .
+
+    Strings matched 9 times
+
+From file <zoe.cha>
+----------------------------------------
+*** File "zoe.cha": line 634.
+*MOT:	she'd be a smelly nice dog .
+%mor:	pro:sub|she~mod|genmod cop|be det:art|a (1)adj|smell&dv-Y (1)adj|nice
+	(1)n|dog .
+----------------------------------------
+*** File "zoe.cha": line 4833.
+*TEA:	we have a very heavy discussion okay , very heavy important
+	discussion .
+%mor:	pro:sub|we v|have det:art|a adv|very adj|heavy n|discussion
+	adj|okay cm|cm adv|very (1)adj|heavy (1)adj|important (1)n|discussion .
+----------------------------------------
+*** File "zoe.cha": line 4977.
+*TEA:	a great big chair ?
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|chair ?
+----------------------------------------
+*** File "zoe.cha": line 13972.
+*MOT:	oh , I love having grand central station when I go to the bath+room
+	.
+%mor:	co|oh cm|cm pro:sub|I v|love n:gerund|have-PRESP (1)adj|grand
+	(1)adj|central (1)n|station conj|when pro:sub|I v|go prep|to det:art|the
+	n|+n|bath+n|room .
+
+    Strings matched 4 times
+

@@ -1,0 +1,30 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Tue Jan 31 21:02:15 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gia1.cha>
+
+    Strings matched 0 times
+
+From file <gia2.cha>
+
+    Strings matched 0 times
+
+From file <gia3.cha>
+----------------------------------------
+*** File "gia3.cha": line 57.
+*CHI:	bad bad boy baby .
+%mor:	(1)adj|bad (1)adj|bad (1)n|boy n|baby .
+
+    Strings matched 1 times
+
+From file <gia4.cha>
+
+    Strings matched 0 times
+
+From file <gia5.cha>
+
+    Strings matched 0 times
+

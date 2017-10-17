@@ -1,0 +1,55 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:45:35 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <q1-0900.cha>
+
+    Strings matched 0 times
+
+From file <q1-0928.cha>
+----------------------------------------
+*** File "q1-0928.cha": line 530.
+*MOT:	don't bite your little bitty toe ! %snd:"q1-m8may00"_1014210_1016377
+%mor:	mod|do~neg|not v|bite det:poss|your (1)adj|little (1)adj|bit&dn-Y (1)n|toe !
+----------------------------------------
+*** File "q1-0928.cha": line 533.
+*MOT:	it you(r) [?] little bitty fat feet . %snd:"q1-m8may00"_1017087_1018670
+%mor:	pro:per|it det:poss|your adj|little (1)adj|bit&dn-Y (1)adj|fat (1)n|foot&PL
+	.
+
+    Strings matched 2 times
+
+From file <q1-1012.cha>
+
+    Strings matched 0 times
+
+From file <q1-1026.cha>
+----------------------------------------
+*** File "q1-1026.cha": line 1088.
+*MOT:	you still got little wide feet . %snd:"q1-m5jun00"_3474363_3475370
+%mor:	pro:per|you adv|still v|get&PAST (1)adj|little (1)adj|wide (1)n|foot&PL .
+
+    Strings matched 1 times
+
+From file <q1-1109.cha>
+----------------------------------------
+*** File "q1-1109.cha": line 309.
+*MOT:	you making a big ol(d) mess . %snd:"q1-m19jun00"_598533_600120
+%mor:	pro:per|you part|make-PRESP det:art|a (1)adj|big (1)adj|old (1)n|mess .
+----------------------------------------
+*** File "q1-1109.cha": line 1179.
+*MOT:	you mean little baby . %snd:"q1-m19jun00"_3797637_3798860
+%mor:	pro:per|you (1)adj|mean (1)adj|little (1)n|baby .
+
+    Strings matched 2 times
+
+From file <q1-1128.cha>
+
+    Strings matched 0 times
+
+From file <q1-1405.cha>
+
+    Strings matched 0 times
+

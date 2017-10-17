@@ -1,0 +1,911 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:15:57 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <mat01.cha>
+
+    Strings matched 0 times
+
+From file <mat02.cha>
+----------------------------------------
+*** File "mat02.cha": line 1117.
+*MOT:	green butter yeah (.) &-um tasty green butter .
+%mor:	adj|green n|butter co|yeah (1)adj|taste&dn-Y (1)adj|green (1)n|butter .
+----------------------------------------
+*** File "mat02.cha": line 1722.
+*ERI:	Matty you have a pretty cool room .
+%mor:	n:prop|Matty pro:per|you v|have det:art|a (1)adj|pretty (1)adj|cool
+	(1)n|room .
+
+    Strings matched 2 times
+
+From file <mat03.cha>
+----------------------------------------
+*** File "mat03.cha": line 289.
+*MOT:	bumpy things (.) look at those you made (.) little bumpy things .
+%mor:	adj|bump&dv-Y n|thing-PL cop|look prep|at pro:dem|those pro:per|you
+	v|make&PAST (1)adj|little (1)adj|bump&dv-Y (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <mat04.cha>
+----------------------------------------
+*** File "mat04.cha": line 707.
+*MOT:	another spider (.) a tiny tiny spider .
+%mor:	qn|another n|spider det:art|a (1)adj|tiny (1)adj|tiny (1)n|spider .
+----------------------------------------
+*** File "mat04.cha": line 1674.
+*MOT:	you know you got the runny runny nose .
+%mor:	pro:per|you v|know pro:per|you v|get&PAST det:art|the (1)adj|run&dv-Y
+	(1)adj|run&dv-Y (1)n|nose .
+
+    Strings matched 2 times
+
+From file <mat05.cha>
+----------------------------------------
+*** File "mat05.cha": line 570.
+*MOT:	can you believe it that's that same little puffin[?] hat that you wore today to school ?
+%mor:	mod|can pro:per|you v|believe pro:per|it pro:rel|that~aux|be&3S
+	pro:dem|that (1)adj|same (1)adj|little (1)n|puffin n|hat pro:rel|that
+	pro:per|you v|wear&PAST adv:tem|today prep|to n|school ?
+----------------------------------------
+*** File "mat05.cha": line 669.
+*MOT:	you were gonna say that Santa is going to bring you a new big car .
+%mor:	pro:per|you aux|be&PAST part|go-PRESP~inf|to v|say pro:rel|that
+	n:prop|Santa aux|be&3S part|go-PRESP inf|to v|bring pro:per|you
+	det:art|a (1)adj|new (1)adj|big (1)n|car .
+
+    Strings matched 2 times
+
+From file <mat06.cha>
+----------------------------------------
+*** File "mat06.cha": line 527.
+*MOT:	that's a pretty loud noise .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|loud (1)n|noise .
+----------------------------------------
+*** File "mat06.cha": line 589.
+*MOT:	so many cute little babies (.) which one do you want ?
+%mor:	adv|so qn|many (1)adj|cute (1)adj|little (1)n|baby-PL pro:rel|which
+	pro:indef|one mod|do pro:per|you v|want ?
+----------------------------------------
+*** File "mat06.cha": line 626.
+*MOT:	look at these big big tractors .
+%mor:	cop|look prep|at pro:dem|these (1)adj|big (1)adj|big (1)n|tractor-PL .
+----------------------------------------
+*** File "mat06.cha": line 1337.
+*MOT:	you carved a big big sad pumpkin (.) why was the pumpkin sad ?
+%mor:	pro:per|you v|carve-PAST det:art|a adj|big (1)adj|big (1)adj|sad
+	(1)n|pumpkin adv:int|why cop|be&PAST&13S det:art|the n|pumpkin adj|sad
+	?
+----------------------------------------
+*** File "mat06.cha": line 1374.
+*MOT:	we'll show Erin the old old pumpkin (.) oh you want Sully okay .
+%mor:	pro:sub|we~mod|will v|show n:prop|Erin det:art|the (1)adj|old (1)adj|old
+	(1)n|pumpkin co|oh pro:per|you v|want n:prop|Sully adj|okay .
+
+    Strings matched 5 times
+
+From file <mat07.cha>
+----------------------------------------
+*** File "mat07.cha": line 1722.
+*MOT:	grapes I know and they're nice green grapes . %snd:"mat07"_1403596_1407504
+%mor:	n|grape-PL pro:sub|I v|know coord|and pro:sub|they~aux|be&PRES
+	(1)adj|nice (1)adj|green (1)n|grape-PL .
+----------------------------------------
+*** File "mat07.cha": line 2062.
+*MOT:	oh my gosh you know what honey , I really don't want a messy messy
+	room . %snd:"mat07"_1641305_1646342
+%mor:	co|oh det:poss|my co|gosh pro:per|you v|know pro:int|what n|honey
+	cm|cm pro:sub|I adv|real&dadj-LY mod|do~neg|not v|want det:art|a
+	(1)adj|mess&dn-Y (1)adj|mess&dn-Y (1)n|room .
+
+    Strings matched 2 times
+
+From file <mat08.cha>
+----------------------------------------
+*** File "mat08.cha": line 226.
+*MOT:	so he would hit them with a big long stick and then we would know .
+%mor:	co|so pro:sub|he mod|will&COND v|hit&ZERO pro:obj|them prep|with
+	det:art|a (1)adj|big (1)adj|long (1)n|stick coord|and adv:tem|then pro:sub|we
+	mod|will&COND v|know .
+----------------------------------------
+*** File "mat08.cha": line 697.
+*MOT:	we were gonna go on the part that was a (.) they have some major big state park there but it was closed (.) it closed like this weekend (.) it was open all through last weekend (.) I guess it gets really slippery with the stairs and all .
+%mor:	pro:sub|we aux|be&PAST part|go-PRESP~inf|to v|go prep|on
+	det:art|the adj|part pro:rel|that cop|be&PAST&13S det:art|a
+	pro:sub|they v|have pro:indef|some (1)adj|major (1)adj|big (1)n|state n|park
+	adv|there conj|but pro:per|it aux|be&PAST&13S part|close-PASTP
+	pro:per|it part|close-PASTP co|like pro:dem|this n|+n|week+n|end
+	pro:per|it cop|be&PAST&13S adj|open adv|all (2)adj|through (2)adj|last
+	(2)n|+n|week+n|end pro:sub|I v|guess pro:per|it aux|get&3S
+	adv|real&dadj-LY adj|slippery prep|with det:art|the n|stair-PL
+	coord|and pro:indef|all .
+
+    Strings matched 3 times
+
+From file <mat09.cha>
+
+    Strings matched 0 times
+
+From file <mat10.cha>
+----------------------------------------
+*** File "mat10.cha": line 181.
+*MOT:	it's got a tiny tiny bit of snow on it .
+%mor:	pro:per|it~aux|be&3S part|get&PASTP det:art|a (1)adj|tiny (1)adj|tiny
+	(1)n|bit prep|of n|snow prep|on pro:per|it .
+----------------------------------------
+*** File "mat10.cha": line 899.
+*MOT:	oh big french fries .
+%mor:	co|oh (1)adj|big (1)adj|french (1)n|fry-PL .
+
+    Strings matched 2 times
+
+From file <mat11.cha>
+
+    Strings matched 0 times
+
+From file <mat12.cha>
+
+    Strings matched 0 times
+
+From file <mat13.cha>
+----------------------------------------
+*** File "mat13.cha": line 992.
+*MOT:	tell him he has to be very quiet (.) quiet balloon .
+%mor:	v|tell pro:obj|him pro:sub|he aux|have&3S inf|to cop|be adv|very
+	(1)adj|quiet (1)adj|quiet (1)n|balloon .
+----------------------------------------
+*** File "mat13.cha": line 2439.
+*MOT:	yeah and a nice little holder for the M and M's (.) that's what they gave you .
+%mor:	co|yeah coord|and det:art|a (1)adj|nice (1)adj|little (1)n|hold&dv-AGT
+	prep|for det:art|the n:prop|M coord|and n:prop|M~aux|be&3S
+	pro:dem|that~cop|be&3S pro:int|what pro:sub|they v|give&PAST
+	pro:per|you .
+----------------------------------------
+*** File "mat13.cha": line 2447.
+*MOT:	a nice little present .
+%mor:	det:art|a (1)adj|nice (1)adj|little (1)n|present .
+
+    Strings matched 3 times
+
+From file <mat14.cha>
+
+    Strings matched 0 times
+
+From file <mat15.cha>
+
+    Strings matched 0 times
+
+From file <mat16.cha>
+----------------------------------------
+*** File "mat16.cha": line 593.
+*MOT:	I think that they put them in the mean mean castle and then somebody comes and saves Dorothy .
+%mor:	pro:sub|I v|think pro:rel|that pro:sub|they v|put&ZERO pro:obj|them
+	prep|in det:art|the (1)adj|mean (1)adj|mean (1)n|castle coord|and
+	adv:tem|then pro:indef|somebody v|come-3S coord|and v|save-3S
+	n:prop|Dorothy .
+
+    Strings matched 1 times
+
+From file <mat17.cha>
+----------------------------------------
+*** File "mat17.cha": line 46.
+*MOT:	I think that you just end up having the little tiny lantern (.) but we do need a battery don't we (be)cause it is not on .
+%mor:	pro:sub|I v|think pro:rel|that pro:per|you adj|just n|end adv|up
+	part|have-PRESP det:art|the (1)adj|little (1)adj|tiny (1)n|lantern conj|but
+	pro:sub|we v|do v|need det:art|a n|battery mod|do~neg|not pro:sub|we
+	conj|because pro:per|it aux|be&3S neg|not adv|on .
+----------------------------------------
+*** File "mat17.cha": line 772.
+*MOT:	that is a pretty good place to hide (.) but you gotta make sure you come up and take a breath .
+%mor:	pro:dem|that cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|place
+	prep|to n|hide conj|but pro:per|you mod:aux|gotta v|make adj|sure
+	pro:per|you v|come adv|up coord|and v|take det:art|a n|breath .
+----------------------------------------
+*** File "mat17.cha": line 1836.
+*MOT:	that's a nice little book but you know what (.) that's an old book you actually can't buy that stuff anymore .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|book
+	conj|but pro:per|you v|know pro:int|what pro:dem|that~cop|be&3S
+	det:art|a adj|old n|book pro:per|you adv|actual&dadj-LY
+	mod|can~neg|not v|buy pro:dem|that n|stuff adv|anymore .
+----------------------------------------
+*** File "mat17.cha": line 1849.
+*MOT:	(be)cause it's an old little catalog (.) they don't have it anymore honey .
+%mor:	conj|because pro:per|it~cop|be&3S det:art|a (1)adj|old (1)adj|little
+	(1)n|catalog pro:sub|they mod|do~neg|not v|have pro:per|it adv|anymore
+	n|honey .
+----------------------------------------
+*** File "mat17.cha": line 2602.
+*MOT:	that's a pretty good roll Matty .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|roll
+	n:prop|Matty .
+
+    Strings matched 5 times
+
+From file <mat18.cha>
+
+    Strings matched 0 times
+
+From file <mat19.cha>
+----------------------------------------
+*** File "mat19.cha": line 458.
+*MOT:	because he's a cute little grasshopper .
+%mor:	conj|because pro:sub|he~aux|be&3S det:art|a (1)adj|cute (1)adj|little
+	(1)n|+n|grass+n|hopper .
+----------------------------------------
+*** File "mat19.cha": line 821.
+*MOT:	so we were talking about tomorrow you're gonna be a (.) new new twinkle star .
+%mor:	co|so pro:sub|we aux|be&PAST part|talk-PRESP adv|about
+	adv:tem|tomorrow pro:per|you~aux|be&PRES part|go-PRESP~inf|to cop|be
+	det:art|a (1)adj|new (1)adj|new (1)n|twinkle n|star .
+----------------------------------------
+*** File "mat19.cha": line 882.
+*MOT:	(be)cause you're gonna hurt that little tiny bug .
+%mor:	conj|because pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|hurt&ZERO pro:dem|that (1)adj|little (1)adj|tiny (1)n|bug .
+----------------------------------------
+*** File "mat19.cha": line 2330.
+*MOT:	these are things from outside (.) little (.) little burr things .
+%mor:	pro:dem|these cop|be&PRES n|thing-PL prep|from adv|outside
+	(1)adj|little (1)adj|little (1)n|burr n|thing-PL .
+
+    Strings matched 4 times
+
+From file <mat20.cha>
+----------------------------------------
+*** File "mat20.cha": line 34.
+*MOT:	a big big ant hill .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|ant n|hill .
+----------------------------------------
+*** File "mat20.cha": line 758.
+*MOT:	going on the big long bus ?
+%mor:	part|go-PRESP prep|on det:art|the (1)adj|big (1)adj|long (1)n|bus ?
+----------------------------------------
+*** File "mat20.cha": line 764.
+*MOT:	going on the big (.) long (.) bus .
+%mor:	part|go-PRESP prep|on det:art|the (1)adj|big (1)adj|long (1)n|bus .
+----------------------------------------
+*** File "mat20.cha": line 892.
+*MOT:	remember they made you your own little bed ?
+%mor:	v|remember pro:sub|they v|make&PAST pro:per|you det:poss|your
+	(1)adj|own (1)adj|little (1)n|bed ?
+----------------------------------------
+*** File "mat20.cha": line 1677.
+*MOT:	a big big heavy rock ?
+%mor:	det:art|a adj|big (1)adj|big (1)adj|heavy (1)n|rock ?
+----------------------------------------
+*** File "mat20.cha": line 1680.
+*MOT:	what're you gonna do with that big big heavy rock ?
+%mor:	pro:int|what~aux|be&PRES pro:per|you part|go-PRESP~inf|to v|do
+	prep|with pro:dem|that adj|big (1)adj|big (1)adj|heavy (1)n|rock ?
+----------------------------------------
+*** File "mat20.cha": line 1711.
+*MOT:	no (.) it's just little leaves .
+%mor:	co|no pro:per|it~cop|be&3S (1)adj|just (1)adj|little (1)n|leaf-PL .
+
+    Strings matched 7 times
+
+From file <mat21.cha>
+----------------------------------------
+*** File "mat21.cha": line 1591.
+*MOT:	the mommy dog spin (.) well I'd get super dizzy honey .
+%mor:	det:art|the n|mommy n|dog n|spin n|well pro:sub|I~mod|genmod
+	aux|get (1)adj|super (1)adj|dizzy (1)n|honey .
+
+    Strings matched 1 times
+
+From file <mat22.cha>
+----------------------------------------
+*** File "mat22.cha": line 1207.
+*MOT:	yeah isn't that a funny big word (.) lin^ol^eum ?
+%mor:	co|yeah cop|be&3S~neg|not det:dem|that det:art|a (1)adj|fun&dn-Y
+	(1)adj|big (1)n|word n|linoleum ?
+
+    Strings matched 1 times
+
+From file <mat23.cha>
+
+    Strings matched 0 times
+
+From file <mat24.cha>
+----------------------------------------
+*** File "mat24.cha": line 418.
+*MOT:	that's when the big big meteor came down and went .
+%mor:	pro:dem|that~cop|be&3S conj|when det:art|the (1)adj|big (1)adj|big
+	(1)n|meteor v|come&PAST adv|down coord|and v|go&PAST .
+----------------------------------------
+*** File "mat24.cha": line 429.
+*MOT:	and then that's right and then it made a big big big fireball (.) and then they couldn't live there anymore (.) right ?
+%mor:	coord|and adv:tem|then pro:rel|that~aux|be&3S n|right coord|and
+	adv:tem|then pro:per|it v|make&PAST det:art|a adj|big (1)adj|big
+	(1)adj|big (1)n|+n|fire+n|ball coord|and adv:tem|then pro:sub|they
+	mod|could~neg|not v|live adv|there adv|anymore n|right ?
+----------------------------------------
+*** File "mat24.cha": line 1697.
+*MOT:	yeah poor (.) poor brontosaurus .
+%mor:	co|yeah (1)adj|poor (1)adj|poor (1)n|brontosaurus .
+
+    Strings matched 3 times
+
+From file <mat25.cha>
+----------------------------------------
+*** File "mat25.cha": line 1829.
+*MOT:	well now that we've had Halloween (.) what's the next big holiday ?
+%mor:	adv|well adv|now pro:rel|that pro:sub|we~aux|have v|have&PAST
+	n:prop|Halloween pro:int|what~poss|s det:art|the (1)adj|next (1)adj|big
+	(1)n|holiday ?
+
+    Strings matched 1 times
+
+From file <mat26.cha>
+
+    Strings matched 0 times
+
+From file <mat27.cha>
+----------------------------------------
+*** File "mat27.cha": line 806.
+*MOT:	alright I'll make my own though (.) I'll make my own little thing right here (.) okay ?
+%mor:	co|alright pro:sub|I~mod|will v|make det:poss|my adj|own
+	conj|though pro:sub|I~mod|will v|make det:poss|my (1)adj|own (1)adj|little
+	(1)n|thing adv|right adv|here adj|okay ?
+----------------------------------------
+*** File "mat27.cha": line 902.
+*MOT:	I'm gonna make a big (.) big (.) big swimming pool .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make det:art|a adj|big
+	(1)adj|big (1)adj|big (1)n:gerund|swim-PRESP n|pool .
+----------------------------------------
+*** File "mat27.cha": line 1296.
+*RYA:	hey Matty (.) when your grandma and grandpa were over (.) did you guys eat a big big dinner ?
+%mor:	co|hey n:prop|Matty conj|when det:poss|your grand#n|ma coord|and
+	grand#n|pa aux|be&PAST adv|over mod|do&PAST pro:per|you n|guy-PL
+	v|eat det:art|a (1)adj|big (1)adj|big (1)n|dinner ?
+
+    Strings matched 3 times
+
+From file <mat28.cha>
+----------------------------------------
+*** File "mat28.cha": line 234.
+*MOT:	I think (be)cause it's a new new puzzle .
+%mor:	pro:sub|I v|think conj|because pro:per|it~cop|be&3S det:art|a
+	(1)adj|new (1)adj|new (1)n|puzzle .
+----------------------------------------
+*** File "mat28.cha": line 1422.
+*RYA:	hey that's a pretty neat book huh .
+%mor:	co|hey pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|book
+	co|huh .
+----------------------------------------
+*** File "mat28.cha": line 1459.
+*RYA:	Terry Dactyl that's a pretty funny name huh ?
+%mor:	n:prop|Terry n:prop|Dactyl pro:dem|that~cop|be&3S det:art|a
+	(1)adj|pretty (1)adj|fun&dn-Y (1)n|name co|huh ?
+----------------------------------------
+*** File "mat28.cha": line 1464.
+*RYA:	that's a pretty neat bird though .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|bird
+	adv|though .
+
+    Strings matched 4 times
+
+From file <mat29.cha>
+----------------------------------------
+*** File "mat29.cha": line 827.
+*RYA:	that is a pretty neat suitcase .
+%mor:	pro:dem|that cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|suitcase .
+----------------------------------------
+*** File "mat29.cha": line 1504.
+*MOT:	that's a pretty strong magnet .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|strong (1)n|magnet .
+----------------------------------------
+*** File "mat29.cha": line 2134.
+*RYA:	you must be a pretty nice kid huh (.) you have so many friends ?
+%mor:	pro:per|you mod|must cop|be det:art|a (1)adj|pretty (1)adj|nice (1)n|kid
+	co|huh pro:per|you v|have adv|so qn|many n|friend-PL ?
+
+    Strings matched 3 times
+
+From file <mat30.cha>
+----------------------------------------
+*** File "mat30.cha": line 18.
+*RYA:	you had a pretty good day ?
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|day ?
+----------------------------------------
+*** File "mat30.cha": line 424.
+*RYA:	that's a good french fry .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|french (1)n|fry .
+----------------------------------------
+*** File "mat30.cha": line 512.
+*RYA:	this looks like a pretty neat game .
+%mor:	pro:dem|this cop|look-3S prep|like det:art|a (1)adj|pretty (1)adj|neat
+	(1)n|game .
+----------------------------------------
+*** File "mat30.cha": line 1299.
+*MOT:	now you know you told Ryan about going to get your new little toy at the at the (.) at the you know your new little kazoo (.) did you tell him what else you saw at the museum ?
+%mor:	adv|now pro:per|you v|know pro:per|you v|tell&PAST n:prop|Ryan
+	prep|about part|go-PRESP inf|to v|get det:poss|your (1)adj|new
+	(1)adj|little (1)n|toy prep|at det:art|the prep|at det:art|the prep|at
+	det:art|the pro:per|you v|know det:poss|your (2)adj|new (2)adj|little
+	(2)n|kazoo v|do&PAST pro:per|you v|tell pro:obj|him pro:int|what
+	post|else pro:per|you n|saw prep|at det:art|the n|museum ?
+----------------------------------------
+*** File "mat30.cha": line 2997.
+*MOT:	oh yeah it's still going see look look look (.) that's how much is left that tiny tiny bit at the end .
+%mor:	co|oh co|yeah pro:per|it~cop|be&3S adv|still part|go-PRESP co|see
+	co|look co|look co|look pro:dem|that~cop|be&3S adv:int|how adv|much
+	cop|be&3S adv|left pro:dem|that (1)adj|tiny (1)adj|tiny (1)n|bit prep|at
+	det:art|the n|end .
+
+    Strings matched 6 times
+
+From file <mat31.cha>
+----------------------------------------
+*** File "mat31.cha": line 212.
+*MOT:	oh that's a super funny idea .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|super (1)adj|fun&dn-Y
+	(1)n|idea .
+----------------------------------------
+*** File "mat31.cha": line 383.
+*MOT:	this is a pretty cool cash register .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|cool (1)n|cash
+	n|register .
+----------------------------------------
+*** File "mat31.cha": line 2164.
+*MOT:	she's proud she says hey there (.) I'm so proud I just bought a new house and I got a big back yard and I was wondering (.) I'd like to buy all the dogs you have .
+%mor:	pro:sub|she~cop|be&3S adj|proud pro:sub|she v|say-3S co|hey
+	adv|there pro:sub|I~aux|be&1S adv|so adj|proud pro:sub|I adv|just
+	v|buy&PAST det:art|a adj|new n|house coord|and pro:sub|I v|get&PAST
+	det:art|a (1)adj|big (1)adj|back (1)n|yard coord|and pro:sub|I
+	aux|be&PAST&13S part|wonder-PRESP pro:sub|I~mod|genmod co|like
+	inf|to v|buy adv|all det:art|the n|dog-PL pro:per|you v|have .
+
+    Strings matched 3 times
+
+From file <mat32.cha>
+----------------------------------------
+*** File "mat32.cha": line 40.
+*MOT:	this is such a tiny little easel thing .
+%mor:	pro:dem|this cop|be&3S qn|such det:art|a (1)adj|tiny (1)adj|little
+	(1)n|easel n|thing .
+----------------------------------------
+*** File "mat32.cha": line 560.
+*MOT:	oh (.) you're gonna put it on a little tiny ice cream cone ?
+%mor:	co|oh pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|put&ZERO
+	pro:per|it prep|on det:art|a (1)adj|little (1)adj|tiny (1)n|ice n|cream
+	n|cone ?
+
+    Strings matched 2 times
+
+From file <mat33.cha>
+----------------------------------------
+*** File "mat33.cha": line 204.
+*MOT:	is it real real real money ?
+%mor:	aux|be&3S pro:per|it adj|real (1)adj|real (1)adj|real (1)n|money ?
+
+    Strings matched 1 times
+
+From file <mat34.cha>
+----------------------------------------
+*** File "mat34.cha": line 409.
+*MOT:	look at this (.) a little tiny toaster with toasts (.) little breads .
+%mor:	cop|look prep|at pro:dem|this det:art|a (1)adj|little (1)adj|tiny
+	(1)n|toast&dv-AGT prep|with n|toast-PL adj|little n|bread-PL .
+----------------------------------------
+*** File "mat34.cha": line 488.
+*MOT:	oh look at this little tiny thing .
+%mor:	co|oh cop|look prep|at pro:dem|this (1)adj|little (1)adj|tiny (1)n|thing .
+----------------------------------------
+*** File "mat34.cha": line 971.
+*MOT:	it's very old old wires and we noticed so we took it apart (.) so we got a new one .
+%mor:	pro:per|it~cop|be&3S adv|very (1)adj|old (1)adj|old (1)n|wire-PL coord|and
+	pro:sub|we part|notice-PASTP adv|so pro:sub|we v|take&PAST
+	pro:per|it adv|apart conj|so pro:sub|we v|get&PAST det:art|a adj|new
+	pro:indef|one .
+----------------------------------------
+*** File "mat34.cha": line 1008.
+*RYA:	that's gonna be a pretty cool room .
+%mor:	pro:dem|that~cop|be&3S part|go-PRESP~inf|to cop|be det:art|a
+	(1)adj|pretty (1)adj|cool (1)n|room .
+----------------------------------------
+*** File "mat34.cha": line 1958.
+*MOT:	do you remember what else we did with a big big stick ?
+%mor:	mod|do pro:per|you v|remember pro:int|what post|else pro:sub|we
+	v|do&PAST prep|with det:art|a (1)adj|big (1)adj|big (1)n|stick ?
+----------------------------------------
+*** File "mat34.cha": line 2338.
+*MOT:	remember Matty (.) we're gonna bring in that big new bookcase for your room .
+%mor:	v|remember n:prop|Matty pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|bring prep|in pro:dem|that (1)adj|big (1)adj|new (1)n|bookcase prep|for
+	det:poss|your n|room .
+----------------------------------------
+*** File "mat34.cha": line 2444.
+*MOT:	that's really cute (.) the little tiny bookshelf .
+%mor:	pro:dem|that~cop|be&3S adv|real&dadj-LY adj|cute det:art|the
+	(1)adj|little (1)adj|tiny (1)n|+n|book+n|shelf .
+
+    Strings matched 7 times
+
+From file <mat35.cha>
+----------------------------------------
+*** File "mat35.cha": line 274.
+*RYA:	that would be some pretty small bread huh ?
+%mor:	pro:dem|that mod|will&COND cop|be qn|some (1)adj|pretty (1)adj|small
+	(1)n|bread co|huh ?
+----------------------------------------
+*** File "mat35.cha": line 376.
+*RYA:	that's a pretty neat pin .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|pin .
+----------------------------------------
+*** File "mat35.cha": line 608.
+*MOT:	did you say (.) real real dinosaurs ?
+%mor:	v|do&PAST pro:per|you v|say (1)adj|real (1)adj|real (1)n|dinosaur-PL ?
+----------------------------------------
+*** File "mat35.cha": line 731.
+*RYA:	we can make our own little house huh ?
+%mor:	pro:sub|we mod|can v|make det:poss|our (1)adj|own (1)adj|little (1)n|house
+	co|huh ?
+----------------------------------------
+*** File "mat35.cha": line 2990.
+*MOT:	it says ten teeny tiny teeth .
+%mor:	pro:per|it v|say-3S det:num|ten (1)adj|teeny (1)adj|tiny (1)n|tooth&PL .
+
+    Strings matched 5 times
+
+From file <mat36.cha>
+----------------------------------------
+*** File "mat36.cha": line 355.
+*RYA:	this is a pretty neat car .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|car .
+----------------------------------------
+*** File "mat36.cha": line 1692.
+*MOT:	she's a very nice little girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a adv|very (1)adj|nice (1)adj|little (1)n|girl
+	.
+----------------------------------------
+*** File "mat36.cha": line 1706.
+*MOT:	it's supposed to have a tiny (.) tiny eraser on it .
+%mor:	pro:per|it~aux|be&3S part|suppose-PASTP inf|to v|have det:art|a
+	(1)adj|tiny (1)adj|tiny (1)n|erase&dv-AGT prep|on pro:per|it .
+
+    Strings matched 3 times
+
+From file <mat37.cha>
+----------------------------------------
+*** File "mat37.cha": line 391.
+*MOT:	you and I went to that big big wooden park and what was the game you were playing there ?
+%mor:	pro:per|you coord|and pro:sub|I v|go&PAST prep|to pro:dem|that
+	adj|big (1)adj|big (1)adj|wooden (1)n|park coord|and pro:int|what
+	cop|be&PAST&13S det:art|the n|game pro:per|you aux|be&PAST
+	part|play-PRESP adv|there ?
+
+    Strings matched 1 times
+
+From file <mat38.cha>
+----------------------------------------
+*** File "mat38.cha": line 508.
+*MOT:	that's full of a bunch of nasty nasty slugs and worms .
+%mor:	pro:dem|that~cop|be&3S adj|full prep|of det:art|a n|bunch prep|of
+	(1)adj|nasty (1)adj|nasty (1)n|slug-PL coord|and n|worm-PL .
+
+    Strings matched 1 times
+
+From file <mat39.cha>
+----------------------------------------
+*** File "mat39.cha": line 124.
+*MOT:	you went in a big big plane about as huge as this building ?
+%mor:	pro:per|you v|go&PAST prep|in det:art|a (1)adj|big (1)adj|big (1)n|plane
+	adv|about adv|as adj|huge prep|as pro:dem|this n|building ?
+----------------------------------------
+*** File "mat39.cha": line 920.
+*MOT:	and then you were super cold right ?
+%mor:	coord|and adv:tem|then pro:per|you aux|be&PAST (1)adj|super (1)adj|cold
+	(1)n|right ?
+
+    Strings matched 2 times
+
+From file <mat40.cha>
+----------------------------------------
+*** File "mat40.cha": line 1189.
+*MOT:	oh that's a pretty small cactus .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|small
+	(1)n|cactus .
+
+    Strings matched 1 times
+
+From file <mat41.cha>
+----------------------------------------
+*** File "mat41.cha": line 364.
+*MOT:	real (.) live sponges .
+%mor:	(1)adj|real (1)adj|live (1)n|sponge-PL .
+----------------------------------------
+*** File "mat41.cha": line 600.
+*MOT:	yes we went hiking (.) on a big (.) big mountain .
+%mor:	co|yes pro:sub|we v|go&PAST n:gerund|hike-PRESP adv|on det:art|a
+	(1)adj|big (1)adj|big (1)n|mountain .
+----------------------------------------
+*** File "mat41.cha": line 2171.
+*MOT:	I'll take the two dogs so they each have their own little pet .
+%mor:	pro:sub|I~mod|will v|take det:art|the det:num|two n|dog-PL conj|so
+	pro:sub|they qn|each v|have det:poss|their (1)adj|own (1)adj|little (1)n|pet
+	.
+
+    Strings matched 3 times
+
+From file <mat42.cha>
+----------------------------------------
+*** File "mat42.cha": line 519.
+*MOT:	they all want to live right by the pond so they don't have_to walk far to drink some nice cool water .
+%mor:	pro:sub|they post|all v|want inf|to v|live adv|right prep|by
+	det:art|the n|pond conj|so pro:sub|they mod|do~neg|not
+	mod:aux|have_to v|walk adv|far prep|to n|drink qn|some (1)adj|nice
+	(1)adj|cool (1)n|water .
+----------------------------------------
+*** File "mat42.cha": line 832.
+*MOT:	alrighty (.) great job .
+%mor:	(1)adj|alright-Y (1)adj|great (1)n|job .
+
+    Strings matched 2 times
+
+From file <mat43.cha>
+----------------------------------------
+*** File "mat43.cha": line 175.
+*MOT:	so yeah , we went to the river (.) that was a super fun time .
+%mor:	co|so co|yeah cm|cm pro:sub|we v|go&PAST prep|to det:art|the
+	n|river pro:rel|that cop|be&PAST&13S det:art|a (1)adj|super (1)adj|fun
+	(1)n|time .
+----------------------------------------
+*** File "mat43.cha": line 1161.
+*MOT:	mhm (.) it was cool , push the button on the snakes head , right , and then the little big rock would come up , and it would make the car go flying .
+%mor:	co|yes pro:per|it cop|be&PAST&13S adj|cool cm|cm n|push det:art|the
+	n|button prep|on det:art|the n|snake-PL n|head cm|cm n|right cm|cm
+	coord|and adv:tem|then det:art|the (1)adj|little (1)adj|big (1)n|rock
+	mod|will&COND v|come adv|up cm|cm coord|and pro:per|it mod|will&COND
+	v|make det:art|the n|car v|go part|fly-PRESP .
+----------------------------------------
+*** File "mat43.cha": line 1732.
+*MOT:	and I have three (.) so the reason we don't have the exact same number is because we have mister broken one here .
+%mor:	coord|and pro:sub|I v|have det:num|three conj|so det:art|the
+	n|reason pro:sub|we mod|do~neg|not v|have det:art|the (1)adj|exact
+	(1)adj|same (1)n|number cop|be&3S conj|because pro:sub|we v|have n|mister
+	part|break&PASTP pro:indef|one adv|here .
+----------------------------------------
+*** File "mat43.cha": line 1877.
+*MOT:	yes , and I have kind of this yellow green (.) yellow with rainbow glitter (.) it doesn't look like yellow .
+%mor:	co|yes cm|cm coord|and pro:sub|I v|have n|kind prep|of pro:dem|this
+	(1)adj|yellow (1)adj|green (1)n|yellow prep|with n|+n|rain+n|bow n|glitter
+	pro:per|it mod|do&3S~neg|not cop|look conj|like n|yellow .
+----------------------------------------
+*** File "mat43.cha": line 1940.
+*MOT:	mm , almost it almost looks like this color this darker pinkish color .
+%mor:	co|mm cm|cm adv|almost pro:per|it adv|almost cop|look-3S conj|like
+	det:dem|this n|color pro:dem|this (1)adj|dark-CP (1)adj|pink-ISH (1)n|color .
+
+    Strings matched 5 times
+
+From file <mat44.cha>
+----------------------------------------
+*** File "mat44.cha": line 784.
+*MOT:	oh my gosh though (.) she does not know what we saw there (.) what was that big , big , big long thing that we saw there ?
+%mor:	co|oh det:poss|my co|gosh adv|though pro:sub|she mod|do&3S neg|not
+	v|know pro:int|what pro:sub|we v|see&PAST adv|there pro:int|what
+	cop|be&PAST&13S pro:dem|that adj|big cm|cm adj|big cm|cm (1)adj|big
+	(1)adj|long (1)n|thing pro:rel|that pro:sub|we v|see&PAST adv|there ?
+----------------------------------------
+*** File "mat44.cha": line 849.
+*MOT:	you actually do have a snake pet though since we've been here (.) how did you get a real little snake for our house for a while ?
+%mor:	pro:per|you adv|actual&dadj-LY v|do v|have det:art|a n|snake n|pet
+	adv|though prep|since pro:sub|we~aux|have cop|be&PASTP adv|here
+	adv:int|how mod|do&PAST pro:per|you v|get det:art|a (1)adj|real
+	(1)adj|little (1)n|snake prep|for det:poss|our n|house prep|for det:art|a
+	n|while ?
+
+    Strings matched 2 times
+
+From file <mat45.cha>
+----------------------------------------
+*** File "mat45.cha": line 310.
+*MOT:	you jumped into a big blocky pit , and what else ?
+%mor:	pro:per|you v|jump-PAST prep|into det:art|a (1)adj|big (1)adj|block&dn-Y
+	(1)n|pit cm|cm coord|and pro:int|what post|else ?
+----------------------------------------
+*** File "mat45.cha": line 2029.
+*MOT:	wow , that's a pretty good deal .
+%mor:	co|wow cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|deal .
+----------------------------------------
+*** File "mat45.cha": line 2177.
+*MOT:	(be)cause they both did a pretty good job , huh ?
+%mor:	conj|because pro:sub|they post|both v|do&PAST det:art|a (1)adj|pretty
+	(1)adj|good (1)n|job cm|cm co|huh ?
+
+    Strings matched 3 times
+
+From file <mat46.cha>
+----------------------------------------
+*** File "mat46.cha": line 1628.
+*MOT:	I think this is a pretty big mess .
+%mor:	pro:sub|I v|think pro:dem|this cop|be&3S det:art|a (1)adj|pretty
+	(1)adj|big (1)n|mess .
+
+    Strings matched 1 times
+
+From file <mat47.cha>
+----------------------------------------
+*** File "mat47.cha": line 1139.
+*MOT:	huge huge huge parts of the tree , right Matty ?
+%mor:	adj|huge (1)adj|huge (1)adj|huge (1)n|part-PL prep|of det:art|the n|tree
+	cm|cm n|right n:prop|Matty ?
+
+    Strings matched 1 times
+
+From file <mat48.cha>
+----------------------------------------
+*** File "mat48.cha": line 770.
+*MOT:	so it was a great , great new movie we just got the other day .
+%mor:	co|so pro:per|it cop|be&PAST&13S det:art|a adj|great cm|cm
+	(1)adj|great (1)adj|new (1)n|movie pro:sub|we adv|just v|get&PAST det:art|the
+	qn|other n|day .
+----------------------------------------
+*** File "mat48.cha": line 1588.
+*MOT:	(re)member he was floating all above (th)em in little tiny pieces ?
+%mor:	v|remember pro:sub|he aux|be&PAST&13S part|float-PRESP adv|all
+	prep|above pro:obj|them prep|in (1)adj|little (1)adj|tiny (1)n|piece-PL ?
+----------------------------------------
+*** File "mat48.cha": line 1760.
+*MOT:	I don't remember much about the rest of the song , (be)cause they have a little different songs for each of the different kids , right ?
+%mor:	pro:sub|I mod|do~neg|not v|remember adv|much prep|about det:art|the
+	n|rest prep|of det:art|the n|song cm|cm conj|because pro:sub|they
+	v|have det:art|a (1)adj|little (1)adj|different (1)n|song-PL prep|for qn|each
+	prep|of det:art|the adj|different n|kid-PL cm|cm n|right ?
+----------------------------------------
+*** File "mat48.cha": line 2389.
+*MOT:	in their little natural habitats .
+%mor:	prep|in det:poss|their (1)adj|little (1)adj|natural (1)n|habitat-PL .
+
+    Strings matched 4 times
+
+From file <mat49.cha>
+----------------------------------------
+*** File "mat49.cha": line 245.
+*MOT:	so (.) we went to the Sears Towers , and then what did you do with ah (.) with ah Jaden that you had a super fun time ?
+%mor:	co|so pro:sub|we v|go&PAST prep|to det:art|the n:prop|Sears
+	n:prop|Towers cm|cm coord|and adv:tem|then pro:int|what mod|do&PAST
+	pro:per|you v|do prep|with co|ah prep|with co|ah n:prop|Jaden
+	pro:rel|that pro:per|you v|have&PAST det:art|a (1)adj|super (1)adj|fun
+	(1)n|time ?
+----------------------------------------
+*** File "mat49.cha": line 495.
+*MOT:	how (a)bout another thing you did on Saturday I think , right after Mckayla left , xxx it was Sunday , you and Daddy went sledding , talk about going sledding , that was super (.) super fun right ?
+%mor:	adv:int|how prep|about qn|another n|thing pro:per|you v|do&PAST
+	prep|on n:prop|Saturday pro:sub|I v|think cm|cm adv|right
+	adv:tem|after n:prop|Mckayla n|left cm|cm pro:per|it cop|be&PAST&13S
+	n:prop|Sunday cm|cm pro:per|you coord|and n:prop|Daddy v|go&PAST
+	n:gerund|sled-PRESP cm|cm n|talk adv|about part|go-PRESP
+	part|sled-PRESP cm|cm pro:rel|that cop|be&PAST&13S adj|super
+	(1)adj|super (1)adj|fun (1)n|right ?
+----------------------------------------
+*** File "mat49.cha": line 1426.
+*MOT:	cool (.) alright well great .
+%mor:	(1)adj|cool (1)adj|alright (1)n|well adj|great .
+
+    Strings matched 3 times
+
+From file <mat50.cha>
+
+    Strings matched 0 times
+
+From file <mat51.cha>
+
+    Strings matched 0 times
+
+From file <mat52.cha>
+----------------------------------------
+*** File "mat52.cha": line 932.
+*MOT:	he really does actually (.) he has a big big bunny that's just like (.) almost as big as him (.) right ?
+%mor:	pro:sub|he adv|real&dadj-LY mod|do&3S adv|actual&dadj-LY pro:sub|he
+	v|have&3S det:art|a (1)adj|big (1)adj|big (1)n|bunny pro:rel|that~aux|be&3S
+	adv|just prep|like adv|almost prep|as adj|big prep|as pro:obj|him
+	co|right ?
+----------------------------------------
+*** File "mat52.cha": line 1034.
+*MOT:	yeah (.) it's probably got all broken up into tiny tiny pieces by now .
+%mor:	co|yeah pro:per|it~cop|be&3S adv|probable&dadj-LY v|get&PAST
+	adv|all part|break&PASTP adv|up prep|into (1)adj|tiny (1)adj|tiny
+	(1)n|piece-PL prep|by adv|now .
+----------------------------------------
+*** File "mat52.cha": line 1580.
+*MOT:	yeah (be)cause I guess (.) (be)cause wood is brown right (.) wood is probably brown ?
+%mor:	co|yeah conj|because pro:sub|I v|guess conj|because n|wood
+	cop|be&3S (1)adj|brown (1)adj|right (1)n|wood cop|be&3S adv|probable&dadj-LY
+	adj|brown ?
+----------------------------------------
+*** File "mat52.cha": line 1618.
+*MOT:	yeah that's a pretty good color for this .
+%mor:	co|yeah pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|color prep|for pro:dem|this .
+----------------------------------------
+*** File "mat52.cha": line 2118.
+*MOT:	little (.) they're little gummy things (.) so I see (.) so you chose the color to make it red ?
+%mor:	adj|little pro:sub|they~aux|be&PRES (1)adj|little (1)adj|gum&dn-Y
+	(1)n|thing-PL conj|so pro:sub|I v|see conj|so pro:per|you v|choose&PAST
+	det:art|the n|color inf|to v|make pro:per|it n|red ?
+----------------------------------------
+*** File "mat52.cha": line 2281.
+*MOT:	&-uh that's a good sad face .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|sad (1)n|face .
+
+    Strings matched 6 times
+
+From file <mat53.cha>
+----------------------------------------
+*** File "mat53.cha": line 1165.
+*MOT:	I dunno [: don't know] I got a little (.) little shocks from touching it .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|I v|get&PAST det:art|a
+	(1)adj|little (1)adj|little (1)n|shock-PL prep|from n:gerund|touch-PRESP
+	pro:per|it .
+----------------------------------------
+*** File "mat53.cha": line 1338.
+*MOT:	something (.) no no no (.) no nothing scary (.) don't say okay something scary (.) okay Mommy nothing scary I agree .
+%mor:	pro:indef|something co|no co|no co|no qn|no pro:indef|nothing
+	adj|scare&dn-Y mod|do~neg|not v|say adj|okay pro:indef|something
+	(1)adj|scare&dn-Y (1)adj|okay (1)n:prop|Mommy pro:indef|nothing
+	adj|scare&dn-Y pro:sub|I v|agree .
+----------------------------------------
+*** File "mat53.cha": line 1543.
+*MOT:	robins egg blue it's the same color as a robins egg (.) you know like a bird (.) a robin (.) it's the same color as the egg (.) and this one's called blue green with glitzy gold glitter (.) glitzy gold glitter whoa .
+%mor:	n|robin-PL n|egg n|blue pro:per|it~cop|be&3S det:art|the adj|same
+	n|color prep|as det:art|a n|robin-PL n|egg pro:per|you v|know
+	prep|like det:art|a n|bird det:art|a n|robin pro:per|it~cop|be&3S
+	det:art|the adj|same n|color prep|as det:art|the n|egg coord|and
+	pro:dem|this pro:indef|one~aux|be&3S part|call-PASTP adj|blue
+	n|green prep|with (1)adj|glitzy (1)adj|gold (1)n|glitter (2)adj|glitzy (2)adj|gold
+	(2)n|glitter co|whoa .
+----------------------------------------
+*** File "mat53.cha": line 1557.
+*MOT:	glitzy gold glitter .
+%mor:	(1)adj|glitzy (1)adj|gold (1)n|glitter .
+
+    Strings matched 5 times
+
+From file <mat53a.cha>
+
+    Strings matched 0 times
+
+From file <mat54.cha>
+----------------------------------------
+*** File "mat54.cha": line 405.
+*HEL:	did they have tiny (.) tiny dinosaurs .
+%mor:	mod|do&PAST pro:sub|they v|have (1)adj|tiny (1)adj|tiny (1)n|dinosaur-PL .
+----------------------------------------
+*** File "mat54.cha": line 431.
+*MOT:	what else was the coolest coolest dinosaur there ?
+%mor:	pro:int|what post|else cop|be&PAST&13S det:art|the (1)adj|cool-SP
+	(1)adj|cool-SP (1)n|dinosaur adv|there ?
+
+    Strings matched 2 times
+
+From file <mat55.cha>
+----------------------------------------
+*** File "mat55.cha": line 187.
+*MOT:	so maybe we should talk about something (be)cause you are not really remembering those days (.) how (a)bout won't you tell her about the new game we've been playing (.) it's a super fun game at our house .
+%mor:	adv|so adv|maybe pro:sub|we mod|should v|talk prep|about
+	pro:indef|something conj|because pro:per|you cop|be&PRES neg|not
+	adv|real&dadj-LY part|remember-PRESP pro:dem|those n|day-PL
+	adv:int|how adv|about mod|will~neg|not pro:per|you v|tell
+	pro:obj|her prep|about det:art|the adj|new n|game
+	pro:sub|we~aux|have aux|be&PASTP part|play-PRESP
+	pro:per|it~cop|be&3S det:art|a (1)adj|super (1)adj|fun (1)n|game prep|at
+	det:poss|our n|house .
+
+    Strings matched 1 times
+
+From file <mat56.cha>
+----------------------------------------
+*** File "mat56.cha": line 2171.
+*MOT:	&-um so the whole thing is like only like this big (.) it's just a little tiny tiny video player .
+%mor:	co|so det:art|the adj|whole n|thing cop|be&3S co|like adv|only
+	v|like pro:dem|this adj|big pro:per|it~aux|be&3S adj|just det:art|a
+	adj|little (1)adj|tiny (1)adj|tiny (1)n|video n|play&dv-AGT .
+
+    Strings matched 1 times
+

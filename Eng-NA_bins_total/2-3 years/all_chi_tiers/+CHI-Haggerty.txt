@@ -1,0 +1,83 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:30:05 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <haggerty.cha>
+----------------------------------------
+*** File "haggerty.cha": line 1171.
+*CHI:	she got a nice little shoe .
+%mor:	pro:sub|she v|get&PAST det:art|a (1)adj|nice (1)adj|little (1)n|shoe .
+----------------------------------------
+*** File "haggerty.cha": line 1288.
+*CHI:	nice little ball .
+%mor:	(1)adj|nice (1)adj|little (1)n|ball .
+----------------------------------------
+*** File "haggerty.cha": line 1291.
+*CHI:	have you nice little balls .
+%mor:	v|have pro:per|you (1)adj|nice (1)adj|little (1)n|ball-PL .
+----------------------------------------
+*** File "haggerty.cha": line 1573.
+*CHI:	a merry brown thrush Sets up in the tree , He's singing to me ,
+	He's singing to me .
+%mor:	det:art|a (1)adj|merry (1)adj|brown (1)n|thrush n:prop|Sets adv|up prep|in
+	det:art|the n|tree cm|cm n:prop|He~poss|s part|sing-PRESP prep|to
+	pro:obj|me cm|cm n:prop|He~poss|s part|sing-PRESP prep|to pro:obj|me
+	.
+----------------------------------------
+*** File "haggerty.cha": line 1780.
+*CHI:	what that big old Grand_Moder make for you ?
+%mor:	pro:int|what pro:dem|that (1)adj|big (1)adj|old (1)n:prop|Grand_Moder v|make
+	prep|for pro:per|you ?
+----------------------------------------
+*** File "haggerty.cha": line 1815.
+*CHI:	can you make a little round ring ?
+%mor:	mod|can pro:per|you v|make det:art|a (1)adj|little (1)adj|round (1)n|ring ?
+----------------------------------------
+*** File "haggerty.cha": line 1865.
+*CHI:	little gray kitty .
+%mor:	(1)adj|little (1)adj|gray (1)n|kitty .
+----------------------------------------
+*** File "haggerty.cha": line 3024.
+*CHI:	where's that hood , little tiny hood .
+%mor:	adv:int|where~cop|be&3S pro:dem|that n|hood cm|cm (1)adj|little
+	(1)adj|tiny (1)n|hood .
+----------------------------------------
+*** File "haggerty.cha": line 3426.
+*CHI:	merry brown thrush .
+%mor:	(1)adj|merry (1)adj|brown (1)n|thrush .
+----------------------------------------
+*** File "haggerty.cha": line 3640.
+*CHI:	is this a nice little book like Papa's ?
+%mor:	cop|be&3S pro:dem|this det:art|a (1)adj|nice (1)adj|little (1)n|book
+	prep|like n:prop|Papa~poss|s ?
+----------------------------------------
+*** File "haggerty.cha": line 3645.
+*CHI:	is this a nice little book like Papa's ?
+%mor:	cop|be&3S pro:dem|this det:art|a (1)adj|nice (1)adj|little (1)n|book
+	prep|like n:prop|Papa~poss|s ?
+----------------------------------------
+*** File "haggerty.cha": line 3650.
+*CHI:	is this a nice little book like Papa's ?
+%mor:	cop|be&3S pro:dem|this det:art|a (1)adj|nice (1)adj|little (1)n|book
+	prep|like n:prop|Papa~poss|s ?
+----------------------------------------
+*** File "haggerty.cha": line 5979.
+*CHI:	Dugy oh do (.) oh dear little , oh dear little Woozy .
+%mor:	n:prop|Dugy co|oh v|do co|oh adj|dear adj|little cm|cm co|oh
+	(1)adj|dear (1)adj|little (1)n:prop|Woozy .
+----------------------------------------
+*** File "haggerty.cha": line 6318.
+*CHI:	my dear little girl , my dear little girl .
+%mor:	det:poss|my (1)adj|dear (1)adj|little (1)n|girl cm|cm det:poss|my (2)adj|dear
+	(2)adj|little (2)n|girl .
+----------------------------------------
+*** File "haggerty.cha": line 6509.
+*CHI:	Helen don't want her sharp little claws brought out
+	[= referring to story] .
+%mor:	n:prop|Helen mod|do~neg|not v|want pro:obj|her (1)adj|sharp (1)adj|little
+	(1)n|claw-PL v|bring&PAST adv|out .
+
+    Strings matched 16 times
+

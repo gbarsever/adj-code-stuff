@@ -1,0 +1,386 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:42:32 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+----------------------------------------
+*** File "01.cha": line 1327.
+*LOI:	a big tall house . %snd:"01"_1507595_1510097
+%mor:	det:art|a (1)adj|big (1)adj|tall (1)n|house .
+----------------------------------------
+*** File "01.cha": line 1338.
+*LOI:	I'm gonna make a big tall house . %snd:"01"_1519053_1522639
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make det:art|a (1)adj|big
+	(1)adj|tall (1)n|house .
+----------------------------------------
+*** File "01.cha": line 2780.
+*PAT:	Jack shall have a new master (..) seesaw Marjorie daw (.) Jack
+	shall have a new master .
+%mor:	n:prop|Jack mod|shall v|have det:art|a (1)adj|new (1)adj|master (1)n|seesaw
+	n:prop|Marjorie n|daw n:prop|Jack mod|shall v|have det:art|a adj|new
+	n|master .
+----------------------------------------
+*** File "01.cha": line 4466.
+*LOI:	would you like a nice clean piece of paper ?
+%mor:	mod|will&COND pro:per|you conj|like det:art|a (1)adj|nice (1)adj|clean
+	(1)n|piece prep|of n|paper ?
+----------------------------------------
+*** File "01.cha": line 9028.
+*PAT:	there (.) you have this little chair don't you (.) a nice little
+	chair (.) teddy bear . %snd:"01"_5865385_5875417
+%mor:	adv|there pro:per|you v|have pro:dem|this adj|little n|chair
+	mod|do~neg|not pro:per|you det:art|a (1)adj|nice (1)adj|little (1)n|chair
+	n|teddy n|bear .
+
+    Strings matched 5 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+----------------------------------------
+*** File "03.cha": line 761.
+*LOI:	that's a pretty big boy . %snd:"03"_846436_848089
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|boy .
+----------------------------------------
+*** File "03.cha": line 1502.
+*LOI:	yeah (.) we'll make a nice big house . %snd:"03"_2178664_2181736
+%mor:	co|yeah pro:sub|we~mod|will v|make det:art|a (1)adj|nice (1)adj|big
+	(1)n|house .
+----------------------------------------
+*** File "03.cha": line 2369.
+*PAT:	that's the tiniest little kiss I've ever heard . %snd:"03"_3255451_3263985
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|tiny-SP (1)adj|little (1)n|kiss
+	pro:sub|I~aux|have adv|ever v|hear&PAST .
+----------------------------------------
+*** File "03.cha": line 2586.
+*PAT:	poor sleepy boy . %snd:"03"_3507466_3516197
+%mor:	(1)adj|poor (1)adj|sleep&dn-Y (1)n|boy .
+----------------------------------------
+*** File "03.cha": line 2761.
+*LOI:	is that a fuzzy little lamb ? %snd:"03"_3959402_3961638
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|fuzz&dn-Y (1)adj|little (1)n|lamb ?
+----------------------------------------
+*** File "03.cha": line 2875.
+*PAT:	oh you have a nice little ball . %snd:"03"_4186207_4187894
+%mor:	co|oh pro:per|you v|have det:art|a (1)adj|nice (1)adj|little (1)n|ball .
+----------------------------------------
+*** File "03.cha": line 8397.
+*PAT:	that's a pretty funny way to ride a bike . %snd:"03"_12313365_12321248
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|fun&dn-Y (1)n|way
+	prep|to n|ride det:art|a n|bike .
+
+    Strings matched 7 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <05.cha>
+----------------------------------------
+*** File "05.cha": line 2051.
+*LOI:	do you think that great big wheel can roll down the slide . %snd:"05"_3531256_3533401
+%mor:	mod|do pro:per|you v|think pro:rel|that (1)adj|great (1)adj|big (1)n|wheel
+	mod|can n|roll adv|down det:art|the n|slide .
+----------------------------------------
+*** File "05.cha": line 2676.
+*PAT:	ring finger (.) you do have a ring on your finger (.) it's a nice
+	yellow ring (.) does Lois have a ring now ? %snd:"05"_4355066_4364809
+%mor:	n|ring n|finger pro:per|you v|do v|have det:art|a n|ring prep|on
+	det:poss|your n|finger pro:per|it~cop|be&3S det:art|a (1)adj|nice
+	(1)adj|yellow (1)n|ring v|do&3S n:prop|Lois v|have det:art|a n|ring
+	adv|now ?
+----------------------------------------
+*** File "05.cha": line 6236.
+*LOI:	big tall tower . %snd:"05"_9694026_9695695
+%mor:	(1)adj|big (1)adj|tall (1)n|tower .
+----------------------------------------
+*** File "05.cha": line 6750.
+*PAT:	that's awful nice considering xxx . %snd:"05"_10271993_10274982
+%mor:	pro:dem|that~cop|be&3S (1)adj|awful (1)adj|nice (1)n:gerund|consider-PRESP .
+
+    Strings matched 4 times
+
+From file <06.cha>
+----------------------------------------
+*** File "06.cha": line 5799.
+*PAT:	push the big button (.) the big big button . %snd:"06"_7952782_7956590
+%mor:	v|push det:art|the adj|big n|button det:art|the (1)adj|big (1)adj|big
+	(1)n|button .
+----------------------------------------
+*** File "06.cha": line 9029.
+*MOT:	Peter that's stale old candy left over from Halloween (.) that's
+	not good . %snd:"06"_13574108_13580971
+%mor:	n:prop|Peter pro:dem|that~cop|be&3S (1)adj|stale (1)adj|old (1)n|candy
+	v|leave&PAST adv|over prep|from n:prop|Halloween
+	pro:dem|that~cop|be&3S neg|not adj|good .
+
+    Strings matched 2 times
+
+From file <07.cha>
+----------------------------------------
+*** File "07.cha": line 20.
+*PAT:	hey Pete (.) that's a nice new telephone (.) looks like it must do
+	everything (.) it must ring and talk and . %snd:"07"_206000_213242
+%mor:	co|hey n:prop|Pete pro:dem|that~cop|be&3S det:art|a (1)adj|nice
+	(1)adj|new (1)n|telephone cop|look-3S prep|like pro:per|it mod|must v|do
+	pro:indef|everything pro:per|it mod|must v|ring coord|and n|talk
+	coord|and .
+----------------------------------------
+*** File "07.cha": line 8266.
+*PAT:	there (.) little teeny car . %snd:"07"_11516672_11526508
+%mor:	adv|there (1)adj|little (1)adj|teeny (1)n|car .
+----------------------------------------
+*** File "07.cha": line 10349.
+*PAT:	you're a real sharp boy . %snd:"07"_13785221_13786507
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|sharp (1)n|boy .
+----------------------------------------
+*** File "07.cha": line 12007.
+*PAT:	that's a nice new chair you have (.) just the right size . %snd:"07"_15604720_15614102
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|new (1)n|chair
+	pro:per|you v|have adv|just det:art|the adj|right n|size .
+
+    Strings matched 4 times
+
+From file <08.cha>
+
+    Strings matched 0 times
+
+From file <09.cha>
+
+    Strings matched 0 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <11.cha>
+----------------------------------------
+*** File "11.cha": line 55.
+*LOI:	looks like a little tiny piece of a chair . %snd:"11"_51922_54877
+%mor:	cop|look-3S prep|like det:art|a (1)adj|little (1)adj|tiny (1)n|piece prep|of
+	det:art|a n|chair .
+----------------------------------------
+*** File "11.cha": line 5833.
+*MOT:	those are cute little chairs . %snd:"11"_6257053_6258706
+%mor:	pro:dem|those cop|be&PRES (1)adj|cute (1)adj|little (1)n|chair-PL .
+
+    Strings matched 2 times
+
+From file <12.cha>
+----------------------------------------
+*** File "12.cha": line 5062.
+*FAT:	wow (.) that's a pretty big egg Petes .
+%mor:	co|wow pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|egg
+	n:prop|Petes .
+----------------------------------------
+*** File "12.cha": line 11310.
+*PAT:	oh what a nice little boy .
+%mor:	co|oh pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+
+    Strings matched 2 times
+
+From file <13.cha>
+----------------------------------------
+*** File "13.cha": line 7391.
+*MOT:	behind the ears (.) down the shirt (.) now I'll scrub ya (.) oh (.)
+	scrub (.) scrub (.) scrub (.) scrub (.) scrub . %snd:"13"_7959414_7970069
+%mor:	prep|behind det:art|the n|ear-PL prep|down det:art|the n|shirt
+	adv|now pro:sub|I~mod|will adj|scrub pro:per|you co|oh adj|scrub
+	adj|scrub (1)adj|scrub (1)adj|scrub (1)n|scrub .
+----------------------------------------
+*** File "13.cha": line 10121.
+*MOT:	that's a pretty nice key ring (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|key n|ring
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "13.cha": line 10347.
+*MOT:	that's a pretty nice barrette you got in your hair there .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|barrette
+	pro:per|you v|get&PAST prep|in det:poss|your n|hair adv|there .
+
+    Strings matched 3 times
+
+From file <14.cha>
+----------------------------------------
+*** File "14.cha": line 164.
+*LOI:	over here (.) it's a great big bag (.) new toys in it .
+%mor:	adv|over adv|here pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|bag adj|new n|toy-PL prep|in pro:per|it .
+----------------------------------------
+*** File "14.cha": line 4514.
+*LYN:	oh it fell down (.) awoh (.) poor poor boy .
+%mor:	co|oh pro:per|it v|fall&PAST prep|down co|awoh (1)adj|poor (1)adj|poor
+	(1)n|boy .
+----------------------------------------
+*** File "14.cha": line 4961.
+*LYN:	I'm sorry little boy .
+%mor:	pro:sub|I~aux|be&1S (1)adj|sorry (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "14.cha": line 5449.
+*LYN:	you mean little boy .
+%mor:	pro:per|you (1)adj|mean (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "14.cha": line 5617.
+*MOT:	that's a pretty big egg .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|egg .
+
+    Strings matched 5 times
+
+From file <15.cha>
+----------------------------------------
+*** File "15.cha": line 1752.
+*PAT:	it's a big red case .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|case .
+----------------------------------------
+*** File "15.cha": line 1862.
+*PAT:	did you know Lois has a great big dog ?
+%mor:	v|do&PAST pro:per|you v|know n:prop|Lois v|have&3S det:art|a
+	(1)adj|great (1)adj|big (1)n|dog ?
+----------------------------------------
+*** File "15.cha": line 1887.
+*MOT:	Peter remember that (.) tiny little dog you saw ?
+%mor:	n:prop|Peter v|remember pro:rel|that (1)adj|tiny (1)adj|little (1)n|dog
+	pro:per|you v|saw ?
+----------------------------------------
+*** File "15.cha": line 1906.
+*MOT:	you saw a tiny little puppy ?
+%mor:	pro:per|you v|see&PAST det:art|a (1)adj|tiny (1)adj|little (1)n|puppy ?
+----------------------------------------
+*** File "15.cha": line 8848.
+*LYN:	okay (..) it's a pretty good pretzel .
+%mor:	co|okay pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|pretzel .
+
+    Strings matched 5 times
+
+From file <16.cha>
+
+    Strings matched 0 times
+
+From file <17.cha>
+----------------------------------------
+*** File "17.cha": line 710.
+*PAT:	the big brown bag .
+%mor:	det:art|the (1)adj|big (1)adj|brown (1)n|bag .
+----------------------------------------
+*** File "17.cha": line 8760.
+*LOI:	oh (.) good (.) okay (.) well you can use it now .
+%mor:	co|oh (1)adj|good (1)adj|okay (1)n|well pro:per|you mod|can v|use pro:per|it
+	adv|now .
+----------------------------------------
+*** File "17.cha": line 8915.
+*LOI:	the little red barrels ?
+%mor:	det:art|the (1)adj|little (1)adj|red (1)n|barrel-PL ?
+----------------------------------------
+*** File "17.cha": line 11877.
+*PAT:	it's a little blue ball like that .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|blue (1)n|ball prep|like
+	pro:dem|that .
+----------------------------------------
+*** File "17.cha": line 13645.
+*LOI:	here's the little blue barrel .
+%mor:	pro:exist|here~cop|be&3S det:art|the (1)adj|little (1)adj|blue (1)n|barrel .
+
+    Strings matched 5 times
+
+From file <18.cha>
+----------------------------------------
+*** File "18.cha": line 1611.
+*LYN:	(.) sound like a little old man .
+%mor:	n|sound prep|like det:art|a (1)adj|little (1)adj|old (1)n|man .
+----------------------------------------
+*** File "18.cha": line 10588.
+*LOI:	that little tiny hole ?
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|hole ?
+
+    Strings matched 2 times
+
+From file <19.cha>
+----------------------------------------
+*** File "19.cha": line 123.
+*PAT:	it's a pretty small bed isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|small (1)n|bed
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "19.cha": line 1413.
+*PAT:	yeah (.) it [//] that cow's a pretty good player .
+%mor:	co|yeah pro:rel|that n|cow~poss|s det:art|a (1)adj|pretty (1)adj|good
+	(1)n|play&dv-AGT .
+----------------------------------------
+*** File "19.cha": line 2060.
+*PAT:	uhhuh (.) big bad wolf's gonna open up the barrel ?
+%mor:	co|uhhuh (1)adj|big (1)adj|bad (1)n|wolf~poss|s part|go-PRESP~inf|to
+	adj|open prep|up det:art|the n|barrel ?
+----------------------------------------
+*** File "19.cha": line 2094.
+*PAT:	is that the big bad wolf ?
+%mor:	cop|be&3S pro:rel|that det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "19.cha": line 4037.
+*PAT:	it's over there where the big bad wolf was eating it .
+%mor:	pro:per|it~aux|be&3S adv|over adv|there adv:int|where det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf aux|be&PAST&13S part|eat-PRESP pro:per|it .
+----------------------------------------
+*** File "19.cha": line 4198.
+*PAT:	are you the big bad wolf ?
+%mor:	cop|be&PRES pro:per|you det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "19.cha": line 5172.
+*LOI:	it's a pretty little [!!] tower isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|tower
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 7 times
+
+From file <20.cha>
+----------------------------------------
+*** File "20.cha": line 125.
+*PAT:	oh (.) what a nice big living room (.) <oh it's so pretty> [>] .
+%mor:	co|oh pro:int|what det:art|a (1)adj|nice (1)adj|big (1)n:gerund|live-PRESP
+	n|room co|oh pro:per|it~cop|be&3S adv|so adv|pretty .
+----------------------------------------
+*** File "20.cha": line 560.
+*PAT:	that's right (.) that's their own little bookcase .
+%mor:	pro:dem|that~cop|be&3S adj|right pro:rel|that~aux|be&3S
+	det:poss|their (1)adj|own (1)adj|little (1)n|bookcase .
+----------------------------------------
+*** File "20.cha": line 2880.
+*PAT:	think the big bad wolf broke it huh ?
+%mor:	v|think det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|break&PAST pro:per|it
+	co|huh ?
+----------------------------------------
+*** File "20.cha": line 4006.
+*PAT:	big round table ?
+%mor:	(1)adj|big (1)adj|round (1)n|table ?
+----------------------------------------
+*** File "20.cha": line 5213.
+*PAT:	there are buffalo [/] buffalo [//] bisons and a great big bear with
+	wings .
+%mor:	adv|there cop|be&PRES n|bison-PL coord|and det:art|a (1)adj|great
+	(1)adj|big (1)n|bear prep|with n|wing-PL .
+----------------------------------------
+*** File "20.cha": line 6618.
+*PAT:	that little tiny room is the living room .
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|room cop|be&3S det:art|the
+	part|live-PRESP n|room .
+----------------------------------------
+*** File "20.cha": line 9928.
+*PAT:	I thought it was a pretty good idea .
+%mor:	pro:sub|I v|think&PAST pro:per|it cop|be&PAST&13S det:art|a
+	(1)adj|pretty (1)adj|good (1)n|idea .
+----------------------------------------
+*** File "20.cha": line 10789.
+*PAT:	<a perfectly good> [<] english word .
+%mor:	det:art|a adv|perfect&dadj-LY (1)adj|good (1)adj|english (1)n|word .
+----------------------------------------
+*** File "20.cha": line 13946.
+*PAT:	<you've gotten to be a long> [>] tall girl .
+%mor:	pro:per|you~aux|have part|get&PASTP inf|to cop|be det:art|a
+	(1)adj|long (1)adj|tall (1)n|girl .
+
+    Strings matched 9 times
+

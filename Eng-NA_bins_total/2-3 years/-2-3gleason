@@ -1,0 +1,151 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:15:10 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/martin.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/martin.cha": line 1353.
+*MOT:	you know that [//] you hafta eat lettuce in little teeny+weeny bits , Martin , cause it's hard to chew .
+%mor:	pro:per|you v|know pro:per|you mod:aux|hafta v|eat n|lettuce
+	prep|in (1)adj|little (1)adj|+adj|teeny+adj|weeny (1)n|bit-PL cm|cm
+	n:prop|Martin cm|cm n|cause pro:per|it~cop|be&3S adj|hard inf|to
+	v|chew .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/martin.cha": line 1663.
+*FAT:	she wanted a little medical advice .
+%mor:	pro:sub|she v|want-PAST det:art|a (1)adj|little (1)adj|medical (1)n|advice .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/nanette.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/patricia.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/patricia.cha": line 195.
+*FAT:	Stop_and_shop is a real hectic thing .
+%mor:	n:prop|Stop_and_shop cop|be&3S det:art|a (1)adj|real (1)adj|hectic
+	(1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/patricia.cha": line 1944.
+*MOT:	<that's a greasy french fry> [<] .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|grease&dn-Y (1)adj|french (1)n|fry .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/victor.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/victor.cha": line 72.
+*FAT:	nice cool small spoon .
+%mor:	adj|nice (1)adj|cool (1)adj|small (1)n|spoon .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Dinner/william.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/charlie.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/martin.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/martin.cha": line 1673.
+*FAT:	that was a pretty good price for sugar . %snd:"martin"_1728550_1732184
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good (1)n|price
+	prep|for n|sugar .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/nanette.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/patricia.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/richard.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/victor.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Father/victor.cha": line 1354.
+*FAT:	he's a pretty hard cat to (.) catch , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|hard (1)n|cat inf|to
+	v|catch cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/laurel.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/laurel.cha": line 581.
+*MOT:	it's a brand new wheel ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|brand (1)adj|new (1)n|wheel ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/laurel.cha": line 829.
+*MOT:	I'll see if I can find you a real funny book , okay ?
+%mor:	pro:sub|I~mod|will v|see conj|if pro:sub|I mod|can v|find
+	pro:per|you det:art|a (1)adj|real (1)adj|fun&dn-Y (1)n|book cm|cm adj|okay ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/laurel.cha": line 1472.
+*MOT:	and the cat gets on this little bitty branch .
+%mor:	coord|and det:art|the n|cat v|get-3S adv|on pro:dem|this (1)adj|little
+	(1)adj|bit&dn-Y (1)n|branch .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/martin.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/nanette.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/nanette.cha": line 1067.
+*MOT:	when you were a little tiny baby the first thing I ever gave you to eat (.) was baby oatmeal .
+%mor:	conj|when pro:per|you cop|be&PAST det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby det:art|the adj|first n|thing pro:sub|I adv|ever v|give&PAST
+	pro:per|you inf|to v|eat cop|be&PAST&13S n|baby n|oatmeal .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/nanette.cha": line 1074.
+*MOT:	and it came in a little tiny box like this .
+%mor:	coord|and pro:per|it v|come&PAST prep|in det:art|a (1)adj|little
+	(1)adj|tiny (1)n|box prep|like pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/nanette.cha": line 1503.
+*MOT:	looks like a big round mirror .
+%mor:	cop|look-3S prep|like det:art|a (1)adj|big (1)adj|round (1)n|mirror .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/patricia.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/patricia.cha": line 1336.
+*MOT:	<it's a> [>] little tiny paper napkin box .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|paper n|napkin
+	n|box .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/richard.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/victor.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/victor.cha": line 1813.
+*MOT:	I saw a little tiny book over here .
+%mor:	pro:sub|I v|see&PAST det:art|a (1)adj|little (1)adj|tiny (1)n|book adv|over
+	adv|here .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Gleason/Mother/william.cha>
+
+    Strings matched 0 times
+

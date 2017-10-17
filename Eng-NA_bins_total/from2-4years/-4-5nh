@@ -1,0 +1,127 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:06:04 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48f-edwina.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48f-edwina.cha": line 1512.
+*MOT:	do you remember that big the big humongous teddy bear that was in .
+%mor:	mod|do pro:per|you v|remember pro:rel|that adj|big det:art|the
+	(1)adj|big (1)adj|humongous (1)n|teddy n|bear pro:rel|that aux|be&PAST&13S
+	adv|in .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48f-edwina.cha": line 1821.
+*MOT:	it's a pretty good wagon .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|wagon .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48f-sabri.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48m-bronson.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48m-johann.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh48m-kalman.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-adara.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-alena.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-alena.cha": line 893.
+*MOT:	and there was this big heavy thing ?
+%mor:	coord|and adv|there cop|be&PAST&13S pro:dem|this (1)adj|big (1)adj|heavy
+	(1)n|thing ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-alena.cha": line 1464.
+*MOT:	well it's a pretty small house I don't think they could fit any
+	more people .
+%mor:	co|well pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|small (1)n|house
+	pro:sub|I mod|do~neg|not v|think pro:sub|they mod|could v|fit&ZERO
+	qn|any qn|more n|person&PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-candide.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-candide.cha": line 396.
+*MOT:	this looks like a pretty good book do you wanna read it ?
+%mor:	pro:dem|this cop|look-3S prep|like det:art|a (1)adj|pretty (1)adj|good
+	(1)n|book v|do pro:per|you v|want~inf|to v|read&ZERO pro:per|it ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-elodie.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-lark.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-lark.cha": line 1233.
+*MOT:	go sit in the living room and watch some t@l v@l and sit in those
+	big comfortable chairs .
+%mor:	v|go v|sit prep|in det:art|the part|live-PRESP n|room coord|and
+	v|watch qn|some n:let|t n:let|v coord|and v|sit prep|in
+	pro:dem|those (1)adj|big (1)adj|comfort&dv-ABLE (1)n|chair-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54f-raizel.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-boris.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-boris.cha": line 1484.
+*GRA:	who are all these poor little people lying on their backs .
+%mor:	pro:rel|who aux|be&PRES adv|all pro:dem|these (1)adj|poor (1)adj|little
+	(1)n|person&PL part|lie-PRESP prep|on det:poss|their n|back-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-cain.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-cain.cha": line 623.
+*MOT:	it's a great big boat isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|boat
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-cosmo.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-irving.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-irving.cha": line 535.
+*MOT:	it's a very big long word .
+%mor:	pro:per|it~cop|be&3S det:art|a adv|very (1)adj|big (1)adj|long (1)n|word .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-palmer.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-raidon.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/NH/nh54m-raidon.cha": line 1969.
+*MOT:	do they have a big sharp tooth in there ?
+%mor:	mod|do pro:sub|they v|have det:art|a (1)adj|big (1)adj|sharp (1)n|tooth
+	prep|in adv|there ?
+
+    Strings matched 1 times
+

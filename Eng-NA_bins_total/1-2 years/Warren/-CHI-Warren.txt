@@ -1,0 +1,165 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:14:59 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <alfred.cha>
+----------------------------------------
+*** File "alfred.cha": line 1500.
+*FAT:	an owl catches insects and eats little tiny mice .
+%mor:	det:art|a n|owl v|catch-3S n|insect-PL coord|and v|eat-3S
+	(1)adj|little (1)adj|tiny (1)n|mouse&PL .
+
+    Strings matched 1 times
+
+From file <allen.cha>
+----------------------------------------
+*** File "allen.cha": line 461.
+*MOT:	sing itsy bitsy spider .
+%mor:	v|sing (1)adj|itsy (1)adj|bitsy (1)n|spider .
+
+    Strings matched 1 times
+
+From file <beth.cha>
+
+    Strings matched 0 times
+
+From file <bill.cha>
+----------------------------------------
+*** File "bill.cha": line 416.
+*MOT:	your big back yard .
+%mor:	det:poss|your (1)adj|big (1)adj|back (1)n|yard .
+
+    Strings matched 1 times
+
+From file <carol.cha>
+
+    Strings matched 0 times
+
+From file <david.cha>
+
+    Strings matched 0 times
+
+From file <doug.cha>
+
+    Strings matched 0 times
+
+From file <george.cha>
+----------------------------------------
+*** File "george.cha": line 327.
+*MOT:	a dear little jacket .
+%mor:	det:art|a (1)adj|dear (1)adj|little (1)n|jacket .
+----------------------------------------
+*** File "george.cha": line 401.
+*MOT:	see , a little bunny rabbit has like a little fluffy tail .
+%mor:	v|see cm|cm det:art|a adj|little n|bunny n|rabbit aux|have&3S
+	co|like det:art|a (1)adj|little (1)adj|fluff&dn-Y (1)n|tail .
+----------------------------------------
+*** File "george.cha": line 549.
+*MOT:	well maybe , if it were a little brown bunny rabbit it might not be .
+%mor:	n|well adv|maybe cm|cm conj|if pro:per|it cop|be&PAST det:art|a
+	(1)adj|little (1)adj|brown (1)n|bunny n|rabbit pro:per|it mod|might neg|not
+	cop|be .
+----------------------------------------
+*** File "george.cha": line 1522.
+*FAT:	is Tybee island a real smooth beach ?
+%mor:	cop|be&3S n:prop|Tybee n|island det:art|a (1)adj|real (1)adj|smooth
+	(1)n|beach ?
+----------------------------------------
+*** File "george.cha": line 1746.
+*FAT:	small front wheel +...
+%mor:	(1)adj|small (1)adj|front (1)n|wheel +...
+----------------------------------------
+*** File "george.cha": line 1752.
+*FAT:	is this a small back wheel ?
+%mor:	cop|be&3S pro:dem|this det:art|a (1)adj|small (1)adj|back (1)n|wheel ?
+
+    Strings matched 6 times
+
+From file <gina.cha>
+
+    Strings matched 0 times
+
+From file <jeff.cha>
+----------------------------------------
+*** File "jeff.cha": line 32.
+*MOT:	that's a pretty yellow block .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|yellow (1)n|block .
+
+    Strings matched 1 times
+
+From file <jmarkey.cha>
+
+    Strings matched 0 times
+
+From file <john.cha>
+
+    Strings matched 0 times
+
+From file <katie.cha>
+----------------------------------------
+*** File "katie.cha": line 230.
+*MOT:	see the little red light ?
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light ?
+
+    Strings matched 1 times
+
+From file <louise.cha>
+----------------------------------------
+*** File "louise.cha": line 1051.
+*FAT:	that looks like a pretty difficult book .
+%mor:	pro:dem|that cop|look-3S prep|like det:art|a (1)adj|pretty
+	(1)adj|difficult (1)n|book .
+
+    Strings matched 1 times
+
+From file <mary.cha>
+
+    Strings matched 0 times
+
+From file <megan.cha>
+----------------------------------------
+*** File "megan.cha": line 579.
+*MOT:	it's a big old shoe , isn't it .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|shoe cm|cm
+	cop|be&3S~neg|not pro:per|it .
+
+    Strings matched 1 times
+
+From file <sandra.cha>
+----------------------------------------
+*** File "sandra.cha": line 153.
+*MOT:	they have their own little light in there , huh ?
+%mor:	pro:sub|they v|have det:poss|their (1)adj|own (1)adj|little (1)n|light
+	prep|in adv|there cm|cm co|huh ?
+
+    Strings matched 1 times
+
+From file <scott.cha>
+
+    Strings matched 0 times
+
+From file <susan.cha>
+----------------------------------------
+*** File "susan.cha": line 1378.
+*FAT:	third little pig .
+%mor:	(1)adj|third (1)adj|little (1)n|pig .
+----------------------------------------
+*** File "susan.cha": line 1475.
+*FAT:	you want some more little pigs or you want to talk about the greatest american hero ?
+%mor:	pro:per|you v|want qn|some adv|more adj|little n|pig-PL coord|or
+	pro:per|you v|want inf|to v|talk prep|about det:art|the (1)adj|great-SP
+	(1)adj|american (1)n|hero ?
+----------------------------------------
+*** File "susan.cha": line 1607.
+*FAT:	what happened to the greatest american hero last night ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the (1)adj|great-SP
+	(1)adj|american (1)n|hero adv|last n|night ?
+
+    Strings matched 3 times
+
+From file <wendy.cha>
+
+    Strings matched 0 times
+

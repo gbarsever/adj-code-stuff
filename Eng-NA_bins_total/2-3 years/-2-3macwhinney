@@ -1,0 +1,324 @@
+combo +t%mor -t*CHI -t*MAD -t*UNK -t*MAR -t*BEN -t*ROS -t*JOE -t*ALL +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:18:21 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MAD; *UNK; *MAR; *BEN; *ROS; *JOE; *ALL;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19a1.cha": line 891.
+*FAT:	it's a nice fresh sponge . %snd:"19a1"_1092264_1093872
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|fresh (1)n|sponge .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19a1.cha": line 894.
+*FAT:	nice fresh sponge . %snd:"19a1"_1093872_1096806
+%mor:	(1)adj|nice (1)adj|fresh (1)n|sponge .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19a1.cha": line 909.
+*FAT:	and he imitated it (.) nice fresh sponge . %snd:"19a1"_1102211_1106382
+%mor:	coord|and pro:sub|he v|imitate-PAST pro:per|it (1)adj|nice (1)adj|fresh
+	(1)n|sponge .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/19b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20a1.cha": line 241.
+*MOT:	and Mark is a baby Hulk and Ross is our little big Hulk . %snd:"20a1"_159039_163544
+%mor:	coord|and n:prop|Mark cop|be&3S det:art|a n|baby n:prop|Hulk
+	coord|and n:prop|Ross cop|be&3S det:poss|our (1)adj|little (1)adj|big
+	(1)n:prop|Hulk .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20a1.cha": line 327.
+*FAT:	I don't know with those little empty hands . %snd:"20a1"_216961_218331
+%mor:	pro:sub|I mod|do~neg|not v|know prep|with pro:dem|those (1)adj|little
+	(1)adj|empty (1)n|hand-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20a1.cha": line 1444.
+*FAT:	where's the <little bitty baby> [>] one ? %snd:"20a1"_792644_794595
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|bit&dn-Y (1)n|baby
+	pro:indef|one ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/20b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/21a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/22a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/22a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/22b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/22b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/23a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/23b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/23b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/23b2.cha": line 125.
+*FAT:	no (.) he's a nice little guy . %snd:"23b2"_717673_719059
+%mor:	co|no pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|guy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/24a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/24a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/24b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/24b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/25a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/25a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/25b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/25b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26a1.cha": line 333.
+*FAT:	nice little rhinoceros . %snd:"26a1"_347500_349440
+%mor:	(1)adj|nice (1)adj|little (1)n|rhinoceros .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26a2.cha": line 788.
+*FAT:	old King Cole (.) was a merry old soul +... %snd:"26a2"_1364070_1368717
+%mor:	adj|old n:prop|King n:prop|Cole cop|be&PAST&13S det:art|a (1)adj|merry
+	(1)adj|old (1)n|soul +...
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26b2.cha": line 300.
+*FAT:	did you stay up too late last night ? %snd:"26b"_806040_806973
+%mor:	v|do&PAST pro:per|you n|stay adv|up adv|too (1)adj|late (1)adj|last
+	(1)n|night ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/26b2.cha": line 543.
+*FAT:	you look real cute (.) Ross . %snd:"26b"_1298107_1299773
+%mor:	pro:per|you cop|look (1)adj|real (1)adj|cute (1)n:prop|Ross .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27a2.cha": line 106.
+*FAT:	some day (.) Tuesday (.) they're going to fix the great big witch
+	(.) right ? %snd:"27a2"_77692_80414
+%mor:	qn|some n|day n:prop|Tuesday pro:sub|they~aux|be&PRES part|go-PRESP
+	inf|to v|fix det:art|the (1)adj|great (1)adj|big (1)n|witch adj|right ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27b1.cha": line 792.
+*FAT:	you're a good little boy . %snd:"27b1"_673014_675122
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/27b2.cha": line 963.
+*FAT:	because you like him (.) he's a nice little dog ? %snd:"27b2"_1726232_1728211
+%mor:	conj|because pro:per|you v|like pro:obj|him pro:sub|he~aux|be&3S
+	det:art|a (1)adj|nice (1)adj|little (1)n|dog ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28.cha": line 134.
+*FAT:	and how about this nice little hippo ? %snd:"28a1"_67988_71210
+%mor:	coord|and adv:int|how prep|about pro:dem|this (1)adj|nice (1)adj|little
+	(1)n|hippo ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28.cha": line 668.
+*FAT:	Marky is a good little friend . %snd:"28a1"_1109499_1112283
+%mor:	n:prop|Marky cop|be&3S det:art|a (1)adj|good (1)adj|little (1)n|friend .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28.cha": line 751.
+*FAT:	nice (.) that's a nice little train you got there . %snd:"28a1"_1201398_1205075
+%mor:	adj|nice pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little
+	(1)n|train pro:per|you v|get&PAST adv|there .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28b2.cha": line 199.
+*FAT:	isn't he a horrible little brother ? %snd:"28b2"_164012_168653
+%mor:	cop|be&3S~neg|not pro:sub|he det:art|a (1)adj|horrible (1)adj|little
+	(1)n|brother ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/28b2.cha": line 402.
+*FAT:	and you got a cute little watch . %snd:"28b2"_984165_985734
+%mor:	coord|and pro:per|you v|get&PAST det:art|a (1)adj|cute (1)adj|little
+	(1)n|watch .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29a1.cha": line 974.
+*FAT:	tell Marky that if he talks you'll give him a real nice kiss . %snd:"29a1"_1058285_1065920
+%mor:	v|tell n:prop|Marky pro:rel|that conj|if pro:sub|he v|talk-3S
+	pro:per|you~mod|will v|give pro:obj|him det:art|a (1)adj|real (1)adj|nice
+	(1)n|kiss .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29b.cha": line 186.
+*FAT:	that's a pretty hard word (.) yeah . %snd:"29b"_276128_277326
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|hard (1)n|word co|yeah
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/29b.cha": line 776.
+*FAT:	how about some real good water ? %snd:"29b"_603959_605279
+%mor:	adv:int|how prep|about qn|some (1)adj|real (1)adj|good (1)n|water ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/30a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/30a1.cha": line 503.
+*FAT:	you have a dirty little nose don't you ?%snd:"30a1"_336663_339347
+%mor:	pro:per|you v|have det:art|a (1)adj|dirt&dn-Y (1)adj|little (1)n|nose
+	mod|do~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/30a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/30b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/30b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31b2.cha": line 489.
+*FAT:	is he a nice blue monster ? %snd:"31b2"_770391_771506
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|nice (1)adj|blue (1)n|monster ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/31b2.cha": line 1027.
+*FAT:	is he a good little brother ? %snd:"31b2"_1265616_1267018
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|good (1)adj|little (1)n|brother ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/0notlinked/20b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/0notlinked/21a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/0notlinked/21b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/0notlinked/21b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/MacWhinney/0notlinked/27a1-end.cha>
+
+    Strings matched 0 times
+

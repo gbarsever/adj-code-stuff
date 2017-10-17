@@ -1,0 +1,3148 @@
+combo +t%mor -t*CHI -t*SIB -t*JAK -t*JES -t*FR2 -t*LIS -t*FEM -t*CAL -t*KID -t*ANT -t*FRE -t*FRI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:04:25 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *SIB; *JAK; *JES; *FR2; *LIS; *FEM; *CAL; *KID; *ANT; *FRE; *FRI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/admbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/admbr1.cha": line 168.
+*MOT:	the caterpillar ate through (.) one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/anabr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/anabr1.cha": line 606.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/anabr1.cha": line 1277.
+*MOT:	<the caterpillar> [<] ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/annbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/annbr1.cha": line 369.
+*MOT:	the next day was Sunday again the caterpillar ate through one nice green leaf (.) and after that (.) he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/annbr1.cha": line 398.
+*MOT:	now he wasn't hungry anymore (.) and he wasn't [!] a little caterpillar anymore he was a big (.) fat (.) caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/arlbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/arlbr1.cha": line 190.
+*MOT:	the next day was Sunday again the caterpillar ate through (.) one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/bobbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/bobbr1.cha": line 193.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/bobbr1.cha": line 200.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/brnbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/brnbr1.cha": line 121.
+*MOT:	the yyy ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the v|eat&PAST adj|through pro:indef|one (1)adj|nice (1)adj|green
+	(1)n|leaf coord|and conj|after det:dem|that pro:sub|he v|feel&PAST
+	adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/brnbr1.cha": line 127.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/casbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/casbr1.cha": line 243.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/casbr1.cha": line 250.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore he was big fat caterpillar !
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S (1)adj|big (1)adj|fat
+	(1)n|caterpillar !
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/conbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/conbr1.cha": line 339.
+*MOT:	the caterpillar ate through one nice green leaf and after that he left .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|leave&PAST .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/conbr1.cha": line 362.
+*MOT:	now he wasn't hungry anymore and he wasn't a little <&cal> [//] caterpillar anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/davbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/davbr1.cha": line 178.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much [!] better (.) .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/davbr1.cha": line 393.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/davbr1.cha": line 409.
+*MOT:	wait a second he was a big fat caterpillar .
+%mor:	v|wait det:art|a adv|second pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jambr1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jeabr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jeabr1.cha": line 142.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jenbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jenbr1.cha": line 260.
+*MOT:	<the &+ca> [//] the caterpillar ate through (.) one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jenbr1.cha": line 814.
+*MOT:	<when the door> [//] but when the door opened there stood Oliver's mother in a pretty long dress and a pointed hat .
+%mor:	conj|but conj|when det:art|the n|door v|open-PAST adv|there
+	v|stand&PAST n:prop|Oliver~poss|s n|mother prep|in det:art|a
+	(1)adj|pretty (1)adj|long (1)n|dress coord|and det:art|a part|point-PASTP
+	n|hat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jenbr1.cha": line 988.
+*MOT:	Teddy brought some funny little puppets and <Charles> [//] Charlotte brought a baseball and bat [>] .
+%mor:	n:prop|Teddy v|bring&PAST qn|some (1)adj|fun&dn-Y (1)adj|little
+	(1)n|puppet-PL coord|and n:prop|Charlotte v|bring&PAST det:art|a
+	n|baseball coord|and n|bat .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jerbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jerbr1.cha": line 227.
+*MOT:	the caterpillar ate through (.) one nice (.) green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/jerbr1.cha": line 237.
+*MOT:	now he wasn't hungry anymore (.) and he wasn't a little caterpillar anymore (.) he was a big [!] fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/joebr1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/joybr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/joybr1.cha": line 180.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 321.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 328.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore , he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore cm|cm pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 522.
+*MOT:	his new wife was a proud cruel woman who hated the merchant's young daughter .
+%mor:	det:poss|his adj|new n|wife cop|be&PAST&13S det:art|a (1)adj|proud
+	(1)adj|cruel (1)n|woman pro:rel|who v|hate-PAST det:art|the
+	n|merchant~poss|s adj|young n|daughter .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 651.
+*MOT:	with a wave of her wand and fairy [/] fairy chant changed the pumpkin into a magnificent golden coach .
+%mor:	prep|with det:art|a n|wave prep|of det:poss|her n|wand coord|and
+	n|fairy n|chant v|change-PAST det:art|the n|pumpkin prep|into
+	det:art|a (1)adj|magnificent (1)adj|golden (1)n|coach .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 700.
+*MOT:	almost at once the king's son the handsome young prince invited her to dance with him .
+%mor:	adv|almost prep|at adv|once det:art|the n|king~poss|s n|son
+	det:art|the (1)adj|handsome (1)adj|young (1)n|prince v|invite-PAST
+	pro:obj|her prep|to n|dance prep|with pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/marbr1.cha": line 751.
+*MOT:	the prince tried to follow her but he saw only a poor young girl in rags running down the street followed by six little mice .
+%mor:	det:art|the n|prince v|try-PAST inf|to v|follow pro:obj|her
+	conj|but pro:sub|he v|see&PAST adv|only det:art|a (1)adj|poor (1)adj|young
+	(1)n|girl prep|in n|rag-PL part|run-PRESP prep|down det:art|the
+	n|street v|follow-PAST prep|by det:num|six adj|little n|mouse&PL .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 449.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 767.
+*MOT:	once upon a time there lived a beautiful little girl .
+%mor:	adv|once prep|upon det:art|a n|time adv|there v|live-PAST det:art|a
+	(1)adj|beautiful (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 934.
+*MOT:	Jack had found a new little mouse who didn't know Cinderella .
+%mor:	n:prop|Jack aux|have&PAST part|find&PASTP det:art|a (1)adj|new
+	(1)adj|little (1)n|mouse pro:rel|who mod|do&PAST~neg|not v|know
+	n:prop|Cinderella .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 1024.
+*MOT:	there's that mean old cat huh ?
+%mor:	pro:exist|there~cop|be&3S pro:dem|that (1)adj|mean (1)adj|old (1)n|cat
+	co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 1075.
+*MOT:	Jack jumped to safety in a <ti(ny)> [//] teeny tiny hole .
+%mor:	n:prop|Jack v|jump-PAST prep|to n|safety prep|in det:art|a
+	(1)adj|teeny (1)adj|tiny (1)n|hole .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 1135.
+*MOT:	Lucifer immediately spotted him and quietly crouching down thought to himself what a good meal that plump little mouse and cheese will be .
+%mor:	n:prop|Lucifer adv|immediate&dadj-LY v|spot-PAST pro:obj|him
+	coord|and adv|quiet&dadj-LY part|crouch-PRESP prep|down n|thought
+	prep|to pro:refl|himself pro:int|what det:art|a adj|good n|meal
+	pro:rel|that (1)adj|plump (1)adj|little (1)n|mouse coord|and n|cheese
+	mod|will cop|be .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/megbr1.cha": line 1931.
+*MOT:	that was a little tiny shoe huh ?
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny (1)n|shoe
+	co|huh ?
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha": line 56.
+*MOT:	see the little egg on that big old leaf ?
+%mor:	v|see det:art|the adj|little n|egg prep|on pro:dem|that (1)adj|big
+	(1)adj|old (1)n|leaf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha": line 313.
+*MOT:	the caterpillar ate through (.) one nice green leaf (.) and after that (.) he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha": line 726.
+*MOT:	all the other reindeer had small brown noses (.) and Rudolf's nose was +...
+%mor:	qn|all det:art|the qn|other n|reindeer v|have&PAST (1)adj|small
+	(1)adj|brown (1)n|nose-PL coord|and n:prop|Rudolf~poss|s n|nose
+	cop|be&PAST&13S +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha": line 928.
+*MOT:	suddenly a soft red light lit up Santa's list .
+%mor:	adv|sudden&dadj-LY det:art|a (1)adj|soft (1)adj|red (1)n|light v|light&PAST
+	adv|up n:prop|Santa~poss|s n|list .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/melbr1.cha": line 963.
+*MOT:	your bright shiny nose will show us the way .
+%mor:	det:poss|your (1)adj|bright (1)adj|shine&dn-Y (1)n|nose mod|will v|show
+	pro:obj|us det:art|the n|way .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/miabr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/miabr1.cha": line 58.
+*MOT:	see the little tiny egg right there that's a caterpillar egg .
+%mor:	v|see det:art|the (1)adj|little (1)adj|tiny (1)n|egg adv|right adv|there
+	pro:dem|that~cop|be&3S det:art|a n|caterpillar n|egg .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/miabr1.cha": line 285.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/miabr1.cha": line 312.
+*MOT:	he was a [/] (.) he was a big fat caterpillar .
+%mor:	pro:sub|he cop|be&PAST&13S pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/monbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/monbr1.cha": line 279.
+*MOT:	the Caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n:prop|Caterpillar v|eat&PAST prep|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/monbr1.cha": line 730.
+*MOT:	Peter Pan took everyone to his secret hideout underneath the big (.) hollow tree .
+%mor:	n:prop|Peter n:prop|Pan v|take&PAST pro:indef|everyone prep|to
+	det:poss|his adj|secret n|+v|hide+prep|out prep|underneath
+	det:art|the (1)adj|big (1)adj|hollow (1)n|tree .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/monbr1.cha": line 744.
+*INV1:	actually if that's a real long book that's okay .
+%mor:	adv|actual&dadj-LY conj|if pro:dem|that~cop|be&3S det:art|a
+	(1)adj|real (1)adj|long (1)n|book pro:rel|that~aux|be&3S co|okay .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/morbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/morbr1.cha": line 339.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better see ?
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP v|see ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/nedbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/nedbr1.cha": line 596.
+*MOT:	the next day was Sunday again the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/nedbr1.cha": line 608.
+*MOT:	(.) now he wasn't hungry anymore and he wasn't a little caterpillar anymore (.) he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rilbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rilbr1.cha": line 356.
+*MOT:	the caterpillar ate through (.) one (.) nice green leaf and after (.) that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rilbr1.cha": line 386.
+*MOT:	now [<] he wasn't hungry anymore (.) and he wasn't a little [!] caterpillar anymore he was a big [!] fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rilbr1.cha": line 438.
+*MOT:	the big [!] beautiful butterfly .
+%mor:	det:art|the (1)adj|big (1)adj|beautiful (1)n|+n|butter+n|fly .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rilbr1.cha": line 953.
+*MOT:	itsy bitsy spiders ?
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider-PL ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 76.
+*MOT:	see that great big leaf ?
+%mor:	v|see pro:rel|that (1)adj|great (1)adj|big (1)n|leaf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 484.
+*MOT:	<the caterpillar ate through one nice green leaf and> [>] .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 1239.
+*MOT:	these are big long [!] stories (.) .
+%mor:	pro:dem|these cop|be&PRES (1)adj|big (1)adj|long (1)n|story-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 1630.
+*MOT:	a big bed with a high pillow (.) <a middle bed> [//] middle sized bed with a middle sized pillow (.) and a wee little bed with a soft (.) little pillow .
+%mor:	det:art|a adj|big n|bed prep|with det:art|a adj|high n|pillow
+	n|middle v|size-PAST n|bed prep|with det:art|a n|middle v|size-PAST
+	n|pillow coord|and det:art|a (1)adj|wee (1)adj|little (1)n|bed prep|with
+	det:art|a (2)adj|soft (2)adj|little (2)n|pillow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 1639.
+*MOT:	see the little teeny weeny bed ?
+%mor:	v|see det:art|the adj|little (1)adj|teeny (1)adj|weeny (1)n|bed ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 1648.
+*MOT:	<at these words> [<] [>] [//] (.) at [/] at these words baby bear yawned and crept into the wee little bed with the soft pillow and was soon fast asleep .
+%mor:	prep|at pro:dem|these n|word-PL n|baby n|bear v|yawn-PAST coord|and
+	v|creep&PAST prep|into det:art|the (1)adj|wee (1)adj|little (1)n|bed
+	prep|with det:art|the adj|soft n|pillow coord|and cop|be&PAST&13S
+	adv|soon adv|fast adv|asleep .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 2042.
+*MOT:	a big ol(d) glob of toothpaste in his left eye .
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|glob prep|of n|+n|tooth+n|paste prep|in
+	det:poss|his n|left n|eye .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 2108.
+*MOT:	it was a beautiful golden color (.) just like the color of honey .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|beautiful (1)adj|golden
+	(1)n|color adv|just prep|like det:art|the n|color prep|of n|honey .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rocbr1.cha": line 2218.
+*MOT:	the little round bubbles drift forth as he made soft little o@l .
+%mor:	det:art|the adj|little n|round v|bubble-3S n|drift adv|forth
+	prep|as pro:sub|he v|make&PAST (1)adj|soft (1)adj|little (1)n:let|o .
+
+    Strings matched 10 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rosbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rosbr1.cha": line 696.
+*FAT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rosbr1.cha": line 703.
+*FAT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore (.) he was a big <fat caterpillar &=laughs > [>] .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/rosbr1.cha": line 764.
+*FAT:	this is a pretty long book .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|long (1)n|book .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/sopbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/sopbr1.cha": line 107.
+*MOT:	the caterpillar ate through one nice green leaf and after that he left much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|leave&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/susbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/susbr1.cha": line 158.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/susbr1.cha": line 288.
+*MOT:	we had a big dog next door (.) a big big dog (.) much bigger than me .
+%mor:	pro:sub|we v|have&PAST det:art|a adj|big n|dog adj|next n|door
+	det:art|a (1)adj|big (1)adj|big (1)n|dog adv|much adj|big-CP prep|than
+	pro:obj|me .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/susbr1.cha": line 453.
+*MOT:	I used to be afraid of the big bad wolf (.) and the three little pigs .
+%mor:	pro:sub|I v|use-PAST inf|to cop|be adj|afraid prep|of det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf coord|and det:art|the det:num|three
+	adj|little n|pig-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tambr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tambr1.cha": line 151.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tambr1.cha": line 587.
+*MOT:	star light star bright first star I see tonight .
+%mor:	n|star adj|light n|star (1)adj|bright (1)adj|first (1)n|star pro:sub|I v|see
+	adv:tem|tonight .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/terbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/terbr1.cha": line 193.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/todbr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/todbr1.cha": line 159.
+*MOT:	caterpillar ate through one nice green leaf .
+%mor:	n|caterpillar v|eat&PAST prep|through pro:indef|one (1)adj|nice
+	(1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/todbr1.cha": line 533.
+*MOT:	next was the long dark mountain tunnel and the trestle bridge (.) which spanned the glassy <blue sky> [//] blue lake .
+%mor:	adv|next aux|be&PAST&13S det:art|the (1)adj|long (1)adj|dark (1)n|mountain
+	n|tunnel coord|and det:art|the n|trestle n|bridge pro:rel|which
+	v|span-PAST det:art|the (2)adj|glass&dn-Y (2)adj|blue (2)n|lake .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/todbr1.cha": line 768.
+*MOT:	suddenly there was a big [!] round object right in front of him (.) a red rubber ball .
+%mor:	adv|sudden&dadj-LY adv|there cop|be&PAST&13S det:art|a (1)adj|big
+	(1)adj|round (1)n|object adv|right prep|in n|front prep|of pro:obj|him
+	det:art|a n|red n|rubber n|ball .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 38.
+*MOT:	hm: that's just a [/] (.) a little light spot I think but look_it that's a big leaf .
+%mor:	co|hm pro:dem|that~cop|be&3S adv|just det:art|a (1)adj|little
+	(1)adj|light (1)n|spot pro:sub|I v|think conj|but co|look_it
+	pro:dem|that~cop|be&3S det:art|a adj|big n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 267.
+*MOT:	the next day was Sunday again and the caterpillar ate through one nice green leaf (.) and after that he felt much [!] better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 373.
+*MOT:	yeah real big wings huh ?
+%mor:	co|yeah (1)adj|real (1)adj|big (1)n|wing-PL co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 432.
+*MOT:	in the light of <the moon> [>] a little grey egg lay on a leaf .
+%mor:	prep|in det:art|the n|light prep|of det:art|the n|moon det:art|a
+	(1)adj|little (1)adj|grey (1)n|egg adj|lay prep|on det:art|a n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 607.
+*MOT:	the next day was Sunday again and the caterpillar ate through an [//] one nice green leaf (.) and he felt much <much better> [>] .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and pro:sub|he
+	v|feel&PAST adv|much adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 1059.
+*MOT:	all around the town they led Frosty that day and while the warm wintry sun shone down .
+%mor:	post|all prep|around det:art|the n|town pro:sub|they v|lead&PAST
+	n:prop|Frosty pro:rel|that n|day coord|and conj|while det:art|the
+	(1)adj|warm (1)adj|wintry (1)n|sun v|shine&PAST adv|down .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 1327.
+*MOT:	he could fly really high (.) a big beautiful caterpillar !
+%mor:	pro:sub|he mod|could v|fly adv|real&dadj-LY adj|high det:art|a
+	(1)adj|big (1)adj|beautiful (1)n|caterpillar !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tombr1.cha": line 1332.
+*MOT:	a big beautiful butterfly !
+%mor:	det:art|a (1)adj|big (1)adj|beautiful (1)n|+n|butter+n|fly !
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tribr1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tribr1.cha": line 396.
+*MOT:	the caterpillar [>] ate through one [!] nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tribr1.cha": line 740.
+*MOT:	sounds like a pretty good race to me huh ?
+%mor:	n|sound-PL prep|like det:art|a (1)adj|pretty (1)adj|good (1)n|race prep|to
+	pro:obj|me co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/BR/tribr1.cha": line 758.
+*MOT:	after the race (.) the mouse told them a long sad story about his tail (.) and Alice told them about her cat .
+%mor:	prep|after det:art|the n|race det:art|the n|mouse v|tell&PAST
+	pro:obj|them det:art|a (1)adj|long (1)adj|sad (1)n|story prep|about
+	det:poss|his n|tail coord|and n:prop|Alice v|tell&PAST pro:obj|them
+	prep|about det:poss|her n|cat .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/admer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/alier1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/anaer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/anner1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/arler1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/bober1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/brner1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/caser1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/coner1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/daver1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/guyer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jamer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jeaer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jeber2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jener1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jerer1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/jerer1.cha": line 199.
+*MOT:	(.) didn't daddy give you a great big push on the swing ?
+%mor:	mod|do&PAST~neg|not n|daddy v|give pro:per|you det:art|a (1)adj|great
+	(1)adj|big (1)n|push prep|on det:art|the n|swing ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/joeer1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/joeer1.cha": line 157.
+*INV1:	was it real beautiful Chi ?
+%mor:	cop|be&PAST&13S pro:per|it (1)adj|real (1)adj|beautiful (1)n:prop|Chi ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/joyer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/marer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/meger1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/meger1.cha": line 358.
+*MOT:	the big brown thing .
+%mor:	det:art|the (1)adj|big (1)adj|brown (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/meler1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/miaer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/moner1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/morer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/neder1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/riler1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/rocer1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/rocer1.cha": line 353.
+*MOT:	big ol(d) Carmen was scared of that ride ?
+%mor:	(1)adj|big (1)adj|old (1)n:prop|Carmen aux|be&PAST&13S part|scare-PASTP
+	prep|of pro:dem|that n|ride ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/roser1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/soper1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/tamer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/terer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/toder1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/tomer1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/ER/trier1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/admmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/admmt1.cha": line 757.
+*MOT:	it's gonna be a long long long long ride .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be det:art|a adj|long
+	adj|long (1)adj|long (1)adj|long (1)n|ride .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/anamt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/annmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/annmt1.cha": line 453.
+*MA1:	<yeah xxx> [<] spoiled rotten little baby .
+%mor:	co|yeah v|spoil-PAST (1)adj|rotten (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/brnmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/brnmt1.cha": line 316.
+*SIS:	&-um it had a big [!] big huge castle .
+%mor:	pro:per|it v|have&PAST det:art|a adj|big (1)adj|big (1)adj|huge (1)n|castle
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/brnmt1.cha": line 939.
+*MOT:	want me to treat you like a little bitty baby ?
+%mor:	v|want pro:obj|me inf|to v|treat pro:per|you conj|like det:art|a
+	(1)adj|little (1)adj|bit&dn-Y (1)n|baby ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/casmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/conmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/davmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/davmt1.cha": line 282.
+*MOT:	well we were just checking out the little red light on it .
+%mor:	co|well pro:sub|we aux|be&PAST adv|just part|check-PRESP prep|out
+	det:art|the (1)adj|little (1)adj|red (1)n|light prep|on pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/davmt1.cha": line 476.
+*FAT:	see every time you talk that little red light comes on .
+%mor:	v|see qn|every n|time pro:per|you v|talk pro:dem|that (1)adj|little
+	(1)adj|red (1)n|light v|come-3S adv|on .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/davmt1.cha": line 969.
+*MOT:	nice juicy cantaloupe ?
+%mor:	(1)adj|nice (1)adj|juice&dn-Y (1)n|cantaloupe ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/davmt1.cha": line 2468.
+*MOT:	that's if you don't eat for a long long time .
+%mor:	pro:dem|that~cop|be&3S conj|if pro:per|you mod|do~neg|not v|eat
+	prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/gilmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jammt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jeamt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jeamt1.cha": line 394.
+*MOT:	you're getting to be a pretty good swimmer Chi .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be det:art|a
+	(1)adj|pretty (1)adj|good (1)n|swim&dv-AGT n:prop|Chi .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jenmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jermt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jermt1.cha": line 431.
+*MOT:	see↑ you're gonna get big strong muscles when you get big .
+%mor:	co|see pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|get (1)adj|big
+	(1)adj|strong (1)n|muscle-PL conj|when pro:per|you v|get adj|big .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jermt1.cha": line 485.
+*MOT:	big big fire engine so you can ride in it ?
+%mor:	(1)adj|big (1)adj|big (1)n|fire n|engine conj|so pro:per|you mod|can v|ride
+	prep|in pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jermt1.cha": line 606.
+*MOT:	so you get nice big strong muscles .
+%mor:	co|so pro:per|you v|get adj|nice (1)adj|big (1)adj|strong (1)n|muscle-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/jermt1.cha": line 612.
+*MOT:	so you can drive the great big oil truck when you get big .
+%mor:	co|so pro:per|you mod|can v|drive det:art|the (1)adj|great (1)adj|big
+	(1)n|oil n|truck conj|when pro:per|you v|get adj|big .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/joemt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/joymt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/joymt1.cha": line 62.
+*CLI:	you probably kept <her awake last night> [>] .
+%mor:	pro:per|you adv|probable&dadj-LY v|keep&PAST pro:obj|her (1)adj|awake
+	(1)adj|last (1)n|night .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/megmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/melmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/monmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/mormt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/remmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/remmt1.cha": line 25.
+*FAT:	we have beautiful beautiful (.) seafood (.) plates .
+%mor:	pro:sub|we v|have (1)adj|beautiful (1)adj|beautiful (1)n|seafood n|plate-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/remmt1.cha": line 1904.
+*FAT:	little tiny seahorses .
+%mor:	(1)adj|little (1)adj|tiny (1)n|seahorse-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/remmt1.cha": line 2176.
+*FAT:	a whale (.) big big whale ?
+%mor:	det:art|a n|whale (1)adj|big (1)adj|big (1)n|whale ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/rilmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/rosmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/rosmt1.cha": line 331.
+*FAT:	crack a window get a little fresh air xxx .
+%mor:	v|crack det:art|a n|window v|get det:art|a (1)adj|little (1)adj|fresh
+	(1)n|air .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/sopmt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tammt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tamtp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/termt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/todmt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/todmt1.cha": line 1877.
+*SS:	yours is the same same thing .
+%mor:	pro:poss|yours cop|be&3S det:art|the (1)adj|same (1)adj|same (1)n|thing .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tommt1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tommt1.cha": line 980.
+*MOT:	he's on the other side of the screen that's a pretty big bee though huh ?
+%mor:	pro:sub|he~cop|be&3S prep|on det:art|the qn|other n|side prep|of
+	det:art|the n|screen pro:rel|that~aux|be&3S det:art|a (1)adj|pretty
+	(1)adj|big (1)n|bee adv|though co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tommt1.cha": line 2344.
+*MOT:	&+aw that's a sad quiet cat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|sad (1)adj|quiet (1)n|cat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/tommt1.cha": line 3676.
+*MOT:	you're the best little guy in the whole wide world .
+%mor:	pro:per|you~aux|be&PRES det:art|the (1)adj|good&SP (1)adj|little (1)n|guy
+	prep|in det:art|the n|whole adj|wide n|world .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/MT/trimt1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/admtp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/anatp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/anntp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/anntp1.cha": line 309.
+*MOT:	&-uh a long green [!] piece ?
+%mor:	det:art|a (1)adj|long (1)adj|green (1)n|piece ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/arltp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/bobtp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/bobtp1.cha": line 900.
+*MOT:	oh this looks like a little brown dinosaur to me .
+%mor:	co|oh pro:dem|this cop|look-3S prep|like det:art|a (1)adj|little
+	(1)adj|brown (1)n|dinosaur prep|to pro:obj|me .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/castp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/contp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/contp1.cha": line 794.
+*MOT:	that little sharp point in there .
+%mor:	pro:dem|that (1)adj|little (1)adj|sharp (1)n|point prep|in adv|there .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/davtp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/jeatp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/jentp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/jertp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/joytp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/martp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/martp1.cha": line 520.
+*INV:	it's a great little place xxx .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|little (1)n|place .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/megtp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/megtp1.cha": line 1189.
+*MOT:	try the big white piece again .
+%mor:	v|try det:art|the (1)adj|big (1)adj|white (1)n|piece adv|again .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/megtp1.cha": line 2185.
+*MOT:	it was real good Chi .
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|real (1)adj|good (1)n:prop|Chi .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/meltp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/miatp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/montp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/mortp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/nedtp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/riltp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/riltp1.cha": line 790.
+*MOT:	let's see if we can make a big tall building wanna make a big tall <buildin(g)> [>] ?
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|make det:art|a
+	(1)adj|big (1)adj|tall (1)n|building v|want~inf|to v|make det:art|a (2)adj|big
+	(2)adj|tall (2)n|building ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/roctp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/roctp1.cha": line 495.
+*MOT:	this is such a nice [!] little play [!] set I just love [!] this .
+%mor:	pro:dem|this cop|be&3S qn|such det:art|a (1)adj|nice (1)adj|little (1)n|play
+	v|set&ZERO pro:sub|I adj|just n|love pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/roctp1.cha": line 1252.
+*MOT:	she's a pretty little girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/roctp1.cha": line 1270.
+*MOT:	you're <a pretty little girl> [>] .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/roctp1.cha": line 1400.
+*MOT:	you're such a generous little girl .
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|generous (1)adj|little
+	(1)n|girl .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/rostp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/sustp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/tertp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/todtp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/todtp1.cha": line 1667.
+*MOT:	that's a pretty big handle [>] .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|handle .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/tomtp1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/tomtp1.cha": line 306.
+*MOT:	<you could probably> [<] [>] make a real nice castle [?] .
+%mor:	pro:per|you mod|could adv|probable&dadj-LY v|make det:art|a
+	(1)adj|real (1)adj|nice (1)n|castle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/tomtp1.cha": line 701.
+*MOT:	that's your real good idea ?
+%mor:	pro:dem|that~cop|be&3S det:poss|your (1)adj|real (1)adj|good (1)n|idea ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV1/TP/tritp1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/acebr2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/admbr2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aimbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aimbr2.cha": line 532.
+*MOT:	++ one nice green leaf +...
+%mor:	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf +...
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/alibr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/alibr2.cha": line 194.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/allbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/allbr2.cha": line 87.
+*MOT:	the next day was Sunday again and the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/allbr2.cha": line 357.
+*MOT:	the beautiful french doll is Raggedy Ann's special friend .
+%mor:	det:art|the (1)adj|beautiful (1)adj|french (1)n|doll cop|be&3S
+	n:prop|Raggedy n:prop|Ann~poss|s n|special n|friend .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha": line 531.
+*MOT:	the caterpillar ate through one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha": line 1493.
+*MOT:	he fed piggie a big spoonful of (.) the awful brown glop .
+%mor:	pro:sub|he v|feed&PAST n|pig-DIM det:art|a adj|big n|spoon-FUL
+	prep|of det:art|the (1)adj|awful (1)adj|brown (1)n|glop .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha": line 1530.
+*MOT:	<the giant tucked her> [/] (.) the giant tucked her in and sang her a lullabye and left locking the huge wooden door behind him .
+%mor:	det:art|the n|giant v|tuck-PAST det:poss|her adv|in coord|and
+	v|sing&PAST pro:obj|her det:art|a n|lullabye coord|and adj|left
+	part|lock-PRESP det:art|the (1)adj|huge (1)adj|wooden (1)n|door adv|behind
+	pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha": line 1687.
+*MOT:	with the same yucky stuff ?
+%mor:	prep|with det:art|the (1)adj|same (1)adj|yuck&dn-Y (1)n|stuff ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/anabr2.cha": line 1690.
+*MOT:	the giant set two plates full of the usual brown stuff <out on> [>] the table .
+%mor:	det:art|the n|giant n|set det:num|two n|plate-PL adj|full prep|of
+	det:art|the (1)adj|usual (1)adj|brown (1)n|stuff adv|out prep|on det:art|the
+	n|table .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 191.
+*MOT:	huh one nice green leaf .
+%mor:	co|huh pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 694.
+*MOT:	and the cake is ready to decorate with a cheery happy birthday Mickey .
+%mor:	coord|and det:art|the n|cake cop|be&3S adj|ready inf|to v|decorate
+	prep|with det:art|a (1)adj|cheer&dn-Y (1)adj|happy (1)n|+n|birth+n|day
+	n:prop|Mickey .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 1184.
+*MOT:	how many shiny black crows are sitting on the scarecrow ?
+%mor:	adv:int|how qn|many (1)adj|shine&dn-Y (1)adj|black (1)n|crow-PL aux|be&PRES
+	part|sit-PRESP prep|on det:art|the n|+n|scare+n|crow ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 1192.
+*MOT:	one of them is looking at those red ripe tomatoes !
+%mor:	det:num|one prep|of pro:obj|them aux|be&3S part|look-PRESP prep|at
+	pro:dem|those (1)adj|red (1)adj|ripe (1)n|tomato-PL !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 1253.
+*MOT:	at last Minnie is able to pick seven shiny red apples .
+%mor:	prep|at n|last n:prop|Minnie aux|be&3S adj|able inf|to v|pick
+	det:num|seven (1)adj|shine&dn-Y (1)adj|red (1)n|apple-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/annbr2.cha": line 1633.
+*MOT:	surprise [!] happy birthday everybody shouts .
+%mor:	(1)adj|surprise (1)adj|happy (1)n|+n|birth+n|day pro:indef|everybody
+	n|shout-PL .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha": line 558.
+*MOT:	the caterpillar (.) ate through (.) one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha": line 1344.
+*MOT:	why chances are (.) there wasn't a single person on that green (.) that would harm a fly (.) much less a fine little cub like you .
+%mor:	adv:int|why n|chance-PL aux|be&PRES adv|there
+	cop|be&PAST&13S~neg|not det:art|a n|single n|person prep|on
+	det:dem|that adj|green pro:dem|that mod|will&COND v|harm det:art|a
+	v|fly qn|much adj|less det:art|a (1)adj|fine (1)adj|little (1)n|cub prep|like
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha": line 1446.
+*MOT:	she felt much better now (.) more like her old friendly self .
+%mor:	pro:sub|she v|feel&PAST adv|much adj|good&CP adv|now adv|more
+	v|like pro:obj|her (1)adj|old (1)adj|friend&dn-LY (1)n|self .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha": line 1454.
+*MOT:	the pusher plane was a great success and the cubs was about to head home when someone drove onto the meadow (.) with a big beautiful orange and green model airplane .
+%mor:	det:art|the n|push&dv-AGT n|plane cop|be&PAST&13S det:art|a
+	adj|great n|success coord|and det:art|the n|cub-PL aux|be&PAST&13S
+	adv|about inf|to v|head adv|home conj|when pro:indef|someone n|drove
+	prep|onto det:art|the n|meadow prep|with det:art|a (1)adj|big
+	(1)adj|beautiful (1)n|orange coord|and (2)adj|green (2)adj|model (2)n|airplane .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/aprbr2.cha": line 1617.
+*MOT:	your body is your own personal property (.) and nobody else's business (.) especially the private parts .
+%mor:	det:poss|your n|body cop|be&3S det:poss|your (1)adj|own (1)adj|personal
+	(1)n|property coord|and pro:indef|nobody post|else~poss|s n|business
+	adv|especial&dadj-LY det:art|the adj|private n|part-PL .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/astbr2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 219.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 350.
+*MOT:	but Franklin was afraid of small dark places and that was a problem because (.) +...
+%mor:	conj|but n:prop|Franklin cop|be&PAST&13S adj|afraid prep|of
+	(1)adj|small (1)adj|dark (1)n|place-PL coord|and pro:dem|that cop|be&PAST&13S
+	det:art|a n|problem conj|because +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 359.
+*MOT:	he was afraid of crawling into his small dark shell .
+%mor:	pro:sub|he cop|be&PAST&13S adj|afraid prep|of n:gerund|crawl-PRESP
+	prep|into det:poss|his (1)adj|small (1)adj|dark (1)n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 390.
+*MOT:	but Franklin was sure that creepy things (.) slippery things (.) and monsters lived inside his small dark shell .
+%mor:	conj|but n:prop|Franklin cop|be&PAST&13S adj|sure det:dem|that
+	adj|creep&dn-Y n|thing-PL adj|slippery n|thing-PL coord|and
+	n|monster-PL v|live-PAST adj|inside det:poss|his (1)adj|small (1)adj|dark
+	(1)n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 411.
+*MOT:	I'm afraid of small dark places and I can't crawl inside my shell .
+%mor:	pro:sub|I~cop|be&1S adj|afraid prep|of (1)adj|small (1)adj|dark
+	(1)n|place-PL coord|and pro:sub|I mod|can~neg|not n|crawl adj|inside
+	det:poss|my n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 454.
+*MOT:	I'm afraid of small dark places and I can't crawl inside my shell .
+%mor:	pro:sub|I~cop|be&1S adj|afraid prep|of (1)adj|small (1)adj|dark
+	(1)n|place-PL coord|and pro:sub|I mod|can~neg|not n|crawl adj|inside
+	det:poss|my n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 467.
+*MOT:	you see I'm afraid of great loud noises and sometimes when nobody is looking I wear my ear muffs .
+%mor:	pro:per|you v|see pro:sub|I~cop|be&1S adj|afraid prep|of (1)adj|great
+	(1)adj|loud (1)n|noise-PL coord|and adv|sometimes conj|when
+	pro:indef|nobody aux|be&3S part|look-PRESP pro:sub|I v|wear
+	det:poss|my n|ear n|muff-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 481.
+*MOT:	I'm not afraid of great loud noises .
+%mor:	pro:sub|I~cop|be&1S neg|not adj|afraid prep|of (1)adj|great (1)adj|loud
+	(1)n|noise-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 494.
+*MOT:	I'm afraid of small dark places and I can't crawl inside my shell .
+%mor:	pro:sub|I~cop|be&1S adj|afraid prep|of (1)adj|small (1)adj|dark
+	(1)n|place-PL coord|and pro:sub|I mod|can~neg|not n|crawl adj|inside
+	det:poss|my n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 540.
+*MOT:	I suppose it growls like a regular brown bear .
+%mor:	pro:sub|I v|suppose pro:per|it v|growl-3S prep|like det:art|a
+	(1)adj|regular (1)adj|brown (1)n|bear .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 555.
+*MOT:	I'm afraid of small dark places and I can't crawl inside my shell .
+%mor:	pro:sub|I~cop|be&1S adj|afraid prep|of (1)adj|small (1)adj|dark
+	(1)n|place-PL coord|and pro:sub|I mod|can~neg|not n|crawl adj|inside
+	det:poss|my n|shell .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 568.
+*MOT:	you see I'm afraid of freezing on icy cold nights .
+%mor:	pro:per|you v|see pro:sub|I~cop|be&1S adj|afraid prep|of
+	n:gerund|freeze-PRESP prep|on (1)adj|ice&dn-Y (1)adj|cold (1)n|night-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 585.
+*MOT:	I'm not afraid of freezing on icy cold nights .
+%mor:	pro:sub|I~cop|be&1S neg|not adj|afraid prep|of
+	n:gerund|freeze-PRESP prep|on (1)adj|ice&dn-Y (1)adj|cold (1)n|night-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 629.
+*MOT:	then I met a lion who was afraid of great loud noises .
+%mor:	adv:tem|then pro:sub|I v|meet&PAST det:art|a n|lion pro:rel|who
+	cop|be&PAST&13S adj|afraid prep|of (1)adj|great (1)adj|loud (1)n|noise-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/bribr2.cha": line 687.
+*MOT:	he was sure he saw creepy things (.) slippery things (.) and a monster (.) but he said a brave good night .
+%mor:	pro:sub|he cop|be&PAST&13S adj|sure pro:sub|he v|see&PAST
+	adj|creep&dn-Y n|thing-PL adj|slippery n|thing-PL coord|and
+	det:art|a n|monster conj|but pro:sub|he v|say&PAST det:art|a
+	(1)adj|brave (1)adj|good (1)n|night .
+
+    Strings matched 15 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/britp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/britp2.cha": line 179.
+*MOT:	a long long time ago ?
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/britp2.cha": line 370.
+*MOT:	and the big (.) blue pot can be the hot water to make coffee or tea .
+%mor:	coord|and det:art|the (1)adj|big (1)adj|blue (1)n|pot mod|can cop|be
+	det:art|the adj|hot n|water inf|to v|make n|coffee coord|or n|tea .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brnbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brnbr2.cha": line 136.
+*MOT:	the next day was Sunday again the &+caterpi (.) &+pillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the v|eat&PAST adj|through pro:indef|one (1)adj|nice (1)adj|green
+	(1)n|leaf coord|and conj|after det:dem|that pro:sub|he v|feel&PAST
+	adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brnbr2.cha": line 661.
+*MOT:	when he reached the top he saw a great big castle .
+%mor:	conj|when pro:sub|he v|reach-PAST det:art|the n|top pro:sub|he
+	v|see&PAST det:art|a (1)adj|great (1)adj|big (1)n|castle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brnbr2.cha": line 673.
+*MOT:	he saw a great big table .
+%mor:	pro:sub|he v|see&PAST det:art|a (1)adj|great (1)adj|big (1)n|table .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brnbr2.cha": line 680.
+*MOT:	on the table there was a great big cheese .
+%mor:	prep|on det:art|the n|table adv|there cop|be&PAST&13S det:art|a
+	(1)adj|great (1)adj|big (1)n|cheese .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brtbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brtbr2.cha": line 210.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/brtbr2.cha": line 223.
+*MOT:	now [<] he wasn't hungry anymore (.) and he wasn't a little &+cata catapitter [: caterpillar] anymore (.) he was a big fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/casbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/casbr2.cha": line 160.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/chabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/chabr2.cha": line 242.
+*AUN:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/chabr2.cha": line 784.
+*AUN:	Sunny Bunny peered into the fireplace and searched behind the big easy chair .
+%mor:	n:prop|Sunny n:prop|Bunny v|peer-PAST prep|into det:art|the
+	n|+n|fire+n|place coord|and v|search-PAST prep|behind det:art|the
+	(1)adj|big (1)adj|ease&dn-Y (1)n|chair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/chabr2.cha": line 805.
+*AUN:	Sunny Bunny peered into the fireplace and searched behind the big easy chair (.) but there was no sign of anybody .
+%mor:	n:prop|Sunny n:prop|Bunny v|peer-PAST prep|into det:art|the
+	n|+n|fire+n|place coord|and v|search-PAST prep|behind det:art|the
+	(1)adj|big (1)adj|ease&dn-Y (1)n|chair conj|but adv|there cop|be&PAST&13S
+	qn|no n|sign prep|of pro:indef|anybody .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/chabr2.cha": line 985.
+*AUN:	she was giving her curls a final comb when she heard soft little footsteps (.) and muffled giggles coming toward the bed+room .
+%mor:	pro:sub|she aux|be&PAST&13S part|give-PRESP det:poss|her n|curl-PL
+	det:art|a n|final n|comb conj|when pro:sub|she v|hear&PAST (1)adj|soft
+	(1)adj|little (1)n|footstep-PL coord|and v|muffle-PAST n|giggle-PL
+	part|come-PRESP prep|toward det:art|the n|+n|bed+n|room .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/clabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/clabr2.cha": line 199.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/conbr2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ctrbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ctrbr2.cha": line 710.
+*MOT:	sleepy sleepy sweet dreams tonight .
+%mor:	(1)adj|sleep&dn-Y (1)adj|sleep&dn-Y (1)n|sweet v|dream-3S adv:tem|tonight .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ctrbr2.cha": line 757.
+*MOT:	sleepy [<] sleepy back to bed .
+%mor:	(1)adj|sleep&dn-Y (1)adj|sleep&dn-Y (1)n|back prep|to n|bed .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/davbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/davbr2.cha": line 539.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha": line 1211.
+*MOT:	she is an awful bad teacher ?
+%mor:	pro:sub|she cop|be&3S det:art|a (1)adj|awful (1)adj|bad (1)n|teach&dv-AGT ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha": line 1282.
+*MOT:	but she was a mean old witch and she ate little girls and boys .
+%mor:	conj|but pro:sub|she cop|be&PAST&13S det:art|a (1)adj|mean (1)adj|old
+	(1)n|witch coord|and pro:sub|she v|eat&PAST adj|little n|girl-PL
+	coord|and n|boy-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha": line 1453.
+*MOT:	that night when the moon rose (.) Hansel took Gretel by her hand and followed the tiny moonlit stones .
+%mor:	pro:dem|that n|night conj|when det:art|the n|moon n|rose
+	n:prop|Hansel v|take&PAST n:prop|Gretel prep|by det:poss|her n|hand
+	coord|and v|follow-PAST det:art|the (1)adj|tiny (1)adj|moonlit (1)n|stone-PL
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha": line 1612.
+*MOT:	then out of the cottage door came a little old woman .
+%mor:	adv:tem|then adv|out prep|of det:art|the n|cottage n|door
+	v|come&PAST det:art|a (1)adj|little (1)adj|old (1)n|woman .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/diabr2.cha": line 1709.
+*MOT:	big fat belly .
+%mor:	(1)adj|big (1)adj|fat (1)n|belly .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha": line 148.
+*MOT:	it's a little tiny tiny egg on a big leaf huh ?
+%mor:	pro:per|it~cop|be&3S det:art|a adj|little (1)adj|tiny (1)adj|tiny (1)n|egg
+	prep|on det:art|a adj|big n|leaf co|huh ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha": line 386.
+*MOT:	the next day was Sunday again and the caterpillar ate through one nice green leaf and after <that he> [>] +/.
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he +/.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha": line 585.
+*MOT:	<see↑ there's a little tiny star> [>] .
+%mor:	co|see pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|star .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha": line 1569.
+*MOT:	it's a tiny little leaf .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/emibr2.cha": line 1749.
+*MOT:	each leaf is like a tiny little <factory that makes a special food for the plants> [>] .
+%mor:	qn|each n|leaf cop|be&3S co|like det:art|a (1)adj|tiny (1)adj|little
+	(1)n|factory pro:rel|that v|make-3S det:art|a adj|special n|food
+	prep|for det:art|the n|plant-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ethbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ethbr2.cha": line 442.
+*MOT:	the caterpillar ate through one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/ethbr2.cha": line 1356.
+*MOT:	you're a pretty silly cook you know .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|silly (1)n|cook
+	pro:per|you v|know .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/frabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/frabr2.cha": line 157.
+*MOT:	and the caterpillar ate through (.) one nice green leaf (.) and after that he felt much better .
+%mor:	coord|and det:art|the n|caterpillar v|eat&PAST prep|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/geobr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/geobr2.cha": line 171.
+*MOT:	the next day was Sunday again (.) the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/geobr2.cha": line 185.
+*MOT:	now he wasn't hungry anymore (.) he wasn't a little caterpillar anymore (.) he was a big fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/geobr2.cha": line 676.
+*MOT:	Diatrima for example of which few of us have heard was to put it mildly a very big big [!] bird .
+%mor:	n:prop|Diatrima prep|for n|example prep|of pro:rel|which qn|few
+	prep|of pro:obj|us v|have v|hear&PAST cop|be&PAST&13S inf|to
+	v|put&ZERO pro:per|it adv|mild&dadj-LY det:art|a adv|very (1)adj|big
+	(1)adj|big (1)n|bird .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/geobr2.cha": line 772.
+*MOT:	<with flat> [//] with big flat teeth for sifting river mud and goop .
+%mor:	prep|with (1)adj|big (1)adj|flat (1)n|tooth&PL prep|for n:gerund|sift-PRESP
+	n|river n|mud coord|and n|goop .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/gilbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/gilbr2.cha": line 221.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 229.
+*MOT:	the next day was Sunday again (.) the caterpillar ate through one nice green leaf and after that he felt much [!] better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 258.
+*MOT:	now he wasn't hungry anymore and he <wasn't> [/] <wasn't a little caterpillar anymore> [>] he was a big [!] fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 704.
+*MOT:	the whispering rabbit (.) once there was a sleepy little rabbit who began to yawn and he yawned [!] and he yawned [!] and he yawned [!] (.) hm: .
+%mor:	det:art|the part|whisper-PRESP n|rabbit adv|once adv|there
+	cop|be&PAST&13S det:art|a (1)adj|sleep&dn-Y (1)adj|little (1)n|rabbit
+	pro:rel|who v|begin&PAST prep|to n|yawn coord|and pro:sub|he
+	v|yawn-PAST coord|and pro:sub|he v|yawn-PAST coord|and pro:sub|he
+	v|yawn-PAST co|hm .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 737.
+*MOT:	rabbits never do (.) that said the sleepy little rabbit .
+%mor:	n|rabbit-PL adv|never v|do det:dem|that v|say&PAST det:art|the
+	(1)adj|sleep&dn-Y (1)adj|little (1)n|rabbit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 832.
+*MOT:	suddenly a wise old groundhound [: groundhog] popped out of the ground (.) all I can do is whisper said the rabbit (.) all the better said the groundhog (.) come here little rabbit .
+%mor:	adv|sudden&dadj-LY det:art|a (1)adj|wise (1)adj|old (1)n|+n|ground+n|hog
+	v|pop-PAST adv|out prep|of det:art|the n|ground pro:indef|all
+	pro:sub|I mod|can v|do cop|be&3S v|whisper v|say&PAST det:art|the
+	n|rabbit qn|all det:art|the adj|good&CP v|say&PAST det:art|the
+	n|+n|ground+n|hog v|come adv|here adj|little n|rabbit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 874.
+*MOT:	you have_to make the littlest noise (.) that you can possibly make (.) a bumblebee doesn't bother about big noises he is a very fat little bee and he is only interested in little noises .
+%mor:	pro:per|you mod:aux|have_to v|make det:art|the adj|little-SP
+	n|noise pro:rel|that pro:per|you mod|can adv|possible&dadj-LY v|make
+	det:art|a n|+n|bumble+n|bee mod|do&3S~neg|not v|bother adv|about
+	adj|big n|noise-PL pro:sub|he cop|be&3S det:art|a adv|very (1)adj|fat
+	(1)adj|little (1)n|bee coord|and pro:sub|he aux|be&3S adv|only
+	part|interest-PASTP prep|in adj|little n|noise-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 998.
+*MOT:	then what did the little rabbit do (.) that sleepy little rabbit ?
+%mor:	adv:tem|then det:int|what v|do&PAST det:art|the adj|little n|rabbit
+	v|do pro:dem|that (1)adj|sleep&dn-Y (1)adj|little (1)n|rabbit ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1065.
+*MOT:	all the pretty little horses .
+%mor:	qn|all det:art|the (1)adj|pretty (1)adj|little (1)n|horse-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1068.
+*MOT:	go to sleep go to sleep little baby (.) when you wake you shall have all the pretty little horses .
+%mor:	v|go prep|to n|sleep v|go prep|to n|sleep adj|little n|baby
+	conj|when pro:per|you v|wake pro:per|you mod|shall v|have qn|all
+	det:art|the (1)adj|pretty (1)adj|little (1)n|horse-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1075.
+*MOT:	black and bay (.) dapple and grey (.) all the pretty little horses .
+%mor:	n|black coord|and n|bay v|dapple coord|and v|grey qn|all
+	det:art|the (1)adj|pretty (1)adj|little (1)n|horse-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1107.
+*MOT:	and all the pretty little horses black and bay dapple and grey all the pretty little horses mother loves you daddy loves you everybody loves you .
+%mor:	coord|and qn|all det:art|the (1)adj|pretty (1)adj|little (1)n|horse-PL
+	n|black coord|and n|bay v|dapple coord|and v|grey qn|all det:art|the
+	(2)adj|pretty (2)adj|little (2)n|horse-PL n|mother v|love-3S pro:per|you
+	n|daddy v|love-3S pro:per|you pro:indef|everybody v|love-3S
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1241.
+*MOT:	old black cat down in the barn (.) keeping four black kittens warm (.) winds are quiet in the skies (.) dear old black cat close your eyes .
+%mor:	(1)adj|old (1)adj|black (1)n|cat adv|down prep|in det:art|the n|barn
+	part|keep-PRESP det:num|four adj|black n|kitten-PL adj|warm
+	n|wind-PL cop|be&PRES adj|quiet prep|in det:art|the n|sky-PL
+	adj|dear (2)adj|old (2)adj|black (2)n|cat adj|close det:poss|your n|eye-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1311.
+*MOT:	and the fish in the sea sleep in the darkened sea when the long green light of the sun is gone (.) and they sleep like fish with their eyes wide open in some quiet current of the sea .
+%mor:	coord|and det:art|the n|fish prep|in det:art|the n|sea n|sleep
+	prep|in det:art|the part|darken-PASTP n|sea conj|when det:art|the
+	(1)adj|long (1)adj|green (1)n|light prep|of det:art|the n|sun aux|be&3S
+	part|go&PASTP coord|and pro:sub|they n|sleep co|like n|fish
+	prep|with det:poss|their n|eye-PL adj|wide v|open prep|in qn|some
+	n|quiet n|current prep|of det:art|the n|sea .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1365.
+*MOT:	some stand up in the still dark fields and some fold their legs under them and lie down .
+%mor:	pro:indef|some n|stand adv|up prep|in det:art|the (1)adj|still
+	(1)adj|dark (1)n|field-PL coord|and qn|some n|fold det:poss|their n|leg-PL
+	adv|under pro:obj|them coord|and n|lie adv|down .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/grebr2.cha": line 1440.
+*MOT:	and the old fat bear in the deep dark woods goes into his warm cave to sleep for the whole winter (.) so does the groundhog and the hedgehogs (.) the skunks and the black eye racoons (.) they eat a lot then sleep until spring (.) a long long sleep .
+%mor:	coord|and det:art|the adj|old n|fat n|bear prep|in det:art|the
+	n|deep n|dark n|wood-PL v|go-3S prep|into det:poss|his adj|warm
+	n|cave prep|to n|sleep prep|for det:art|the adj|whole n|winter co|so
+	v|do&3S det:art|the n|+n|ground+n|hog coord|and det:art|the
+	n|hedgehog-PL det:art|the n|skunk-PL coord|and det:art|the adj|black
+	n|eye n|racoon-PL pro:sub|they v|eat det:art|a n|lot adv:tem|then
+	v|sleep prep|until n|spring det:art|a (1)adj|long (1)adj|long (1)n|sleep .
+
+    Strings matched 17 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/inabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/inabr2.cha": line 127.
+*MOT:	the caterpillar ate through one nice green leaf (.) after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf conj|after det:dem|that pro:sub|he
+	v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/inabr2.cha": line 634.
+*MOT:	Flopsy Mopsy Cottontail (.) who were good little bunnies went down the lane to gather blackberries (.) .
+%mor:	n:prop|Flopsy n:prop|Mopsy n:prop|Cottontail pro:rel|who
+	cop|be&PAST (1)adj|good (1)adj|little (1)n|bunny-PL v|go&PAST prep|down
+	det:art|the n|lane inf|to v|gather n|blackberry-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/inabr2.cha": line 1068.
+*MOT:	he was so tired that he flopped down upon the nice soft sand of the floor of the rabbit hole and shut his eyes .
+%mor:	pro:sub|he cop|be&PAST&13S adv|so part|tire-PASTP pro:rel|that
+	pro:sub|he v|flop-PAST adv|down prep|upon det:art|the (1)adj|nice
+	(1)adj|soft (1)n|sand prep|of det:art|the n|floor prep|of det:art|the
+	n|rabbit n|hole coord|and v|shut&ZERO det:poss|his n|eye-PL .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jacbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jacbr2.cha": line 415.
+*MOT:	the teacher was very surprised to see this strange new pupil .
+%mor:	det:art|the n|teach&dv-AGT aux|be&PAST&13S adv|very
+	part|surprise-PASTP inf|to v|see pro:dem|this (1)adj|strange (1)adj|new
+	(1)n|pupil .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jacbr2.cha": line 471.
+*MOT:	but just at that moment he met a real little girl .
+%mor:	conj|but adv|just prep|at pro:dem|that n|moment pro:sub|he
+	v|meet&PAST det:art|a (1)adj|real (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jacbr2.cha": line 735.
+*MOT:	because <they're just m(ean)> [//] they're just mean little boys and they're bullies they like to pick on people .
+%mor:	conj|because pro:sub|they~cop|be&PRES adv|just (1)adj|mean (1)adj|little
+	(1)n|boy-PL coord|and pro:sub|they~aux|be&PRES n|bully-PL pro:sub|they
+	v|like inf|to v|pick prep|on n|person&PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jacbr2.cha": line 1297.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better (.) .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 436.
+*MOT:	the caterpillar ate through <one leaf> [//] one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 457.
+*MOT:	now he wasn't hungry anymore and he wasn't (.) a little caterpillar anymore (.) he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 1209.
+*MOT:	right in front of her was a big brown trunk with metal latches (.) she xxx .
+%mor:	adv|right prep|in n|front prep|of pro:obj|her cop|be&PAST&13S
+	det:art|a (1)adj|big (1)adj|brown (1)n|trunk prep|with n|metal n|latch-PL
+	pro:sub|she .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 1290.
+*MOT:	how did a cute little bunny like you get locked up in here she exclaimed (.) poor thing I wonder (.) how long you've been up here .
+%mor:	adv:int|how mod|do&PAST det:art|a (1)adj|cute (1)adj|little (1)n|bunny
+	prep|like pro:per|you v|get v|lock-PAST adv|up prep|in adv|here
+	pro:sub|she v|exclaim-PAST adj|poor n|thing pro:sub|I v|wonder
+	adv:int|how adj|long pro:per|you~aux|have cop|be&PASTP adv|up
+	adv|here .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 1498.
+*MOT:	Babette wound up the music box and did a graceful little dance (.) ratatattat@f <ratatattat@f> [=! laughing] (.) Tim the toy soldier played on his drum (.) and he marched across the room like a hero in a parade .
+%mor:	n:prop|Babette v|wind&PAST prep|up det:art|the n|music n|box
+	coord|and v|do&PAST det:art|a (1)adj|grace&dn-FULL (1)adj|little (1)n|dance
+	fam|ratatattat fam|ratatattat n:prop|Tim det:art|the n|toy n|soldier
+	v|play-PAST prep|on det:poss|his n|drum coord|and pro:sub|he
+	v|march-PAST prep|across det:art|the n|room prep|like det:art|a
+	n|hero prep|in det:art|a n|parade .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jambr2.cha": line 1669.
+*MOT:	this is it <said the> [//] he said bravely (.) and giving a mighty push with his strong hind legs (.) he sailed <off to the &+sh> [//] off of the shelf and out towards the strings .
+%mor:	pro:dem|this cop|be&3S pro:per|it pro:sub|he v|say&PAST
+	adv|brave&dadj-LY coord|and part|give-PRESP det:art|a adj|might&dn-Y
+	n|push prep|with det:poss|his (1)adj|strong (1)adj|hind (1)n|leg-PL
+	pro:sub|he v|sail-PAST adv|off prep|of det:art|the n|shelf coord|and
+	adv|out prep|towards det:art|the n|string-PL .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jebbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jebbr2.cha": line 211.
+*MOT:	the next day was Sunday again (.) the caterpillar ate through a nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST prep|through det:art|a (1)adj|nice
+	(1)adj|green (1)n|leaf coord|and conj|after det:dem|that pro:sub|he
+	v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jerbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jerbr2.cha": line 299.
+*MOT:	<the next day> [>] (.) was Sunday again (.) the caterpillar ate through (.) one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jesbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jesbr2.cha": line 333.
+*MOT:	the caterpillar ate through the one (.) nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through det:art|the
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/jesbr2.cha": line 387.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore (.) he was a big fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joebr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joebr2.cha": line 271.
+*MOT:	the caterpillar ate through one nice green [>] leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joebr2.cha": line 911.
+*MOT:	when he built the largest heavy ship in history the whole world stood up and cheered .
+%mor:	conj|when pro:sub|he v|build&PAST det:art|the (1)adj|large-SP
+	(1)adj|heavy (1)n|ship prep|in n|history det:art|the adj|whole n|world
+	v|stand&PAST adv|up coord|and v|cheer-PAST .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joybr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joybr2.cha": line 204.
+*MOT:	the next day was Sunday again (.) the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joybr2.cha": line 891.
+*MOT:	Christopher Robin had had a big green [!] balloon and one of rabbits relations had had a big blue one .
+%mor:	n:prop|Christopher n:prop|Robin aux|have&PAST part|have&PASTP
+	det:art|a (1)adj|big (1)adj|green (1)n|balloon coord|and det:num|one prep|of
+	n|rabbit-PL n|relation-PL aux|have&PAST part|have&PASTP det:art|a
+	adj|big n|blue pro:indef|one .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joybr2.cha": line 975.
+*MOT:	I shall try to look like a small black cloud .
+%mor:	pro:sub|I mod|shall v|try inf|to cop|look conj|like det:art|a
+	(1)adj|small (1)adj|black (1)n|cloud .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/joybr2.cha": line 1058.
+*MOT:	not like a small black cloud in the blue sky ?
+%mor:	neg|not prep|like det:art|a (1)adj|small (1)adj|black (1)n|cloud prep|in
+	det:art|the n|blue n|sky ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/karbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/karbr2.cha": line 529.
+*MOT:	oh he ate through one nice green leaf and then he felt better ?
+%mor:	co|oh pro:sub|he v|eat&PAST prep|through pro:indef|one (1)adj|nice
+	(1)adj|green (1)n|leaf coord|and adv:tem|then pro:sub|he v|feel&PAST
+	adj|good&CP ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/karbr2.cha": line 1521.
+*MOT:	he's chasin(g) the poor little kitty .
+%mor:	pro:sub|he~aux|be&3S part|chase-PRESP det:art|the (1)adj|poor
+	(1)adj|little (1)n|kitty .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kevbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kevbr2.cha": line 247.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kevbr2.cha": line 791.
+*MOT:	one day when Tam came into his garden he saw a great big bunny eating a leaf of lettuce .
+%mor:	det:num|one n|day conj|when n:prop|Tam v|come&PAST prep|into
+	det:poss|his n|garden pro:sub|he v|see&PAST det:art|a (1)adj|great
+	(1)adj|big (1)n|bunny part|eat-PRESP det:art|a n|leaf prep|of n|lettuce .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kevbr2.cha": line 926.
+*MOT:	Tam and his mother dressed the wooden pieces in Tam's old holey clothes .
+%mor:	n:prop|Tam coord|and det:poss|his n|mother v|dress-PAST det:art|the
+	adj|wooden n|piece-PL prep|in n:prop|Tam~poss|s (1)adj|old (1)adj|hole-Y
+	(1)n:pt|clothes .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kurbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/kurbr2.cha": line 236.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/maybr2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/megbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/megbr2.cha": line 610.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/megbr2.cha": line 675.
+*MOT:	he was a beautiful beautiful butterfly !
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a (1)adj|beautiful (1)adj|beautiful
+	(1)n|+n|butter+n|fly !
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/melbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/melbr2.cha": line 302.
+*MOT:	the next day was Sunday again (.) and the caterpillar ate through one nice green leaf (.) and after that he felt much much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/melbr2.cha": line 922.
+*MOT:	the doctor's waiting room was a busy cheerful place with pictures on the walls (.) books to look at and puzzles to do .
+%mor:	det:art|the n|doctor~aux|be&3S part|wait-PRESP n|room
+	cop|be&PAST&13S det:art|a (1)adj|busy (1)adj|cheer&dn-FULL (1)n|place
+	prep|with n|picture-PL prep|on det:art|the n|wall-PL n|book-PL
+	inf|to cop|look prep|at coord|and v|puzzle-3S inf|to v|do .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/melbr2.cha": line 1158.
+*MOT:	I've got a brave little cub in here who's going to show you all how to take a shot .
+%mor:	pro:sub|I~aux|have part|get&PASTP det:art|a (1)adj|brave (1)adj|little
+	(1)n|cub prep|in adv|here pro:rel|who~aux|be&3S part|go-PRESP inf|to
+	v|show pro:per|you adv|all adv:int|how inf|to v|take det:art|a
+	n|shot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/melbr2.cha": line 1254.
+*MOT:	time for your medicine papa said the cubs offering him a big spoonful of the gooey pink stuff (.) that Doctor &+griz (.) Grizzly prescribed for his cold .
+%mor:	n|time prep|for det:poss|your n|medicine n|papa v|say&PAST
+	det:art|the n|cub-PL part|offer-PRESP pro:obj|him det:art|a adj|big
+	n|spoon-FUL prep|of det:art|the (1)adj|gooey (1)adj|pink (1)n|stuff
+	pro:rel|that n:prop|Doctor n:prop|Grizzly v|prescribe-PAST prep|for
+	det:poss|his adj|cold .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/nicbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/nicbr2.cha": line 398.
+*MOT:	the <callerpi@f> [//] the caterpillar ate through <one piece> [//] I mean one nice green leaf .
+%mor:	det:art|the det:art|the n|caterpillar v|eat&PAST adv|through
+	pro:sub|I v|mean pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/nicbr2.cha": line 403.
+*MOT:	one nice green leaf .
+%mor:	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/nicbr2.cha": line 609.
+*MOT:	he was a hungry little fella too &=laughs .
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a (1)adj|hungry (1)adj|little (1)n|fella
+	post|too .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/nicbr2.cha": line 1826.
+*MOT:	first they saw that big old beautiful moon .
+%mor:	adv|first pro:sub|they v|see&PAST pro:rel|that adj|big (1)adj|old
+	(1)adj|beautiful (1)n|moon .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/paubr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/paubr2.cha": line 133.
+*MOT:	the next day was Sunday again the caterpillar ate through <one green> [//] one nice green leaf and after [/] after he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after pro:sub|he
+	v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/petbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/petbr2.cha": line 214.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much [!] better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/petbr2.cha": line 701.
+*MOT:	the moment Donald said that the door of the gingerbread house popped [!] open (.) and a lady with purple hair and big green eyes looked out .
+%mor:	det:art|the n|moment n:prop|Donald v|say&PAST pro:rel|that
+	det:art|the n|door prep|of det:art|the n|+n|ginger+n|bread n|house
+	v|pop-PAST adj|open coord|and det:art|a n|lady prep|with adj|purple
+	n|hair coord|and (1)adj|big (1)adj|green (1)n|eye-PL cop|look-PAST adv|out .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/petbr2.cha": line 1128.
+*MOT:	Donald fell down [!] down down until plop [!] he landed on this damp soggy island in the middle of a great dismal swamp !
+%mor:	n:prop|Donald v|fall&PAST prep|down n|down n|down conj|until v|plop
+	pro:sub|he v|land-PAST prep|on pro:dem|this (1)adj|damp (1)adj|soggy
+	(1)n|island prep|in det:art|the n|middle prep|of det:art|a (2)adj|great
+	(2)adj|dismal (2)n|swamp !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/petbr2.cha": line 1137.
+*MOT:	and who would be waiting on this damp soggy island +...
+%mor:	coord|and pro:rel|who mod|will&COND aux|be part|wait-PRESP prep|on
+	pro:dem|this (1)adj|damp (1)adj|soggy (1)n|island +...
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rasbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rasbr2.cha": line 190.
+*MOT:	the caterpillar <was through one (.) through one nice green leaf> [//] ate [!] through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rasbr2.cha": line 212.
+*MOT:	big fat [!] caterpillar .
+%mor:	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rasbr2.cha": line 930.
+*MOT:	they have soft woolly coats .
+%mor:	pro:sub|they v|have (1)adj|soft (1)adj|wool&dn-LY (1)n|coat-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rasbr2.cha": line 1026.
+*MOT:	a newborn horse is called a foal (.) foals can run on their (.) thin long legs soon after they are born .
+%mor:	det:art|a adj|+adj|new+adj|born n|horse aux|be&3S part|call-PASTP
+	det:art|a n|foal n|foal-PL n|can part|run&PASTP adv|on
+	det:poss|their (1)adj|thin (1)adj|long (1)n|leg-PL adj|soon conj|after
+	pro:sub|they cop|be&PRES adj|born .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rocbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rocbr2.cha": line 515.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rosbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/rosbr2.cha": line 275.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that how did he feel ?
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and prep|after pro:dem|that
+	adv:int|how mod|do&PAST pro:sub|he v|feel ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/sarbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/sarbr2.cha": line 120.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/sarbr2.cha": line 127.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/seabr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/seabr2.cha": line 361.
+*MOT:	now he wasn't hungry <an(ymore)> [//] anymore (.) and he wasn't a little caterpillar anymore he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/shlbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/shlbr2.cha": line 138.
+*MOT:	the caterpillar ate through one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/shlbr2.cha": line 573.
+*MOT:	she'll get some big thick book !
+%mor:	pro:sub|she~mod|will v|get qn|some (1)adj|big (1)adj|thick (1)n|book !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/shlbr2.cha": line 697.
+*MOT:	give a great big smile .
+%mor:	v|give det:art|a (1)adj|great (1)adj|big (1)n|smile .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/stnbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/stnbr2.cha": line 414.
+*MOT:	and there I was caught in the Snerd [?] and in the <dr(eadful)> [//] <dreadful place> [//] dreadful place (.) these spooky empty pants and I were standing face to face .
+%mor:	coord|and adv|there pro:sub|I aux|be&PAST&13S part|catch&PASTP
+	prep|in det:art|the n:prop|Snerd coord|and prep|in det:art|the
+	adj|dread&dn-FULL v|place pro:dem|these (1)adj|spook&dv-Y (1)adj|empty
+	(1)n:pt|pants coord|and pro:sub|I aux|be&PAST part|stand-PRESP n|face
+	prep|to n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/stnbr2.cha": line 476.
+*MOT:	I calmed them down poor [/] poor empty pants with nobody inside them .
+%mor:	pro:sub|I v|calm-PAST pro:obj|them adv|down (1)adj|poor (1)adj|empty
+	(1)n:pt|pants prep|with pro:indef|nobody prep|inside pro:obj|them .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/susbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/susbr2.cha": line 63.
+*MOT:	one Sunday mornin(g) the sun came up and pop [!] out of the egg came a tiny and hungry little caterpillar .
+%mor:	det:num|one n:prop|Sunday n|morning det:art|the n|sun v|come&PAST
+	adv|up coord|and v|pop adv|out prep|of det:art|the n|egg v|come&PAST
+	det:art|a adj|tiny coord|and (1)adj|hungry (1)adj|little (1)n|caterpillar .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/todbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/todbr2.cha": line 225.
+*MOT:	the caterpillar ate through one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tombr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tombr2.cha": line 164.
+*MOT:	the next day was Sunday again (.) and the caterpillar ate through <one nice> [>] green leaf (.) and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tombr2.cha": line 176.
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore (.) he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tombr2.cha": line 534.
+*MOT:	one moonlit night fox had a yen to dine upon a fine plump hen .
+%mor:	pro:indef|one adj|moonlit n|night n|fox v|have&PAST det:art|a n|yen
+	inf|to v|dine prep|upon det:art|a (1)adj|fine (1)adj|plump (1)n|hen .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tombr2.cha": line 652.
+*MOT:	fast asleep Rover ran over meadows and streams but the rackets had put an end to his dreams the (.) royal old hound stretched in the dark pounced out of his kennel and started to bark .
+%mor:	n|fast adv|asleep n:prop|Rover v|run&PAST adv|over n|meadow-PL
+	coord|and n|stream-PL conj|but det:art|the n|racket-PL aux|have&PAST
+	v|put&ZERO det:art|a n|end prep|to det:poss|his n|dream-PL
+	det:art|the (1)adj|royal (1)adj|old (1)n|hound v|stretch-PAST prep|in
+	det:art|the n|dark v|pounce-PAST adv|out prep|of det:poss|his
+	n|kennel coord|and v|start-PAST prep|to n|bark .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tribr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tribr2.cha": line 299.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/tribr2.cha": line 1100.
+*MOT:	supper was served at eight o@l clock (.) there were little peanut butter and jelly sandwiches (.) five kinds of cake and two huge silver bowls (.) one filled with chocolate ice cream (.) and one filled with vanilla .
+%mor:	n|supper aux|be&PAST&13S part|serve-PASTP prep|at det:num|eight
+	n:let|o n|clock adv|there cop|be&PAST adj|little n|peanut n|butter
+	coord|and n|jelly n|sandwich-PL det:num|five n|kind-PL prep|of
+	n|cake coord|and det:num|two (1)adj|huge (1)adj|silver (1)n|bowl-PL
+	pro:indef|one v|fill-PAST prep|with n|chocolate n|ice n|cream
+	coord|and pro:indef|one v|fill-PAST prep|with n|vanilla .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/vicbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/vicbr2.cha": line 318.
+*MOT:	the next day was Sunday again the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/vicbr2.cha": line 329.
+*MOT:	now he wasn't hungry anymore <and he was a little caterpillar> [//] and he wasn't [!] a little caterpillar anymore (.) he was a big fat caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/zanbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/BR/zanbr2.cha": line 194.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aceer2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aceer2.cha": line 54.
+*MOT:	no you had a brown little Indian suit .
+%mor:	co|no pro:per|you v|have&PAST det:art|a (1)adj|brown (1)adj|little
+	(1)n:prop|Indian n|suit .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/admer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aimer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/alier2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aller2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/anaer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/anner2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aprer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/aster2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/brier2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/brner2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/brter2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/chaer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/claer2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/claer2.cha": line 157.
+*MOT:	what was you won the little flat rings that you play on a Skeeball ?
+%mor:	pro:int|what cop|be&PAST&13S pro:per|you v|win&PAST det:art|the
+	(1)adj|little (1)adj|flat (1)n|ring-PL pro:rel|that pro:per|you v|play
+	prep|on det:art|a n:prop|Skeeball ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/coner2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/ctrer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/daver2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/diaer2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/diaer2.cha": line 48.
+*MOT:	what did we see in those little little beds ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|see prep|in pro:dem|those
+	(1)adj|little (1)adj|little (1)n|bed-PL ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/emier2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/ether2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/fraer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/geoer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/giler2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/greer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/inaer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/jacer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/jamer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/jeber2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/jerer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/jeser2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/joeer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/joyer2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/joyer2.cha": line 108.
+*MOT:	you're supposed to tell me a big long story here .
+%mor:	pro:per|you~aux|be&PRES v|suppose-PAST inf|to v|tell pro:obj|me
+	det:art|a (1)adj|big (1)adj|long (1)n|story adv|here .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/karer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/kever2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/kurer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/mayer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/meger2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/meler2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/nicer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/pauer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/peter2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/raser2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/rocer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/roser2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/sarer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/seaer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/shler2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/stner2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/suser2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/toder2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/tomer2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/trier2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/vicer2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/vicer2.cha": line 162.
+*MOT:	xxx meant to tell us xxx dog you threw your xxx an awful long time .
+%mor:	v|mean&PAST inf|to v|tell pro:obj|us v|dog pro:per|you v|throw&PAST
+	det:poss|your det:art|a (1)adj|awful (1)adj|long (1)n|time .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/ER/zaner2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/admmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/admmt2.cha": line 1619.
+*MOT:	you [/] you got a (.) pretty big wrist .
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|pretty (1)adj|big (1)n|wrist .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/aimmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/allmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/anamt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/annmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/brnmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/brnmt2.cha": line 590.
+*SIS:	it was the chinese new year .
+%mor:	pro:per|it cop|be&PAST&13S det:art|the (1)adj|chinese (1)adj|new (1)n|year .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/brtmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/casmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/chamt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/chamt2.cha": line 465.
+*AUN:	now you remember you're going to bed early tonight (be)cause you were <&a> [//] awake very late last night .
+%mor:	adv|now pro:per|you v|remember pro:per|you~aux|be&PRES
+	part|go-PRESP prep|to n|bed adv|early adv:tem|tonight conj|because
+	pro:per|you cop|be&PAST adj|awake adv|very (1)adj|late (1)adj|last (1)n|night
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/clamt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/conmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/davmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/davmt2.cha": line 80.
+*MOT:	she was just a little tiny kid and (.) said Chi wait wait [!] (.) huh .
+%mor:	pro:sub|she cop|be&PAST&13S adv|just det:art|a (1)adj|little (1)adj|tiny
+	(1)n|kid coord|and v|say&PAST n:prop|Chi v|wait co|wait co|huh .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/ethmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/geomt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/inamt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/inamt2.cha": line 912.
+*MOT:	that's a pretty busy week for you .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|busy (1)n|week
+	prep|for pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/inamt2.cha": line 1211.
+*MOT:	you know the red glittery stuff ?
+%mor:	pro:per|you v|know det:art|the (1)adj|red (1)adj|glitter&dv-Y (1)n|stuff ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/jacmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/jammt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/jebmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/jebmt2.cha": line 180.
+*MOT:	see the little red light is on that tells us that it's going .
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light cop|be&3S prep|on
+	pro:rel|that v|tell-3S pro:obj|us det:dem|that pro:per|it~aux|be&3S
+	part|go-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/jebmt2.cha": line 388.
+*MOT:	it's an old old tv show me and Daddy used to watch when we were little kids and this is a Leave it to Beaver tee shirt .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|old (1)adj|old (1)n|tv v|show
+	pro:obj|me coord|and n:prop|Daddy v|use-PAST prep|to n|watch
+	conj|when pro:sub|we cop|be&PAST adj|little n|kid-PL coord|and
+	pro:dem|this cop|be&3S det:art|a n:prop|Leave pro:per|it prep|to
+	n:prop|Beaver n|tee n|shirt .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/joemt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/karmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/kevmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/kurmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/maymt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/maymt2.cha": line 1390.
+*MOT:	it's a long long long walk .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|long (1)adj|long (1)adj|long (1)n|walk .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/megmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/megmt2.cha": line 2215.
+*MOT:	and she went [//] she wanted to have nice big juicy banana split (.) ?
+%mor:	coord|and pro:sub|she pro:sub|she v|want-PAST inf|to v|have
+	adj|nice (1)adj|big (1)adj|juice&dn-Y (1)n|banana part|split&PASTP ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/melmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/melmt2.cha": line 296.
+*MOT:	not real hot (.) not for me anyway .
+%mor:	neg|not (1)adj|real (1)adj|hot (1)neg|not prep|for pro:obj|me adv|anyway .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/petmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/rosmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/rosmt2.cha": line 302.
+*SIS:	Stan (.) had clipped a bunch of far side cartoons from the paper .
+%mor:	n:prop|Stan v|have&PAST part|clip-PASTP det:art|a n|bunch prep|of
+	(1)adj|far (1)adj|side (1)n|cartoon-PL prep|from det:art|the n|paper .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/rosmt2.cha": line 1750.
+*FAT:	gee you were up so late last night I figure you'd take a nap today .
+%mor:	co|gee pro:per|you cop|be&PAST adv|up adv|so (1)adj|late (1)adj|last
+	(1)n|night pro:sub|I v|figure pro:per|you~mod|genmod v|take det:art|a
+	n|nap adv:tem|today .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/sarmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/seamt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/seamt2.cha": line 470.
+*MOT:	she's a little [//] hungry little girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|hungry (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/seamt2.cha": line 1108.
+*MOT:	big fat guy .
+%mor:	(1)adj|big (1)adj|fat (1)n|guy .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/stnmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/susmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/todmt2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/tommt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/tommt2.cha": line 848.
+*MOT:	and Auntie Peggy sent a great big &-um (.) Indiana Jones puzzle to do .
+%mor:	coord|and n:prop|Auntie n:prop|Peggy v|send&PAST det:art|a
+	(1)adj|great (1)adj|big (1)n:prop|Indiana n:prop|Jones n|puzzle inf|to v|do .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/tommt2.cha": line 2373.
+*MOT:	Donna put them on your &-um little happy report .
+%mor:	n:prop|Donna v|put&ZERO pro:obj|them prep|on det:poss|your
+	(1)adj|little (1)adj|happy (1)n|report .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/trimt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/trimt2.cha": line 207.
+*MOT:	when the little red light comes on +...
+%mor:	conj|when det:art|the (1)adj|little (1)adj|red (1)n|light v|come-3S adv|on
+	+...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/trimt2.cha": line 211.
+*MOT:	see the &+r little red light flashin(g) ?
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light part|flash-PRESP ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/vicmt2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/MT/vicmt2.cha": line 1872.
+*BRO:	<and she and she &-um (.) she> [//] every day she <went (.) to> [//] (.) <go to> [/] (.) go to drive <her new car> [//] (.) her (.) real nice (.) car .
+%mor:	qn|every n|day pro:sub|she v|go inf|to v|drive det:poss|her
+	(1)adj|real (1)adj|nice (1)n|car .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/acetp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/admtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/aimtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/alitp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/alitp2.cha": line 395.
+*MOT:	this tiny little pearl maybe ?
+%mor:	pro:dem|this (1)adj|tiny (1)adj|little (1)n|pearl adv|maybe ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/alltp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/anatp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/anntp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/aprtp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/aprtp2.cha": line 29.
+*MOT:	yup it got a long long cord .
+%mor:	co|yup pro:per|it v|get&PAST det:art|a (1)adj|long (1)adj|long (1)n|cord .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/aprtp2.cha": line 419.
+*MOT:	we have a little green pot right there .
+%mor:	pro:sub|we v|have det:art|a (1)adj|little (1)adj|green (1)n|pot adv|right
+	adv|there .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/brntp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/brttp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/brttp2.cha": line 770.
+*MOT:	<and let's see who can make the> [//] wanna make a big big thing ?
+%mor:	v|want~inf|to v|make det:art|a (1)adj|big (1)adj|big (1)n|thing ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/chatp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/chatp2.cha": line 277.
+*MOT:	I bought a new couch did you like my new couch it's the first new couch <I've ever had> [>] .
+%mor:	pro:sub|I v|buy&PAST det:art|a adj|new n|couch mod|do&PAST
+	pro:per|you co|like det:poss|my adj|new n|couch pro:per|it~cop|be&3S
+	det:art|the (1)adj|first (1)adj|new (1)n|couch pro:sub|I~aux|have adv|ever
+	part|have&PASTP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/clatp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/clatp2.cha": line 700.
+*MOT:	that big old gray thing that they said is scared of a mouse .
+%mor:	pro:dem|that adj|big (1)adj|old (1)adj|gray (1)n|thing pro:rel|that
+	pro:sub|they v|say&PAST aux|be&3S part|scare-PASTP prep|of det:art|a
+	n|mouse .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/contp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ctrtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/davtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/diatp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/emitp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ethtp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ethtp2.cha": line 306.
+*MOT:	<oh oh> [>] <a real> [//] a [/] a real little person .
+%mor:	co|oh co|oh det:art|a (1)adj|real (1)adj|little (1)n|person .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ethtp2.cha": line 665.
+*MOT:	<let's> [<] find our old original driver now .
+%mor:	v|let~pro:obj|us v|find det:poss|our (1)adj|old (1)adj|original
+	(1)n|drive&dv-AGT adv|now .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ethtp2.cha": line 1052.
+*MOT:	have you seen a big brown dog with a bone in his mouth ?
+%mor:	v|have pro:per|you part|see&PASTP det:art|a (1)adj|big (1)adj|brown (1)n|dog
+	prep|with det:art|a n|bone prep|in det:poss|his n|mouth ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/ethtp2.cha": line 1068.
+*MOT:	have you seen a big brown dog with a bone in his mouth ?
+%mor:	v|have pro:per|you part|see&PASTP det:art|a (1)adj|big (1)adj|brown (1)n|dog
+	prep|with det:art|a n|bone prep|in det:poss|his n|mouth ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/fratp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/geotp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/giltp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/gretp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/inatp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/inatp2.cha": line 241.
+*MOT:	this is the most delicious hot chocolate I have ever [!] had .
+%mor:	pro:dem|this cop|be&3S det:art|the qn|most (1)adj|delicious (1)adj|hot
+	(1)n|chocolate pro:sub|I aux|have adv|ever part|have&PASTP .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jactp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jamtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jebtp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jebtp2.cha": line 532.
+*MOT:	the chief has probably got pretty flat hair from wearin(g) a hat like this all day long .
+%mor:	det:art|the n|chief aux|have&3S adv|probable&dadj-LY v|get&PAST
+	(1)adj|pretty (1)adj|flat (1)n|hair prep|from n:gerund|wear-PRESP det:art|a
+	n|hat prep|like pro:dem|this adv|all n|day adv|long .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jertp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jertp2.cha": line 751.
+*MOT:	grey (.) good boy .
+%mor:	(1)adj|grey (1)adj|good (1)n|boy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jestp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/jestp2.cha": line 798.
+*MOT:	that's a cute little phone .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|phone .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/joetp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/joytp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/kartp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/kevtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/kurtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/maytp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/megtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/meltp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/nictp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/pautp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/pettp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/rastp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/roctp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/rostp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/rostp2.cha": line 288.
+*FAT:	the one of the (.) cute little girl in the fancy dress ?
+%mor:	det:art|the pro:indef|one prep|of det:art|the (1)adj|cute (1)adj|little
+	(1)n|girl prep|in det:art|the adj|fancy n|dress ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/sartp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/seatp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/shltp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/stntp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/sustp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/todtp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/tomtp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/tomtp2.cha": line 329.
+*MOT:	+^ <it's a> [/] it's a real long word +...
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|long (1)n|word +...
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/tritp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/victp2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/zantp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV2/TP/zantp2.cha": line 395.
+*MOT:	this tiny little pearl maybe ?
+%mor:	pro:dem|this (1)adj|tiny (1)adj|little (1)n|pearl adv|maybe ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/BR/karbr2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/BR/karbr2.cha": line 529.
+*MOT:	oh he ate through one nice green leaf and then he felt better ?
+%mor:	co|oh pro:sub|he v|eat&PAST prep|through pro:indef|one (1)adj|nice
+	(1)adj|green (1)n|leaf coord|and adv:tem|then pro:sub|he v|feel&PAST
+	adj|good&CP ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/BR/karbr2.cha": line 1521.
+*MOT:	he's chasin(g) the poor little kitty .
+%mor:	pro:sub|he~aux|be&3S part|chase-PRESP det:art|the (1)adj|poor
+	(1)adj|little (1)n|kitty .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/ER/braer3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/ET/braet3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/MT/bramt3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/TP/bratp3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/TP/jestp2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/HSLLD/HV3/TP/jestp2.cha": line 798.
+*MOT:	that's a cute little phone .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|phone .
+
+    Strings matched 1 times
+

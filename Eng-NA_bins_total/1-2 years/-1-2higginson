@@ -1,0 +1,117 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:10:02 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/April/april01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june02.cha": line 421.
+*MOT:	okay (.) lonely little duckling asks if he can play with the
+	cheerful puppies on such a lovely day .
+%mor:	co|okay (1)adj|lonely (1)adj|little (1)n|duckling v|ask-3S conj|if
+	pro:sub|he mod|can v|play prep|with det:art|the adj|cheer&dn-FULL
+	n|puppy-PL prep|on qn|such det:art|a adj|love&dn-LY n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june02.cha": line 494.
+*MOT:	lonely little duckling asks if he can play with the cheerful
+	puppies on such a lovely day .
+%mor:	(1)adj|lonely (1)adj|little (1)n|duckling v|ask-3S conj|if pro:sub|he
+	mod|can v|play prep|with det:art|the adj|cheer&dn-FULL n|puppy-PL
+	prep|on qn|such det:art|a adj|love&dn-LY n|day .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june03.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june07.cha": line 514.
+*MOT:	okay (.) Old King Cole was a merry old soul .
+%mor:	co|okay n:prop|Old n:prop|King n:prop|Cole cop|be&PAST&13S
+	det:art|a (1)adj|merry (1)adj|old (1)n|soul .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june07.cha": line 519.
+*MOT:	a merry old soul was he .
+%mor:	det:art|a (1)adj|merry (1)adj|old (1)n|soul cop|be&PAST&13S pro:sub|he .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june07.cha": line 948.
+*MOT:	poor little kitten is sad as can be .
+%mor:	(1)adj|poor (1)adj|little (1)n|kitten cop|be&3S adj|sad prep|as mod|can
+	cop|be .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june09.cha": line 265.
+*MOT:	that was a real nice story June .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|real (1)adj|nice (1)n|story
+	n:prop|June .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june09.cha": line 1586.
+*MOT:	how about the pretty little bird ?
+%mor:	adv:int|how adv|about det:art|the (1)adj|pretty (1)adj|little (1)n|bird ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june09.cha": line 1632.
+*MOT:	oh (.) what a tidy little girl .
+%mor:	co|oh pro:int|what det:art|a (1)adj|tidy (1)adj|little (1)n|girl .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june10.cha": line 183.
+*MOT:	a sly old fox and a thin hungry cat were hiding by a bridge .
+%mor:	det:art|a (1)adj|sly (1)adj|old (1)n|fox coord|and det:art|a (2)adj|thin
+	(2)adj|hungry (2)n|cat aux|be&PAST part|hide-PRESP prep|by det:art|a
+	n|bridge .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june10.cha": line 189.
+*MOT:	+" look at that little wooden head .
+%mor:	cop|look prep|at pro:dem|that (1)adj|little (1)adj|wooden (1)n|head .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june10.cha": line 1063.
+*MOT:	that poor sad choo+choo train .
+%mor:	pro:dem|that (1)adj|poor (1)adj|sad (1)n|+on|choo+on|choo n|train .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Higginson/June/june14.cha>
+
+    Strings matched 0 times
+

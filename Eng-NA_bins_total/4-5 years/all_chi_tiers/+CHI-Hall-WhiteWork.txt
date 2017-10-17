@@ -1,0 +1,174 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:30:51 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <boo.cha>
+----------------------------------------
+*** File "boo.cha": line 17671.
+*CHI:	dere's [: there's] a black man , and dere's [: there's] a black
+	chinese lady , and dere's [: there's] a xxx a fuck you (.) .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|black n|man cm|cm coord|and
+	pro:exist|there~cop|be&3S det:art|a (1)adj|black (1)adj|chinese (1)n|lady
+	cm|cm coord|and pro:exist|there~cop|be&3S det:art|a det:art|a v|fuck
+	pro:per|you .
+----------------------------------------
+*** File "boo.cha": line 22338.
+*CHI:	Abraham Lincoln was a good old man , he jumped out the window +...
+%mor:	n:prop|Abraham n:prop|Lincoln cop|be&PAST&13S det:art|a (1)adj|good
+	(1)adj|old (1)n|man cm|cm pro:sub|he v|jump-PAST prep|out det:art|the
+	n|window +...
+----------------------------------------
+*** File "boo.cha": line 22349.
+*CHI:	Abraham Lincoln was a good old man , he jumped out the window and
+	xxx was was a bad old man .
+%mor:	n:prop|Abraham n:prop|Lincoln cop|be&PAST&13S det:art|a (1)adj|good
+	(1)adj|old (1)n|man cm|cm pro:sub|he v|jump-PAST prep|out det:art|the
+	n|window coord|and aux|be&PAST&13S cop|be&PAST&13S det:art|a (2)adj|bad
+	(2)adj|old (2)n|man .
+----------------------------------------
+*** File "boo.cha": line 30067.
+*CHI:	&+ha , his Ma , he's got a real live chicken and it flew out_of da
+	[: the] pot .
+%mor:	cm|cm det:poss|his n:prop|Ma cm|cm pro:sub|he~aux|be&3S
+	part|get&PASTP det:art|a (1)adj|real (1)adj|live (1)n|chicken coord|and
+	pro:per|it v|fly&PAST prep|out_of det:art|the n|pot .
+
+    Strings matched 5 times
+
+From file <dal.cha>
+----------------------------------------
+*** File "dal.cha": line 6948.
+*CHI:	and a brand new boat [!] .
+%mor:	coord|and det:art|a (1)adj|brand (1)adj|new (1)n|boat .
+----------------------------------------
+*** File "dal.cha": line 6954.
+*CHI:	here's a bra:nd new boat !
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|brand (1)adj|new (1)n|boat !
+
+    Strings matched 2 times
+
+From file <kag.cha>
+----------------------------------------
+*** File "kag.cha": line 21699.
+*CHI:	now der [: there] should be a li:on , &+oo big [!] big cage .
+%mor:	adv|now adv|there mod|should cop|be det:art|a n|lion cm|cm (1)adj|big
+	(1)adj|big (1)n|cage .
+----------------------------------------
+*** File "kag.cha": line 21844.
+*CHI:	little ti:ny (.) ca:ge (.) .
+%mor:	(1)adj|little (1)adj|tiny (1)n|cage .
+----------------------------------------
+*** File "kag.cha": line 21850.
+*CHI:	and a little little cage .
+%mor:	coord|and det:art|a (1)adj|little (1)adj|little (1)n|cage .
+----------------------------------------
+*** File "kag.cha": line 22423.
+*CHI:	not little red caboose , little red caboose +...
+%mor:	neg|not (1)adj|little (1)adj|red (1)n|caboose cm|cm (2)adj|little (2)adj|red
+	(2)n|caboose +...
+----------------------------------------
+*** File "kag.cha": line 22432.
+*CHI:	+, little re [: red] caboose behind the train .
+%mor:	(1)adj|little (1)adj|red (1)n|caboose n|behind det:art|the n|train .
+----------------------------------------
+*** File "kag.cha": line 22438.
+*CHI:	little red caboose , little red caboose , little red caboose behind
+	duh [: the] tra:in , smoke goes down his back rolling down the track
+	, little red caboose behind duh [: the] train choo [!] choo [!] (.)
+	!
+%mor:	(1)adj|little (1)adj|red (1)n|caboose cm|cm (2)adj|little (2)adj|red (2)n|caboose
+	cm|cm (3)adj|little (3)adj|red (3)n|caboose adv|behind det:art|the n|train
+	cm|cm n|smoke v|go-3S adv|down det:poss|his adj|back part|roll-PRESP
+	adv|down det:art|the n|track cm|cm (4)adj|little (4)adj|red (4)n|caboose
+	adv|behind det:art|the n|train on|choo on|choo !
+
+    Strings matched 10 times
+
+From file <kao.cha>
+----------------------------------------
+*** File "kao.cha": line 12490.
+*CHI:	this this is not a good western hat .
+%mor:	pro:dem|this pro:dem|this cop|be&3S neg|not det:art|a (1)adj|good
+	(1)adj|western (1)n|hat .
+
+    Strings matched 1 times
+
+From file <mig.cha>
+----------------------------------------
+*** File "mig.cha": line 1676.
+*CHI:	I had that [//] we have dat [: that] for a long long time .
+%mor:	pro:sub|I v|have&PAST pro:sub|we v|have pro:dem|that prep|for
+	det:art|a (1)adj|long (1)adj|long (1)n|time .
+----------------------------------------
+*** File "mig.cha": line 13112.
+*CHI:	don't Joe or we'll stay here for a long long time .
+%mor:	mod|do~neg|not n:prop|Joe coord|or pro:sub|we~mod|will n|stay
+	adv|here prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+----------------------------------------
+*** File "mig.cha": line 23495.
+*CHI:	oh yeah but when for a long long time I was really scared when you
+	and +...
+%mor:	co|oh co|yeah conj|but conj|when prep|for det:art|a (1)adj|long
+	(1)adj|long (1)n|time pro:sub|I cop|be&PAST&13S adv|real&dadj-LY
+	v|scare-PAST conj|when pro:per|you coord|and +...
+
+    Strings matched 3 times
+
+From file <sat.cha>
+----------------------------------------
+*** File "sat.cha": line 11600.
+*CHI:	dark green and light green (.) light blue and dark blue .
+%mor:	adj|dark n|green coord|and n|light (1)adj|green (1)adj|light (1)n|blue
+	coord|and adj|dark n|blue .
+----------------------------------------
+*** File "sat.cha": line 11782.
+*CHI:	craziest Al , Al , right crazy Al (.) ?
+%mor:	adj|craze&dv-Y-SP n:prop|Al cm|cm n:prop|Al cm|cm (1)adj|right
+	(1)adj|craze&dv-Y (1)n:prop|Al ?
+----------------------------------------
+*** File "sat.cha": line 14471.
+*CHI:	hm: [!] at Connie's house I'd only eat it [//] just a real little
+	bit .
+%mor:	co|hm prep|at n:prop|Connie~poss|s n|house pro:sub|I~mod|genmod
+	adv|only v|eat adv|just det:art|a (1)adj|real (1)adj|little (1)n|bit .
+
+    Strings matched 3 times
+
+From file <stl.cha>
+----------------------------------------
+*** File "stl.cha": line 8227.
+*CHI:	silly Perri , silly Perri , silly (s)illy [/] (s)illy [/] (s)illy  Berri [: Perri] (.)
+	.
+%mor:	co|silly n:prop|Perri cm|cm adj|silly n:prop|Perri cm|cm (1)adj|silly
+	(1)adj|silly (1)n:prop|Perri .
+----------------------------------------
+*** File "stl.cha": line 23705.
+*CHI:	why [!] did you make this old dummy [!] suppa [: supper] .
+%mor:	adv:int|why mod|do&PAST pro:per|you v|make pro:dem|this (1)adj|old
+	(1)adj|dummy (1)n|supper .
+
+    Strings matched 2 times
+
+From file <sut.cha>
+----------------------------------------
+*** File "sut.cha": line 4411.
+*CHI:	special undercover cop (.) .
+%mor:	(1)adj|special (1)adj|undercover (1)n|cop .
+----------------------------------------
+*** File "sut.cha": line 18116.
+*CHI:	she's a chinese clean dirty person .
+%mor:	pro:sub|she~aux|be&3S det:art|a adj|chinese (1)adj|clean (1)adj|dirt&dn-Y
+	(1)n|person .
+----------------------------------------
+*** File "sut.cha": line 18169.
+*CHI:	chinese chinese karate .
+%mor:	(1)adj|chinese (1)adj|chinese (1)n|karate .
+----------------------------------------
+*** File "sut.cha": line 18497.
+*CHI:	special undercover cop xxx under arrest .
+%mor:	(1)adj|special (1)adj|undercover (1)n|cop adv|under n|arrest .
+
+    Strings matched 4 times
+

@@ -1,0 +1,33 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:49:10 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic33a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic33a.cha": line 1674.
+*MOT:	you drove your daddy mad last week with that song , didn't you ?
+%mor:	pro:per|you v|drive&PAST det:poss|your n|daddy (1)adj|mad (1)adj|last
+	(1)n|week prep|with pro:dem|that n|song cm|cm mod|do&PAST~neg|not
+	pro:per|you ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic33b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic33b.cha": line 1560.
+*MOT:	got a big smily face on it , hasn't it ?
+%mor:	v|get&PAST det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|face prep|on
+	pro:per|it cm|cm aux|have&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic34a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Manchester/nic/nic34b.cha>
+
+    Strings matched 0 times
+

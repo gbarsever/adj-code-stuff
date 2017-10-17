@@ -1,0 +1,75 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:05:22 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <i1-1207.cha>
+
+    Strings matched 0 times
+
+From file <i1-1227.cha>
+----------------------------------------
+*** File "i1-1227.cha": line 430.
+*MOT:	those are big pink flowers huh ? %snd:"i1-h28jun97"_740929_743047
+%mor:	pro:dem|those cop|be&PRES (1)adj|big (1)adj|pink (1)n|flower-PL co|huh ?
+----------------------------------------
+*** File "i1-1227.cha": line 2254.
+*MOT:	but that's okay (be)cause he's a big tough baby and he can take it
+	. %snd:"i1-h28jun97"_2728102_2731212
+%mor:	conj|but pro:dem|that~cop|be&3S adj|okay conj|because
+	pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|tough (1)n|baby coord|and
+	pro:sub|he mod|can v|take pro:per|it .
+----------------------------------------
+*** File "i1-1227.cha": line 2744.
+*MOT:	he has a big red nose . %snd:"i1-h28jun97"_3408210_3409235
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|red (1)n|nose .
+
+    Strings matched 3 times
+
+From file <i1-1311.cha>
+----------------------------------------
+*** File "i1-1311.cha": line 1052.
+*MOT:	nice shady part . %snd:"i1-h12jul97"_936000_937109
+%mor:	(1)adj|nice (1)adj|shade&dn-Y (1)n|part .
+----------------------------------------
+*** File "i1-1311.cha": line 2547.
+*MOT:	he has a nice long tail . %snd:"i1-h12jul97"_2856415_2857837
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|nice (1)adj|long (1)n|tail .
+
+    Strings matched 2 times
+
+From file <i1-1318.cha>
+----------------------------------------
+*** File "i1-1318.cha": line 2028.
+*MOT:	oh , sweetheart , where's the stupid fuzzy thing ? %snd:"i1-h19jul97"_1681735_1684075
+%mor:	co|oh cm|cm n|+n|sweet+n|heart cm|cm adv:int|where~cop|be&3S
+	det:art|the (1)adj|stupid (1)adj|fuzz&dn-Y (1)n|thing ?
+----------------------------------------
+*** File "i1-1318.cha": line 3144.
+*MOT:	oh he's a good good good kitty [=! voice] . %snd:"i1-h19jul97"_2892595_2895565
+%mor:	co|oh pro:sub|he~aux|be&3S det:art|a adj|good (1)adj|good (1)adj|good
+	(1)n|kitty .
+
+    Strings matched 2 times
+
+From file <i1-1325.cha>
+
+    Strings matched 0 times
+
+From file <i1-1425.cha>
+----------------------------------------
+*** File "i1-1425.cha": line 2827.
+*MOT:	big creepy bug . %snd:"i1-t26aug97"_2917429_2918439
+%mor:	(1)adj|big (1)adj|creep&dn-Y (1)n|bug .
+----------------------------------------
+*** File "i1-1425.cha": line 2889.
+*MOT:	big creepy bug . %snd:"i1-t26aug97"_2989197_2990248
+%mor:	(1)adj|big (1)adj|creep&dn-Y (1)n|bug .
+
+    Strings matched 2 times
+
+From file <i1-1508.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,84 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:07:12 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <darren02.cha>
+----------------------------------------
+*** File "darren02.cha": line 623.
+*MOT:	great stupid ass you are .
+%mor:	(1)adj|great (1)adj|stupid (1)n|ass pro:per|you cop|be&PRES .
+
+    Strings matched 1 times
+
+From file <darren03.cha>
+
+    Strings matched 0 times
+
+From file <darren04.cha>
+
+    Strings matched 0 times
+
+From file <darren05.cha>
+----------------------------------------
+*** File "darren05.cha": line 1052.
+*NIC:	Darren you're a naughty little boy aren't you (5.) ?
+%mor:	n:prop|Darren pro:per|you~cop|be&PRES det:art|a (1)adj|naughty
+	(1)adj|little (1)n|boy aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "darren05.cha": line 1193.
+*MOT:	so the little grey mouse came out_of his cupboard .
+%mor:	co|so det:art|the (1)adj|little (1)adj|grey (1)n|mouse v|come&PAST
+	prep|out_of det:poss|his n|cupboard .
+----------------------------------------
+*** File "darren05.cha": line 1227.
+*MOT:	outside the wizard's house he met a big fierce dog .
+%mor:	prep|outside det:art|the n|wizard~poss|s n|house pro:sub|he
+	v|meet&PAST det:art|a (1)adj|big (1)adj|fierce (1)n|dog .
+----------------------------------------
+*** File "darren05.cha": line 1232.
+*MOT:	the big fierce dog sprang at him and chased him down the street .
+%mor:	det:art|the (1)adj|big (1)adj|fierce (1)n|dog v|spring&PAST prep|at
+	pro:obj|him coord|and v|chase-PAST pro:obj|him adv|down det:art|the
+	n|street .
+
+    Strings matched 4 times
+
+From file <darren06.cha>
+----------------------------------------
+*** File "darren06.cha": line 2054.
+*MOT:	poor old Nod_nod .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Nod_nod .
+----------------------------------------
+*** File "darren06.cha": line 2061.
+*MOT:	poor old Nod_nod .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Nod_nod .
+
+    Strings matched 2 times
+
+From file <darren07.cha>
+
+    Strings matched 0 times
+
+From file <darren08.cha>
+
+    Strings matched 0 times
+
+From file <darren09.cha>
+
+    Strings matched 0 times
+
+From file <darren10.cha>
+----------------------------------------
+*** File "darren10.cha": line 620.
+*MOT:	I said you didn't go to bed until late last night .
+%mor:	pro:sub|I v|say&PAST pro:per|you mod|do&PAST~neg|not v|go prep|to
+	n|bed prep|until (1)adj|late (1)adj|last (1)n|night .
+
+    Strings matched 1 times
+
+From file <darren21.cha>
+
+    Strings matched 0 times
+

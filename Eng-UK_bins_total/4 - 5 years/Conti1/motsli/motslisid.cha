@@ -1,0 +1,867 @@
+@UTF8
+@PID:	11312/c-00004625-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Sid Target_Child , MOT Mother , FAT Father
+@ID:	eng|Conti1|CHI|4;9.08||||Target_Child|||
+@ID:	eng|Conti1|MOT|||||Mother|||
+@ID:	eng|Conti1|FAT|||||Father|||
+@Location:	Bury , England
+@Situation:	Play
+@Activities:	CHI and MOT are sitting on the floor. They are playing with a large , structural sliding system , which has mechanics models , an airplane and some legos.
+@Transcriber:	Mary Perry , updated by Graeme Hutcheson
+*MOT:	I'll tell you what .
+%mor:	pro:sub|I~mod|will v|tell pro:per|you pro:int|what .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	how about doing what we did with Mary ?
+%mor:	adv:int|how adv|about part|do-PRESP pro:int|what pro:sub|we
+	v|do&PAST prep|with n:prop|Mary ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+%act:	MOT begins to look around for the ladder
+*MOT:	where's the ladder gone ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|ladder part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*MOT:	we've got a little ladder somewhere .
+%mor:	pro:sub|we~aux|have part|get&PASTP det:art|a adj|little n|ladder
+	adv|somewhere .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|PUNCT
+*MOT:	ah (.) here we are .
+%mor:	co|ah adv|here pro:sub|we cop|be&PRES .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	MOT reaches over for toy
+*MOT:	look (.) watch this (.) Sid .
+%mor:	co|look v|watch pro:dem|this n:prop|Sid .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	aft MOT sets up ladder . rolls car down slide
+*MOT:	whee !
+%mor:	co|whee !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	telling mom that someone is coming in room
+%act:	bef CHI picks up car . orient towards door at his left
+*CHI:	yyy .
+%xpho:	/U/
+*CHI:	xxx .
+%act:	CHI looks at toys that have just been brought in
+*MOT:	that's your lego in there .
+%mor:	pro:dem|that~cop|be&3S det:poss|your n|lego prep|in adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef MOT takes a model out of tin . rolls it down slide
+*CHI:	yyy .
+%xpho:	/E E/
+%act:	CHI leans towards slide with a model in his hand
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	me &-uh .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI looks at toy slide which MOT is playing with
+*MOT:	no what ?
+%mor:	co|no pro:int|what ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*CHI:	&-uh me .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it's got stuck somehow .
+%mor:	pro:per|it~aux|be&3S aux|get&PAST part|stick&PASTP adv|somehow .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	I don't understand this game (.) Sid .
+%mor:	pro:sub|I mod|do~neg|not v|understand pro:dem|this n|game
+	n:prop|Sid .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|APP 8|4|PUNCT
+*MOT:	mummy doesn't understand how you work this .
+%mor:	n|mummy mod|do&3S~neg|not v|understand adv:int|how pro:per|you
+	v|work pro:dem|this .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+%act:	MOT looks at toy
+*CHI:	yyy .
+%xpho:	/mi 6 hai/
+%act:	MOT leans over toy and looks in cave windows
+*MOT:	do you know ?
+%mor:	mod|do pro:per|you v|know ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	do you know how it works ?
+%mor:	mod|do pro:per|you v|know adv:int|how pro:per|it v|work-3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*CHI:	that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	CHI pulls on pieces of the toy
+*CHI:	that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh (.) really .
+%mor:	co|oh adv|real&dadj-LY .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	that gives me a_lot_of <scope (.) Sid> [>] .
+%mor:	pro:rel|that v|give-3S pro:obj|me qn|a_lot_of n|scope n:prop|Sid .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|QUANT 5|2|OBJ 6|5|APP 7|2|PUNCT
+*CHI:	ah [x 3] . [+ V]
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI begins to put pieces of toy together , showing MOT how it works
+*MOT:	oh that goes on there (.) does it ?
+%mor:	co|oh pro:rel|that v|go-3S prep|on adv|there mod|do&3S pro:per|it ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|7|JCT 6|7|AUX 7|4|POBJ
+	8|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&+mm .
+*CHI:	no the(re) .
+%mor:	co|no adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%act:	CHI still putting toy together
+*MOT:	&=laughs .
+*CHI:	&-um .
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI still putting toy together
+*MOT:	there (.) like that is it ?
+%mor:	adv|there prep|like pro:dem|that cop|be&3S pro:per|it ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	is that how it goes ?
+%mor:	cop|be&3S pro:dem|that adv:int|how pro:per|it v|go-3S ?
+%gra:	1|5|AUX 2|5|DET 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	oh (.) aren't you a clever boy .
+%mor:	co|oh aux|be&PRES~neg|not pro:per|you det:art|a adj|clever n|boy .
+%gra:	1|4|COM 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MOT:	(be)cause mummy doesn't know .
+%mor:	conj|because n|mummy mod|do&3S~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	oh xxx [=! moans] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI sits back and looks at toy
+*MOT:	oh (.) don't like .
+%mor:	co|oh mod|do~neg|not co|like .
+%gra:	1|4|COM 2|4|AUX 3|2|NEG 4|0|INCROOT 5|4|PUNCT
+*CHI:	xxx .
+%act:	CHI begins to fix the toy again
+*CHI:	xxx .
+%act:	piece of toy comes off the structure and CHI fixes it
+*CHI:	there !
+%mor:	adv|there !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	sits back and looks at structure
+*CHI:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes piece from MOT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	that (.) right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	CHI continues to fix toys
+*MOT:	oh right .
+%mor:	co|oh n|right .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	shall we have a go now ?
+%mor:	mod|shall pro:sub|we v|have det:art|a v|go adv|now ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+*MOT:	shall we &+s +/.
+%mor:	mod|shall pro:sub|we +/.
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that way .
+%mor:	pro:dem|that n|way .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	CHI twists toys around
+*MOT:	oh (.) that way .
+%mor:	co|oh pro:dem|that n|way .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%exp:	sits back and looks at structure
+*MOT:	oh (.) we [//] are getting somewhere ?
+%mor:	co|oh aux|be&PRES part|get-PRESP n|somewhere ?
+%gra:	1|3|COM 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yyy .
+%xpho:	/E E E E ! E/
+%gpx:	CHI takes toy from MOT during first three E . gives a second toy to MOT at stressed E
+*MOT:	oh (.) this one .
+%mor:	co|oh pro:dem|this pro:indef|one .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|3|PUNCT
+*MOT:	are you going to roll yours down there ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|roll pro:poss|yours
+	adv|down adv|there ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|8|JCT 8|6|JCT
+	9|1|PUNCT
+%gpx:	MOT points to top of toy
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and mummy will roll mine down here .
+%mor:	coord|and n|mummy mod|will v|roll n|mine adv|down adv|here .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|4|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef CHI puts car in his hand on bottom of slide . points to top of slide for MOT to put her car
+*MOT:	oh (.) right .
+%mor:	co|oh n|right .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	are we ready ?
+%mor:	cop|be&PRES pro:sub|we v|ready ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	MOT lets toy go .
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh [=! laughs] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and they crash into each_other .
+%mor:	coord|and pro:sub|they v|crash prep|into pro:refl|each_other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI begins to fix the toys
+*MOT:	whey [=! laughs] .
+%mor:	n|whey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<isn't> [>] that good ?
+%mor:	cop|be&3S~neg|not pro:dem|that adj|good ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|3|JCT 5|1|PUNCT
+*CHI:	xxx [<] .
+*MOT:	that willn't go up .
+%mor:	pro:rel|that mod|will~neg|not v|go adv|up .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	you have_to put it up back up top .
+%mor:	pro:per|you mod:aux|have_to v|put&ZERO pro:per|it adv|up adv|back
+	adv|up n|top .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+%act:	aft CHI walks his car to the top of the hill then puts the car on the floor next to the structure and sits up
+*MOT:	(.) up top !
+%mor:	adv|up adj|top !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	CHI picks up the car
+*CHI:	yyy [>] .
+%xpho:	/e !/
+*MOT:	<up the top> [<] .
+%mor:	prep|up det:art|the n|top .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%act:	MOT attempts to take the toy and motions towards the top
+*MOT:	up the top there .
+%mor:	prep|up det:art|the n|top adv|there .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|POBJ 5|1|PUNCT
+%act:	MOT takes the toy and puts it on the top of the structure
+*MOT:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	there is a knock on the door and FAT comes through it
+*CHI:	mum mum .
+%mor:	adj|mum n|mum .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	trying to get FAT to tell MOT that the structure is not put together correctly
+%par:	whines
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	CHI points to structure
+%com:	tell MOT that is not right
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	CHI looks up at FAT
+*CHI:	dada .
+%mor:	n|dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI motions towards FAT
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	dada .
+%mor:	n|dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	CHI shakes his head no
+*CHI:	that right .
+%mor:	pro:dem|that n|right .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	no that's not right is it ?
+%mor:	co|no pro:dem|that~cop|be&3S neg|not n|right aux|be&3S pro:per|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|7|SUBJ 6|7|AUX 7|3|PRED 8|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	show mummy how to do it .
+%mor:	n|show n|mummy adv:int|how inf|to v|do pro:per|it .
+%gra:	1|2|MOD 2|0|ROOT 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|2|PUNCT
+*MOT:	he doesn't know either .
+%mor:	pro:sub|he mod|do&3S~neg|not v|know adv|either .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*FAT:	that goes on there .
+%mor:	pro:rel|that v|go-3S prep|on adv|there .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	FAT bends down and fixes the toy
+*FAT:	and they go on there (.) don't they ?
+%mor:	coord|and pro:sub|they v|go prep|on adv|there mod|do~neg|not
+	pro:sub|they ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|POBJ
+	9|3|PUNCT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	ain't it pal ?
+%mor:	aux|be&1S~neg|not pro:per|it n|pal ?
+%gra:	1|4|AUX 2|1|NEG 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	me ?
+%mor:	pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI gaze check to FAT
+%act:	CHI looking around
+*FAT:	and he starts off there .
+%mor:	coord|and pro:sub|he v|start-3S prep|off adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	FAT puts toy a in side structure
+*FAT:	(.) and the ambulance goes there .
+%mor:	coord|and det:art|the n|ambulance v|go-3S adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%act:	places the ambulance at bottom of the stucture
+*FAT:	and they climb up stairs don't they ?
+%mor:	coord|and pro:sub|they v|climb adv|up n|stair-PL mod|do~neg|not
+	pro:sub|they ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|3|PUNCT
+%act:	FAT leaves the room
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI slides toy a down the slide
+*CHI:	0 [=! vocalization] .
+%xpho:	/A/
+*MOT:	if you want him to go in the ambulance (.) you do it that way „
+	don't you ?
+%mor:	conj|if pro:per|you v|want pro:obj|him inf|to v|go prep|in
+	det:art|the n|ambulance pro:per|you v|do pro:per|it pro:dem|that
+	n|way end|end mod|do~neg|not pro:per|you ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|6|COMP 12|11|OBJ 13|14|DET 14|11|OBJ 15|18|ENDP
+	16|18|AUX 17|16|NEG 18|3|OBJ 19|3|PUNCT
+*CHI:	&-uh no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI fixes toy a as it falls down
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(.) there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	remarking that they finally got the toy to work
+*MOT:	clever boy .
+%mor:	adj|clever n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	MOT puts toy on another part of the stucture
+%sit:	toy gets to the bottom of the hill
+*CHI:	up there .
+%mor:	adv|up adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%gpx:	CHI points up towards the top of the next hill
+*CHI:	up there .
+%mor:	adv|up adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%gpx:	CHI points to top of toy
+*MOT:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	MOT puts the toy on top of the next hill
+*MOT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	toy walks down hill
+%act:	aft MOT touches another toy
+*CHI:	&-uh [!] no [!] up there .
+%mor:	co|no adv|up adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	CHI takes the toy in MOTs hand
+*MOT:	do it from the top .
+%mor:	mod|do pro:per|it prep|from det:art|the n|top .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%act:	MOT puts toy on the top
+*CHI:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef MOT releases toy in hand and it walks down the hill
+*MOT:	now we're going to drive him round .
+%mor:	adv|now pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|drive
+	pro:obj|him adv|round .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*MOT:	put him in the other end (.) &-eh ?
+%mor:	v|put&ZERO pro:obj|him prep|in det:art|the qn|other n|end ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|1|PUNCT
+%act:	MOT drives lorry along floor
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI picks up a bag from floor
+*MOT:	oh (.) it's this end he goes in (.) isn't it ?
+%mor:	co|oh pro:per|it~cop|be&3S pro:dem|this n|end pro:sub|he v|go-3S
+	adv|in cop|be&3S~neg|not pro:per|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|SUBJ 7|5|CMOD 8|7|JCT
+	9|11|AUX 10|9|NEG 11|7|OBJ 12|3|PUNCT
+%act:	MOT moves lorry to an opening in the structure
+*CHI:	no that end .
+%mor:	qn|no pro:dem|that n|end .
+%gra:	1|2|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%gpx:	CHI points to opposite side of structure
+*MOT:	what end ?
+%mor:	pro:int|what n|end ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	that end .
+%mor:	pro:dem|that n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	CHI points to the opposite side of sturcture
+%act:	CHI drives lorry around to the opposite side of structure
+*CHI:	eerr@c .
+%mor:	chi|eerr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI drives lorry to opposite side of structure
+*CHI:	that end .
+%mor:	pro:dem|that n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$CON .
+*MOT:	oh (.) do you want him back there .
+%mor:	co|oh v|do pro:per|you v|want pro:obj|him adv|back adv|there .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|7|JCT 7|4|JCT 8|2|PUNCT
+*MOT:	put this down the xxx then (.) shall I ?
+%mor:	v|put&ZERO pro:dem|this prep|down det:art|the adv:tem|then
+	mod|shall pro:sub|I ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|7|DET 5|7|JCT 6|7|AUX 7|3|POBJ 8|1|PUNCT
+%act:	MOT puts model on top of toy
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%act:	aft CHI plays with model on toy
+*MOT:	(.) you stopped her .
+%mor:	pro:per|you v|stop-PAST pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	him her whichever .
+%mor:	pro:obj|him pro:obj|her pro:int|whichever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	MOT gets model going again
+*CHI:	me drive it off .
+%mor:	pro:obj|me v|drive pro:per|it adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%act:	CHI drives lorry along floor
+*CHI:	0 [=! vocalizations] .
+*CHI:	bye !
+%mor:	co|bye !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI takes model out of lorry and puts it onstructure
+*MOT:	now where are we going ?
+%mor:	adv|now pro:rel|where cop|be&PRES pro:sub|we part|go-PRESP ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|5|SUBJ 5|3|PRED 6|1|PUNCT
+*MOT:	where we going now ?
+%mor:	adv:int|where pro:sub|we part|go-PRESP adv|now ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	you haven't got him .
+%mor:	pro:per|you aux|have~neg|not v|get&PAST pro:obj|him .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	MOT adjusts model on structure so that it will walk down hill
+*CHI:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [=! truck noises] .
+%act:	CHI drives lorry along floor
+*CHI:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef CHI stops lorry and sits up
+*MOT:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	how about opening that one (.) and that one (.) and letting it go
+	down there .
+%mor:	adv:int|how adv|about part|open-PRESP pro:rel|that det:num|one
+	coord|and pro:dem|that pro:indef|one coord|and part|let-PRESP
+	pro:per|it v|go adv|down adv|there .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|QUANT 6|3|CONJ 7|8|DET 8|6|COORD
+	9|8|CONJ 10|9|COORD 11|12|SUBJ 12|10|CMOD 13|12|JCT 14|12|JCT
+	15|3|PUNCT
+%gpx:	MOT points to part on the structure as she talks
+*MOT:	&-eh ?
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and bringing him out here .
+%mor:	coord|and part|bring-PRESP pro:obj|him adv|out adv|here .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|5|JCT 5|2|JCT 6|1|PUNCT
+*MOT:	(.) yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [% trn] .
+%gpx:	CHI shakes head
+*MOT:	should we go it down there ?
+%mor:	mod|should pro:sub|we v|go pro:per|it adv|down adv|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|PUNCT
+%act:	model walks down hill as CHI and MOT watch
+*CHI:	(.) no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI shakes head
+%act:	CHI reaches over to pick up lorry
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	leave it there .
+%mor:	v|leave pro:per|it adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%act:	MOT puts hand on toy
+%gpx:	MOT points to appropriate place on structure at word there
+*CHI:	0 [=! whines] .
+*MOT:	no leave it there .
+%mor:	qn|no n|leave pro:per|it adv|there .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*MOT:	and he'll come out there (.) willn't he ?
+%mor:	coord|and pro:sub|he~mod|will v|come adv|out adv|there
+	mod|will~neg|not pro:sub|he ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|JCT 10|4|PUNCT
+%gpx:	MOT points to appropriate place at word there
+*MOT:	if you leave that there [>] .
+%mor:	conj|if pro:per|you v|leave pro:rel|that adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|3|PUNCT
+*CHI:	no [<] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI points finger at toy and shakes head no
+*MOT:	then (.) <he'll> [>] come out there .
+%mor:	adv:tem|then pro:sub|he~mod|will v|come adv|out adv|there .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*CHI:	xxx [<] .
+%gpx:	CHI points finger and shakes head
+*MOT:	<watch [!] watch watch watch watch> [/] watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	toy walks down hill and stops
+*CHI:	0 [>] .
+%gpx:	CHI cocks head and looks at MOT
+*MOT:	<oh (.) he willn't [=! laughs]> [<] .
+%mor:	co|oh pro:sub|he mod|will~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+%act:	MOT looks at camera
+*CHI:	that way [!] [?] .
+%mor:	pro:dem|that n|way .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	CHI picks up lorry and moves it
+*MOT:	oh (.) sorry (.) sorry you know more than me .
+%mor:	co|oh co|sorry co|sorry pro:per|you v|know qn|more prep|than
+	pro:obj|me .
+%gra:	1|5|COM 2|5|COM 3|5|COM 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*MOT:	alright [=! laughs] .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	have it your way .
+%mor:	v|have pro:per|it det:poss|your n|way .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|2|OBJ 5|1|PUNCT
+*CHI:	0 .
+%sit:	CHI puts the toy in place and it walks down hill
+*MOT:	mummy's silly .
+%mor:	n|mummy~poss|s adj|silly .
+%gra:	1|3|MOD 2|1|POSS 3|0|ROOT 4|3|PUNCT
+*MOT:	is mummy silly ?
+%mor:	cop|be&3S n|mummy adj|silly ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	uhuhuhuh@c [=! vocalization] .
+%mor:	chi|uhuhuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI walks toy up stairs
+*CHI:	oh [!] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI plays with toys on structure
+*CHI:	oh you xxx .
+%mor:	co|oh pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%gpx:	CHI points to structure; wants MOT to do it
+*CHI:	oh xxx .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI points to MOT
+*MOT:	0 .
+%act:	MOT makes model walk down hill
+*CHI:	mine next .
+%mor:	n|mine adv|next .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	(.) oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef CHI plays with toys
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh [!] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI plays with toys on structure
+*MOT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI picks toy up
+*MOT:	are you going to show the lady how you do your lego ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|show det:art|the
+	n|lady adv:int|how pro:per|you v|do det:poss|your n|lego ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|MOD 12|10|OBJ 13|1|PUNCT
+*MOT:	&-eh ?
+*MOT:	you gonna do your lego ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|do det:poss|your n|lego ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+*MOT:	there's not a_lot_of lego here mind you Sid .
+%mor:	pro:exist|there~aux|be&3S neg|not qn|a_lot_of n|lego adv|here
+	v|mind pro:per|you n:prop|Sid .
+%gra:	1|2|SUBJ 2|7|LINK 3|2|NEG 4|5|QUANT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|OBJ 10|7|PUNCT
+%act:	dumps lego out of can
+*MOT:	not a lot down .
+%mor:	neg|not det:art|a n|lot adv|down .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I bet you know where all your lego's gone , don't you ?
+%mor:	pro:sub|I v|bet&ZERO pro:per|you v|know adv:int|where qn|all
+	det:poss|your n|lego~poss|s part|go&PASTP cm|cm mod|do~neg|not
+	pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|10|LINK 6|8|QUANT 7|8|MOD
+	8|10|MOD 9|8|POSS 10|4|COMP 11|10|LP 12|14|AUX 13|12|NEG 14|10|OBJ 15|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft CHI begins to piece lego together
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	can't xxx .
+%mor:	mod|can~neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%act:	CHI begins to play with lego
+*CHI:	me sit .
+%mor:	pro:obj|me v|sit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	can't [=! whines] .
+%mor:	mod|can~neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+*MOT:	willn't it go on ?
+%mor:	mod|will~neg|not pro:per|it v|go adv|on ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	oh (.) that's smaller lego (.) that's why .
+%mor:	co|oh pro:dem|that~cop|be&3S adj|small-CP n|lego
+	pro:rel|that~aux|be&3S adv:int|why .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|3|PUNCT
+*MOT:	that willn't go on there .
+%mor:	pro:rel|that mod|will~neg|not v|go prep|on adv|there .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	you have_to build this small lego up separately .
+%mor:	pro:per|you mod:aux|have_to v|build pro:dem|this adj|small n|lego
+	adv|up adv|separate&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|JCT
+	9|3|PUNCT
+*MOT:	that's smaller lego see ?
+%mor:	pro:dem|that~cop|be&3S adj|small-CP n|lego v|see ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*MOT:	what you making ?
+%mor:	pro:int|what pro:per|you part|make-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	MOT leans over to help CHI
+*CHI:	ship .
+%mor:	n|ship .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a ship .
+%mor:	det:art|a n|ship .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh I see .
+%mor:	co|oh pro:sub|I v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	is it going to be a big ship ?
+%mor:	aux|be&3S pro:per|it part|go-PRESP inf|to cop|be det:art|a adj|big
+	n|ship ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|DET 7|8|MOD 8|5|PRED
+	9|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI continues to build with lego
+*CHI:	<little ship> [>] .
+%mor:	adj|little n|ship .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	no [<] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	just a little ship .
+%mor:	adv|just det:art|a adj|little n|ship .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	that big ship .
+%mor:	pro:dem|that adj|big n|ship .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%gpx:	CHI points to the large pieces of lego on floor
+*MOT:	and that's going to be a big ship .
+%mor:	coord|and pro:dem|that~cop|be&3S part|go-PRESP inf|to cop|be
+	det:art|a adj|big n|ship .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|3|PUNCT
+*CHI:	that Meme ship .
+%mor:	pro:rel|that n:prop|Meme n|ship .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%gpx:	CHI points to small pieces of lego in hand
+*MOT:	oh you're building a ship for Mary <are you> [>] ?
+%mor:	co|oh pro:per|you~aux|be&PRES part|build-PRESP det:art|a n|ship
+	prep|for n:prop|Mary aux|be&PRES pro:per|you ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|SUBJ
+	9|10|AUX 10|7|POBJ 11|4|PUNCT
+*CHI:	yeah [<] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh that's a good boy .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*CHI:	xxx .
+*CHI:	that down .
+%mor:	pro:dem|that adv|down .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	CHI looks at MOT
+*MOT:	&-eh ?
+*CHI:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%act:	CHI puts pieces of lego together
+*CHI:	xxx .
+*MOT:	no (.) that one willn't go on there .
+%mor:	qn|no pro:dem|that pro:indef|one mod|will~neg|not v|go prep|on
+	adv|there .
+%gra:	1|2|QUANT 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	all fall down .
+%mor:	qn|all n|fall adv|down .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+%act:	pile of lego falls down
+*MOT:	all fall down .
+%mor:	qn|all n|fall adv|down .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*MOT:	shall mummy have a go ?
+%mor:	mod|shall n|mummy v|have det:art|a v|go ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	MOT leans over and takes lego from CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	see if mummy can +...
+%mor:	v|see conj|if n|mummy mod|can +...
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|2|OM 5|1|PUNCT
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	mummy [>] xxx some more of it .
+%mor:	n|mummy qn|some qn|more prep|of pro:per|it .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|XMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	xxx [<] .
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	MOT put lego piece on model
+*MOT:	that willn't go on there .
+%mor:	pro:rel|that mod|will~neg|not v|go prep|on adv|there .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	0 [=! vocalization] .
+%act:	CHI tries to put same piece on model
+*MOT:	no (.) it willn't go on that one (.) Sam .
+%mor:	co|no pro:per|it mod|will~neg|not v|go adv|on pro:rel|that
+	det:num|one n:prop|Sam .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|QUANT
+	9|5|CJCT 10|5|PUNCT
+*CHI:	xxx .
+*MOT:	that's <all the small lego> [//] all the big lego you've got .
+%mor:	pro:dem|that~cop|be&3S adv|all det:art|the adj|big n|lego
+	pro:per|you~aux|have part|get&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|6|DET 5|6|MOD 6|2|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|2|PUNCT
+*MOT:	down here .
+%mor:	adv|down adv|here .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx .
+%act:	CHI puts piece of lego on model
+*MOT:	I don't know why daddy only bought this sort of lego .
+%mor:	pro:sub|I mod|do~neg|not v|know adv:int|why n|daddy qn|only
+	v|buy&PAST pro:dem|this n|sort prep|of n|lego .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|QUANT 8|4|COMP
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*MOT:	is that your ship ?
+%mor:	cop|be&3S pro:rel|that det:poss|your n|ship ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|MOD 4|2|OBJ 5|1|PUNCT
+%act:	MOT holds ship up to CHI
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that Memem ship .
+%mor:	pro:rel|that n:prop|Memem n|ship .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%gpx:	CHI points to model ship in MOT hand
+*MOT:	oh (.) that's Mary's ship .
+%mor:	co|oh pro:dem|that~cop|be&3S n:prop|Mary~poss|s n|ship .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+@End

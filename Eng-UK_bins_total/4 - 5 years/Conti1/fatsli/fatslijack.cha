@@ -1,0 +1,747 @@
+@UTF8
+@PID:	11312/c-00004609-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Jack Target_Child , FAT Father
+@ID:	eng|Conti1|CHI|4;10.26||||Target_Child|||
+@ID:	eng|Conti1|FAT|29;||||Father|||
+*CHI:	oh look dad .
+%mor:	co|oh co|look n|dad .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%act:	holds straws up to FAT
+*FAT:	oh that's good „ isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S adj|good end|end cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|3|CJCT 7|6|NEG 8|6|PRED
+	9|3|PUNCT
+*FAT:	what shall we make ?
+%mor:	pro:int|what mod|shall pro:sub|we v|make ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	observes CHI's actions
+*CHI:	two , there .
+%mor:	det:num|two cm|cm adv|there .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+*CHI:	need one of them .
+%mor:	v|need det:num|one prep|of pro:obj|them .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%act:	picks up and give straws to FAT
+*FAT:	do I need one of them „ do I ?
+%mor:	mod|do pro:sub|I v|need det:num|one prep|of pro:obj|them end|end
+	mod|do pro:sub|I ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|9|ENDP 8|9|AUX
+	9|3|INCROOT 10|9|PUNCT
+%act:	accepts and looks at straws
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	places two straws together
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	acknowledgement
+%act:	aft observes CHI's actions
+*CHI:	round , in there .
+%mor:	adv|round cm|cm adv|in adv|there .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	picks up straw
+*FAT:	and in there ?
+%mor:	coord|and prep|in adv|there ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	interlocks two straws
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to join straws
+*FAT:	right , and where does the next one go ?
+%mor:	adv|right cm|cm coord|and adv:int|where v|do&3S det:art|the
+	adj|next pro:indef|one v|go ?
+%gra:	1|3|JCT 2|1|LP 3|5|LINK 4|5|LINK 5|0|ROOT 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|5|COMP 10|5|PUNCT
+%act:	looks at CHI
+*CHI:	in there .
+%mor:	prep|in adv|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	looks down at straws in hand
+*FAT:	in where ?
+%mor:	prep|in pro:rel|where ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	looks at CHI's model
+*CHI:	in there !
+%mor:	prep|in adv|there !
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%par:	speaks loudly
+%act:	shows FAT what he has done
+*FAT:	they go in each_other „ do they ?
+%mor:	pro:sub|they v|go prep|in pro:refl|each_other end|end mod|do
+	pro:sub|they ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|ENDP 6|7|AUX 7|2|INCROOT
+	8|7|PUNCT
+%act:	looks at CHI's model and continues working with straws
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes FAT's actions
+*FAT:	let's get a red one .
+%mor:	v|let~pro:obj|us v|get det:art|a n|red pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*FAT:	what colors have you got ?
+%mor:	pro:int|what n|color-PL v|have pro:per|you v|get&PAST ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+%act:	picks up star , looks at straw in CHI's hand
+*CHI:	blue white blue yellow .
+%mor:	adj|blue n|white adj|blue n|yellow .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	blue and green .
+%mor:	adj|blue coord|and n|green .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%act:	looks at straws
+*FAT:	have you got a green one ?
+%mor:	v|have pro:per|you v|get&PAST det:art|a n|green pro:indef|one ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*FAT:	what colors have I got ?
+%mor:	pro:int|what n|color-PL v|have pro:sub|I v|get&PAST ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+%act:	looks down at own model
+*CHI:	blue white red yellow .
+%mor:	adj|blue n|white adj|red n|yellow .
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%gpx:	points to FAT's straws
+*FAT:	ay , I need a green one then „ don't I ?
+%mor:	co|ay cm|cm pro:sub|I v|need det:art|a n|green det:num|one
+	adv:tem|then end|end mod|do~neg|not pro:sub|I ?
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|QUANT 8|6|POSTMOD
+	9|12|ENDP 10|12|AUX 11|10|NEG 12|4|INCROOT 13|12|PUNCT
+%act:	picks up straw
+%exp:	ay = yes
+*CHI:	need one .
+%mor:	v|need pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	picks up a straw
+*FAT:	where's the green one ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|green pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%act:	looks at CHI
+*CHI:	&-uh dere [: there] the green .
+%mor:	adv|there det:art|the n|green .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%act:	picks up green straw and gives to FAT
+*FAT:	oh it's a darker green than the one I've got „ isn't it ?
+%mor:	co|oh pro:per|it~cop|be&3S det:art|a adj|dark-CP n|green prep|than
+	det:art|the pro:indef|one pro:sub|I~aux|have part|get&PASTP end|end
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|14|SUBJ 14|3|CJCT 15|14|NEG
+	16|14|PRED 17|3|PUNCT
+*FAT:	what are we making ?
+%mor:	det:int|what aux|be&PRES pro:sub|we part|make-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	a star ?
+%mor:	det:art|a n|star ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	continues working with straws
+*CHI:	no [/] no the sun .
+%mor:	qn|no det:art|the n|sun .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%act:	looks at FAT
+*FAT:	pardon ?
+%mor:	co|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at CHI
+*CHI:	sun .
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues working with the straws
+*FAT:	oh the sun , oh .
+%mor:	co|oh det:art|the n|sun cm|cm co|oh .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|LP 5|3|ENUM 6|3|PUNCT
+%act:	picks up straw
+*CHI:	the sun .
+%mor:	det:art|the n|sun .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	continues working with the straws
+*FAT:	oh I didn't know we were making the sun .
+%mor:	co|oh pro:sub|I mod|do&PAST~neg|not v|know pro:sub|we aux|be&PAST
+	part|make-PRESP det:art|the n|sun .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|10|DET 10|8|OBJ 11|5|PUNCT
+*FAT:	I thought we were making the star .
+%mor:	pro:sub|I v|think&PAST pro:sub|we aux|be&PAST part|make-PRESP
+	det:art|the n|star .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+%act:	looks up at CHI and smiles
+*CHI:	0 . [+ trn]
+%par:	laughs
+%act:	continues making model
+*FAT:	isn't your dad daft &-eh ?
+%mor:	cop|be&3S~neg|not det:poss|your n|dad adj|daft ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|MOD 4|1|PRED 5|4|PRED 6|1|PUNCT
+*FAT:	here you are , is that right ?
+%mor:	adv|here pro:per|you cop|be&PRES cm|cm aux|be&3S det:dem|that
+	co|right ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|LP 5|6|AUX 6|3|ENUM 7|6|COM 8|3|PUNCT
+%act:	holds model up to CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at FAT's model
+*FAT:	<now , now> [/] now what shall we make ?
+%mor:	adv|now pro:int|what mod|shall pro:sub|we v|make ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	looks towards CHI
+*CHI:	mine look .
+%mor:	n|mine co|look .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%act:	shows model to FAT
+*CHI:	white green white blue blue blue wellow [: yellow] white blue .
+%mor:	adj|white n|green n|white n|blue n|blue adj|blue n|yellow n|white
+	n|blue .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|9|MOD 6|9|MOD 7|9|MOD 8|9|MOD
+	9|0|INCROOT 10|9|PUNCT
+%act:	points to straws
+*FAT:	blue .
+%mor:	adj|blue .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at CHI's model
+*CHI:	<your your> [/] your color .
+%mor:	det:poss|your n|color .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	points to FAT's model
+*FAT:	I don't know , what colors have I got ?
+%mor:	pro:sub|I mod|do~neg|not v|know cm|cm pro:int|what n|color-PL
+	v|have pro:sub|I v|get&PAST ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|LP 6|7|MOD 7|8|SUBJ 8|4|CJCT
+	9|10|SUBJ 10|8|COMP 11|4|PUNCT
+%act:	looks at own model and then at CHI's
+*CHI:	red white blue wellow [: yellow] green green white wellow
+	[: yellow] red duh .
+%mor:	adj|red adj|white adj|blue adj|yellow adj|green adj|green adj|white
+	n|yellow adj|red co|duh .
+%gra:	1|8|MOD 2|8|MOD 3|8|MOD 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|0|INCROOT
+	9|10|MOD 10|8|COM 11|8|PUNCT
+%act:	points to straws in FAT's model
+*FAT:	&+mm .
+*FAT:	shall we go and make something else ?
+%mor:	mod|shall pro:sub|we v|go coord|and v|make pro:indef|something
+	post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|6|PQ 8|3|PUNCT
+%act:	looks at own model and then at CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	what do you wanna make next ?
+%mor:	pro:int|what mod|do pro:per|you v|want~inf|to v|make adv|next ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+%act:	observes CHI's actions
+*CHI:	&-um xxx car .
+%mor:	n|car .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up paper and looks at pictures on it
+*FAT:	oh how do you make a car ?
+%mor:	co|oh adv:int|how mod|do pro:per|you v|make det:art|a n|car ?
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%act:	looks at paper
+*CHI:	look [/] look heel [?] .
+%mor:	co|look n|heel .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	see [/] see heel and straw in .
+%mor:	v|see n|heel coord|and n|straw adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|4|NJCT 6|1|PUNCT
+%act:	points to picture picks up straw
+%exp:	heel = wheel
+*FAT:	put a straw in the wheel ?
+%mor:	v|put&ZERO det:art|a n|straw prep|in det:art|the n|wheel ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%act:	picks up straw , observes CHI's actions
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-uh on one .
+%mor:	adv|on pro:indef|one .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	picks up little wheel and looks into dining room
+%com:	distracted by noise
+*FAT:	look , can you find another one for your Dad ?
+%mor:	co|look cm|cm mod|can pro:per|you v|find qn|another pro:indef|one
+	prep|for det:poss|your n:prop|Dad ?
+%gra:	1|5|COM 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|JCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+%act:	looks amongst straws
+*CHI:	dadada@o xxx in there .
+%mor:	on|dadada adv|in adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+%act:	points to dining room
+*FAT:	pardon ?
+%mor:	co|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks towards dining room
+*CHI:	xxx in there .
+%mor:	prep|in adv|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	points to dining room
+%com:	mother , brother , and one of researchers is in dining room
+*FAT:	none of your business .
+%mor:	pro:indef|none prep|of det:poss|your n|business .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*FAT:	there you are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	I've got a wheel , another wheel .
+%mor:	pro:sub|I~aux|have part|get&PASTP det:art|a n|wheel cm|cm
+	qn|another n|wheel .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|LP 7|8|QUANT 8|5|APP
+	9|3|PUNCT
+*FAT:	<now what do I need> [/] now what do I need ?
+%mor:	adv|now pro:int|what mod|do pro:sub|I v|need ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	picks up wheel and looks at model
+*CHI:	&+mm suh [: some] suh [: some] more (wh)eel .
+%mor:	qn|some qn|some qn|more n|wheel .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%act:	looks at straws and picks one up
+*FAT:	well there's another one .
+%mor:	co|well pro:exist|there~cop|be&3S qn|another pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*FAT:	doesn't look like we've got any more wheels Jack .
+%mor:	mod|do&3S~neg|not cop|look conj|like pro:sub|we~aux|have
+	part|get&PASTP qn|any adv|more n|wheel-PL n:prop|Jack .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|10|QUANT
+	9|10|JCT 10|7|OBJ 11|10|APP 12|3|PUNCT
+*FAT:	we'll have_to make one .
+%mor:	pro:sub|we~mod|will mod:aux|have_to v|make pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	one car between the two of us .
+%mor:	det:num|one n|car prep|between det:art|the det:num|two prep|of
+	pro:obj|us .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+%act:	looks amongst wheels and looks at Jack
+*CHI:	look [/] look xxx xxx them [?] .
+%mor:	co|look pro:obj|them .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%act:	picks up small object
+*FAT:	you can't use +...
+%mor:	pro:per|you mod|can~neg|not v|use +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*FAT:	they aren't the same as them .
+%mor:	pro:sub|they aux|be&PRES~neg|not det:art|the adj|same prep|as
+	pro:obj|them .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|DET 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%act:	looks at CHI
+*CHI:	they are same them .
+%mor:	pro:sub|they cop|be&PRES adj|same pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+%act:	points to small objects
+*FAT:	they're not the same as them though „ are they ?
+%mor:	pro:sub|they~aux|be&PRES neg|not det:art|the adj|same prep|as
+	pro:obj|them adv|though end|end cop|be&PRES pro:sub|they ?
+%gra:	1|8|SUBJ 2|8|AUX 3|2|NEG 4|8|DET 5|8|MOD 6|5|JCT 7|6|POBJ 8|10|JCT
+	9|10|SUBJ 10|0|ROOT 11|10|PRED 12|10|PUNCT
+%act:	holds out model and looks at CHI
+*CHI:	leh [: let] uh [: us] make a car .
+%mor:	v|let&ZERO pro:obj|us v|make det:art|a n|car .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%act:	plays with straws in hand
+*FAT:	okay let's make +...
+%mor:	co|okay v|let~pro:obj|us v|make +...
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*FAT:	we're gonna make a car then .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|make det:art|a n|car
+	adv:tem|then .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|8|SUBJ 8|5|JCT
+	9|3|PUNCT
+*CHI:	here some make a for the house .
+%mor:	adv|here qn|some v|make det:art|a prep|for det:art|the n|house .
+%gra:	1|3|JCT 2|3|QUANT 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%act:	picks up straw
+*FAT:	are you gonna make a house instead ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP~inf|to v|make det:art|a
+	n|house adv|instead ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|1|PUNCT
+%act:	looks at CHI
+*CHI:	no xxx xxx xxx xxx .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to head
+*FAT:	pardon ?
+%mor:	co|pardon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at CHI
+*CHI:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up straws and makes model
+*FAT:	you show me .
+%mor:	pro:per|you v|show pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	I dunno [: don't know] what you wanna make .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:per|you
+	v|want~inf|to v|make .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|XCOMP 10|4|PUNCT
+*FAT:	do you want any more colors ?
+%mor:	mod|do pro:per|you v|want qn|any qn|more n|color-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+%act:	observes CHI's actions
+*CHI:	no (y)ellow (.) green .
+%mor:	qn|no adj|yellow n|green .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	(y)ellow and green .
+%mor:	n|yellow coord|and n|green .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%act:	picks up straws , continues to make model
+*FAT:	0 .
+%act:	picks up straw and holds it out to CHI
+*CHI:	0 .
+%act:	takes straw from FAT , attaches to model , picks up another straw and attaches that
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	<let's put these> [//] let's put some to one side .
+%mor:	v|let~pro:obj|us v|put&ZERO qn|some prep|to det:num|one n|side .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|1|PUNCT
+%act:	moves model made to one side
+*CHI:	green .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	stretches hand out towards straws on the floor
+*FAT:	there [//] there's another green one .
+%mor:	pro:exist|there~cop|be&3S qn|another n|green pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|MOD 5|2|PRED 6|2|PUNCT
+%act:	picks up green straw
+*CHI:	some [/] some more .
+%mor:	qn|some pro:indef|more .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	takes straw from FAT , attaches it and picks up another
+*FAT:	what are you making now ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|make-PRESP adv|now ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|XJCT 5|4|JCT 6|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	fowde [: flower] .
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	flower
+*CHI:	xxx [>] .
+%act:	continues making model
+*FAT:	<a flower> [<] ?
+%mor:	det:art|a n|flower ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	picks up straws and looks at CHI
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues making model
+*FAT:	what then ?
+%mor:	pro:int|what adv:tem|then ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	&-uh know what &-uh making ?
+%mor:	v|know pro:int|what n:gerund|make-PRESP ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|COMP 4|1|PUNCT
+*CHI:	a wheel .
+%mor:	det:art|a n|wheel .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	continues working with model
+*FAT:	a wheel ?
+%mor:	det:art|a n|wheel ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	talks very quietly
+%act:	continues working with model
+*FAT:	a windmill a windwheel@t ?
+%mor:	det:art|a n|windmill det:art|a test|windwheel ?
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	looks at CHI
+%tim:	04:58
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and red [?] .
+%mor:	coord|and adj|red .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	look a xxx xxx xxx .
+%mor:	cop|look det:art|a .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%par:	whispers
+%act:	holds up model and spins it around
+*FAT:	good , isn't it ?
+%mor:	adj|good cm|cm cop|be&3S~neg|not pro:per|it ?
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%par:	laughs
+%act:	looks at CHI and reaches out towards model
+*CHI:	&+aw &+aw .
+*CHI:	you [/] you make one .
+%mor:	pro:per|you v|make pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	looks at FAT , looks at model
+*FAT:	right I'm gonna make a red one .
+%mor:	adv|right pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make det:art|a
+	n|red pro:indef|one .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+*FAT:	mine'll be better than yours .
+%mor:	n|mine~mod|will aux|be adv|good&CP prep|than pro:poss|yours .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*FAT:	mine will be better than yours Jack .
+%mor:	n|mine mod|will cop|be adv|good&CP prep|than pro:poss|yours
+	n:prop|Jack .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|APP 8|3|PUNCT
+*FAT:	&-eh red's your favorite color „ isn't it ?
+%mor:	n|red~aux|be&3S det:poss|your n|favorite n|color end|end
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|MOD 4|5|MOD 5|0|ROOT 6|7|SUBJ 7|5|END 8|7|NEG
+	9|7|PRED 10|5|PUNCT
+%act:	makes model and looks at CHI
+*CHI:	no , green .
+%mor:	co|no cm|cm n|green .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%act:	bef looks towards video camera
+*FAT:	no , red's your fave , just like Liverpool &-eh ?
+%mor:	co|no cm|cm n|red~poss|s det:poss|your n|fave cm|cm adj|just
+	co|like n:prop|Liverpool ?
+%gra:	1|6|COM 2|1|LP 3|6|MOD 4|3|POSS 5|6|MOD 6|0|ROOT 7|6|LP 8|10|JCT
+	9|8|COM 10|6|ENUM 11|6|PUNCT
+%act:	smiles and looks up at CHI
+*CHI:	ah ear ya xxx xxx bah xxx xxx .
+%mor:	co|ah n|ear pro:per|you n|bah .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%act:	snatches FAT's model
+*FAT:	mine's better than yours .
+%mor:	n|mine~poss|s adv|good&CP prep|than pro:poss|yours .
+%gra:	1|3|MOD 2|1|POSS 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	smiles and takes model from CHI
+*CHI:	no mine i(s) .
+%mor:	qn|no n|mine cop|be&3S .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	swivels model around
+*FAT:	mine's better .
+%mor:	n|mine~poss|s adj|good&CP .
+%gra:	1|3|MOD 2|1|POSS 3|0|ROOT 4|3|PUNCT
+*FAT:	oh , you've got more on yours .
+%mor:	co|oh cm|cm pro:per|you~aux|have part|get&PASTP adv|more prep|on
+	pro:poss|yours .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*FAT:	why've you got more on yours than what I've got on mine ?
+%mor:	adv:int|why~aux|have pro:per|you v|get&PAST adv|more adv|on
+	pro:poss|yours prep|than pro:int|what pro:sub|I~aux|have v|get&PAST
+	adv|on pro:poss|mine ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|4|XJCT 8|7|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CPOBJ 13|14|JCT 14|8|POBJ 15|4|PUNCT
+%act:	looks at own model and then at CHI's
+*CHI:	yeah [?] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	examines wheel carefully
+*FAT:	mine's better than yours .
+%mor:	n|mine~poss|s adv|good&CP prep|than pro:poss|yours .
+%gra:	1|3|MOD 2|1|POSS 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%par:	whispers
+%act:	looks at both models
+*CHI:	no i(s) not .
+%mor:	co|no aux|be&3S neg|not .
+%gra:	1|2|COM 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%act:	looks towards camera and looks down at own model
+*FAT:	I can't get that to fasten on Jack .
+%mor:	pro:sub|I mod|can~neg|not v|get pro:dem|that inf|to v|fasten
+	prep|on n:prop|Jack .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%act:	looks at FAT's model
+*FAT:	right what shall we make now ?
+%mor:	adv|right pro:int|what mod|shall pro:sub|we v|make adv|now ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%act:	looks at CHI
+*CHI:	&+mm other [/] other sun .
+%mor:	qn|other n|sun .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	looks at FAT
+*FAT:	another sun ?
+%mor:	qn|another n|sun ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at model
+*FAT:	don't you wanna make something else ?
+%mor:	mod|do~neg|not pro:per|you v|want~inf|to v|make pro:indef|something
+	post|else ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|7|PQ
+	9|4|PUNCT
+%act:	looks at CHI
+*CHI:	&+mm pull [?] .
+%mor:	v|pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	pulls model apart and looks at camera
+*FAT:	don [/] don't you wanna make something else ?
+%mor:	mod|do~neg|not pro:per|you v|want~inf|to v|make pro:indef|something
+	post|else ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|7|PQ
+	9|4|PUNCT
+%act:	looks at CHI
+*CHI:	yeah , want to .
+%mor:	co|yeah cm|cm v|want prep|to .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|JCT 5|1|PUNCT
+%act:	looks around
+*FAT:	what like ?
+%mor:	pro:int|what prep|like ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*FAT:	well , what else do you wanna make ?
+%mor:	co|well cm|cm pro:int|what post|else v|do pro:per|you v|want~inf|to
+	v|make ?
+%gra:	1|5|COM 2|1|LP 3|5|JCT 4|3|PQ 5|0|ROOT 6|5|OBJ 7|5|COMP 8|9|INF
+	9|7|XCOMP 10|5|PUNCT
+%act:	looks at CHI
+*CHI:	&+mm put .
+%mor:	v|put&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	picks up straws and begins to make another model
+*FAT:	(h)ello [?] , what are you making ?
+%mor:	co|hello cm|cm pro:int|what aux|be&PRES pro:per|you part|make-PRESP
+	?
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%act:	picks up straws and observes CHI's actions
+*CHI:	tent [/] tent maysing [: making] .
+%mor:	n|tent part|make-PRESP .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	holds up new model
+*FAT:	oh , you've made a tent ?
+%mor:	co|oh cm|cm pro:per|you~aux|have v|make&PAST det:art|a n|tent ?
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%act:	starts to make model
+*CHI:	yeah , ave [: I've] done it .
+%mor:	co|yeah cm|cm pro:sub|I~aux|have part|do&PASTP pro:per|it .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	(h)ow to make a tent .
+%mor:	adv:int|how inf|to v|make det:art|a n|tent .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	holds up model
+*FAT:	you're having more [/] more success than what I'm having Jack .
+%mor:	pro:per|you~aux|be&PRES part|have-PRESP qn|more n|success prep|than
+	pro:int|what pro:sub|I~aux|be&1S part|have-PRESP n:prop|Jack .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|POBJ 11|10|OBJ 12|3|PUNCT
+%act:	looks at CHI's model
+*CHI:	look , like that .
+%mor:	co|look cm|cm prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%act:	sets model on the floor
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues making model
+*CHI:	por [: your] tent daddy .
+%mor:	det:poss|your n|tent n|daddy .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	looks down at own model , observes FAT's actions
+*FAT:	0 .
+%act:	looks at CHI's model and continues making own
+*CHI:	and some more .
+%mor:	coord|and qn|some pro:indef|more .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*CHI:	li [/] like mine .
+%mor:	conj|like pro:poss|mine .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%act:	looks at FAT's model and then at own .
+*FAT:	<that doesn't> [/] that doesn't look like a tent „ does it ?
+%mor:	pro:dem|that mod|do&3S~neg|not cop|look conj|like det:art|a n|tent
+	end|end mod|do&3S pro:per|it ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|7|DET 7|5|POBJ 8|10|ENDP
+	9|10|AUX 10|4|INCROOT 11|10|PUNCT
+%act:	looks at CHI's model
+*CHI:	yeah it is .
+%mor:	co|yeah pro:per|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	<pk@o> [/] pk@o .
+%mor:	on|pk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ha [: there] dom [: done] .
+%mor:	adv|there part|do&PASTP .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%exp:	hadom = there done
+%act:	waves model around very close to FAT's face
+*FAT:	right , have you done a tent „ have you ?
+%mor:	adv|right cm|cm v|have pro:per|you part|do&PASTP det:art|a n|tent
+	end|end v|have pro:per|you ?
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|XJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|3|COMP 10|9|OBJ 11|3|PUNCT
+*FAT:	<what else do you wanna make> [/] what else do you wanna make ?
+%mor:	pro:int|what post|else v|do pro:per|you v|want~inf|to v|make ?
+%gra:	1|3|LINK 2|1|PQ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|XCOMP 8|3|PUNCT
+%act:	looks at CHI
+*CHI:	xxx xxx xxx house .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	swivels model around
+*FAT:	a house ?
+%mor:	det:art|a n|house ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	speaks softly
+%act:	swivels model around
+*FAT:	have you got a wheel on your house ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a n|wheel prep|on
+	det:poss|your n|house ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%act:	continues to swivel model around
+%com:	no response
+*FAT:	&-eh ?
+%com:	six seconds pass between FAT's previous utterance and "&-eh"
+*FAT:	come on (.) shall we do one of your puzzles then ?
+%mor:	v|come adv|on mod|shall pro:sub|we v|do pro:indef|one prep|of
+	det:poss|your n|puzzle-PL adv:tem|then ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|AUX 4|5|SUBJ 5|1|CJCT 6|5|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|5|JCT 11|1|PUNCT
+%act:	gathers up straws
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	tha(t) [/] tha(t) one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	gets up , picks up puzzle and holds it out to FAT
+*FAT:	do you want to do that one ?
+%mor:	mod|do pro:per|you v|want inf|to v|do pro:dem|that pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%act:	reaches out for jigsaw puzzle
+*CHI:	no , this one .
+%mor:	co|no cm|cm pro:dem|this pro:indef|one .
+%gra:	1|4|COM 2|1|LP 3|4|DET 4|0|ROOT 5|4|PUNCT
+%act:	puts first puzzle down and picks up another one
+*FAT:	this one ?
+%mor:	pro:dem|this pro:indef|one ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	takes jigsaw from CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	fiddles with house
+*FAT:	right then .
+%mor:	adv|right adv:tem|then .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	let's tidy all [/] all this stuff away first .
+%mor:	v|let~pro:obj|us v|tidy qn|all pro:dem|this n|stuff adv|away
+	adv|first .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|6|QUANT 5|6|DET 6|3|OBJ 7|8|JCT 8|3|JCT
+	9|1|PUNCT
+%act:	gathers straws into bag
+*CHI:	0 .
+%act:	picks up bundle of straws
+*FAT:	tidy all this stuff away .
+%mor:	v|tidy qn|all pro:dem|this n|stuff adv|away .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|1|JCT 6|1|PUNCT
+%act:	puts straws in bag
+%tim:	10:03:00
+@End

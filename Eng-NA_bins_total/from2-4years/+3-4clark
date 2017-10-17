@@ -1,0 +1,56 @@
+combo +t%mor +t*CHI +t*CAR +t*BRU +t*LEN +t*JEM +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:39:15 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *CAR; *BRU; *LEN; *JEM;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem35.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha": line 3903.
+*CHI:	where's duh [: the] tin [//] teeny tiny truck ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|teeny (1)adj|tiny (1)n|truck ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha": line 3909.
+*CHI:	teeny (.) tiny truck .
+%mor:	(1)adj|teeny (1)adj|tiny (1)n|truck .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha": line 4018.
+*CHI:	&+a an(d) [//] an(d) dis [: this] is duh [: the] teeny (.) tiny
+	truck an(d) it's gonna go wif dem [: them] .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the (1)adj|teeny (1)adj|tiny
+	(1)n|truck coord|and pro:per|it~aux|be&3S part|go-PRESP~inf|to v|go
+	n|wife pro:obj|them .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem37.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem38.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem40.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem40.cha": line 1802.
+*CHI:	no (.) I ne [//] no (.) I'm not going to the big l [//] big kids'
+	place yet [?] .
+%mor:	co|no pro:sub|I co|no pro:sub|I~cop|be&1S neg|not part|go-PRESP
+	prep|to det:art|the (1)adj|big (1)adj|big (1)n|kid-PL~poss|s n|place adv|yet
+	.
+
+    Strings matched 1 times
+

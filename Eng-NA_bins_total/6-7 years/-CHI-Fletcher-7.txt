@@ -1,0 +1,138 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:54:23 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <bcchr.cha>
+
+    Strings matched 0 times
+
+From file <bcdav.cha>
+
+    Strings matched 0 times
+
+From file <bcemm.cha>
+
+    Strings matched 0 times
+
+From file <bckei.cha>
+----------------------------------------
+*** File "bckei.cha": line 388.
+*INV:	are you doing anything good next weekend ?
+%mor:	cop|be&PRES pro:per|you part|do-PRESP pro:indef|anything (1)adj|good
+	(1)adj|next (1)n|+n|week+n|end ?
+
+    Strings matched 1 times
+
+From file <bckir.cha>
+
+    Strings matched 0 times
+
+From file <bcnin.cha>
+
+    Strings matched 0 times
+
+From file <bcric.cha>
+
+    Strings matched 0 times
+
+From file <bcsar.cha>
+
+    Strings matched 0 times
+
+From file <bibarm.cha>
+
+    Strings matched 0 times
+
+From file <biben.cha>
+
+    Strings matched 0 times
+
+From file <bidanc.cha>
+
+    Strings matched 0 times
+
+From file <biheg.cha>
+----------------------------------------
+*** File "biheg.cha": line 1329.
+*INV:	<are you going to do anything nice> [//] did you do anything nice
+	last weekend ?
+%mor:	v|do&PAST pro:per|you v|do pro:indef|anything (1)adj|nice (1)adj|last
+	(1)n|+n|week+n|end ?
+
+    Strings matched 1 times
+
+From file <bilin.cha>
+
+    Strings matched 0 times
+
+From file <bilisa.cha>
+
+    Strings matched 0 times
+
+From file <bimak.cha>
+
+    Strings matched 0 times
+
+From file <bireb.cha>
+----------------------------------------
+*** File "bireb.cha": line 2406.
+*INV:	my little little sister did and I was angry (be)cause she she
+	wasn't allowed to .
+%mor:	det:poss|my (1)adj|little (1)adj|little (1)n|sister v|do&PAST coord|and
+	pro:sub|I cop|be&PAST&13S adj|angry conj|because pro:sub|she
+	pro:sub|she aux|be&PAST&13S~neg|not part|allow-PASTP prep|to .
+
+    Strings matched 1 times
+
+From file <hnadel.cha>
+
+    Strings matched 0 times
+
+From file <hnclam.cha>
+----------------------------------------
+*** File "hnclam.cha": line 1000.
+*INV:	you got a nice little horse ?
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|nice (1)adj|little (1)n|horse ?
+
+    Strings matched 1 times
+
+From file <hnclap.cha>
+
+    Strings matched 0 times
+
+From file <hnjend.cha>
+----------------------------------------
+*** File "hnjend.cha": line 285.
+*INV:	and have a nice big tea .
+%mor:	coord|and v|have det:art|a (1)adj|nice (1)adj|big (1)n|tea .
+----------------------------------------
+*** File "hnjend.cha": line 650.
+*INV:	there's a nice grey cat that's lying down .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|grey (1)n|cat
+	pro:rel|that~aux|be&3S part|lie-PRESP adv|down .
+
+    Strings matched 2 times
+
+From file <hnjenni.cha>
+
+    Strings matched 0 times
+
+From file <hnkab.cha>
+----------------------------------------
+*** File "hnkab.cha": line 550.
+*INV:	a funny little shed or something .
+%mor:	det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|shed coord|or
+	pro:indef|something .
+
+    Strings matched 1 times
+
+From file <hnpaul.cha>
+
+    Strings matched 0 times
+
+From file <hnster.cha>
+
+    Strings matched 0 times
+

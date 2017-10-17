@@ -1,0 +1,84 @@
+combo +t%mor -t*CHI -t*JEN +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:50:32 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *JEN;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n81.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n81.cha": line 1286.
+*MOT:	you're a pretty big baby . %snd:"n81"_2120312_2122947
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n81.cha": line 1289.
+*MOT:	you're a pretty big baby . %snd:"n81"_2122947_2125816
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|baby .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n82.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n82.cha": line 400.
+*MOT:	a little tiny seed . %snd:"n82"_710254_711956
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|seed .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n83.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n84.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n84.cha": line 1320.
+*FAT:	a little less noise please (.) Naomi . %snd:"n84"_1634868_1637820
+%mor:	det:art|a (1)adj|little (1)adj|less (1)n|noise co|please n:prop|Naomi .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n85.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n85.cha": line 414.
+*FAT:	that was a pretty good example . %snd:"n85"_434286_436654
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|example .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n85.cha": line 782.
+*MOT:	crash (.) poor old babies . %snd:"n85"_854761_858713
+%mor:	v|crash (1)adj|poor (1)adj|old (1)n|baby-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n86.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n87.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n88.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n89na.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n89na.cha": line 605.
+*MOT:	+" eensie weensie spider .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n89na.cha": line 2047.
+*MOT:	great huge giant .
+%mor:	(1)adj|great (1)adj|huge (1)n|giant .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n90.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Sachs/n90.cha": line 408.
+*MOT:	xxx different little things to do the game okay . %snd:"n90"_255192_262547
+%mor:	(1)adj|different (1)adj|little (1)n|thing-PL inf|to v|do det:art|the n|game
+	adj|okay .
+
+    Strings matched 1 times
+

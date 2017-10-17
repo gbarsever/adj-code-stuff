@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00004954-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;03.17||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&-um 0 [*] comes in my room without asking and mucks up all my room
+	.
+%mor:	v|come-3S prep|in det:poss|my n|room prep|without
+	n:gerund|ask-PRESP coord|and v|muck-3S prep|up adv|all det:poss|my
+	n|room .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|JCT 6|5|POBJ 7|1|CONJ 8|7|COORD
+	9|8|JCT 10|12|JCT 11|12|MOD 12|9|POBJ 13|1|PUNCT
+%err:	0 = subject
+*CHI:	and then he embarrasses me in front of my friends and stuff like
+	that .
+%mor:	coord|and adv:tem|then pro:sub|he v|embarrass-3S pro:obj|me prep|in
+	n|front prep|of det:poss|my n|friend-PL coord|and n|stuff prep|like
+	pro:dem|that .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|10|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*INV:	anything else ?
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,289 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:14:48 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <amy1.cha>
+
+    Strings matched 0 times
+
+From file <amy2.cha>
+
+    Strings matched 0 times
+
+From file <andrew1.cha>
+
+    Strings matched 0 times
+
+From file <andrew2.cha>
+----------------------------------------
+*** File "andrew2.cha": line 285.
+*ADU:	that looks real good Andrew .
+%mor:	pro:dem|that cop|look-3S (1)adj|real (1)adj|good (1)n:prop|Andrew .
+----------------------------------------
+*** File "andrew2.cha": line 1226.
+*ADU:	oh , poor little doggie .
+%mor:	co|oh cm|cm (1)adj|poor (1)adj|little (1)n|dog-DIM .
+
+    Strings matched 2 times
+
+From file <ben1.cha>
+
+    Strings matched 0 times
+
+From file <ben2.cha>
+
+    Strings matched 0 times
+
+From file <bree2.cha>
+
+    Strings matched 0 times
+
+From file <brent2.cha>
+
+    Strings matched 0 times
+
+From file <chris2.cha>
+----------------------------------------
+*** File "chris2.cha": line 495.
+*ADU:	and you drive for a long long time ?
+%mor:	coord|and pro:per|you v|drive prep|for det:art|a (1)adj|long (1)adj|long
+	(1)n|time ?
+----------------------------------------
+*** File "chris2.cha": line 1068.
+*ADU:	did any of them have big old sails ?
+%mor:	v|do&PAST qn|any prep|of pro:obj|them v|have (1)adj|big (1)adj|old
+	(1)n|sail-PL ?
+----------------------------------------
+*** File "chris2.cha": line 1359.
+*ADU:	are you a dirty rotten pig or a dirty nice pig ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|dirt&dn-Y (1)adj|rotten (1)n|pig
+	coord|or det:art|a (2)adj|dirt&dn-Y (2)adj|nice (2)n|pig ?
+----------------------------------------
+*** File "chris2.cha": line 1407.
+*ADU:	poor little doggie let us put him away .
+%mor:	(1)adj|poor (1)adj|little (1)n|dog-DIM v|let&ZERO pro:obj|us v|put&ZERO
+	pro:obj|him adv|away .
+----------------------------------------
+*** File "chris2.cha": line 1443.
+*ADU:	it was the pig that was messy last time .
+%mor:	pro:per|it cop|be&PAST&13S det:art|the n|pig pro:rel|that
+	cop|be&PAST&13S (1)adj|mess&dn-Y (1)adj|last (1)n|time .
+----------------------------------------
+*** File "chris2.cha": line 1457.
+*ADU:	did you sleep good last night ?
+%mor:	v|do&PAST pro:per|you v|sleep (1)adj|good (1)adj|last (1)n|night ?
+
+    Strings matched 7 times
+
+From file <david1.cha>
+----------------------------------------
+*** File "david1.cha": line 1051.
+*ADU:	oh , this is a great big egg .
+%mor:	co|oh cm|cm pro:dem|this cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|egg .
+----------------------------------------
+*** File "david1.cha": line 1545.
+*ADU:	a great big candy bar .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|candy n|bar .
+
+    Strings matched 2 times
+
+From file <david2.cha>
+
+    Strings matched 0 times
+
+From file <graham1.cha>
+
+    Strings matched 0 times
+
+From file <graham2.cha>
+----------------------------------------
+*** File "graham2.cha": line 676.
+*ADU:	a great big car .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|car .
+
+    Strings matched 1 times
+
+From file <jenny1.cha>
+----------------------------------------
+*** File "jenny1.cha": line 18.
+*ADU:	well you're quite a very lovable little kid .
+%mor:	co|well pro:per|you~aux|be&PRES adv|quite det:art|a adv|very
+	(1)adj|love&dv-ABLE (1)adj|little (1)n|kid .
+
+    Strings matched 1 times
+
+From file <jenny2.cha>
+----------------------------------------
+*** File "jenny2.cha": line 220.
+*ADU:	that sounds like a pretty good deal .
+%mor:	pro:dem|that n|sound-PL prep|like det:art|a (1)adj|pretty (1)adj|good
+	(1)n|deal .
+----------------------------------------
+*** File "jenny2.cha": line 375.
+*ADU:	you nice little girl .
+%mor:	pro:per|you (1)adj|nice (1)adj|little (1)n|girl .
+
+    Strings matched 2 times
+
+From file <jessica1.cha>
+----------------------------------------
+*** File "jessica1.cha": line 602.
+*ADU:	I don't want that yucky [>] old koolaid .
+%mor:	pro:sub|I mod|do~neg|not v|want pro:dem|that (1)adj|yuck&dn-Y (1)adj|old
+	(1)n|koolaid .
+----------------------------------------
+*** File "jessica1.cha": line 616.
+*ADU:	it looks like yucky old play+dough to me .
+%mor:	pro:per|it cop|look-3S prep|like (1)adj|yuck&dn-Y (1)adj|old
+	(1)n|+n|play+n|dough prep|to pro:obj|me .
+
+    Strings matched 2 times
+
+From file <jessica2.cha>
+
+    Strings matched 0 times
+
+From file <justin1a.cha>
+
+    Strings matched 0 times
+
+From file <justin1b.cha>
+
+    Strings matched 0 times
+
+From file <justin2.cha>
+----------------------------------------
+*** File "justin2.cha": line 1868.
+*ADU:	I got a little bitty piece .
+%mor:	pro:sub|I v|get&PAST det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|piece .
+
+    Strings matched 1 times
+
+From file <lara1.cha>
+
+    Strings matched 0 times
+
+From file <lara2.cha>
+
+    Strings matched 0 times
+
+From file <matjoy1.cha>
+
+    Strings matched 0 times
+
+From file <matjoy2.cha>
+
+    Strings matched 0 times
+
+From file <mattm1.cha>
+----------------------------------------
+*** File "mattm1.cha": line 762.
+*ADU:	what happened to the big round thing we had ?
+%mor:	pro:int|what v|happen-PAST prep|to det:art|the (1)adj|big (1)adj|round
+	(1)n|thing pro:sub|we v|have&PAST ?
+----------------------------------------
+*** File "mattm1.cha": line 854.
+*ADU:	there's a big round thing .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|round (1)n|thing .
+----------------------------------------
+*** File "mattm1.cha": line 1306.
+*ADU:	you have a little bitty snake .
+%mor:	pro:per|you v|have det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|snake .
+
+    Strings matched 3 times
+
+From file <mattm2.cha>
+----------------------------------------
+*** File "mattm2.cha": line 833.
+*ADU:	poor little puppy .
+%mor:	(1)adj|poor (1)adj|little (1)n|puppy .
+----------------------------------------
+*** File "mattm2.cha": line 857.
+*ADU:	poor little horsie .
+%mor:	(1)adj|poor (1)adj|little (1)n|horse-DIM .
+----------------------------------------
+*** File "mattm2.cha": line 902.
+*ADU:	oh , I think you hurt him , poor little pig .
+%mor:	co|oh cm|cm pro:sub|I v|think pro:per|you v|hurt&ZERO pro:obj|him
+	cm|cm (1)adj|poor (1)adj|little (1)n|pig .
+
+    Strings matched 3 times
+
+From file <megan1.cha>
+
+    Strings matched 0 times
+
+From file <megan2.cha>
+
+    Strings matched 0 times
+
+From file <nikki1a.cha>
+
+    Strings matched 0 times
+
+From file <nikki1b.cha>
+
+    Strings matched 0 times
+
+From file <nikki2a.cha>
+
+    Strings matched 0 times
+
+From file <nikki2b.cha>
+
+    Strings matched 0 times
+
+From file <rachel1.cha>
+----------------------------------------
+*** File "rachel1.cha": line 452.
+*ADU:	can they little bitty balls ?
+%mor:	mod|can pro:sub|they (1)adj|little (1)adj|bit&dn-Y (1)n|ball-PL ?
+----------------------------------------
+*** File "rachel1.cha": line 458.
+*ADU:	I'll make little bitty balls for party favors .
+%mor:	pro:sub|I~mod|will v|make (1)adj|little (1)adj|bit&dn-Y (1)n|ball-PL
+	prep|for n|party n|favor-PL .
+----------------------------------------
+*** File "rachel1.cha": line 974.
+*ADU:	a brand new real car ?
+%mor:	det:art|a adj|brand (1)adj|new (1)adj|real (1)n|car ?
+
+    Strings matched 3 times
+
+From file <rachel2.cha>
+
+    Strings matched 0 times
+
+From file <shea2.cha>
+----------------------------------------
+*** File "shea2.cha": line 739.
+*ADU:	a little bitty pot and a little bitty bed and she's big .
+%mor:	det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|pot coord|and det:art|a
+	(2)adj|little (2)adj|bit&dn-Y (2)n|bed coord|and pro:sub|she~cop|be&3S
+	adj|big .
+
+    Strings matched 2 times
+
+From file <susan1.cha>
+
+    Strings matched 0 times
+
+From file <susan2.cha>
+
+    Strings matched 0 times
+
+From file <walter1.cha>
+
+    Strings matched 0 times
+
+From file <walter2a.cha>
+
+    Strings matched 0 times
+
+From file <walter2b.cha>
+
+    Strings matched 0 times
+

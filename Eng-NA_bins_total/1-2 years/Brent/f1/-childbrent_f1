@@ -1,0 +1,70 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:04:35 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <f1-1304.cha>
+----------------------------------------
+*** File "f1-1304.cha": line 1322.
+*MOT:	where's my handsome little son ? %snd:"f1-f11apr97"_2996803_2998070
+%mor:	adv:int|where~cop|be&3S det:poss|my (1)adj|handsome (1)adj|little (1)n|son ?
+----------------------------------------
+*** File "f1-1304.cha": line 1325.
+*MOT:	where's my handsome little son ? %snd:"f1-f11apr97"_2999017_3000797
+%mor:	adv:int|where~cop|be&3S det:poss|my (1)adj|handsome (1)adj|little (1)n|son ?
+----------------------------------------
+*** File "f1-1304.cha": line 1846.
+*MOT:	little red caboose [=! sung] . %snd:"f1-f11apr97"_4278747_4279760
+%mor:	(1)adj|little (1)adj|red (1)n|caboose .
+----------------------------------------
+*** File "f1-1304.cha": line 1849.
+*MOT:	little red caboose behind the train [=! sung] . %snd:"f1-f11apr97"_4280093_4282103
+%mor:	(1)adj|little (1)adj|red (1)n|caboose n|behind det:art|the n|train .
+
+    Strings matched 4 times
+
+From file <f1-1402.cha>
+----------------------------------------
+*** File "f1-1402.cha": line 1119.
+*MOT:	funny (.) orange hue to it now . %snd:"f1-f9may97"_2134360_2136540
+%mor:	(1)adj|fun&dn-Y (1)adj|orange (1)n|hue prep|to pro:per|it adv|now .
+
+    Strings matched 1 times
+
+From file <f1-1424.cha>
+----------------------------------------
+*** File "f1-1424.cha": line 426.
+*MOT:	nice little rose plant . %snd:"f1-h31may97"_469745_470922
+%mor:	(1)adj|nice (1)adj|little (1)n|rose n|plant .
+----------------------------------------
+*** File "f1-1424.cha": line 1375.
+*MOT:	you got the cutest little baby face [=! sung] . %snd:"f1-h31may97"_2409330_2411888
+%mor:	pro:per|you v|get&PAST det:art|the (1)adj|cute-SP (1)adj|little (1)n|baby
+	n|face .
+----------------------------------------
+*** File "f1-1424.cha": line 2752.
+*MOT:	the fuzzy pink panther ? %snd:"f1-h31may97"_4419656_4420932
+%mor:	det:art|the (1)adj|fuzz&dn-Y (1)adj|pink (1)n|panther ?
+----------------------------------------
+*** File "f1-1424.cha": line 2755.
+*MOT:	I mean fuzzy little panther . %snd:"f1-h31may97"_4421071_4422330
+%mor:	pro:sub|I v|mean (1)adj|fuzz&dn-Y (1)adj|little (1)n|panther .
+
+    Strings matched 4 times
+
+From file <f1-1504.cha>
+----------------------------------------
+*** File "f1-1504.cha": line 191.
+*MOT:	and this big old lid &=noise . %snd:"f1-w11jun97"_303391_305289
+%mor:	coord|and pro:dem|this (1)adj|big (1)adj|old (1)n|lid .
+----------------------------------------
+*** File "f1-1504.cha": line 1440.
+*MOT:	alright let's see if we can grab a piece of this old good old stuff
+	in here ! %snd:"f1-w11jun97"_3072119_3076383
+%mor:	co|alright v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|grab
+	det:art|a n|piece prep|of pro:dem|this adj|old (1)adj|good (1)adj|old
+	(1)n|stuff prep|in adv|here !
+
+    Strings matched 2 times
+

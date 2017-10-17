@@ -1,0 +1,69 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:15:19 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <t1-1205.cha>
+----------------------------------------
+*** File "t1-1205.cha": line 456.
+*MOT:	the itsy bitsy spider went up (.) the water spout [=! sung] . %snd:"t1-f23feb01"_1484547_1489403
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "t1-1205.cha": line 471.
+*MOT:	so the itsy bitsy spider (..) went up (..) the spout (.) again
+	[=! sung] . %snd:"t1-f23feb01"_1500973_1506613
+%mor:	adv|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "t1-1205.cha": line 688.
+*MOT:	it was Clifford , (.) the big red dog ? %snd:"t1-f23feb01"_1812780_1815080
+%mor:	pro:per|it cop|be&PAST&13S n:prop|Clifford cm|cm det:art|the
+	(1)adj|big (1)adj|red (1)n|dog ?
+----------------------------------------
+*** File "t1-1205.cha": line 753.
+*MOT:	that's little bitty Clifford . %snd:"t1-f23feb01"_1877977_1879273
+%mor:	pro:dem|that~cop|be&3S (1)adj|little (1)adj|bit&dn-Y (1)n:prop|Clifford .
+----------------------------------------
+*** File "t1-1205.cha": line 959.
+*MOT:	the itsy bitsy spider went up the water spout [=! sung] . %snd:"t1-f23feb01"_2383933_2388120
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "t1-1205.cha": line 974.
+*MOT:	so the itsy bitsy spider went up the spout again [=! sung] . %snd:"t1-f23feb01"_2397343_2401913
+%mor:	adv|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+
+    Strings matched 6 times
+
+From file <t1-1219.cha>
+
+    Strings matched 0 times
+
+From file <t1-1310.cha>
+
+    Strings matched 0 times
+
+From file <t1-1319.cha>
+----------------------------------------
+*** File "t1-1319.cha": line 389.
+*MOT:	you're a good little boy . %snd:"t1-f6apr01"_754137_755637
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <t1-1416.cha>
+----------------------------------------
+*** File "t1-1416.cha": line 187.
+*MOT:	I made up the last last night . %snd:"t1-f4may01"_248340_250073
+%mor:	pro:sub|I v|make&PAST adv|up det:art|the (1)adj|last (1)adj|last (1)n|night
+	.
+----------------------------------------
+*** File "t1-1416.cha": line 2088.
+*MOT:	got little soft [?] ball . %snd:"t1-f4may01"_3431087_3432703
+%mor:	v|get&PAST (1)adj|little (1)adj|soft (1)n|ball .
+
+    Strings matched 2 times
+

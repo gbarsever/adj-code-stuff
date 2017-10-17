@@ -1,0 +1,54 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:39:02 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <she01.cha>
+
+    Strings matched 0 times
+
+From file <she02.cha>
+
+    Strings matched 0 times
+
+From file <she03.cha>
+
+    Strings matched 0 times
+
+From file <she04.cha>
+----------------------------------------
+*** File "she04.cha": line 2415.
+*CHI:	no in there okay okay Mama ?
+%mor:	co|no adv|in adv|there (1)adj|okay (1)adj|okay (1)n:prop|Mama ?
+
+    Strings matched 1 times
+
+From file <she05.cha>
+
+    Strings matched 0 times
+
+From file <she06.cha>
+
+    Strings matched 0 times
+
+From file <she07.cha>
+
+    Strings matched 0 times
+
+From file <she08.cha>
+
+    Strings matched 0 times
+
+From file <she09.cha>
+
+    Strings matched 0 times
+
+From file <she10.cha>
+----------------------------------------
+*** File "she10.cha": line 543.
+*CHI:	bad ol(d) Mama .
+%mor:	(1)adj|bad (1)adj|old (1)n:prop|Mama .
+
+    Strings matched 1 times
+

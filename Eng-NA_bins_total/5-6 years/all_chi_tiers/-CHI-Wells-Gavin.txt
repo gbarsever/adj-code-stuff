@@ -1,0 +1,51 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:25:51 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gavin02.cha>
+
+    Strings matched 0 times
+
+From file <gavin03.cha>
+
+    Strings matched 0 times
+
+From file <gavin04.cha>
+
+    Strings matched 0 times
+
+From file <gavin05.cha>
+----------------------------------------
+*** File "gavin05.cha": line 477.
+*MOT:	funny little boy .
+%mor:	(1)adj|fun&dn-Y (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <gavin07.cha>
+
+    Strings matched 0 times
+
+From file <gavin08.cha>
+----------------------------------------
+*** File "gavin08.cha": line 53.
+*MOT:	he got wet last night didn't he (4.) ?
+%mor:	pro:sub|he v|get&PAST (1)adj|wet (1)adj|last (1)n|night mod|do&PAST~neg|not
+	pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <gavin09.cha>
+
+    Strings matched 0 times
+
+From file <gavin10.cha>
+
+    Strings matched 0 times
+
+From file <gavin21.cha>
+
+    Strings matched 0 times
+

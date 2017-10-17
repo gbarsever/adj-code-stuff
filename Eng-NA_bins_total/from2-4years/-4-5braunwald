@@ -1,0 +1,241 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:57:30 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-11a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-11b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-17.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-29a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-02-29b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-01.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-01b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-07.cha": line 1471.
+*MOT:	<you don't eat this little> [<] fuzzy part . %snd:"4-03-07"_731250_733851
+%mor:	pro:per|you mod|do~neg|not v|eat pro:dem|this (1)adj|little
+	(1)adj|fuzz&dn-Y (1)n|part .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-07.cha": line 1862.
+*SIS:	and a tiny little bit of mayonnaise . %snd:"4-03-07"_996373_999008
+%mor:	coord|and det:art|a (1)adj|tiny (1)adj|little (1)n|bit prep|of n|mayonnaise
+	.
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-07b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1137.
+*MOT:	does this tall skinny glass +... [+ IN] %snd:"4-03-11c"_697729_700097
+%mor:	mod|do&3S pro:dem|this (1)adj|tall (1)adj|skin&dn-Y (1)n|glass +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1146.
+*MOT:	in this short fat glass . %snd:"4-03-11c"_703988_705811
+%mor:	prep|in pro:dem|this (1)adj|short (1)adj|fat (1)n|glass .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1192.
+*MOT:	I'm gonna pour the water from this short fat glass in to this tall thin glass . %snd:"4-03-11c"_724487_728899
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|pour det:art|the n|water
+	prep|from pro:dem|this (1)adj|short (1)adj|fat (1)n|glass adv|in prep|to
+	pro:dem|this (2)adj|tall (2)adj|thin (2)n|glass .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1199.
+*MOT:	and you tell me if I have the same amount of water as in this short little fat glass . %snd:"4-03-11c"_729110_733963
+%mor:	coord|and pro:per|you v|tell pro:obj|me conj|if pro:sub|I v|have
+	det:art|the adj|same n|amount prep|of n|water conj|as prep|in
+	pro:dem|this (1)adj|short (1)adj|little (1)n|fat n|glass .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1231.
+*MOT:	I'm gonna take this water in the tall skinny clear glass +... [+ IN]
+	%snd:"4-03-11c"_742675_746170
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|take pro:dem|this
+	n|water prep|in det:art|the adj|tall (1)adj|skin&dn-Y (1)adj|clear (1)n|glass
+	+...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1682.
+*MOT:	and is [/] is the tall blue glass the same amount as the mug ? %snd:"4-03-11c"_1048611_1052581
+%mor:	coord|and cop|be&3S det:art|the (1)adj|tall (1)adj|blue (1)n|glass
+	det:art|the adj|same n|amount prep|as det:art|the n|mug ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 1882.
+*MOT:	the tall thin cup has more ? %snd:"4-03-11c"_1134122_1136061
+%mor:	det:art|the (1)adj|tall (1)adj|thin (1)n|cup aux|have&3S pro:indef|more ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-03-11c.cha": line 2780.
+*SIS:	why did you break it in tiny little pieces like Mummy . %snd:"4-03-11c"_1688304_1691554
+%mor:	adv:int|why mod|do&PAST pro:per|you v|break pro:per|it prep|in
+	(1)adj|tiny (1)adj|little (1)n|piece-PL co|like n:prop|Mummy .
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-11a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-11b.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-11c.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-11d.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18b.cha": line 28.
+*MOT:	short brown hair ? %snd:"4-07-18b"_12755_14008
+%mor:	(1)adj|short (1)adj|brown (1)n|hair ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18c.cha": line 406.
+*MOT:	I can give you a nice fresh ham for your mother's birthday . [+ R] %snd:"4-07-18c"_224191_227233
+%mor:	pro:sub|I mod|can v|give pro:per|you det:art|a (1)adj|nice (1)adj|fresh
+	(1)n|ham prep|for det:poss|your n|mother~poss|s n|+n|birth+n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18c.cha": line 1316.
+*MOT:	that big long tall part . %snd:"4-07-18c"_659560_659562
+%mor:	pro:dem|that adj|big (1)adj|long (1)adj|tall (1)n|part .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18d.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-07-18e.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 339.
+*MOT:	0 [% pet's name] died very late last night . %snd:"4-10-xx"_219905_222807
+%mor:	v|die-PAST adv|very (1)adj|late (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 348.
+*MOT:	and I felt very sad last night . %snd:"4-10-xx"_245774_248246
+%mor:	coord|and pro:sub|I v|feel&PAST adv|very (1)adj|sad (1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 351.
+*MOT:	Daddy and I felt very sad last night . %snd:"4-10-xx"_248246_250894
+%mor:	n:prop|Daddy coord|and pro:sub|I v|feel&PAST adv|very (1)adj|sad
+	(1)adj|last (1)n|night .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 2345.
+*MOT:	if they don't fit let's collect them and give them to someone with a new born baby and I'll replace them for Santa_Claus . %snd:"4-10-xx"_1922008_1928254
+%mor:	conj|if pro:sub|they mod|do~neg|not v|fit&ZERO v|let~pro:obj|us
+	v|collect pro:obj|them coord|and v|give pro:obj|them prep|to
+	pro:indef|someone prep|with det:art|a (1)adj|new (1)adj|born (1)n|baby
+	coord|and pro:sub|I~mod|will re#v|place pro:obj|them prep|for
+	n:prop|Santa_Claus .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 2373.
+*MOT:	we'll give these to somebody with a new born baby and we'll get the size that will fit . %snd:"4-10-xx"_1939844_1944848
+%mor:	pro:sub|we~mod|will v|give pro:dem|these prep|to pro:indef|somebody
+	prep|with det:art|a (1)adj|new (1)adj|born (1)n|baby coord|and
+	pro:sub|we~mod|will v|get det:art|the n|size pro:dem|that mod|will
+	v|fit&ZERO .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 2660.
+*MOT:	then you'll save them for my friend who has a new born baby . %snd:"4-10-xx"_2144118_2147973
+%mor:	adv:tem|then pro:per|you~mod|will v|save pro:obj|them prep|for
+	det:poss|my n|friend pro:rel|who v|have&3S det:art|a (1)adj|new
+	(1)adj|born (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 3094.
+*MOT:	but [/] but did you see they have a beautiful live tree . %snd:"4-10-xx"_2686895_2689728
+%mor:	conj|but mod|do&PAST pro:per|you v|see pro:sub|they v|have
+	det:art|a (1)adj|beautiful (1)adj|live (1)n|tree .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 3352.
+*MOT:	you got a beautiful new bus for Christmas . %snd:"4-10-xx"_2953091_2955436
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|beautiful (1)adj|new (1)n|bus
+	prep|for n:prop|Christmas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7486.
+*MOT:	this big tall skinny cup . %snd:"4-10-xx"_5787657_5789456
+%mor:	pro:dem|this adj|big (1)adj|tall (1)adj|skin&dn-Y (1)n|cup .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7588.
+*MOT:	it has more in the big skinny cup because it has a different shape bottom ? %snd:"4-10-xx"_5832596_5837263
+%mor:	pro:per|it aux|have&3S adv|more prep|in det:art|the (1)adj|big
+	(1)adj|skin&dn-Y (1)n|cup conj|because pro:per|it aux|have&3S det:art|a
+	adj|different n|shape adj|bottom ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7742.
+*MOT:	pour [?] that in the little blue cup . %snd:"4-10-xx"_5898972_5901573
+%mor:	v|pour pro:dem|that prep|in det:art|the (1)adj|little (1)adj|blue (1)n|cup .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7768.
+*MOT:	are you gonna [: going to] put it back <in the> [/] in the tall white cup [>] . %snd:"4-10-xx"_5912554_5916339
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|put&ZERO pro:per|it
+	adv|back prep|in det:art|the (1)adj|tall (1)adj|white (1)n|cup .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7789.
+*MOT:	<the short now> [//] the short wide cup gets filled all the way up and the tall narrow cup gets filled all the way up . %snd:"4-10-xx"_5922887_5929783
+%mor:	det:art|the (1)adj|short (1)adj|wide (1)n|cup v|get-3S v|fill-PAST qn|all
+	det:art|the n|way adv|up coord|and det:art|the (2)adj|tall (2)adj|narrow
+	(2)n|cup v|get-3S v|fill-PAST qn|all det:art|the n|way adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7833.
+*MOT:	short wide into the taller identical cup . %snd:"4-10-xx"_5943566_5946678
+%mor:	adj|short adj|wide prep|into det:art|the (1)adj|tall-CP (1)adj|identical
+	(1)n|cup .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Braunwald/4-10-xx.cha": line 7880.
+*MOT:	so that's the tall narrow cup .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the (1)adj|tall (1)adj|narrow (1)n|cup
+	.
+
+    Strings matched 16 times
+

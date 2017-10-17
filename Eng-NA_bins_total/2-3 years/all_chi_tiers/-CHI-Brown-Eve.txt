@@ -1,0 +1,249 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:47:44 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <eve01.cha>
+
+    Strings matched 0 times
+
+From file <eve02.cha>
+----------------------------------------
+*** File "eve02.cha": line 369.
+*MOT:	he's holding a great big cigar .
+%mor:	pro:sub|he~aux|be&3S part|hold-PRESP det:art|a (1)adj|great (1)adj|big
+	(1)n|cigar .
+----------------------------------------
+*** File "eve02.cha": line 1037.
+*COL:	oh that's a nice big ball (.) „ isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|ball
+	end|end cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <eve03.cha>
+
+    Strings matched 0 times
+
+From file <eve04.cha>
+----------------------------------------
+*** File "eve04.cha": line 823.
+*COL:	there's a nice clean page .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|clean (1)n|page .
+
+    Strings matched 1 times
+
+From file <eve05.cha>
+
+    Strings matched 0 times
+
+From file <eve06.cha>
+----------------------------------------
+*** File "eve06.cha": line 3417.
+*MOT:	here's a nice new page for you .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|nice (1)adj|new (1)n|page prep|for
+	pro:per|you .
+
+    Strings matched 1 times
+
+From file <eve07.cha>
+
+    Strings matched 0 times
+
+From file <eve08.cha>
+----------------------------------------
+*** File "eve08.cha": line 9930.
+*COL:	a big curly tail .
+%mor:	det:art|a (1)adj|big (1)adj|curl&dv-Y (1)n|tail .
+
+    Strings matched 1 times
+
+From file <eve09.cha>
+
+    Strings matched 0 times
+
+From file <eve10.cha>
+----------------------------------------
+*** File "eve10.cha": line 3391.
+*COL:	you forgot about my nice red bag .
+%mor:	pro:per|you v|forget&PAST prep|about det:poss|my (1)adj|nice (1)adj|red
+	(1)n|bag .
+----------------------------------------
+*** File "eve10.cha": line 5361.
+*MOT:	your new clean blanket's up in your bed .
+%mor:	det:poss|your (1)adj|new (1)adj|clean (1)n|blanket~poss|s adv|up prep|in
+	det:poss|your n|bed .
+----------------------------------------
+*** File "eve10.cha": line 5385.
+*COL:	Eve (.) is it a clean new blanket ?
+%mor:	n:prop|Eve aux|be&3S pro:per|it det:art|a (1)adj|clean (1)adj|new
+	(1)n|blanket ?
+----------------------------------------
+*** File "eve10.cha": line 5396.
+*COL:	clean new blanket ?
+%mor:	(1)adj|clean (1)adj|new (1)n|blanket ?
+----------------------------------------
+*** File "eve10.cha": line 5406.
+*COL:	new clean blanket ?
+%mor:	(1)adj|new (1)adj|clean (1)n|blanket ?
+
+    Strings matched 5 times
+
+From file <eve11.cha>
+
+    Strings matched 0 times
+
+From file <eve12.cha>
+
+    Strings matched 0 times
+
+From file <eve13.cha>
+----------------------------------------
+*** File "eve13.cha": line 4006.
+*COL:	my big long coat ?
+%mor:	det:poss|my (1)adj|big (1)adj|long (1)n|coat ?
+
+    Strings matched 1 times
+
+From file <eve14.cha>
+----------------------------------------
+*** File "eve14.cha": line 2635.
+*MOT:	oh ‡ the big round cook .
+%mor:	co|oh beg|beg det:art|the (1)adj|big (1)adj|round (1)n|cook .
+----------------------------------------
+*** File "eve14.cha": line 2640.
+*MOT:	no (.) ‡ that's not the big round cook .
+%mor:	co|no beg|beg pro:dem|that~cop|be&3S neg|not det:art|the (1)adj|big
+	(1)adj|round (1)n|cook .
+
+    Strings matched 2 times
+
+From file <eve15.cha>
+
+    Strings matched 0 times
+
+From file <eve16.cha>
+----------------------------------------
+*** File "eve16.cha": line 1226.
+*MOT:	it will make a great big hole if you put it in there again .
+%mor:	pro:per|it mod|will v|make det:art|a (1)adj|great (1)adj|big (1)n|hole
+	conj|if pro:per|you v|put&ZERO pro:per|it prep|in adv|there
+	adv|again .
+----------------------------------------
+*** File "eve16.cha": line 1291.
+*MOT:	did you make a great big hole ?
+%mor:	v|do&PAST pro:per|you v|make det:art|a (1)adj|great (1)adj|big (1)n|hole ?
+----------------------------------------
+*** File "eve16.cha": line 6403.
+*MOT:	a brand new pad .
+%mor:	det:art|a (1)adj|brand (1)adj|new (1)n|pad .
+
+    Strings matched 3 times
+
+From file <eve17.cha>
+----------------------------------------
+*** File "eve17.cha": line 2435.
+*GLO:	oh I hear a great big army tramping through the house .
+%mor:	co|oh pro:sub|I v|hear det:art|a (1)adj|great (1)adj|big (1)n|army
+	part|tramp-PRESP prep|through det:art|the n|house .
+----------------------------------------
+*** File "eve17.cha": line 3658.
+*MOT:	make you a pretty new sweater .
+%mor:	v|make pro:per|you det:art|a (1)adj|pretty (1)adj|new (1)n|sweater .
+----------------------------------------
+*** File "eve17.cha": line 5397.
+*MOT:	when you slept in that great big bed .
+%mor:	conj|when pro:per|you v|sleep&PAST prep|in pro:dem|that (1)adj|great
+	(1)adj|big (1)n|bed .
+----------------------------------------
+*** File "eve17.cha": line 9954.
+*COL:	xxx dirty feet on this nice clean book .
+%mor:	v|dirty n|foot&PL prep|on pro:dem|this (1)adj|nice (1)adj|clean (1)n|book .
+
+    Strings matched 4 times
+
+From file <eve18.cha>
+----------------------------------------
+*** File "eve18.cha": line 932.
+*MOT:	that's a pretty good idea .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|idea .
+----------------------------------------
+*** File "eve18.cha": line 5518.
+*MOT:	well that's a pretty good idea .
+%mor:	co|well pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|idea
+	.
+
+    Strings matched 2 times
+
+From file <eve19.cha>
+----------------------------------------
+*** File "eve19.cha": line 469.
+*MOT:	yes (.) ‡ we made a great big hole in here .
+%mor:	co|yes beg|beg pro:sub|we v|make&PAST det:art|a (1)adj|great (1)adj|big
+	(1)n|hole prep|in adv|here .
+----------------------------------------
+*** File "eve19.cha": line 2471.
+*MOT:	yes (.) ‡ you can ride on a great big horse .
+%mor:	co|yes beg|beg pro:per|you mod|can v|ride prep|on det:art|a
+	(1)adj|great (1)adj|big (1)n|horse .
+----------------------------------------
+*** File "eve19.cha": line 3299.
+*COL:	we were having a great long argument in which Eve was insisting she
+	was boy and I was insisting she was a girl .
+%mor:	pro:sub|we aux|be&PAST part|have-PRESP det:art|a (1)adj|great (1)adj|long
+	(1)n|argument prep|in pro:rel|which n:prop|Eve aux|be&PAST&13S
+	part|insist-PRESP pro:sub|she cop|be&PAST&13S n|boy coord|and
+	pro:sub|I aux|be&PAST&13S part|insist-PRESP pro:sub|she
+	cop|be&PAST&13S det:art|a n|girl .
+
+    Strings matched 3 times
+
+From file <eve20.cha>
+----------------------------------------
+*** File "eve20.cha": line 52.
+*GLO:	it's a nice big glass (.) isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|glass
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "eve20.cha": line 66.
+*GLO:	and what's in the nice (.) big glass ?
+%mor:	coord|and pro:int|what~cop|be&3S prep|in det:art|the (1)adj|nice
+	(1)adj|big (1)n|glass ?
+----------------------------------------
+*** File "eve20.cha": line 1021.
+*FAT:	make a pretty little baby ?
+%mor:	v|make det:art|a (1)adj|pretty (1)adj|little (1)n|baby ?
+----------------------------------------
+*** File "eve20.cha": line 1160.
+*GLO:	here's a little tiny nose .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|nose .
+----------------------------------------
+*** File "eve20.cha": line 1534.
+*MOT:	big (.) big breath (.) wasn't it .
+%mor:	(1)adj|big (1)adj|big (1)n|breath cop|be&PAST&13S~neg|not pro:per|it .
+----------------------------------------
+*** File "eve20.cha": line 1806.
+*MOT:	(be)cause you have pretty blue eyes .
+%mor:	conj|because pro:per|you v|have (1)adj|pretty (1)adj|blue (1)n|eye-PL .
+----------------------------------------
+*** File "eve20.cha": line 1811.
+*MOT:	and let's make a little tiny nose .
+%mor:	coord|and v|let~pro:obj|us v|make det:art|a (1)adj|little (1)adj|tiny
+	(1)n|nose .
+----------------------------------------
+*** File "eve20.cha": line 1825.
+*MOT:	here's a little tiny nose .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|nose .
+----------------------------------------
+*** File "eve20.cha": line 3381.
+*FAT:	well (.) let's just take a little short trot .
+%mor:	co|well v|let~pro:obj|us adv|just v|take det:art|a (1)adj|little
+	(1)adj|short (1)n|trot .
+----------------------------------------
+*** File "eve20.cha": line 6088.
+*MOT:	new red sock slippers .
+%mor:	(1)adj|new (1)adj|red (1)n|sock n|slipper-PL .
+
+    Strings matched 10 times
+

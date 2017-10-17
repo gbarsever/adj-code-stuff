@@ -1,0 +1,292 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:52:42 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11006.cha>
+
+    Strings matched 0 times
+
+From file <11013.cha>
+
+    Strings matched 0 times
+
+From file <11023.cha>
+
+    Strings matched 0 times
+
+From file <11025.cha>
+
+    Strings matched 0 times
+
+From file <11051.cha>
+----------------------------------------
+*** File "11051.cha": line 715.
+*INV:	and so tell me now about kindergarten because I haven't been to
+	kindergarten for a long long time .
+%mor:	coord|and adv|so v|tell pro:obj|me adv|now prep|about
+	n|kindergarten conj|because pro:sub|I aux|have~neg|not cop|be&PASTP
+	prep|to n|kindergarten prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 1 times
+
+From file <11055.cha>
+
+    Strings matched 0 times
+
+From file <11057.cha>
+
+    Strings matched 0 times
+
+From file <12003.cha>
+
+    Strings matched 0 times
+
+From file <12004.cha>
+----------------------------------------
+*** File "12004.cha": line 905.
+*INV:	they're cool cool animals .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|cool (1)adj|cool (1)n|animal-PL .
+
+    Strings matched 1 times
+
+From file <12007.cha>
+
+    Strings matched 0 times
+
+From file <12008.cha>
+----------------------------------------
+*** File "12008.cha": line 386.
+*INV:	yeah but when you did what [/?] did you make a spooky scary face or
+	a happy face ?
+%mor:	co|yeah conj|but conj|when pro:per|you v|do&PAST mod|do&PAST
+	pro:per|you v|make det:art|a (1)adj|spook&dv-Y (1)adj|scare&dn-Y (1)n|face
+	coord|or det:art|a adj|happy n|face ?
+----------------------------------------
+*** File "12008.cha": line 400.
+*INV:	did he have long sharp teeth ?
+%mor:	mod|do&PAST pro:sub|he v|have (1)adj|long (1)adj|sharp (1)n|tooth&PL ?
+----------------------------------------
+*** File "12008.cha": line 595.
+*INV:	was it a great big castle that you play in or was it a little one ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|great (1)adj|big (1)n|castle
+	pro:rel|that pro:per|you v|play adv|in coord|or cop|be&PAST&13S
+	pro:per|it det:art|a adj|little pro:indef|one ?
+
+    Strings matched 3 times
+
+From file <12011.cha>
+----------------------------------------
+*** File "12011.cha": line 819.
+*INV:	that's a pretty powerful chain+saw .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|power&dn-FULL
+	(1)n|+n|chain+n|saw .
+
+    Strings matched 1 times
+
+From file <12015.cha>
+----------------------------------------
+*** File "12015.cha": line 831.
+*INV:	oh do you have_to take a long long car ride to get there ?
+%mor:	co|oh v|do pro:per|you mod:aux|have_to v|take det:art|a (1)adj|long
+	(1)adj|long (1)n|car n|ride inf|to v|get adv|there ?
+
+    Strings matched 1 times
+
+From file <12029.cha>
+
+    Strings matched 0 times
+
+From file <12033.cha>
+
+    Strings matched 0 times
+
+From file <12037.cha>
+----------------------------------------
+*** File "12037.cha": line 302.
+*INV:	a bad bad owie that looks like you got cut on your chin .
+%mor:	det:art|a (1)adj|bad (1)adj|bad (1)n|owie pro:rel|that cop|look-3S prep|like
+	pro:per|you v|get&PAST v|cut&ZERO prep|on det:poss|your n|chin .
+
+    Strings matched 1 times
+
+From file <12050.cha>
+
+    Strings matched 0 times
+
+From file <12061.cha>
+
+    Strings matched 0 times
+
+From file <12071.cha>
+
+    Strings matched 0 times
+
+From file <12077.cha>
+
+    Strings matched 0 times
+
+From file <21092.cha>
+
+    Strings matched 0 times
+
+From file <21097.cha>
+
+    Strings matched 0 times
+
+From file <21102.cha>
+----------------------------------------
+*** File "21102.cha": line 250.
+*INV:	so he's a brownish blackish puppy .
+%mor:	adv|so pro:sub|he~aux|be&3S det:art|a (1)adj|brown-ISH (1)adj|black-ISH
+	(1)n|puppy .
+----------------------------------------
+*** File "21102.cha": line 287.
+*INV:	is it kind of like a soft little bite ?
+%mor:	aux|be&3S pro:per|it n|kind prep|of co|like det:art|a (1)adj|soft
+	(1)adj|little (1)n|bite ?
+
+    Strings matched 2 times
+
+From file <21116.cha>
+
+    Strings matched 0 times
+
+From file <21121.cha>
+----------------------------------------
+*** File "21121.cha": line 169.
+*INV:	is he a good big brother ?
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|good (1)adj|big (1)n|brother ?
+----------------------------------------
+*** File "21121.cha": line 588.
+*INV:	but I haven't been to kindergarten for a long long time .
+%mor:	conj|but pro:sub|I aux|have~neg|not cop|be&PASTP prep|to
+	n|kindergarten prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+----------------------------------------
+*** File "21121.cha": line 1101.
+*INV:	well that sounds like a pretty nice room .
+%mor:	co|well pro:dem|that n|sound-PL prep|like det:art|a (1)adj|pretty
+	(1)adj|nice (1)n|room .
+
+    Strings matched 3 times
+
+From file <21160.cha>
+
+    Strings matched 0 times
+
+From file <21189.cha>
+
+    Strings matched 0 times
+
+From file <21191.cha>
+
+    Strings matched 0 times
+
+From file <22093.cha>
+
+    Strings matched 0 times
+
+From file <22103.cha>
+
+    Strings matched 0 times
+
+From file <22104.cha>
+----------------------------------------
+*** File "22104.cha": line 665.
+*INV:	those are some pretty nice teeth there .
+%mor:	pro:dem|those cop|be&PRES qn|some (1)adj|pretty (1)adj|nice (1)n|tooth&PL
+	adv|there .
+
+    Strings matched 1 times
+
+From file <22118.cha>
+
+    Strings matched 0 times
+
+From file <22120.cha>
+----------------------------------------
+*** File "22120.cha": line 526.
+*INV:	so he had big sharp claws that could break sticks .
+%mor:	co|so pro:sub|he v|have&PAST (1)adj|big (1)adj|sharp (1)n|claw-PL
+	pro:dem|that mod|could v|break n|stick-PL .
+
+    Strings matched 1 times
+
+From file <22124.cha>
+
+    Strings matched 0 times
+
+From file <22128.cha>
+
+    Strings matched 0 times
+
+From file <22140.cha>
+----------------------------------------
+*** File "22140.cha": line 1281.
+*INV:	<that's a> [<] pretty nice family though .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|family
+	adv|though .
+
+    Strings matched 1 times
+
+From file <22141.cha>
+----------------------------------------
+*** File "22141.cha": line 985.
+*INV:	so if you wouldn't get a computer for christmas what would be the
+	next best thing ?
+%mor:	adv|so conj|if pro:per|you mod|will&COND~neg|not v|get det:art|a
+	n|compute&dv-AGT prep|for n|christmas det:int|what mod|will&COND
+	cop|be det:art|the (1)adj|next (1)adj|good&SP (1)n|thing ?
+
+    Strings matched 1 times
+
+From file <22148.cha>
+----------------------------------------
+*** File "22148.cha": line 1578.
+*INV:	you did an awesome awesome job .
+%mor:	pro:per|you v|do&PAST det:art|a (1)adj|awesome (1)adj|awesome (1)n|job .
+
+    Strings matched 1 times
+
+From file <22180.cha>
+----------------------------------------
+*** File "22180.cha": line 93.
+*INV:	<do you> [/?] can you put together great big puzzles with lots_of
+	pieces ?
+%mor:	mod|can pro:per|you v|put&ZERO adv|together (1)adj|great (1)adj|big
+	(1)n|puzzle-PL prep|with qn|lots_of n|piece-PL ?
+
+    Strings matched 1 times
+
+From file <22181.cha>
+----------------------------------------
+*** File "22181.cha": line 196.
+*INV:	extra soft double soft feather pillow ?
+%mor:	(1)adj|extra (1)adj|soft (1)n|double adj|soft n|feather n|pillow ?
+----------------------------------------
+*** File "22181.cha": line 419.
+*INV:	that sounds like a pretty exciting game .
+%mor:	pro:dem|that n|sound-PL prep|like det:art|a (1)adj|pretty (1)adj|exciting
+	(1)n|game .
+
+    Strings matched 2 times
+
+From file <22184.cha>
+----------------------------------------
+*** File "22184.cha": line 1074.
+*INV:	because this is a pretty big building isn't it ?
+%mor:	conj|because pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|big
+	(1)n|building cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <22186.cha>
+----------------------------------------
+*** File "22186.cha": line 995.
+*INV:	and the room was a little different last time you came .
+%mor:	coord|and det:art|the n|room cop|be&PAST&13S det:art|a adj|little
+	(1)adj|different (1)adj|last (1)n|time pro:per|you v|come&PAST .
+
+    Strings matched 1 times
+

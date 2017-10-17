@@ -1,0 +1,223 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:52:06 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11005.cha>
+
+    Strings matched 0 times
+
+From file <11016.cha>
+
+    Strings matched 0 times
+
+From file <11043.cha>
+----------------------------------------
+*** File "11043.cha": line 657.
+*INV:	I think this is a great big water hose , too .
+%mor:	pro:sub|I v|think pro:dem|this cop|be&3S det:art|a (1)adj|great
+	(1)adj|big (1)n|water n|hose cm|cm post|too .
+
+    Strings matched 1 times
+
+From file <11052.cha>
+
+    Strings matched 0 times
+
+From file <11066.cha>
+----------------------------------------
+*** File "11066.cha": line 591.
+*INV:	it's hard you need tiny little fingers to get these <little &+p>
+	[/?] little guys in here .
+%mor:	pro:per|it~aux|be&3S adj|hard pro:per|you v|need (1)adj|tiny
+	(1)adj|little (1)n|finger-PL inf|to v|get pro:dem|these adj|little
+	n|guy-PL prep|in adv|here .
+----------------------------------------
+*** File "11066.cha": line 805.
+*INV:	you got_to spin the little red part .
+%mor:	pro:per|you mod:aux|got_to v|spin det:art|the (1)adj|little (1)adj|red
+	(1)n|part .
+
+    Strings matched 2 times
+
+From file <11068.cha>
+----------------------------------------
+*** File "11068.cha": line 696.
+*INV:	a little tiny thing .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|thing .
+
+    Strings matched 1 times
+
+From file <11070.cha>
+
+    Strings matched 0 times
+
+From file <11073.cha>
+
+    Strings matched 0 times
+
+From file <12009.cha>
+
+    Strings matched 0 times
+
+From file <12017.cha>
+
+    Strings matched 0 times
+
+From file <12022.cha>
+
+    Strings matched 0 times
+
+From file <12036.cha>
+
+    Strings matched 0 times
+
+From file <12038.cha>
+
+    Strings matched 0 times
+
+From file <12042.cha>
+
+    Strings matched 0 times
+
+From file <12058.cha>
+----------------------------------------
+*** File "12058.cha": line 161.
+*INV:	(0.4) what's wrong little girl ?
+%mor:	pro:int|what~aux|be&3S (1)adj|wrong (1)adj|little (1)n|girl ?
+
+    Strings matched 1 times
+
+From file <12059.cha>
+
+    Strings matched 0 times
+
+From file <12072.cha>
+
+    Strings matched 0 times
+
+From file <12074.cha>
+
+    Strings matched 0 times
+
+From file <12076.cha>
+
+    Strings matched 0 times
+
+From file <12080.cha>
+
+    Strings matched 0 times
+
+From file <12081.cha>
+----------------------------------------
+*** File "12081.cha": line 83.
+*INV:	(0.8) have you ever seen one of those big long firetrucks that have
+	the ladders that go all the way up ?
+%mor:	v|have pro:per|you adv|ever part|see&PASTP pro:indef|one prep|of
+	pro:dem|those (1)adj|big (1)adj|long (1)n|+n|fire+n|truck-PL pro:rel|that
+	v|have det:art|the n|ladder-PL pro:rel|that v|go qn|all det:art|the
+	n|way adv|up ?
+
+    Strings matched 1 times
+
+From file <12082.cha>
+
+    Strings matched 0 times
+
+From file <12083.cha>
+----------------------------------------
+*** File "12083.cha": line 731.
+*INV:	that's what happens when there's so many teeny tiny pieces .
+%mor:	pro:dem|that~cop|be&3S pro:int|what v|happen-3S pro:rel|when
+	pro:exist|there~aux|be&3S adv|so qn|many (1)adj|teeny (1)adj|tiny
+	(1)n|piece-PL .
+
+    Strings matched 1 times
+
+From file <21110.cha>
+
+    Strings matched 0 times
+
+From file <21117.cha>
+
+    Strings matched 0 times
+
+From file <21129.cha>
+----------------------------------------
+*** File "21129.cha": line 769.
+*INV:	it is a teeny little baby .
+%mor:	pro:per|it cop|be&3S det:art|a (1)adj|teeny (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file <21146.cha>
+
+    Strings matched 0 times
+
+From file <21165.cha>
+
+    Strings matched 0 times
+
+From file <22090.cha>
+
+    Strings matched 0 times
+
+From file <22111.cha>
+----------------------------------------
+*** File "22111.cha": line 53.
+*INV:	so it just makes one big loud noise .
+%mor:	co|so pro:per|it adv|just v|make-3S pro:indef|one (1)adj|big (1)adj|loud
+	(1)n|noise .
+
+    Strings matched 1 times
+
+From file <22112.cha>
+----------------------------------------
+*** File "22112.cha": line 224.
+*INV:	make one big loud noise .
+%mor:	v|make det:num|one (1)adj|big (1)adj|loud (1)n|noise .
+----------------------------------------
+*** File "22112.cha": line 1119.
+*INV:	&-um we'll try and do one more real quick thing .
+%mor:	pro:sub|we~mod|will v|try coord|and v|do pro:indef|one adv|more
+	(1)adj|real (1)adj|quick (1)n|thing .
+
+    Strings matched 2 times
+
+From file <22131.cha>
+
+    Strings matched 0 times
+
+From file <22142.cha>
+----------------------------------------
+*** File "22142.cha": line 245.
+*INV:	(0.4) so many tiny little things .
+%mor:	adv|so qn|many (1)adj|tiny (1)adj|little (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <22150.cha>
+
+    Strings matched 0 times
+
+From file <22161.cha>
+
+    Strings matched 0 times
+
+From file <22162.cha>
+
+    Strings matched 0 times
+
+From file <22164.cha>
+
+    Strings matched 0 times
+
+From file <22169.cha>
+
+    Strings matched 0 times
+
+From file <22175.cha>
+
+    Strings matched 0 times
+

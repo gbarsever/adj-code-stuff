@@ -1,0 +1,38 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:31:07 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <april01.cha>
+
+    Strings matched 0 times
+
+From file <april02.cha>
+
+    Strings matched 0 times
+
+From file <april03.cha>
+
+    Strings matched 0 times
+
+From file <april04.cha>
+----------------------------------------
+*** File "april04.cha": line 3900.
+*CHI:	the old mean queen .
+%mor:	det:art|the (1)adj|old (1)adj|mean (1)n|queen .
+
+    Strings matched 1 times
+
+From file <april05.cha>
+
+    Strings matched 0 times
+
+From file <april06.cha>
+----------------------------------------
+*** File "april06.cha": line 1187.
+*CHI:	a stupid old mouse .
+%mor:	det:art|a (1)adj|stupid (1)adj|old (1)n|mouse .
+
+    Strings matched 1 times
+

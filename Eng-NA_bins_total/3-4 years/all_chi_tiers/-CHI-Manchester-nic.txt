@@ -1,0 +1,689 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:59:16 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <nic01a.cha>
+----------------------------------------
+*** File "nic01a.cha": line 2256.
+*INV:	a nice healthy sandwich there .
+%mor:	det:art|a (1)adj|nice (1)adj|health&dn-Y (1)n|sandwich adv|there .
+
+    Strings matched 1 times
+
+From file <nic01b.cha>
+----------------------------------------
+*** File "nic01b.cha": line 2312.
+*MOT:	he's a funny little man .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|man .
+
+    Strings matched 1 times
+
+From file <nic02a.cha>
+
+    Strings matched 0 times
+
+From file <nic02b.cha>
+----------------------------------------
+*** File "nic02b.cha": line 1824.
+*MOT:	you are a tidy little girl , aren't you ?
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|tidy (1)adj|little (1)n|girl cm|cm
+	aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <nic03a.cha>
+----------------------------------------
+*** File "nic03a.cha": line 225.
+*MOT:	now she's got a nice clean bottom .
+%mor:	adv|now pro:sub|she~aux|be&3S part|get&PASTP det:art|a (1)adj|nice
+	(1)adj|clean (1)n|bottom .
+
+    Strings matched 1 times
+
+From file <nic03b.cha>
+----------------------------------------
+*** File "nic03b.cha": line 318.
+*MOT:	that's a nice tall bridge , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|tall (1)n|bridge cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <nic04a.cha>
+
+    Strings matched 0 times
+
+From file <nic04b.cha>
+
+    Strings matched 0 times
+
+From file <nic05a.cha>
+----------------------------------------
+*** File "nic05a.cha": line 1303.
+*MOT:	are you going to be a nice little girl ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to cop|be det:art|a
+	(1)adj|nice (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "nic05a.cha": line 1308.
+*MOT:	are you going to be a nice little girl ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to cop|be det:art|a
+	(1)adj|nice (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "nic05a.cha": line 1324.
+*MOT:	so you can be a horrible little girl on your own ?
+%mor:	co|so pro:per|you mod|can cop|be det:art|a (1)adj|horrible (1)adj|little
+	(1)n|girl prep|on det:poss|your adj|own ?
+----------------------------------------
+*** File "nic05a.cha": line 1332.
+*MOT:	be a horrible little girl on your own ?
+%mor:	cop|be det:art|a (1)adj|horrible (1)adj|little (1)n|girl prep|on
+	det:poss|your adj|own ?
+----------------------------------------
+*** File "nic05a.cha": line 1815.
+*INV:	Morag's got a nice warm cardigan on .
+%mor:	n:prop|Morag~aux|be&3S part|get&PASTP det:art|a (1)adj|nice (1)adj|warm
+	(1)n|cardigan adv|on .
+
+    Strings matched 5 times
+
+From file <nic05b.cha>
+----------------------------------------
+*** File "nic05b.cha": line 1203.
+*INV:	there's a little white top and some (.) blue trousers .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|white (1)n|top
+	coord|and qn|some n|blue n|trouser-PL .
+
+    Strings matched 1 times
+
+From file <nic06a.cha>
+
+    Strings matched 0 times
+
+From file <nic06b.cha>
+----------------------------------------
+*** File "nic06b.cha": line 1980.
+*INV:	a nice clean page for you .
+%mor:	det:art|a (1)adj|nice (1)adj|clean (1)n|page prep|for pro:per|you .
+
+    Strings matched 1 times
+
+From file <nic07a.cha>
+----------------------------------------
+*** File "nic07a.cha": line 1048.
+*MOT:	+" Pat [/] Pat takes Tom's model plane and starts to make it fly it
+	soars up in the bright blue sky high up in +//.
+%mor:	n:prop|Pat v|take-3S n:prop|Tom~poss|s adj|model n|plane coord|and
+	v|start-3S inf|to v|make pro:per|it v|fly pro:per|it v|soar-3S
+	prep|up prep|in det:art|the (1)adj|bright (1)adj|blue (1)n|sky adj|high
+	adv|up adv|in +//.
+
+    Strings matched 1 times
+
+From file <nic07b.cha>
+
+    Strings matched 0 times
+
+From file <nic08a.cha>
+----------------------------------------
+*** File "nic08a.cha": line 461.
+*MOT:	he's a nice big bear and he wants to keep nice and big , doesn't he
+	?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|bear coord|and
+	pro:sub|he v|want-3S inf|to v|keep adj|nice coord|and adj|big cm|cm
+	mod|do&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <nic08b.cha>
+----------------------------------------
+*** File "nic08b.cha": line 402.
+*MOT:	they're funny little shoes but they are shoes .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|fun&dn-Y (1)adj|little (1)n|shoe-PL conj|but
+	pro:sub|they cop|be&PRES n|shoe-PL .
+----------------------------------------
+*** File "nic08b.cha": line 1793.
+*MOT:	+" the owl and the pussycat went to sea in a beautiful pea+green
+	boat .
+%mor:	det:art|the n|owl coord|and det:art|the n|+n|pussy+n|cat v|go&PAST
+	prep|to n|sea prep|in det:art|a (1)adj|beautiful (1)adj|+n|pea+adj|green
+	(1)n|boat .
+
+    Strings matched 2 times
+
+From file <nic09a.cha>
+----------------------------------------
+*** File "nic09a.cha": line 1871.
+*MOT:	because you're a good little reader , aren't you ?
+%mor:	conj|because pro:per|you~cop|be&PRES det:art|a (1)adj|good (1)adj|little
+	(1)n|read&dv-AGT cm|cm aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "nic09a.cha": line 2076.
+*MOT:	that's a nice bottom lip .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|bottom (1)n|lip .
+----------------------------------------
+*** File "nic09a.cha": line 2820.
+*MOT:	she's a pretty little dolly , isn't she ?
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll-DIM
+	cm|cm cop|be&3S~neg|not pro:sub|she ?
+
+    Strings matched 3 times
+
+From file <nic09b.cha>
+----------------------------------------
+*** File "nic09b.cha": line 1738.
+*MOT:	is it a nice hot sunny day ?
+%mor:	aux|be&3S pro:per|it det:art|a adj|nice (1)adj|hot (1)adj|sun&dn-Y (1)n|day
+	?
+----------------------------------------
+*** File "nic09b.cha": line 2668.
+*MOT:	+" eensie weensie spider +...
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider +...
+
+    Strings matched 2 times
+
+From file <nic10a.cha>
+----------------------------------------
+*** File "nic10a.cha": line 624.
+*MOT:	nice dirty mess , aren't +//.
+%mor:	(1)adj|nice (1)adj|dirt&dn-Y (1)n|mess cm|cm aux|be&PRES~neg|not +//.
+
+    Strings matched 1 times
+
+From file <nic10b.cha>
+
+    Strings matched 0 times
+
+From file <nic11a.cha>
+----------------------------------------
+*** File "nic11a.cha": line 529.
+*MOT:	Rachel's gone on a lovely long holiday .
+%mor:	n:prop|Rachel~aux|be&3S part|go&PASTP prep|on det:art|a
+	(1)adj|love&dn-LY (1)adj|long (1)n|holiday .
+
+    Strings matched 1 times
+
+From file <nic11b.cha>
+
+    Strings matched 0 times
+
+From file <nic12a.cha>
+----------------------------------------
+*** File "nic12a.cha": line 2398.
+*MOT:	poor old Inga's never had the attention that Morag has .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Inga~aux|be&3S adv|never v|have&PAST
+	det:art|the n|attention pro:rel|that n:prop|Morag aux|have&3S .
+
+    Strings matched 1 times
+
+From file <nic12b.cha>
+----------------------------------------
+*** File "nic12b.cha": line 1242.
+*MOT:	these are nice big rings , aren't they ?
+%mor:	pro:dem|these cop|be&PRES (1)adj|nice (1)adj|big (1)n|ring-PL cm|cm
+	aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "nic12b.cha": line 1247.
+*MOT:	nice bright colors .
+%mor:	(1)adj|nice (1)adj|bright (1)n|color-PL .
+----------------------------------------
+*** File "nic12b.cha": line 1367.
+*MOT:	you are a dirty little girl .
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|dirt&dn-Y (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "nic12b.cha": line 2084.
+*MOT:	you are a defiant little girl .
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|defiant (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "nic12b.cha": line 2290.
+*MOT:	who's a poor little love .
+%mor:	pro:rel|who~aux|be&3S det:art|a (1)adj|poor (1)adj|little (1)n|love .
+----------------------------------------
+*** File "nic12b.cha": line 2297.
+*MOT:	are you my poor little love ?
+%mor:	cop|be&PRES pro:per|you det:poss|my (1)adj|poor (1)adj|little (1)n|love ?
+
+    Strings matched 6 times
+
+From file <nic13a.cha>
+
+    Strings matched 0 times
+
+From file <nic13b.cha>
+
+    Strings matched 0 times
+
+From file <nic14a.cha>
+----------------------------------------
+*** File "nic14a.cha": line 2197.
+*MOT:	that's your own silly fault , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:poss|your (1)adj|own (1)adj|silly (1)n|fault
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <nic14b.cha>
+
+    Strings matched 0 times
+
+From file <nic15a.cha>
+
+    Strings matched 0 times
+
+From file <nic15b.cha>
+----------------------------------------
+*** File "nic15b.cha": line 339.
+*MOT:	little little lambs .
+%mor:	(1)adj|little (1)adj|little (1)n|lamb-PL .
+
+    Strings matched 1 times
+
+From file <nic16a.cha>
+
+    Strings matched 0 times
+
+From file <nic16b.cha>
+
+    Strings matched 0 times
+
+From file <nic17a.cha>
+----------------------------------------
+*** File "nic17a.cha": line 109.
+*MOT:	put [/] put the little pointy bit in the middle with the other +//.
+%mor:	v|put&ZERO det:art|the (1)adj|little (1)adj|point&dn-Y (1)n|bit prep|in
+	det:art|the n|middle prep|with det:art|the qn|other +//.
+----------------------------------------
+*** File "nic17a.cha": line 1603.
+*MOT:	that's a nice little coat , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|coat cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nic17a.cha": line 2907.
+*MOT:	you selfish little madam .
+%mor:	pro:per|you (1)adj|self&dn-ISH (1)adj|little (1)n|madam .
+
+    Strings matched 3 times
+
+From file <nic17b.cha>
+----------------------------------------
+*** File "nic17b.cha": line 412.
+*MOT:	the blue spotty dress as_well ?
+%mor:	det:art|the (1)adj|blue (1)adj|spot&dn-Y (1)n|dress adv|as_well ?
+----------------------------------------
+*** File "nic17b.cha": line 1056.
+*MOT:	some shiny red grapes , haven't we ?
+%mor:	qn|some (1)adj|shine&dn-Y (1)adj|red (1)n|grape-PL cm|cm aux|have~neg|not
+	pro:sub|we ?
+----------------------------------------
+*** File "nic17b.cha": line 2094.
+*MOT:	where're you going in your little make+believe car then ?
+%mor:	adv:int|where~aux|be&PRES pro:per|you part|go-PRESP prep|in
+	det:poss|your (1)adj|little (1)adj|+v|make+v|believe (1)n|car adv:tem|then ?
+
+    Strings matched 3 times
+
+From file <nic18a.cha>
+----------------------------------------
+*** File "nic18a.cha": line 1174.
+*MOT:	you're getting to be quite a good little cook , aren't you ?
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be adv|quite
+	det:art|a (1)adj|good (1)adj|little (1)n|cook cm|cm aux|be&PRES~neg|not
+	pro:per|you ?
+
+    Strings matched 1 times
+
+From file <nic18b.cha>
+----------------------------------------
+*** File "nic18b.cha": line 186.
+*MOT:	never mind lay golden eggs .
+%mor:	adv|never n|mind (1)adj|lay (1)adj|golden (1)n|egg-PL .
+----------------------------------------
+*** File "nic18b.cha": line 224.
+*MOT:	he's a nice little rabbit with pink ears , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|rabbit
+	prep|with n|pink n|ear-PL cm|cm cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "nic18b.cha": line 1658.
+*MOT:	of course we can see you with that great big bottom in the air .
+%mor:	prep|of n|course pro:sub|we mod|can v|see pro:per|you prep|with
+	pro:dem|that (1)adj|great (1)adj|big (1)n|bottom prep|in det:art|the n|air .
+----------------------------------------
+*** File "nic18b.cha": line 1997.
+*MOT:	how has that little hen laid that great big egg .
+%mor:	adv:int|how aux|have&3S pro:dem|that adj|little n|hen v|lay&PAST
+	pro:dem|that (1)adj|great (1)adj|big (1)n|egg .
+
+    Strings matched 4 times
+
+From file <nic19a.cha>
+----------------------------------------
+*** File "nic19a.cha": line 2343.
+*MOT:	think they're a beigey brown color .
+%mor:	v|think pro:sub|they~aux|be&PRES det:art|a (1)adj|beigey (1)adj|brown
+	(1)n|color .
+
+    Strings matched 1 times
+
+From file <nic19b.cha>
+
+    Strings matched 0 times
+
+From file <nic20a.cha>
+
+    Strings matched 0 times
+
+From file <nic20b.cha>
+----------------------------------------
+*** File "nic20b.cha": line 1846.
+*MOT:	we've got this big blue box round here , haven't we ?
+%mor:	pro:sub|we~aux|have part|get&PASTP pro:dem|this (1)adj|big (1)adj|blue
+	(1)n|box adv|round adv|here cm|cm aux|have~neg|not pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <nic21a.cha>
+----------------------------------------
+*** File "nic21a.cha": line 154.
+*MOT:	you've got a real horrible cold , haven't you , Nicole ?
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|real (1)adj|horrible
+	(1)n|cold cm|cm aux|have~neg|not pro:per|you cm|cm n:prop|Nicole ?
+----------------------------------------
+*** File "nic21a.cha": line 165.
+*MOT:	real horrible snotty cold .
+%mor:	adj|real (1)adj|horrible (1)adj|snot&dn-Y (1)n|cold .
+----------------------------------------
+*** File "nic21a.cha": line 1808.
+*MOT:	lovely lovely kittens .
+%mor:	(1)adj|love&dn-LY (1)adj|love&dn-LY (1)n|kitten-PL .
+----------------------------------------
+*** File "nic21a.cha": line 1892.
+*MOT:	and it's dirty horrible stuff .
+%mor:	coord|and pro:per|it~cop|be&3S (1)adj|dirt&dn-Y (1)adj|horrible (1)n|stuff .
+
+    Strings matched 4 times
+
+From file <nic21b.cha>
+----------------------------------------
+*** File "nic21b.cha": line 1046.
+*MOT:	and we want (.) the long yellow piece .
+%mor:	coord|and pro:sub|we v|want det:art|the (1)adj|long (1)adj|yellow (1)n|piece
+	.
+----------------------------------------
+*** File "nic21b.cha": line 1105.
+*MOT:	+, that funny little bit .
+%mor:	pro:dem|that (1)adj|fun&dn-Y (1)adj|little (1)n|bit .
+----------------------------------------
+*** File "nic21b.cha": line 1148.
+*MOT:	there's a little concave bit missing .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|concave (1)n|bit
+	part|miss-PRESP .
+
+    Strings matched 3 times
+
+From file <nic22a.cha>
+----------------------------------------
+*** File "nic22a.cha": line 933.
+*MOT:	it's all the same little girl , isn't it with lots and lots_of
+	different clothes .
+%mor:	pro:per|it~aux|be&3S qn|all det:art|the (1)adj|same (1)adj|little (1)n|girl
+	cm|cm cop|be&3S~neg|not pro:per|it prep|with n|lot-PL coord|and
+	qn|lots_of adj|different n:pt|clothes .
+----------------------------------------
+*** File "nic22a.cha": line 1235.
+*MOT:	she's got a big thick blue woolly jumper on and big thick tights
+	and snow+boots , hasn't she ?
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a adj|big adj|thick
+	(1)adj|blue (1)adj|wool&dn-LY (1)n|jump&dv-AGT adv|on coord|and (2)adj|big
+	(2)adj|thick (2)n:pt|tights coord|and n|+n|snow+n|boot-PL cm|cm
+	aux|have&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "nic22a.cha": line 1991.
+*MOT:	make a nice little pattern .
+%mor:	v|make det:art|a (1)adj|nice (1)adj|little (1)n|pattern .
+
+    Strings matched 4 times
+
+From file <nic22b.cha>
+
+    Strings matched 0 times
+
+From file <nic23a.cha>
+----------------------------------------
+*** File "nic23a.cha": line 1819.
+*MOT:	then you'd have three nice big bruises .
+%mor:	adv:tem|then pro:per|you~mod|genmod v|have det:num|three (1)adj|nice
+	(1)adj|big (1)n|bruise-PL .
+----------------------------------------
+*** File "nic23a.cha": line 2592.
+*MOT:	it's a blue frock with little white spots on it .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|blue n|frock prep|with
+	(1)adj|little (1)adj|white (1)n|spot-PL prep|on pro:per|it .
+
+    Strings matched 2 times
+
+From file <nic23b.cha>
+----------------------------------------
+*** File "nic23b.cha": line 689.
+*INV:	it's a nice smooth surface on the table .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|smooth (1)n|surface
+	prep|on det:art|the n|table .
+----------------------------------------
+*** File "nic23b.cha": line 2539.
+*INV:	because that'll make a big funny noise and deafen me when I listen
+	to it .
+%mor:	conj|because pro:dem|that~mod|will v|make det:art|a (1)adj|big
+	(1)adj|fun&dn-Y (1)n|noise coord|and v|deafen pro:obj|me conj|when
+	pro:sub|I v|listen prep|to pro:per|it .
+
+    Strings matched 2 times
+
+From file <nic24a.cha>
+----------------------------------------
+*** File "nic24a.cha": line 1475.
+*MOT:	with eensie weensie spider .
+%mor:	prep|with (1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 1 times
+
+From file <nic24b.cha>
+
+    Strings matched 0 times
+
+From file <nic25a.cha>
+
+    Strings matched 0 times
+
+From file <nic25b.cha>
+
+    Strings matched 0 times
+
+From file <nic26a.cha>
+
+    Strings matched 0 times
+
+From file <nic26b.cha>
+----------------------------------------
+*** File "nic26b.cha": line 2364.
+*MOT:	and we're going to water it ever(y)day and watch it grow and grow
+	and grow into a nice big sunflower .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|water
+	pro:per|it adj|everyday coord|and v|watch pro:per|it v|grow
+	coord|and v|grow coord|and v|grow prep|into det:art|a (1)adj|nice
+	(1)adj|big (1)n|sunflower .
+
+    Strings matched 1 times
+
+From file <nic27a.cha>
+
+    Strings matched 0 times
+
+From file <nic27b.cha>
+----------------------------------------
+*** File "nic27b.cha": line 1312.
+*MOT:	two year old little girls haven't got the priority on doing that
+	you know .
+%mor:	det:num|two n|year (1)adj|old (1)adj|little (1)n|girl-PL aux|have~neg|not
+	v|get&PAST det:art|the n|priority adv|on part|do-PRESP pro:rel|that
+	pro:per|you v|know .
+
+    Strings matched 1 times
+
+From file <nic28a.cha>
+----------------------------------------
+*** File "nic28a.cha": line 656.
+*MOT:	right bossy boots you are , aren't you ?
+%mor:	(1)adj|right (1)adj|boss&dn-Y (1)n|boot-PL pro:per|you cop|be&PRES cm|cm
+	aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <nic28b.cha>
+----------------------------------------
+*** File "nic28b.cha": line 21.
+*MOT:	aren't they funny little toes ?
+%mor:	aux|be&PRES~neg|not pro:sub|they (1)adj|fun&dn-Y (1)adj|little (1)n|toe-PL ?
+----------------------------------------
+*** File "nic28b.cha": line 1176.
+*MOT:	you'll have a terrible dirty face .
+%mor:	pro:per|you~mod|will v|have det:art|a (1)adj|terrible (1)adj|dirt&dn-Y
+	(1)n|face .
+----------------------------------------
+*** File "nic28b.cha": line 1663.
+*MOT:	you were a big bad frog , weren't you ?
+%mor:	pro:per|you cop|be&PAST det:art|a (1)adj|big (1)adj|bad (1)n|frog cm|cm
+	cop|be&PAST~neg|not pro:per|you ?
+----------------------------------------
+*** File "nic28b.cha": line 1840.
+*MOT:	make a nice big hole .
+%mor:	v|make det:art|a (1)adj|nice (1)adj|big (1)n|hole .
+----------------------------------------
+*** File "nic28b.cha": line 2180.
+*MOT:	because you're a good little helper , aren't you ?
+%mor:	conj|because pro:per|you~cop|be&PRES det:art|a (1)adj|good (1)adj|little
+	(1)n|help&dv-AGT cm|cm aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 5 times
+
+From file <nic29a.cha>
+----------------------------------------
+*** File "nic29a.cha": line 1888.
+*MOT:	with some nice pink bobbles in ?
+%mor:	prep|with qn|some (1)adj|nice (1)adj|pink (1)n|bobble-PL adv|in ?
+
+    Strings matched 1 times
+
+From file <nic29b.cha>
+----------------------------------------
+*** File "nic29b.cha": line 1145.
+*MOT:	noisy naughty girl .
+%mor:	(1)adj|noise&dn-Y (1)adj|naughty (1)n|girl .
+----------------------------------------
+*** File "nic29b.cha": line 1343.
+*MOT:	can you find me a little white mouse .
+%mor:	mod|can pro:per|you v|find pro:obj|me det:art|a (1)adj|little
+	(1)adj|white (1)n|mouse .
+----------------------------------------
+*** File "nic29b.cha": line 1357.
+*MOT:	can you see the little yellow duck ?
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|yellow (1)n|duck
+	?
+----------------------------------------
+*** File "nic29b.cha": line 1399.
+*MOT:	can you see a little white mouse ?
+%mor:	mod|can pro:per|you v|see det:art|a (1)adj|little (1)adj|white (1)n|mouse ?
+----------------------------------------
+*** File "nic29b.cha": line 1414.
+*MOT:	can you see the little white mouse ?
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|white (1)n|mouse
+	?
+----------------------------------------
+*** File "nic29b.cha": line 1421.
+*MOT:	can you see the little yellow duck ?
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|yellow (1)n|duck
+	?
+----------------------------------------
+*** File "nic29b.cha": line 1470.
+*MOT:	can you see the little yellow duck ?
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|yellow (1)n|duck
+	?
+----------------------------------------
+*** File "nic29b.cha": line 1477.
+*MOT:	can you see the little white mouse ?
+%mor:	mod|can pro:per|you v|see det:art|the (1)adj|little (1)adj|white (1)n|mouse
+	?
+
+    Strings matched 8 times
+
+From file <nic30a.cha>
+----------------------------------------
+*** File "nic30a.cha": line 878.
+*MOT:	you go to your room and come back when you can be a nice little
+	girl .
+%mor:	pro:per|you v|go prep|to det:poss|your n|room coord|and v|come
+	adv|back conj|when pro:per|you mod|can cop|be det:art|a (1)adj|nice
+	(1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <nic30b.cha>
+----------------------------------------
+*** File "nic30b.cha": line 412.
+*MOT:	everything out the blue [//] big blue box and sit in it .
+%mor:	pro:indef|everything adv|out det:art|the (1)adj|big (1)adj|blue (1)n|box
+	coord|and v|sit prep|in pro:per|it .
+
+    Strings matched 1 times
+
+From file <nic31a.cha>
+
+    Strings matched 0 times
+
+From file <nic31b.cha>
+----------------------------------------
+*** File "nic31b.cha": line 201.
+*MOT:	so you've got your own little bar of soap .
+%mor:	adv|so pro:per|you~aux|have part|get&PASTP det:poss|your (1)adj|own
+	(1)adj|little (1)n|bar prep|of n|soap .
+
+    Strings matched 1 times
+
+From file <nic32a.cha>
+----------------------------------------
+*** File "nic32a.cha": line 1711.
+*MOT:	it's your own silly fault .
+%mor:	pro:per|it~cop|be&3S det:poss|your (1)adj|own (1)adj|silly (1)n|fault .
+
+    Strings matched 1 times
+
+From file <nic32b.cha>
+
+    Strings matched 0 times
+
+From file <nic33a.cha>
+----------------------------------------
+*** File "nic33a.cha": line 1674.
+*MOT:	you drove your daddy mad last week with that song , didn't you ?
+%mor:	pro:per|you v|drive&PAST det:poss|your n|daddy (1)adj|mad (1)adj|last
+	(1)n|week prep|with pro:dem|that n|song cm|cm mod|do&PAST~neg|not
+	pro:per|you ?
+
+    Strings matched 1 times
+
+From file <nic33b.cha>
+----------------------------------------
+*** File "nic33b.cha": line 1560.
+*MOT:	got a big smily face on it , hasn't it ?
+%mor:	v|get&PAST det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|face prep|on
+	pro:per|it cm|cm aux|have&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <nic34a.cha>
+
+    Strings matched 0 times
+
+From file <nic34b.cha>
+
+    Strings matched 0 times
+

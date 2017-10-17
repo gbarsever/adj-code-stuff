@@ -1,0 +1,271 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:10:35 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <andy1.cha>
+
+    Strings matched 0 times
+
+From file <andy2.cha>
+----------------------------------------
+*** File "andy2.cha": line 1157.
+*MOT:	okay just push this block .
+%mor:	(1)adj|okay (1)adj|just (1)n|push pro:dem|this n|block .
+
+    Strings matched 1 times
+
+From file <billy1.cha>
+
+    Strings matched 0 times
+
+From file <billy2.cha>
+----------------------------------------
+*** File "billy2.cha": line 628.
+*MOT:	your huffy puffy train ?
+%mor:	det:poss|your (1)adj|huff&dn-Y (1)adj|puff&dn-Y (1)n|train ?
+
+    Strings matched 1 times
+
+From file <caleb1.cha>
+
+    Strings matched 0 times
+
+From file <caleb2.cha>
+
+    Strings matched 0 times
+
+From file <carl1.cha>
+
+    Strings matched 0 times
+
+From file <carl2.cha>
+
+    Strings matched 0 times
+
+From file <carla1.cha>
+
+    Strings matched 0 times
+
+From file <carla2.cha>
+
+    Strings matched 0 times
+
+From file <dirk1.cha>
+
+    Strings matched 0 times
+
+From file <dirk2.cha>
+----------------------------------------
+*** File "dirk2.cha": line 1149.
+*MOT:	it will make a big loud noise when they sit down .
+%mor:	pro:per|it mod|will v|make det:art|a (1)adj|big (1)adj|loud (1)n|noise
+	conj|when pro:sub|they v|sit adv|down .
+
+    Strings matched 1 times
+
+From file <elbert1.cha>
+
+    Strings matched 0 times
+
+From file <elbert2.cha>
+----------------------------------------
+*** File "elbert2.cha": line 937.
+*MOT:	and that's a big big mammy pig .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|mammy
+	n|pig .
+----------------------------------------
+*** File "elbert2.cha": line 1869.
+*MOT:	they grow real big fat .
+%mor:	pro:sub|they v|grow (1)adj|real (1)adj|big (1)n|fat .
+----------------------------------------
+*** File "elbert2.cha": line 3129.
+*MOT:	that's oh the old wicky [: wicked] witch and that's xxx .
+%mor:	pro:rel|that~aux|be&3S co|oh det:art|the (1)adj|old (1)adj|wicked (1)n|witch
+	coord|and pro:dem|that~cop|be&3S .
+
+    Strings matched 3 times
+
+From file <jane1.cha>
+
+    Strings matched 0 times
+
+From file <jane2.cha>
+----------------------------------------
+*** File "jane2.cha": line 94.
+*MOT:	the big big wolf .
+%mor:	det:art|the (1)adj|big (1)adj|big (1)n|wolf .
+
+    Strings matched 1 times
+
+From file <jed1.cha>
+
+    Strings matched 0 times
+
+From file <jed2.cha>
+
+    Strings matched 0 times
+
+From file <joel1.cha>
+
+    Strings matched 0 times
+
+From file <joel2.cha>
+
+    Strings matched 0 times
+
+From file <josh1.cha>
+
+    Strings matched 0 times
+
+From file <josh2.cha>
+
+    Strings matched 0 times
+
+From file <kelly1.cha>
+
+    Strings matched 0 times
+
+From file <kelly2.cha>
+
+    Strings matched 0 times
+
+From file <ken1.cha>
+
+    Strings matched 0 times
+
+From file <ken2.cha>
+
+    Strings matched 0 times
+
+From file <lana1.cha>
+
+    Strings matched 0 times
+
+From file <lana2.cha>
+
+    Strings matched 0 times
+
+From file <lina1.cha>
+----------------------------------------
+*** File "lina1.cha": line 706.
+*MOT:	oh well you are getting to be a pretty big girl aren't you ?
+%mor:	co|oh adv|well pro:per|you aux|be&PRES n:gerund|get-PRESP inf|to
+	cop|be det:art|a (1)adj|pretty (1)adj|big (1)n|girl aux|be&PRES~neg|not
+	pro:per|you ?
+----------------------------------------
+*** File "lina1.cha": line 1814.
+*MOT:	hey funny little girl what's your name ?
+%mor:	co|hey (1)adj|fun&dn-Y (1)adj|little (1)n|girl pro:int|what~poss|s
+	det:poss|your n|name ?
+----------------------------------------
+*** File "lina1.cha": line 1866.
+*MOT:	that's a big red shoe huh ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|shoe co|huh ?
+
+    Strings matched 3 times
+
+From file <lina2.cha>
+----------------------------------------
+*** File "lina2.cha": line 27.
+*MOT:	we have had a real good time haven't we ?
+%mor:	pro:sub|we aux|have part|have&PASTP det:art|a (1)adj|real (1)adj|good
+	(1)n|time aux|have~neg|not pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <martin1.cha>
+
+    Strings matched 0 times
+
+From file <marvin1.cha>
+----------------------------------------
+*** File "marvin1.cha": line 645.
+*MOT:	that big big boat .
+%mor:	pro:dem|that (1)adj|big (1)adj|big (1)n|boat .
+----------------------------------------
+*** File "marvin1.cha": line 840.
+*MOT:	it's a great big frog .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|frog .
+
+    Strings matched 2 times
+
+From file <marvin2.cha>
+----------------------------------------
+*** File "marvin2.cha": line 694.
+*MOT:	there was a nice little boy .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|nice (1)adj|little (1)n|boy
+	.
+----------------------------------------
+*** File "marvin2.cha": line 1040.
+*MOT:	oh poor poor Marvin .
+%mor:	co|oh (1)adj|poor (1)adj|poor (1)n:prop|Marvin .
+----------------------------------------
+*** File "marvin2.cha": line 1586.
+*MOT:	yes if the door banged against the wall it would make a great big hole .
+%mor:	co|yes conj|if det:art|the n|door v|bang-PAST prep|against
+	det:art|the n|wall pro:per|it mod|will&COND v|make det:art|a
+	(1)adj|great (1)adj|big (1)n|hole .
+----------------------------------------
+*** File "marvin2.cha": line 1669.
+*MOT:	the poor little frog is gonna get xxx if you do that .
+%mor:	det:art|the (1)adj|poor (1)adj|little (1)n|frog aux|be&3S
+	part|go-PRESP~inf|to v|get conj|if pro:per|you v|do pro:dem|that .
+----------------------------------------
+*** File "marvin2.cha": line 1963.
+*MOT:	the poor little man is over here .
+%mor:	det:art|the (1)adj|poor (1)adj|little (1)n|man aux|be&3S adv|over adv|here .
+
+    Strings matched 5 times
+
+From file <murray1.cha>
+----------------------------------------
+*** File "murray1.cha": line 1428.
+*MOT:	it's pretty hard stuff to be thrown .
+%mor:	pro:per|it~cop|be&3S (1)adj|pretty (1)adj|hard (1)n|stuff inf|to aux|be
+	part|throw&PASTP .
+
+    Strings matched 1 times
+
+From file <murray2.cha>
+
+    Strings matched 0 times
+
+From file <shelly1.cha>
+
+    Strings matched 0 times
+
+From file <shelly2.cha>
+----------------------------------------
+*** File "shelly2.cha": line 787.
+*MOT:	does she have a pretty brown dress ?
+%mor:	mod|do&3S pro:sub|she v|have det:art|a (1)adj|pretty (1)adj|brown (1)n|dress
+	?
+----------------------------------------
+*** File "shelly2.cha": line 1440.
+*MOT:	is there a little tiny boat here ?
+%mor:	cop|be&3S adv|there det:art|a (1)adj|little (1)adj|tiny (1)n|boat adv|here ?
+
+    Strings matched 2 times
+
+From file <tansy1.cha>
+
+    Strings matched 0 times
+
+From file <tansy2.cha>
+----------------------------------------
+*** File "tansy2.cha": line 494.
+*MOT:	that's a mighty little bear .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|might&dn-Y (1)adj|little (1)n|bear .
+
+    Strings matched 1 times
+
+From file <vance1.cha>
+
+    Strings matched 0 times
+
+From file <vance2.cha>
+
+    Strings matched 0 times
+

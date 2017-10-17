@@ -1,0 +1,287 @@
+combo +t%mor -t*CHI -t*ELI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:52:11 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *ELI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina42.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina43.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina43.cha": line 472.
+*MOT:	does that make big red spots ?
+%mor:	mod|do&3S det:dem|that v|make (1)adj|big (1)adj|red (1)n|spot-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina43.cha": line 4610.
+*MOT:	would you like me to be a great big gorilla ?
+%mor:	mod|will&COND pro:per|you v|like pro:obj|me inf|to cop|be det:art|a
+	(1)adj|great (1)adj|big (1)n|gorilla ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina44.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina44.cha": line 3611.
+*MOT:	that's a pretty little girl .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina44.cha": line 4049.
+*MOT:	look Nina (.) I found a new little bag for you .
+%mor:	co|look n:prop|Nina pro:sub|I v|find&PAST det:art|a (1)adj|new
+	(1)adj|little (1)n|bag prep|for pro:per|you .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina45.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina45.cha": line 655.
+*MOT:	that's a beautiful pink table .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|beautiful (1)adj|pink (1)n|table .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina45.cha": line 1249.
+*MOT:	remember some little red balls .
+%mor:	v|remember qn|some (1)adj|little (1)adj|red (1)n|ball-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina45.cha": line 3766.
+*MOT:	did we eat by candle light last night ?
+%mor:	mod|do&PAST pro:sub|we v|eat prep|by n|candle (1)adj|light (1)adj|last
+	(1)n|night ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina45.cha": line 4167.
+*MOT:	those are pretty stiff scissors (.) aren't the ?
+%mor:	det:dem|those aux|be&PRES (1)adj|pretty (1)adj|stiff (1)n|scissors
+	aux|be&PRES~neg|not det:art|the ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina46.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina46.cha": line 1797.
+*MOT:	little white spots .
+%mor:	(1)adj|little (1)adj|white (1)n|spot-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina46.cha": line 3910.
+*MOT:	I bet Gary will come with his great big van .
+%mor:	pro:sub|I v|bet&ZERO n:prop|Gary mod|will v|come prep|with
+	det:poss|his (1)adj|great (1)adj|big (1)n|van .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina47.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina47.cha": line 1085.
+*MOT:	looks like a little white lamb .
+%mor:	cop|look-3S prep|like det:art|a (1)adj|little (1)adj|white (1)n|lamb .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina47.cha": line 1913.
+*MOT:	everybody had their own little bed .
+%mor:	pro:indef|everybody v|have&PAST det:poss|their (1)adj|own (1)adj|little
+	(1)n|bed .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina47.cha": line 2779.
+*MOT:	but this afternoon after lunch (.) I want you to take a nice long
+	nap .
+%mor:	conj|but pro:dem|this n|afternoon prep|after n|lunch pro:sub|I
+	v|want pro:per|you inf|to v|take det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha": line 96.
+*MOT:	a little tiny train .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|train .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha": line 194.
+*MOT:	oh (.) you're a pretty funny kitty cat .
+%mor:	co|oh pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|fun&dn-Y
+	(1)n|kitty n|cat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha": line 2730.
+*MOT:	what were those great big fish (.) remember ?
+%mor:	pro:int|what aux|be&PAST pro:dem|those (1)adj|great (1)adj|big (1)n|fish
+	v|remember ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha": line 3620.
+*MOT:	a great long beard .
+%mor:	det:art|a (1)adj|great (1)adj|long (1)n|beard .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina48.cha": line 3674.
+*MOT:	a great big rock .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|rock .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina49.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina49.cha": line 2889.
+*MOT:	he's balancing himself on a stick which is on top of a great big
+	ball .
+%mor:	pro:sub|he~aux|be&3S part|balance-PRESP pro:refl|himself prep|on
+	det:art|a n|stick pro:rel|which cop|be&3S prep|on n|top prep|of
+	det:art|a (1)adj|great (1)adj|big (1)n|ball .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina50.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina50.cha": line 483.
+*MOT:	it's a real fuzzy doggy .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|fuzz&dn-Y (1)n|dog-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina50.cha": line 3983.
+*MOT:	a nice beautiful dress will you wear ?
+%mor:	det:art|a (1)adj|nice (1)adj|beautiful (1)n|dress mod|will pro:per|you
+	v|wear ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina51.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina51.cha": line 1428.
+*MOT:	now you have_to build a big (.) great big boat for all the Mommies
+	.
+%mor:	adv|now pro:per|you mod:aux|have_to v|build det:art|a adj|big
+	(1)adj|great (1)adj|big (1)n|boat conj|for adv|all det:art|the n:prop|Mommies
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina51.cha": line 2058.
+*MOT:	see this is a big long sailboat .
+%mor:	v|see pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|long
+	(1)n|+n|sail+n|boat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina51.cha": line 2763.
+*MOT:	let's put on your nice warm pajamas .
+%mor:	v|let~pro:obj|us part|put&PASTP prep|on det:poss|your (1)adj|nice
+	(1)adj|warm (1)n|pajamas .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina51.cha": line 2928.
+*MOT:	a red shirt underneath this pretty (.) pretty dress .
+%mor:	det:art|a adj|red n|shirt prep|underneath det:dem|this (1)adj|pretty
+	(1)adj|pretty (1)n|dress .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina52.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina52.cha": line 496.
+*MOT:	let's see if we can find the tiny little baby .
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|find
+	det:art|the (1)adj|tiny (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina52.cha": line 502.
+*MOT:	here's a tiny little baby .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina52.cha": line 620.
+*MOT:	Elizabeth (.) do you know what happened to the little tiny baby ?
+%mor:	n:prop|Elizabeth v|do pro:per|you v|know pro:int|what v|happen-PAST
+	prep|to det:art|the (1)adj|little (1)adj|tiny (1)n|baby ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 1316.
+*MOT:	okay (.) what are you gonna do with your great big tower built
+	out_of screws ?
+%mor:	co|okay pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to
+	v|do prep|with det:poss|your (1)adj|great (1)adj|big (1)n|tower v|build&PAST
+	prep|out_of n|screw-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 2962.
+*MOT:	okay (.) now shall I get you the great big blue towel for her ?
+%mor:	co|okay adv|now mod|shall pro:sub|I v|get pro:per|you det:art|the
+	(1)adj|great (1)adj|big (1)n|blue n|towel prep|for pro:obj|her ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3091.
+*MOT:	I thought we could give her some tea before going to bed from this
+	pretty little tea pot .
+%mor:	pro:sub|I v|think&PAST pro:sub|we mod|could v|give pro:obj|her
+	qn|some n|tea prep|before n:gerund|go-PRESP prep|to n|bed prep|from
+	pro:dem|this (1)adj|pretty (1)adj|little (1)n|tea n|pot .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3099.
+*MOT:	with these pretty little glasses .
+%mor:	prep|with pro:dem|these (1)adj|pretty (1)adj|little (1)n|glass-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3114.
+*MOT:	those little little tiny plates .
+%mor:	pro:dem|those adj|little (1)adj|little (1)adj|tiny (1)n|plate-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3165.
+*MOT:	isn't that a cute little thing ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|cute (1)adj|little
+	(1)n|thing ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3187.
+*MOT:	isn't that a pretty little teapot ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|pretty (1)adj|little
+	(1)n|+n|tea+n|pot ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3219.
+*MOT:	what a pretty little cup .
+%mor:	pro:int|what det:art|a (1)adj|pretty (1)adj|little (1)n|cup .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina53.cha": line 3684.
+*MOT:	do I have a real live child ?
+%mor:	mod|do pro:sub|I v|have det:art|a (1)adj|real (1)adj|live (1)n|child ?
+
+    Strings matched 9 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha": line 282.
+*MOT:	you have pretty long hair .
+%mor:	pro:per|you v|have (1)adj|pretty (1)adj|long (1)n|hair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha": line 1215.
+*MOT:	I think that there's a great big merry+go+round with horses on it
+	and maybe different animals .
+%mor:	pro:sub|I v|think pro:rel|that pro:exist|there~cop|be&3S det:art|a
+	(1)adj|great (1)adj|big (1)n|+adj|merry+v|go+adj|round prep|with n|horse-PL
+	prep|on pro:per|it coord|and adv|maybe adj|different n|animal-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha": line 1398.
+*MOT:	it's a beautiful new dolly .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|beautiful (1)adj|new (1)n|doll-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha": line 1569.
+*MOT:	how (a)bout this nice soft blanket .
+%mor:	adv:int|how prep|about pro:dem|this (1)adj|nice (1)adj|soft (1)n|blanket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina54.cha": line 2030.
+*MOT:	little blue eyes .
+%mor:	(1)adj|little (1)adj|blue (1)n|eye-PL .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina55.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina55.cha": line 2444.
+*MOT:	<I'll put some in> [//] just a little tiny bit .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina56.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina56.cha": line 2206.
+*MOT:	<you can use the great big> [//] pretend this is a great big
+	blanket .
+%mor:	v|pretend pro:dem|this cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|blanket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina56.cha": line 3804.
+*MOT:	he's carrying a heavy (.) heavy (.) boy isn't he ?
+%mor:	pro:sub|he~aux|be&3S part|carry-PRESP det:art|a (1)adj|heavy (1)adj|heavy
+	(1)n|boy cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Suppes/nina56.cha": line 4825.
+*MOT:	here's a great big clock .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|clock .
+
+    Strings matched 3 times
+

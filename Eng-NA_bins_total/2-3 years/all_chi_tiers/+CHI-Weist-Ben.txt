@@ -1,0 +1,55 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:24 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <ben01.cha>
+
+    Strings matched 0 times
+
+From file <ben02.cha>
+
+    Strings matched 0 times
+
+From file <ben03.cha>
+
+    Strings matched 0 times
+
+From file <ben04.cha>
+
+    Strings matched 0 times
+
+From file <ben05.cha>
+
+    Strings matched 0 times
+
+From file <ben06.cha>
+
+    Strings matched 0 times
+
+From file <ben07.cha>
+
+    Strings matched 0 times
+
+From file <ben08.cha>
+
+    Strings matched 0 times
+
+From file <ben09.cha>
+
+    Strings matched 0 times
+
+From file <ben10.cha>
+
+    Strings matched 0 times
+
+From file <ben11.cha>
+----------------------------------------
+*** File "ben11.cha": line 1218.
+*CHI:	what if we had a little teeny hermit crab ? %snd:"ben11"_928368_933654
+%mor:	pro:int|what conj|if pro:sub|we v|have&PAST det:art|a (1)adj|little
+	(1)adj|teeny (1)n|hermit n|crab ?
+
+    Strings matched 1 times
+

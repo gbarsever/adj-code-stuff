@@ -1,0 +1,51 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:12:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <neil02.cha>
+
+    Strings matched 0 times
+
+From file <neil03.cha>
+
+    Strings matched 0 times
+
+From file <neil04.cha>
+
+    Strings matched 0 times
+
+From file <neil05.cha>
+
+    Strings matched 0 times
+
+From file <neil06.cha>
+
+    Strings matched 0 times
+
+From file <neil08.cha>
+----------------------------------------
+*** File "neil08.cha": line 178.
+*MOT:	it's a great big worm .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|worm .
+----------------------------------------
+*** File "neil08.cha": line 357.
+*MOT:	you know your little grey gun .
+%mor:	pro:per|you v|know det:poss|your (1)adj|little (1)adj|grey (1)n|gun .
+
+    Strings matched 2 times
+
+From file <neil09.cha>
+
+    Strings matched 0 times
+
+From file <neil10.cha>
+----------------------------------------
+*** File "neil10.cha": line 583.
+*CHR:	I'm going to put my little green car in the car wash .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|put&ZERO det:poss|my
+	(1)adj|little (1)adj|green (1)n|car prep|in det:art|the n|car n|wash .
+
+    Strings matched 1 times
+

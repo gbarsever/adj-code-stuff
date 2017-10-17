@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/c-00004877-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.26||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&-um he had a frog .
+%mor:	pro:sub|he v|have&PAST det:art|a n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and it's sat in a jar .
+%mor:	coord|and pro:per|it~aux|be&3S part|sit&PASTP prep|in det:art|a
+	n|jar .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	that night he went to sleep .
+%mor:	pro:dem|that n|night pro:sub|he v|go&PAST inf|to v|sleep .
+%gra:	1|2|DET 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	and the frog escaped .
+%mor:	coord|and det:art|the n|frog v|escape-PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	in the morning he woke up and looked into the jar .
+%mor:	prep|in det:art|the n|morning pro:sub|he v|wake&PAST adv|up
+	coord|and cop|look-PAST prep|into det:art|the n|jar .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*CHI:	the frog was missing .
+%mor:	det:art|the n|frog aux|be&PAST&13S part|miss-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	he quickly pulled on his clothes .
+%mor:	pro:sub|he adv|quick&dadj-LY v|pull-PAST prep|on det:poss|his
+	n:pt|clothes .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*CHI:	he couldn't find Frog anywhere .
+%mor:	pro:sub|he mod|could~neg|not v|find n:prop|Frog adv|anywhere .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	he called out the window .
+%mor:	pro:sub|he v|call-PAST prep|out det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	then Dog fell out the window .
+%mor:	adv:tem|then n:prop|Dog v|fall&PAST prep|out det:art|the n|window .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	he went down to collect Dog .
+%mor:	pro:sub|he v|go&PAST adv|down inf|to v|collect n:prop|Dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XCOMP 6|5|OBJ 7|2|PUNCT
+*CHI:	Dog licked him on the face .
+%mor:	n:prop|Dog v|lick-PAST pro:obj|him prep|on det:art|the n|face .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	he went out 0 [*] the field near by .
+%mor:	pro:sub|he v|go&PAST prep|out det:art|the n|field adv|near adv|by .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|JCT 7|2|JCT 8|2|PUNCT
+*CHI:	and he was shouting +"/.
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|shout-PRESP +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%err:	0 = to
+*CHI:	+" <Dog , Dog> [//] Frog !
+%mor:	n:prop|Frog !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the dog went to the hive and started barking .
+%mor:	det:art|the n|dog v|go&PAST prep|to det:art|the n|hive coord|and
+	v|start-PAST n:gerund|bark-PRESP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*CHI:	he went to the hole and looked for the frog , but nothing happened
+	.
+%mor:	pro:sub|he v|go&PAST prep|to det:art|the n|hole coord|and
+	cop|look-PAST prep|for det:art|the n|frog cm|cm conj|but
+	pro:indef|nothing v|happen-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|LP 12|14|LINK 13|14|SUBJ 14|2|CJCT 15|2|PUNCT
+*CHI:	Dog had barked so much , 0 [*] the hive had fallen down .
+%mor:	n:prop|Dog v|have&PAST part|bark-PASTP adv|so qn|much cm|cm
+	det:art|the n|hive aux|have&PAST part|fall&PASTP adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|LP 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|2|COMP 11|10|JCT 12|2|PUNCT
+%err:	0 = that
+*CHI:	and he'd climbed up to a tree and looked inside .
+%mor:	coord|and pro:sub|he~mod|genmod v|climb-PAST adv|up prep|to
+	det:art|a n|tree coord|and cop|look-PAST adv|inside .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|10|JCT 12|4|PUNCT
+*CHI:	the bees then started to chase Dog .
+%mor:	det:art|the n|bee-PL adv:tem|then v|start-PAST prep|to n|chase
+	n:prop|Dog .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*CHI:	and he fell over .
+%mor:	coord|and pro:sub|he v|fall&PAST adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	he was then chased by an owl .
+%mor:	pro:sub|he aux|be&PAST&13S adv:tem|then v|chase-PAST prep|by
+	det:art|a n|owl .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	he climbed up the tree to escape .
+%mor:	pro:sub|he v|climb-PAST prep|up det:art|the n|tree inf|to v|escape
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|INF 7|2|XCOMP 8|2|PUNCT
+*CHI:	he started calling on top of the rock to look for frog .
+%mor:	pro:sub|he v|start-PAST part|call-PRESP prep|on n|top prep|of
+	det:art|the n|rock inf|to cop|look prep|for n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|8|XMOD 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*CHI:	but then a deer knocked him .
+%mor:	conj|but adv:tem|then det:art|a n|deer v|knock-PAST pro:obj|him .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and he was on the deer's head .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|on det:art|the
+	n|deer~poss|s n|head .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|8|MOD 7|6|POSS 8|4|POBJ
+	9|3|PUNCT
+*CHI:	the deer ran up a cliff with him on the head .
+%mor:	det:art|the n|deer v|run&PAST adv|up det:art|a n|cliff prep|with
+	pro:obj|him prep|on det:art|the n|head .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|6|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	and then the deer stopped suddenly .
+%mor:	coord|and adv:tem|then det:art|the n|deer v|stop-PAST
+	adv|sudden&dadj-LY .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and he fell off with Dog .
+%mor:	coord|and pro:sub|he v|fall&PAST adv|off prep|with n:prop|Dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	they both fell into a pond and sat up again .
+%mor:	pro:sub|they post|both v|fall&PAST prep|into det:art|a n|pond
+	coord|and v|sit&PAST adv|up adv|again .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|JCT 10|8|JCT 11|3|PUNCT
+*CHI:	they heard something .
+%mor:	pro:sub|they v|hear&PAST pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	(.) he told Dog to be quiet .
+%mor:	pro:sub|he v|tell&PAST n:prop|Dog inf|to cop|be n|quiet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|PRED 7|2|PUNCT
+*CHI:	they both looked over the log .
+%mor:	pro:sub|they post|both cop|look-PAST prep|over det:art|the n|log .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and there sat on grass was Frog with another frog .
+%mor:	coord|and adv|there v|sit&PAST prep|on n|grass cop|be&PAST&13S
+	n:prop|Frog prep|with qn|another n|frog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|COMP 7|6|PRED 8|7|JCT
+	9|10|QUANT 10|8|POBJ 11|3|PUNCT
+*CHI:	the frog had lots_of little frogs .
+%mor:	det:art|the n|frog v|have&PAST qn|lots_of adj|little n|frog-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	and they took the little frog home again and said goodbye to the
+	other frogs .
+%mor:	coord|and pro:sub|they v|take&PAST det:art|the adj|little n|frog
+	adv|home adv|again coord|and v|say&PAST co|goodbye prep|to
+	det:art|the qn|other n|frog-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|JCT
+	9|3|CONJ 10|9|COORD 11|10|OBJ 12|11|JCT 13|15|DET 14|15|QUANT 15|12|POBJ
+	16|3|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

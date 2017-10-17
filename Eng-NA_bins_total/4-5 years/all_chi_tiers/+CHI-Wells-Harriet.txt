@@ -1,0 +1,53 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:10:03 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <harrie02.cha>
+
+    Strings matched 0 times
+
+From file <harrie03.cha>
+
+    Strings matched 0 times
+
+From file <harrie04.cha>
+
+    Strings matched 0 times
+
+From file <harrie05.cha>
+
+    Strings matched 0 times
+
+From file <harrie06.cha>
+
+    Strings matched 0 times
+
+From file <harrie07.cha>
+
+    Strings matched 0 times
+
+From file <harrie08.cha>
+
+    Strings matched 0 times
+
+From file <harrie09.cha>
+
+    Strings matched 0 times
+
+From file <harrie10.cha>
+
+    Strings matched 0 times
+
+From file <harrie21.cha>
+----------------------------------------
+*** File "harrie21.cha": line 1150.
+*CHI:	and those are and those are and those are little crispy things what
+	I made .
+%mor:	coord|and pro:dem|those cop|be&PRES coord|and pro:dem|those
+	cop|be&PRES coord|and pro:dem|those cop|be&PRES (1)adj|little
+	(1)adj|crisp-Y (1)n|thing-PL pro:int|what pro:sub|I v|make&PAST .
+
+    Strings matched 1 times
+

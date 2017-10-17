@@ -1,0 +1,168 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:59:13 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <andy.cha>
+----------------------------------------
+*** File "andy.cha": line 603.
+*FAT:	these little blue screws . %snd:"andy"_1050193_1053082
+%mor:	pro:dem|these (1)adj|little (1)adj|blue (1)n|screw-PL .
+
+    Strings matched 1 times
+
+From file <bobby.cha>
+
+    Strings matched 0 times
+
+From file <charlie.cha>
+
+    Strings matched 0 times
+
+From file <david.cha>
+
+    Strings matched 0 times
+
+From file <eddie.cha>
+----------------------------------------
+*** File "eddie.cha": line 873.
+*FAT:	there's a little yellow piece there . %snd:"eddie"_410569_412322
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|yellow (1)n|piece
+	adv|there .
+
+    Strings matched 1 times
+
+From file <frank.cha>
+
+    Strings matched 0 times
+
+From file <guy.cha>
+
+    Strings matched 0 times
+
+From file <helen.cha>
+
+    Strings matched 0 times
+
+From file <isadora.cha>
+----------------------------------------
+*** File "isadora.cha": line 3333.
+*FAT:	she's wearing a funny little hat . %snd:"isadora"_1487019_1489167
+%mor:	pro:sub|she~aux|be&3S part|wear-PRESP det:art|a (1)adj|fun&dn-Y
+	(1)adj|little (1)n|hat .
+----------------------------------------
+*** File "isadora.cha": line 3638.
+*FAT:	the cat still haves a little bitty smile cause he's still playing a
+	game . %snd:"isadora"_1612688_1616496
+%mor:	det:art|the n|cat adv|still v|have-3S det:art|a (1)adj|little
+	(1)adj|bit&dn-Y (1)n|smile n|cause pro:sub|he~aux|be&3S adv|still
+	part|play-PRESP det:art|a n|game .
+----------------------------------------
+*** File "isadora.cha": line 3949.
+*FAT:	the pipe goes through a little tiny hill and out the other side . %snd:"isadora"_1743378_1747139
+%mor:	det:art|the n|pipe v|go-3S prep|through det:art|a (1)adj|little
+	(1)adj|tiny (1)n|hill coord|and adv|out det:art|the qn|other n|side .
+
+    Strings matched 3 times
+
+From file <john.cha>
+
+    Strings matched 0 times
+
+From file <katie.cha>
+
+    Strings matched 0 times
+
+From file <laurel.cha>
+
+    Strings matched 0 times
+
+From file <martin.cha>
+----------------------------------------
+*** File "martin.cha": line 1673.
+*FAT:	that was a pretty good price for sugar . %snd:"martin"_1728550_1732184
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|pretty (1)adj|good (1)n|price
+	prep|for n|sugar .
+
+    Strings matched 1 times
+
+From file <nanette.cha>
+
+    Strings matched 0 times
+
+From file <olivia.cha>
+----------------------------------------
+*** File "olivia.cha": line 800.
+*FAT:	it's a pretend big box of diapers . %snd:"olivia"_538500_540313
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretend (1)adj|big (1)n|box prep|of
+	n|diaper-PL .
+
+    Strings matched 1 times
+
+From file <patricia.cha>
+
+    Strings matched 0 times
+
+From file <richard.cha>
+
+    Strings matched 0 times
+
+From file <susan.cha>
+----------------------------------------
+*** File "susan.cha": line 2032.
+*FAT:	once there was a little old girl gave the nuts a little old twirl .
+%mor:	adv|once adv|there cop|be&PAST&13S det:art|a (1)adj|little (1)adj|old
+	(1)n|girl v|give&PAST det:art|the adj|nuts det:art|a adj|little adj|old
+	v|twirl .
+
+    Strings matched 1 times
+
+From file <theresa.cha>
+
+    Strings matched 0 times
+
+From file <ursula.cha>
+
+    Strings matched 0 times
+
+From file <victor.cha>
+----------------------------------------
+*** File "victor.cha": line 1354.
+*FAT:	he's a pretty hard cat to (.) catch , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|hard (1)n|cat inf|to
+	v|catch cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <wanda.cha>
+----------------------------------------
+*** File "wanda.cha": line 2845.
+*FAT:	I think he's got a big yellow whistle .
+%mor:	pro:sub|I v|think pro:sub|he~aux|be&3S part|get&PASTP det:art|a
+	(1)adj|big (1)adj|yellow (1)n|whistle .
+
+    Strings matched 1 times
+
+From file <william.cha>
+----------------------------------------
+*** File "william.cha": line 772.
+*FAT:	the little yellow cat is in the baby carriage .
+%mor:	det:art|the (1)adj|little (1)adj|yellow (1)n|cat cop|be&3S prep|in
+	det:art|the n|baby n|carriage .
+----------------------------------------
+*** File "william.cha": line 785.
+*FAT:	and she has her nice big hat on .
+%mor:	coord|and pro:sub|she v|have&3S det:poss|her (1)adj|nice (1)adj|big (1)n|hat
+	adv|on .
+
+    Strings matched 2 times
+
+From file <xavia.cha>
+----------------------------------------
+*** File "xavia.cha": line 364.
+*FAT:	(th)is (i)s a pretty fancy store .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|fancy (1)n|store .
+
+    Strings matched 1 times
+

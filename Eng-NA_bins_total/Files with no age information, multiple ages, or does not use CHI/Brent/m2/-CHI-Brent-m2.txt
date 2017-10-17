@@ -1,0 +1,109 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:45:25 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <m2-0907.cha>
+
+    Strings matched 0 times
+
+From file <m2-0928.cha>
+
+    Strings matched 0 times
+
+From file <m2-1013.cha>
+----------------------------------------
+*** File "m2-1013.cha": line 481.
+*MOT:	<“stroke my soft silky fur”> [=! read] ! %snd:"m2-s11jun00"_3005820_3008383
+%mor:	bq|bq v|stroke det:poss|my (1)adj|soft (1)adj|silk&dn-Y (1)n|fur eq|eq !
+
+    Strings matched 1 times
+
+From file <m2-1027.cha>
+----------------------------------------
+*** File "m2-1027.cha": line 139.
+*MOT:	see the smooth shiny tag ? %snd:"m2-s25jun00"_1141630_1143050
+%mor:	v|see det:art|the (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag ?
+----------------------------------------
+*** File "m2-1027.cha": line 150.
+*MOT:	this kitty's got a hard yellow bowl . %snd:"m2-s25jun00"_1157320_1159147
+%mor:	pro:dem|this n|kitty~aux|be&3S part|get&PASTP det:art|a (1)adj|hard
+	(1)adj|yellow (1)n|bowl .
+----------------------------------------
+*** File "m2-1027.cha": line 220.
+*MOT:	see kitty's eatin(g) out_of a hard yellow bowl ! %snd:"m2-s25jun00"_1285533_1287830
+%mor:	co|see n|kitty~aux|be&3S part|eat-PRESP prep|out_of det:art|a
+	(1)adj|hard (1)adj|yellow (1)n|bowl !
+----------------------------------------
+*** File "m2-1027.cha": line 302.
+*MOT:	look at our smooth shiny tags [=! read] . %snd:"m2-s25jun00"_1426067_1428353
+%mor:	cop|look prep|at det:poss|our (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag-PL .
+----------------------------------------
+*** File "m2-1027.cha": line 313.
+*MOT:	the hard yellow bowl ? %snd:"m2-s25jun00"_1439517_1440467
+%mor:	det:art|the (1)adj|hard (1)adj|yellow (1)n|bowl ?
+----------------------------------------
+*** File "m2-1027.cha": line 383.
+*MOT:	stroke my soft silky fur [=! read] ! %snd:"m2-s25jun00"_1582493_1584587
+%mor:	v|stroke det:poss|my (1)adj|soft (1)adj|silk&dn-Y (1)n|fur !
+----------------------------------------
+*** File "m2-1027.cha": line 416.
+*MOT:	look at our smooth shiny tags [=! read] ! %snd:"m2-s25jun00"_1617403_1619753
+%mor:	cop|look prep|at det:poss|our (1)adj|smooth (1)adj|shine&dn-Y (1)n|tag-PL !
+----------------------------------------
+*** File "m2-1027.cha": line 1098.
+*MOT:	how about the shiny smooth tags &=noise ? %snd:"m2-s25jun00"_4103203_4105447
+%mor:	adv:int|how adv|about det:art|the (1)adj|shine&dn-Y (1)adj|smooth
+	(1)n|tag-PL ?
+
+    Strings matched 8 times
+
+From file <m2-1113.cha>
+
+    Strings matched 0 times
+
+From file <m2-1223.cha>
+
+    Strings matched 0 times
+
+From file <m2-1311.cha>
+----------------------------------------
+*** File "m2-1311.cha": line 407.
+*MOT:	pokey little puppy [=! read] . %snd:"m2-h9sep00"_1717770_1718790
+%mor:	(1)adj|pokey (1)adj|little (1)n|puppy .
+
+    Strings matched 1 times
+
+From file <m2-1322.cha>
+
+    Strings matched 0 times
+
+From file <m2-1413.cha>
+----------------------------------------
+*** File "m2-1413.cha": line 911.
+*MOT:	are you a sleepy little boy ? %snd:"m2-r12oct00"_3332570_3333830
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|sleep&dn-Y (1)adj|little (1)n|boy ?
+
+    Strings matched 1 times
+
+From file <m2-1504.cha>
+----------------------------------------
+*** File "m2-1504.cha": line 837.
+*MOT:	you a cranky li(tt)le boy ? %snd:"m2-r2nov00"_2320030_2321120
+%mor:	pro:per|you det:art|a (1)adj|crank&dn-Y (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "m2-1504.cha": line 961.
+*MOT:	oh you grouchy li(tt)le boy . %snd:"m2-r2nov00"_2804173_2806577
+%mor:	co|oh pro:per|you (1)adj|grouch&dn-Y (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "m2-1504.cha": line 964.
+*MOT:	you grouchy li(tt)le boy ? %snd:"m2-r2nov00"_2806743_2808107
+%mor:	pro:per|you (1)adj|grouch&dn-Y (1)adj|little (1)n|boy ?
+----------------------------------------
+*** File "m2-1504.cha": line 1212.
+*MOT:	you had a nice long nap . %snd:"m2-r2nov00"_3616667_3617830
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 4 times
+

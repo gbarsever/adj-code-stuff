@@ -1,0 +1,129 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:10 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <alfred.cha>
+
+    Strings matched 0 times
+
+From file <allen.cha>
+
+    Strings matched 0 times
+
+From file <beth.cha>
+----------------------------------------
+*** File "beth.cha": line 203.
+*CHI:	very good little elephant .
+%mor:	adv|very (1)adj|good (1)adj|little (1)n|elephant .
+
+    Strings matched 1 times
+
+From file <bill.cha>
+
+    Strings matched 0 times
+
+From file <carol.cha>
+----------------------------------------
+*** File "carol.cha": line 1529.
+*CHI:	him have big ol(d) tail .
+%mor:	pro:obj|him v|have (1)adj|big (1)adj|old (1)n|tail .
+
+    Strings matched 1 times
+
+From file <david.cha>
+
+    Strings matched 0 times
+
+From file <doug.cha>
+
+    Strings matched 0 times
+
+From file <george.cha>
+----------------------------------------
+*** File "george.cha": line 149.
+*CHI:	on the good ol(d) boys , and xxx find that page .
+%mor:	prep|on det:art|the (1)adj|good (1)adj|old (1)n|boy-PL cm|cm coord|and
+	v|find pro:dem|that n|page .
+----------------------------------------
+*** File "george.cha": line 330.
+*CHI:	a dear little jacket .
+%mor:	det:art|a (1)adj|dear (1)adj|little (1)n|jacket .
+----------------------------------------
+*** File "george.cha": line 1749.
+*CHI:	small back wheel .
+%mor:	(1)adj|small (1)adj|back (1)n|wheel .
+
+    Strings matched 3 times
+
+From file <gina.cha>
+
+    Strings matched 0 times
+
+From file <jeff.cha>
+
+    Strings matched 0 times
+
+From file <jmarkey.cha>
+
+    Strings matched 0 times
+
+From file <john.cha>
+
+    Strings matched 0 times
+
+From file <katie.cha>
+
+    Strings matched 0 times
+
+From file <louise.cha>
+
+    Strings matched 0 times
+
+From file <mary.cha>
+
+    Strings matched 0 times
+
+From file <megan.cha>
+
+    Strings matched 0 times
+
+From file <sandra.cha>
+
+    Strings matched 0 times
+
+From file <scott.cha>
+
+    Strings matched 0 times
+
+From file <susan.cha>
+----------------------------------------
+*** File "susan.cha": line 1450.
+*CHI:	he works , he plays Bill Maxwell on the greatest american hero .
+%mor:	pro:sub|he v|work-3S cm|cm pro:sub|he v|play-3S n:prop|Bill
+	n:prop|Maxwell prep|on det:art|the (1)adj|great-SP (1)adj|american (1)n|hero
+	.
+----------------------------------------
+*** File "susan.cha": line 1482.
+*CHI:	talk about the greatest american hero .
+%mor:	n|talk prep|about det:art|the (1)adj|great-SP (1)adj|american (1)n|hero .
+----------------------------------------
+*** File "susan.cha": line 1539.
+*CHI:	I know , and once on the greatest american hero Ralph said scenario and Bill fell asleep , and then he said scenario again , and he waked up , and then he said it again , and he falls asleep again , he said it again , and he waked up .
+%mor:	pro:sub|I v|know cm|cm coord|and adv|once prep|on det:art|the
+	(1)adj|great-SP (1)adj|american (1)n|hero n:prop|Ralph v|say&PAST n|scenario
+	coord|and n:prop|Bill v|fall&PAST adv|asleep cm|cm coord|and
+	adv:tem|then pro:sub|he v|say&PAST n|scenario adv|again cm|cm
+	coord|and pro:sub|he v|wake-PAST adv|up cm|cm coord|and adv:tem|then
+	pro:sub|he v|say&PAST pro:per|it adv|again cm|cm coord|and
+	pro:sub|he n|fall-PL adv|asleep adv|again cm|cm pro:sub|he
+	v|say&PAST pro:per|it adv|again cm|cm coord|and pro:sub|he
+	v|wake-PAST adv|up .
+
+    Strings matched 3 times
+
+From file <wendy.cha>
+
+    Strings matched 0 times
+

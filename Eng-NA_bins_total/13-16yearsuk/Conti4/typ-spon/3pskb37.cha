@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00004953-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;01.08||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	&-um she pulls my hair .
+%mor:	pro:sub|she v|pull-3S det:poss|my n|hair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	&-um she really annoys me because she's [//] she tries to be
+	sarcastic .
+%mor:	pro:sub|she adv|real&dadj-LY v|annoy-3S pro:obj|me conj|because
+	pro:sub|she v|try-3S inf|to cop|be adj|sarcastic .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|INF
+	9|7|XCOMP 10|9|PRED 11|3|PUNCT
+*CHI:	and she [//] it doesn't work [=! both laugh] .
+%mor:	coord|and pro:per|it mod|do&3S~neg|not v|work .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	she doesn't understand sarcasm .
+%mor:	pro:sub|she mod|do&3S~neg|not v|understand n|sarcasm .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&-um she tries to joke .
+%mor:	pro:sub|she v|try-3S inf|to v|joke .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*CHI:	but she can't .
+%mor:	conj|but pro:sub|she mod|can~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*CHI:	&-um she tries to outwit me [=! laughs] but +...
+%mor:	pro:sub|she v|try-3S inf|to v|outwit pro:obj|me conj|but +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|OM 7|2|PUNCT
+*INV:	but she doesn't ?
+%mor:	conj|but pro:sub|she mod|do&3S~neg|not ?
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*CHI:	&-um and she's really annoying because &-um she fancies me
+	[=! both laugh loudly] !
+%mor:	coord|and pro:sub|she~aux|be&3S adv|real&dadj-LY part|annoy-PRESP
+	conj|because pro:sub|she v|fancy-3S pro:obj|me !
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|OBJ 10|5|PUNCT
+*CHI:	it gets annoying !
+%mor:	pro:per|it aux|get&3S part|annoy-PRESP !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um &-um and she's always talking and that's about it .
+%mor:	coord|and pro:sub|she~aux|be&3S adv|always part|talk-PRESP
+	coord|and pro:dem|that~cop|be&3S prep|about pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|9|POBJ 11|5|PUNCT
+*INV:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

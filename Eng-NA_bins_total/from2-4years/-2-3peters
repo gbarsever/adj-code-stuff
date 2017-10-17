@@ -1,0 +1,107 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:24:46 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821018a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821018b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821018b.cha": line 1713.
+*FAT:	he was a little bitty thing . %snd:"821018b"_792093_793186
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a (1)adj|little (1)adj|bit&dn-Y
+	(1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821018b.cha": line 2913.
+*FAT:	nice little lunchbox . %snd:"821018b"_1209358_1221990
+%mor:	(1)adj|nice (1)adj|little (1)n|+n|lunch+n|box .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821027a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821027b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821027b.cha": line 444.
+*FAT:	are n(o)t we lucky we have a nice dry house ? %snd:"821027b"_216524_225441
+%mor:	cop|be&PRES neg|not pro:sub|we adj|luck&dn-Y pro:sub|we v|have
+	det:art|a (1)adj|nice (1)adj|dry (1)n|house ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821027b.cha": line 1512.
+*FAT:	Little Bird , you've had three big soft chewy cookies since we
+	(ha)ve been home . %snd:"821027b"_734482_741336
+%mor:	n:prop|Little n:prop|Bird cm|cm pro:per|you~aux|have
+	part|have&PASTP det:num|three (1)adj|big (1)adj|soft (1)n|chewy n|cookie-PL
+	conj|since pro:sub|we aux|have aux|be&PASTP n|home .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821103a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821103a.cha": line 1026.
+*FAT:	let Daddy mush this cookie all back together into a tight little
+	clump again . %snd:"821103a"_402844_406187
+%mor:	v|let&ZERO n:prop|Daddy n|mush pro:dem|this n|cookie adv|all
+	adv|back adv|together prep|into det:art|a (1)adj|tight (1)adj|little
+	(1)n|clump adv|again .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821103b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821103b.cha": line 334.
+*FAT:	what a smart little boy you are . %snd:"821103b"_190665_193182
+%mor:	pro:int|what det:art|a (1)adj|smart (1)adj|little (1)n|boy pro:per|you
+	cop|be&PRES .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821111a.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821111a.cha": line 2429.
+*FAT:	your little easter egg . %snd:"821111a"_855292_856285
+%mor:	det:poss|your (1)adj|little (1)adj|east-CP (1)n|egg .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821111a.cha": line 2859.
+*FAT:	yes that (i)s such a nice little tape recorder . %snd:"821111a"_1032119_1034061
+%mor:	co|yes pro:rel|that cop|be&3S qn|such det:art|a (1)adj|nice (1)adj|little
+	(1)n|tape n|record&dv-AGT .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821111b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821111b.cha": line 3760.
+*FAT:	there (i)s a little red light . %snd:"821111b"_1473196_1474766
+%mor:	adv|there cop|be&3S det:art|a (1)adj|little (1)adj|red (1)n|light .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821114c.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821114c.cha": line 2334.
+*FAT:	it (i)s a big rough rock . %snd:"821114c"_882215_884715
+%mor:	pro:per|it cop|be&3S det:art|a (1)adj|big (1)adj|rough (1)n|rock .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821114c.cha": line 4362.
+*FAT:	an(d) I don't want big red stains on it from this jello juice .
+	%snd:"821114c"_1670244_1673300
+%mor:	coord|and pro:sub|I mod|do~neg|not v|want (1)adj|big (1)adj|red
+	(1)n|stain-PL prep|on pro:per|it prep|from pro:dem|this n|jello n|juice
+	.
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821114e.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Peters/821121a.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,415 @@
+combo +t%mor +t*CHI +t*DIA +t*JOA +t*DON +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:26:00 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *DIA; *JOA; *DON;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam01.cha": line 1536.
+*CHI:	wee wee way home .
+%mor:	(1)adj|wee (1)adj|wee (1)n|way n|home .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam01.cha": line 3943.
+*CHI:	part part part .
+%mor:	(1)adj|part (1)adj|part (1)n|part .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha": line 1630.
+*CHI:	busy busy bulldozer .
+%mor:	(1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha": line 1645.
+*CHI:	drive busy busy busy bulldozer .
+%mor:	n|drive adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha": line 1652.
+*CHI:	drive [/] drive busy busy busy bulldozer .
+%mor:	n|drive adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha": line 2883.
+*CHI:	busy busy busy bulldozer .
+%mor:	adj|busy (1)adj|busy (1)adj|busy (1)n|bulldoze&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam02.cha": line 5753.
+*CHI:	purple red green .
+%mor:	(1)adj|purple (1)adj|red (1)n|green .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam03.cha": line 327.
+*CHI:	yellow yellow yellow .
+%mor:	(1)adj|yellow (1)adj|yellow (1)n|yellow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam03.cha": line 1757.
+*CHI:	op(en) op(en) op(en) door .
+%mor:	adj|open (1)adj|open (1)adj|open (1)n|door .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam04.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam05.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam05.cha": line 1059.
+*CHI:	big strong Cromer .
+%mor:	(1)adj|big (1)adj|strong (1)n:prop|Cromer .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam05.cha": line 2413.
+*CHI:	funny xxx close eye .
+%mor:	(1)adj|fun&dn-Y (1)adj|close (1)n|eye .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam06.cha": line 2521.
+*CHI:	light [?] light (.) Mommy .
+%mor:	(1)adj|light (1)adj|light (1)n:prop|Mommy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam07.cha": line 1015.
+*CHI:	buckets a shiny [?] red blue .
+%mor:	n|bucket-PL det:art|a (1)adj|shine&dn-Y (1)adj|red (1)n|blue .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam09.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam09.cha": line 90.
+*CHI:	saggy baggy elephant .
+%mor:	(1)adj|sag&dv-Y (1)adj|bag&dn-Y (1)n|elephant .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam09.cha": line 96.
+*CHI:	saggy baggy elephant .
+%mor:	(1)adj|sag&dv-Y (1)adj|bag&dn-Y (1)n|elephant .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam10.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam10.cha": line 3861.
+*CHI:	little top little top .
+%mor:	adj|little (1)adj|top (1)adj|little (1)n|top .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam10.cha": line 4784.
+*CHI:	big heavy cow .
+%mor:	(1)adj|big (1)adj|heavy (1)n|cow .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam11.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam12.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam13.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam14.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam15.cha": line 2339.
+*CHI:	I funny little boy .
+%mor:	pro:sub|I (1)adj|fun&dn-Y (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam15.cha": line 2942.
+*CHI:	poor (.) little fellow .
+%mor:	(1)adj|poor (1)adj|little (1)n|fellow .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam17.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam17.cha": line 630.
+*CHI:	come (.) little fellow (.) turn over .
+%mor:	v|come (1)adj|little (1)adj|fellow (1)n|turn adv|over .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam17.cha": line 3221.
+*CHI:	get fresh good milk .
+%mor:	v|get (1)adj|fresh (1)adj|good (1)n|milk .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam18.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Adam/adam19.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve13.cha": line 4470.
+*CHI:	Fraser write a little man (.) little big man (.) big man an(d) a
+	little lady an(d) a little man .
+%mor:	n:prop|Fraser v|write det:art|a adj|little n|man (1)adj|little (1)adj|big
+	(1)n|man adj|big n|man coord|and det:art|a adj|little n|lady coord|and
+	det:art|a adj|little n|man .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve14.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve14.cha": line 2604.
+*CHI:	oh (.) where big round cook ?
+%mor:	co|oh adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve14.cha": line 2615.
+*CHI:	where big round cook ?
+%mor:	adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve14.cha": line 2630.
+*CHI:	big round cook . [+ RES]
+%mor:	(1)adj|big (1)adj|round (1)n|cook .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve14.cha": line 2648.
+*CHI:	where big round cook ?
+%mor:	adv:int|where (1)adj|big (1)adj|round (1)n|cook ?
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve15.cha": line 4090.
+*CHI:	my new pink bibbie .
+%mor:	det:poss|my (1)adj|new (1)adj|pink (1)n|bib-DIM .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve16.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve16.cha": line 1236.
+*CHI:	it'll make a great big hole . [+ IMIT]
+%mor:	pro:per|it~mod|will v|make det:art|a (1)adj|great (1)adj|big (1)n|hole .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve16.cha": line 1265.
+*CHI:	I go make a great big hole in my pants .
+%mor:	pro:sub|I v|go v|make det:art|a (1)adj|great (1)adj|big (1)n|hole prep|in
+	det:poss|my n:pt|pants .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve17.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve17.cha": line 10841.
+*CHI:	yep (.) a little tiny bit . [+ RES]
+%mor:	co|yep det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve18.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve18.cha": line 2131.
+*CHI:	<I see> [/] I [/] I see great big tunnel .
+%mor:	pro:sub|I v|see (1)adj|great (1)adj|big (1)n|tunnel .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve19.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve19.cha": line 460.
+*CHI:	did you make a great big hole in here ?
+%mor:	v|do&PAST pro:per|you v|make det:art|a (1)adj|great (1)adj|big (1)n|hole
+	prep|in adv|here ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve19.cha": line 695.
+*CHI:	all the live long day .
+%mor:	qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve19.cha": line 2466.
+*CHI:	he xxx great big horse .
+%mor:	pro:sub|he (1)adj|great (1)adj|big (1)n|horse .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Eve/eve20.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah001.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah002.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah003.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah004.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah005.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah006.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah007.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah007.cha": line 1739.
+*CHI:	bad (.) bad doggie .
+%mor:	(1)adj|bad (1)adj|bad (1)n|dog-DIM .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah008.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah009.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah010.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah011.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah012.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah013.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah014.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah015.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah016.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah017.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah018.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah019.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah020.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah021.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah022.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah023.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah024.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah025.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah026.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah027.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah028.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah029.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah030.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah031.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah032.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah033.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah034.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah035.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah036.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah037.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah038.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Brown/Sarah/sarah039.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,70 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:20:32 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <w1-1220.cha>
+----------------------------------------
+*** File "w1-1220.cha": line 766.
+*MOT:	my ticklish little baby girl . %snd:"w1-f16aug96"_713927_715610
+%mor:	det:poss|my (1)adj|ticklish (1)adj|little (1)n|baby n|girl .
+----------------------------------------
+*** File "w1-1220.cha": line 1263.
+*MOT:	poor little thing . %snd:"w1-f16aug96"_1190423_1191550
+%mor:	(1)adj|poor (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "w1-1220.cha": line 1510.
+*MOT:	a little bitty baby girl . %snd:"w1-f16aug96"_1507937_1509893
+%mor:	det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|baby n|girl .
+----------------------------------------
+*** File "w1-1220.cha": line 2179.
+*MOT:	messy messy Maggie . %snd:"w1-f16aug96"_2569103_2570470
+%mor:	(1)adj|mess&dn-Y (1)adj|mess&dn-Y (1)n:prop|Maggie .
+----------------------------------------
+*** File "w1-1220.cha": line 2542.
+*MOT:	nice little sealie . %snd:"w1-f16aug96"_3477880_3479127
+%mor:	(1)adj|nice (1)adj|little (1)n|seal-DIM .
+
+    Strings matched 5 times
+
+From file <w1-1303.cha>
+----------------------------------------
+*** File "w1-1303.cha": line 2201.
+*MOT:	little (..) blue fish . %snd:"w1-f30aug96"_1856854_1858067
+%mor:	(1)adj|little (1)adj|blue (1)n|fish .
+----------------------------------------
+*** File "w1-1303.cha": line 2960.
+*MOT:	here she comes in her own little (...) condo house . %snd:"w1-f30aug96"_2668599_2671676
+%mor:	adv|here pro:sub|she v|come-3S adv|in det:poss|her (1)adj|own
+	(1)adj|little (1)n|condo n|house .
+----------------------------------------
+*** File "w1-1303.cha": line 3023.
+*MOT:	the eensie weensie spider went up [=! sung] . %snd:"w1-f30aug96"_2722871_2725922
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up .
+----------------------------------------
+*** File "w1-1303.cha": line 4254.
+*MOT:	have a good little nappie ! %snd:"w1-f30aug96"_4202054_4203378
+%mor:	v|have det:art|a (1)adj|good (1)adj|little (1)n|nappie !
+
+    Strings matched 4 times
+
+From file <w1-1417.cha>
+----------------------------------------
+*** File "w1-1417.cha": line 1192.
+*MOT:	but he never knew that it was his own dear rabbit grown real
+	[=! read] . %snd:"w1-m14oct96"_1800643_1804081
+%mor:	conj|but pro:sub|he adv|never v|know&PAST pro:rel|that pro:per|it
+	cop|be&PAST&13S det:poss|his (1)adj|own (1)adj|dear (1)n|rabbit
+	part|grow&PASTP adj|real .
+----------------------------------------
+*** File "w1-1417.cha": line 2006.
+*MOT:	little musical bird out . %snd:"w1-m14oct96"_2733955_2735440
+%mor:	(1)adj|little (1)adj|musical (1)n|bird adv|out .
+----------------------------------------
+*** File "w1-1417.cha": line 2101.
+*MOT:	new (.) new bookies . %snd:"w1-m14oct96"_2808813_2809984
+%mor:	(1)adj|new (1)adj|new (1)n|book-DIM-PL .
+
+    Strings matched 3 times
+

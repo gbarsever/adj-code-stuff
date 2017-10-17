@@ -1,0 +1,46 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:07:58 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/beth.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 327.
+*MOT:	a dear little jacket .
+%mor:	det:art|a (1)adj|dear (1)adj|little (1)n|jacket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 401.
+*MOT:	see , a little bunny rabbit has like a little fluffy tail .
+%mor:	v|see cm|cm det:art|a adj|little n|bunny n|rabbit aux|have&3S
+	co|like det:art|a (1)adj|little (1)adj|fluff&dn-Y (1)n|tail .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 549.
+*MOT:	well maybe , if it were a little brown bunny rabbit it might not be .
+%mor:	n|well adv|maybe cm|cm conj|if pro:per|it cop|be&PAST det:art|a
+	(1)adj|little (1)adj|brown (1)n|bunny n|rabbit pro:per|it mod|might neg|not
+	cop|be .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 1522.
+*FAT:	is Tybee island a real smooth beach ?
+%mor:	cop|be&3S n:prop|Tybee n|island det:art|a (1)adj|real (1)adj|smooth
+	(1)n|beach ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 1746.
+*FAT:	small front wheel +...
+%mor:	(1)adj|small (1)adj|front (1)n|wheel +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/george.cha": line 1752.
+*FAT:	is this a small back wheel ?
+%mor:	cop|be&3S pro:dem|this det:art|a (1)adj|small (1)adj|back (1)n|wheel ?
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Warren/mary.cha>
+
+    Strings matched 0 times
+

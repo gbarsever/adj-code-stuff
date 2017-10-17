@@ -1,0 +1,108 @@
+combo +t%mor -t*CHI -t*ISA -t*JOA -t*HAN -t*EMI -t*ROB -t*NIC -t*SHE -t*SAR -t*DAN -t*SHA -t*STE -t*PAU -t*STP -t*MAT -t*ANN -t*JAS -t*STU -t*REN -t*NEG -t*CLA -t*DOR -t*MIC -t*JOH -t*TRA -t*GEO -t*ANT -t*JAN -t*IAN -t*JUL -t*SIM -t*AND -t*NEI -t*JUS -t*DUS -t*MAR -t*LIS -t*ADA -t*CHR -t*CAT -t*KAT -t*NAO -t*TIN -t*FRA -t*LOU -t*FAY -t*KAY -t*TER -t*KIM -t*KER -t*KEL -t*DAL -t*LEE -t*SAL -t*RAC -t*DAV -t*PAT -t*DON -t*CAR -t*HAZ -t*AMA -t*DEA -t*ELA -t*OTH +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:08:59 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *ISA; *JOA; *HAN; *EMI; *ROB; *NIC; *SHE; *SAR; *DAN; *SHA; *STE; *PAU; *STP; *MAT; *ANN; *JAS; *STU; *REN; *NEG; *CLA; *DOR; *MIC; *JOH; *TRA; *GEO; *ANT; *JAN; *IAN; *JUL; *SIM; *AND; *NEI; *JUS; *DUS; *MAR; *LIS; *ADA; *CHR; *CAT; *KAT; *NAO; *TIN; *FRA; *LOU; *FAY; *KAY; *TER; *KIM; *KER; *KEL; *DAL; *LEE; *SAL; *RAC; *DAV; *PAT; *DON; *CAR; *HAZ; *AMA; *DEA; *ELA; *OTH;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Abigail/abigai21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Abigail/abigai21.cha": line 232.
+*MOT:	are you going to give one of your nice little books to school when
+	she leaves ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|give det:num|one
+	prep|of det:poss|your (1)adj|nice (1)adj|little (1)n|book-PL prep|to n|school
+	conj|when pro:sub|she v|leave-3S ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Betty/betty21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Darren/darren21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Ellen/ellen21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Ellen/ellen21.cha": line 2568.
+*UNK:	or a nice cheesy omelette ?
+%mor:	coord|or det:art|a (1)adj|nice (1)adj|cheese&dn-Y (1)n|omelette ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Frances/frances21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gary/gary21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gavin/gavin21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha": line 1320.
+*MOT:	miserable old Uppity they used to call him (1.) .
+%mor:	(1)adj|miserable (1)adj|old (1)n:prop|Uppity pro:sub|they v|use-PAST inf|to
+	v|call pro:obj|him .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha": line 1407.
+*MOT:	and you've got Mister Nosey with a big red nose (2.) .
+%mor:	coord|and pro:per|you~aux|have v|get&PAST n:prop|Mister
+	n:prop|Nosey prep|with det:art|a (1)adj|big (1)adj|red (1)n|nose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha": line 1416.
+*MOT:	Mister Nosey with a big red nose (1.) ?
+%mor:	n:prop|Mister n:prop|Nosey prep|with det:art|a (1)adj|big (1)adj|red
+	(1)n|nose ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha": line 1451.
+*MOT:	he had the largest longest car in Big_Town (1.) .
+%mor:	pro:sub|he v|have&PAST det:art|the (1)adj|large-SP (1)adj|long-SP (1)n|car
+	prep|in n:prop|Big_Town .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Geoffrey/geoffr21.cha": line 1456.
+*MOT:	he had the largest longest garden in Big_Town (2.) .
+%mor:	pro:sub|he v|have&PAST det:art|the (1)adj|large-SP (1)adj|long-SP
+	(1)n|garden prep|in n:prop|Big_Town .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gerald/gerald21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Gerald/gerald21.cha": line 2559.
+*MOT:	and make a big long chain for Christmas (12.) .
+%mor:	coord|and v|make det:art|a (1)adj|big (1)adj|long (1)n|chain prep|for
+	n:prop|Christmas .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Harriet/harrie21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Iris/iris21.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jack/jack21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jack/jack21.cha": line 1314.
+*MOT:	you crafty little worm .
+%mor:	pro:per|you (1)adj|craft&dn-Y (1)adj|little (1)n|worm .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jonathan/jonath21.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Wells/Jonathan/jonath21.cha": line 434.
+*MOT:	two seventy five for a tatty old cheesecloth shirt .
+%mor:	det:num|two det:num|seventy det:num|five prep|for det:art|a
+	(1)adj|tat&dv-Y (1)adj|old (1)n|cheesecloth n|shirt .
+
+    Strings matched 1 times
+

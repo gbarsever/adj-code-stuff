@@ -1,0 +1,54 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:06:47 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <benjam02.cha>
+
+    Strings matched 0 times
+
+From file <benjam03.cha>
+
+    Strings matched 0 times
+
+From file <benjam04.cha>
+----------------------------------------
+*** File "benjam04.cha": line 229.
+*CHI:	nice horrible cakes .
+%mor:	(1)adj|nice (1)adj|horrible (1)n|cake-PL .
+
+    Strings matched 1 times
+
+From file <benjam05.cha>
+
+    Strings matched 0 times
+
+From file <benjam06.cha>
+
+    Strings matched 0 times
+
+From file <benjam07.cha>
+
+    Strings matched 0 times
+
+From file <benjam08.cha>
+
+    Strings matched 0 times
+
+From file <benjam09.cha>
+----------------------------------------
+*** File "benjam09.cha": line 778.
+*CHI:	and that nice little [<] jug alright ?
+%mor:	coord|and pro:dem|that (1)adj|nice (1)adj|little (1)n|jug adj|alright ?
+
+    Strings matched 1 times
+
+From file <benjam10.cha>
+
+    Strings matched 0 times
+
+From file <benjam21.cha>
+
+    Strings matched 0 times
+

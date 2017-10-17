@@ -1,0 +1,173 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:30:40 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <gas.cha>
+----------------------------------------
+*** File "gas.cha": line 2754.
+*CHI:	&+likee , &+cheeken in duh [: the] little teenee [: teeny] c:ar .
+%mor:	cm|cm prep|in det:art|the (1)adj|little (1)adj|teeny (1)n|car .
+----------------------------------------
+*** File "gas.cha": line 22857.
+*CHI:	on what fun it is to ride , in duh [: the] one horse open open
+	sleigh , hey !
+%mor:	prep|on pro:int|what n|fun pro:per|it cop|be&3S inf|to n|ride cm|cm
+	prep|in det:art|the pro:indef|one n|horse (1)adj|open (1)adj|open (1)n|sleigh
+	cm|cm co|hey !
+----------------------------------------
+*** File "gas.cha": line 23323.
+*CHI:	like I: been workin(g) on duh [: the] ra:ilroad , listen , first ,
+	a:ll duh [: the] live song [: long] day , &+stk , I: been workin(g)
+	on duh [: the] ra:ilroa(d) just to pass duh [: the] time away ,
+	can't you hear the whistle blo:wing , rise up so early in duh
+	[: the] mo:rnin(g) can't you hear the captain shou:tin(g) Dinah blow
+	your horn , hoohoo@o !
+%mor:	conj|like pro:sub|I aux|be&PASTP part|work-PRESP prep|on
+	det:art|the n|railroad cm|cm v|listen cm|cm adv|first cm|cm qn|all
+	det:art|the (1)adj|live (1)adj|long (1)n|day cm|cm cm|cm pro:sub|I
+	aux|be&PASTP part|work-PRESP prep|on det:art|the n|railroad adv|just
+	prep|to n|pass det:art|the n|time adv|away cm|cm mod|can~neg|not
+	pro:per|you v|hear det:art|the n|whistle part|blow-PRESP cm|cm
+	v|rise adv|up adv|so adv|early prep|in det:art|the n|morning
+	mod|can~neg|not pro:per|you v|hear det:art|the n|captain
+	part|shout-PRESP n:prop|Dinah n|blow det:poss|your n|horn cm|cm
+	on|hoohoo !
+
+    Strings matched 3 times
+
+From file <grc.cha>
+
+    Strings matched 0 times
+
+From file <job.cha>
+
+    Strings matched 0 times
+
+From file <jub.cha>
+----------------------------------------
+*** File "jub.cha": line 4090.
+*CHI:	&+ee:ee hi hi you're a funny comic book .
+%mor:	co|hi co|hi pro:per|you~aux|be&PRES det:art|a (1)adj|fun&dn-Y
+	(1)adj|comic (1)n|book .
+----------------------------------------
+*** File "jub.cha": line 16789.
+*CHI:	a little tiny oven !
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|oven !
+----------------------------------------
+*** File "jub.cha": line 21955.
+*CHI:	the live long da:y , hey .
+%mor:	det:art|the (1)adj|live (1)adj|long (1)n|day cm|cm co|hey .
+
+    Strings matched 3 times
+
+From file <lea.cha>
+
+    Strings matched 0 times
+
+From file <maa.cha>
+----------------------------------------
+*** File "maa.cha": line 4896.
+*CHI:	slippy happy Gerome .
+%mor:	(1)adj|slip&dv-Y (1)adj|happy (1)n:prop|Gerome .
+
+    Strings matched 1 times
+
+From file <rob.cha>
+----------------------------------------
+*** File "rob.cha": line 1296.
+*CHI:	cause I've been working on the xxx all my live long day .
+%mor:	v|cause pro:sub|I~aux|have aux|be&PASTP part|work-PRESP prep|on
+	det:art|the qn|all det:poss|my (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "rob.cha": line 4548.
+*CHI:	big bad Tony .
+%mor:	(1)adj|big (1)adj|bad (1)n:prop|Tony .
+----------------------------------------
+*** File "rob.cha": line 15384.
+*CHI:	the lobster was awive [: alive] last year +...
+%mor:	det:art|the n|lobster cop|be&PAST&13S (1)adj|alive (1)adj|last (1)n|year
+	+...
+----------------------------------------
+*** File "rob.cha": line 16451.
+*CHI:	xxx &+tch &+tch &+tch hey I have my own wild song .
+%mor:	co|hey pro:sub|I v|have det:poss|my (1)adj|own (1)adj|wild (1)n|song .
+
+    Strings matched 4 times
+
+From file <toh.cha>
+----------------------------------------
+*** File "toh.cha": line 5125.
+*CHI:	the super super guys .
+%mor:	det:art|the (1)adj|super (1)adj|super (1)n|guy-PL .
+
+    Strings matched 1 times
+
+From file <tos.cha>
+----------------------------------------
+*** File "tos.cha": line 3891.
+*CHI:	look at this dumb dumb shirt .
+%mor:	cop|look prep|at pro:dem|this (1)adj|dumb (1)adj|dumb (1)n|shirt .
+----------------------------------------
+*** File "tos.cha": line 17737.
+*CHI:	no (.) no , the same old way , no , all the way (.) now it's never
+	got &=laugh +...
+%mor:	co|no co|no cm|cm det:art|the (1)adj|same (1)adj|old (1)n|way cm|cm qn|no
+	cm|cm qn|all det:art|the n|way adv|now pro:per|it~cop|be&3S
+	adv|never v|get&PAST +...
+
+    Strings matched 2 times
+
+From file <zoe.cha>
+----------------------------------------
+*** File "zoe.cha": line 52.
+*CHI:	nice little room , spacey@wp poo@wp .
+%mor:	(1)adj|nice (1)adj|little (1)n|room cm|cm wplay|spacey wplay|poo .
+----------------------------------------
+*** File "zoe.cha": line 657.
+*CHI:	why were you late last night ?
+%mor:	adv:int|why cop|be&PAST pro:per|you (1)adj|late (1)adj|last (1)n|night ?
+----------------------------------------
+*** File "zoe.cha": line 3175.
+*CHI:	on the new pink panther sho:w (.) !
+%mor:	prep|on det:art|the (1)adj|new (1)adj|pink (1)n|panther n|show !
+----------------------------------------
+*** File "zoe.cha": line 3230.
+*CHI:	we are the new pink panther sho:w !
+%mor:	pro:sub|we cop|be&PRES det:art|the (1)adj|new (1)adj|pink (1)n|panther
+	n|show !
+----------------------------------------
+*** File "zoe.cha": line 7411.
+*CHI:	yeah , into little bitty pieces .
+%mor:	co|yeah cm|cm prep|into (1)adj|little (1)adj|bit&dn-Y (1)n|piece-PL .
+----------------------------------------
+*** File "zoe.cha": line 11574.
+*CHI:	there he is , hi you cute little gerbil (.) I gave him too much
+	food .
+%mor:	adv|there pro:sub|he aux|be&3S cm|cm co|hi pro:per|you (1)adj|cute
+	(1)adj|little (1)n|gerbil pro:sub|I v|give&PAST pro:obj|him adv|too
+	qn|much n|food .
+----------------------------------------
+*** File "zoe.cha": line 12061.
+*CHI:	good little doggie xxx hey , come here .
+%mor:	(1)adj|good (1)adj|little (1)n|dog-DIM co|hey cm|cm v|come adv|here .
+----------------------------------------
+*** File "zoe.cha": line 13020.
+*CHI:	Kate's a a real good guy .
+%mor:	n:prop|Kate~poss|s det:art|a det:art|a (1)adj|real (1)adj|good (1)n|guy .
+----------------------------------------
+*** File "zoe.cha": line 13023.
+*CHI:	Kate's a real good guy girl .
+%mor:	n:prop|Kate~poss|s det:art|a (1)adj|real (1)adj|good (1)n|guy n|girl .
+----------------------------------------
+*** File "zoe.cha": line 13026.
+*CHI:	Kate's a real good girl .
+%mor:	n:prop|Kate~poss|s det:art|a (1)adj|real (1)adj|good (1)n|girl .
+----------------------------------------
+*** File "zoe.cha": line 14509.
+*CHI:	beddie bye , nice little pillow (.) .
+%mor:	n|bed-DIM co|bye cm|cm (1)adj|nice (1)adj|little (1)n|pillow .
+
+    Strings matched 11 times
+

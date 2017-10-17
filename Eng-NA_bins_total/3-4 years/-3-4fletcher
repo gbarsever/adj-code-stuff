@@ -1,0 +1,132 @@
+combo +t%mor -t*CHI -t*OTH +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:43:40 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *OTH;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/bncar.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/bnkata.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/bnlou.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/cnjan.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/cnjan.cha": line 134.
+*INV:	a big fierce dragon .
+%mor:	det:art|a (1)adj|big (1)adj|fierce (1)n|dragon .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/cnnat.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/cnnat.cha": line 255.
+*INV:	you sit on the little red chair .
+%mor:	pro:per|you v|sit prep|on det:art|the (1)adj|little (1)adj|red (1)n|chair .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/fleff.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/flkir.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/flkir.cha": line 1184.
+*INV:	you're a clever little girl „ aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|clever (1)adj|little (1)n|girl
+	end|end aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/flmat.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/flmat.cha": line 273.
+*INV:	a big big tree , yes .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|tree cm|cm co|yes .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/flrob.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwgar.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwjenb.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwkat.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwkery.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwkery.cha": line 81.
+*INV:	it's a lovely brown horsie .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|brown (1)n|horse-DIM
+	.
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwkery.cha": line 144.
+*INV:	look at that lovely big cart .
+%mor:	cop|look prep|at pro:dem|that (1)adj|love&dn-LY (1)adj|big (1)n|cart .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwkir.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwlee.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwmath.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/nwmic.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/racol.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/raemio.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/raoli.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/spcraf.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/spdan.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/spdav.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/spdav.cha": line 864.
+*INV:	that's an even better game .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|even (1)adj|good&CP (1)n|game .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Fletcher/3/spkev.cha>
+
+    Strings matched 0 times
+

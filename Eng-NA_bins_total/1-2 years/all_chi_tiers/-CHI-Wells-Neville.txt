@@ -1,0 +1,80 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:12:49 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <nevill02.cha>
+
+    Strings matched 0 times
+
+From file <nevill03.cha>
+
+    Strings matched 0 times
+
+From file <nevill04.cha>
+----------------------------------------
+*** File "nevill04.cha": line 639.
+*MOT:	look at they poor little dickie birds out in the rain (2.) .
+%mor:	cop|look prep|at pro:sub|they (1)adj|poor (1)adj|little (1)n|dick-DIM
+	n|bird-PL adv|out prep|in det:art|the n|rain .
+
+    Strings matched 1 times
+
+From file <nevill05.cha>
+----------------------------------------
+*** File "nevill05.cha": line 898.
+*MOT:	want to go wee wee pottie ?
+%mor:	v|want inf|to v|go (1)adj|wee (1)adj|wee (1)n|pot-DIM ?
+----------------------------------------
+*** File "nevill05.cha": line 904.
+*MOT:	do you want to go wee wee pottie (1.) ?
+%mor:	mod|do pro:per|you v|want inf|to v|go (1)adj|wee (1)adj|wee (1)n|pot-DIM ?
+
+    Strings matched 2 times
+
+From file <nevill06.cha>
+
+    Strings matched 0 times
+
+From file <nevill07.cha>
+----------------------------------------
+*** File "nevill07.cha": line 1023.
+*MOT:	eensie weensie spider .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 1 times
+
+From file <nevill08.cha>
+----------------------------------------
+*** File "nevill08.cha": line 179.
+*MOT:	creepy crawly snail .
+%mor:	(1)adj|creep&dn-Y (1)adj|crawl&dv-Y (1)n|snail .
+----------------------------------------
+*** File "nevill08.cha": line 185.
+*MOT:	creepy crawly snail .
+%mor:	(1)adj|creep&dn-Y (1)adj|crawl&dv-Y (1)n|snail .
+----------------------------------------
+*** File "nevill08.cha": line 253.
+*MOT:	poor old Tara .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Tara .
+----------------------------------------
+*** File "nevill08.cha": line 441.
+*MOT:	little green man isn't it ?
+%mor:	(1)adj|little (1)adj|green (1)n|man cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 4 times
+
+From file <nevill09.cha>
+----------------------------------------
+*** File "nevill09.cha": line 680.
+*UNK:	it's taken a long long time a build this house (3.) .
+%mor:	pro:per|it~aux|be&3S part|take&PASTP det:art|a (1)adj|long (1)adj|long
+	(1)n|time det:art|a v|build pro:dem|this n|house .
+
+    Strings matched 1 times
+
+From file <nevill10.cha>
+
+    Strings matched 0 times
+

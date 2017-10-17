@@ -1,0 +1,380 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:50:37 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11006.cha>
+
+    Strings matched 0 times
+
+From file <11012.cha>
+----------------------------------------
+*** File "11012.cha": line 392.
+*MOT:	oh , <here we'll put him> [/?] should we put it over here and now
+	we made a nice little family .
+%mor:	co|oh cm|cm mod|should pro:sub|we v|put&ZERO pro:per|it adv|over
+	adv|here coord|and adv|now pro:sub|we v|make&PAST det:art|a (1)adj|nice
+	(1)adj|little (1)n|family .
+----------------------------------------
+*** File "11012.cha": line 781.
+*MOT:	I think you^'d better just play with the farm .
+%mor:	pro:sub|I v|think pro:per|you~mod|genmod (1)adj|good&CP (1)adj|just
+	(1)n|play prep|with det:art|the n|farm .
+
+    Strings matched 2 times
+
+From file <11013.cha>
+
+    Strings matched 0 times
+
+From file <11018.cha>
+----------------------------------------
+*** File "11018.cha": line 235.
+*MOT:	and here's a little bitty sheep .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|a (1)adj|little
+	(1)adj|bit&dn-Y (1)n|sheep .
+----------------------------------------
+*** File "11018.cha": line 315.
+*MOT:	(0.4) there's a little bitty kid .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|bit&dn-Y (1)n|kid .
+
+    Strings matched 2 times
+
+From file <11023.cha>
+
+    Strings matched 0 times
+
+From file <11024.cha>
+
+    Strings matched 0 times
+
+From file <11025.cha>
+
+    Strings matched 0 times
+
+From file <11027.cha>
+
+    Strings matched 0 times
+
+From file <11035.cha>
+
+    Strings matched 0 times
+
+From file <11041.cha>
+
+    Strings matched 0 times
+
+From file <11045.cha>
+
+    Strings matched 0 times
+
+From file <11051.cha>
+----------------------------------------
+*** File "11051.cha": line 1002.
+*MOT:	oh that's a snappy little hat .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|snap&dv-Y (1)adj|little
+	(1)n|hat .
+----------------------------------------
+*** File "11051.cha": line 1376.
+*MOT:	(0.2) you are making a goofy goofy guy .
+%mor:	pro:per|you aux|be&PRES part|make-PRESP det:art|a (1)adj|goof&dv-Y
+	(1)adj|goof&dv-Y (1)n|guy .
+----------------------------------------
+*** File "11051.cha": line 1437.
+*MOT:	this is a pretty neat barn , huh ?
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|barn cm|cm
+	co|huh ?
+
+    Strings matched 3 times
+
+From file <11053.cha>
+
+    Strings matched 0 times
+
+From file <11055.cha>
+
+    Strings matched 0 times
+
+From file <11057.cha>
+
+    Strings matched 0 times
+
+From file <11062.cha>
+
+    Strings matched 0 times
+
+From file <11063.cha>
+
+    Strings matched 0 times
+
+From file <12003.cha>
+----------------------------------------
+*** File "12003.cha": line 169.
+*MOT:	(0.4) they're kinda funny little round people aren't they ?
+%mor:	pro:sub|they~aux|be&PRES adv|kinda adj|fun&dn-Y (1)adj|little
+	(1)adj|round (1)n|person&PL aux|be&PRES~neg|not pro:sub|they ?
+
+    Strings matched 1 times
+
+From file <12004.cha>
+
+    Strings matched 0 times
+
+From file <12007.cha>
+
+    Strings matched 0 times
+
+From file <12008.cha>
+
+    Strings matched 0 times
+
+From file <12011.cha>
+
+    Strings matched 0 times
+
+From file <12014.cha>
+
+    Strings matched 0 times
+
+From file <12015.cha>
+
+    Strings matched 0 times
+
+From file <12021.cha>
+----------------------------------------
+*** File "12021.cha": line 52.
+*MOT:	<you hafta> [/?] you have_to grab this little blue part .
+%mor:	pro:per|you mod:aux|have_to v|grab pro:dem|this (1)adj|little (1)adj|blue
+	(1)n|part .
+----------------------------------------
+*** File "12021.cha": line 568.
+*MOT:	see that big blue part ?
+%mor:	v|see pro:rel|that (1)adj|big (1)adj|blue (1)n|part ?
+
+    Strings matched 2 times
+
+From file <12026.cha>
+
+    Strings matched 0 times
+
+From file <12028.cha>
+
+    Strings matched 0 times
+
+From file <12029.cha>
+
+    Strings matched 0 times
+
+From file <12033.cha>
+
+    Strings matched 0 times
+
+From file <12037.cha>
+
+    Strings matched 0 times
+
+From file <12040.cha>
+
+    Strings matched 0 times
+
+From file <12047.cha>
+----------------------------------------
+*** File "12047.cha": line 318.
+*MOT:	<what's &+th> [/?] , I think those are just extra pieces .
+%mor:	cm|cm pro:sub|I v|think pro:dem|those aux|be&PRES (1)adj|just
+	(1)adj|extra (1)n|piece-PL .
+
+    Strings matched 1 times
+
+From file <12050.cha>
+----------------------------------------
+*** File "12050.cha": line 684.
+*MOT:	you have a wide open space there .
+%mor:	pro:per|you v|have det:art|a (1)adj|wide (1)adj|open (1)n|space adv|there .
+----------------------------------------
+*** File "12050.cha": line 1155.
+*MOT:	this is a nice big window .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|window .
+
+    Strings matched 2 times
+
+From file <12054.cha>
+----------------------------------------
+*** File "12054.cha": line 721.
+*MOT:	sweetie he wore a red suit and he had a beard and a funny red hat .
+%mor:	co|sweetie pro:sub|he v|wear&PAST det:art|a n|red n|suit coord|and
+	pro:sub|he v|have&PAST det:art|a n|beard coord|and det:art|a
+	(1)adj|fun&dn-Y (1)adj|red (1)n|hat .
+
+    Strings matched 1 times
+
+From file <12056.cha>
+
+    Strings matched 0 times
+
+From file <12061.cha>
+----------------------------------------
+*** File "12061.cha": line 809.
+*MOT:	poor little chicken .
+%mor:	(1)adj|poor (1)adj|little (1)n|chicken .
+
+    Strings matched 1 times
+
+From file <12071.cha>
+
+    Strings matched 0 times
+
+From file <12077.cha>
+
+    Strings matched 0 times
+
+From file <12095.cha>
+
+    Strings matched 0 times
+
+From file <21092.cha>
+----------------------------------------
+*** File "21092.cha": line 624.
+*MOT:	what a nice cozy bed .
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|cozy (1)n|bed .
+
+    Strings matched 1 times
+
+From file <21096.cha>
+
+    Strings matched 0 times
+
+From file <21097.cha>
+
+    Strings matched 0 times
+
+From file <21099.cha>
+
+    Strings matched 0 times
+
+From file <21102.cha>
+
+    Strings matched 0 times
+
+From file <21106.cha>
+
+    Strings matched 0 times
+
+From file <21116.cha>
+
+    Strings matched 0 times
+
+From file <21121.cha>
+
+    Strings matched 0 times
+
+From file <21126.cha>
+----------------------------------------
+*** File "21126.cha": line 730.
+*MOT:	it's not quite a puppet unless you have really small little fingers
+	like you do .
+%mor:	pro:per|it~cop|be&3S neg|not adv|quite det:art|a n|puppet
+	conj|unless pro:per|you v|have adv|real&dadj-LY (1)adj|small (1)adj|little
+	(1)n|finger-PL prep|like pro:per|you v|do .
+
+    Strings matched 1 times
+
+From file <21134.cha>
+
+    Strings matched 0 times
+
+From file <21135.cha>
+----------------------------------------
+*** File "21135.cha": line 430.
+*MOT:	I'll show you , he's got really funny different things .
+%mor:	pro:sub|I~mod|will v|show pro:per|you cm|cm pro:sub|he~aux|be&3S
+	v|get&PAST adv|real&dadj-LY (1)adj|fun&dn-Y (1)adj|different (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <21173.cha>
+
+    Strings matched 0 times
+
+From file <21193.cha>
+
+    Strings matched 0 times
+
+From file <22089.cha>
+
+    Strings matched 0 times
+
+From file <22093.cha>
+
+    Strings matched 0 times
+
+From file <22101.cha>
+
+    Strings matched 0 times
+
+From file <22103.cha>
+
+    Strings matched 0 times
+
+From file <22104.cha>
+
+    Strings matched 0 times
+
+From file <22109.cha>
+----------------------------------------
+*** File "22109.cha": line 487.
+*FAT:	whoa look at this , it's a big smily mouth .
+%mor:	co|whoa cop|look prep|at pro:dem|this cm|cm pro:per|it~cop|be&3S
+	det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|mouth .
+
+    Strings matched 1 times
+
+From file <22113.cha>
+----------------------------------------
+*** File "22113.cha": line 503.
+*MOT:	(0.8) that's a cute little foal .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|foal .
+
+    Strings matched 1 times
+
+From file <22118.cha>
+
+    Strings matched 0 times
+
+From file <22120.cha>
+
+    Strings matched 0 times
+
+From file <22124.cha>
+
+    Strings matched 0 times
+
+From file <22128.cha>
+
+    Strings matched 0 times
+
+From file <22141.cha>
+
+    Strings matched 0 times
+
+From file <22148.cha>
+
+    Strings matched 0 times
+
+From file <22180.cha>
+
+    Strings matched 0 times
+
+From file <22184.cha>
+
+    Strings matched 0 times
+
+From file <22186.cha>
+
+    Strings matched 0 times
+
+From file <22192.cha>
+
+    Strings matched 0 times
+

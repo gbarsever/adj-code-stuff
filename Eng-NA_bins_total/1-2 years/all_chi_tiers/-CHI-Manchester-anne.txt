@@ -1,0 +1,611 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:56:37 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <anne01a.cha>
+
+    Strings matched 0 times
+
+From file <anne01b.cha>
+
+    Strings matched 0 times
+
+From file <anne02a.cha>
+----------------------------------------
+*** File "anne02a.cha": line 2057.
+*MOT:	exciting new books I buy you .
+%mor:	(1)adj|exciting (1)adj|new (1)n|book-PL pro:sub|I v|buy pro:per|you .
+
+    Strings matched 1 times
+
+From file <anne02b.cha>
+
+    Strings matched 0 times
+
+From file <anne03a.cha>
+
+    Strings matched 0 times
+
+From file <anne03b.cha>
+
+    Strings matched 0 times
+
+From file <anne04a.cha>
+
+    Strings matched 0 times
+
+From file <anne04b.cha>
+
+    Strings matched 0 times
+
+From file <anne05a.cha>
+----------------------------------------
+*** File "anne05a.cha": line 1408.
+*MOT:	poor old Paddington .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Paddington .
+
+    Strings matched 1 times
+
+From file <anne05b.cha>
+
+    Strings matched 0 times
+
+From file <anne06a.cha>
+
+    Strings matched 0 times
+
+From file <anne06b.cha>
+
+    Strings matched 0 times
+
+From file <anne07a.cha>
+----------------------------------------
+*** File "anne07a.cha": line 2409.
+*MOT:	quick quick baby .
+%mor:	(1)adj|quick (1)adj|quick (1)n|baby .
+
+    Strings matched 1 times
+
+From file <anne07b.cha>
+
+    Strings matched 0 times
+
+From file <anne08a.cha>
+
+    Strings matched 0 times
+
+From file <anne08b.cha>
+----------------------------------------
+*** File "anne08b.cha": line 2732.
+*MOT:	if it's nice fresh bread .
+%mor:	conj|if pro:per|it~cop|be&3S (1)adj|nice (1)adj|fresh (1)n|bread .
+
+    Strings matched 1 times
+
+From file <anne09a.cha>
+
+    Strings matched 0 times
+
+From file <anne09b.cha>
+
+    Strings matched 0 times
+
+From file <anne10a.cha>
+----------------------------------------
+*** File "anne10a.cha": line 2979.
+*MOT:	well perhaps when it's your birthday again which is a long long
+	time you'll perhaps be able to have a spot cake .
+%mor:	co|well adv|perhaps conj|when pro:per|it~cop|be&3S det:poss|your
+	n|+n|birth+n|day adv|again pro:rel|which cop|be&3S det:art|a
+	(1)adj|long (1)adj|long (1)n|time pro:per|you~mod|will adv|perhaps cop|be
+	adj|able inf|to v|have det:art|a n|spot n|cake .
+
+    Strings matched 1 times
+
+From file <anne10b.cha>
+----------------------------------------
+*** File "anne10b.cha": line 464.
+*MOT:	and two great big penguins there .
+%mor:	coord|and det:num|two (1)adj|great (1)adj|big (1)n|penguin-PL adv|there .
+----------------------------------------
+*** File "anne10b.cha": line 1797.
+*MOT:	and a big red question mark .
+%mor:	coord|and det:art|a (1)adj|big (1)adj|red (1)n|question n|mark .
+----------------------------------------
+*** File "anne10b.cha": line 1847.
+*MOT:	and a big red question mark .
+%mor:	coord|and det:art|a (1)adj|big (1)adj|red (1)n|question n|mark .
+----------------------------------------
+*** File "anne10b.cha": line 1905.
+*MOT:	and a big red question mark .
+%mor:	coord|and det:art|a (1)adj|big (1)adj|red (1)n|question n|mark .
+----------------------------------------
+*** File "anne10b.cha": line 1957.
+*MOT:	and a big red question mark .
+%mor:	coord|and det:art|a (1)adj|big (1)adj|red (1)n|question n|mark .
+
+    Strings matched 5 times
+
+From file <anne11a.cha>
+----------------------------------------
+*** File "anne11a.cha": line 249.
+*MOT:	we could put baby animals in the little tiny field .
+%mor:	pro:sub|we mod|could v|put&ZERO n|baby n|animal-PL prep|in
+	det:art|the (1)adj|little (1)adj|tiny (1)n|field .
+
+    Strings matched 1 times
+
+From file <anne11b.cha>
+----------------------------------------
+*** File "anne11b.cha": line 259.
+*MOT:	and a yummy yummy cake .
+%mor:	coord|and det:art|a (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|cake .
+----------------------------------------
+*** File "anne11b.cha": line 1520.
+*MOT:	that's for little tiny animals „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S prep|for (1)adj|little (1)adj|tiny (1)n|animal-PL
+	end|end cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <anne12a.cha>
+
+    Strings matched 0 times
+
+From file <anne12b.cha>
+----------------------------------------
+*** File "anne12b.cha": line 2668.
+*MOT:	poor old rabbit .
+%mor:	(1)adj|poor (1)adj|old (1)n|rabbit .
+----------------------------------------
+*** File "anne12b.cha": line 2671.
+*MOT:	poor old rabbit „ isn't he ?
+%mor:	(1)adj|poor (1)adj|old (1)n|rabbit end|end cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <anne13a.cha>
+
+    Strings matched 0 times
+
+From file <anne13b.cha>
+----------------------------------------
+*** File "anne13b.cha": line 433.
+*MOT:	that's a nice big juice strawberry „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|juice
+	n|strawberry end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "anne13b.cha": line 2850.
+*MOT:	I've built a great big yellow tower .
+%mor:	pro:sub|I~aux|have part|build&PASTP det:art|a adj|great (1)adj|big
+	(1)adj|yellow (1)n|tower .
+
+    Strings matched 2 times
+
+From file <anne14a.cha>
+----------------------------------------
+*** File "anne14a.cha": line 1793.
+*MOT:	poor little animals .
+%mor:	(1)adj|poor (1)adj|little (1)n|animal-PL .
+----------------------------------------
+*** File "anne14a.cha": line 1818.
+*MOT:	why are they poor little animals ?
+%mor:	adv:int|why aux|be&PRES pro:sub|they (1)adj|poor (1)adj|little
+	(1)n|animal-PL ?
+----------------------------------------
+*** File "anne14a.cha": line 1828.
+*MOT:	why are they poor little animals ?
+%mor:	adv:int|why aux|be&PRES pro:sub|they (1)adj|poor (1)adj|little
+	(1)n|animal-PL ?
+
+    Strings matched 3 times
+
+From file <anne14b.cha>
+
+    Strings matched 0 times
+
+From file <anne15a.cha>
+----------------------------------------
+*** File "anne15a.cha": line 989.
+*MOT:	one day there's a great big piggy sitting down having umbrella ?
+%mor:	det:num|one n|day pro:exist|there~cop|be&3S det:art|a (1)adj|great
+	(1)adj|big (1)n|pig-DIM part|sit-PRESP adv|down part|have-PRESP n|umbrella
+	?
+
+    Strings matched 1 times
+
+From file <anne15b.cha>
+----------------------------------------
+*** File "anne15b.cha": line 375.
+*MOT:	she's got nice long hair .
+%mor:	pro:sub|she~aux|be&3S v|get&PAST (1)adj|nice (1)adj|long (1)n|hair .
+----------------------------------------
+*** File "anne15b.cha": line 954.
+*MOT:	nice little man's in the engine .
+%mor:	(1)adj|nice (1)adj|little (1)n|man~poss|s prep|in det:art|the n|engine .
+
+    Strings matched 2 times
+
+From file <anne16a.cha>
+----------------------------------------
+*** File "anne16a.cha": line 1792.
+*MOT:	poor old Caitlin .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Caitlin .
+----------------------------------------
+*** File "anne16a.cha": line 2660.
+*MOT:	poor old baby .
+%mor:	(1)adj|poor (1)adj|old (1)n|baby .
+
+    Strings matched 2 times
+
+From file <anne16b.cha>
+
+    Strings matched 0 times
+
+From file <anne17a.cha>
+----------------------------------------
+*** File "anne17a.cha": line 736.
+*MOT:	I don't think we have any little tiny covers „ have we ?
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|we v|have qn|any
+	(1)adj|little (1)adj|tiny (1)n|cover-PL end|end v|have pro:sub|we ?
+----------------------------------------
+*** File "anne17a.cha": line 1558.
+*MOT:	we need some tiny little plates „ don't we to put on this little
+	table .
+%mor:	pro:sub|we v|need qn|some (1)adj|tiny (1)adj|little (1)n|plate-PL end|end
+	mod|do~neg|not pro:sub|we inf|to v|put&ZERO prep|on pro:dem|this
+	adj|little n|table .
+
+    Strings matched 2 times
+
+From file <anne17b.cha>
+
+    Strings matched 0 times
+
+From file <anne18a.cha>
+
+    Strings matched 0 times
+
+From file <anne18b.cha>
+----------------------------------------
+*** File "anne18b.cha": line 958.
+*INV:	lucky old Anne .
+%mor:	(1)adj|luck&dn-Y (1)adj|old (1)n:prop|Anne .
+----------------------------------------
+*** File "anne18b.cha": line 1523.
+*MOT:	nice full stockings .
+%mor:	(1)adj|nice (1)adj|full (1)n:gerund|stock-PRESP-PL .
+----------------------------------------
+*** File "anne18b.cha": line 1687.
+*MOT:	or shall we make a great big tower or a castle ?
+%mor:	coord|or mod|shall pro:sub|we v|make det:art|a (1)adj|great (1)adj|big
+	(1)n|tower coord|or det:art|a n|castle ?
+----------------------------------------
+*** File "anne18b.cha": line 2484.
+*MOT:	what great big walls .
+%mor:	pro:int|what (1)adj|great (1)adj|big (1)n|wall-PL .
+
+    Strings matched 4 times
+
+From file <anne19a.cha>
+----------------------------------------
+*** File "anne19a.cha": line 812.
+*MOT:	poor old teddy .
+%mor:	(1)adj|poor (1)adj|old (1)n|teddy .
+
+    Strings matched 1 times
+
+From file <anne19b.cha>
+
+    Strings matched 0 times
+
+From file <anne20a.cha>
+
+    Strings matched 0 times
+
+From file <anne20b.cha>
+----------------------------------------
+*** File "anne20b.cha": line 1344.
+*MOT:	poor old tiger .
+%mor:	(1)adj|poor (1)adj|old (1)n|tiger .
+
+    Strings matched 1 times
+
+From file <anne21a.cha>
+----------------------------------------
+*** File "anne21a.cha": line 64.
+*MOT:	poor old spider , &-eh ?
+%mor:	(1)adj|poor (1)adj|old (1)n|spider cm|cm ?
+----------------------------------------
+*** File "anne21a.cha": line 1500.
+*MOT:	I thought there was a little tiny baby one .
+%mor:	pro:sub|I v|think&PAST adv|there cop|be&PAST&13S det:art|a
+	(1)adj|little (1)adj|tiny (1)n|baby pro:indef|one .
+
+    Strings matched 2 times
+
+From file <anne21b.cha>
+----------------------------------------
+*** File "anne21b.cha": line 114.
+*MOT:	and some tiny little piglets .
+%mor:	coord|and qn|some (1)adj|tiny (1)adj|little (1)n|piglet-PL .
+----------------------------------------
+*** File "anne21b.cha": line 376.
+*MOT:	we saw those [/] those cats in [/] in the funny little lounge „
+	didn't we ?
+%mor:	pro:sub|we v|see&PAST pro:dem|those n|cat-PL prep|in det:art|the
+	(1)adj|fun&dn-Y (1)adj|little (1)n|lounge end|end mod|do&PAST~neg|not
+	pro:sub|we ?
+
+    Strings matched 2 times
+
+From file <anne22a.cha>
+----------------------------------------
+*** File "anne22a.cha": line 1276.
+*MOT:	she's a very happy little girl „ isn't she ?
+%mor:	pro:sub|she~aux|be&3S det:art|a adv|very (1)adj|happy (1)adj|little
+	(1)n|girl end|end cop|be&3S~neg|not pro:sub|she ?
+
+    Strings matched 1 times
+
+From file <anne22b.cha>
+----------------------------------------
+*** File "anne22b.cha": line 677.
+*MOT:	that's a little tiny flower .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|flower .
+----------------------------------------
+*** File "anne22b.cha": line 721.
+*MOT:	that's eensie weensie spider .
+%mor:	pro:dem|that~cop|be&3S (1)adj|eensie (1)adj|weensie (1)n|spider .
+
+    Strings matched 2 times
+
+From file <anne23a.cha>
+----------------------------------------
+*** File "anne23a.cha": line 1500.
+*MOT:	big long line .
+%mor:	(1)adj|big (1)adj|long (1)n|line .
+----------------------------------------
+*** File "anne23a.cha": line 1615.
+*MOT:	what a long long line .
+%mor:	pro:int|what det:art|a (1)adj|long (1)adj|long (1)n|line .
+
+    Strings matched 2 times
+
+From file <anne23b.cha>
+
+    Strings matched 0 times
+
+From file <anne24a.cha>
+----------------------------------------
+*** File "anne24a.cha": line 2210.
+*MOT:	that's a great big snowman „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|+n|snow+n|man
+	end|end cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <anne24b.cha>
+----------------------------------------
+*** File "anne24b.cha": line 185.
+*MOT:	the penguin's on the blue watery brick .
+%mor:	det:art|the n|penguin~cop|be&3S prep|on det:art|the (1)adj|blue
+	(1)adj|water&dn-Y (1)n|brick .
+----------------------------------------
+*** File "anne24b.cha": line 1429.
+*MOT:	poor old whale .
+%mor:	(1)adj|poor (1)adj|old (1)n|whale .
+
+    Strings matched 2 times
+
+From file <anne25a.cha>
+----------------------------------------
+*** File "anne25a.cha": line 2587.
+*MOT:	great big pen „ isn't it ?
+%mor:	(1)adj|great (1)adj|big (1)n|pen end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "anne25a.cha": line 2728.
+*MOT:	poor little Annie_Apple .
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Annie_Apple .
+
+    Strings matched 2 times
+
+From file <anne25b.cha>
+----------------------------------------
+*** File "anne25b.cha": line 665.
+*MOT:	poor old monkey .
+%mor:	(1)adj|poor (1)adj|old (1)n|monkey .
+
+    Strings matched 1 times
+
+From file <anne26a.cha>
+----------------------------------------
+*** File "anne26a.cha": line 735.
+*MOT:	little easter chickens .
+%mor:	(1)adj|little (1)adj|east-CP (1)n|chicken-PL .
+
+    Strings matched 1 times
+
+From file <anne26b.cha>
+
+    Strings matched 0 times
+
+From file <anne27a.cha>
+
+    Strings matched 0 times
+
+From file <anne27b.cha>
+
+    Strings matched 0 times
+
+From file <anne28a.cha>
+----------------------------------------
+*** File "anne28a.cha": line 164.
+*MOT:	with a big smily face .
+%mor:	prep|with det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|face .
+----------------------------------------
+*** File "anne28a.cha": line 943.
+*MOT:	is it a nice hot day ?
+%mor:	aux|be&3S pro:per|it det:art|a (1)adj|nice (1)adj|hot (1)n|day ?
+----------------------------------------
+*** File "anne28a.cha": line 1105.
+*MOT:	great big stone .
+%mor:	(1)adj|great (1)adj|big (1)n|stone .
+----------------------------------------
+*** File "anne28a.cha": line 1111.
+*MOT:	and what did you do with that great big stone ?
+%mor:	coord|and pro:int|what mod|do&PAST pro:per|you v|do prep|with
+	pro:dem|that (1)adj|great (1)adj|big (1)n|stone ?
+----------------------------------------
+*** File "anne28a.cha": line 1131.
+*MOT:	and made a great big splash .
+%mor:	coord|and v|make&PAST det:art|a (1)adj|great (1)adj|big (1)n|splash .
+----------------------------------------
+*** File "anne28a.cha": line 2085.
+*MOT:	eating a great big ice+cream .
+%mor:	part|eat-PRESP det:art|a (1)adj|great (1)adj|big (1)n|+n|ice+n|cream .
+----------------------------------------
+*** File "anne28a.cha": line 2903.
+*MOT:	these are a long long time ago „ these ones .
+%mor:	pro:dem|these cop|be&PRES det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago end|end det:dem|these pro:indef|one-PL .
+
+    Strings matched 7 times
+
+From file <anne28b.cha>
+
+    Strings matched 0 times
+
+From file <anne29a.cha>
+
+    Strings matched 0 times
+
+From file <anne29b.cha>
+----------------------------------------
+*** File "anne29b.cha": line 1233.
+*MOT:	I felt this little warm bottom sitting on my foot .
+%mor:	pro:sub|I v|feel&PAST pro:dem|this (1)adj|little (1)adj|warm (1)n|bottom
+	part|sit-PRESP prep|on det:poss|my n|foot .
+----------------------------------------
+*** File "anne29b.cha": line 1462.
+*MOT:	<that's like a> [/] that's like the great big bus that we go to
+	town on „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S prep|like det:art|the (1)adj|great (1)adj|big
+	(1)n|bus pro:rel|that pro:sub|we v|go prep|to n|town adv|on end|end
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "anne29b.cha": line 1479.
+*MOT:	it's a great big bus „ is it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|bus end|end
+	aux|be&3S pro:per|it ?
+----------------------------------------
+*** File "anne29b.cha": line 2802.
+*MOT:	poor old thing .
+%mor:	(1)adj|poor (1)adj|old (1)n|thing .
+
+    Strings matched 4 times
+
+From file <anne30a.cha>
+----------------------------------------
+*** File "anne30a.cha": line 1301.
+*MOT:	in that little tiny baby bowl ?
+%mor:	prep|in pro:dem|that (1)adj|little (1)adj|tiny (1)n|baby n|bowl ?
+
+    Strings matched 1 times
+
+From file <anne30b.cha>
+----------------------------------------
+*** File "anne30b.cha": line 740.
+*MOT:	there's a very tiny little Peggy_Patch .
+%mor:	pro:exist|there~cop|be&3S det:art|a adv|very (1)adj|tiny (1)adj|little
+	(1)n:prop|Peggy_Patch .
+----------------------------------------
+*** File "anne30b.cha": line 2089.
+*MOT:	that's a funny little baby .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "anne30b.cha": line 2288.
+*MOT:	little tiny doggy ?
+%mor:	(1)adj|little (1)adj|tiny (1)n|dog-DIM ?
+
+    Strings matched 3 times
+
+From file <anne31a.cha>
+----------------------------------------
+*** File "anne31a.cha": line 232.
+*MOT:	the little yellow duck is hidden on every page .
+%mor:	det:art|the (1)adj|little (1)adj|yellow (1)n|duck aux|be&3S part|hide&PASTP
+	prep|on qn|every n|page .
+----------------------------------------
+*** File "anne31a.cha": line 1182.
+*MOT:	little teeny+weeny baby ?
+%mor:	(1)adj|little (1)adj|+adj|teeny+adj|weeny (1)n|baby ?
+
+    Strings matched 2 times
+
+From file <anne31b.cha>
+
+    Strings matched 0 times
+
+From file <anne32a.cha>
+
+    Strings matched 0 times
+
+From file <anne32b.cha>
+----------------------------------------
+*** File "anne32b.cha": line 2173.
+*MOT:	an orange lolly thank_you .
+%mor:	det:art|a (1)adj|orange (1)adj|loll&dv-Y (1)n|thank_you .
+
+    Strings matched 1 times
+
+From file <anne33a.cha>
+----------------------------------------
+*** File "anne33a.cha": line 884.
+*MOT:	he has a little tiny tail „ doesn't he ?
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|little (1)adj|tiny (1)n|tail end|end
+	mod|do&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "anne33a.cha": line 1046.
+*MOT:	give him a nice red bow ?
+%mor:	v|give pro:obj|him det:art|a (1)adj|nice (1)adj|red (1)n|bow ?
+
+    Strings matched 2 times
+
+From file <anne33b.cha>
+----------------------------------------
+*** File "anne33b.cha": line 122.
+*MOT:	nice clean pants .
+%mor:	(1)adj|nice (1)adj|clean (1)n:pt|pants .
+----------------------------------------
+*** File "anne33b.cha": line 1059.
+*MOT:	that's the funny little train „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|fun&dn-Y (1)adj|little (1)n|train
+	end|end cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "anne33b.cha": line 1949.
+*MOT:	so he rolled a great big ball .
+%mor:	co|so pro:sub|he v|roll-PAST det:art|a (1)adj|great (1)adj|big (1)n|ball .
+----------------------------------------
+*** File "anne33b.cha": line 1952.
+*MOT:	a big big body .
+%mor:	det:art|a (1)adj|big (1)adj|big (1)n|body .
+
+    Strings matched 4 times
+
+From file <anne34a.cha>
+
+    Strings matched 0 times
+
+From file <anne34b.cha>
+----------------------------------------
+*** File "anne34b.cha": line 1303.
+*MOT:	that <little yellow &-um> [//] little small tiger is sitting there ,
+	look .
+%mor:	pro:dem|that (1)adj|little (1)adj|small (1)n|tiger aux|be&3S part|sit-PRESP
+	adv|there cm|cm co|look .
+
+    Strings matched 1 times
+

@@ -1,0 +1,110 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:53:51 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <bncar.cha>
+
+    Strings matched 0 times
+
+From file <bnkata.cha>
+
+    Strings matched 0 times
+
+From file <bnlou.cha>
+
+    Strings matched 0 times
+
+From file <cnjan.cha>
+
+    Strings matched 0 times
+
+From file <cnnat.cha>
+
+    Strings matched 0 times
+
+From file <fleff.cha>
+----------------------------------------
+*** File "fleff.cha": line 1024.
+*CHI:	red blue green .
+%mor:	(1)adj|red (1)adj|blue (1)n|green .
+
+    Strings matched 1 times
+
+From file <flkir.cha>
+----------------------------------------
+*** File "flkir.cha": line 3114.
+*CHI:	a long long time ago with Sally .
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago prep|with n:prop|Sally .
+
+    Strings matched 1 times
+
+From file <flmat.cha>
+
+    Strings matched 0 times
+
+From file <flrob.cha>
+
+    Strings matched 0 times
+
+From file <nwgar.cha>
+
+    Strings matched 0 times
+
+From file <nwjenb.cha>
+
+    Strings matched 0 times
+
+From file <nwkat.cha>
+
+    Strings matched 0 times
+
+From file <nwkery.cha>
+
+    Strings matched 0 times
+
+From file <nwkir.cha>
+
+    Strings matched 0 times
+
+From file <nwlee.cha>
+
+    Strings matched 0 times
+
+From file <nwmath.cha>
+
+    Strings matched 0 times
+
+From file <nwmic.cha>
+
+    Strings matched 0 times
+
+From file <racol.cha>
+
+    Strings matched 0 times
+
+From file <raemio.cha>
+
+    Strings matched 0 times
+
+From file <raoli.cha>
+
+    Strings matched 0 times
+
+From file <spcraf.cha>
+
+    Strings matched 0 times
+
+From file <spdan.cha>
+
+    Strings matched 0 times
+
+From file <spdav.cha>
+
+    Strings matched 0 times
+
+From file <spkev.cha>
+
+    Strings matched 0 times
+

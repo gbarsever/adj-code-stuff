@@ -1,0 +1,100 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:48:28 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <david01.cha>
+
+    Strings matched 0 times
+
+From file <david02.cha>
+
+    Strings matched 0 times
+
+From file <david03.cha>
+
+    Strings matched 0 times
+
+From file <david04.cha>
+
+    Strings matched 0 times
+
+From file <david05.cha>
+
+    Strings matched 0 times
+
+From file <david07.cha>
+
+    Strings matched 0 times
+
+From file <david08.cha>
+----------------------------------------
+*** File "david08.cha": line 4026.
+*CHI:	aye lovely wee bird .
+%mor:	co|aye (1)adj|love&dn-LY (1)adj|wee (1)n|bird .
+
+    Strings matched 1 times
+
+From file <david09.cha>
+
+    Strings matched 0 times
+
+From file <david10.cha>
+----------------------------------------
+*** File "david10.cha": line 1537.
+*CHI:	green yellow red blue !
+%mor:	adj|green (1)adj|yellow (1)adj|red (1)n|blue !
+
+    Strings matched 1 times
+
+From file <david11.cha>
+
+    Strings matched 0 times
+
+From file <david12.cha>
+
+    Strings matched 0 times
+
+From file <david13.cha>
+----------------------------------------
+*** File "david13.cha": line 880.
+*CHI:	cause xxx we made big big sticks xxx and they click on .
+%mor:	n|cause pro:sub|we v|make&PAST (1)adj|big (1)adj|big (1)n|stick-PL coord|and
+	pro:sub|they v|click adv|on .
+
+    Strings matched 1 times
+
+From file <davkath1.cha>
+----------------------------------------
+*** File "davkath1.cha": line 675.
+*CHI:	I see a big deep sea down there .
+%mor:	pro:sub|I v|see det:art|a (1)adj|big (1)adj|deep (1)n|sea adv|down adv|there
+	.
+----------------------------------------
+*** File "davkath1.cha": line 1443.
+*CHI:	a big big long thing .
+%mor:	det:art|a adj|big (1)adj|big (1)adj|long (1)n|thing .
+
+    Strings matched 2 times
+
+From file <davkath2.cha>
+----------------------------------------
+*** File "davkath2.cha": line 1772.
+*CHI:	it's a long long way to the wall (.) away over to the other side .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|long (1)adj|long (1)n|way prep|to
+	det:art|the n|wall adv|away adv|over prep|to det:art|the qn|other
+	n|side .
+----------------------------------------
+*** File "davkath2.cha": line 1824.
+*CHI:	y [: it] was a long long long time .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a adj|long (1)adj|long (1)adj|long
+	(1)n|time .
+----------------------------------------
+*** File "davkath2.cha": line 1899.
+*CHI:	stupid old window with a xxx on it .
+%mor:	(1)adj|stupid (1)adj|old (1)n|window prep|with det:art|a prep|on pro:per|it
+	.
+
+    Strings matched 3 times
+

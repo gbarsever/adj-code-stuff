@@ -1,0 +1,801 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:00:03 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <warr01a.cha>
+
+    Strings matched 0 times
+
+From file <warr01b.cha>
+
+    Strings matched 0 times
+
+From file <warr02a.cha>
+
+    Strings matched 0 times
+
+From file <warr02b.cha>
+----------------------------------------
+*** File "warr02b.cha": line 807.
+*MOT:	it's just a little tiny bit that's come off .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit
+	pro:rel|that~aux|be&3S v|come adv|off .
+----------------------------------------
+*** File "warr02b.cha": line 1288.
+*MOT:	nice warm feet .
+%mor:	(1)adj|nice (1)adj|warm (1)n|foot&PL .
+----------------------------------------
+*** File "warr02b.cha": line 1766.
+*MOT:	nice shiny ribbon .
+%mor:	(1)adj|nice (1)adj|shine&dn-Y (1)n|ribbon .
+
+    Strings matched 3 times
+
+From file <warr03a.cha>
+
+    Strings matched 0 times
+
+From file <warr04a.cha>
+
+    Strings matched 0 times
+
+From file <warr04b.cha>
+----------------------------------------
+*** File "warr04b.cha": line 1551.
+*MOT:	red orange yellow green blue .
+%mor:	adj|red adj|orange (1)adj|yellow (1)adj|green (1)n|blue .
+
+    Strings matched 1 times
+
+From file <warr05a.cha>
+----------------------------------------
+*** File "warr05a.cha": line 116.
+*MOT:	we could make an even longer slide , couldn't we ?
+%mor:	pro:sub|we mod|could v|make det:art|a (1)adj|even (1)adj|long-CP (1)n|slide
+	cm|cm mod|could~neg|not pro:sub|we ?
+
+    Strings matched 1 times
+
+From file <warr05b.cha>
+
+    Strings matched 0 times
+
+From file <warr06a.cha>
+----------------------------------------
+*** File "warr06a.cha": line 1620.
+*MOT:	it's a little pink pig .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|pink (1)n|pig .
+----------------------------------------
+*** File "warr06a.cha": line 1629.
+*MOT:	this is going to be a big orangey bright pink pig .
+%mor:	pro:dem|this aux|be&3S part|go-PRESP inf|to cop|be det:art|a
+	adj|big adj|orangey (1)adj|bright (1)adj|pink (1)n|pig .
+
+    Strings matched 2 times
+
+From file <warr06b.cha>
+----------------------------------------
+*** File "warr06b.cha": line 409.
+*MOT:	blue red green yellow .
+%mor:	adj|blue (1)adj|red (1)adj|green (1)n|yellow .
+----------------------------------------
+*** File "warr06b.cha": line 1682.
+*MOT:	that's a funny old noise .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|noise .
+
+    Strings matched 2 times
+
+From file <warr07a.cha>
+----------------------------------------
+*** File "warr07a.cha": line 852.
+*MOT:	coming out_of Thomas's short stumpy funnel .
+%mor:	part|come-PRESP prep|out_of n:prop|Thomas~poss|s (1)adj|short
+	(1)adj|stump&dn-Y (1)n|funnel .
+
+    Strings matched 1 times
+
+From file <warr07b.cha>
+----------------------------------------
+*** File "warr07b.cha": line 990.
+*MOT:	that was a delicate little blow , wasn't it ?
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|delicate (1)adj|little
+	(1)n|blow cm|cm cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr07b.cha": line 1123.
+*MOT:	that'll be a funny old tractor .
+%mor:	pro:dem|that~mod|will cop|be det:art|a (1)adj|fun&dn-Y (1)adj|old
+	(1)n|tractor .
+
+    Strings matched 2 times
+
+From file <warr08a.cha>
+
+    Strings matched 0 times
+
+From file <warr08b.cha>
+----------------------------------------
+*** File "warr08b.cha": line 569.
+*MOT:	oh what a cheeky old brick .
+%mor:	co|oh pro:int|what det:art|a (1)adj|cheek&dn-Y (1)adj|old (1)n|brick .
+
+    Strings matched 1 times
+
+From file <warr09a.cha>
+----------------------------------------
+*** File "warr09a.cha": line 122.
+*MOT:	she's going to come <in her> [/] in her little red car .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP inf|to v|come adv|in
+	det:poss|her (1)adj|little (1)adj|red (1)n|car .
+----------------------------------------
+*** File "warr09a.cha": line 1839.
+*MOT:	what's that funny old face for ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that (1)adj|fun&dn-Y (1)adj|old (1)n|face
+	prep|for ?
+
+    Strings matched 2 times
+
+From file <warr09b.cha>
+----------------------------------------
+*** File "warr09b.cha": line 1384.
+*MOT:	Warren sing eensie weensie spider .
+%mor:	n:prop|Warren v|sing (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "warr09b.cha": line 1387.
+*MOT:	why don't you sing eensie weensie spider .
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|sing (1)adj|eensie
+	(1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "warr09b.cha": line 1398.
+*MOT:	are you going to sing eensie weensie spider ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP inf|to v|sing (1)adj|eensie
+	(1)adj|weensie (1)n|spider ?
+
+    Strings matched 3 times
+
+From file <warr10a.cha>
+----------------------------------------
+*** File "warr10a.cha": line 1052.
+*MOT:	he didn't want the rain on his nice clean engine .
+%mor:	pro:sub|he mod|do&PAST~neg|not v|want det:art|the n|rain prep|on
+	det:poss|his (1)adj|nice (1)adj|clean (1)n|engine .
+
+    Strings matched 1 times
+
+From file <warr10b.cha>
+----------------------------------------
+*** File "warr10b.cha": line 49.
+*MOT:	there is a little green man .
+%mor:	adv|there cop|be&3S det:art|a (1)adj|little (1)adj|green (1)n|man .
+----------------------------------------
+*** File "warr10b.cha": line 1874.
+*MOT:	the bricks go in the big green box over there .
+%mor:	det:art|the n|brick-PL v|go prep|in det:art|the (1)adj|big (1)adj|green
+	(1)n|box adv|over adv|there .
+
+    Strings matched 2 times
+
+From file <warr11a.cha>
+----------------------------------------
+*** File "warr11a.cha": line 544.
+*MOT:	they should give you little swapable faces , shouldn't they so we
+	can put a sad one on .
+%mor:	pro:sub|they mod|should v|give pro:per|you (1)adj|little
+	(1)adj|swap&dv-ABLE (1)n|face-PL cm|cm mod|should~neg|not pro:sub|they
+	conj|so pro:sub|we mod|can v|put&ZERO det:art|a adj|sad
+	pro:indef|one adv|on .
+----------------------------------------
+*** File "warr11a.cha": line 2012.
+*MOT:	I am not going to spoil my lovely green paint and red stripes for
+	you he said +...
+%mor:	pro:sub|I aux|be&1S neg|not part|go-PRESP inf|to v|spoil
+	det:poss|my (1)adj|love&dn-LY (1)adj|green (1)n|paint coord|and adj|red
+	n|stripe-PL prep|for pro:per|you pro:sub|he v|say&PAST +...
+
+    Strings matched 2 times
+
+From file <warr11b.cha>
+----------------------------------------
+*** File "warr11b.cha": line 1891.
+*MOT:	that's a nice little hat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|hat .
+
+    Strings matched 1 times
+
+From file <warr12a.cha>
+
+    Strings matched 0 times
+
+From file <warr12b.cha>
+----------------------------------------
+*** File "warr12b.cha": line 1311.
+*MOT:	there's a nice clear track here .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|clear (1)n|track
+	adv|here .
+
+    Strings matched 1 times
+
+From file <warr13a.cha>
+----------------------------------------
+*** File "warr13a.cha": line 952.
+*MOT:	I think there's been a big strong wind that's blown that roof off
+	and knocked the tree down .
+%mor:	pro:sub|I v|think pro:exist|there~aux|be&3S cop|be&PASTP det:art|a
+	(1)adj|big (1)adj|strong (1)n|wind pro:rel|that~aux|be&3S part|blow&PASTP
+	pro:dem|that n|roof adv|off coord|and v|knock-PAST det:art|the
+	n|tree adv|down .
+
+    Strings matched 1 times
+
+From file <warr13b.cha>
+----------------------------------------
+*** File "warr13b.cha": line 1752.
+*MOT:	what a cheeky old dome .
+%mor:	pro:int|what det:art|a (1)adj|cheek&dn-Y (1)adj|old (1)n|dome .
+
+    Strings matched 1 times
+
+From file <warr14a.cha>
+----------------------------------------
+*** File "warr14a.cha": line 392.
+*MOT:	shall Mummy make a little bumpy road ?
+%mor:	mod|shall n:prop|Mummy v|make det:art|a (1)adj|little (1)adj|bump&dv-Y
+	(1)n|road ?
+----------------------------------------
+*** File "warr14a.cha": line 430.
+*MOT:	I'm not going to make a very big bumpy road .
+%mor:	pro:sub|I~cop|be&1S neg|not part|go-PRESP inf|to v|make det:art|a
+	adv|very (1)adj|big (1)adj|bump&dv-Y (1)n|road .
+----------------------------------------
+*** File "warr14a.cha": line 465.
+*MOT:	there's a little bumpy road .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|bump&dv-Y (1)n|road
+	.
+
+    Strings matched 3 times
+
+From file <warr14b.cha>
+
+    Strings matched 0 times
+
+From file <warr15a.cha>
+----------------------------------------
+*** File "warr15a.cha": line 732.
+*MOT:	I'm sure polar bears can ride in cars .
+%mor:	pro:sub|I~cop|be&1S (1)adj|sure (1)adj|polar (1)n|bear-PL mod|can v|ride
+	adv|in n|car-PL .
+----------------------------------------
+*** File "warr15a.cha": line 1047.
+*MOT:	it's a creaky old trailer , isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|creak&dn-Y (1)adj|old (1)n|trailer
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr15a.cha": line 1414.
+*MOT:	you're a good little cook .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|cook .
+----------------------------------------
+*** File "warr15a.cha": line 2143.
+*MOT:	and Bulgie's a mean scarlet deceiver .
+%mor:	coord|and n:prop|Bulgie~aux|be&3S det:art|a (1)adj|mean (1)adj|scarlet
+	(1)n|deceive&dv-AGT .
+
+    Strings matched 4 times
+
+From file <warr15b.cha>
+----------------------------------------
+*** File "warr15b.cha": line 686.
+*MOT:	have they got happy smily faces ?
+%mor:	v|have pro:sub|they v|get&PAST (1)adj|happy (1)adj|smile&dv-Y (1)n|face-PL ?
+----------------------------------------
+*** File "warr15b.cha": line 692.
+*MOT:	has Warren got a happy smily face ?
+%mor:	aux|have&3S n:prop|Warren v|get&PAST det:art|a (1)adj|happy
+	(1)adj|smile&dv-Y (1)n|face ?
+----------------------------------------
+*** File "warr15b.cha": line 1588.
+*MOT:	that's a speedy old train .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|speed&dn-Y (1)adj|old (1)n|train .
+
+    Strings matched 3 times
+
+From file <warr16a.cha>
+----------------------------------------
+*** File "warr16a.cha": line 1335.
+*MOT:	poor old Granny lying on the floor like that .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Granny part|lie-PRESP prep|on det:art|the
+	n|floor prep|like pro:dem|that .
+----------------------------------------
+*** File "warr16a.cha": line 1819.
+*MOT:	they came from a long long long long way away .
+%mor:	pro:sub|they v|come&PAST prep|from det:art|a adj|long adj|long
+	(1)adj|long (1)adj|long (1)n|way adv|away .
+----------------------------------------
+*** File "warr16a.cha": line 2011.
+*MOT:	posh funny combs .
+%mor:	(1)adj|posh (1)adj|fun&dn-Y (1)n|comb-PL .
+
+    Strings matched 3 times
+
+From file <warr16b.cha>
+----------------------------------------
+*** File "warr16b.cha": line 759.
+*MOT:	why don't you sing the eensie weensie spider song then ?
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|sing det:art|the
+	(1)adj|eensie (1)adj|weensie (1)n|spider n|song adv:tem|then ?
+----------------------------------------
+*** File "warr16b.cha": line 1494.
+*MOT:	that looks like a nice big juice tomato .
+%mor:	pro:dem|that cop|look-3S prep|like det:art|a (1)adj|nice (1)adj|big
+	(1)n|juice n|tomato .
+----------------------------------------
+*** File "warr16b.cha": line 1649.
+*MOT:	nice little snack .
+%mor:	(1)adj|nice (1)adj|little (1)n|snack .
+----------------------------------------
+*** File "warr16b.cha": line 2125.
+*MOT:	that's a good good boy .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|good (1)n|boy .
+
+    Strings matched 4 times
+
+From file <warr17a.cha>
+----------------------------------------
+*** File "warr17a.cha": line 1043.
+*MOT:	her long golden hair .
+%mor:	det:poss|her (1)adj|long (1)adj|golden (1)n|hair .
+----------------------------------------
+*** File "warr17a.cha": line 1321.
+*MOT:	a big green fish .
+%mor:	det:art|a (1)adj|big (1)adj|green (1)n|fish .
+----------------------------------------
+*** File "warr17a.cha": line 1377.
+*MOT:	can you see a piece with that pale green seaweed on ?
+%mor:	mod|can pro:per|you v|see det:art|a n|piece prep|with det:dem|that
+	(1)adj|pale (1)adj|green (1)n|seaweed adv|on ?
+
+    Strings matched 3 times
+
+From file <warr17b.cha>
+----------------------------------------
+*** File "warr17b.cha": line 404.
+*MOT:	he's a jolly tall giraffe .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|jolly (1)adj|tall (1)n|giraffe .
+----------------------------------------
+*** File "warr17b.cha": line 745.
+*MOT:	shall we make it a nice big field so the animals have got lots_of
+	space ?
+%mor:	mod|shall pro:sub|we v|make pro:per|it det:art|a (1)adj|nice (1)adj|big
+	(1)n|field co|so det:art|the n|animal-PL v|have part|get&PASTP
+	qn|lots_of n|space ?
+
+    Strings matched 2 times
+
+From file <warr18a.cha>
+
+    Strings matched 0 times
+
+From file <warr18b.cha>
+
+    Strings matched 0 times
+
+From file <warr19a.cha>
+
+    Strings matched 0 times
+
+From file <warr19b.cha>
+----------------------------------------
+*** File "warr19b.cha": line 294.
+*MOT:	do you remember that hot hot fire that we saw ?
+%mor:	mod|do pro:per|you v|remember pro:rel|that (1)adj|hot (1)adj|hot (1)n|fire
+	pro:rel|that pro:sub|we v|see&PAST ?
+----------------------------------------
+*** File "warr19b.cha": line 853.
+*MOT:	you need nice warm clothes on when it's cold out .
+%mor:	pro:per|you v|need (1)adj|nice (1)adj|warm (1)n:pt|clothes adv|on conj|when
+	pro:per|it~cop|be&3S adv|cold adv|out .
+----------------------------------------
+*** File "warr19b.cha": line 1514.
+*MOT:	well that's so the little chicks don't get lost because if these
+	were separate little figures like this and these are so tiny they
+	would get lost , wouldn't they ?
+%mor:	co|well pro:dem|that~cop|be&3S conj|so det:art|the adj|little
+	n|chick-PL mod|do~neg|not aux|get part|lose&PASTP conj|because
+	conj|if pro:dem|these cop|be&PAST (1)adj|separate (1)adj|little
+	(1)n|figure-PL prep|like pro:dem|this coord|and pro:dem|these
+	cop|be&PRES adv|so adj|tiny pro:sub|they mod|will&COND aux|get
+	part|lose&PASTP cm|cm mod|will&COND~neg|not pro:sub|they ?
+
+    Strings matched 3 times
+
+From file <warr20a.cha>
+----------------------------------------
+*** File "warr20a.cha": line 83.
+*MOT:	why don't we see what we can find in the big messy box ?
+%mor:	adv:int|why mod|do~neg|not pro:sub|we v|see pro:int|what pro:sub|we
+	mod|can v|find prep|in det:art|the (1)adj|big (1)adj|mess&dn-Y (1)n|box ?
+----------------------------------------
+*** File "warr20a.cha": line 545.
+*MOT:	that's the wrong side mate .
+%mor:	pro:dem|that~cop|be&3S det:art|the (1)adj|wrong (1)adj|side (1)n|mate .
+----------------------------------------
+*** File "warr20a.cha": line 1633.
+*MOT:	poor old Henry .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Henry .
+
+    Strings matched 3 times
+
+From file <warr20b.cha>
+----------------------------------------
+*** File "warr20b.cha": line 1076.
+*MOT:	he's a nice stripy tiger , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|stripe&dn-Y (1)n|tiger
+	cm|cm cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <warr21a.cha>
+
+    Strings matched 0 times
+
+From file <warr21b.cha>
+----------------------------------------
+*** File "warr21b.cha": line 1558.
+*MOT:	nice cool milk .
+%mor:	(1)adj|nice (1)adj|cool (1)n|milk .
+
+    Strings matched 1 times
+
+From file <warr22a.cha>
+
+    Strings matched 0 times
+
+From file <warr22b.cha>
+----------------------------------------
+*** File "warr22b.cha": line 286.
+*MOT:	you're getting a nice long train now .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP det:art|a (1)adj|nice (1)adj|long
+	(1)n|train adv|now .
+----------------------------------------
+*** File "warr22b.cha": line 1215.
+*MOT:	you see the thing is these little blobby bits have_to go on the
+	monkey's feet here .
+%mor:	pro:per|you v|see det:art|the n|thing cop|be&3S pro:dem|these
+	(1)adj|little (1)adj|blob&dn-Y (1)n|bit-PL mod:aux|have_to v|go prep|on
+	det:art|the n|monkey~poss|s n|foot&PL adv|here .
+
+    Strings matched 2 times
+
+From file <warr23a.cha>
+----------------------------------------
+*** File "warr23a.cha": line 1154.
+*MOT:	oh there's a little faint light , isn't there ?
+%mor:	co|oh pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|faint
+	(1)n|light cm|cm cop|be&3S~neg|not adv|there ?
+----------------------------------------
+*** File "warr23a.cha": line 1972.
+*MOT:	good old rabbit .
+%mor:	(1)adj|good (1)adj|old (1)n|rabbit .
+
+    Strings matched 2 times
+
+From file <warr23b.cha>
+
+    Strings matched 0 times
+
+From file <warr24a.cha>
+----------------------------------------
+*** File "warr24a.cha": line 1328.
+*MOT:	big strong hand .
+%mor:	(1)adj|big (1)adj|strong (1)n|hand .
+
+    Strings matched 1 times
+
+From file <warr24b.cha>
+----------------------------------------
+*** File "warr24b.cha": line 884.
+*MOT:	bit of a creaky old thing .
+%mor:	n|bit prep|of det:art|a (1)adj|creak&dn-Y (1)adj|old (1)n|thing .
+
+    Strings matched 1 times
+
+From file <warr25a.cha>
+
+    Strings matched 0 times
+
+From file <warr25b.cha>
+
+    Strings matched 0 times
+
+From file <warr26a.cha>
+----------------------------------------
+*** File "warr26a.cha": line 672.
+*MOT:	nice clean nose now .
+%mor:	(1)adj|nice (1)adj|clean (1)n|nose adv|now .
+----------------------------------------
+*** File "warr26a.cha": line 1311.
+*MOT:	you try that green wooden car .
+%mor:	pro:per|you v|try pro:dem|that (1)adj|green (1)adj|wooden (1)n|car .
+----------------------------------------
+*** File "warr26a.cha": line 1928.
+*MOT:	good old Paf .
+%mor:	(1)adj|good (1)adj|old (1)n:prop|Paf .
+
+    Strings matched 3 times
+
+From file <warr26b.cha>
+----------------------------------------
+*** File "warr26b.cha": line 79.
+*MOT:	that poor little horse being run over by that car .
+%mor:	pro:dem|that (1)adj|poor (1)adj|little (1)n|horse aux|be-PRESP n|run
+	adv|over prep|by pro:dem|that n|car .
+----------------------------------------
+*** File "warr26b.cha": line 647.
+*MOT:	oh that's a nice little van , isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|van
+	cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr26b.cha": line 1516.
+*MOT:	poor little vehicle .
+%mor:	(1)adj|poor (1)adj|little (1)n|vehicle .
+----------------------------------------
+*** File "warr26b.cha": line 1574.
+*MOT:	that's a funny old song .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|song .
+
+    Strings matched 4 times
+
+From file <warr27a.cha>
+----------------------------------------
+*** File "warr27a.cha": line 2135.
+*MOT:	are you a grumpy miserable old thing ?
+%mor:	cop|be&PRES pro:per|you det:art|a adj|grump&dn-Y (1)adj|miserable
+	(1)adj|old (1)n|thing ?
+----------------------------------------
+*** File "warr27a.cha": line 2158.
+*MOT:	a whiny little whine+bag .
+%mor:	det:art|a (1)adj|whine&dv-Y (1)adj|little (1)n|+n|whine+n|bag .
+----------------------------------------
+*** File "warr27a.cha": line 2253.
+*MOT:	it wasn't me because they've done the wrong difficult knot to undo
+	, haven't they ?
+%mor:	pro:per|it cop|be&PAST&13S~neg|not pro:obj|me conj|because
+	pro:sub|they~aux|have part|do&PASTP det:art|the (1)adj|wrong
+	(1)adj|difficult (1)n|knot prep|to un#v|do cm|cm aux|have~neg|not
+	pro:sub|they ?
+
+    Strings matched 3 times
+
+From file <warr27b.cha>
+
+    Strings matched 0 times
+
+From file <warr28a.cha>
+----------------------------------------
+*** File "warr28a.cha": line 529.
+*MOT:	nice little flat bit .
+%mor:	(1)adj|nice (1)adj|little (1)n|flat n|bit .
+----------------------------------------
+*** File "warr28a.cha": line 532.
+*MOT:	oh another nice little flat bit .
+%mor:	co|oh qn|another (1)adj|nice (1)adj|little (1)n|flat n|bit .
+----------------------------------------
+*** File "warr28a.cha": line 1214.
+*MOT:	he's got a funny old nose as_well .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|fun&dn-Y (1)adj|old
+	(1)n|nose adv|as_well .
+----------------------------------------
+*** File "warr28a.cha": line 1613.
+*MOT:	and with a little beady nose .
+%mor:	coord|and prep|with det:art|a (1)adj|little (1)adj|bead&dn-Y (1)n|nose .
+----------------------------------------
+*** File "warr28a.cha": line 2056.
+*MOT:	you are a very funny little boy .
+%mor:	pro:per|you cop|be&PRES det:art|a adv|very (1)adj|fun&dn-Y (1)adj|little
+	(1)n|boy .
+----------------------------------------
+*** File "warr28a.cha": line 2419.
+*MOT:	let's put a little sad face on him , shall we ?
+%mor:	v|let~pro:obj|us v|put&ZERO det:art|a (1)adj|little (1)adj|sad (1)n|face
+	prep|on pro:obj|him cm|cm mod|shall pro:sub|we ?
+
+    Strings matched 6 times
+
+From file <warr28b.cha>
+----------------------------------------
+*** File "warr28b.cha": line 146.
+*MOT:	a small big tower .
+%mor:	det:art|a (1)adj|small (1)adj|big (1)n|tower .
+
+    Strings matched 1 times
+
+From file <warr29a.cha>
+----------------------------------------
+*** File "warr29a.cha": line 89.
+*MOT:	I'll put it out over here where there's a nice big space .
+%mor:	pro:sub|I~mod|will v|put&ZERO pro:per|it adv|out adv|over adv|here
+	adv:int|where pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|big
+	(1)n|space .
+----------------------------------------
+*** File "warr29a.cha": line 178.
+*MOT:	those smelly old pumps .
+%mor:	pro:dem|those (1)adj|smell&dv-Y (1)adj|old (1)n|pump-PL .
+----------------------------------------
+*** File "warr29a.cha": line 1061.
+*MOT:	you look for a piece of puzzle with tiny tiny pieces of purple on .
+%mor:	pro:per|you cop|look prep|for det:art|a n|piece prep|of n|puzzle
+	prep|with (1)adj|tiny (1)adj|tiny (1)n|piece-PL prep|of n|purple adv|on .
+
+    Strings matched 3 times
+
+From file <warr29b.cha>
+----------------------------------------
+*** File "warr29b.cha": line 535.
+*MOT:	why don't you put it here where there's a nice big space ?
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|put&ZERO pro:per|it
+	adv|here adv:int|where pro:exist|there~cop|be&3S det:art|a (1)adj|nice
+	(1)adj|big (1)n|space ?
+----------------------------------------
+*** File "warr29b.cha": line 1517.
+*MOT:	a big little bridge ?
+%mor:	det:art|a (1)adj|big (1)adj|little (1)n|bridge ?
+----------------------------------------
+*** File "warr29b.cha": line 1520.
+*MOT:	that is a tiny tiny bridge .
+%mor:	pro:dem|that cop|be&3S det:art|a (1)adj|tiny (1)adj|tiny (1)n|bridge .
+----------------------------------------
+*** File "warr29b.cha": line 1523.
+*MOT:	I don't think the train'll fit through that tiny tiny bridge .
+%mor:	pro:sub|I mod|do~neg|not v|think det:art|the n|train~mod|will
+	part|fit&PASTP prep|through pro:dem|that (1)adj|tiny (1)adj|tiny (1)n|bridge
+	.
+
+    Strings matched 4 times
+
+From file <warr30a.cha>
+----------------------------------------
+*** File "warr30a.cha": line 569.
+*MOT:	pooh+cheesy old feet .
+%mor:	(1)adj|+adj|pooh+adj|cheesy (1)adj|old (1)n|foot&PL .
+
+    Strings matched 1 times
+
+From file <warr30b.cha>
+----------------------------------------
+*** File "warr30b.cha": line 1075.
+*MOT:	you put that little stripy bit .
+%mor:	pro:per|you v|put&ZERO pro:dem|that (1)adj|little (1)adj|stripe&dn-Y
+	(1)n|bit .
+----------------------------------------
+*** File "warr30b.cha": line 1079.
+*MOT:	see the little stripy bit .
+%mor:	v|see det:art|the (1)adj|little (1)adj|stripe&dn-Y (1)n|bit .
+----------------------------------------
+*** File "warr30b.cha": line 1873.
+*MOT:	oh: you're tasty little fish .
+%mor:	co|oh pro:per|you~aux|be&PRES (1)adj|taste&dn-Y (1)adj|little (1)n|fish .
+
+    Strings matched 3 times
+
+From file <warr31a.cha>
+----------------------------------------
+*** File "warr31a.cha": line 105.
+*MOT:	that will make a nice loud noise .
+%mor:	pro:dem|that mod|will v|make det:art|a (1)adj|nice (1)adj|loud (1)n|noise .
+----------------------------------------
+*** File "warr31a.cha": line 528.
+*MOT:	they're sheep with long long horns , aren't they ?
+%mor:	pro:sub|they~aux|be&PRES n|sheep prep|with (1)adj|long (1)adj|long
+	(1)n|horn-PL cm|cm aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "warr31a.cha": line 550.
+*MOT:	and we saw some goats with long long horns as_well , didn't we ?
+%mor:	coord|and pro:sub|we v|see&PAST qn|some n|goat-PL prep|with
+	(1)adj|long (1)adj|long (1)n|horn-PL adv|as_well cm|cm mod|do&PAST~neg|not
+	pro:sub|we ?
+----------------------------------------
+*** File "warr31a.cha": line 2263.
+*MOT:	so we need another little <short long> [//] short straight bit .
+%mor:	co|so pro:sub|we v|need qn|another (1)adj|little (1)adj|short (1)n|straight
+	n|bit .
+----------------------------------------
+*** File "warr31a.cha": line 2313.
+*MOT:	well that is a bumpy old track , isn't it ?
+%mor:	co|well pro:dem|that cop|be&3S det:art|a (1)adj|bump&dv-Y (1)adj|old
+	(1)n|track cm|cm cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr31a.cha": line 2526.
+*MOT:	that's a funny old thing on the bridge .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|thing
+	prep|on det:art|the n|bridge .
+
+    Strings matched 6 times
+
+From file <warr31b.cha>
+
+    Strings matched 0 times
+
+From file <warr32a.cha>
+----------------------------------------
+*** File "warr32a.cha": line 561.
+*MOT:	<your long yellow> [//] that big yellow block .
+%mor:	pro:dem|that (1)adj|big (1)adj|yellow (1)n|block .
+----------------------------------------
+*** File "warr32a.cha": line 1910.
+*MOT:	well giraffes do have funny heads , don't they because they've got
+	those little hairy horns , haven't they on top of their heads .
+%mor:	co|well n|giraffe-PL v|do v|have adj|fun&dn-Y n|head-PL cm|cm
+	mod|do~neg|not pro:sub|they conj|because pro:sub|they~aux|have
+	v|get&PAST pro:dem|those (1)adj|little (1)adj|hair&dn-Y (1)n|horn-PL cm|cm
+	aux|have~neg|not pro:sub|they adv|on n|top prep|of det:poss|their
+	n|head-PL .
+----------------------------------------
+*** File "warr32a.cha": line 2294.
+*MOT:	a bigger little bridge .
+%mor:	det:art|a (1)adj|big-CP (1)adj|little (1)n|bridge .
+
+    Strings matched 3 times
+
+From file <warr32b.cha>
+
+    Strings matched 0 times
+
+From file <warr33a.cha>
+----------------------------------------
+*** File "warr33a.cha": line 636.
+*MOT:	look at these wiggly wiggly worms .
+%mor:	cop|look prep|at pro:dem|these (1)adj|wiggle&dv-Y (1)adj|wiggle&dv-Y
+	(1)n|worm-PL .
+----------------------------------------
+*** File "warr33a.cha": line 640.
+*MOT:	wiggly wiggly worms .
+%mor:	(1)adj|wiggle&dv-Y (1)adj|wiggle&dv-Y (1)n|worm-PL .
+----------------------------------------
+*** File "warr33a.cha": line 870.
+*MOT:	shall we make a big square worm now ?
+%mor:	mod|shall pro:sub|we v|make det:art|a (1)adj|big (1)adj|square (1)n|worm
+	adv|now ?
+----------------------------------------
+*** File "warr33a.cha": line 1024.
+*MOT:	it's a good little flower , isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|good (1)adj|little (1)n|flower cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr33a.cha": line 1595.
+*MOT:	look at those long long worms .
+%mor:	cop|look prep|at pro:dem|those (1)adj|long (1)adj|long (1)n|worm-PL .
+
+    Strings matched 5 times
+
+From file <warr33b.cha>
+----------------------------------------
+*** File "warr33b.cha": line 264.
+*MOT:	that's a good old prodding stick .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|old
+	(1)n:gerund|prod-PRESP n|stick .
+
+    Strings matched 1 times
+
+From file <warr34a.cha>
+----------------------------------------
+*** File "warr34a.cha": line 1408.
+*MOT:	that was a good steamy noise , wasn't it ?
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|good (1)adj|steam&dn-Y
+	(1)n|noise cm|cm cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "warr34a.cha": line 1585.
+*MOT:	this poor little boy's very poorly .
+%mor:	pro:dem|this (1)adj|poor (1)adj|little (1)n|boy~cop|be&3S adv|very
+	adv|poor&dadj-LY .
+
+    Strings matched 2 times
+
+From file <warr34b.cha>
+----------------------------------------
+*** File "warr34b.cha": line 1459.
+*MOT:	it's got a little fancy collar and lace .
+%mor:	pro:per|it~aux|be&3S part|get&PASTP det:art|a (1)adj|little (1)adj|fancy
+	(1)n|collar coord|and n|lace .
+
+    Strings matched 1 times
+

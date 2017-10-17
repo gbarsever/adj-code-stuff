@@ -1,0 +1,306 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:12:26 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <joe01.cha>
+----------------------------------------
+*** File "joe01.cha": line 2867.
+*MOT:	I think he needs a quick little suck . %snd:"joe01"_1527444_1528988
+%mor:	pro:sub|I v|think pro:sub|he v|need-3S det:art|a (1)adj|quick
+	(1)adj|little (1)n|suck .
+----------------------------------------
+*** File "joe01.cha": line 2920.
+*MOT:	do you need a quick little suck ? %snd:"joe01"_1543907_1545823
+%mor:	mod|do pro:per|you v|need det:art|a (1)adj|quick (1)adj|little (1)n|suck ?
+
+    Strings matched 2 times
+
+From file <joe02.cha>
+
+    Strings matched 0 times
+
+From file <joe03.cha>
+----------------------------------------
+*** File "joe03.cha": line 326.
+*MOT:	what would you like now , little noisy boy ? %snd:"joe03"_248418_250706
+%mor:	pro:int|what mod|will&COND pro:per|you v|like adv|now cm|cm
+	(1)adj|little (1)adj|noise&dn-Y (1)n|boy ?
+----------------------------------------
+*** File "joe03.cha": line 2282.
+*MOT:	it's gonna feel better when you're in that nice cold tub . %snd:"joe03"_1669909_1672261
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|feel adj|good&CP
+	conj|when pro:per|you~cop|be&PRES adv|in det:dem|that (1)adj|nice
+	(1)adj|cold (1)n|tub .
+
+    Strings matched 2 times
+
+From file <joe04.cha>
+----------------------------------------
+*** File "joe04.cha": line 184.
+*MOT:	what a good open mouth ! %snd:"joe04"_131486_132910
+%mor:	pro:int|what det:art|a (1)adj|good (1)adj|open (1)n|mouth !
+----------------------------------------
+*** File "joe04.cha": line 187.
+*MOT:	what a good open mouth ! %snd:"joe04"_134062_135630
+%mor:	pro:int|what det:art|a (1)adj|good (1)adj|open (1)n|mouth !
+----------------------------------------
+*** File "joe04.cha": line 874.
+*MOT:	little sad boy ? %snd:"joe04"_597059_598595
+%mor:	(1)adj|little (1)adj|sad (1)n|boy ?
+----------------------------------------
+*** File "joe04.cha": line 877.
+*MOT:	are you a little sad boy ? %snd:"joe04"_599667_601747
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|little (1)adj|sad (1)n|boy ?
+----------------------------------------
+*** File "joe04.cha": line 1222.
+*MOT:	is that your favorite part , the little purple part ? %snd:"joe04"_790737_793601
+%mor:	cop|be&3S pro:rel|that det:poss|your adj|favorite n|part cm|cm
+	det:art|the (1)adj|little (1)adj|purple (1)n|part ?
+----------------------------------------
+*** File "joe04.cha": line 1458.
+*MOT:	looks like she's still a little tiny baby . %snd:"joe04"_916533_918677
+%mor:	cop|look-3S conj|like pro:sub|she~aux|be&3S adv|still det:art|a
+	(1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 6 times
+
+From file <joe05.cha>
+----------------------------------------
+*** File "joe05.cha": line 486.
+*MOT:	a little fussy wuss . %snd:"joe05"_216304_218256
+%mor:	det:art|a (1)adj|little (1)adj|fuss&dn-Y (1)n|wuss .
+----------------------------------------
+*** File "joe05.cha": line 2395.
+*MOT:	you're a goofy silly boy . %snd:"joe05"_1361214_1363374
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|goof&dv-Y (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "joe05.cha": line 6680.
+*MOT:	a nice cool bath will feel good , won't it , sweetie ? %snd:"joe05"_4059360_4062208
+%mor:	det:art|a (1)adj|nice (1)adj|cool (1)n|bath mod|will v|feel adj|good cm|cm
+	mod|will~neg|not pro:per|it cm|cm co|sweetie ?
+
+    Strings matched 3 times
+
+From file <joe06.cha>
+
+    Strings matched 0 times
+
+From file <joe07.cha>
+----------------------------------------
+*** File "joe07.cha": line 225.
+*MOT:	yummy yummy yum . %snd:"joe07"_131203_132435
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|yum .
+----------------------------------------
+*** File "joe07.cha": line 1735.
+*MOT:	this nice soft cuddler ? %snd:"joe07"_1174310_1176102
+%mor:	pro:dem|this (1)adj|nice (1)adj|soft (1)n|cuddle&dv-AGT ?
+----------------------------------------
+*** File "joe07.cha": line 2297.
+*MOT:	shake that nice little book ? %snd:"joe07"_1582525_1584013
+%mor:	v|shake pro:dem|that (1)adj|nice (1)adj|little (1)n|book ?
+----------------------------------------
+*** File "joe07.cha": line 2828.
+*MOT:	this is a nice cuddly blanket , huh . %snd:"joe07"_2001961_2004201
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|nice (1)adj|cuddle&dv-Y (1)n|blanket
+	cm|cm co|huh .
+----------------------------------------
+*** File "joe07.cha": line 2980.
+*MOT:	that nice cuddly blankie ? %snd:"joe07"_2099078_2100934
+%mor:	pro:dem|that (1)adj|nice (1)adj|cuddle&dv-Y (1)n|blankie ?
+----------------------------------------
+*** File "joe07.cha": line 3726.
+*MOT:	here's a roly poly guy . %snd:"joe07"_2687488_2689136
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|role&dn-Y (1)adj|pole&dn-Y
+	(1)n|guy .
+----------------------------------------
+*** File "joe07.cha": line 5507.
+*MOT:	a very happy good fellow ! %snd:"joe07"_4102023_4103767
+%mor:	det:art|a adv|very (1)adj|happy (1)adj|good (1)n|fellow !
+----------------------------------------
+*** File "joe07.cha": line 5603.
+*FAT:	<you little happy boy> [<] . %snd:"joe07"_4164880_4166112
+%mor:	pro:per|you (1)adj|little (1)adj|happy (1)n|boy .
+
+    Strings matched 8 times
+
+From file <joe08.cha>
+----------------------------------------
+*** File "joe08.cha": line 281.
+*MOT:	Catherine , it looks like you have your o:wn little language , don't
+	you . %snd:"joe08"_181644_185276
+%mor:	n:prop|Catherine cm|cm pro:per|it cop|look-3S prep|like pro:per|you
+	v|have det:poss|your (1)adj|own (1)adj|little (1)n|language cm|cm
+	mod|do~neg|not pro:per|you .
+----------------------------------------
+*** File "joe08.cha": line 941.
+*MOT:	my little tiny [?] friend . %snd:"joe08"_559630_560942
+%mor:	det:poss|my (1)adj|little (1)adj|tiny (1)n|friend .
+----------------------------------------
+*** File "joe08.cha": line 1426.
+*MOT:	hm did I click at you , little sleepy boy ? %snd:"joe08"_974567_977559
+%mor:	co|hm mod|do&PAST pro:sub|I v|click prep|at pro:per|you cm|cm
+	(1)adj|little (1)adj|sleep&dn-Y (1)n|boy ?
+----------------------------------------
+*** File "joe08.cha": line 2264.
+*MOT:	well he is playing , with his toys , yup , but he's [>] (..) kind of
+	in his own little space right now . %snd:"joe08"_1476122_1482298
+%mor:	co|well pro:sub|he aux|be&3S part|play-PRESP cm|cm prep|with
+	det:poss|his n|toy-PL cm|cm co|yup cm|cm conj|but
+	pro:sub|he~aux|be&3S n|kind prep|of prep|in det:poss|his (1)adj|own
+	(1)adj|little (1)n|space adv|right adv|now .
+----------------------------------------
+*** File "joe08.cha": line 3741.
+*MOT:	he's my cutest <baby> [>] boy and Thomas is <my cutest big boy> [>]
+	. %snd:"joe08"_2382467_2386131
+%mor:	pro:sub|he~aux|be&3S det:poss|my adj|cute-SP n|baby n|boy coord|and
+	n:prop|Thomas aux|be&3S det:poss|my (1)adj|cute-SP (1)adj|big (1)n|boy .
+----------------------------------------
+*** File "joe08.cha": line 3898.
+*MOT:	oh , just a little tiny poop . %snd:"joe08"_2527103_2529231
+%mor:	co|oh cm|cm adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|poop .
+----------------------------------------
+*** File "joe08.cha": line 3901.
+*MOT:	a li:ttle tiny poopie for me . %snd:"joe08"_2529647_2532239
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|poop-DIM prep|for pro:obj|me .
+----------------------------------------
+*** File "joe08.cha": line 3931.
+*MOT:	my li(tt)le naked fellow . %snd:"joe08"_2570495_2571823
+%mor:	det:poss|my (1)adj|little (1)adj|naked (1)n|fellow .
+----------------------------------------
+*** File "joe08.cha": line 3951.
+*MOT:	you're just the (.) cutest little boy I ever saw ! %snd:"joe08"_2582815_2585503
+%mor:	pro:per|you~cop|be&PRES adv|just det:art|the (1)adj|cute-SP (1)adj|little
+	(1)n|boy pro:sub|I adv|ever n|saw !
+
+    Strings matched 9 times
+
+From file <joe09.cha>
+----------------------------------------
+*** File "joe09.cha": line 1624.
+*MOT:	<the same exact> [<] day <as daddy turned> [>] +//. %snd:"joe09"_944553_947400
+%mor:	det:art|the (1)adj|same (1)adj|exact (1)n|day prep|as n|daddy v|turn-PAST
+	+//.
+----------------------------------------
+*** File "joe09.cha": line 2248.
+*MOT:	<(be)cause you're just a fat lumpy dump> [>] . %snd:"joe09"_1249176_1252392
+%mor:	conj|because pro:per|you~cop|be&PRES adv|just det:art|a (1)adj|fat
+	(1)adj|lump&dn-Y (1)n|dump .
+----------------------------------------
+*** File "joe09.cha": line 4993.
+*MOT:	oh , you're just a cuddly little buddy . %snd:"joe09"_3129109_3131253
+%mor:	co|oh cm|cm pro:per|you~cop|be&PRES adv|just det:art|a
+	(1)adj|cuddle&dv-Y (1)adj|little (1)n|buddy .
+----------------------------------------
+*** File "joe09.cha": line 5013.
+*MOT:	you're my best little cuddling boy . %snd:"joe09"_3145204_3147108
+%mor:	pro:per|you~cop|be&PRES det:poss|my (1)adj|good&SP (1)adj|little
+	(1)n:gerund|cuddle-PRESP n|boy .
+
+    Strings matched 4 times
+
+From file <joe10a.cha>
+
+    Strings matched 0 times
+
+From file <joe10b.cha>
+----------------------------------------
+*** File "joe10b.cha": line 95.
+*MOT:	did you just have a nice big drink ? %snd:"joe10b"_63712_65392
+%mor:	v|do&PAST pro:per|you adv|just v|have det:art|a (1)adj|nice (1)adj|big
+	(1)n|drink ?
+----------------------------------------
+*** File "joe10b.cha": line 747.
+*MOT:	oh do you think you're good , huh , you're gonna get that li:ttle
+	tiny fleck on the carpet . %snd:"joe10b"_692670_697198
+%mor:	co|oh v|do pro:per|you v|think pro:per|you~cop|be&PRES adj|good
+	cm|cm co|huh cm|cm pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|get pro:dem|that (1)adj|little (1)adj|tiny (1)n|fleck prep|on det:art|the
+	n|carpet .
+----------------------------------------
+*** File "joe10b.cha": line 757.
+*MOT:	that li:ttle tiny speck , you think you're gonna pick it up . %snd:"joe10b"_697726_701630
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|speck cm|cm pro:per|you v|think
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|pick pro:per|it
+	adv|up .
+----------------------------------------
+*** File "joe10b.cha": line 2608.
+*MOT:	&=pants , the little head shake , that says I'm so hungry . %snd:"joe10b"_2008596_2012132
+%mor:	cm|cm det:art|the (1)adj|little (1)adj|head (1)n|shake cm|cm pro:rel|that
+	v|say-3S pro:sub|I~aux|be&1S adv|so adj|hungry .
+----------------------------------------
+*** File "joe10b.cha": line 3132.
+*MOT:	hello munchy munchy coon . %snd:"joe10b"_2367424_2369264
+%mor:	co|hello (1)adj|munch&dv-Y (1)adj|munch&dv-Y (1)n|coon .
+----------------------------------------
+*** File "joe10b.cha": line 3660.
+*MOT:	is that what you're doing , you're showing me how well you picked up
+	that nice little <thing> [>] ? %snd:"joe10b"_2998085_3002389
+%mor:	cop|be&3S pro:dem|that pro:int|what pro:per|you~aux|be&PRES
+	part|do-PRESP cm|cm pro:per|you~aux|be&PRES part|show-PRESP
+	pro:obj|me adv:int|how adv|well pro:per|you v|pick-PAST adv|up
+	pro:dem|that (1)adj|nice (1)adj|little (1)n|thing ?
+----------------------------------------
+*** File "joe10b.cha": line 4452.
+*MOT:	he [/] (.) he just ate , he keeps spitting up , <I don't know why ,
+	like> [>] major major spit up . %snd:"joe10b"_3314146_3319298
+%mor:	pro:sub|he adv|just v|eat&PAST cm|cm pro:sub|he v|keep-3S
+	n:gerund|spit-PRESP adv|up cm|cm pro:sub|I mod|do~neg|not v|know
+	adv:int|why cm|cm co|like (1)adj|major (1)adj|major (1)n|spit adv|up .
+
+    Strings matched 7 times
+
+From file <joe11.cha>
+----------------------------------------
+*** File "joe11.cha": line 1087.
+*MOT:	are you a ticklish little fellow ? %snd:"joe11"_601436_603500
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|ticklish (1)adj|little (1)n|fellow
+	?
+----------------------------------------
+*** File "joe11.cha": line 1155.
+*MOT:	<oh it's just a> [<] little tiny tiny poop , no wonder I couldn't
+	tell . %snd:"joe11"_643564_647132
+%mor:	co|oh pro:per|it~cop|be&3S adj|just det:art|a adj|little (1)adj|tiny
+	(1)adj|tiny (1)n|poop cm|cm qn|no adj|wonder pro:sub|I mod|could~neg|not
+	v|tell .
+----------------------------------------
+*** File "joe11.cha": line 3581.
+*MOT:	you're okay , you have a dirty dirty shirt . %snd:"joe11"_2035902_2038638
+%mor:	pro:per|you~cop|be&PRES adj|okay cm|cm pro:per|you v|have det:art|a
+	(1)adj|dirt&dn-Y (1)adj|dirt&dn-Y (1)n|shirt .
+----------------------------------------
+*** File "joe11.cha": line 3652.
+*MOT:	com'ere [: come here] angry naked boy . %snd:"joe11"_2096366_2098830
+%mor:	v|come adv|here (1)adj|angry (1)adj|naked (1)n|boy .
+
+    Strings matched 4 times
+
+From file <joe12.cha>
+
+    Strings matched 0 times
+
+From file <joe13.cha>
+----------------------------------------
+*** File "joe13.cha": line 1732.
+*MOT:	see how it's off , you can see the little green light isn't on ? %snd:"joe13"_1133934_1137166
+%mor:	v|see adv:int|how pro:per|it~cop|be&3S adv|off cm|cm pro:per|you
+	mod|can v|see det:art|the (1)adj|little (1)adj|green (1)n|light
+	cop|be&3S~neg|not adv|on ?
+----------------------------------------
+*** File "joe13.cha": line 4811.
+*MOT:	you have a runny runny runny nose . %snd:"joe13"_3347195_3349099
+%mor:	pro:per|you v|have det:art|a adj|run&dv-Y (1)adj|run&dv-Y (1)adj|run&dv-Y
+	(1)n|nose .
+----------------------------------------
+*** File "joe13.cha": line 4931.
+*MOT:	o:h what a sad sad boy . %snd:"joe13"_3420154_3421850
+%mor:	co|oh pro:int|what det:art|a (1)adj|sad (1)adj|sad (1)n|boy .
+----------------------------------------
+*** File "joe13.cha": line 5281.
+*MOT:	little fussy sad face , I see you . %snd:"joe13"_3679466_3683578
+%mor:	adj|little (1)adj|fuss&dn-Y (1)adj|sad (1)n|face cm|cm pro:sub|I v|see
+	pro:per|you .
+
+    Strings matched 4 times
+

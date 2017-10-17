@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/c-00004979-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.29||||Target_Child|||
+@Date:	20-MAY-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	he always says &-um stuff that doesn't make sense .
+%mor:	pro:sub|he adv|always v|say-3S n|stuff pro:dem|that
+	mod|do&3S~neg|not v|make n|sense .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|CMOD
+	9|8|OBJ 10|3|PUNCT
+*CHI:	and then <says it's> [//] when you say something doesn't make sense
+	, he always jumps on you .
+%mor:	coord|and adv:tem|then conj|when pro:per|you v|say
+	pro:indef|something mod|do&3S~neg|not v|make n|sense cm|cm
+	pro:sub|he adv|always v|jump-3S prep|on pro:per|you .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|9|SUBJ 7|9|AUX
+	8|7|NEG 9|5|COMP 10|9|OBJ 11|10|LP 12|14|SUBJ 13|14|JCT 14|9|COMP 15|14|JCT
+	16|15|POBJ 17|1|PUNCT
+*CHI:	and 0 [*] like reckons he's really good .
+%mor:	coord|and co|like v|reckon-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adj|good .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|JCT 8|3|PUNCT
+%err:	0 = subject
+*CHI:	and he annoys me .
+%mor:	coord|and pro:sub|he v|annoy-3S pro:obj|me .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	&-um (.) he always reckons he knows everything about everything .
+%mor:	pro:sub|he adv|always v|reckon-3S pro:sub|he v|know-3S
+	pro:indef|everything prep|about pro:indef|everything .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	and he's all [//] played all sports in the world !
+%mor:	coord|and pro:sub|he~aux|be&3S part|play-PASTP qn|all n|sport-PL
+	prep|in det:art|the n|world !
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and he [/] he won't admit he's wrong even when he is wrong .
+%mor:	coord|and pro:sub|he mod|will~neg|not v|admit pro:sub|he~cop|be&3S
+	adj|wrong adj|even conj|when pro:sub|he cop|be&3S adj|wrong .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|MOD
+	9|7|PRED 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|PRED 14|5|PUNCT
+*CHI:	&-um (.) he thinks he's really strong but he's not .
+%mor:	pro:sub|he v|think-3S pro:sub|he~aux|be&3S adv|real&dadj-LY
+	adj|strong conj|but pro:sub|he~aux|be&3S neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|COMP 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|9|NEG 11|2|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

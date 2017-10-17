@@ -1,0 +1,139 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:46:21 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <t1-0830.cha>
+----------------------------------------
+*** File "t1-0830.cha": line 1727.
+*MOT:	(be)cause you made (..) a big old mess . %snd:"t1-f17nov00"_2825607_2827517
+%mor:	conj|because pro:per|you v|make&PAST det:art|a (1)adj|big (1)adj|old
+	(1)n|mess .
+
+    Strings matched 1 times
+
+From file <t1-0927.cha>
+----------------------------------------
+*** File "t1-0927.cha": line 673.
+*MOT:	nice little chickie . %snd:"t1-f15dec00"_1083707_1084933
+%mor:	(1)adj|nice (1)adj|little (1)n|chick-DIM .
+
+    Strings matched 1 times
+
+From file <t1-1016.cha>
+----------------------------------------
+*** File "t1-1016.cha": line 1557.
+*MOT:	eating Mommy's face might be a pretty bad thing . %snd:"t1-w3jan01"_2886403_2889670
+%mor:	part|eat-PRESP n:prop|Mommy~poss|s n|face mod|might cop|be
+	det:art|a (1)adj|pretty (1)adj|bad (1)n|thing .
+
+    Strings matched 1 times
+
+From file <t1-1025.cha>
+----------------------------------------
+*** File "t1-1025.cha": line 1265.
+*MOT:	my bonnie brown hair [=! sung] . %snd:"t1-f12jan01"_2970983_2973233
+%mor:	det:poss|my (1)adj|bonnie (1)adj|brown (1)n|hair .
+
+    Strings matched 1 times
+
+From file <t1-1108.cha>
+----------------------------------------
+*** File "t1-1108.cha": line 202.
+*MOT:	nasty nasty vitamins . %snd:"t1-f26jan01"_255430_257137
+%mor:	(1)adj|nasty (1)adj|nasty (1)n|vitamin-PL .
+----------------------------------------
+*** File "t1-1108.cha": line 1176.
+*MOT:	with a great (..) big hug and a kiss from me to you [=! sung] . %snd:"t1-f26jan01"_1536147_1539843
+%mor:	prep|with det:art|a (1)adj|great (1)adj|big (1)n|hug coord|and det:art|a
+	n|kiss prep|from pro:obj|me prep|to pro:per|you .
+----------------------------------------
+*** File "t1-1108.cha": line 1197.
+*MOT:	with a great (.) big (.) hug and a kiss from me to you [=! read] .
+	%snd:"t1-f26jan01"_1552310_1555650
+%mor:	prep|with det:art|a (1)adj|great (1)adj|big (1)n|hug coord|and det:art|a
+	n|kiss prep|from pro:obj|me prep|to pro:per|you .
+
+    Strings matched 3 times
+
+From file <t1-1126.cha>
+----------------------------------------
+*** File "t1-1126.cha": line 287.
+*MOT:	o:h yummy yummy (ba)nana . %snd:"t1-f16feb01"_387690_391030
+%mor:	co|oh (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|banana .
+----------------------------------------
+*** File "t1-1126.cha": line 1246.
+*MOT:	put on new clean diapie ! %snd:"t1-f16feb01"_1735850_1737557
+%mor:	v|put&ZERO prep|on (1)adj|new (1)adj|clean (1)n|diapie !
+----------------------------------------
+*** File "t1-1126.cha": line 2489.
+*MOT:	old bad telephone , don't do that to the baby ! %snd:"t1-f16feb01"_3185723_3188400
+%mor:	(1)adj|old (1)adj|bad (1)n|telephone cm|cm mod|do~neg|not v|do pro:dem|that
+	prep|to det:art|the n|baby !
+
+    Strings matched 3 times
+
+From file <t1-1205.cha>
+----------------------------------------
+*** File "t1-1205.cha": line 456.
+*MOT:	the itsy bitsy spider went up (.) the water spout [=! sung] . %snd:"t1-f23feb01"_1484547_1489403
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "t1-1205.cha": line 471.
+*MOT:	so the itsy bitsy spider (..) went up (..) the spout (.) again
+	[=! sung] . %snd:"t1-f23feb01"_1500973_1506613
+%mor:	adv|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "t1-1205.cha": line 688.
+*MOT:	it was Clifford , (.) the big red dog ? %snd:"t1-f23feb01"_1812780_1815080
+%mor:	pro:per|it cop|be&PAST&13S n:prop|Clifford cm|cm det:art|the
+	(1)adj|big (1)adj|red (1)n|dog ?
+----------------------------------------
+*** File "t1-1205.cha": line 753.
+*MOT:	that's little bitty Clifford . %snd:"t1-f23feb01"_1877977_1879273
+%mor:	pro:dem|that~cop|be&3S (1)adj|little (1)adj|bit&dn-Y (1)n:prop|Clifford .
+----------------------------------------
+*** File "t1-1205.cha": line 959.
+*MOT:	the itsy bitsy spider went up the water spout [=! sung] . %snd:"t1-f23feb01"_2383933_2388120
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "t1-1205.cha": line 974.
+*MOT:	so the itsy bitsy spider went up the spout again [=! sung] . %snd:"t1-f23feb01"_2397343_2401913
+%mor:	adv|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+
+    Strings matched 6 times
+
+From file <t1-1219.cha>
+
+    Strings matched 0 times
+
+From file <t1-1310.cha>
+
+    Strings matched 0 times
+
+From file <t1-1319.cha>
+----------------------------------------
+*** File "t1-1319.cha": line 389.
+*MOT:	you're a good little boy . %snd:"t1-f6apr01"_754137_755637
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <t1-1416.cha>
+----------------------------------------
+*** File "t1-1416.cha": line 187.
+*MOT:	I made up the last last night . %snd:"t1-f4may01"_248340_250073
+%mor:	pro:sub|I v|make&PAST adv|up det:art|the (1)adj|last (1)adj|last (1)n|night
+	.
+----------------------------------------
+*** File "t1-1416.cha": line 2088.
+*MOT:	got little soft [?] ball . %snd:"t1-f4may01"_3431087_3432703
+%mor:	v|get&PAST (1)adj|little (1)adj|soft (1)n|ball .
+
+    Strings matched 2 times
+

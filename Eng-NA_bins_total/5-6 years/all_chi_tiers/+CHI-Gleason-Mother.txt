@@ -1,0 +1,122 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:29:49 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <andy.cha>
+
+    Strings matched 0 times
+
+From file <bobby.cha>
+
+    Strings matched 0 times
+
+From file <charlie.cha>
+
+    Strings matched 0 times
+
+From file <david.cha>
+----------------------------------------
+*** File "david.cha": line 656.
+*CHI:	use this great big bag .
+%mor:	v|use pro:dem|this (1)adj|great (1)adj|big (1)n|bag .
+
+    Strings matched 1 times
+
+From file <eddie.cha>
+
+    Strings matched 0 times
+
+From file <frank.cha>
+
+    Strings matched 0 times
+
+From file <guy.cha>
+
+    Strings matched 0 times
+
+From file <helen.cha>
+
+    Strings matched 0 times
+
+From file <isadora.cha>
+
+    Strings matched 0 times
+
+From file <john.cha>
+
+    Strings matched 0 times
+
+From file <katie.cha>
+
+    Strings matched 0 times
+
+From file <laurel.cha>
+
+    Strings matched 0 times
+
+From file <martin.cha>
+
+    Strings matched 0 times
+
+From file <nanette.cha>
+
+    Strings matched 0 times
+
+From file <olivia.cha>
+
+    Strings matched 0 times
+
+From file <patricia.cha>
+
+    Strings matched 0 times
+
+From file <richard.cha>
+
+    Strings matched 0 times
+
+From file <susan.cha>
+
+    Strings matched 0 times
+
+From file <theresa.cha>
+
+    Strings matched 0 times
+
+From file <ursula.cha>
+
+    Strings matched 0 times
+
+From file <victor.cha>
+
+    Strings matched 0 times
+
+From file <wanda.cha>
+
+    Strings matched 0 times
+
+From file <william.cha>
+
+    Strings matched 0 times
+
+From file <xavia.cha>
+----------------------------------------
+*** File "xavia.cha": line 751.
+*CHI:	the little girl (.) will have real strong muscles and they can hold up the car .
+%mor:	det:art|the adj|little n|girl mod|will v|have (1)adj|real (1)adj|strong
+	(1)n|muscle-PL coord|and pro:sub|they mod|can n|hold adv|up det:art|the
+	n|car .
+----------------------------------------
+*** File "xavia.cha": line 778.
+*CHI:	this is where (.) she lives and this is where &-um (.) she when she wants to go in the way , way back she sleeps here but when she wants to sleep in just the plain old front she sleeps here and when +...
+%mor:	pro:dem|this cop|be&3S adv:int|where pro:sub|she n|life-PL
+	coord|and pro:dem|this cop|be&3S adv:int|where pro:sub|she conj|when
+	pro:sub|she v|want-3S inf|to v|go prep|in det:art|the n|way cm|cm
+	adv|way adj|back pro:sub|she v|sleep-3S adv|here conj|but conj|when
+	pro:sub|she v|want-3S inf|to v|sleep adv|in adv|just det:art|the
+	(1)adj|plain (1)adj|old (1)n|front pro:sub|she v|sleep-3S adv|here coord|and
+	adv:int|when +...
+
+    Strings matched 2 times
+

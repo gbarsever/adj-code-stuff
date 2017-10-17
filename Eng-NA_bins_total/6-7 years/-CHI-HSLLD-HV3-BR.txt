@@ -1,0 +1,435 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:04:25 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admbr3.cha>
+----------------------------------------
+*** File "admbr3.cha": line 251.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <alibr3.cha>
+----------------------------------------
+*** File "alibr3.cha": line 245.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <annbr3.cha>
+----------------------------------------
+*** File "annbr3.cha": line 348.
+*MOT:	the next day was Sunday again and the &+cat caterpillar ate through one nice green leaf (.) and after that he felt much [!] better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "annbr3.cha": line 367.
+*MOT:	now he wasn't hungry anymore but he wasn't a little caterpillar anymore (.) he was a big fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	conj|but pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file <aprbr3.cha>
+----------------------------------------
+*** File "aprbr3.cha": line 233.
+*GRM:	the caterpillar ate through (.) one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "aprbr3.cha": line 269.
+*GRM:	oh he was a big beautiful butterfly huh ?
+%mor:	co|oh pro:sub|he cop|be&PAST&13S det:art|a (1)adj|big (1)adj|beautiful
+	(1)n|+n|butter+n|fly co|huh ?
+
+    Strings matched 2 times
+
+From file <bobbr3.cha>
+----------------------------------------
+*** File "bobbr3.cha": line 319.
+*MOT:	that's twice as long as it takes for a mother to have a regular human baby .
+%mor:	pro:dem|that~cop|be&3S adv|twice prep|as adj|long conj|as
+	pro:per|it v|take-3S prep|for det:art|a n|mother inf|to v|have
+	det:art|a (1)adj|regular (1)adj|human (1)n|baby .
+
+    Strings matched 1 times
+
+From file <brnbr3.cha>
+----------------------------------------
+*** File "brnbr3.cha": line 123.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <brtbr3.cha>
+----------------------------------------
+*** File "brtbr3.cha": line 116.
+*MOT:	the &+calip [//] caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <catbr3.cha>
+----------------------------------------
+*** File "catbr3.cha": line 153.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <deabr3.cha>
+----------------------------------------
+*** File "deabr3.cha": line 238.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <devbr3.cha>
+----------------------------------------
+*** File "devbr3.cha": line 101.
+*MOT:	there's a big round circle ?
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|round (1)n|circle ?
+----------------------------------------
+*** File "devbr3.cha": line 382.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "devbr3.cha": line 702.
+*MOT:	and they sit there with those big yellow eyes staring at you &=laughs .
+%mor:	coord|and pro:sub|they v|sit adv|there prep|with pro:dem|those
+	(1)adj|big (1)adj|yellow (1)n|eye-PL part|stare-PRESP prep|at pro:per|you .
+
+    Strings matched 3 times
+
+From file <geobr3.cha>
+----------------------------------------
+*** File "geobr3.cha": line 310.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <guybr3.cha>
+----------------------------------------
+*** File "guybr3.cha": line 414.
+*MOT:	big fat caterpillar .
+%mor:	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 1 times
+
+From file <jambr3.cha>
+----------------------------------------
+*** File "jambr3.cha": line 208.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much bette(r) .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "jambr3.cha": line 728.
+*MOT:	<they're ugly little things> [>] .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|ugly (1)adj|little (1)n|thing-PL .
+
+    Strings matched 2 times
+
+From file <jeabr3.cha>
+----------------------------------------
+*** File "jeabr3.cha": line 329.
+*MOT:	the next day was Sunday again and the caterpillar ate through one nice green leaf and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	coord|and det:art|the n|caterpillar v|eat&PAST adj|through
+	pro:indef|one (1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after
+	det:dem|that pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "jeabr3.cha": line 714.
+*MOT:	<no no no> [<] easy easy honey .
+%mor:	co|no co|no qn|no (1)adj|ease&dn-Y (1)adj|ease&dn-Y (1)n|honey .
+
+    Strings matched 2 times
+
+From file <jebbr3.cha>
+----------------------------------------
+*** File "jebbr3.cha": line 57.
+*MOT:	one Sunday morning the warm sun came up and pop [!] out of the egg came a tiny and very hungry little caterpillar .
+%mor:	det:num|one n:prop|Sunday n|morning det:art|the adj|warm n|sun
+	v|come&PAST adv|up coord|and v|pop adv|out prep|of det:art|the n|egg
+	v|come&PAST det:art|a adj|tiny coord|and adv|very (1)adj|hungry
+	(1)adj|little (1)n|caterpillar .
+----------------------------------------
+*** File "jebbr3.cha": line 242.
+*MOT:	+^ the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "jebbr3.cha": line 1336.
+*MOT:	some sea cows have even small trunks .
+%mor:	qn|some n|sea n|cow-PL v|have (1)adj|even (1)adj|small (1)n|trunk-PL .
+
+    Strings matched 3 times
+
+From file <jenbr3.cha>
+
+    Strings matched 0 times
+
+From file <jerbr3.cha>
+----------------------------------------
+*** File "jerbr3.cha": line 334.
+*MOT:	the caterpillar ate through (.) one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+
+    Strings matched 1 times
+
+From file <jesbr3.cha>
+----------------------------------------
+*** File "jesbr3.cha": line 814.
+*MOT:	that was real [?] nice (.) giving her the book .
+%mor:	pro:dem|that cop|be&PAST&13S (1)adj|real (1)adj|nice (1)n:gerund|give-PRESP
+	pro:obj|her det:art|the n|book .
+
+    Strings matched 1 times
+
+From file <joybr3.cha>
+----------------------------------------
+*** File "joybr3.cha": line 275.
+*MOT:	the caterpillar ate through one nice big green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	adj|nice (1)adj|big (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <karbr2.cha>
+----------------------------------------
+*** File "karbr2.cha": line 529.
+*MOT:	oh he ate through one nice green leaf and then he felt better ?
+%mor:	co|oh pro:sub|he v|eat&PAST prep|through pro:indef|one (1)adj|nice
+	(1)adj|green (1)n|leaf coord|and adv:tem|then pro:sub|he v|feel&PAST
+	adj|good&CP ?
+----------------------------------------
+*** File "karbr2.cha": line 1521.
+*MOT:	he's chasin(g) the poor little kitty .
+%mor:	pro:sub|he~aux|be&3S part|chase-PRESP det:art|the (1)adj|poor
+	(1)adj|little (1)n|kitty .
+
+    Strings matched 2 times
+
+From file <marbr3.cha>
+----------------------------------------
+*** File "marbr3.cha": line 189.
+*MOT:	<the caterpillar ate through one nice green leaf (.) and after that he felt much> [>] +...
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much +...
+
+    Strings matched 1 times
+
+From file <maybr3.cha>
+
+    Strings matched 0 times
+
+From file <melbr3.cha>
+----------------------------------------
+*** File "melbr3.cha": line 198.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "melbr3.cha": line 615.
+*BRO:	<a real big mother> [<] .
+%mor:	det:art|a (1)adj|real (1)adj|big (1)n|mother .
+
+    Strings matched 2 times
+
+From file <monbr3.cha>
+----------------------------------------
+*** File "monbr3.cha": line 151.
+*MOT:	<the &+calli> [/] the caterpillar ate through one (.) nice green leaf and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <morbr3.cha>
+----------------------------------------
+*** File "morbr3.cha": line 98.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <nedbr3.cha>
+
+    Strings matched 0 times
+
+From file <rasbr3.cha>
+
+    Strings matched 0 times
+
+From file <raubr3.cha>
+----------------------------------------
+*** File "raubr3.cha": line 153.
+*MOT:	the next day was Sunday again (.) the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again
+	det:art|the n|caterpillar v|eat&PAST adj|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "raubr3.cha": line 162.
+*MOT:	now he wasn't hungry anymore (.) and he wasn't a little caterpillar anymore he was a big fat [!] caterpillar .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det:art|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det:art|a
+	(1)adj|big (1)adj|fat (1)n|caterpillar .
+
+    Strings matched 2 times
+
+From file <rilbr3.cha>
+----------------------------------------
+*** File "rilbr3.cha": line 291.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that (.) he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <rosbr3.cha>
+----------------------------------------
+*** File "rosbr3.cha": line 229.
+*MOT:	the caterpillar ate through (.) one nice green leaf .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf .
+
+    Strings matched 1 times
+
+From file <sarbr3.cha>
+----------------------------------------
+*** File "sarbr3.cha": line 99.
+*MOT:	the caterpillar ate through one nice green leaf and after that he felt much bette(r) .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <susbr3.cha>
+----------------------------------------
+*** File "susbr3.cha": line 276.
+*MOT:	and he ate through a nice green leaf (.) and after that he felt much better .
+%mor:	coord|and pro:sub|he v|eat&PAST prep|through det:art|a (1)adj|nice
+	(1)adj|green (1)n|leaf coord|and conj|after det:dem|that pro:sub|he
+	v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <terbr3.cha>
+----------------------------------------
+*** File "terbr3.cha": line 345.
+*MOT:	<the caterpillar ate through one nice green leaf (.) and after that he felt much better> [>] .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <tombr3.cha>
+----------------------------------------
+*** File "tombr3.cha": line 322.
+*MOT:	the caterpillar ate [/] ate through one (.) nice (.) green leaf (.) much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <trebr3.cha>
+----------------------------------------
+*** File "trebr3.cha": line 345.
+*MOT:	<the caterpillar ate through one nice green leaf (.) and after that he felt much better> [>] .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+
+From file <tribr3.cha>
+----------------------------------------
+*** File "tribr3.cha": line 197.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "tribr3.cha": line 214.
+*MOT:	big [<] (.) fat [!] caterpillar .
+%mor:	(1)adj|big (1)adj|fat (1)n|caterpillar .
+----------------------------------------
+*** File "tribr3.cha": line 704.
+*MOT:	this [//] (.) see this big long thing ?
+%mor:	v|see pro:dem|this (1)adj|big (1)adj|long (1)n|thing ?
+----------------------------------------
+*** File "tribr3.cha": line 813.
+*MOT:	<aren't you> [<] a little young still .
+%mor:	aux|be&PRES~neg|not pro:per|you det:art|a (1)adj|little (1)adj|young
+	(1)n|still .
+
+    Strings matched 4 times
+
+From file <vicbr3.cha>
+----------------------------------------
+*** File "vicbr3.cha": line 188.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+----------------------------------------
+*** File "vicbr3.cha": line 411.
+*MOT:	they have this book (.) not at Hildreth school but at &-uh xxx school when Bro started they had a great big picture of xxx all these books .
+%mor:	pro:sub|they v|have pro:dem|this n|book neg|not prep|at
+	n:prop|Hildreth n|school conj|but prep|at n|school conj|when
+	n:prop|Bro v|start-PAST pro:sub|they v|have&PAST det:art|a (1)adj|great
+	(1)adj|big (1)n|picture prep|of qn|all pro:dem|these n|book-PL .
+
+    Strings matched 2 times
+
+From file <zanbr3.cha>
+----------------------------------------
+*** File "zanbr3.cha": line 245.
+*MOT:	the caterpillar ate through one nice green leaf (.) and after that he felt much better .
+%mor:	det:art|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	(1)adj|nice (1)adj|green (1)n|leaf coord|and conj|after det:dem|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+
+    Strings matched 1 times
+

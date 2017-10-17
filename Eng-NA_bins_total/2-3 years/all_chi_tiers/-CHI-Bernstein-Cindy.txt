@@ -1,0 +1,32 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:33:32 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <cindy1.cha>
+----------------------------------------
+*** File "cindy1.cha": line 462.
+*MOT:	(it)'s a pretty big dog ! %snd:"cindy1"_378095_379836
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|dog !
+
+    Strings matched 1 times
+
+From file <cindy2.cha>
+
+    Strings matched 0 times
+
+From file <cindy3.cha>
+----------------------------------------
+*** File "cindy3.cha": line 612.
+*MOT:	you're an awfully smart little kid . %snd:"cindy3"_628134_629411
+%mor:	pro:per|you~aux|be&PRES det:art|a adv|awful&dadj-LY (1)adj|smart
+	(1)adj|little (1)n|kid .
+----------------------------------------
+*** File "cindy3.cha": line 859.
+*MOT:	an(d) you'll get a good big bite of yours . %snd:"cindy3"_838846_840542
+%mor:	coord|and pro:per|you~mod|will v|get det:art|a (1)adj|good (1)adj|big
+	(1)n|bite prep|of pro:poss|yours .
+
+    Strings matched 2 times
+

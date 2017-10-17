@@ -1,0 +1,241 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:06:32 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acemd7.cha>
+
+    Strings matched 0 times
+
+From file <admmd7.cha>
+
+    Strings matched 0 times
+
+From file <aimmd7.cha>
+
+    Strings matched 0 times
+
+From file <anamd7.cha>
+
+    Strings matched 0 times
+
+From file <annmd7.cha>
+----------------------------------------
+*** File "annmd7.cha": line 101.
+*MOT:	&-um (.) like a horse smaller (.) small horse .
+%mor:	prep|like det:art|a n|horse (1)adj|small-CP (1)adj|small (1)n|horse .
+
+    Strings matched 1 times
+
+From file <aprmd7.cha>
+
+    Strings matched 0 times
+
+From file <bobmd7.cha>
+
+    Strings matched 0 times
+
+From file <bramd7.cha>
+
+    Strings matched 0 times
+
+From file <brimd7.cha>
+
+    Strings matched 0 times
+
+From file <brnmd7.cha>
+
+    Strings matched 0 times
+
+From file <casmd7.cha>
+
+    Strings matched 0 times
+
+From file <catmd7.cha>
+
+    Strings matched 0 times
+
+From file <conmd7.cha>
+----------------------------------------
+*** File "conmd7.cha": line 52.
+*MOT:	oh &-um an illustrious beautiful gem .
+%mor:	co|oh det:art|a (1)adj|illustrious (1)adj|beautiful (1)n|gem .
+
+    Strings matched 1 times
+
+From file <ethmd7.cha>
+
+    Strings matched 0 times
+
+From file <geomd7.cha>
+
+    Strings matched 0 times
+
+From file <gremd7.cha>
+
+    Strings matched 0 times
+
+From file <jammd7.cha>
+
+    Strings matched 0 times
+
+From file <jammt7.cha>
+
+    Strings matched 0 times
+
+From file <jeamd7.cha>
+
+    Strings matched 0 times
+
+From file <jebmd7.cha>
+
+    Strings matched 0 times
+
+From file <jenmd7.cha>
+
+    Strings matched 0 times
+
+From file <jermd7.cha>
+
+    Strings matched 0 times
+
+From file <jesmd7.cha>
+
+    Strings matched 0 times
+
+From file <joymd7.cha>
+
+    Strings matched 0 times
+
+From file <kevmd7.cha>
+
+    Strings matched 0 times
+
+From file <kurmd7.cha>
+
+    Strings matched 0 times
+
+From file <marmd7.cha>
+----------------------------------------
+*** File "marmd7.cha": line 121.
+*MOT:	a best friend of ours &=laughs xxx (.) that's what they said I don't know (.) I'd rather have <a a> [/] a real best friend rather than a diamond (.) but it [//] it's a stone (.) and it [/] it shines it's beautiful I have seen it I never own one &=laughs (.) maybe someday .
+%mor:	det:art|a adj|good&SP n|friend prep|of pro:poss|ours
+	pro:dem|that~cop|be&3S pro:int|what pro:sub|they v|say&PAST
+	pro:sub|I mod|do~neg|not v|know pro:sub|I~mod|genmod adv|rather
+	v|have det:art|a (1)adj|real (1)adj|good&SP (1)n|friend adv|rather prep|than
+	det:art|a n|diamond conj|but pro:per|it~cop|be&3S det:art|a n|stone
+	coord|and pro:per|it v|shine-3S pro:per|it~cop|be&3S adj|beautiful
+	pro:sub|I v|have part|see&PASTP pro:per|it pro:sub|I adv|never
+	adj|own pro:indef|one adv|maybe adv:tem|someday .
+
+    Strings matched 1 times
+
+From file <maymd7.cha>
+
+    Strings matched 0 times
+
+From file <melmd7.cha>
+----------------------------------------
+*** File "melmd7.cha": line 93.
+*MOT:	a nail is &-um something that you use to put things together it's a long skinny thing .
+%mor:	det:art|a n|nail aux|be&3S pro:indef|something pro:rel|that
+	pro:per|you v|use inf|to v|put&ZERO n|thing-PL adv|together
+	pro:per|it~cop|be&3S det:art|a (1)adj|long (1)adj|skin&dn-Y (1)n|thing .
+
+    Strings matched 1 times
+
+From file <nedmd7.cha>
+
+    Strings matched 0 times
+
+From file <paumd7.cha>
+
+    Strings matched 0 times
+
+From file <petmd7.cha>
+----------------------------------------
+*** File "petmd7.cha": line 54.
+*MOT:	a diamond is a hard (.) &-um hm: (.) it's an engagement ring <no it's> [//] <a yeah it's a> [//] <what is it> [//] <it comes from a mine> [//] it's a hard chemical thing I guess .
+%mor:	det:art|a n|diamond cop|be&3S det:art|a adj|hard co|hm
+	pro:per|it~cop|be&3S det:art|a n|engagement n|ring
+	pro:per|it~cop|be&3S det:art|a (1)adj|hard (1)adj|chemical (1)n|thing
+	pro:sub|I v|guess .
+
+    Strings matched 1 times
+
+From file <rasmd7.cha>
+----------------------------------------
+*** File "rasmd7.cha": line 17.
+*INV:	uhhuh somethin(g) that you ride on great see it's pretty easy (.) bird (.) what's a bird ?
+%mor:	co|uhhuh pro:indef|something pro:rel|that pro:per|you v|ride adv|on
+	adj|great v|see pro:per|it~cop|be&3S (1)adj|pretty (1)adj|ease&dn-Y (1)n|bird
+	pro:int|what~poss|s det:art|a n|bird ?
+
+    Strings matched 1 times
+
+From file <raumd7.cha>
+
+    Strings matched 0 times
+
+From file <rilmd7.cha>
+
+    Strings matched 0 times
+
+From file <rocmd7.cha>
+
+    Strings matched 0 times
+
+From file <rocmt7.cha>
+
+    Strings matched 0 times
+
+From file <rosmd7.cha>
+----------------------------------------
+*** File "rosmd7.cha": line 30.
+*INV:	uhhuh great okay clock .
+%mor:	co|uhhuh (1)adj|great (1)adj|okay (1)n|clock .
+----------------------------------------
+*** File "rosmd7.cha": line 91.
+*MOT:	&-um (.) sharp small piece of (.) metal used to hold things together .
+%mor:	(1)adj|sharp (1)adj|small (1)n|piece prep|of n|metal v|use-PAST inf|to
+	v|hold n|thing-PL adv|together .
+
+    Strings matched 2 times
+
+From file <sarmd7.cha>
+
+    Strings matched 0 times
+
+From file <susmd7.cha>
+
+    Strings matched 0 times
+
+From file <tommd7.cha>
+----------------------------------------
+*** File "tommd7.cha": line 84.
+*MOT:	a knife is a long sharp object that (.) you use for cutting stuff up .
+%mor:	det:art|a n|knife cop|be&3S det:art|a (1)adj|long (1)adj|sharp (1)n|object
+	pro:rel|that pro:per|you v|use prep|for n:gerund|cut-PRESP n|stuff
+	adv|up .
+
+    Strings matched 1 times
+
+From file <trimd7.cha>
+----------------------------------------
+*** File "trimd7.cha": line 23.
+*MOT:	xxx &-um a bird is a [/] a creature that flies (.) &-um it has wings a beak &-um (.) I think five toed feet or four I don't know I can't remember &-um they have a very light skeletal system (.) &-um I think that's about all I can tell you about birds &=laughs .
+%mor:	det:art|a n|bird cop|be&3S det:art|a n|creature pro:rel|that
+	v|fly-3S pro:per|it aux|have&3S v|wing-3S det:art|a n|beak pro:sub|I
+	v|think det:num|five part|toe-PASTP n|foot&PL coord|or det:num|four
+	pro:sub|I mod|do~neg|not v|know pro:sub|I mod|can~neg|not v|remember
+	pro:sub|they v|have det:art|a adv|very (1)adj|light (1)adj|skeletal
+	(1)n|system pro:sub|I v|think pro:rel|that~aux|be&3S adv|about adv|all
+	pro:sub|I mod|can v|tell pro:per|you prep|about n|bird-PL .
+
+    Strings matched 1 times
+
+From file <vicmd7.cha>
+
+    Strings matched 0 times
+

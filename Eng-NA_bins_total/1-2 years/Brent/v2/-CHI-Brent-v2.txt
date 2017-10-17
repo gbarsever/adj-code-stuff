@@ -1,0 +1,146 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:46:40 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <v2-0903.cha>
+----------------------------------------
+*** File "v2-0903.cha": line 2423.
+*MOT:	you learn how to make your own raspberry noises ! %snd:"v2-s13aug00"_2766180_2769117
+%mor:	pro:per|you v|learn adv:int|how inf|to v|make det:poss|your (1)adj|own
+	(1)adj|raspberry (1)n|noise-PL !
+----------------------------------------
+*** File "v2-0903.cha": line 2714.
+*MOT:	you a little dizzy [?] little boy . %snd:"v2-s13aug00"_3061007_3062237
+%mor:	pro:per|you det:art|a adj|little (1)adj|dizzy (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "v2-0903.cha": line 2959.
+*MOT:	you like that little strange thing . %snd:"v2-s13aug00"_3282563_3284143
+%mor:	pro:per|you v|like det:dem|that (1)adj|little (1)adj|strange (1)n|thing .
+----------------------------------------
+*** File "v2-0903.cha": line 3472.
+*MOT:	little fat face self . %snd:"v2-s13aug00"_3782927_3783977
+%mor:	(1)adj|little (1)adj|fat (1)n|face n|self .
+----------------------------------------
+*** File "v2-0903.cha": line 3615.
+*MOT:	I'm wiping off that little dirty foot . %snd:"v2-s13aug00"_3978973_3980677
+%mor:	pro:sub|I~aux|be&1S part|wipe-PRESP prep|off pro:dem|that
+	(1)adj|little (1)adj|dirt&dn-Y (1)n|foot .
+----------------------------------------
+*** File "v2-0903.cha": line 4188.
+*MOT:	big old butter+ball . %snd:"v2-s13aug00"_4421467_4422453
+%mor:	(1)adj|big (1)adj|old (1)n|+n|butter+n|ball .
+
+    Strings matched 6 times
+
+From file <v2-1000.cha>
+----------------------------------------
+*** File "v2-1000.cha": line 265.
+*MOT:	just some good ol(d) water . %snd:"v2-s10sep00"_511383_512523
+%mor:	adv|just qn|some (1)adj|good (1)adj|old (1)n|water .
+----------------------------------------
+*** File "v2-1000.cha": line 316.
+*MOT:	big old control freak . %snd:"v2-s10sep00"_645850_647117
+%mor:	(1)adj|big (1)adj|old (1)n|control n|freak .
+----------------------------------------
+*** File "v2-1000.cha": line 2099.
+*MOT:	you big ol(d) baby . %snd:"v2-s10sep00"_3493347_3494383
+%mor:	pro:per|you (1)adj|big (1)adj|old (1)n|baby .
+
+    Strings matched 3 times
+
+From file <v2-1014.cha>
+----------------------------------------
+*** File "v2-1014.cha": line 2035.
+*MOT:	ol(d) toothless smile . %snd:"v2-s24sep00"_3792233_3793603
+%mor:	(1)adj|old (1)adj|tooth&dn-LESS (1)n|smile .
+----------------------------------------
+*** File "v2-1014.cha": line 2309.
+*MOT:	you're getting on the little chubby side there , (.) fella . %snd:"v2-s24sep00"_4053760_4056443
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP prep|on det:art|the
+	(1)adj|little (1)adj|chubby (1)n|side adv|there cm|cm n|fella .
+
+    Strings matched 2 times
+
+From file <v2-1028.cha>
+----------------------------------------
+*** File "v2-1028.cha": line 753.
+*MOT:	this little chubby self . %snd:"v2-s8oct00"_1416917_1417977
+%mor:	pro:dem|this (1)adj|little (1)adj|chubby (1)n|self .
+----------------------------------------
+*** File "v2-1028.cha": line 2014.
+*MOT:	my big ol(d) fat boy . %snd:"v2-s8oct00"_3652730_3653830
+%mor:	det:poss|my (1)adj|big (1)adj|old (1)n|fat n|boy .
+
+    Strings matched 2 times
+
+From file <v2-1112.cha>
+----------------------------------------
+*** File "v2-1112.cha": line 1922.
+*MOT:	that little hard baseball cap is . %snd:"v2-s22oct00"_3658700_3660240
+%mor:	pro:dem|that (1)adj|little (1)adj|hard (1)n|baseball n|cap cop|be&3S .
+
+    Strings matched 1 times
+
+From file <v2-1125.cha>
+----------------------------------------
+*** File "v2-1125.cha": line 524.
+*MOT:	you big old fat boy . %snd:"v2-s5nov00"_1098960_1100037
+%mor:	pro:per|you (1)adj|big (1)adj|old (1)n|fat n|boy .
+----------------------------------------
+*** File "v2-1125.cha": line 821.
+*MOT:	that was a big old kiss . %snd:"v2-s5nov00"_1933473_1934997
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|big (1)adj|old (1)n|kiss .
+
+    Strings matched 2 times
+
+From file <v2-1223.cha>
+----------------------------------------
+*** File "v2-1223.cha": line 321.
+*MOT:	sit down , big [?] big boy ! %snd:"v2-s3dec00"_682927_684280
+%mor:	v|sit adv|down cm|cm (1)adj|big (1)adj|big (1)n|boy !
+----------------------------------------
+*** File "v2-1223.cha": line 786.
+*MOT:	little silly boy . %snd:"v2-s3dec00"_1848460_1849707
+%mor:	(1)adj|little (1)adj|silly (1)n|boy .
+
+    Strings matched 2 times
+
+From file <v2-1307.cha>
+
+    Strings matched 0 times
+
+From file <v2-1321.cha>
+----------------------------------------
+*** File "v2-1321.cha": line 672.
+*MOT:	you had a nice li(tt)l(e) tune goin(g) on . %snd:"v2-s31dec00"_1389000_1390977
+%mor:	pro:per|you v|have&PAST det:art|a (1)adj|nice (1)adj|little (1)n|tune
+	part|go-PRESP adv|on .
+----------------------------------------
+*** File "v2-1321.cha": line 928.
+*MOT:	on her brand+new clean thing . %snd:"v2-s31dec00"_2087737_2089500
+%mor:	prep|on det:poss|her (1)adj|+adj|brand+adj|new (1)adj|clean (1)n|thing .
+----------------------------------------
+*** File "v2-1321.cha": line 931.
+*MOT:	in my brand+new clean bed . %snd:"v2-s31dec00"_2090697_2092183
+%mor:	prep|in det:poss|my (1)adj|+adj|brand+adj|new (1)adj|clean (1)n|bed .
+
+    Strings matched 3 times
+
+From file <v2-1405.cha>
+----------------------------------------
+*** File "v2-1405.cha": line 2597.
+*MOT:	see all the little bitty puppies ? %snd:"v2-m15jan01"_3005677_3007143
+%mor:	v|see qn|all det:art|the (1)adj|little (1)adj|bit&dn-Y (1)n|puppy-PL ?
+
+    Strings matched 1 times
+
+From file <v2-1508.cha>
+----------------------------------------
+*** File "v2-1508.cha": line 1167.
+*MOT:	little mean boy . %snd:"v2-s18feb01"_1506297_1507477
+%mor:	(1)adj|little (1)adj|mean (1)n|boy .
+
+    Strings matched 1 times
+

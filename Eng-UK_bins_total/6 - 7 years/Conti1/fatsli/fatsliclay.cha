@@ -1,0 +1,1132 @@
+@UTF8
+@PID:	11312/c-00004608-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Clay Target_Child , FAT Father
+@ID:	eng|Conti1|CHI|6;5.05||||Target_Child|||
+@ID:	eng|Conti1|FAT|43;||||Father|||
+@Comment:	FAT Education is Higher
+*FAT:	a ring game .
+%mor:	det:art|a n|ring n|game .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*FAT:	if I can find them .
+%mor:	conj|if pro:sub|I mod|can v|find pro:obj|them .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	shall we do that ?
+%mor:	mod|shall pro:sub|we v|do pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	looks around toys on floor , hold up hoop-la board
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at board
+*FAT:	ay ?
+%mor:	co|ay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	where's the rubber rings then ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|rubber v|ring-3S adv:tem|then
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|JCT 7|2|PUNCT
+*FAT:	got_to find where they are yet .
+%mor:	mod:aux|got_to v|find adv:int|where pro:sub|they cop|be&PRES
+	adv|yet .
+%gra:	1|2|AUX 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|2|PUNCT
+*FAT:	I've seen them (.) already .
+%mor:	pro:sub|I~aux|have part|see&PASTP pro:obj|them adv|already .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%act:	looks around
+*CHI:	ring [?] .
+%mor:	n|ring .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches FAT's actions
+*FAT:	oh here they are .
+%mor:	co|oh adv|here pro:sub|they cop|be&PRES .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	picks up ring
+*CHI:	xxx .
+%act:	watches FAT
+*FAT:	yeah well there's three here anyway .
+%mor:	co|yeah co|well pro:exist|there~cop|be&3S det:num|three adv|here
+	adv|anyway .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|JCT 8|4|PUNCT
+%act:	picks up rings
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	right (.) <now then> [/] now then .
+%mor:	adv|right adv|now adv:tem|then .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*FAT:	I know .
+%mor:	pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	we'll stand it up on there „ shall we ?
+%mor:	pro:sub|we~mod|will v|stand pro:per|it adv|up prep|on adv|there
+	end|end mod|shall pro:sub|we ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|10|ENDP
+	9|10|AUX 10|3|INCROOT 11|10|PUNCT
+%act:	stands board up on box
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at board
+*FAT:	ay ?
+%mor:	co|ay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	right now then .
+%mor:	adv|right adv|now adv:tem|then .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*FAT:	you going to throw them first ?
+%mor:	pro:per|you part|go-PRESP inf|to v|throw pro:obj|them adv|first ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%act:	moves away from board
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	see if you can get them on those hooks .
+%mor:	v|see conj|if pro:per|you mod|can v|get pro:obj|them prep|on
+	pro:dem|those n|hook-PL .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+%act:	holds rings out towards CHI
+*CHI:	0 .
+%act:	moves towards FAT , takes rings
+*FAT:	there's the others .
+%mor:	pro:exist|there~cop|be&3S det:art|the n:pt|others .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&+s go on throw them .
+%mor:	v|go adv|on v|throw pro:obj|them .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*FAT:	see if you can get them off on there .
+%mor:	v|see conj|if pro:per|you mod|can v|get pro:obj|them adv|off
+	prep|on adv|there .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|8|POBJ 10|1|PUNCT
+%act:	gives CHI remainder of rings , looks at board
+*CHI:	0 .
+%act:	throws ring towards board
+%com:	ring lands on floor
+%cod:	NVE
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%act:	picks up ring , hangs ring on hook
+*FAT:	no (.) you don't put them on Clay .
+%mor:	co|no pro:per|you mod|do~neg|not v|put&ZERO pro:obj|them prep|on
+	n:prop|Clay .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	0 .
+%act:	sits back , looks at board
+*FAT:	stay where you are and try and throw them once (.) and loop them
+	onto there .
+%mor:	n|stay pro:rel|where pro:per|you cop|be&PRES coord|and v|try
+	coord|and v|throw pro:obj|them adv|once coord|and v|loop
+	pro:obj|them prep|onto adv|there .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|8|OBJ 10|8|JCT 11|8|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT
+	15|14|POBJ 16|1|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	touches hook on board , looks at CHI
+*CHI:	0 .
+%act:	throws ring , picks up ring
+*FAT:	no [/] (.) no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	watches CHI
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef throws ring towards board dur picks it up aft hangs ring on hook
+*FAT:	one on postman Pat .
+%mor:	det:num|one prep|on n|+n|post+n|man n:prop|Pat .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*FAT:	no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	try and throw them on .
+%mor:	v|try coord|and v|throw pro:obj|them adv|on .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|3|JCT 6|1|PUNCT
+*CHI:	0 .
+%act:	leans forward , throws ring onto hook
+*FAT:	Daddy have a go ?
+%mor:	n:prop|Daddy v|have det:art|a v|go ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	removes rings from board
+*CHI:	0 .
+%act:	moves away from board
+*FAT:	ay ?
+%mor:	co|ay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	see if Daddy can do it „ should we ?
+%mor:	v|see conj|if n:prop|Daddy mod|can v|do pro:per|it end|end
+	mod|should pro:sub|we ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|PUNCT 6|5|OBJ 7|9|ENDP 8|9|AUX
+	9|5|INCROOT 10|9|PUNCT
+*FAT:	<let's> [>] have a look .
+%mor:	v|let~pro:obj|us v|have det:art|a co|look .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	ay [<] ah !
+%mor:	co|ay co|ah !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*FAT:	see if Daddy can do it (.) ay ?
+%mor:	v|see conj|if n:prop|Daddy mod|can v|do pro:per|it co|ay ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|COM 8|1|PUNCT
+*FAT:	here you are Clay (.) watch Daddy .
+%mor:	adv|here pro:per|you cop|be&PRES n:prop|Clay n|watch n:prop|Daddy .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+%act:	throws ring
+*FAT:	Daddy's doing it left handed .
+%mor:	n:prop|Daddy~aux|be&3S part|do-PRESP pro:per|it adv|left adj|handed
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+*FAT:	he can do it better left than right .
+%mor:	pro:sub|he mod|can v|do pro:per|it adj|good&CP n|left prep|than
+	n|right .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+%act:	throws rings onto hooks
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	lies on floor watching FAT
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Daddy got two on .
+%mor:	n:prop|Daddy v|get&PAST det:num|two adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%act:	picks up two rings from tin
+*CHI:	two on [?] .
+%mor:	det:num|two adv|on .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+%act:	watches FAT
+*FAT:	see if we can get these two on .
+%mor:	v|see conj|if pro:sub|we mod|can v|get pro:dem|these det:num|two
+	adv|on .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|OBJ 8|7|POSTMOD
+	9|1|PUNCT
+*FAT:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	no good there „ am I ?
+%mor:	qn|no adj|good adv|there end|end aux|be&1S pro:sub|I ?
+%gra:	1|2|QUANT 2|6|JCT 3|2|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*FAT:	ay ?
+%mor:	co|ay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	just I'm too lazy to turn round to the other side .
+%mor:	adv|just pro:sub|I~aux|be&1S adv|too adj|laze&dv-Y prep|to n|turn
+	adv|round prep|to det:art|the qn|other n|side .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|9|JCT
+	9|5|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|5|PUNCT
+*FAT:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	see if I can get it this time .
+%mor:	v|see conj|if pro:sub|I mod|can v|get pro:per|it pro:dem|this
+	n|time .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|1|PUNCT
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	plays hoop-la
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches FAT's actions
+*FAT:	what a waste of time that was .
+%mor:	pro:int|what det:art|a n|waste prep|of n|time pro:rel|that
+	cop|be&PAST&13S .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|7|LINK 7|5|CMOD
+	8|1|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	again ?
+%mor:	adv|again ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up rings , looks at CHI
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	you [/] you have a go then .
+%mor:	pro:per|you v|have det:art|a v|go adv:tem|then .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|OBJ 6|2|PUNCT
+%act:	holds rings out towards CHI
+*CHI:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gets up on knees , moves towards FAT
+*FAT:	you have those there .
+%mor:	pro:per|you v|have pro:dem|those adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*FAT:	see if you can get one of them +...
+%mor:	v|see conj|if pro:per|you mod|can v|get pro:indef|one prep|of
+	pro:obj|them +...
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+*FAT:	is that Missus Goggins ?
+%mor:	cop|be&3S pro:rel|that n:prop|Missus n:prop|Goggins ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|1|PUNCT
+%act:	gives rings to CHI
+%gpx:	points towards board
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at board
+*FAT:	see if you can get that one on Missus Goggin's hand .
+%mor:	v|see conj|if pro:per|you mod|can v|get pro:dem|that pro:indef|one
+	prep|on n:prop|Missus n:prop|Goggin~poss|s n|hand .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|12|MOD 10|12|MOD 11|10|POSS 12|8|POBJ 13|1|PUNCT
+%gpx:	points to hook on board
+*CHI:	bit nearer .
+%mor:	v|bite&PAST prep|nearer .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	moves closer to board
+*FAT:	oh (.) go on then .
+%mor:	co|oh v|go adv|on adv:tem|then .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*CHI:	bit .
+%mor:	v|bite&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	moves closer to board
+*FAT:	if you get much nearer you will be putting them on , Clay .
+%mor:	conj|if pro:per|you v|get adv|much prep|nearer pro:per|you mod|will
+	aux|be part|put-PRESP pro:obj|them adv|on cm|cm n:prop|Clay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|5|POBJ 10|9|OBJ 11|13|JCT 12|11|LP 13|9|APP 14|3|PUNCT
+%act:	looks at board
+*CHI:	0 .
+%act:	hangs ring on hook , looks at FAT
+*FAT:	now (.) who's the next one you're going to put it on ?
+%mor:	adv|now pro:rel|who~aux|be&3S det:art|the adj|next pro:indef|one
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|put&ZERO pro:per|it
+	adv|on ?
+%gra:	1|0|INCROOT 2|6|LINK 3|6|AUX 4|6|DET 5|6|MOD 6|1|CMOD 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|11|INF 11|9|XCOMP 12|11|OBJ 13|11|JCT 14|1|PUNCT
+%act:	looks at board .
+*CHI:	Peter Fog .
+%mor:	n:prop|Peter n:prop|Fog .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%act:	hangs ring on
+*FAT:	Peter Fog ?
+%mor:	n:prop|Peter n:prop|Fog ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*FAT:	ah .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at board
+*CHI:	postman Pat .
+%mor:	n|+n|post+n|man n:prop|Pat .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	hangs ring on postman Pat .
+*FAT:	postman Pat ?
+%mor:	n|+n|post+n|man n:prop|Pat ?
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*FAT:	who's that at the top ?
+%mor:	pro:int|who~cop|be&3S pro:dem|that prep|at det:art|the n|top ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	looks at board
+*CHI:	xxx xxx .
+*FAT:	his hand's gone „ hasn't it ?
+%mor:	det:poss|his n|hand~poss|s part|go&PASTP end|end
+	aux|have&3S~neg|not pro:per|it ?
+%gra:	1|2|MOD 2|4|SUBJ 3|2|POSS 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|OBJ
+	9|4|PUNCT
+%act:	looks at the board
+*CHI:	it has .
+%mor:	pro:per|it aux|have&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	touches board
+*FAT:	&+aw dear !
+%mor:	co|dear !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and Jess's has gone as well .
+%mor:	coord|and n:prop|Jess~aux|be&3S aux|have&3S part|go&PASTP prep|as
+	adv|well .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*FAT:	&+aw dear !
+%mor:	co|dear !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	well (.) you'll have_to put another one on postman Patthen ,
+	willn't you ?
+%mor:	co|well pro:per|you~mod|will mod:aux|have_to v|put&ZERO qn|another
+	pro:indef|one prep|on n|+n|post+n|man n:prop|Patthen cm|cm
+	mod|will~neg|not pro:per|you ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|14|SUBJ 11|10|LP 12|14|AUX 13|12|NEG 14|5|OBJ 15|5|PUNCT
+%act:	looks at board
+*CHI:	0 .
+%act:	hangs ring on postman Pat
+*FAT:	there you are !
+%mor:	adv|there pro:per|you cop|be&PRES !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	you're better than Daddy „ aren't you ?
+%mor:	pro:per|you~aux|be&PRES adv|good&CP prep|than n:prop|Daddy end|end
+	aux|be&PRES~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|9|JCT 3|2|JCT 4|2|JCT 5|4|POBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+%act:	looks at CHI
+*CHI:	telephone .
+%mor:	n|telephone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up telephone , holds receiver close to FAT
+*FAT:	telephone no .
+%mor:	n|telephone co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*FAT:	we don't want to play with the telephone „ do we , ay ?
+%mor:	pro:sub|we mod|do~neg|not v|want prep|to n|play prep|with
+	det:art|the n|telephone end|end mod|do pro:sub|we cm|cm co|ay ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|12|ENDP 11|12|AUX 12|4|INCROOT 13|12|LP 14|12|COM 15|12|PUNCT
+*CHI:	xxx .
+%act:	sets telephone down on floor
+%com:	telephone comprises cash register withreceiver attached
+*FAT:	we don't want to play with the telephone „ do we ?
+%mor:	pro:sub|we mod|do~neg|not v|want prep|to n|play prep|with
+	det:art|the n|telephone end|end mod|do pro:sub|we ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|12|ENDP 11|12|AUX 12|4|INCROOT 13|12|PUNCT
+*FAT:	I know (.) now .
+%mor:	pro:sub|I v|know adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FAT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	<put that down there> [>] .
+%mor:	v|put&ZERO pro:dem|that adv|down adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|PUNCT
+%act:	moves hoop-la board
+*CHI:	<ah [/] ah [/] ah [/] ah> [<] .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches FAT
+*FAT:	now .
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	see these (.) that there .
+%mor:	v|see pro:dem|these pro:rel|that adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COMP 4|3|JCT 5|1|PUNCT
+*FAT:	let's go .
+%mor:	v|let~pro:obj|us v|go .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%act:	takes brick out of box
+*CHI:	0 .
+%act:	takes brick from FAT's hand
+*FAT:	<come on> [/] come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	<put that> [//] I know put that over there .
+%mor:	pro:sub|I v|know v|put&ZERO pro:dem|that adv|over adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|JCT 6|2|JCT 7|2|PUNCT
+*FAT:	now then .
+%mor:	adv|now adv:tem|then .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	xxx your bricks here .
+%mor:	det:poss|your n|brick-PL adv|here .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*FAT:	there's the other game .
+%mor:	pro:exist|there~cop|be&3S det:art|the qn|other n|game .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|2|PUNCT
+*FAT:	you sit <round here with Daddy> [//] <up here with Daddy> [>] .
+%mor:	pro:per|you v|sit adv|up adv|here prep|with n:prop|Daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%act:	picks up bricks , shows CHI where to sit
+*CHI:	game [<] .
+%mor:	n|game .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+%act:	moves beside FAT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	and then we have some of these bricks .
+%mor:	coord|and adv:tem|then pro:sub|we v|have qn|some prep|of
+	pro:dem|these n|brick-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*FAT:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you can have some as well , and what we do (.) is see if we can
+	<throw them in> [//] put them in that in there ay ?
+%mor:	pro:per|you mod|can v|have qn|some prep|as n|well cm|cm coord|and
+	pro:int|what pro:sub|we v|do cop|be&3S v|see conj|if pro:sub|we
+	mod|can v|put&ZERO pro:obj|them prep|in pro:dem|that prep|in
+	adv|there co|ay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|QUANT 5|4|NJCT 6|5|POBJ 7|3|LP 8|13|LINK
+	9|11|LINK 10|11|SUBJ 11|13|SUBJ 12|13|AUX 13|3|CJCT 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|CJCT 18|17|OBJ 19|17|JCT 20|19|POBJ 21|17|JCT
+	22|21|POBJ 23|17|COM 24|3|PUNCT
+*CHI:	0 . [+ trn]
+%act:	picks up some bricks
+%par:	nods head
+*FAT:	so if I split those up (.) four (.) five (.) six .
+%mor:	adv|so conj|if pro:sub|I v|split&ZERO pro:dem|those adv|up
+	det:num|four det:num|five det:num|six .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|9|QUANT
+	9|6|POBJ 10|4|PUNCT
+%act:	separates Lego bricks
+*CHI:	0 .
+%act:	separates bricks
+*FAT:	there you are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	there's six for you .
+%mor:	pro:exist|there~cop|be&3S det:num|six prep|for pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+%act:	gives bricks to CHI
+*CHI:	six .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	accepts bricks
+*FAT:	alright ?
+%mor:	co|alright ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and <see how many> [//] see if you can get them all in (.) ay ?
+%mor:	coord|and v|see conj|if pro:per|you mod|can v|get pro:obj|them
+	adv|all prep|in co|ay ?
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|6|OBJ 8|6|JCT
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	bit nearer .
+%mor:	v|bite&PAST prep|nearer .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	moves closer to tin
+*FAT:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	stay there .
+%mor:	n|stay adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*FAT:	see if you can throw them in .
+%mor:	v|see conj|if pro:per|you mod|can v|throw pro:obj|them adv|in .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|JCT 8|1|PUNCT
+*CHI:	0 .
+%act:	throws brick into tin , looks up at FAT
+*FAT:	that's it !
+%mor:	pro:dem|that~cop|be&3S pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	go on , again .
+%mor:	v|go adv|on cm|cm adv|again .
+%gra:	1|0|ROOT 2|1|JCT 3|1|LP 4|1|JCT 5|1|PUNCT
+*CHI:	0 .
+%act:	throws brick into tin
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	throws brick into tin
+%com:	one brick lands on floor
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*FAT:	never mind .
+%mor:	adv|never n|mind .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	moves towrds brick
+*FAT:	no leave it there .
+%mor:	qn|no n|leave pro:per|it adv|there .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*CHI:	get it .
+%mor:	v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	runs towards brick , picks it up , returns to tin
+*FAT:	get it .
+%mor:	v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	come on then .
+%mor:	v|come adv|on adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+%act:	looks at CHI
+*CHI:	two (.) four .
+%mor:	det:num|two det:num|four .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	looks in tin
+*FAT:	sit back here .
+%mor:	v|sit adv|back adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*FAT:	come on (.) sit back here .
+%mor:	v|come adv|on v|sit adv|back adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|COMP 4|3|JCT 5|3|JCT 6|1|PUNCT
+*CHI:	0 .
+%act:	sits beside FAT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	drops bricks into tin
+*FAT:	that's it clever boy !
+%mor:	pro:dem|that~cop|be&3S pro:per|it adj|clever n|boy !
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	now then .
+%mor:	adv|now adv:tem|then .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	get them back out again .
+%mor:	v|get pro:obj|them adv|back adv|out adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|4|JCT 6|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks in tin
+*FAT:	<and get> [//] come back to here .
+%mor:	v|come adv|back prep|to adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*FAT:	move a bit further back .
+%mor:	v|move det:art|a n|bit adj|further n|back .
+%gra:	1|0|ROOT 2|3|DET 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%act:	puts hand in tin , shows CHI where to sit
+*CHI:	0 .
+%act:	moves back
+*FAT:	a bit further back .
+%mor:	det:art|a n|bit adj|further n|back .
+%gra:	1|2|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*FAT:	come on (.) a bit further back .
+%mor:	v|come prep|on det:art|a n|bit adj|further n|back .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	now then .
+%mor:	adv|now adv:tem|then .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	there they are again .
+%mor:	adv|there pro:sub|they cop|be&PRES adv|again .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	watches CHI , holds out bricks
+*CHI:	0 .
+%act:	takes bricks from FAT
+%tim:	00:05:00
+*FAT:	and Daddy put the tin there .
+%mor:	coord|and n:prop|Daddy v|put&ZERO det:art|the n|tin adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%act:	moves tin further away
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	and see if you can get them in from there .
+%mor:	coord|and v|see conj|if pro:per|you mod|can v|get pro:obj|them
+	adv|in prep|from adv|there .
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|9|POBJ 11|2|PUNCT
+*CHI:	yes [?] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+%act:	moves towards tin
+*FAT:	don't go forward .
+%mor:	mod|do~neg|not v|go adv|forward .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*FAT:	see if you can get them from there .
+%mor:	v|see conj|if pro:per|you mod|can v|get pro:obj|them prep|from
+	adv|there .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|1|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	throws brick , stands up
+%com:	it lands on floor beyond tin
+*FAT:	no leave them there .
+%mor:	co|no n|leave pro:obj|them adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*FAT:	throw them all in first .
+%mor:	v|throw pro:obj|them adv|all adv|in adv|first .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|JCT 6|1|PUNCT
+*CHI:	0 .
+%act:	runs towards tin , picks up brick , drops it into tin
+*FAT:	no Clay (.) no [/] no (.) that's not playing it right .
+%mor:	co|no n:prop|Clay co|no pro:dem|that~cop|be&3S neg|not
+	part|play-PRESP pro:per|it n|right .
+%gra:	1|5|COM 2|5|SUBJ 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|7|OBJ
+	9|7|OBJ 10|5|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%par:	whimpers
+%act:	drops brick into tin
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you played it from here .
+%mor:	pro:per|you v|play-PAST pro:per|it prep|from adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%act:	touches floor
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	drops brick into tin
+*FAT:	oh (.) alright then .
+%mor:	co|oh co|alright adv:tem|then .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+%act:	looks at CHI
+*CHI:	play .
+%mor:	n|play .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Daddy put in .
+%mor:	n:prop|Daddy part|put&PASTP adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	bef drops bricks into tin
+*FAT:	Daddy do it ?
+%mor:	n:prop|Daddy v|do pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	gathers up bricks
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks into tin
+*FAT:	0 .
+%act:	throws brick towards tin
+%com:	brick lands on floor
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up brick , drops it into tin
+*FAT:	0 .
+%act:	throws brick into tin
+*CHI:	xxx xxx .
+*FAT:	0 .
+%act:	throws bricks into tin
+%com:	two bricks land on floor
+*CHI:	0 .
+%act:	picks up bricks , drops them in tin
+%com:	tin falls over
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	looks at tin
+*CHI:	0 .
+%act:	puts tin upright , puts bricks back in
+*FAT:	that's clever .
+%mor:	pro:dem|that~cop|be&3S adj|clever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	now shall we build a tower ?
+%mor:	adv|now mod|shall pro:sub|we v|build det:art|a n|tower ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	are you going to show Daddy how you can build a tower ?
+%mor:	cop|be&PRES pro:per|you part|go-PRESP prep|to n|show n:prop|Daddy
+	adv:int|how pro:per|you mod|can v|build det:art|a n|tower ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|JCT 5|4|POBJ 6|3|XJCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|12|DET 12|10|OBJ 13|1|PUNCT
+*FAT:	get all the things here .
+%mor:	v|get qn|all det:art|the n|thing-PL adv|here .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|1|JCT 6|1|PUNCT
+*FAT:	there you are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	hang on .
+%mor:	v|hang adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	got all of them now .
+%mor:	v|get&PAST qn|all prep|of pro:obj|them adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|3|POBJ 6|1|PUNCT
+%act:	gathers up stacking beakers
+*FAT:	<come round this way> [>] .
+%mor:	v|come adv|round pro:dem|this n|way .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	yes [<] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	moves round beside FAT
+*FAT:	then Daddy can see properly .
+%mor:	adv:tem|then n:prop|Daddy mod|can v|see adv|proper&dadj-LY .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*FAT:	that's right (.) you build Daddy a big tower .
+%mor:	pro:dem|that~cop|be&3S adj|right pro:per|you v|build n:prop|Daddy
+	det:art|a adj|big n|tower .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|PRED 6|9|MOD 7|9|DET 8|9|MOD
+	9|5|OBJ 10|2|PUNCT
+*CHI:	yes [?] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+%act:	stacks beakers
+*FAT:	no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	white .
+%mor:	adj|white .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up small white beaker
+*FAT:	0 .
+%act:	reaches across in front of CHI , picks up yellow beaker , sets it down
+*CHI:	white .
+%mor:	adj|white .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	white ?
+%mor:	adj|white ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	there's white .
+%mor:	pro:exist|there~cop|be&3S n|white .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	gives CHI large white beaker
+*CHI:	white .
+%mor:	adj|white .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	stacks beakers
+*FAT:	then we'll <do a big tower like> [/] do a big tower like Daddy did
+	with Charles , ay ?
+%mor:	adv:tem|then pro:sub|we~mod|will v|do det:art|a adj|big n|tower
+	co|like n:prop|Daddy v|do&PAST prep|with n:prop|Charles cm|cm co|ay
+	?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|10|SUBJ 8|10|COM
+	9|10|SUBJ 10|4|COMP 11|10|JCT 12|11|POBJ 13|12|LP 14|12|COM 15|4|PUNCT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	watches CHI
+*CHI:	gween [: green] .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts beaker on top
+*FAT:	there's green (.) yeah .
+%mor:	pro:exist|there~cop|be&3S n|green co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|COM 5|2|PUNCT
+%act:	looks at beakers
+*CHI:	white .
+%mor:	adj|white .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+%act:	puts small white beaker on top
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+%act:	puts red beaker on top
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	shall we do a big tower ?
+%mor:	mod|shall pro:sub|we v|do det:art|a adj|big n|tower ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%act:	reaches across towards bricks
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	Daddy put that on top .
+%mor:	n:prop|Daddy v|put&ZERO pro:dem|that prep|on n|top .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%act:	puts brick on top of beaker
+*CHI:	top .
+%mor:	n|top .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches FAT
+*FAT:	and then shall we see how many of these four bricks we can put on ?
+%mor:	coord|and adv:tem|then mod|shall pro:sub|we v|see adv:int|how
+	qn|many prep|of pro:dem|these det:num|four n|brick-PL pro:sub|we
+	mod|can v|put&ZERO prep|on ?
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|14|LINK 7|8|QUANT 8|6|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|14|SUBJ 13|14|AUX 14|5|COMP 15|14|JCT
+	16|5|PUNCT
+%act:	adds another brick
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches FAT's actions
+*FAT:	one (.) two (.) three (.) four .
+%mor:	det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*FAT:	can't see any more .
+%mor:	mod|can~neg|not v|see qn|any pro:indef|more .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*FAT:	there they are .
+%mor:	adv|there pro:sub|they cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	adds bricks to tower , looks for more
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks amongst bricks on floor
+*FAT:	do you want to see if you put any on , ay ?
+%mor:	mod|do pro:per|you v|want inf|to v|see conj|if pro:per|you
+	v|put&ZERO qn|any adv|on cm|cm co|ay ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|OBJ 10|8|JCT 11|8|LP 12|8|COM 13|3|PUNCT
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*FAT:	put another one on .
+%mor:	v|put&ZERO qn|another pro:indef|one adv|on .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|1|PUNCT
+%act:	adds bricks to tower
+*CHI:	0 .
+%act:	adds bricks to tower
+*FAT:	you've got_to be very careful now .
+%mor:	pro:per|you~aux|have mod:aux|got_to cop|be adv|very co|careful
+	adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|4|PUNCT
+*FAT:	careful .
+%mor:	co|careful .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	clever boy !
+%mor:	adj|clever n|boy !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	let Daddy see .
+%mor:	v|let&ZERO n:prop|Daddy v|see .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|XCOMP 4|1|PUNCT
+*FAT:	this is a tricky one for Daddy .
+%mor:	pro:dem|this cop|be&3S det:art|a adj|trick&dv-Y pro:indef|one
+	prep|for n:prop|Daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+%act:	adds brick to tower
+*CHI:	ticky one .
+%mor:	adj|tick&dv-Y pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%par:	whispers
+%act:	watches FAT
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&+aw !
+*FAT:	now then see if you can put those on .
+%mor:	adv|now adv:tem|then v|see conj|if pro:per|you mod|can v|put&ZERO
+	pro:dem|those prep|on .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*FAT:	got_to be very [/] very carefully though .
+%mor:	mod:aux|got_to cop|be adv|very adv|care&dadj-FULL-LY adv|though .
+%gra:	1|2|AUX 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|JCT 6|2|PUNCT
+%act:	holds out brick to CHI
+*CHI:	0 .
+%act:	takes brick from FAT , tries to add it to tower
+*FAT:	oh (.) try again .
+%mor:	co|oh v|try adv|again .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	picks up brick
+*FAT:	be careful now .
+%mor:	aux|be co|careful adv|now .
+%gra:	1|0|INCROOT 2|3|COM 3|1|JCT 4|1|PUNCT
+%act:	looks at tower
+*CHI:	0 .
+%act:	tries to add brick , picks up brick
+*FAT:	put it .
+%mor:	v|put&ZERO pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	oh dear !
+%mor:	co|oh co|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*FAT:	hang on a minute .
+%mor:	v|hang prep|on det:art|a n|minute .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%act:	picks up brick
+*CHI:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%par:	whispers
+%act:	holds brick over tower
+*FAT:	put it in the centre there .
+%mor:	v|put&ZERO pro:per|it prep|in det:art|the n|centre adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|JCT 7|1|PUNCT
+%act:	touches centre of brick at top of tower
+*CHI:	0 .
+%act:	adds brick
+*FAT:	that's it !
+%mor:	pro:dem|that~cop|be&3S pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	another one .
+%mor:	qn|another pro:indef|one .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	tries to add brick
+*FAT:	careful !
+%mor:	co|careful !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	&+aw [/] (.) &+aw dear !
+%mor:	co|dear !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	watches CHI
+*CHI:	three fout [: four] xxx up .
+%mor:	det:num|three det:num|four adv|up .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	picks up brick
+*FAT:	another (.) be careful .
+%mor:	pro:indef|another aux|be co|careful .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%act:	watches CHI
+*CHI:	0 .
+%act:	adds brick
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	looks at CHI
+*CHI:	0 .
+%act:	adds brick
+*FAT:	careful .
+%mor:	co|careful .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	that's it good boy .
+%mor:	pro:dem|that~cop|be&3S pro:per|it adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	very careful .
+%mor:	adv|very co|careful .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	Daddy see if he can get these on (.) ay ?
+%mor:	n:prop|Daddy v|see conj|if pro:sub|he mod|can v|get det:dem|these
+	adv|on co|ay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|6|OBJ 8|6|JCT
+	9|6|COM 10|2|PUNCT
+%act:	looks at CHI
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches towards bricks in FAT's hand
+*FAT:	do you want to see if you can get them on ?
+%mor:	mod|do pro:per|you v|want inf|to v|see conj|if pro:per|you mod|can
+	v|get pro:obj|them adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CJCT 10|9|OBJ 11|9|JCT 12|3|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes bricks from FAT
+*FAT:	very careful then (be)cause it's turning [//] going over a bit now
+	.
+%mor:	adv|very co|careful adv:tem|then conj|because pro:per|it~aux|be&3S
+	part|go-PRESP prep|over det:art|a v|bite&PAST adv|now .
+%gra:	1|2|JCT 2|3|COM 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|JCT 12|3|PUNCT
+%act:	watches CHI
+*CHI:	0 .
+%act:	adds brick to tower
+*FAT:	good boy !
+%mor:	adj|good n|boy !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	adds another brick
+*FAT:	that is a clever boy !
+%mor:	pro:dem|that cop|be&3S det:art|a adj|clever n|boy !
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	&+mm .
+%act:	sits back and looks at what he has made
+*FAT:	have we any more ?
+%mor:	v|have pro:sub|we qn|any pro:indef|more ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|2|OBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	looks at toys and bricks on floor
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	here's two more here .
+%mor:	pro:exist|here~cop|be&3S det:num|two adv|more adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|4|JCT 6|2|PUNCT
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	picks up bricks
+*CHI:	0 .
+%act:	reaches towards bricks in FAT's hand
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	put that one on .
+%mor:	v|put&ZERO pro:dem|that pro:indef|one adv|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*FAT:	Daddy'll split these up (.) that's it .
+%mor:	n:prop|Daddy~mod|will n|split pro:dem|these prep|up
+	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|LINK 4|7|SUBJ 5|4|JCT 6|5|POBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+%act:	gives bricks to CHI
+*CHI:	0 .
+%act:	sets bricks on floor , tries to put bricks on top of tower
+*FAT:	see if you get these on .
+%mor:	v|see conj|if pro:per|you v|get pro:dem|these prep|on .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|OBJ 6|4|JCT 7|1|PUNCT
+*FAT:	careful !
+%mor:	co|careful !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	very careful now (be)cause it's very difficult now .
+%mor:	adv|very co|careful adv|now conj|because pro:per|it~cop|be&3S
+	adv|very adj|difficult adv|now .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|JCT 8|6|PRED
+	9|6|JCT 10|2|PUNCT
+*FAT:	a clever boy !
+%mor:	det:art|a adj|clever n|boy !
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	watches CHI
+*CHI:	careful .
+%mor:	co|careful .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to add another brick
+*FAT:	yes (.) very careful .
+%mor:	co|yes adv|very co|careful .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*FAT:	&+aw [>] .
+%act:	watches CHI
+%com:	some bricks fall
+*CHI:	&+aw [<] .
+*FAT:	that's a clever boy !
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|clever n|boy !
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	do you like doing that ?
+%mor:	mod|do pro:per|you v|like part|do-PRESP pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+%act:	looks at CHI
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	ay (.) do you want to have another go ?
+%mor:	co|ay v|do pro:per|you v|want inf|to v|have qn|another v|go ?
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|INF 6|4|XCOMP 7|8|QUANT 8|6|OBJ
+	9|2|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds brick over tower
+*FAT:	come on then .
+%mor:	v|come adv|on adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+%tim:	00:09:57
+@End

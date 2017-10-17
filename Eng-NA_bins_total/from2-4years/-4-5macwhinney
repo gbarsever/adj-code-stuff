@@ -1,0 +1,375 @@
+combo +t%mor -t*CHI -t*MAD -t*UNK -t*MAR -t*BEN -t*ROS -t*JOE -t*ALL +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:05:42 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MAD; *UNK; *MAR; *BEN; *ROS; *JOE; *ALL;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/47a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/47a2.cha": line 79.
+*FAT:	and the real bad things (.) yeah . %snd:"47a2"_86676_88142
+%mor:	coord|and det:art|the (1)adj|real (1)adj|bad (1)n|thing-PL co|yeah .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/47b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/47b1.cha": line 385.
+*FAT:	not the bad old Empire . %snd:"47b1"_280795_281993
+%mor:	neg|not det:art|the (1)adj|bad (1)adj|old (1)n:prop|Empire .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/47b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48a1.cha": line 1292.
+*FAT:	we're going to cut you open (.) little snake . %snd:"48a1"_1256729_1257844
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|cut&ZERO pro:per|you
+	(1)adj|open (1)adj|little (1)n|snake .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b1.cha": line 730.
+*FAT:	oh (.) that was really a cute little thing . %snd:"48b1"_975902_984550
+%mor:	co|oh pro:rel|that cop|be&PAST&13S adv|real&dadj-LY det:art|a
+	(1)adj|cute (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b1.cha": line 855.
+*FAT:	if I bring you a band_aid (.) would you be the sweetest little boy
+	? %snd:"48b1"_1260652_1263995
+%mor:	conj|if pro:sub|I v|bring pro:per|you det:art|a n|band_aid
+	mod|will&COND pro:per|you cop|be det:art|the (1)adj|sweet-SP (1)adj|little
+	(1)n|boy ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b2.cha": line 72.
+*FAT:	yeah (.) it's a pretty bad world . %snd:"48b2"_61384_64068
+%mor:	co|yeah pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|bad (1)n|world .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b2.cha": line 147.
+*FAT:	you're the one that's talking loud (.) little boy . %snd:"48b2"_131582_134080
+%mor:	pro:per|you~aux|be&PRES det:art|the pro:indef|one
+	pro:rel|that~aux|be&3S part|talk-PRESP (1)adj|loud (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/48b2.cha": line 275.
+*FAT:	this is because yesterday we went shopping and bought a_lot_of good
+	good things (.) right ? %snd:"48b2"_276166_280996
+%mor:	pro:dem|this cop|be&3S conj|because adv:tem|yesterday pro:sub|we
+	v|go&PAST n:gerund|shop-PRESP coord|and v|buy&PAST qn|a_lot_of
+	(1)adj|good (1)adj|good (1)n|thing-PL n|right ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49b1.cha": line 1653.
+*FAT:	you need a little tummy (.) like your big big fat daddy . %snd:"49b1"_1409797_1412211
+%mor:	pro:per|you v|need det:art|a adj|little n|tummy prep|like
+	det:poss|your (1)adj|big (1)adj|big (1)n|fat n|daddy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/49b2.cha": line 655.
+*FAT:	you better take you and your nasty little stool and be nice . %snd:"49b2"_616312_621802
+%mor:	pro:per|you adj|good&CP v|take pro:per|you coord|and det:poss|your
+	(1)adj|nasty (1)adj|little (1)n|stool coord|and cop|be adj|nice .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50b1.cha": line 1058.
+*FAT:	oh (.) Ross (.) you didn't tell me about that nice little belt you
+	had . %snd:"50b1"_1093464_1107108
+%mor:	co|oh n:prop|Ross pro:per|you mod|do&PAST~neg|not v|tell pro:obj|me
+	prep|about pro:dem|that (1)adj|nice (1)adj|little (1)n|belt pro:per|you
+	v|have&PAST .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/50b2.cha": line 1166.
+*FAT:	big huge buildings . %snd:"50b2"_846670_850200
+%mor:	(1)adj|big (1)adj|huge (1)n|building-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/51a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/51a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/51b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/51b1.cha": line 713.
+*FAT:	he has a long thin gun . %snd:"51b1"_582484_584156
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|long (1)adj|thin (1)n|gun .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/51b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52a1.cha": line 1181.
+*FAT:	I mean the big bad wolf . %snd:"52a1"_1050762_1052433
+%mor:	pro:sub|I v|mean det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52b1.cha": line 642.
+*FAT:	you can take your own little money . %snd:"52b1"_685697_687017
+%mor:	pro:per|you mod|can v|take det:poss|your (1)adj|own (1)adj|little (1)n|money
+	.
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/52b2.cha": line 220.
+*FAT:	is it because you're watching so many violent violent tv programs ?
+	%snd:"52b2"_259384_264131
+%mor:	aux|be&3S pro:per|it conj|because pro:per|you~aux|be&PRES
+	part|watch-PRESP adv|so qn|many (1)adj|violent (1)adj|violent (1)n|tv
+	n|program-PL ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/53a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/53a1.cha": line 538.
+*MOT:	did you notice that little tiny part at the end of the movie ? %snd:"53a1"_595426_599699
+%mor:	mod|do&PAST pro:per|you v|notice det:dem|that (1)adj|little (1)adj|tiny
+	(1)n|part prep|at det:art|the n|end prep|of det:art|the n|movie ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/53a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/53b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/53b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/54a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/54a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/54a2.cha": line 354.
+*FAT:	is it just to tease your little little brother ? %snd:"54a2"_319920_324750
+%mor:	aux|be&3S pro:per|it adv|just inf|to v|tease det:poss|your
+	(1)adj|little (1)adj|little (1)n|brother ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/54b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/54b2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55a1.cha": line 1527.
+*FAT:	the big long log that the boys sit on and swing off of (.) the one
+	that is all full of broken pieces of wood . %snd:"55a1"_1298385_1306641
+%mor:	det:art|the (1)adj|big (1)adj|long (1)n|log pro:rel|that det:art|the
+	n|boy-PL v|sit adv|on coord|and n|swing adv|off prep|of det:art|the
+	pro:indef|one pro:rel|that cop|be&3S adv|all adj|full prep|of
+	part|break&PASTP n|piece-PL prep|of n|wood .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55a2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b1.cha": line 602.
+*FAT:	okay (.) but the flowers do the big work (.) flowers do the hardest
+	hardest work (.) because they take the sun's energy and make it into
+	sugar (.) and that's called photosynthesis . %snd:"55b1"_502165_511184
+%mor:	adj|okay conj|but det:art|the n|flower-PL v|do det:art|the adj|big
+	n|work v|flower-3S v|do det:art|the (1)adj|hard-SP (1)adj|hard-SP (1)n|work
+	conj|because pro:sub|they v|take det:art|the n|sun~poss|s n|energy
+	coord|and v|make pro:per|it prep|into n|sugar coord|and
+	pro:dem|that~cop|be&3S part|call-PASTP n|photosynthesis .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b1.cha": line 618.
+*FAT:	that's a big secret (.) photosynthesis is a big secret . %snd:"55b1"_513496_517294
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|secret
+	(1)n|photosynthesis cop|be&3S det:art|a adj|big n|secret .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b2.cha": line 643.
+*FAT:	okay (.) let's take it back (.) this is real important Ross (.)
+	somebody really needs this (.) let's take it back (.) okay ? %snd:"55b2"_609231_615918
+%mor:	co|okay v|let~pro:obj|us v|take pro:per|it adv|back pro:dem|this
+	cop|be&3S (1)adj|real (1)adj|important (1)n:prop|Ross pro:indef|somebody
+	adv|real&dadj-LY v|need-3S pro:dem|this v|let~pro:obj|us v|take
+	pro:per|it adv|back adj|okay ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/55b2.cha": line 1366.
+*FAT:	they're not real scary Ross . %snd:"55b2"_1196235_1197164
+%mor:	pro:sub|they~aux|be&PRES neg|not (1)adj|real (1)adj|scare&dn-Y
+	(1)n:prop|Ross .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/56a1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/56a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/56a2.cha": line 1740.
+*FAT:	oh [!] right (.) yeah he needs a nice soft bed (.) doesn't he ? %snd:"56a2"_1292599_1295859
+%mor:	co|oh co|right co|yeah pro:sub|he v|need-3S det:art|a (1)adj|nice
+	(1)adj|soft (1)n|bed mod|do&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a1.cha": line 1379.
+*FAT:	you know a real good idea is to move that one up . %snd:"57a1"_1068844_1070702
+%mor:	pro:per|you v|know det:art|a (1)adj|real (1)adj|good (1)n|idea cop|be&3S
+	inf|to v|move pro:dem|that pro:indef|one adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a1.cha": line 1600.
+*FAT:	good (.) smart move . %snd:"57a1"_1180569_1182612
+%mor:	(1)adj|good (1)adj|smart (1)n|move .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a2.cha": line 417.
+*FAT:	not xxx (.) a beautiful big goose . %snd:"57a2"_413443_415586
+%mor:	neg|not det:art|a (1)adj|beautiful (1)adj|big (1)n|goose .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a2.cha": line 1462.
+*FAT:	ready (.) okay Ross is going to read this . %snd:"57a2"_1379101_1382425
+%mor:	(1)adj|ready (1)adj|okay (1)n:prop|Ross aux|be&3S part|go-PRESP inf|to
+	v|read&ZERO pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57a2.cha": line 1512.
+*FAT:	good (.) good Marky (.) and want to +... %snd:"57a2"_1413407_1419249
+%mor:	(1)adj|good (1)adj|good (1)n:prop|Marky coord|and v|want prep|to +...
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57b1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57b2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/57b2.cha": line 1301.
+*FAT:	nice little glottal stop . %snd:"57b2"_906856_909187
+%mor:	adj|nice (1)adj|little (1)adj|glottal (1)n|stop .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/70a1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/70a1.cha": line 204.
+*FAT:	daddys like eating even the big yucky cheeses . %snd:"70a1"_134972_137968
+%mor:	n|daddy-PL prep|like n:gerund|eat-PRESP adv|even det:art|the
+	(1)adj|big (1)adj|yuck&dn-Y (1)n|cheese-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72a.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72b.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72b.cha": line 293.
+*FAT:	that cute little Beaver . %snd:"72b"_252937_254133
+%mor:	pro:dem|that (1)adj|cute (1)adj|little (1)n:prop|Beaver .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72b.cha": line 302.
+*FAT:	only that cute little Beaver likes candy . %snd:"72b"_257971_260374
+%mor:	adv|only pro:dem|that (1)adj|cute (1)adj|little (1)n:prop|Beaver v|like-3S
+	n|candy .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72f.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72f.cha": line 477.
+*FAT:	good little Ewok . %snd:"72f"_240213_242329
+%mor:	(1)adj|good (1)adj|little (1)n:prop|Ewok .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72f.cha": line 480.
+*FAT:	good little Ewok . %snd:"72f"_242329_243165
+%mor:	(1)adj|good (1)adj|little (1)n:prop|Ewok .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72g.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/MacWhinney/72g.cha": line 1108.
+*FAT:	oh good little boys . %snd:"72g"_694843_696088
+%mor:	co|oh (1)adj|good (1)adj|little (1)n|boy-PL .
+
+    Strings matched 1 times
+

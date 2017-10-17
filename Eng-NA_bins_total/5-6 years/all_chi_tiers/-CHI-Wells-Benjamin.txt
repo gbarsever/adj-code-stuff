@@ -1,0 +1,111 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:06:43 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <benjam02.cha>
+
+    Strings matched 0 times
+
+From file <benjam03.cha>
+----------------------------------------
+*** File "benjam03.cha": line 653.
+*MOT:	your pram is <a sort of> [<] mustardy orangey color isn't it ?
+%mor:	det:poss|your n|pram cop|be&3S det:art|a n|sort prep|of
+	(1)adj|mustard&dn-Y (1)adj|orangey (1)n|color cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <benjam04.cha>
+----------------------------------------
+*** File "benjam04.cha": line 367.
+*MOT:	eensie weensie spider [>] .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "benjam04.cha": line 396.
+*MOT:	teensie <weensie spider> [>] .
+%mor:	(1)adj|teensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "benjam04.cha": line 887.
+*MOT:	horrible noisy brat .
+%mor:	(1)adj|horrible (1)adj|noise&dn-Y (1)n|brat .
+----------------------------------------
+*** File "benjam04.cha": line 1012.
+*MOT:	oh <that's just a nasty old &+b> [/] its a dirty old packet now love
+	.
+%mor:	co|oh det:poss|its det:art|a (1)adj|dirt&dn-Y (1)adj|old (1)n|packet adv|now
+	n|love .
+
+    Strings matched 4 times
+
+From file <benjam05.cha>
+----------------------------------------
+*** File "benjam05.cha": line 715.
+*MOT:	what a whiny little voice .
+%mor:	pro:int|what det:art|a (1)adj|whine&dv-Y (1)adj|little (1)n|voice .
+----------------------------------------
+*** File "benjam05.cha": line 851.
+*MOT:	big fat bully (3.) .
+%mor:	(1)adj|big (1)adj|fat (1)n|bully .
+----------------------------------------
+*** File "benjam05.cha": line 906.
+*MOT:	big fat leg .
+%mor:	(1)adj|big (1)adj|fat (1)n|leg .
+----------------------------------------
+*** File "benjam05.cha": line 911.
+*MOT:	and a skinny little knee (6.) .
+%mor:	coord|and det:art|a (1)adj|skin&dn-Y (1)adj|little (1)n|knee .
+
+    Strings matched 4 times
+
+From file <benjam06.cha>
+----------------------------------------
+*** File "benjam06.cha": line 1054.
+*MOT:	you are a naughty little girl (6.) .
+%mor:	pro:per|you cop|be&PRES det:art|a (1)adj|naughty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "benjam06.cha": line 1073.
+*MOT:	you're a very naughty little girl [>] .
+%mor:	pro:per|you~aux|be&PRES det:art|a adv|very (1)adj|naughty (1)adj|little
+	(1)n|girl .
+----------------------------------------
+*** File "benjam06.cha": line 1208.
+*MOT:	nasty little beasties (2.) .
+%mor:	(1)adj|nasty (1)adj|little (1)n|beast-DIM-PL .
+
+    Strings matched 3 times
+
+From file <benjam07.cha>
+
+    Strings matched 0 times
+
+From file <benjam08.cha>
+
+    Strings matched 0 times
+
+From file <benjam09.cha>
+
+    Strings matched 0 times
+
+From file <benjam10.cha>
+----------------------------------------
+*** File "benjam10.cha": line 405.
+*MOT:	oh you sicky little fellow .
+%mor:	co|oh pro:per|you (1)adj|sick-Y (1)adj|little (1)n|fellow .
+----------------------------------------
+*** File "benjam10.cha": line 949.
+*MOT:	yes well you're a naughty little Thomas aren't you ?
+%mor:	co|yes co|well pro:per|you~cop|be&PRES det:art|a (1)adj|naughty
+	(1)adj|little (1)n:prop|Thomas aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 2 times
+
+From file <benjam21.cha>
+----------------------------------------
+*** File "benjam21.cha": line 1256.
+*MOT:	lovely eggy (.) bacon .
+%mor:	(1)adj|love&dn-LY (1)adj|egg&dn-Y (1)n|bacon .
+
+    Strings matched 1 times
+

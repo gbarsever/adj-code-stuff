@@ -1,0 +1,246 @@
+combo +t%mor -t*CHI -t*JEN +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:23:35 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *JEN;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Gia/gia4.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Gia/gia5.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/06.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/06.cha": line 5799.
+*PAT:	push the big button (.) the big big button . %snd:"06"_7952782_7956590
+%mor:	v|push det:art|the adj|big n|button det:art|the (1)adj|big (1)adj|big
+	(1)n|button .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/06.cha": line 9029.
+*MOT:	Peter that's stale old candy left over from Halloween (.) that's
+	not good . %snd:"06"_13574108_13580971
+%mor:	n:prop|Peter pro:dem|that~cop|be&3S (1)adj|stale (1)adj|old (1)n|candy
+	v|leave&PAST adv|over prep|from n:prop|Halloween
+	pro:dem|that~cop|be&3S neg|not adj|good .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/07.cha": line 20.
+*PAT:	hey Pete (.) that's a nice new telephone (.) looks like it must do
+	everything (.) it must ring and talk and . %snd:"07"_206000_213242
+%mor:	co|hey n:prop|Pete pro:dem|that~cop|be&3S det:art|a (1)adj|nice
+	(1)adj|new (1)n|telephone cop|look-3S prep|like pro:per|it mod|must v|do
+	pro:indef|everything pro:per|it mod|must v|ring coord|and n|talk
+	coord|and .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/07.cha": line 8266.
+*PAT:	there (.) little teeny car . %snd:"07"_11516672_11526508
+%mor:	adv|there (1)adj|little (1)adj|teeny (1)n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/07.cha": line 10349.
+*PAT:	you're a real sharp boy . %snd:"07"_13785221_13786507
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|sharp (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/07.cha": line 12007.
+*PAT:	that's a nice new chair you have (.) just the right size . %snd:"07"_15604720_15614102
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|new (1)n|chair
+	pro:per|you v|have adv|just det:art|the adj|right n|size .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/11.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/11.cha": line 55.
+*LOI:	looks like a little tiny piece of a chair . %snd:"11"_51922_54877
+%mor:	cop|look-3S prep|like det:art|a (1)adj|little (1)adj|tiny (1)n|piece prep|of
+	det:art|a n|chair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/11.cha": line 5833.
+*MOT:	those are cute little chairs . %snd:"11"_6257053_6258706
+%mor:	pro:dem|those cop|be&PRES (1)adj|cute (1)adj|little (1)n|chair-PL .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/12.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/12.cha": line 5062.
+*FAT:	wow (.) that's a pretty big egg Petes .
+%mor:	co|wow pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|egg
+	n:prop|Petes .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/12.cha": line 11310.
+*PAT:	oh what a nice little boy .
+%mor:	co|oh pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/13.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/13.cha": line 7391.
+*MOT:	behind the ears (.) down the shirt (.) now I'll scrub ya (.) oh (.)
+	scrub (.) scrub (.) scrub (.) scrub (.) scrub . %snd:"13"_7959414_7970069
+%mor:	prep|behind det:art|the n|ear-PL prep|down det:art|the n|shirt
+	adv|now pro:sub|I~mod|will adj|scrub pro:per|you co|oh adj|scrub
+	adj|scrub (1)adj|scrub (1)adj|scrub (1)n|scrub .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/13.cha": line 10121.
+*MOT:	that's a pretty nice key ring (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|key n|ring
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/13.cha": line 10347.
+*MOT:	that's a pretty nice barrette you got in your hair there .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|barrette
+	pro:per|you v|get&PAST prep|in det:poss|your n|hair adv|there .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha": line 164.
+*LOI:	over here (.) it's a great big bag (.) new toys in it .
+%mor:	adv|over adv|here pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|bag adj|new n|toy-PL prep|in pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha": line 4514.
+*LYN:	oh it fell down (.) awoh (.) poor poor boy .
+%mor:	co|oh pro:per|it v|fall&PAST prep|down co|awoh (1)adj|poor (1)adj|poor
+	(1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha": line 4961.
+*LYN:	I'm sorry little boy .
+%mor:	pro:sub|I~aux|be&1S (1)adj|sorry (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha": line 5449.
+*LYN:	you mean little boy .
+%mor:	pro:per|you (1)adj|mean (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/14.cha": line 5617.
+*MOT:	that's a pretty big egg .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|egg .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha": line 1752.
+*PAT:	it's a big red case .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|case .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha": line 1862.
+*PAT:	did you know Lois has a great big dog ?
+%mor:	v|do&PAST pro:per|you v|know n:prop|Lois v|have&3S det:art|a
+	(1)adj|great (1)adj|big (1)n|dog ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha": line 1887.
+*MOT:	Peter remember that (.) tiny little dog you saw ?
+%mor:	n:prop|Peter v|remember pro:rel|that (1)adj|tiny (1)adj|little (1)n|dog
+	pro:per|you v|saw ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha": line 1906.
+*MOT:	you saw a tiny little puppy ?
+%mor:	pro:per|you v|see&PAST det:art|a (1)adj|tiny (1)adj|little (1)n|puppy ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/15.cha": line 8848.
+*LYN:	okay (..) it's a pretty good pretzel .
+%mor:	co|okay pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|pretzel .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/16.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha": line 710.
+*PAT:	the big brown bag .
+%mor:	det:art|the (1)adj|big (1)adj|brown (1)n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha": line 8760.
+*LOI:	oh (.) good (.) okay (.) well you can use it now .
+%mor:	co|oh (1)adj|good (1)adj|okay (1)n|well pro:per|you mod|can v|use pro:per|it
+	adv|now .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha": line 8915.
+*LOI:	the little red barrels ?
+%mor:	det:art|the (1)adj|little (1)adj|red (1)n|barrel-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha": line 11877.
+*PAT:	it's a little blue ball like that .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|blue (1)n|ball prep|like
+	pro:dem|that .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/17.cha": line 13645.
+*LOI:	here's the little blue barrel .
+%mor:	pro:exist|here~cop|be&3S det:art|the (1)adj|little (1)adj|blue (1)n|barrel .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/18.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/18.cha": line 1611.
+*LYN:	(.) sound like a little old man .
+%mor:	n|sound prep|like det:art|a (1)adj|little (1)adj|old (1)n|man .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/18.cha": line 10588.
+*LOI:	that little tiny hole ?
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|hole ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 123.
+*PAT:	it's a pretty small bed isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|small (1)n|bed
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 1413.
+*PAT:	yeah (.) it [//] that cow's a pretty good player .
+%mor:	co|yeah pro:rel|that n|cow~poss|s det:art|a (1)adj|pretty (1)adj|good
+	(1)n|play&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 2060.
+*PAT:	uhhuh (.) big bad wolf's gonna open up the barrel ?
+%mor:	co|uhhuh (1)adj|big (1)adj|bad (1)n|wolf~poss|s part|go-PRESP~inf|to
+	adj|open prep|up det:art|the n|barrel ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 2094.
+*PAT:	is that the big bad wolf ?
+%mor:	cop|be&3S pro:rel|that det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 4037.
+*PAT:	it's over there where the big bad wolf was eating it .
+%mor:	pro:per|it~aux|be&3S adv|over adv|there adv:int|where det:art|the
+	(1)adj|big (1)adj|bad (1)n|wolf aux|be&PAST&13S part|eat-PRESP pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 4198.
+*PAT:	are you the big bad wolf ?
+%mor:	cop|be&PRES pro:per|you det:art|the (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bloom70/Peter/19.cha": line 5172.
+*LOI:	it's a pretty little [!!] tower isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|tower
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 7 times
+

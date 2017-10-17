@@ -1,0 +1,55 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:14:12 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <sheila02.cha>
+----------------------------------------
+*** File "sheila02.cha": line 119.
+*LOR:	poor poor Teddy .
+%mor:	(1)adj|poor (1)adj|poor (1)n:prop|Teddy .
+
+    Strings matched 1 times
+
+From file <sheila03.cha>
+
+    Strings matched 0 times
+
+From file <sheila04.cha>
+
+    Strings matched 0 times
+
+From file <sheila05.cha>
+----------------------------------------
+*** File "sheila05.cha": line 496.
+*UNK:	poor little cat .
+%mor:	(1)adj|poor (1)adj|little (1)n|cat .
+
+    Strings matched 1 times
+
+From file <sheila06.cha>
+
+    Strings matched 0 times
+
+From file <sheila07.cha>
+
+    Strings matched 0 times
+
+From file <sheila08.cha>
+
+    Strings matched 0 times
+
+From file <sheila09.cha>
+
+    Strings matched 0 times
+
+From file <sheila10.cha>
+----------------------------------------
+*** File "sheila10.cha": line 592.
+*MOT:	they probably lived in a big white house xxx .
+%mor:	pro:sub|they adv|probable&dadj-LY v|live-PAST prep|in det:art|a
+	(1)adj|big (1)adj|white (1)n|house .
+
+    Strings matched 1 times
+

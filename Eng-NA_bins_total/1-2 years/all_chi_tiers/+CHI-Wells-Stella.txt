@@ -1,0 +1,46 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:14:52 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <stella02.cha>
+
+    Strings matched 0 times
+
+From file <stella03.cha>
+
+    Strings matched 0 times
+
+From file <stella05.cha>
+----------------------------------------
+*** File "stella05.cha": line 586.
+*CHI:	you're a naughty naughty baby .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|naughty (1)adj|naughty (1)n|baby .
+
+    Strings matched 1 times
+
+From file <stella06.cha>
+
+    Strings matched 0 times
+
+From file <stella07.cha>
+
+    Strings matched 0 times
+
+From file <stella08.cha>
+
+    Strings matched 0 times
+
+From file <stella09.cha>
+
+    Strings matched 0 times
+
+From file <stella10.cha>
+----------------------------------------
+*** File "stella10.cha": line 125.
+*CHI:	this (1.) stupid old xxx eyes (5.) .
+%mor:	pro:dem|this (1)adj|stupid (1)adj|old (1)n|eye-PL .
+
+    Strings matched 1 times
+

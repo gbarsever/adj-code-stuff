@@ -1,0 +1,62 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:39:09 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <tow01.cha>
+
+    Strings matched 0 times
+
+From file <tow02.cha>
+
+    Strings matched 0 times
+
+From file <tow03.cha>
+
+    Strings matched 0 times
+
+From file <tow04.cha>
+
+    Strings matched 0 times
+
+From file <tow05.cha>
+----------------------------------------
+*** File "tow05.cha": line 1986.
+*CHI:	o:h that's a big old truck .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|truck .
+
+    Strings matched 1 times
+
+From file <tow06.cha>
+
+    Strings matched 0 times
+
+From file <tow07.cha>
+
+    Strings matched 0 times
+
+From file <tow08.cha>
+
+    Strings matched 0 times
+
+From file <tow09.cha>
+
+    Strings matched 0 times
+
+From file <tow10.cha>
+----------------------------------------
+*** File "tow10.cha": line 3675.
+*CHI:	I got a little little pony .
+%mor:	pro:sub|I v|get&PAST det:art|a (1)adj|little (1)adj|little (1)n|pony .
+----------------------------------------
+*** File "tow10.cha": line 4356.
+*CHI:	where's his big old hat ?
+%mor:	adv:int|where~cop|be&3S det:poss|his (1)adj|big (1)adj|old (1)n|hat ?
+----------------------------------------
+*** File "tow10.cha": line 4361.
+*CHI:	here his big old hat .
+%mor:	adv|here det:poss|his (1)adj|big (1)adj|old (1)n|hat .
+
+    Strings matched 3 times
+

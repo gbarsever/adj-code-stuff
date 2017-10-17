@@ -1,0 +1,317 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:58:29 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <amyann.cha>
+
+    Strings matched 0 times
+
+From file <amywes.cha>
+
+    Strings matched 0 times
+
+From file <arigay.cha>
+
+    Strings matched 0 times
+
+From file <ariken.cha>
+----------------------------------------
+*** File "ariken.cha": line 35.
+*ARI:	let's see four six five one one nine seven oh hello mommy I got a
+	chance to call ya &-uh and &-uh xxx its little fat hiney .
+%mor:	v|let~pro:obj|us v|see det:num|four det:num|six det:num|five
+	pro:indef|one pro:indef|one det:num|nine det:num|seven co|oh
+	co|hello n|mommy pro:sub|I v|get&PAST det:art|a n|chance inf|to
+	v|call pro:per|you coord|and det:poss|its (1)adj|little (1)adj|fat (1)n|hiney
+	.
+
+    Strings matched 1 times
+
+From file <bendeb.cha>
+
+    Strings matched 0 times
+
+From file <bevflo.cha>
+----------------------------------------
+*** File "bevflo.cha": line 319.
+*FLO:	did you want to play did you want to make your cars feel good so
+	they could o:h an and you bought this yummy hot dog .
+%mor:	mod|do&PAST pro:per|you v|want inf|to v|play mod|do&PAST
+	pro:per|you v|want inf|to v|make det:poss|your n|car-PL v|feel
+	adj|good co|so pro:sub|they mod|could co|oh det:art|a coord|and
+	pro:per|you v|buy&PAST det:dem|this (1)adj|yum&dn-Y (1)adj|hot (1)n|dog .
+
+    Strings matched 1 times
+
+From file <bevguy.cha>
+----------------------------------------
+*** File "bevguy.cha": line 745.
+*BEV:	yeah ooie@c icky fishy place cause it has water and it has ooie@c
+	ooie@c fishies .
+%mor:	co|yeah chi|ooie (1)adj|icky (1)adj|fish&dn-Y (1)n|place n|cause pro:per|it
+	aux|have&3S n|water coord|and pro:per|it aux|have&3S chi|ooie
+	chi|ooie n|fish-DIM-PL .
+
+    Strings matched 1 times
+
+From file <budzoe.cha>
+
+    Strings matched 0 times
+
+From file <dontim.cha>
+----------------------------------------
+*** File "dontim.cha": line 312.
+*DON:	a [!!] great big fish .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|fish .
+
+    Strings matched 1 times
+
+From file <fayjay.cha>
+
+    Strings matched 0 times
+
+From file <faymeg.cha>
+
+    Strings matched 0 times
+
+From file <floguy.cha>
+
+    Strings matched 0 times
+
+From file <globob.cha>
+
+    Strings matched 0 times
+
+From file <glojoy.cha>
+----------------------------------------
+*** File "glojoy.cha": line 229.
+*GLO:	hey a big orange thing now let's see from .
+%mor:	co|hey det:art|a (1)adj|big (1)adj|orange (1)n|thing adv|now
+	v|let~pro:obj|us v|see prep|from .
+
+    Strings matched 1 times
+
+From file <guseve.cha>
+----------------------------------------
+*** File "guseve.cha": line 331.
+*EVE:	hey this is a funny old hat see .
+%mor:	co|hey pro:dem|this cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|hat
+	v|see .
+
+    Strings matched 1 times
+
+From file <gusleo.cha>
+
+    Strings matched 0 times
+
+From file <halivy.cha>
+
+    Strings matched 0 times
+
+From file <halpat.cha>
+
+    Strings matched 0 times
+
+From file <ianava.cha>
+
+    Strings matched 0 times
+
+From file <idabud.cha>
+
+    Strings matched 0 times
+
+From file <idazoe.cha>
+----------------------------------------
+*** File "idazoe.cha": line 768.
+*ZOE:	brother and sister have_to make my whole room make my whole nice
+	room dirty .
+%mor:	n|brother coord|and n|sister mod:aux|have_to v|make det:poss|my
+	adj|whole n|room v|make det:poss|my (1)adj|whole (1)adj|nice (1)n|room
+	adj|dirt&dn-Y .
+
+    Strings matched 1 times
+
+From file <imamae.cha>
+----------------------------------------
+*** File "imamae.cha": line 6.
+*IMA:	goodie goodie goodie we hate to play with that stupid old boy .
+%mor:	co|goodie co|goodie co|goodie pro:sub|we v|hate prep|to n|play
+	prep|with pro:dem|that (1)adj|stupid (1)adj|old (1)n|boy .
+
+    Strings matched 1 times
+
+From file <jaymeg.cha>
+
+    Strings matched 0 times
+
+From file <joybob.cha>
+
+    Strings matched 0 times
+
+From file <kayben.cha>
+
+    Strings matched 0 times
+
+From file <kaydeb.cha>
+
+    Strings matched 0 times
+
+From file <kengay.cha>
+
+    Strings matched 0 times
+
+From file <kimada.cha>
+
+    Strings matched 0 times
+
+From file <leoeve.cha>
+----------------------------------------
+*** File "leoeve.cha": line 371.
+*EVE:	it's not a steering wheel but here's a great big truck truck .
+%mor:	pro:per|it~cop|be&3S neg|not det:art|a part|steer-PRESP n|wheel
+	conj|but pro:exist|here~cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|truck n|truck .
+
+    Strings matched 1 times
+
+From file <maxjim.cha>
+
+    Strings matched 0 times
+
+From file <maxnan.cha>
+----------------------------------------
+*** File "maxnan.cha": line 806.
+*NAN:	sure sure thing .
+%mor:	(1)adj|sure (1)adj|sure (1)n|thing .
+
+    Strings matched 1 times
+
+From file <nanjim.cha>
+----------------------------------------
+*** File "nanjim.cha": line 710.
+*JIM:	that's a big old hat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|hat .
+
+    Strings matched 1 times
+
+From file <nedima.cha>
+
+    Strings matched 0 times
+
+From file <nedmae.cha>
+
+    Strings matched 0 times
+
+From file <pativy.cha>
+----------------------------------------
+*** File "pativy.cha": line 270.
+*IVY:	here's a nice little table let's put it [= flowers] on all one
+	right there [= on table] .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|table
+	v|let~pro:obj|us v|put&ZERO pro:per|it prep|on qn|all pro:indef|one
+	adv|right adv|there .
+----------------------------------------
+*** File "pativy.cha": line 852.
+*IVY:	are you a little old lady ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|little (1)adj|old (1)n|lady ?
+
+    Strings matched 2 times
+
+From file <pegjan.cha>
+----------------------------------------
+*** File "pegjan.cha": line 586.
+*PEG:	your [!!] very [!!] own [!!] new [!!] motor [!!] car okay ?
+%mor:	det:poss|your adv|very (1)adj|own (1)adj|new (1)n|motor n|car adj|okay ?
+
+    Strings matched 1 times
+
+From file <pegron.cha>
+----------------------------------------
+*** File "pegron.cha": line 162.
+*PEG:	nice little xxx handle you can iron .
+%mor:	(1)adj|nice (1)adj|little (1)n|handle pro:per|you mod|can n|iron .
+----------------------------------------
+*** File "pegron.cha": line 489.
+*RON:	watch this little &-uh little jeep with &+Su Superman .
+%mor:	v|watch pro:dem|this (1)adj|little (1)adj|little (1)n|jeep prep|with
+	n:prop|Superman .
+
+    Strings matched 2 times
+
+From file <piaabe.cha>
+
+    Strings matched 0 times
+
+From file <piaval.cha>
+----------------------------------------
+*** File "piaval.cha": line 597.
+*VAL:	<top top top top top top top top> [% Indian beat rhythm] .
+%mor:	adj|top adj|top adj|top adj|top adj|top (1)adj|top (1)adj|top (1)n|top .
+----------------------------------------
+*** File "piaval.cha": line 643.
+*VAL:	okay bad bad people .
+%mor:	co|okay (1)adj|bad (1)adj|bad (1)n|person&PL .
+----------------------------------------
+*** File "piaval.cha": line 905.
+*VAL:	here you are you long little boy .
+%mor:	adv|here pro:per|you cop|be&PRES pro:per|you (1)adj|long (1)adj|little
+	(1)n|boy .
+----------------------------------------
+*** File "piaval.cha": line 965.
+*PIA:	to our happy poopy husband .
+%mor:	prep|to det:poss|our (1)adj|happy (1)adj|poop&dn-Y (1)n|husband .
+----------------------------------------
+*** File "piaval.cha": line 1178.
+*VAL:	haha little poop I'm going back to my nice warm house poop .
+%mor:	co|haha adj|little n|poop pro:sub|I~aux|be&1S part|go-PRESP
+	adv|back prep|to det:poss|my (1)adj|nice (1)adj|warm (1)n|house n|poop .
+----------------------------------------
+*** File "piaval.cha": line 1208.
+*PIA:	<wouldn't you like to have a nice warm roast in my oven>
+	[% play acting] ?
+%mor:	mod|will&COND~neg|not pro:per|you v|like inf|to v|have det:art|a
+	(1)adj|nice (1)adj|warm (1)n|roast prep|in det:poss|my n|oven ?
+
+    Strings matched 6 times
+
+From file <ronjan.cha>
+
+    Strings matched 0 times
+
+From file <royada.cha>
+
+    Strings matched 0 times
+
+From file <roykim.cha>
+
+    Strings matched 0 times
+
+From file <samava.cha>
+
+    Strings matched 0 times
+
+From file <samian.cha>
+
+    Strings matched 0 times
+
+From file <valabe.cha>
+----------------------------------------
+*** File "valabe.cha": line 212.
+*ABE:	<bum bum bum bum bum bum bum bum bum bum bum bum bum bum bum bum
+	bum bum bum bum bum bum> [% sung] .
+%mor:	adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum
+	adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum
+	adj|bum adj|bum adj|bum (1)adj|bum (1)adj|bum (1)n|bum .
+----------------------------------------
+*** File "valabe.cha": line 474.
+*VAL:	oh xxx oh my little old jewelry .
+%mor:	co|oh co|oh det:poss|my (1)adj|little (1)adj|old (1)n|jewelry .
+
+    Strings matched 2 times
+
+From file <wesann.cha>
+
+    Strings matched 0 times
+

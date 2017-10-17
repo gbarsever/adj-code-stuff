@@ -1,0 +1,66 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:15:23 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <ben01.cha>
+
+    Strings matched 0 times
+
+From file <ben02.cha>
+
+    Strings matched 0 times
+
+From file <ben03.cha>
+
+    Strings matched 0 times
+
+From file <ben04.cha>
+
+    Strings matched 0 times
+
+From file <ben05.cha>
+----------------------------------------
+*** File "ben05.cha": line 2181.
+*MOT:	there's a window , there's a window , there's a little tiny window upstairs . %snd:"ben05"_1722558_1730372
+%mor:	pro:exist|there~cop|be&3S det:art|a n|window cm|cm
+	pro:exist|there~cop|be&3S det:art|a n|window cm|cm
+	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|window
+	adv|upstairs .
+
+    Strings matched 1 times
+
+From file <ben06.cha>
+
+    Strings matched 0 times
+
+From file <ben07.cha>
+
+    Strings matched 0 times
+
+From file <ben08.cha>
+----------------------------------------
+*** File "ben08.cha": line 1404.
+*RYA:	+< Ben , your mom says you saw (.) a real big dog today . %snd:"ben08"_1142186_1148121
+%mor:	n:prop|Ben cm|cm det:poss|your n|mom v|say-3S pro:per|you
+	v|see&PAST det:art|a (1)adj|real (1)adj|big (1)n|dog adv:tem|today .
+
+    Strings matched 1 times
+
+From file <ben09.cha>
+----------------------------------------
+*** File "ben09.cha": line 2346.
+*MOT:	+< instant mean guy &=laughs . %snd:"ben09"_1655545_1657905
+%mor:	(1)adj|instant (1)adj|mean (1)n|guy .
+
+    Strings matched 1 times
+
+From file <ben10.cha>
+
+    Strings matched 0 times
+
+From file <ben11.cha>
+
+    Strings matched 0 times
+

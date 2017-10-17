@@ -1,0 +1,100 @@
+combo +t%mor -t*CHI -t*DIA -t*JOA -t*DON +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:22:34 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *DIA; *JOA; *DON;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <eve01.cha>
+
+    Strings matched 0 times
+
+From file <eve02.cha>
+----------------------------------------
+*** File "eve02.cha": line 369.
+*MOT:	he's holding a great big cigar .
+%mor:	pro:sub|he~aux|be&3S part|hold-PRESP det:art|a (1)adj|great (1)adj|big
+	(1)n|cigar .
+----------------------------------------
+*** File "eve02.cha": line 1037.
+*COL:	oh that's a nice big ball (.) „ isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|ball
+	end|end cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <eve03.cha>
+
+    Strings matched 0 times
+
+From file <eve04.cha>
+----------------------------------------
+*** File "eve04.cha": line 823.
+*COL:	there's a nice clean page .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|clean (1)n|page .
+
+    Strings matched 1 times
+
+From file <eve05.cha>
+
+    Strings matched 0 times
+
+From file <eve06.cha>
+----------------------------------------
+*** File "eve06.cha": line 3417.
+*MOT:	here's a nice new page for you .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|nice (1)adj|new (1)n|page prep|for
+	pro:per|you .
+
+    Strings matched 1 times
+
+From file <eve07.cha>
+
+    Strings matched 0 times
+
+From file <eve08.cha>
+----------------------------------------
+*** File "eve08.cha": line 9930.
+*COL:	a big curly tail .
+%mor:	det:art|a (1)adj|big (1)adj|curl&dv-Y (1)n|tail .
+
+    Strings matched 1 times
+
+From file <eve09.cha>
+
+    Strings matched 0 times
+
+From file <eve10.cha>
+----------------------------------------
+*** File "eve10.cha": line 3391.
+*COL:	you forgot about my nice red bag .
+%mor:	pro:per|you v|forget&PAST prep|about det:poss|my (1)adj|nice (1)adj|red
+	(1)n|bag .
+----------------------------------------
+*** File "eve10.cha": line 5361.
+*MOT:	your new clean blanket's up in your bed .
+%mor:	det:poss|your (1)adj|new (1)adj|clean (1)n|blanket~poss|s adv|up prep|in
+	det:poss|your n|bed .
+----------------------------------------
+*** File "eve10.cha": line 5385.
+*COL:	Eve (.) is it a clean new blanket ?
+%mor:	n:prop|Eve aux|be&3S pro:per|it det:art|a (1)adj|clean (1)adj|new
+	(1)n|blanket ?
+----------------------------------------
+*** File "eve10.cha": line 5396.
+*COL:	clean new blanket ?
+%mor:	(1)adj|clean (1)adj|new (1)n|blanket ?
+----------------------------------------
+*** File "eve10.cha": line 5406.
+*COL:	new clean blanket ?
+%mor:	(1)adj|new (1)adj|clean (1)n|blanket ?
+
+    Strings matched 5 times
+
+From file <eve11.cha>
+
+    Strings matched 0 times
+
+From file <eve12.cha>
+
+    Strings matched 0 times
+

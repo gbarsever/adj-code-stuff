@@ -1,0 +1,135 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:54:17 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <bcchr.cha>
+
+    Strings matched 0 times
+
+From file <bcdav.cha>
+
+    Strings matched 0 times
+
+From file <bcemm.cha>
+
+    Strings matched 0 times
+
+From file <bckei.cha>
+
+    Strings matched 0 times
+
+From file <bckir.cha>
+
+    Strings matched 0 times
+
+From file <bcnin.cha>
+
+    Strings matched 0 times
+
+From file <bcric.cha>
+
+    Strings matched 0 times
+
+From file <bcsar.cha>
+
+    Strings matched 0 times
+
+From file <bibarm.cha>
+
+    Strings matched 0 times
+
+From file <biben.cha>
+----------------------------------------
+*** File "biben.cha": line 1239.
+*CHI:	and the [?] little square thing lights up .
+%mor:	coord|and det:art|the (1)adj|little (1)adj|square (1)n|thing v|light-3S
+	adv|up .
+
+    Strings matched 1 times
+
+From file <bidanc.cha>
+
+    Strings matched 0 times
+
+From file <biheg.cha>
+
+    Strings matched 0 times
+
+From file <bilin.cha>
+
+    Strings matched 0 times
+
+From file <bilisa.cha>
+
+    Strings matched 0 times
+
+From file <bimak.cha>
+----------------------------------------
+*** File "bimak.cha": line 1126.
+*CHI:	and he's gonna get one of them little real tellies what you can get
+	.
+%mor:	coord|and pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|get
+	pro:indef|one prep|of pro:obj|them (1)adj|little (1)adj|real (1)n|tellie-PL
+	pro:int|what pro:per|you mod|can v|get .
+
+    Strings matched 1 times
+
+From file <bireb.cha>
+----------------------------------------
+*** File "bireb.cha": line 2332.
+*CHI:	with the little legs at &+g bottom and a big easter egg at &+g top .
+%mor:	prep|with det:art|the adj|little n|leg-PL prep|at n|bottom
+	coord|and det:art|a (1)adj|big (1)adj|east-CP (1)n|egg prep|at n|top .
+
+    Strings matched 1 times
+
+From file <hnadel.cha>
+
+    Strings matched 0 times
+
+From file <hnclam.cha>
+
+    Strings matched 0 times
+
+From file <hnclap.cha>
+
+    Strings matched 0 times
+
+From file <hnjend.cha>
+
+    Strings matched 0 times
+
+From file <hnjenni.cha>
+----------------------------------------
+*** File "hnjenni.cha": line 2068.
+*CHI:	and then you [/] you get these little [/] little yellow things .
+%mor:	coord|and adv:tem|then pro:per|you v|get pro:dem|these (1)adj|little
+	(1)adj|yellow (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <hnkab.cha>
+
+    Strings matched 0 times
+
+From file <hnpaul.cha>
+
+    Strings matched 0 times
+
+From file <hnster.cha>
+----------------------------------------
+*** File "hnster.cha": line 748.
+*CHI:	(be)cause that's got a big heavy load on it .
+%mor:	conj|because pro:dem|that~cop|be&3S v|get&PAST det:art|a (1)adj|big
+	(1)adj|heavy (1)n|load prep|on pro:per|it .
+----------------------------------------
+*** File "hnster.cha": line 1279.
+*CHI:	I got this <big &+w big hot> [//] &+r big &+re [//] dead dead cold
+	bucket of water over him .
+%mor:	pro:sub|I v|get&PAST pro:dem|this adj|big adj|dead (1)adj|dead
+	(1)adj|cold (1)n|bucket prep|of n|water adv|over pro:obj|him .
+
+    Strings matched 2 times
+

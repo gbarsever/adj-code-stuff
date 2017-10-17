@@ -1,0 +1,586 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:48:58 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <mich02.cha>
+----------------------------------------
+*** File "mich02.cha": line 200.
+*INV:	isn't that a lovely wee box and is that all your stuff ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|love&dn-LY (1)adj|wee
+	(1)n|box coord|and cop|be&3S pro:rel|that qn|all det:poss|your n|stuff
+	?
+----------------------------------------
+*** File "mich02.cha": line 2439.
+*MOT:	even like a wee tiny baby (.) we did now like with it being the
+	first we did stimulate her (.) you know the rattly in and from very
+	young cause even the health visitors that come out and done her
+	checkups and all (.) I mean she was walking at eleven months (.) she
+	just got up and walked (.) they said to me too that's she's very
+	capable and that so it's just the way she is .
+%mor:	adv|even prep|like det:art|a (1)adj|wee (1)adj|tiny (1)n|baby pro:sub|we
+	mod|do&PAST adv|now co|like prep|with pro:per|it n:gerund|be-PRESP
+	det:art|the adj|first pro:sub|we mod|do&PAST v|stimulate pro:obj|her
+	pro:per|you v|know det:art|the adj|rattle&dn-Y adv|in coord|and
+	prep|from adv|very adj|young n|cause adv|even det:art|the n|health
+	n|visitor-PL pro:rel|that v|come adv|out coord|and part|do&PASTP
+	det:poss|her n|+v|check+prep|up-PL coord|and qn|all pro:sub|I
+	adj|mean pro:sub|she aux|be&PAST&13S part|walk-PRESP prep|at
+	det:num|eleven n|month-PL pro:sub|she adv|just v|get&PAST adv|up
+	coord|and v|walk-PAST pro:sub|they v|say&PAST prep|to pro:obj|me
+	adv|too pro:rel|that~aux|be&3S pro:sub|she~cop|be&3S adv|very
+	adj|capable coord|and pro:dem|that adv|so pro:per|it~aux|be&3S
+	adj|just det:art|the n|way pro:sub|she cop|be&3S .
+----------------------------------------
+*** File "mich02.cha": line 2601.
+*INV:	ach she is she's a great wee thing .
+%mor:	co|ach pro:sub|she cop|be&3S pro:sub|she~aux|be&3S det:art|a
+	(1)adj|great (1)adj|wee (1)n|thing .
+
+    Strings matched 3 times
+
+From file <mich03.cha>
+----------------------------------------
+*** File "mich03.cha": line 191.
+*INV:	and look at your lovely long hair (.) it's got even longer !
+%mor:	coord|and cop|look prep|at det:poss|your (1)adj|love&dn-LY (1)adj|long
+	(1)n|hair pro:per|it~cop|be&3S aux|get&PAST adv|even adj|long-CP !
+----------------------------------------
+*** File "mich03.cha": line 860.
+*MOT:	she's a good wee soul like but I mean to start as I mean to go on
+	(.) I'm not going to do it one week and then not do it the next .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|good (1)adj|wee (1)n|soul prep|like
+	conj|but pro:sub|I adj|mean inf|to v|start conj|as pro:sub|I
+	adj|mean inf|to v|go prep|on pro:sub|I~cop|be&1S neg|not
+	part|go-PRESP inf|to v|do pro:per|it det:num|one n|week coord|and
+	adv:tem|then neg|not mod|do pro:per|it det:art|the adj|next .
+----------------------------------------
+*** File "mich03.cha": line 1309.
+*INV:	she's a real wee girl isn't she [=! laughs] ?
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|real (1)adj|wee (1)n|girl
+	cop|be&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "mich03.cha": line 1642.
+*INV:	wait to you see this (.) somebody gave this to me and it was one of
+	their children's and it's an old old old thing but I thought I'd
+	bring it down today to show it to Michelle and Nicola .
+%mor:	v|wait prep|to pro:per|you v|see pro:dem|this pro:indef|somebody
+	v|give&PAST det:dem|this prep|to pro:obj|me coord|and pro:per|it
+	cop|be&PAST&13S det:num|one prep|of det:poss|their n|child&PL~poss|s
+	coord|and pro:per|it~cop|be&3S det:art|a adj|old (1)adj|old (1)adj|old
+	(1)n|thing conj|but pro:sub|I v|think&PAST pro:sub|I~mod|genmod v|bring
+	pro:per|it adv|down adv:tem|today inf|to v|show pro:per|it prep|to
+	n:prop|Michelle coord|and n:prop|Nicola .
+----------------------------------------
+*** File "mich03.cha": line 1989.
+*MOT:	just a wee tiny bit (.) do you want to try again ?
+%mor:	adv|just det:art|a (1)adj|wee (1)adj|tiny (1)n|bit v|do pro:per|you v|want
+	inf|to v|try adv|again ?
+----------------------------------------
+*** File "mich03.cha": line 2249.
+*INV:	there's a wee granny in there (.) we'll put the wee granny there
+	right and the two wee old ladies that run the bun shop (.) right
+	there they are .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|wee n|granny prep|in
+	adv|there pro:sub|we~mod|will v|put&ZERO det:art|the adj|wee
+	n|granny adv|there adv|right coord|and det:art|the det:num|two
+	(1)adj|wee (1)adj|old (1)n|lady-PL pro:rel|that v|run det:art|the n|bun
+	n|shop adv|right adv|there pro:sub|they cop|be&PRES .
+----------------------------------------
+*** File "mich03.cha": line 2286.
+*INV:	look at the wee old lady lying in there in the fire station .
+%mor:	cop|look prep|at det:art|the (1)adj|wee (1)adj|old (1)n|lady part|lie-PRESP
+	prep|in adv|there prep|in det:art|the n|fire n|station .
+----------------------------------------
+*** File "mich03.cha": line 2346.
+*INV:	a wee old lady goes in there (.) have we room for two of them ?
+%mor:	det:art|a (1)adj|wee (1)adj|old (1)n|lady v|go-3S adv|in adv|there v|have
+	pro:sub|we n|room prep|for det:num|two prep|of pro:obj|them ?
+----------------------------------------
+*** File "mich03.cha": line 2649.
+*MOT:	it's only a wee tiny bit I can't even see it .
+%mor:	pro:per|it~cop|be&3S adv|only det:art|a (1)adj|wee (1)adj|tiny (1)n|bit
+	pro:sub|I mod|can~neg|not adv|even v|see pro:per|it .
+----------------------------------------
+*** File "mich03.cha": line 3134.
+*INV:	right you shout in to that (.) hello (.) see all the wee red
+	buttons .
+%mor:	adv|right pro:per|you v|shout adv|in prep|to det:dem|that co|hello
+	co|see adv|all det:art|the (1)adj|wee (1)adj|red (1)n|button-PL .
+
+    Strings matched 10 times
+
+From file <mich04.cha>
+----------------------------------------
+*** File "mich04.cha": line 3160.
+*INV:	look he's got pointy ears and a big horrible nose .
+%mor:	cop|look pro:sub|he~aux|be&3S v|get&PAST adj|point&dn-Y n|ear-PL
+	coord|and det:art|a (1)adj|big (1)adj|horrible (1)n|nose .
+
+    Strings matched 1 times
+
+From file <mich05.cha>
+----------------------------------------
+*** File "mich05.cha": line 145.
+*MOT:	it's just a long slow job like .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|long (1)adj|slow (1)n|job
+	prep|like .
+----------------------------------------
+*** File "mich05.cha": line 1991.
+*INV:	now (.) but look at poor wee Susan (.) oh Susan's crying .
+%mor:	adv|now conj|but cop|look prep|at (1)adj|poor (1)adj|wee (1)n:prop|Susan
+	co|oh n:prop|Susan~aux|be&3S part|cry-PRESP .
+----------------------------------------
+*** File "mich05.cha": line 1996.
+*INV:	oh dear poor Susan's crying (.) why is she crying (.) why do you
+	think she's crying ?
+%mor:	co|oh (1)adj|dear (1)adj|poor (1)n:prop|Susan~poss|s n:gerund|cry-PRESP
+	adv:int|why cop|be&3S pro:sub|she n:gerund|cry-PRESP adv:int|why
+	mod|do pro:per|you v|think pro:sub|she~aux|be&3S part|cry-PRESP ?
+----------------------------------------
+*** File "mich05.cha": line 2965.
+*INV:	there's big (.) big fish .
+%mor:	pro:exist|there~aux|be&3S (1)adj|big (1)adj|big (1)n|fish .
+----------------------------------------
+*** File "mich05.cha": line 3620.
+*INV:	that's a good wee game that you know .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|good (1)adj|wee (1)n|game
+	pro:rel|that pro:per|you v|know .
+----------------------------------------
+*** File "mich05.cha": line 3671.
+*MOT:	she's a funny wee thing like .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|wee (1)n|thing
+	prep|like .
+----------------------------------------
+*** File "mich05.cha": line 4147.
+*MOT:	I don't know she's hard to reckon with her she's a funny wee girl .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|she~cop|be&3S adv|hard
+	inf|to v|reckon prep|with det:poss|her pro:sub|she~aux|be&3S
+	det:art|a (1)adj|fun&dn-Y (1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "mich05.cha": line 4359.
+*MOT:	wait til [: until] he gets the muck tidied up a &+wee a wee tiny bit
+	and then you can do it .
+%mor:	v|wait conj|until pro:sub|he v|get-3S det:art|the n|muck
+	v|tidy-PAST prep|up det:art|a det:art|a (1)adj|wee (1)adj|tiny (1)n|bit
+	coord|and adv:tem|then pro:per|you mod|can v|do pro:per|it .
+----------------------------------------
+*** File "mich05.cha": line 4376.
+*MOT:	she's in awful bad form you know lately .
+%mor:	pro:sub|she~cop|be&3S prep|in (1)adj|awful (1)adj|bad (1)n|form pro:per|you
+	v|know adv|late&dadj-LY .
+----------------------------------------
+*** File "mich05.cha": line 4396.
+*INV:	she's a very good wee thing .
+%mor:	pro:sub|she~aux|be&3S det:art|a adv|very (1)adj|good (1)adj|wee (1)n|thing .
+
+    Strings matched 10 times
+
+From file <mich06.cha>
+----------------------------------------
+*** File "mich06.cha": line 1693.
+*INV:	he got his first &-um (.) geared bike the other day (.) a wee second
+	hand one .
+%mor:	pro:sub|he v|get&PAST det:poss|his adj|first part|gear-PASTP n|bike
+	det:art|the qn|other n|day det:art|a (1)adj|wee (1)adj|second (1)n|hand
+	pro:indef|one .
+----------------------------------------
+*** File "mich06.cha": line 1708.
+*INV:	so we got him a wee second hand one (.) and a helmet and everything
+	.
+%mor:	co|so pro:sub|we v|get&PAST pro:obj|him det:art|a (1)adj|wee
+	(1)adj|second (1)n|hand pro:indef|one coord|and det:art|a n|helmet
+	coord|and pro:indef|everything .
+----------------------------------------
+*** File "mich06.cha": line 1739.
+*INV:	cause xxx he came off it and he had (.) bumped his head and he
+	really xxx he had this big big lump and I said “right that's it
+	straight down to get a helmet” .
+%mor:	n|cause pro:sub|he v|come&PAST prep|off pro:per|it coord|and
+	pro:sub|he aux|have&PAST part|bump-PASTP det:poss|his n|head
+	coord|and pro:sub|he adv|real&dadj-LY pro:sub|he v|have&PAST
+	pro:dem|this (1)adj|big (1)adj|big (1)n|lump coord|and pro:sub|I v|say&PAST
+	bq|bq co|right pro:dem|that~cop|be&3S pro:per|it adv|straight
+	adv|down inf|to v|get det:art|a n|helmet eq|eq .
+----------------------------------------
+*** File "mich06.cha": line 2191.
+*INV:	xxx your own real baby .
+%mor:	det:poss|your (1)adj|own (1)adj|real (1)n|baby .
+----------------------------------------
+*** File "mich06.cha": line 2626.
+*MOT:	they have this massive big massive thing and there's loads of them
+	(.) .
+%mor:	pro:sub|they v|have pro:dem|this adj|massive (1)adj|big (1)adj|massive
+	(1)n|thing coord|and pro:exist|there~cop|be&3S n|load-PL prep|of
+	pro:obj|them .
+----------------------------------------
+*** File "mich06.cha": line 3738.
+*INV:	look at the lady's lovely big long fingernails .
+%mor:	cop|look prep|at det:art|the n|lady~poss|s adj|love&dn-LY (1)adj|big
+	(1)adj|long (1)n|+n|finger+n|nail-PL .
+----------------------------------------
+*** File "mich06.cha": line 4153.
+*INV:	right I've got two for xxx I got Kathryn like a nice wee denim
+	pinafore .
+%mor:	adv|right pro:sub|I~aux|have part|get&PASTP det:num|two prep|for
+	pro:sub|I v|get&PAST n:prop|Kathryn prep|like det:art|a adj|nice
+	(1)adj|wee (1)adj|denim (1)n|pinafore .
+----------------------------------------
+*** File "mich06.cha": line 4168.
+*INV:	I got her a wee denim dress and somebody gave me a wee summer sort
+	of thing but (.) .
+%mor:	pro:sub|I v|get&PAST pro:obj|her det:art|a (1)adj|wee (1)adj|denim
+	(1)n|dress coord|and pro:indef|somebody v|give&PAST pro:obj|me
+	det:art|a adj|wee n|summer n|sort prep|of n|thing conj|but .
+
+    Strings matched 8 times
+
+From file <mich07.cha>
+----------------------------------------
+*** File "mich07.cha": line 958.
+*INV:	it's time for her to find her own wee thing .
+%mor:	pro:per|it~cop|be&3S n|time prep|for pro:obj|her inf|to v|find
+	pro:obj|her (1)adj|own (1)adj|wee (1)n|thing .
+----------------------------------------
+*** File "mich07.cha": line 1040.
+*MOT:	it does these wee funny things where you jump .
+%mor:	pro:per|it mod|do&3S pro:dem|these (1)adj|wee (1)adj|fun&dn-Y (1)n|thing-PL
+	pro:rel|where pro:per|you v|jump .
+----------------------------------------
+*** File "mich07.cha": line 1110.
+*MOT:	these are all funny fluttery movements .
+%mor:	pro:dem|these cop|be&PRES adv|all (1)adj|fun&dn-Y (1)adj|flutter&dv-Y
+	(1)n|movement-PL .
+----------------------------------------
+*** File "mich07.cha": line 1241.
+*MOT:	I don't think I slept too good last night .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|I v|sleep&PAST adv|too
+	(1)adj|good (1)adj|last (1)n|night .
+----------------------------------------
+*** File "mich07.cha": line 1748.
+*INV:	filled it with sludgy green slime [=! laughs] .
+%mor:	v|fill-PAST pro:per|it prep|with (1)adj|sludge&dn-Y (1)adj|green (1)n|slime
+	.
+----------------------------------------
+*** File "mich07.cha": line 2649.
+*MOT:	you know that wee walky thing .
+%mor:	pro:per|you v|know pro:dem|that (1)adj|wee (1)adj|walk&dv-Y (1)n|thing .
+----------------------------------------
+*** File "mich07.cha": line 2778.
+*MOT:	from eighteen months she's like she's been a great wee girl .
+%mor:	prep|from det:num|eighteen n|month-PL pro:sub|she~aux|be&3S
+	conj|like pro:sub|she~aux|be&3S cop|be&PASTP det:art|a (1)adj|great
+	(1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "mich07.cha": line 3896.
+*MOT:	ach no me and Mike are planning to go away to Scotland some time
+	next year on our own for maybe one or two days cause the baby'll be
+	well up by then (.) you know established in its own wee routine and
+	she'll be fine so we are (.) going to go over and see Mike's daddy .
+%mor:	co|ach co|no pro:obj|me coord|and n:prop|Mike aux|be&PRES
+	part|plan-PRESP inf|to v|go adv|away prep|to n:prop|Scotland qn|some
+	n|time adv|next n|year prep|on det:poss|our adj|own prep|for
+	adv|maybe pro:indef|one coord|or det:num|two n|day-PL n|cause
+	det:art|the n|baby~mod|will cop|be adv|well adv|up prep|by
+	adv:tem|then pro:per|you v|know part|establish-PASTP prep|in
+	det:poss|its (1)adj|own (1)adj|wee (1)n|routine coord|and
+	pro:sub|she~mod|will cop|be adj|fine conj|so pro:sub|we aux|be&PRES
+	part|go-PRESP inf|to v|go adv|over coord|and v|see
+	n:prop|Mike~poss|s n|daddy .
+----------------------------------------
+*** File "mich07.cha": line 3949.
+*INV:	oh I'm a big big fan so I went over to see him in Glasgow and my
+	mum's brother lives over there .
+%mor:	co|oh pro:sub|I~cop|be&1S det:art|a (1)adj|big (1)adj|big (1)n|fan co|so
+	pro:sub|I v|go&PAST adv|over inf|to v|see pro:obj|him prep|in
+	n:prop|Glasgow coord|and det:poss|my n|mum~poss|s n|brother
+	v|live-3S prep|over adv|there .
+----------------------------------------
+*** File "mich07.cha": line 4117.
+*MOT:	there are some bits of it are still wet Michelle .
+%mor:	adv|there cop|be&PRES qn|some n|bit-PL prep|of pro:per|it
+	cop|be&PRES (1)adj|still (1)adj|wet (1)n:prop|Michelle .
+
+    Strings matched 10 times
+
+From file <mich08.cha>
+----------------------------------------
+*** File "mich08.cha": line 43.
+*INV:	is this your new wee brother ?
+%mor:	cop|be&3S pro:dem|this det:poss|your (1)adj|new (1)adj|wee (1)n|brother ?
+----------------------------------------
+*** File "mich08.cha": line 133.
+*INV:	you're a lucky lucky girl getting a baby .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|luck&dn-Y (1)adj|luck&dn-Y
+	(1)n|girl part|get-PRESP det:art|a n|baby .
+----------------------------------------
+*** File "mich08.cha": line 292.
+*INV:	I'm so new fangled (.) you know the way you forget about their wee
+	floppy heads and all [=! laughs] .
+%mor:	pro:sub|I~aux|be&1S adv|so adj|new adj|fangled pro:per|you v|know
+	det:art|the n|way pro:per|you v|forget prep|about det:poss|their
+	(1)adj|wee (1)adj|flop&dv-Y (1)n|head-PL coord|and pro:indef|all .
+----------------------------------------
+*** File "mich08.cha": line 1360.
+*INV:	it's your own wee tiny tiny baby .
+%mor:	pro:per|it~cop|be&3S det:poss|your adj|own adj|wee (1)adj|tiny
+	(1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "mich08.cha": line 1679.
+*MOT:	a good wee while .
+%mor:	det:art|a (1)adj|good (1)adj|wee (1)n|while .
+
+    Strings matched 5 times
+
+From file <mich09.cha>
+----------------------------------------
+*** File "mich09.cha": line 106.
+*INV:	I have some lovely wee things .
+%mor:	pro:sub|I v|have qn|some (1)adj|love&dn-LY (1)adj|wee (1)n|thing-PL .
+----------------------------------------
+*** File "mich09.cha": line 1331.
+*INV:	them wee tiny things is what ?
+%mor:	pro:obj|them (1)adj|wee (1)adj|tiny (1)n|thing-PL cop|be&3S pro:int|what ?
+----------------------------------------
+*** File "mich09.cha": line 1519.
+*INV:	look at all these lovely wee things .
+%mor:	cop|look prep|at qn|all pro:dem|these (1)adj|love&dn-LY (1)adj|wee
+	(1)n|thing-PL .
+----------------------------------------
+*** File "mich09.cha": line 2511.
+*INV:	look at that lovely wee girl I wonder who that is ?
+%mor:	cop|look prep|at pro:dem|that (1)adj|love&dn-LY (1)adj|wee (1)n|girl
+	pro:sub|I v|wonder pro:int|who pro:dem|that cop|be&3S ?
+----------------------------------------
+*** File "mich09.cha": line 2525.
+*INV:	she's a gorgeous wee girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|gorgeous (1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "mich09.cha": line 3876.
+*INV:	that was a lovely hot dog I had .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|love&dn-LY (1)adj|hot (1)n|dog
+	pro:sub|I v|have&PAST .
+----------------------------------------
+*** File "mich09.cha": line 4047.
+*INV:	it's just that's her own wee place .
+%mor:	pro:per|it~cop|be&3S adj|just pro:rel|that~aux|be&3S pro:obj|her
+	(1)adj|own (1)adj|wee (1)n|place .
+----------------------------------------
+*** File "mich09.cha": line 4154.
+*MOT:	although he's like his own wee man eatin(g) away .
+%mor:	conj|although pro:sub|he~cop|be&3S prep|like det:poss|his (1)adj|own
+	(1)adj|wee (1)n|man part|eat-PRESP adv|away .
+----------------------------------------
+*** File "mich09.cha": line 4170.
+*MOT:	where's your big happy face ?
+%mor:	adv:int|where~cop|be&3S det:poss|your (1)adj|big (1)adj|happy (1)n|face ?
+----------------------------------------
+*** File "mich09.cha": line 4356.
+*INV:	he's a desperate wee boy (.) honestly .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|desperate (1)adj|wee (1)n|boy
+	adv|honest&dadj-LY .
+
+    Strings matched 10 times
+
+From file <mich10.cha>
+----------------------------------------
+*** File "mich10.cha": line 175.
+*INV:	he's a big lump (.) he's a lovely big boy !
+%mor:	pro:sub|he~aux|be&3S det:art|a adj|big n|lump pro:sub|he~aux|be&3S
+	det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|boy !
+----------------------------------------
+*** File "mich10.cha": line 180.
+*INV:	he's a lovely big fella (.) he is indeed .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|fella
+	pro:sub|he aux|be&3S adv|indeed .
+
+    Strings matched 2 times
+
+From file <mich11.cha>
+----------------------------------------
+*** File "mich11.cha": line 104.
+*INV:	were you or were you a good wee baby ?
+%mor:	cop|be&PAST pro:per|you coord|or cop|be&PAST pro:per|you det:art|a
+	(1)adj|good (1)adj|wee (1)n|baby ?
+----------------------------------------
+*** File "mich11.cha": line 392.
+*MOT:	last night he cracked up (.) he fell asleep down here in his pram
+	and he fell asleep and all and I went to bed at ten past ten (.)
+	brought him up (.) put him in bed (.) half an hour and he woke up
+	(.) I come down her to see if he would maybe take a bottle and that
+	(.) wasn't interested in a bottle (.) sitting looking all round him
+	(.) brought him up put him down in the bed (.) put his dodie
+	[: pacifier] in (.) lay beside me in the bed (.) Mike was still down
+	here and the dodie [: pacifier] was in the dodie [: pacifier] was
+	out (.) he tossed and turned and then he started to cry and then I
+	was lifting him and putting him down (.) lifting him rubbing his
+	back and it must have been about twelve o'clock I could have no more
+	so I went a put the mobile the wee musical thing on and put him in
+	and tucked him in and he gurned and gurned and gurned and gurned and
+	she was up and he was up and he was gurning and he gurned and gurned
+	and gurned and gurned .
+%mor:	adj|last n|night pro:sub|he v|crack-PAST adv|up pro:sub|he
+	v|fall&PAST adv|asleep adv|down adv|here prep|in det:poss|his n|pram
+	coord|and pro:sub|he v|fall&PAST adv|asleep coord|and qn|all
+	coord|and pro:sub|I v|go&PAST prep|to n|bed prep|at det:num|ten
+	adj|past det:num|ten v|bring&PAST pro:obj|him adv|up v|put&ZERO
+	pro:obj|him prep|in n|bed n|half det:art|a n|hour coord|and
+	pro:sub|he v|wake&PAST adv|up pro:sub|I v|come adv|down pro:obj|her
+	inf|to v|see conj|if pro:sub|he mod|will&COND adv|maybe v|take
+	det:art|a n|bottle coord|and pro:dem|that aux|be&PAST&13S~neg|not
+	part|interest-PASTP prep|in det:art|a n|bottle part|sit-PRESP
+	part|look-PRESP adv|all adj|round pro:obj|him v|bring&PAST
+	pro:obj|him adv|up v|put&ZERO pro:obj|him adv|down prep|in
+	det:art|the n|bed v|put&ZERO det:poss|his n|pacify&dv-AGT prep|in
+	adj|lay prep|beside pro:obj|me prep|in det:art|the n|bed n:prop|Mike
+	aux|be&PAST&13S adv|still adv|down adv|here coord|and det:art|the
+	n|pacify&dv-AGT aux|be&PAST&13S prep|in det:art|the n|pacify&dv-AGT
+	aux|be&PAST&13S adv|out pro:sub|he v|toss-PAST coord|and v|turn-PAST
+	coord|and adv:tem|then pro:sub|he v|start-PAST inf|to v|cry
+	coord|and adv:tem|then pro:sub|I aux|be&PAST&13S part|lift-PRESP
+	pro:obj|him coord|and part|put-PRESP pro:obj|him adv|down
+	part|lift-PRESP pro:obj|him part|rub-PRESP det:poss|his adj|back
+	coord|and pro:per|it mod|must v|have cop|be&PASTP prep|about
+	det:num|twelve n|o'clock pro:sub|I mod|could v|have qn|no adv|more
+	co|so pro:sub|I v|go&PAST det:art|a v|put&ZERO det:art|the
+	adj|mobile det:art|the (1)adj|wee (1)adj|musical (1)n|thing adv|on coord|and
+	v|put&ZERO pro:obj|him adv|in coord|and v|tuck-PAST pro:obj|him
+	adv|in coord|and pro:sub|he v|gurn-PAST coord|and v|gurn-PAST
+	coord|and v|gurn-PAST coord|and v|gurn-PAST coord|and pro:sub|she
+	aux|be&PAST&13S adv|up coord|and pro:sub|he aux|be&PAST&13S adv|up
+	coord|and pro:sub|he aux|be&PAST&13S part|gurn-PRESP coord|and
+	pro:sub|he v|gurn-PAST coord|and v|gurn-PAST coord|and v|gurn-PAST
+	coord|and v|gurn-PAST .
+----------------------------------------
+*** File "mich11.cha": line 858.
+*MOT:	Gran Canaria was a wee breeze with her (.) she was two (.) and when
+	she turned two she was a great wee girl and she was brilliant like
+	cause she was toilet trained .
+%mor:	n:prop|Gran n:prop|Canaria cop|be&PAST&13S det:art|a adj|wee
+	n|breeze prep|with pro:obj|her pro:sub|she cop|be&PAST&13S
+	det:num|two coord|and conj|when pro:sub|she part|turn-PASTP
+	det:num|two pro:sub|she cop|be&PAST&13S det:art|a (1)adj|great (1)adj|wee
+	(1)n|girl coord|and pro:sub|she cop|be&PAST&13S adj|brilliant co|like
+	n|cause pro:sub|she cop|be&PAST&13S n|toilet v|train-PAST .
+----------------------------------------
+*** File "mich11.cha": line 1361.
+*INV:	so Lucy was in the park and she went like this (.) and she made
+	poor wee Jackie cry (.) now when they came home what did their
+	mummie say to them ?
+%mor:	adv|so n:prop|Lucy cop|be&PAST&13S prep|in det:art|the n|park
+	coord|and pro:sub|she v|go&PAST prep|like pro:dem|this coord|and
+	pro:sub|she v|make&PAST (1)adj|poor (1)adj|wee (1)n:prop|Jackie v|cry adv|now
+	conj|when pro:sub|they v|come&PAST adv|home det:int|what v|do&PAST
+	det:poss|their n|mum&dadj-DIM co|say prep|to pro:obj|them ?
+----------------------------------------
+*** File "mich11.cha": line 2092.
+*INV:	a lovely big dress like that one and Cinderella was very happy so
+	she went to the ball and what happened when she went to the ball ?
+%mor:	det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|dress prep|like pro:dem|that
+	pro:indef|one coord|and n:prop|Cinderella cop|be&PAST&13S adv|very
+	adj|happy conj|so pro:sub|she v|go&PAST prep|to det:art|the n|ball
+	coord|and pro:int|what v|happen-PAST conj|when pro:sub|she v|go&PAST
+	prep|to det:art|the n|ball ?
+
+    Strings matched 5 times
+
+From file <mich12.cha>
+----------------------------------------
+*** File "mich12.cha": line 156.
+*INV:	he's a real wee blondie too isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|real (1)adj|wee (1)n|blonde-DIM
+	post|too cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "mich12.cha": line 566.
+*INV:	he's a great wee thing isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|great (1)adj|wee (1)n|thing
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "mich12.cha": line 3671.
+*INV:	and they forgot all about poor wee Teddy .
+%mor:	coord|and pro:sub|they v|forget&PAST adv|all adv|about (1)adj|poor
+	(1)adj|wee (1)n:prop|Teddy .
+----------------------------------------
+*** File "mich12.cha": line 5693.
+*MOT:	if I feel broody for a wee tiny baby I'll go in and give her a wee
+	nurse .
+%mor:	conj|if pro:sub|I v|feel adj|brood&dn-Y prep|for det:art|a (1)adj|wee
+	(1)adj|tiny (1)n|baby pro:sub|I~mod|will v|go adv|in coord|and v|give
+	pro:obj|her det:art|a adj|wee n|nurse .
+----------------------------------------
+*** File "mich12.cha": line 5710.
+*MOT:	here's me “there'll be plenty of new wee babies about here” .
+%mor:	pro:exist|here~aux|be&3S pro:obj|me bq|bq pro:exist|there~mod|will
+	cop|be adv|plenty prep|of (1)adj|new (1)adj|wee (1)n|baby-PL prep|about
+	adv|here eq|eq .
+
+    Strings matched 5 times
+
+From file <mich13.cha>
+----------------------------------------
+*** File "mich13.cha": line 1049.
+*MOT:	and a wee tiny path and there was the beach just there .
+%mor:	coord|and det:art|a (1)adj|wee (1)adj|tiny (1)n|path coord|and adv|there
+	cop|be&PAST&13S det:art|the n|beach adv|just adv|there .
+----------------------------------------
+*** File "mich13.cha": line 3483.
+*INV:	that big long thing .
+%mor:	pro:dem|that (1)adj|big (1)adj|long (1)n|thing .
+----------------------------------------
+*** File "mich13.cha": line 4964.
+*INV:	she's got a wee tiny baby face hasn't she ?
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a (1)adj|wee (1)adj|tiny
+	(1)n|baby n|face aux|have&3S~neg|not pro:sub|she ?
+
+    Strings matched 3 times
+
+From file <mich14.cha>
+----------------------------------------
+*** File "mich14.cha": line 611.
+*MOT:	he's a really really good wee boy .
+%mor:	pro:sub|he~aux|be&3S det:art|a adv|real&dadj-LY adv|real&dadj-LY
+	(1)adj|good (1)adj|wee (1)n|boy .
+----------------------------------------
+*** File "mich14.cha": line 942.
+*MOT:	well he (.) you know he can be the typical wee boy you know .
+%mor:	co|well pro:sub|he pro:per|you v|know pro:sub|he mod|can cop|be
+	det:art|the (1)adj|typical (1)adj|wee (1)n|boy pro:per|you v|know .
+----------------------------------------
+*** File "mich14.cha": line 1106.
+*INV:	like you sit I'm tired because I sit sat up last night watchin(g)
+	that stupid awl [: old] Nash Bridges .
+%mor:	prep|like pro:per|you v|sit pro:sub|I~aux|be&1S part|tire-PASTP
+	conj|because pro:sub|I v|sit v|sit&PAST adv|up adj|last n|night
+	part|watch-PRESP pro:dem|that (1)adj|stupid (1)adj|old (1)n:prop|Nash
+	n:prop|Bridges .
+----------------------------------------
+*** File "mich14.cha": line 1921.
+*INV:	have you got a wee a wee tiny doll ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a adj|wee det:art|a (1)adj|wee
+	(1)adj|tiny (1)n|doll ?
+----------------------------------------
+*** File "mich14.cha": line 2245.
+*INV:	poor wee girl .
+%mor:	(1)adj|poor (1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "mich14.cha": line 5650.
+*INV:	yes her hair (.) she's a wee curly thing .
+%mor:	co|yes det:poss|her n|hair pro:sub|she~aux|be&3S det:art|a (1)adj|wee
+	(1)adj|curl&dv-Y (1)n|thing .
+----------------------------------------
+*** File "mich14.cha": line 5870.
+*MOT:	and &-eh (..) she's a wild wee girl .
+%mor:	coord|and pro:sub|she~aux|be&3S det:art|a (1)adj|wild (1)adj|wee (1)n|girl .
+----------------------------------------
+*** File "mich14.cha": line 5891.
+*MOT:	and he's in his own wee world .
+%mor:	coord|and pro:sub|he~cop|be&3S prep|in det:poss|his (1)adj|own (1)adj|wee
+	(1)n|world .
+
+    Strings matched 8 times
+
+From file <michsr1.cha>
+
+    Strings matched 0 times
+

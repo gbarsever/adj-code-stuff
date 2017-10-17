@@ -1,0 +1,898 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:59:46 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <ruth01a.cha>
+----------------------------------------
+*** File "ruth01a.cha": line 125.
+*MOT:	he's got a nice yellow top on , hasn't he ?
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a (1)adj|nice (1)adj|yellow
+	(1)n|top adv|on cm|cm aux|have&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "ruth01a.cha": line 1080.
+*MOT:	have you got a big fat tummy ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy ?
+----------------------------------------
+*** File "ruth01a.cha": line 2948.
+*MOT:	where's little brown baba ?
+%mor:	adv:int|where~cop|be&3S (1)adj|little (1)adj|brown (1)n|baby ?
+----------------------------------------
+*** File "ruth01a.cha": line 2960.
+*MOT:	little brown baba had a plaster once , didn't she ?
+%mor:	(1)adj|little (1)adj|brown (1)n|baby v|have&PAST det:art|a n|plaster
+	adv|once cm|cm mod|do&PAST~neg|not pro:sub|she ?
+
+    Strings matched 4 times
+
+From file <ruth01b.cha>
+----------------------------------------
+*** File "ruth01b.cha": line 2145.
+*MOT:	have you got a very bad sore cough ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a adv|very (1)adj|bad (1)adj|sore
+	(1)n|cough ?
+----------------------------------------
+*** File "ruth01b.cha": line 2150.
+*MOT:	a bad old cough .
+%mor:	det:art|a (1)adj|bad (1)adj|old (1)n|cough .
+
+    Strings matched 2 times
+
+From file <ruth02a.cha>
+----------------------------------------
+*** File "ruth02a.cha": line 1107.
+*MOT:	that's a bad old cough you've got , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|bad (1)adj|old (1)n|cough
+	pro:per|you~aux|have part|get&PASTP cm|cm cop|be&3S~neg|not
+	pro:per|it ?
+
+    Strings matched 1 times
+
+From file <ruth02b.cha>
+----------------------------------------
+*** File "ruth02b.cha": line 211.
+*MOT:	a big red bow in her hair .
+%mor:	det:art|a (1)adj|big (1)adj|red (1)n|bow prep|in det:poss|her n|hair .
+----------------------------------------
+*** File "ruth02b.cha": line 748.
+*MOT:	it's just pretend food .
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|pretend (1)n|food .
+
+    Strings matched 2 times
+
+From file <ruth03a.cha>
+----------------------------------------
+*** File "ruth03a.cha": line 417.
+*MOT:	you do a nice red color on there now .
+%mor:	pro:per|you v|do det:art|a (1)adj|nice (1)adj|red (1)n|color prep|on
+	adv|there adv|now .
+----------------------------------------
+*** File "ruth03a.cha": line 1627.
+*MOT:	it's a bit of a messy old business but it's a beautiful card .
+%mor:	pro:per|it~cop|be&3S det:art|a n|bit prep|of det:art|a
+	(1)adj|mess&dn-Y (1)adj|old (1)n|business conj|but pro:per|it~cop|be&3S
+	det:art|a adj|beautiful n|card .
+
+    Strings matched 2 times
+
+From file <ruth03b.cha>
+----------------------------------------
+*** File "ruth03b.cha": line 1410.
+*MOT:	it's just pretend food .
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|pretend (1)n|food .
+
+    Strings matched 1 times
+
+From file <ruth05a.cha>
+----------------------------------------
+*** File "ruth05a.cha": line 252.
+*MOT:	we stayed in a little cottage that had a big open fire .
+%mor:	pro:sub|we cop|stay-PAST prep|in det:art|a adj|little n|cottage
+	pro:rel|that v|have&PAST det:art|a (1)adj|big (1)adj|open (1)n|fire .
+
+    Strings matched 1 times
+
+From file <ruth05b.cha>
+----------------------------------------
+*** File "ruth05b.cha": line 228.
+*MOT:	nice big red shoes .
+%mor:	(1)adj|nice (1)adj|big (1)n|red n|shoe-PL .
+----------------------------------------
+*** File "ruth05b.cha": line 1608.
+*MOT:	nice red apple .
+%mor:	(1)adj|nice (1)adj|red (1)n|apple .
+
+    Strings matched 2 times
+
+From file <ruth06a.cha>
+----------------------------------------
+*** File "ruth06a.cha": line 1621.
+*MOT:	get some nice red color .
+%mor:	v|get qn|some (1)adj|nice (1)adj|red (1)n|color .
+----------------------------------------
+*** File "ruth06a.cha": line 2723.
+*MOT:	have you got a big fat tummy ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy ?
+
+    Strings matched 2 times
+
+From file <ruth06b.cha>
+----------------------------------------
+*** File "ruth06b.cha": line 485.
+*MOT:	are you a dirty mucky little pup ?
+%mor:	cop|be&PRES pro:per|you det:art|a adj|dirt&dn-Y (1)adj|muck&dn-Y
+	(1)adj|little (1)n|pup ?
+----------------------------------------
+*** File "ruth06b.cha": line 492.
+*MOT:	are you a dirty mucky little pup ?
+%mor:	cop|be&PRES pro:per|you det:art|a adj|dirt&dn-Y (1)adj|muck&dn-Y
+	(1)adj|little (1)n|pup ?
+----------------------------------------
+*** File "ruth06b.cha": line 730.
+*MOT:	that was the tiniest little wee+wee .
+%mor:	pro:dem|that cop|be&PAST&13S det:art|the (1)adj|tiny-SP (1)adj|little
+	(1)n|+on|wee+on|wee .
+----------------------------------------
+*** File "ruth06b.cha": line 1069.
+*MOT:	do a big round circle .
+%mor:	v|do det:art|a (1)adj|big (1)adj|round (1)n|circle .
+----------------------------------------
+*** File "ruth06b.cha": line 2791.
+*MOT:	are you hungry wee girl ?
+%mor:	cop|be&PRES pro:per|you (1)adj|hungry (1)adj|wee (1)n|girl ?
+----------------------------------------
+*** File "ruth06b.cha": line 2837.
+*MOT:	have you got a big fat tummy ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy ?
+----------------------------------------
+*** File "ruth06b.cha": line 2872.
+*MOT:	have you got a big fat tummy ?
+%mor:	aux|have pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|tummy ?
+
+    Strings matched 7 times
+
+From file <ruth07a.cha>
+----------------------------------------
+*** File "ruth07a.cha": line 1507.
+*MOT:	where did you bang your head last night ?
+%mor:	adv:int|where mod|do&PAST pro:per|you v|bang det:poss|your (1)adj|head
+	(1)adj|last (1)n|night ?
+----------------------------------------
+*** File "ruth07a.cha": line 2702.
+*MOT:	big heavy girl .
+%mor:	(1)adj|big (1)adj|heavy (1)n|girl .
+
+    Strings matched 2 times
+
+From file <ruth07b.cha>
+----------------------------------------
+*** File "ruth07b.cha": line 523.
+*MOT:	blue green yellow orange red .
+%mor:	adj|blue adj|green (1)adj|yellow (1)adj|orange (1)n|red .
+
+    Strings matched 1 times
+
+From file <ruth08a.cha>
+
+    Strings matched 0 times
+
+From file <ruth08b.cha>
+----------------------------------------
+*** File "ruth08b.cha": line 2172.
+*MOT:	you just wrecked poor old train as_well_as knocked the tower down .
+%mor:	pro:per|you adv|just part|wreck-PASTP (1)adj|poor (1)adj|old (1)n|train
+	coord|as_well_as v|knock-PAST det:art|the n|tower adv|down .
+----------------------------------------
+*** File "ruth08b.cha": line 2177.
+*MOT:	poor old train is completely wrecked .
+%mor:	(1)adj|poor (1)adj|old (1)n|train aux|be&3S adv|complete&dadj-LY
+	v|wreck-PAST .
+
+    Strings matched 2 times
+
+From file <ruth09a.cha>
+
+    Strings matched 0 times
+
+From file <ruth09b.cha>
+----------------------------------------
+*** File "ruth09b.cha": line 363.
+*MOT:	you're getting to be a right wee pudding lately .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be det:art|a
+	(1)adj|right (1)adj|wee (1)n|pudding adv|late&dadj-LY .
+
+    Strings matched 1 times
+
+From file <ruth10a.cha>
+
+    Strings matched 0 times
+
+From file <ruth10b.cha>
+
+    Strings matched 0 times
+
+From file <ruth11a.cha>
+
+    Strings matched 0 times
+
+From file <ruth11b.cha>
+
+    Strings matched 0 times
+
+From file <ruth12a.cha>
+----------------------------------------
+*** File "ruth12a.cha": line 509.
+*MOT:	big heavy lump .
+%mor:	(1)adj|big (1)adj|heavy (1)n|lump .
+----------------------------------------
+*** File "ruth12a.cha": line 1484.
+*MOT:	what a terrible terrible eye problem we've got here .
+%mor:	pro:int|what det:art|a (1)adj|terrible (1)adj|terrible (1)n|eye n|problem
+	pro:sub|we~aux|have part|get&PASTP adv|here .
+
+    Strings matched 2 times
+
+From file <ruth12b.cha>
+----------------------------------------
+*** File "ruth12b.cha": line 286.
+*MOT:	it was a big long spaghetti , wasn't it , Ruth ?
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|big (1)adj|long (1)n|spaghetti
+	cm|cm cop|be&PAST&13S~neg|not pro:per|it cm|cm n:prop|Ruth ?
+----------------------------------------
+*** File "ruth12b.cha": line 1616.
+*MOT:	it's funny old stuff spaghetti , isn't it ?
+%mor:	pro:per|it~cop|be&3S (1)adj|fun&dn-Y (1)adj|old (1)n|stuff n|spaghetti cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "ruth12b.cha": line 1831.
+*MOT:	that's a very neat little line you're making there .
+%mor:	pro:dem|that~cop|be&3S det:art|a adv|very (1)adj|neat (1)adj|little
+	(1)n|line pro:per|you~aux|be&PRES part|make-PRESP adv|there .
+
+    Strings matched 3 times
+
+From file <ruth13a.cha>
+
+    Strings matched 0 times
+
+From file <ruth13b.cha>
+----------------------------------------
+*** File "ruth13b.cha": line 213.
+*MOT:	because we don't have any big white pieces .
+%mor:	conj|because pro:sub|we mod|do~neg|not v|have qn|any (1)adj|big
+	(1)adj|white (1)n|piece-PL .
+----------------------------------------
+*** File "ruth13b.cha": line 1109.
+*MOT:	is it a big tall tower ?
+%mor:	aux|be&3S pro:per|it det:art|a (1)adj|big (1)adj|tall (1)n|tower ?
+----------------------------------------
+*** File "ruth13b.cha": line 1184.
+*MOT:	poor old train .
+%mor:	(1)adj|poor (1)adj|old (1)n|train .
+----------------------------------------
+*** File "ruth13b.cha": line 1939.
+*MOT:	oh you big greedy old horse you .
+%mor:	co|oh pro:per|you adj|big (1)adj|greed&dn-Y (1)adj|old (1)n|horse
+	pro:per|you .
+
+    Strings matched 4 times
+
+From file <ruth14a.cha>
+----------------------------------------
+*** File "ruth14a.cha": line 972.
+*MOT:	it's that great big bear .
+%mor:	pro:per|it~aux|be&3S pro:dem|that (1)adj|great (1)adj|big (1)n|bear .
+----------------------------------------
+*** File "ruth14a.cha": line 1059.
+*MOT:	are you a quiet little girl ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|quiet (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "ruth14a.cha": line 1400.
+*MOT:	aren't they good nice quiet boys ?
+%mor:	aux|be&PRES~neg|not pro:sub|they adj|good (1)adj|nice (1)adj|quiet
+	(1)n|boy-PL ?
+----------------------------------------
+*** File "ruth14a.cha": line 1499.
+*MOT:	those noisy noisy boys .
+%mor:	pro:dem|those (1)adj|noise&dn-Y (1)adj|noise&dn-Y (1)n|boy-PL .
+----------------------------------------
+*** File "ruth14a.cha": line 2144.
+*MOT:	oh it's a nasty big thing .
+%mor:	co|oh pro:per|it~cop|be&3S det:art|a (1)adj|nasty (1)adj|big (1)n|thing .
+----------------------------------------
+*** File "ruth14a.cha": line 2287.
+*MOT:	the bright yellow moon and all the twinkly +...
+%mor:	det:art|the (1)adj|bright (1)adj|yellow (1)n|moon coord|and qn|all
+	det:art|the adj|twinkle&dv-Y +...
+
+    Strings matched 6 times
+
+From file <ruth14b.cha>
+
+    Strings matched 0 times
+
+From file <ruth15a.cha>
+----------------------------------------
+*** File "ruth15a.cha": line 1250.
+*MOT:	shall we get some of that nice brown back again ?
+%mor:	mod|shall pro:sub|we v|get qn|some prep|of pro:dem|that (1)adj|nice
+	(1)adj|brown (1)n|back adv|again ?
+
+    Strings matched 1 times
+
+From file <ruth15b.cha>
+----------------------------------------
+*** File "ruth15b.cha": line 744.
+*INV:	that's a lovely big tower .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|tower .
+----------------------------------------
+*** File "ruth15b.cha": line 1718.
+*MOT:	lovely little chicken .
+%mor:	(1)adj|love&dn-LY (1)adj|little (1)n|chicken .
+
+    Strings matched 2 times
+
+From file <ruth16a.cha>
+----------------------------------------
+*** File "ruth16a.cha": line 16.
+*MOT:	little shy shy Ruth_Mary_Murphy .
+%mor:	adj|little (1)adj|shy (1)adj|shy (1)n:prop|Ruth_Mary_Murphy .
+----------------------------------------
+*** File "ruth16a.cha": line 2116.
+*MOT:	he's a very hungry little baby .
+%mor:	pro:sub|he~aux|be&3S det:art|a adv|very (1)adj|hungry (1)adj|little
+	(1)n|baby .
+
+    Strings matched 2 times
+
+From file <ruth16b.cha>
+----------------------------------------
+*** File "ruth16b.cha": line 521.
+*MOT:	big wide tower ?
+%mor:	(1)adj|big (1)adj|wide (1)n|tower ?
+----------------------------------------
+*** File "ruth16b.cha": line 928.
+*MOT:	that's a very hungry little [/] little dolly .
+%mor:	pro:dem|that~cop|be&3S det:art|a adv|very (1)adj|hungry (1)adj|little
+	(1)n|doll-DIM .
+
+    Strings matched 2 times
+
+From file <ruth17a.cha>
+----------------------------------------
+*** File "ruth17a.cha": line 1344.
+*MOT:	and a merry old soul was +...
+%mor:	coord|and det:art|a (1)adj|merry (1)adj|old (1)n|soul cop|be&PAST&13S +...
+----------------------------------------
+*** File "ruth17a.cha": line 1761.
+*MOT:	you clever old girl you .
+%mor:	pro:per|you (1)adj|clever (1)adj|old (1)n|girl pro:per|you .
+
+    Strings matched 2 times
+
+From file <ruth17b.cha>
+----------------------------------------
+*** File "ruth17b.cha": line 92.
+*MOT:	those are cold little feet .
+%mor:	pro:dem|those cop|be&PRES (1)adj|cold (1)adj|little (1)n|foot&PL .
+----------------------------------------
+*** File "ruth17b.cha": line 2241.
+*MOT:	it's just pretend food darling .
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|pretend (1)n|food co|darling .
+
+    Strings matched 2 times
+
+From file <ruth18a.cha>
+
+    Strings matched 0 times
+
+From file <ruth18b.cha>
+----------------------------------------
+*** File "ruth18b.cha": line 2138.
+*MOT:	it's a big fat tummy .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+
+    Strings matched 1 times
+
+From file <ruth19a.cha>
+----------------------------------------
+*** File "ruth19a.cha": line 88.
+*MOT:	did you have a nice big sleep ?
+%mor:	v|do&PAST pro:per|you v|have det:art|a (1)adj|nice (1)adj|big (1)n|sleep ?
+----------------------------------------
+*** File "ruth19a.cha": line 1567.
+*MOT:	you big heavy pudding .
+%mor:	pro:per|you (1)adj|big (1)adj|heavy (1)n|pudding .
+----------------------------------------
+*** File "ruth19a.cha": line 1570.
+*MOT:	you're getting to be a big heavy pudding .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be det:art|a
+	(1)adj|big (1)adj|heavy (1)n|pudding .
+----------------------------------------
+*** File "ruth19a.cha": line 1575.
+*MOT:	a big heavy pudding .
+%mor:	det:art|a (1)adj|big (1)adj|heavy (1)n|pudding .
+
+    Strings matched 4 times
+
+From file <ruth19b.cha>
+----------------------------------------
+*** File "ruth19b.cha": line 2024.
+*MOT:	is he a big fierce bull ?
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|big (1)adj|fierce (1)n|bull ?
+
+    Strings matched 1 times
+
+From file <ruth20a.cha>
+----------------------------------------
+*** File "ruth20a.cha": line 518.
+*MOT:	nice blue sky .
+%mor:	(1)adj|nice (1)adj|blue (1)n|sky .
+----------------------------------------
+*** File "ruth20a.cha": line 2483.
+*MOT:	little [/] little brown baby mouse .
+%mor:	(1)adj|little (1)adj|brown (1)n|baby n|mouse .
+----------------------------------------
+*** File "ruth20a.cha": line 2486.
+*MOT:	there you go little brown baby mouse .
+%mor:	adv|there pro:per|you v|go (1)adj|little (1)adj|brown (1)n|baby n|mouse .
+
+    Strings matched 3 times
+
+From file <ruth20b.cha>
+----------------------------------------
+*** File "ruth20b.cha": line 450.
+*MOT:	is it a bad old day today ?
+%mor:	aux|be&3S pro:per|it det:art|a (1)adj|bad (1)adj|old (1)n|day adv:tem|today
+	?
+----------------------------------------
+*** File "ruth20b.cha": line 464.
+*MOT:	such bad old tears .
+%mor:	qn|such (1)adj|bad (1)adj|old (1)n|tear-PL .
+
+    Strings matched 2 times
+
+From file <ruth21a.cha>
+----------------------------------------
+*** File "ruth21a.cha": line 757.
+*MOT:	those are good clean pages .
+%mor:	pro:dem|those cop|be&PRES (1)adj|good (1)adj|clean (1)n|page-PL .
+----------------------------------------
+*** File "ruth21a.cha": line 2826.
+*MOT:	are you a big fierce baby tiger ?
+%mor:	cop|be&PRES pro:per|you det:art|a (1)adj|big (1)adj|fierce (1)n|baby n|tiger
+	?
+
+    Strings matched 2 times
+
+From file <ruth21b.cha>
+
+    Strings matched 0 times
+
+From file <ruth22a.cha>
+----------------------------------------
+*** File "ruth22a.cha": line 219.
+*MOT:	shall we get your nice new socks on ?
+%mor:	mod|shall pro:sub|we v|get det:poss|your (1)adj|nice (1)adj|new (1)n|sock-PL
+	prep|on ?
+----------------------------------------
+*** File "ruth22a.cha": line 1805.
+*MOT:	big white baby .
+%mor:	(1)adj|big (1)adj|white (1)n|baby .
+----------------------------------------
+*** File "ruth22a.cha": line 1884.
+*MOT:	big white baby ?
+%mor:	(1)adj|big (1)adj|white (1)n|baby ?
+----------------------------------------
+*** File "ruth22a.cha": line 1926.
+*MOT:	big white baby ?
+%mor:	(1)adj|big (1)adj|white (1)n|baby ?
+----------------------------------------
+*** File "ruth22a.cha": line 1950.
+*MOT:	big white baby ?
+%mor:	(1)adj|big (1)adj|white (1)n|baby ?
+
+    Strings matched 5 times
+
+From file <ruth22b.cha>
+----------------------------------------
+*** File "ruth22b.cha": line 1604.
+*MOT:	little white baby .
+%mor:	(1)adj|little (1)adj|white (1)n|baby .
+----------------------------------------
+*** File "ruth22b.cha": line 1966.
+*MOT:	poor old Anna's baby .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Anna~poss|s n|baby .
+
+    Strings matched 2 times
+
+From file <ruth23a.cha>
+----------------------------------------
+*** File "ruth23a.cha": line 745.
+*MOT:	he's a nice woolly hat on , hasn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|wool&dn-LY (1)n|hat adv|on
+	cm|cm aux|have&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "ruth23a.cha": line 2363.
+*MOT:	I think poor old Ruth's been left behind .
+%mor:	pro:sub|I v|think (1)adj|poor (1)adj|old (1)n:prop|Ruth~poss|s cop|be&PASTP
+	adv|left adv|behind .
+
+    Strings matched 2 times
+
+From file <ruth23b.cha>
+
+    Strings matched 0 times
+
+From file <ruth24a.cha>
+
+    Strings matched 0 times
+
+From file <ruth24b.cha>
+----------------------------------------
+*** File "ruth24b.cha": line 1939.
+*MOT:	poor old Heidi .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Heidi .
+----------------------------------------
+*** File "ruth24b.cha": line 2171.
+*MOT:	we want nice neat hair , do we ?
+%mor:	pro:sub|we v|want (1)adj|nice (1)adj|neat (1)n|hair cm|cm mod|do pro:sub|we
+	?
+
+    Strings matched 2 times
+
+From file <ruth25a.cha>
+----------------------------------------
+*** File "ruth25a.cha": line 176.
+*MOT:	is it big black baby ?
+%mor:	aux|be&3S pro:per|it (1)adj|big (1)adj|black (1)n|baby ?
+----------------------------------------
+*** File "ruth25a.cha": line 182.
+*MOT:	was that big black baby ?
+%mor:	cop|be&PAST&13S pro:dem|that (1)adj|big (1)adj|black (1)n|baby ?
+----------------------------------------
+*** File "ruth25a.cha": line 2536.
+*MOT:	he's a lazy old guard man .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|laze&dv-Y (1)adj|old (1)n|guard n|man
+	.
+----------------------------------------
+*** File "ruth25a.cha": line 2667.
+*MOT:	the little white cat in the basket .
+%mor:	det:art|the (1)adj|little (1)adj|white (1)n|cat prep|in det:art|the n|basket
+	.
+
+    Strings matched 4 times
+
+From file <ruth25b.cha>
+
+    Strings matched 0 times
+
+From file <ruth26a.cha>
+----------------------------------------
+*** File "ruth26a.cha": line 571.
+*MOT:	little black baby .
+%mor:	(1)adj|little (1)adj|black (1)n|baby .
+----------------------------------------
+*** File "ruth26a.cha": line 628.
+*MOT:	little black baby it is .
+%mor:	(1)adj|little (1)adj|black (1)n|baby pro:per|it cop|be&3S .
+----------------------------------------
+*** File "ruth26a.cha": line 1932.
+*MOT:	if I eat too much cake I'll get a big fat tum(my) [/] tum(my)  .
+%mor:	conj|if pro:sub|I v|eat adv|too qn|much n|cake pro:sub|I~mod|will
+	v|get det:art|a (1)adj|big (1)adj|fat (1)n|tummy .
+----------------------------------------
+*** File "ruth26a.cha": line 2481.
+*MOT:	you big greedy horse .
+%mor:	pro:per|you (1)adj|big (1)adj|greed&dn-Y (1)n|horse .
+----------------------------------------
+*** File "ruth26a.cha": line 2641.
+*MOT:	why don't you get the big sharp knife ?
+%mor:	adv:int|why mod|do~neg|not pro:per|you v|get det:art|the (1)adj|big
+	(1)adj|sharp (1)n|knife ?
+
+    Strings matched 5 times
+
+From file <ruth26b.cha>
+----------------------------------------
+*** File "ruth26b.cha": line 107.
+*MOT:	it's a bit of a rocky old boat .
+%mor:	pro:per|it~cop|be&3S det:art|a n|bit prep|of det:art|a
+	(1)adj|rock&dn-Y (1)adj|old (1)n|boat .
+----------------------------------------
+*** File "ruth26b.cha": line 861.
+*MOT:	and the only one staying in is little white baby and little black
+	baby .
+%mor:	coord|and det:art|the qn|only pro:indef|one part|stay-PRESP prep|in
+	cop|be&3S adj|little n|white n|baby coord|and (1)adj|little (1)adj|black
+	(1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 957.
+*MOT:	little white baby .
+%mor:	(1)adj|little (1)adj|white (1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 970.
+*MOT:	little black baby .
+%mor:	(1)adj|little (1)adj|black (1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 1221.
+*MOT:	little white baby .
+%mor:	(1)adj|little (1)adj|white (1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 1224.
+*MOT:	little black baby .
+%mor:	(1)adj|little (1)adj|black (1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 2081.
+*MOT:	that's a lovely big love .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|love .
+----------------------------------------
+*** File "ruth26b.cha": line 2105.
+*INV:	is this little white baby ?
+%mor:	cop|be&3S pro:dem|this (1)adj|little (1)adj|white (1)n|baby ?
+----------------------------------------
+*** File "ruth26b.cha": line 2111.
+*INV:	oh and little black baby .
+%mor:	co|oh coord|and (1)adj|little (1)adj|black (1)n|baby .
+----------------------------------------
+*** File "ruth26b.cha": line 2693.
+*MOT:	that's a nice little book .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|book .
+
+    Strings matched 10 times
+
+From file <ruth27a.cha>
+----------------------------------------
+*** File "ruth27a.cha": line 78.
+*MOT:	big bad wolf .
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf .
+----------------------------------------
+*** File "ruth27a.cha": line 1392.
+*MOT:	are you as big as little white baby ?
+%mor:	cop|be&PRES pro:per|you adv|as adj|big prep|as (1)adj|little (1)adj|white
+	(1)n|baby ?
+----------------------------------------
+*** File "ruth27a.cha": line 1406.
+*MOT:	little white baby +...
+%mor:	(1)adj|little (1)adj|white (1)n|baby +...
+----------------------------------------
+*** File "ruth27a.cha": line 1562.
+*MOT:	oh it's a big heavy book this .
+%mor:	co|oh pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|heavy (1)n|book
+	pro:dem|this .
+----------------------------------------
+*** File "ruth27a.cha": line 3901.
+*MOT:	big fat feet .
+%mor:	(1)adj|big (1)adj|fat (1)n|foot&PL .
+
+    Strings matched 5 times
+
+From file <ruth27b.cha>
+----------------------------------------
+*** File "ruth27b.cha": line 1012.
+*MOT:	you're a very polite little girl , aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a adv|very (1)adj|polite (1)adj|little
+	(1)n|girl cm|cm aux|be&PRES~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <ruth28a.cha>
+----------------------------------------
+*** File "ruth28a.cha": line 591.
+*MOT:	well Grandma's got a great big garden at home , doesn't she ?
+%mor:	co|well n:prop|Grandma~aux|be&3S part|get&PASTP det:art|a (1)adj|great
+	(1)adj|big (1)n|garden prep|at n|home cm|cm mod|do&3S~neg|not pro:sub|she
+	?
+----------------------------------------
+*** File "ruth28a.cha": line 2151.
+*MOT:	were you good last night ?
+%mor:	cop|be&PAST pro:per|you (1)adj|good (1)adj|last (1)n|night ?
+
+    Strings matched 2 times
+
+From file <ruth28b.cha>
+----------------------------------------
+*** File "ruth28b.cha": line 423.
+*MOT:	I bet you got a pretty good idea where she is .
+%mor:	pro:sub|I v|bet&ZERO pro:per|you v|get&PAST det:art|a (1)adj|pretty
+	(1)adj|good (1)n|idea pro:rel|where pro:sub|she cop|be&3S .
+----------------------------------------
+*** File "ruth28b.cha": line 1089.
+*MOT:	poor old Mo .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Mo .
+
+    Strings matched 2 times
+
+From file <ruth29a.cha>
+----------------------------------------
+*** File "ruth29a.cha": line 3127.
+*MOT:	has Joy got long long hair ?
+%mor:	aux|have&3S n:prop|Joy v|get&PAST (1)adj|long (1)adj|long (1)n|hair ?
+----------------------------------------
+*** File "ruth29a.cha": line 3172.
+*MOT:	you've not got long long hair but you've not got short hair either
+	.
+%mor:	pro:per|you~aux|have neg|not v|get&PAST (1)adj|long (1)adj|long (1)n|hair
+	conj|but pro:per|you~aux|have neg|not v|get&PAST adj|short n|hair
+	adv|either .
+
+    Strings matched 2 times
+
+From file <ruth29b.cha>
+----------------------------------------
+*** File "ruth29b.cha": line 2485.
+*MOT:	shall we have a big big hug together ?
+%mor:	mod|shall pro:sub|we v|have det:art|a (1)adj|big (1)adj|big (1)n|hug
+	adv|together ?
+----------------------------------------
+*** File "ruth29b.cha": line 2673.
+*MOT:	a big old lazybones .
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|lazybone-PL .
+
+    Strings matched 2 times
+
+From file <ruth30a.cha>
+----------------------------------------
+*** File "ruth30a.cha": line 627.
+*MOT:	big bad wolf ate Mummy up ?
+%mor:	(1)adj|big (1)adj|bad (1)n|wolf v|eat&PAST n:prop|Mummy adv|up ?
+----------------------------------------
+*** File "ruth30a.cha": line 956.
+*MOT:	a bit of a bumpy old horse .
+%mor:	det:art|a n|bit prep|of det:art|a (1)adj|bump&dv-Y (1)adj|old (1)n|horse .
+----------------------------------------
+*** File "ruth30a.cha": line 2405.
+*MOT:	poor old Daddy .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Daddy .
+----------------------------------------
+*** File "ruth30a.cha": line 2553.
+*MOT:	poor old Daddy works all day and you just tell him to go [/] <go
+	back> [/] go back top work again .
+%mor:	(1)adj|poor (1)adj|old (1)n:prop|Daddy v|work-3S qn|all n|day coord|and
+	pro:per|you adv|just v|tell pro:obj|him inf|to v|go adv|back adj|top
+	n|work adv|again .
+----------------------------------------
+*** File "ruth30a.cha": line 2889.
+*MOT:	that's a very polite little girl you are .
+%mor:	pro:dem|that~cop|be&3S det:art|a adv|very (1)adj|polite (1)adj|little
+	(1)n|girl pro:per|you cop|be&PRES .
+
+    Strings matched 5 times
+
+From file <ruth30b.cha>
+----------------------------------------
+*** File "ruth30b.cha": line 598.
+*MOT:	you're a greedy little girl at the moment .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|greed&dn-Y (1)adj|little (1)n|girl
+	prep|at det:art|the n|moment .
+----------------------------------------
+*** File "ruth30b.cha": line 1129.
+*MOT:	when you were a tiny tiny little baby do you know that the pear was
+	your favorite food ?
+%mor:	conj|when pro:per|you cop|be&PAST det:art|a adj|tiny (1)adj|tiny
+	(1)adj|little (1)n|baby v|do pro:per|you v|know pro:rel|that det:art|the
+	n|pear cop|be&PAST&13S det:poss|your n|favorite n|food ?
+
+    Strings matched 2 times
+
+From file <ruth31a.cha>
+----------------------------------------
+*** File "ruth31a.cha": line 22.
+*MOT:	eensie weensie spider ?
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider ?
+----------------------------------------
+*** File "ruth31a.cha": line 25.
+*MOT:	Anna's not heard you does eensie weensie spider yet .
+%mor:	n:prop|Anna~poss|s neg|not v|hear&PAST pro:per|you mod|do&3S
+	(1)adj|eensie (1)adj|weensie (1)n|spider adv|yet .
+----------------------------------------
+*** File "ruth31a.cha": line 33.
+*MOT:	do you wanna do eensie weensie spider ?
+%mor:	mod|do pro:per|you v|want~inf|to v|do (1)adj|eensie (1)adj|weensie
+	(1)n|spider ?
+----------------------------------------
+*** File "ruth31a.cha": line 72.
+*MOT:	you do eensie weensie spider now .
+%mor:	pro:per|you v|do (1)adj|eensie (1)adj|weensie (1)n|spider adv|now .
+----------------------------------------
+*** File "ruth31a.cha": line 3194.
+*MOT:	because everybody always starts their name with big big letters .
+%mor:	conj|because pro:indef|everybody adv|always v|start-3S
+	det:poss|their n|name prep|with (1)adj|big (1)adj|big (1)n|letter-PL .
+
+    Strings matched 5 times
+
+From file <ruth31b.cha>
+----------------------------------------
+*** File "ruth31b.cha": line 253.
+*MOT:	do wicked witches have long long hair ?
+%mor:	mod|do adj|wicked n|witch-PL v|have (1)adj|long (1)adj|long (1)n|hair ?
+----------------------------------------
+*** File "ruth31b.cha": line 2947.
+*MOT:	who [/] who do you think (i)s a bossy little individual ?
+%mor:	pro:int|who mod|do pro:per|you v|think aux|be&3S det:art|a
+	(1)adj|boss&dn-Y (1)adj|little (1)n|individual ?
+
+    Strings matched 2 times
+
+From file <ruth32a.cha>
+----------------------------------------
+*** File "ruth32a.cha": line 147.
+*MOT:	he sometimes has a little van and sometimes he's got a great big
+	van , hasn't he ?
+%mor:	pro:sub|he adv|sometimes v|have&3S det:art|a adj|little n|van
+	coord|and adv|sometimes pro:sub|he~aux|be&3S part|get&PASTP
+	det:art|a (1)adj|great (1)adj|big (1)n|van cm|cm aux|have&3S~neg|not
+	pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <ruth32b.cha>
+
+    Strings matched 0 times
+
+From file <ruth33a.cha>
+----------------------------------------
+*** File "ruth33a.cha": line 3328.
+*MOT:	I think that would be the best place for a little brown bear .
+%mor:	pro:sub|I v|think pro:dem|that mod|will&COND cop|be det:art|the
+	adj|good&SP n|place prep|for det:art|a (1)adj|little (1)adj|brown (1)n|bear .
+
+    Strings matched 1 times
+
+From file <ruth33b.cha>
+----------------------------------------
+*** File "ruth33b.cha": line 282.
+*MOT:	in a big big nest , wasn't she ?
+%mor:	prep|in det:art|a (1)adj|big (1)adj|big (1)n|nest cm|cm
+	cop|be&PAST&13S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "ruth33b.cha": line 502.
+*MOT:	and you went for a big big long walk , didn't you ?
+%mor:	coord|and pro:per|you v|go&PAST prep|for det:art|a adj|big (1)adj|big
+	(1)adj|long (1)n|walk cm|cm mod|do&PAST~neg|not pro:per|you ?
+----------------------------------------
+*** File "ruth33b.cha": line 555.
+*MOT:	did the big bad teddy+bear get you ?
+%mor:	v|do&PAST det:art|the (1)adj|big (1)adj|bad (1)n|+n|teddy+n|bear aux|get
+	pro:per|you ?
+----------------------------------------
+*** File "ruth33b.cha": line 903.
+*MOT:	because <he's got dark> [//] he's white and he's got big dark eyes
+	.
+%mor:	conj|because pro:sub|he~aux|be&3S n|white coord|and
+	pro:sub|he~aux|be&3S v|get&PAST (1)adj|big (1)adj|dark (1)n|eye-PL .
+
+    Strings matched 4 times
+
+From file <ruth34a.cha>
+----------------------------------------
+*** File "ruth34a.cha": line 107.
+*MOT:	you little naughty <rascal rascal> [/] rascal .
+%mor:	pro:per|you (1)adj|little (1)adj|naughty (1)n|rascal .
+----------------------------------------
+*** File "ruth34a.cha": line 2576.
+*MOT:	oh they're fantastic big muscles .
+%mor:	co|oh pro:sub|they~aux|be&PRES (1)adj|fantastic (1)adj|big (1)n|muscle-PL .
+----------------------------------------
+*** File "ruth34a.cha": line 3171.
+*MOT:	lucky old Anna hey .
+%mor:	(1)adj|luck&dn-Y (1)adj|old (1)n:prop|Anna co|hey .
+
+    Strings matched 3 times
+
+From file <ruth34b.cha>
+----------------------------------------
+*** File "ruth34b.cha": line 303.
+*MOT:	is she a hungry little girl ?
+%mor:	cop|be&3S pro:sub|she det:art|a (1)adj|hungry (1)adj|little (1)n|girl ?
+----------------------------------------
+*** File "ruth34b.cha": line 1084.
+*MOT:	oh that's for you and there's a little little tomato for the baby .
+%mor:	co|oh pro:dem|that~cop|be&3S conj|for pro:per|you coord|and
+	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|little (1)n|tomato
+	prep|for det:art|the n|baby .
+
+    Strings matched 2 times
+

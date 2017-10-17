@@ -1,0 +1,941 @@
+combo +t%mor +t*CHI +t*FCH +t*MCH +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:03:17 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *FCH; *MCH;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/anc.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha": line 5361.
+*MCH:	this is a big big box , this is a garbage box .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|box cm|cm
+	pro:dem|this cop|be&3S det:art|a n|garbage n|box .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha": line 8472.
+*CHI:	because I'm gonna make [//] there there was a big big tall giant
+	xxx +...
+%mor:	conj|because pro:sub|I~aux|be&1S part|go-PRESP~inf|to adv|there
+	adv|there cop|be&PAST&13S det:art|a adj|big (1)adj|big (1)adj|tall (1)n|giant
+	+...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha": line 12675.
+*CHI:	xxx (.) why you [//] no call me (.) little &+bluh little wock
+	[: rock] head (.) .
+%mor:	adv:int|why co|no n|call pro:obj|me (1)adj|little (1)adj|little (1)n|rock
+	n|head .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha": line 14508.
+*CHI:	we're gonna have a funky good time (.) .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|have det:art|a
+	(1)adj|funk&dn-Y (1)adj|good (1)n|time .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/bom.cha": line 16573.
+*CHI:	yeah , you a nice little wock [: rock] head .
+%mor:	co|yeah cm|cm pro:per|you det:art|a (1)adj|nice (1)adj|little (1)n|rock
+	n|head .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/brd.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/brd.cha": line 3897.
+*CHI:	an(d) he was a big giant monster he was fighting (.) .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S det:art|a (1)adj|big (1)adj|giant
+	(1)n|monster pro:sub|he aux|be&PAST&13S part|fight-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/brd.cha": line 27822.
+*CHI:	yeah , but you need a li(tt)le li(tt)le li(tt)le li(tt)le li(tt)le
+	li(tt)le li(tt)le li(tt)le frame .
+%mor:	co|yeah cm|cm conj|but pro:per|you v|need det:art|a adj|little
+	adj|little adj|little adj|little adj|little adj|little (1)adj|little
+	(1)adj|little (1)n|frame .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/chj.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/chj.cha": line 9476.
+*CHI:	it's a bright sunny day out !
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|bright (1)adj|sun&dn-Y (1)n|day
+	adv|out !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/chj.cha": line 13873.
+*CHI:	my mom [//] my my grandma has a little back yard .
+%mor:	det:poss|my co|my det:poss|my grand#n|ma v|have&3S det:art|a
+	(1)adj|little (1)adj|back (1)n|yard .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 2865.
+*CHI:	they're standing under the , the great big statue !
+%mor:	pro:sub|they~aux|be&PRES part|stand-PRESP prep|under det:art|the
+	cm|cm det:art|the (1)adj|great (1)adj|big (1)n|statue !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 4188.
+*CHI:	because a great big tape is in there .
+%mor:	conj|because det:art|a (1)adj|great (1)adj|big (1)n|tape cop|be&3S prep|in
+	adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 4956.
+*MCH:	yummy yummy crackers for Jackie's juice .
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|cracker-PL prep|for
+	n:prop|Jackie~poss|s n|juice .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 10931.
+*CHI:	here there are two big [!] strong [!] strong things .
+%mor:	adv|here adv|there cop|be&PRES det:num|two adj|big (1)adj|strong
+	(1)adj|strong (1)n|thing-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 14167.
+*CHI:	you go in there an(d) whenever you see the red light flash on those
+	things that means I'm talkin(g) .
+%mor:	pro:per|you v|go prep|in adv|there coord|and adv:int|whenever
+	pro:per|you v|see det:art|the (1)adj|red (1)adj|light (1)n|flash prep|on
+	pro:dem|those n|thing-PL pro:rel|that v|mean-3S pro:sub|I~aux|be&1S
+	part|talk-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 16007.
+*CHI:	a baby could do that I I know hot cross sponge .
+%mor:	det:art|a n|baby mod|could v|do det:dem|that pro:sub|I pro:sub|I
+	v|know (1)adj|hot (1)adj|cross (1)n|sponge .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ded.cha": line 18495.
+*CHI:	Dave you said you wanted a little orange drink .
+%mor:	n:prop|Dave pro:per|you v|say&PAST pro:per|you v|want-PAST
+	det:art|a (1)adj|little (1)adj|orange (1)n|drink .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/jaf.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/jaf.cha": line 3736.
+*CHI:	green light green light ?
+%mor:	adj|green (1)adj|light (1)adj|green (1)n|light ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/jaf.cha": line 13301.
+*CHI:	light light light light light light .
+%mor:	adj|light adj|light adj|light (1)adj|light (1)adj|light (1)n|light .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 8360.
+*FCH:	it's a big ugly face .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|ugly (1)n|face .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10287.
+*CHI:	because he has a big strong name an it's +...
+%mor:	conj|because pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|strong
+	(1)n|name det:art|a pro:per|it~aux|be&3S +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10296.
+*CHI:	he &-um his name is his name is his name is (.) big [!] tough [!]
+	Eddie [!] (.) .
+%mor:	pro:sub|he det:poss|his n|name cop|be&3S det:poss|his n|name
+	cop|be&3S det:poss|his n|name cop|be&3S (1)adj|big (1)adj|tough
+	(1)n:prop|Eddie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10347.
+*CHI:	I'm all finished with you I'm all finished with you big tough Eddie
+	(.) look at (.) mom .
+%mor:	pro:sub|I~cop|be&1S adv|all part|finish-PASTP prep|with pro:per|you
+	pro:sub|I~cop|be&1S adv|all part|finish-PASTP prep|with pro:per|you
+	(1)adj|big (1)adj|tough (1)n:prop|Eddie cop|look prep|at n|mom .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10364.
+*FCH:	big tough &+elee his name is big tough ellie .
+%mor:	adj|big adj|tough det:poss|his n|name cop|be&3S (1)adj|big (1)adj|tough
+	(1)n|ell-DIM .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10369.
+*CHI:	not his name is big tough ellie , big tough Eddie .
+%mor:	neg|not det:poss|his n|name cop|be&3S (1)adj|big (1)adj|tough (1)n|ell-DIM
+	cm|cm (2)adj|big (2)adj|tough (2)n:prop|Eddie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10470.
+*CHI:	an(d) an(d) big tough Eddie's gonna kill her .
+%mor:	coord|and coord|and (1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s
+	part|go-PRESP~inf|to v|kill pro:obj|her .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10480.
+*CHI:	an(d) guess where &+sh guess what guess what big tough Eddie's gonna
+	do (.) ?
+%mor:	coord|and n|guess pro:rel|where n|guess pro:int|what v|guess
+	pro:int|what (1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s
+	part|go-PRESP~inf|to v|do ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10488.
+*CHI:	&+ae big tough Eddie's gonna beat her up .
+%mor:	(1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s part|go-PRESP~inf|to n|beat
+	det:poss|her adv|up .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 10543.
+*CHI:	this is this is this is &-um &+tsk big tough big tough Eddie .
+%mor:	pro:dem|this cop|be&3S pro:dem|this cop|be&3S pro:dem|this
+	cop|be&3S adj|big adj|tough (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 11007.
+*CHI:	&=laugh you know what when big tough Eddie [//] when she gets when
+	she touches big tough Eddie he'll open his mouth an(d) bite her
+	an(d) go then she'll go &+ae:aen &=laugh .
+%mor:	pro:per|you v|know pro:int|what adv:int|when adj|big adj|tough
+	conj|when pro:sub|she v|get-3S conj|when pro:sub|she v|touch-3S
+	(1)adj|big (1)adj|tough (1)n:prop|Eddie pro:sub|he~mod|will v|open
+	det:poss|his n|mouth coord|and v|bite pro:obj|her coord|and v|go
+	adv:tem|then pro:sub|she~mod|will v|go .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 12031.
+*MCH:	can xxx the other cups an(d) they have_to be the exact same size ?
+%mor:	mod|can det:art|the qn|other n|cup-PL coord|and pro:sub|they
+	mod:aux|have_to cop|be det:art|the (1)adj|exact (1)adj|same (1)n|size ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 21839.
+*CHI:	do you a [//] do you have same in [: same thing] on your [//] do
+	you have a mark on your towel like that (.) .
+%mor:	mod|do pro:per|you v|do pro:per|you v|have (1)adj|same (1)adj|same
+	(1)n|thing adv|on v|do pro:per|you v|have det:art|a n|mark prep|on
+	det:poss|your n|towel prep|like pro:dem|that .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 24008.
+*CHI:	you mean (.) &-um (.) big tough Eddie is bigger (a)n(d) god (.) ?
+%mor:	pro:per|you adj|mean (1)adj|big (1)adj|tough (1)n:prop|Eddie aux|be&3S
+	adj|big-CP coord|and n|god ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 24018.
+*CHI:	well god [//] well he [//] well , big tough Eddie is up to the sky
+	too .
+%mor:	co|well n|well n|well cm|cm (1)adj|big (1)adj|tough (1)n:prop|Eddie
+	aux|be&3S adv|up prep|to det:art|the n|sky post|too .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 24122.
+*CHI:	but this is [//] but that [//] but big tough Eddie is this big .
+%mor:	conj|but pro:dem|this conj|but conj|but (1)adj|big (1)adj|tough
+	(1)n:prop|Eddie cop|be&3S pro:dem|this adj|big .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 24187.
+*CHI:	here comes big tough Eddie .
+%mor:	adv|here v|come-3S (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 24197.
+*CHI:	an:d he's the finest (.) man (.) whoop (.) big tough Eddie (.) .
+%mor:	coord|and pro:sub|he~aux|be&3S det:art|the adj|fine-SP n|man
+	n|whoop (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/kif.cha": line 27639.
+*CHI:	good ol(d) go [//] good ol(d) good O'reilly (.) .
+%mor:	adj|good adj|old adj|good (1)adj|old (1)adj|good (1)n:prop|O'reilly .
+
+    Strings matched 20 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 2259.
+*CHI:	a little tiny [!] bit (.) .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 7486.
+*FCH:	wanna see a little eensie piece of popcorn ?
+%mor:	v|want~inf|to v|see det:art|a (1)adj|little (1)adj|eensie (1)n|piece prep|of
+	n|+n|pop+n|corn ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 12070.
+*CHI:	look at this little cute block .
+%mor:	cop|look prep|at pro:dem|this (1)adj|little (1)adj|cute (1)n|block .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 14452.
+*CHI:	Purina knows xxx [//] Purina knows cat loves an(d) it come in a
+	little blue can &+weeuht (.) Purina knows what a cat loves best and
+	it comes in a little blue can .
+%mor:	n:prop|Purina v|know-3S n:prop|Purina v|know-3S n|cat n|love-PL
+	coord|and pro:per|it v|come adv|in det:art|a (1)adj|little (1)adj|blue
+	(1)n|can n:prop|Purina v|know-3S pro:int|what det:art|a n|cat v|love-3S
+	v|best coord|and pro:per|it v|come-3S prep|in det:art|a adj|little
+	adj|blue mod|can .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 14501.
+*CHI:	Purina knows xxx an(d) it comes in a little blue cat (.) .
+%mor:	n:prop|Purina v|know-3S coord|and pro:per|it v|come-3S prep|in
+	det:art|a (1)adj|little (1)adj|blue (1)n|cat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 14510.
+*CHI:	&-uh &+huh &=laugh Purina knows the can I love an(d) it comes in a
+	little blue tin .
+%mor:	n:prop|Purina v|know-3S det:art|the n|can pro:sub|I v|love
+	coord|and pro:per|it v|come-3S prep|in det:art|a (1)adj|little (1)adj|blue
+	(1)n|tin .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 16894.
+*CHI:	&+tah:h &+I here: i(s) &+kert (o)kay (o)kay &+Carl (.) &+lei &+lei &+lei
+	Leiah: , &-er: &-er: ah: &+hah: (.) .
+%mor:	adv|here cop|be&3S (1)adj|okay (1)adj|okay (1)n:prop|Leiah cm|cm co|ah .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/mim.cha": line 30537.
+*CHI:	let's see &-uh [//] an(d) then I'll have a kite with jus(t) plain
+	silk , and then a piece of birthday cake an(d) an(d) a (.) +...
+%mor:	v|let~pro:obj|us v|see coord|and adv:tem|then pro:sub|I~mod|will
+	v|have det:art|a n|kite prep|with (1)adj|just (1)adj|plain (1)n|silk cm|cm
+	coord|and adv:tem|then det:art|a n|piece prep|of n|+n|birth+n|day
+	n|cake coord|and coord|and det:art|a +...
+
+    Strings matched 8 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ref.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ref.cha": line 2167.
+*MCH:	I always give my father a little tiny black xxx rabbit xxx .
+%mor:	pro:sub|I adv|always v|give det:poss|my n|father det:art|a
+	adj|little (1)adj|tiny (1)adj|black (1)n|rabbit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ref.cha": line 2919.
+*FCH:	yellow green tellow [: yellow] and green .
+%mor:	(1)adj|yellow (1)adj|green (1)n|yellow coord|and n|green .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/ref.cha": line 15775.
+*CHI:	just a widdle [: little] widdle [: little] watah [: water] for me
+	[!] .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|little (1)n|water prep|for
+	pro:obj|me .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 14057.
+*FCH:	where's the big fat cow ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|big (1)adj|fat (1)n|cow ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 16955.
+*CHI:	I used to be five last &+y [//] a long long time ago I was five (.)
+	.
+%mor:	pro:sub|I v|use-PAST inf|to cop|be det:num|five adv|last det:art|a
+	(1)adj|long (1)adj|long (1)n|time adv|ago pro:sub|I cop|be&PAST&13S
+	det:num|five .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 18739.
+*CHI:	good (.) good thing I , I hurried up quick .
+%mor:	(1)adj|good (1)adj|good (1)n|thing pro:sub|I cm|cm pro:sub|I v|hurry-PAST
+	adv|up adv|quick .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 19037.
+*CHI:	Seven_up soder [: soda] has little tiny p@l-s in there .
+%mor:	n:prop|Seven_up n|soda aux|have&3S (1)adj|little (1)adj|tiny (1)n:let|p-PL
+	adv|in adv|there .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 24895.
+*CHI:	god had a son a long long time [!] ago .
+%mor:	co|god v|have&PAST det:art|a n|son det:art|a (1)adj|long (1)adj|long
+	(1)n|time adv|ago .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/trh.cha": line 24900.
+*CHI:	and his son died because the soldiers a long long time ago didn't
+	like [!] Jesus .
+%mor:	coord|and det:poss|his n|son v|die-PAST conj|because det:art|the
+	n|soldier-PL det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago
+	mod|do&PAST~neg|not v|like n:prop|Jesus .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/voh.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackPro/voh.cha": line 2943.
+*CHI:	I'm a [: going to] [*] get my first green stripe (.) .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|get det:poss|my
+	(1)adj|first (1)adj|green (1)n|stripe .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/anl.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/anl.cha": line 5734.
+*CHI:	a bes(t) bes(t) frien(d) went an(d) told me that it was my [!] best
+	frien(d) &+flah &+flah &+flah &+flah (.) &+in &+huhz it was m:y bes(t) (.)
+	+...
+%mor:	det:art|a (1)adj|good&SP (1)adj|good&SP (1)n|friend v|go&PAST coord|and
+	v|tell&PAST pro:obj|me pro:rel|that pro:per|it cop|be&PAST&13S
+	det:poss|my adj|good&SP n|friend pro:per|it cop|be&PAST&13S
+	det:poss|my adj|good&SP +...
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/deg.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/deg.cha": line 5293.
+*MCH:	Rolan(d) you might knock your truck your truck into xxx you can't
+	play with a big ol(d) truck (.) .
+%mor:	n:prop|Roland pro:per|you mod|might v|knock det:poss|your n|truck
+	det:poss|your n|truck prep|into pro:per|you mod|can~neg|not v|play
+	prep|with det:art|a (1)adj|big (1)adj|old (1)n|truck .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kig.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kig.cha": line 2608.
+*FCH:	oh poor little baby !
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|baby !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kig.cha": line 22334.
+*CHI:	a man [!] was eating an(d) duh [: the] lady said &+buht [!] &+wuht
+	[!] then they said outside delicious yum crunchy , inside delight
+	&+chee:in crunch , that's why it taste so light y [: you] wanna
+	[: want to] eat two .
+%mor:	det:art|a n|man aux|be&PAST&13S part|eat-PRESP coord|and
+	det:art|the n|lady v|say&PAST adv:tem|then pro:sub|they v|say&PAST
+	(1)adj|outside (1)adj|delicious (1)n|yum adj|crunch&dv-Y cm|cm adj|inside
+	n|delight n|crunch cm|cm pro:dem|that~cop|be&3S adv:int|why
+	pro:per|it n|taste adv|so adj|light pro:per|you v|want inf|to v|eat
+	det:num|two .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha": line 1849.
+*CHI:	so who wants dat [: that] ol(d) du:mb [!] thing ?
+%mor:	adv|so pro:rel|who v|want-3S pro:rel|that (1)adj|old (1)adj|dumb (1)n|thing
+	?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha": line 4433.
+*CHI:	an(d) the big bad wolf is comin(g) .
+%mor:	coord|and det:art|the (1)adj|big (1)adj|bad (1)n|wolf aux|be&3S
+	part|come-PRESP .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha": line 7967.
+*MCH:	a grey grey dog .
+%mor:	det:art|a (1)adj|grey (1)adj|grey (1)n|dog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha": line 7971.
+*MCH:	a grey grey dog +...
+%mor:	det:art|a (1)adj|grey (1)adj|grey (1)n|dog +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/kmf.cha": line 8845.
+*CHI:	I am first bwaek [: black] wumn [: woman] to be appoint(ed) to yuh
+	[: the] federal judgeship .
+%mor:	pro:sub|I aux|be&1S (1)adj|first (1)adj|black (1)n|woman inf|to aux|be
+	part|appoint-PASTP prep|to det:art|the adj|federal n|judgeship .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/lef.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/lef.cha": line 7219.
+*CHI:	he a nice sweet guy .
+%mor:	pro:sub|he det:art|a (1)adj|nice (1)adj|sweet (1)n|guy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/lef.cha": line 9633.
+*CHI:	you big head bum (.) .
+%mor:	pro:per|you (1)adj|big (1)adj|head (1)n|bum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/lef.cha": line 11878.
+*CHI:	well she was dead right mom ?
+%mor:	co|well pro:sub|she cop|be&PAST&13S (1)adj|dead (1)adj|right (1)n|mom ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/lef.cha": line 13902.
+*CHI:	and she a wicked old witch (.) .
+%mor:	coord|and pro:sub|she det:art|a (1)adj|wicked (1)adj|old (1)n|witch .
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/mis.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/pag.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/pag.cha": line 4167.
+*CHI:	Kimberly got a big ol(d) chair .
+%mor:	n:prop|Kimberly v|get&PAST det:art|a (1)adj|big (1)adj|old (1)n|chair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/pag.cha": line 5069.
+*MCH:	pat you put this big ol(d) thing battery in there ?
+%mor:	v|pat pro:per|you v|put&ZERO pro:dem|this (1)adj|big (1)adj|old (1)n|thing
+	n|battery prep|in adv|there ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha": line 5469.
+*MCH:	big fat muscles .
+%mor:	(1)adj|big (1)adj|fat (1)n|muscle-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha": line 9249.
+*MCH:	I think that's a good little tape recorder .
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S det:art|a (1)adj|good
+	(1)adj|little (1)n|tape n|record&dv-AGT .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha": line 17362.
+*CHI:	look how big ole water .
+%mor:	co|look adv:int|how (1)adj|big (1)adj|ole (1)n|water .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha": line 17697.
+*CHI:	I'm a [: going to] [*] make a big ol(d) circle .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|make det:art|a (1)adj|big
+	(1)adj|old (1)n|circle .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/rog.cha": line 18579.
+*CHI:	Didi got one a big ol(d) fat motorcycle &=laugh .
+%mor:	n:prop|Didi v|get&PAST pro:indef|one det:art|a adj|big (1)adj|old
+	(1)adj|fat (1)n|motorcycle .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/roj.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/roj.cha": line 3133.
+*MCH:	look at my bad little car (.) .
+%mor:	cop|look prep|at det:poss|my (1)adj|bad (1)adj|little (1)n|car .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/trc.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/trc.cha": line 6050.
+*MCH:	dat [: that] little tiny thing .
+%mor:	pro:dem|that (1)adj|little (1)adj|tiny (1)n|thing .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/trc.cha": line 6397.
+*CHI:	bum bum bum bum bum bum bum bum bum bum bum bu:m bu:m .
+%mor:	adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum adj|bum
+	adj|bum adj|bum (1)adj|bum (1)adj|bum (1)n|bum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/BlackWork/trc.cha": line 10610.
+*CHI:	you got a big fat butt .
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|big (1)adj|fat (1)n|butt .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/gas.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/gas.cha": line 2754.
+*CHI:	&+likee , &+cheeken in duh [: the] little teenee [: teeny] c:ar .
+%mor:	cm|cm prep|in det:art|the (1)adj|little (1)adj|teeny (1)n|car .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/gas.cha": line 11648.
+*FCH:	now it's hander for me to (be)cause people took the old skinny pie
+	away from me !
+%mor:	adv|now pro:per|it~cop|be&3S n|hand&dv-AGT prep|for pro:obj|me
+	prep|to conj|because n|person&PL v|take&PAST det:art|the (1)adj|old
+	(1)adj|skin&dn-Y (1)n|pie adv|away prep|from pro:obj|me !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/gas.cha": line 22857.
+*CHI:	on what fun it is to ride , in duh [: the] one horse open open
+	sleigh , hey !
+%mor:	prep|on pro:int|what n|fun pro:per|it cop|be&3S inf|to n|ride cm|cm
+	prep|in det:art|the pro:indef|one n|horse (1)adj|open (1)adj|open (1)n|sleigh
+	cm|cm co|hey !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/gas.cha": line 23323.
+*CHI:	like I: been workin(g) on duh [: the] ra:ilroad , listen , first ,
+	a:ll duh [: the] live song [: long] day , &+stk , I: been workin(g)
+	on duh [: the] ra:ilroa(d) just to pass duh [: the] time away ,
+	can't you hear the whistle blo:wing , rise up so early in duh
+	[: the] mo:rnin(g) can't you hear the captain shou:tin(g) Dinah blow
+	your horn , hoohoo@o !
+%mor:	conj|like pro:sub|I aux|be&PASTP part|work-PRESP prep|on
+	det:art|the n|railroad cm|cm v|listen cm|cm adv|first cm|cm qn|all
+	det:art|the (1)adj|live (1)adj|long (1)n|day cm|cm cm|cm pro:sub|I
+	aux|be&PASTP part|work-PRESP prep|on det:art|the n|railroad adv|just
+	prep|to n|pass det:art|the n|time adv|away cm|cm mod|can~neg|not
+	pro:per|you v|hear det:art|the n|whistle part|blow-PRESP cm|cm
+	v|rise adv|up adv|so adv|early prep|in det:art|the n|morning
+	mod|can~neg|not pro:per|you v|hear det:art|the n|captain
+	part|shout-PRESP n:prop|Dinah n|blow det:poss|your n|horn cm|cm
+	on|hoohoo !
+
+    Strings matched 4 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/grc.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/job.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha": line 4090.
+*CHI:	&+ee:ee hi hi you're a funny comic book .
+%mor:	co|hi co|hi pro:per|you~aux|be&PRES det:art|a (1)adj|fun&dn-Y
+	(1)adj|comic (1)n|book .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha": line 5088.
+*FCH:	I don't want to sit there that's a little smaller chair , look .
+%mor:	pro:sub|I mod|do~neg|not v|want inf|to v|sit adv|there
+	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|small-CP (1)n|chair
+	cm|cm co|look .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha": line 8344.
+*FCH:	you big loud mouth !
+%mor:	pro:per|you (1)adj|big (1)adj|loud (1)n|mouth !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha": line 16789.
+*CHI:	a little tiny oven !
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|oven !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/jub.cha": line 21955.
+*CHI:	the live long da:y , hey .
+%mor:	det:art|the (1)adj|live (1)adj|long (1)n|day cm|cm co|hey .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/lea.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/maa.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/maa.cha": line 4896.
+*CHI:	slippy happy Gerome .
+%mor:	(1)adj|slip&dv-Y (1)adj|happy (1)n:prop|Gerome .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/maa.cha": line 5695.
+*MCH:	I've been working on the railroad , all the live long day .
+%mor:	pro:sub|I~aux|have aux|be&PASTP part|work-PRESP prep|on det:art|the
+	n|railroad cm|cm qn|all det:art|the (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/maa.cha": line 7078.
+*MCH:	that's a great big giant rabbit !
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|great (1)adj|big (1)adj|giant
+	(1)n|rabbit !
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 1296.
+*CHI:	cause I've been working on the xxx all my live long day .
+%mor:	v|cause pro:sub|I~aux|have aux|be&PASTP part|work-PRESP prep|on
+	det:art|the qn|all det:poss|my (1)adj|live (1)adj|long (1)n|day .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 4548.
+*CHI:	big bad Tony .
+%mor:	(1)adj|big (1)adj|bad (1)n:prop|Tony .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 5171.
+*MCH:	now don't you dare go there or I'll really be mad xxx funny hats .
+%mor:	adv|now mod|do~neg|not pro:per|you v|dare v|go adv|there coord|or
+	pro:sub|I~mod|will adv|real&dadj-LY cop|be (1)adj|mad (1)adj|fun&dn-Y
+	(1)n|hat-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 6094.
+*MCH:	I am the big long Spider_man &+tsh Spider_man !
+%mor:	pro:sub|I aux|be&1S det:art|the (1)adj|big (1)adj|long (1)n:prop|Spider_man
+	n:prop|Spider_man !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 15384.
+*CHI:	the lobster was awive [: alive] last year +...
+%mor:	det:art|the n|lobster cop|be&PAST&13S (1)adj|alive (1)adj|last (1)n|year
+	+...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/rob.cha": line 16451.
+*CHI:	xxx &+tch &+tch &+tch hey I have my own wild song .
+%mor:	co|hey pro:sub|I v|have det:poss|my (1)adj|own (1)adj|wild (1)n|song .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/toh.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/toh.cha": line 5125.
+*CHI:	the super super guys .
+%mor:	det:art|the (1)adj|super (1)adj|super (1)n|guy-PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/tos.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/tos.cha": line 3891.
+*CHI:	look at this dumb dumb shirt .
+%mor:	cop|look prep|at pro:dem|this (1)adj|dumb (1)adj|dumb (1)n|shirt .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/tos.cha": line 7450.
+*MCH:	just a little teeny piece a [: of] hair .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|teeny (1)n|piece prep|of n|hair .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/tos.cha": line 17737.
+*CHI:	no (.) no , the same old way , no , all the way (.) now it's never
+	got &=laugh +...
+%mor:	co|no co|no cm|cm det:art|the (1)adj|same (1)adj|old (1)n|way cm|cm qn|no
+	cm|cm qn|all det:art|the n|way adv|now pro:per|it~cop|be&3S
+	adv|never v|get&PAST +...
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 52.
+*CHI:	nice little room , spacey@wp poo@wp .
+%mor:	(1)adj|nice (1)adj|little (1)n|room cm|cm wplay|spacey wplay|poo .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 657.
+*CHI:	why were you late last night ?
+%mor:	adv:int|why cop|be&PAST pro:per|you (1)adj|late (1)adj|last (1)n|night ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 3175.
+*CHI:	on the new pink panther sho:w (.) !
+%mor:	prep|on det:art|the (1)adj|new (1)adj|pink (1)n|panther n|show !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 3230.
+*CHI:	we are the new pink panther sho:w !
+%mor:	pro:sub|we cop|be&PRES det:art|the (1)adj|new (1)adj|pink (1)n|panther
+	n|show !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 7411.
+*CHI:	yeah , into little bitty pieces .
+%mor:	co|yeah cm|cm prep|into (1)adj|little (1)adj|bit&dn-Y (1)n|piece-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 11574.
+*CHI:	there he is , hi you cute little gerbil (.) I gave him too much
+	food .
+%mor:	adv|there pro:sub|he aux|be&3S cm|cm co|hi pro:per|you (1)adj|cute
+	(1)adj|little (1)n|gerbil pro:sub|I v|give&PAST pro:obj|him adv|too
+	qn|much n|food .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 12061.
+*CHI:	good little doggie xxx hey , come here .
+%mor:	(1)adj|good (1)adj|little (1)n|dog-DIM co|hey cm|cm v|come adv|here .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 13020.
+*CHI:	Kate's a a real good guy .
+%mor:	n:prop|Kate~poss|s det:art|a det:art|a (1)adj|real (1)adj|good (1)n|guy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 13023.
+*CHI:	Kate's a real good guy girl .
+%mor:	n:prop|Kate~poss|s det:art|a (1)adj|real (1)adj|good (1)n|guy n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 13026.
+*CHI:	Kate's a real good girl .
+%mor:	n:prop|Kate~poss|s det:art|a (1)adj|real (1)adj|good (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhitePro/zoe.cha": line 14509.
+*CHI:	beddie bye , nice little pillow (.) .
+%mor:	n|bed-DIM co|bye cm|cm (1)adj|nice (1)adj|little (1)n|pillow .
+
+    Strings matched 11 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha": line 15037.
+*FCH:	ah , a big french fries .
+%mor:	co|ah cm|cm det:art|a (1)adj|big (1)adj|french (1)n|fry-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha": line 17671.
+*CHI:	dere's [: there's] a black man , and dere's [: there's] a black
+	chinese lady , and dere's [: there's] a xxx a fuck you (.) .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|black n|man cm|cm coord|and
+	pro:exist|there~cop|be&3S det:art|a (1)adj|black (1)adj|chinese (1)n|lady
+	cm|cm coord|and pro:exist|there~cop|be&3S det:art|a det:art|a v|fuck
+	pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha": line 22338.
+*CHI:	Abraham Lincoln was a good old man , he jumped out the window +...
+%mor:	n:prop|Abraham n:prop|Lincoln cop|be&PAST&13S det:art|a (1)adj|good
+	(1)adj|old (1)n|man cm|cm pro:sub|he v|jump-PAST prep|out det:art|the
+	n|window +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha": line 22349.
+*CHI:	Abraham Lincoln was a good old man , he jumped out the window and
+	xxx was was a bad old man .
+%mor:	n:prop|Abraham n:prop|Lincoln cop|be&PAST&13S det:art|a (1)adj|good
+	(1)adj|old (1)n|man cm|cm pro:sub|he v|jump-PAST prep|out det:art|the
+	n|window coord|and aux|be&PAST&13S cop|be&PAST&13S det:art|a (2)adj|bad
+	(2)adj|old (2)n|man .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/boo.cha": line 30067.
+*CHI:	&+ha , his Ma , he's got a real live chicken and it flew out_of da
+	[: the] pot .
+%mor:	cm|cm det:poss|his n:prop|Ma cm|cm pro:sub|he~aux|be&3S
+	part|get&PASTP det:art|a (1)adj|real (1)adj|live (1)n|chicken coord|and
+	pro:per|it v|fly&PAST prep|out_of det:art|the n|pot .
+
+    Strings matched 6 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/dal.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/dal.cha": line 6948.
+*CHI:	and a brand new boat [!] .
+%mor:	coord|and det:art|a (1)adj|brand (1)adj|new (1)n|boat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/dal.cha": line 6954.
+*CHI:	here's a bra:nd new boat !
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|brand (1)adj|new (1)n|boat !
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 7225.
+*MCH:	Elizabeth I got a big [!] easter basket .
+%mor:	n:prop|Elizabeth pro:sub|I v|get&PAST det:art|a (1)adj|big (1)adj|east-CP
+	(1)n|basket .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 12639.
+*MCH:	hey a small pig and a great big pig .
+%mor:	co|hey det:art|a adj|small n|pig coord|and det:art|a (1)adj|great
+	(1)adj|big (1)n|pig .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 21699.
+*CHI:	now der [: there] should be a li:on , &+oo big [!] big cage .
+%mor:	adv|now adv|there mod|should cop|be det:art|a n|lion cm|cm (1)adj|big
+	(1)adj|big (1)n|cage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 21844.
+*CHI:	little ti:ny (.) ca:ge (.) .
+%mor:	(1)adj|little (1)adj|tiny (1)n|cage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 21850.
+*CHI:	and a little little cage .
+%mor:	coord|and det:art|a (1)adj|little (1)adj|little (1)n|cage .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 22423.
+*CHI:	not little red caboose , little red caboose +...
+%mor:	neg|not (1)adj|little (1)adj|red (1)n|caboose cm|cm (2)adj|little (2)adj|red
+	(2)n|caboose +...
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 22432.
+*CHI:	+, little re [: red] caboose behind the train .
+%mor:	(1)adj|little (1)adj|red (1)n|caboose n|behind det:art|the n|train .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kag.cha": line 22438.
+*CHI:	little red caboose , little red caboose , little red caboose behind
+	duh [: the] tra:in , smoke goes down his back rolling down the track
+	, little red caboose behind duh [: the] train choo [!] choo [!] (.)
+	!
+%mor:	(1)adj|little (1)adj|red (1)n|caboose cm|cm (2)adj|little (2)adj|red (2)n|caboose
+	cm|cm (3)adj|little (3)adj|red (3)n|caboose adv|behind det:art|the n|train
+	cm|cm n|smoke v|go-3S adv|down det:poss|his adj|back part|roll-PRESP
+	adv|down det:art|the n|track cm|cm (4)adj|little (4)adj|red (4)n|caboose
+	adv|behind det:art|the n|train on|choo on|choo !
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kao.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kao.cha": line 4007.
+*FCH:	go tell Aunt Rhodie , the old gray goose is dead .
+%mor:	v|go v|tell n:prop|Aunt n:prop|Rhodie cm|cm det:art|the (1)adj|old
+	(1)adj|gray (1)n|goose cop|be&3S adj|dead .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kao.cha": line 4022.
+*FCH:	the all family is bi:rds , (be)cause [/] (be)cause the old gray
+	goose is dead .
+%mor:	det:art|the qn|all n|family cop|be&3S n|bird-PL cm|cm conj|because
+	det:art|the (1)adj|old (1)adj|gray (1)n|goose cop|be&3S adj|dead .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/kao.cha": line 12490.
+*CHI:	this this is not a good western hat .
+%mor:	pro:dem|this pro:dem|this cop|be&3S neg|not det:art|a (1)adj|good
+	(1)adj|western (1)n|hat .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/mig.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/mig.cha": line 1676.
+*CHI:	I had that [//] we have dat [: that] for a long long time .
+%mor:	pro:sub|I v|have&PAST pro:sub|we v|have pro:dem|that prep|for
+	det:art|a (1)adj|long (1)adj|long (1)n|time .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/mig.cha": line 13112.
+*CHI:	don't Joe or we'll stay here for a long long time .
+%mor:	mod|do~neg|not n:prop|Joe coord|or pro:sub|we~mod|will n|stay
+	adv|here prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/mig.cha": line 23495.
+*CHI:	oh yeah but when for a long long time I was really scared when you
+	and +...
+%mor:	co|oh co|yeah conj|but conj|when prep|for det:art|a (1)adj|long
+	(1)adj|long (1)n|time pro:sub|I cop|be&PAST&13S adv|real&dadj-LY
+	v|scare-PAST conj|when pro:per|you coord|and +...
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sat.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sat.cha": line 11600.
+*CHI:	dark green and light green (.) light blue and dark blue .
+%mor:	adj|dark n|green coord|and n|light (1)adj|green (1)adj|light (1)n|blue
+	coord|and adj|dark n|blue .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sat.cha": line 11782.
+*CHI:	craziest Al , Al , right crazy Al (.) ?
+%mor:	adj|craze&dv-Y-SP n:prop|Al cm|cm n:prop|Al cm|cm (1)adj|right
+	(1)adj|craze&dv-Y (1)n:prop|Al ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sat.cha": line 14471.
+*CHI:	hm: [!] at Connie's house I'd only eat it [//] just a real little
+	bit .
+%mor:	co|hm prep|at n:prop|Connie~poss|s n|house pro:sub|I~mod|genmod
+	adv|only v|eat adv|just det:art|a (1)adj|real (1)adj|little (1)n|bit .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha": line 5232.
+*MCH:	and this is gonna be , and this gonna be a big tallest building !
+%mor:	coord|and pro:dem|this aux|be&3S part|go-PRESP~inf|to cop|be cm|cm
+	coord|and pro:dem|this part|go-PRESP~inf|to cop|be det:art|a (1)adj|big
+	(1)adj|tall-SP (1)n|building !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha": line 5468.
+*MCH:	boy a nice big ducky snadwich [: sandwich] (.) my sandwich can't
+	yatk@c , I have_to take him out 0of the bag .
+%mor:	co|boy det:art|a adj|nice (1)adj|big (1)adj|duck&dn-Y (1)n|sandwich
+	det:poss|my n|sandwich mod|can~neg|not chi|yatk cm|cm pro:sub|I
+	mod:aux|have_to v|take pro:obj|him adv|out 0prep|of det:art|the
+	n|bag .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha": line 8227.
+*CHI:	silly Perri , silly Perri , silly (s)illy [/] (s)illy [/] (s)illy  Berri [: Perri] (.)
+	.
+%mor:	co|silly n:prop|Perri cm|cm adj|silly n:prop|Perri cm|cm (1)adj|silly
+	(1)adj|silly (1)n:prop|Perri .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha": line 11721.
+*MCH:	uhhuh bee [//] a little teeny weeny bit .
+%mor:	co|uhhuh det:art|a adj|little (1)adj|teeny (1)adj|weeny (1)n|bit .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/stl.cha": line 23705.
+*CHI:	why [!] did you make this old dummy [!] suppa [: supper] .
+%mor:	adv:int|why mod|do&PAST pro:per|you v|make pro:dem|this (1)adj|old
+	(1)adj|dummy (1)n|supper .
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha": line 4411.
+*CHI:	special undercover cop (.) .
+%mor:	(1)adj|special (1)adj|undercover (1)n|cop .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha": line 6292.
+*MCH:	just a little bit Peter and a little bit Chico , and a little teeny
+	bit you .
+%mor:	adv|just det:art|a adj|little n|bit n:prop|Peter coord|and
+	det:art|a adj|little n|bit n:prop|Chico cm|cm coord|and det:art|a
+	(1)adj|little (1)adj|teeny (1)n|bit pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha": line 18116.
+*CHI:	she's a chinese clean dirty person .
+%mor:	pro:sub|she~aux|be&3S det:art|a adj|chinese (1)adj|clean (1)adj|dirt&dn-Y
+	(1)n|person .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha": line 18169.
+*CHI:	chinese chinese karate .
+%mor:	(1)adj|chinese (1)adj|chinese (1)n|karate .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Hall/WhiteWork/sut.cha": line 18497.
+*CHI:	special undercover cop xxx under arrest .
+%mor:	(1)adj|special (1)adj|undercover (1)n|cop adv|under n|arrest .
+
+    Strings matched 5 times
+

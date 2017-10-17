@@ -1,0 +1,62 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:08:11 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <frances02.cha>
+
+    Strings matched 0 times
+
+From file <frances03.cha>
+----------------------------------------
+*** File "frances03.cha": line 564.
+*MOT:	old lazy bones +...
+%mor:	(1)adj|old (1)adj|laze&dv-Y (1)n|bone-PL +...
+
+    Strings matched 1 times
+
+From file <frances04.cha>
+
+    Strings matched 0 times
+
+From file <frances05.cha>
+
+    Strings matched 0 times
+
+From file <frances06.cha>
+
+    Strings matched 0 times
+
+From file <frances07.cha>
+----------------------------------------
+*** File "frances07.cha": line 471.
+*MOT:	nice clean coat on the floor .
+%mor:	(1)adj|nice (1)adj|clean (1)n|coat prep|on det:art|the n|floor .
+----------------------------------------
+*** File "frances07.cha": line 474.
+*MOT:	nice clean coat on the floor .
+%mor:	(1)adj|nice (1)adj|clean (1)n|coat prep|on det:art|the n|floor .
+----------------------------------------
+*** File "frances07.cha": line 522.
+*MOT:	nasty old cough isn't it ?
+%mor:	(1)adj|nasty (1)adj|old (1)n|cough cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 3 times
+
+From file <frances08.cha>
+
+    Strings matched 0 times
+
+From file <frances09.cha>
+
+    Strings matched 0 times
+
+From file <frances10.cha>
+
+    Strings matched 0 times
+
+From file <frances21.cha>
+
+    Strings matched 0 times
+

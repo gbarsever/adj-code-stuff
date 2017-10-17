@@ -1,0 +1,124 @@
+combo +t%mor -t*CHI -t*CAR -t*BRU -t*LEN -t*JEM +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:39:40 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *CAR; *BRU; *LEN; *JEM;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 65.
+*INV:	it's a nice quiet drum .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|quiet (1)n|drum .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 1102.
+*INV:	+" next (.) some flying eggs float down from the sky and the curly
+	eared elephants seat themselves on small stools hung beneath .
+%mor:	adv|next pro:indef|some n:gerund|fly-PRESP n|egg-PL n|float
+	adv|down prep|from det:art|the n|sky coord|and det:art|the
+	(1)adj|curl&dv-Y (1)adj|eared (1)n|elephant-PL n|seat pro:refl|themselves
+	prep|on adj|small n|stool-PL v|hang&PAST adv|beneath .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 1455.
+*INV:	+" everyone has gathered in the grandstand to watch the contestants
+	try to unseat each_other so_that they fall out (.) down into the big
+	elastic net .
+%mor:	pro:indef|everyone aux|have&3S v|gather-PAST prep|in det:art|the
+	grand#n|stand inf|to v|watch det:art|the n|contestant-PL v|try
+	prep|to un#v|seat pro:refl|each_other conj|so_that pro:sub|they
+	v|fall adv|out adv|down prep|into det:art|the (1)adj|big (1)adj|elastic
+	(1)n|net .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 1858.
+*INV:	+" when night falls (.) it is parting time (.) but before leaving
+	the soft planet (.) Babar receives a gift (.) an adorable little
+	blue puppy .
+%mor:	conj|when n|night v|fall-3S pro:per|it aux|be&3S part|part-PRESP
+	n|time conj|but prep|before n:gerund|leave-PRESP det:art|the
+	adj|soft n|planet n:prop|Babar v|receive-3S det:art|a n|gift
+	det:art|a (1)adj|adore&dv-ABLE (1)adj|little (1)n|blue n|puppy .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 4410.
+*INV:	+" old King Cole was a merry old soul and a merry old soul was he .
+%mor:	adj|old n:prop|King n:prop|Cole cop|be&PAST&13S det:art|a (1)adj|merry
+	(1)adj|old (1)n|soul coord|and det:art|a (2)adj|merry (2)adj|old (2)n|soul
+	cop|be&PAST&13S pro:sub|he .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem34.cha": line 4864.
+*INV:	+" star light (.) star bright (.) first star I see tonight .
+%mor:	n|star adj|light n|star (1)adj|bright (1)adj|first (1)n|star pro:sub|I v|see
+	adv:tem|tonight .
+
+    Strings matched 7 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem35.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem35.cha": line 1793.
+*INV:	that poor little calf must really have a lotta [: lot of] pain .
+%mor:	pro:dem|that (1)adj|poor (1)adj|little (1)n|calf mod|must adv|real&dadj-LY
+	v|have det:art|a n|lot prep|of n|pain .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha": line 3882.
+*INV:	that's a tiny (.) tiny truck .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|tiny (1)adj|tiny (1)n|truck .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem36.cha": line 3912.
+*INV:	the teeny tiny truck ?
+%mor:	det:art|the (1)adj|teeny (1)adj|tiny (1)n|truck ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem37.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem37.cha": line 3168.
+*INV:	that's a pretty big deal (.) ya know (.) to dump the whole thing
+	out .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|deal
+	pro:per|you v|know inf|to v|dump det:art|the adj|whole n|thing
+	adv|out .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem38.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha": line 799.
+*INV:	make it smoother (.) well (.) you don't have_to (.) just (be)cause
+	you could (.) oh (.) good (.) green paint on the floor .
+%mor:	v|make pro:per|it adj|smooth-CP n|well pro:per|you mod|do~neg|not
+	mod:aux|have_to adv|just conj|because pro:per|you mod|could co|oh
+	(1)adj|good (1)adj|green (1)n|paint prep|on det:art|the n|floor .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha": line 1059.
+*INV:	hm: (.) what a pretty brown color !
+%mor:	co|hm pro:int|what det:art|a (1)adj|pretty (1)adj|brown (1)n|color !
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha": line 2936.
+*INV:	at your home (.) when you were a little tiny baby like Anna .
+%mor:	prep|at det:poss|your n|home conj|when pro:per|you cop|be&PAST
+	det:art|a (1)adj|little (1)adj|tiny (1)n|baby co|like n:prop|Anna .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha": line 3410.
+*INV:	this is a new little house .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|new (1)adj|little (1)n|house .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem39.cha": line 3665.
+*INV:	it's special important work ?
+%mor:	pro:per|it~cop|be&3S (1)adj|special (1)adj|important (1)n|work ?
+
+    Strings matched 5 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem40.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Clark/shem40.cha": line 2537.
+*INV:	that's true (.) long stick things .
+%mor:	pro:dem|that~cop|be&3S (1)adj|true (1)adj|long (1)n|stick n|thing-PL .
+
+    Strings matched 1 times
+

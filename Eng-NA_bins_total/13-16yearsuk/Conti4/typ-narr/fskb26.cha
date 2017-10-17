@@ -1,0 +1,239 @@
+@UTF8
+@PID:	11312/c-00004843-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;10.10||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	last week my friend Billy , who's always been interested in animals
+	, found a pet frog .
+%mor:	adj|last n|week det:poss|my n|friend n:prop|Billy cm|cm
+	pro:rel|who~cop|be&3S adv|always aux|be&PASTP v|interest-PAST
+	prep|in n|animal-PL cm|cm v|find&PAST det:art|a n|pet n|frog .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|4|APP 6|4|LP 7|8|LINK 8|4|CMOD
+	9|11|JCT 10|11|AUX 11|8|PRED 12|11|JCT 13|12|POBJ 14|15|SUBJ 15|11|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|2|PUNCT
+*CHI:	he carried the frog everywhere with him all day until it was time
+	to go to sleep .
+%mor:	pro:sub|he v|carry-PAST det:art|the n|frog adv|everywhere prep|with
+	pro:obj|him adv|all n|day prep|until pro:per|it cop|be&PAST&13S
+	n|time inf|to v|go inf|to v|sleep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|6|POBJ 8|9|JCT
+	9|2|JCT 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|PRED 14|15|INF 15|13|XMOD
+	16|17|INF 17|15|XCOMP 18|2|PUNCT
+*CHI:	his pet dog Bowwow said good_night@q to the frog .
+%mor:	det:poss|his n|pet n|dog n:prop|Bowwow v|say&PAST meta|good_night
+	prep|to det:art|the n|frog .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|3|APP 5|0|ROOT 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	and together they got into bed .
+%mor:	coord|and adv|together pro:sub|they v|get&PAST prep|into n|bed .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	during the night the frog hoped out_of the (.) jar and out_of the
+	window .
+%mor:	prep|during det:art|the n|night det:art|the n|frog v|hope-PAST
+	prep|out_of det:art|the n|jar coord|and prep|out_of det:art|the
+	n|window .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|13|DET 13|11|POBJ 14|6|PUNCT
+*CHI:	all while my friend Billy was sleeping .
+%mor:	qn|all n|while det:poss|my n|friend n:prop|Billy aux|be&PAST&13S
+	part|sleep-PRESP .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|MOD 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|COMP
+	8|2|PUNCT
+*CHI:	when Billy woke up the next morning he discovered that the frog was
+	gone .
+%mor:	conj|when n:prop|Billy v|wake&PAST adv|up det:art|the adj|next
+	n|morning pro:sub|he v|discover-PAST pro:rel|that det:art|the n|frog
+	aux|be&PAST&13S part|go&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|OBJ 8|9|SUBJ
+	9|7|CMOD 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|COMP 15|3|PUNCT
+*CHI:	Billy looked everywhere for it , in his mother's boots , in the jar
+	, under the bed +"/.
+%mor:	n:prop|Billy cop|look-PAST adv|everywhere prep|for pro:per|it cm|cm
+	prep|in det:poss|his n|mother~poss|s n|boot-PL cm|cm prep|in
+	det:art|the n|jar cm|cm prep|under det:art|the n|bed +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|LP 7|2|JCT 8|9|MOD
+	9|11|MOD 10|9|POSS 11|7|POBJ 12|2|LP 13|2|JCT 14|15|DET 15|13|POBJ 16|2|LP
+	17|2|JCT 18|19|DET 19|17|POBJ 20|2|PUNCT
+*CHI:	+" Mister frog where are you ?
+%mor:	n:prop|Mister n|frog pro:rel|where aux|be&PRES pro:per|you ?
+%gra:	1|2|MOD 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|2|PUNCT
+*CHI:	called Billy .
+%mor:	part|call-PASTP n:prop|Billy .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Billy had no idea where to look .
+%mor:	n:prop|Billy v|have&PAST qn|no n|idea adv:int|where inf|to cop|look
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|OBJ 6|7|INF 7|5|XCOMP 8|2|PUNCT
+*CHI:	slowly him and Bowwow dropped down out_of the window .
+%mor:	adv|slow&dadj-LY pro:obj|him coord|and n:prop|Bowwow v|drop-PAST
+	adv|down prep|out_of det:art|the n|window .
+%gra:	1|2|JCT 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*CHI:	together they could do anything +"/.
+%mor:	adv|together pro:sub|they mod|could v|do pro:indef|anything +"/.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	+" Mister frog where are you ?
+%mor:	n:prop|Mister n|frog pro:rel|where aux|be&PRES pro:per|you ?
+%gra:	1|2|MOD 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|2|PUNCT
+*CHI:	Billy searched into the forest .
+%mor:	n:prop|Billy v|search-PAST prep|into det:art|the n|forest .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	there was a beehive nearby .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|beehive adv|nearby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*CHI:	Billy tried to ignore it but Bowwow just couldn't .
+%mor:	n:prop|Billy v|try-PAST inf|to v|ignore pro:per|it conj|but
+	n:prop|Bowwow adv|just mod|could~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|CONJ 7|9|SUBJ 8|9|JCT
+	9|6|COORD 10|9|NEG 11|2|PUNCT
+*CHI:	the bees were just far too interesting +"/.
+%mor:	det:art|the n|bee-PL aux|be&PAST adv|just adv|far adv|too
+	part|interest-PRESP +"/.
+%gra:	1|2|DET 2|7|SUBJ 3|7|AUX 4|5|JCT 5|3|JCT 6|7|JCT 7|0|ROOT 8|7|PUNCT
+*CHI:	+" Mister frog where are you ?
+%mor:	n:prop|Mister n|frog pro:rel|where aux|be&PRES pro:per|you ?
+%gra:	1|2|MOD 2|0|INCROOT 3|5|LINK 4|5|AUX 5|2|CMOD 6|2|PUNCT
+*CHI:	Billy called down a rabbit hole .
+%mor:	n:prop|Billy v|call-PAST prep|down det:art|a n|rabbit n|hole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*CHI:	a little rabbit came out +"/.
+%mor:	det:art|a adj|little n|rabbit v|come&PAST adv|out +"/.
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	+" oy this is my hole !
+%mor:	co|oy pro:dem|this cop|be&3S det:poss|my n|hole !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*CHI:	he said .
+%mor:	pro:sub|he v|say&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	Bowwow just couldn't take his eyes off that beehive .
+%mor:	n:prop|Bowwow adv|just mod|could~neg|not v|take det:poss|his
+	n|eye-PL prep|off pro:dem|that n|beehive .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	he had to go and see what was there .
+%mor:	pro:sub|he v|have&PAST inf|to v|go coord|and v|see pro:int|what
+	cop|be&PAST&13S adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|CONJ 6|5|COORD 7|8|SUBJ
+	8|6|COMP 9|8|JCT 10|2|PUNCT
+*CHI:	suddenly it fell down +"/.
+%mor:	adv|sudden&dadj-LY pro:per|it v|fall&PAST adv|down +"/.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	+" woof woof !
+%mor:	v|woof on|woof !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	said Bowwow +"/.
+%mor:	v|say&PAST n:prop|Bowwow +"/.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	+" help me !
+%mor:	v|help pro:obj|me !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	but Billy was far too interested in looking for Mister frog .
+%mor:	conj|but n:prop|Billy cop|be&PAST&13S adv|far adv|too
+	part|interest-PASTP prep|in part|look-PRESP prep|for n:prop|Mister
+	n|frog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|XJCT 7|6|JCT 8|3|XJCT
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|3|PUNCT
+*CHI:	he was trying to look in the tree .
+%mor:	pro:sub|he aux|be&PAST&13S part|try-PRESP inf|to cop|look prep|in
+	det:art|the n|tree .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	but suddenly an owl came out +"/.
+%mor:	conj|but adv|sudden&dadj-LY det:art|a n|owl v|come&PAST adv|out
+	+"/.
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	+" oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	said Billy +"/.
+%mor:	v|say&PAST n:prop|Billy +"/.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	+" you gave me a shock !
+%mor:	pro:per|you v|give&PAST pro:obj|me det:art|a n|shock !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	Billy continued to look .
+%mor:	n:prop|Billy v|continue-PAST inf|to cop|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*CHI:	he tried to look over the [/] the larger [*] boulder in the forest
+	.
+%mor:	pro:sub|he v|try-PAST inf|to cop|look prep|over det:art|the
+	adj|large-CP n|boulder prep|in det:art|the n|forest .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+%err:	larger = largest
+*CHI:	but suddenly an antelope <come out> [//] came out !
+%mor:	conj|but adv|sudden&dadj-LY det:art|a n|antelope v|come&PAST
+	adv|out !
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	it carried him off and carried him far , far away .
+%mor:	pro:per|it v|carry-PAST pro:obj|him adv|off coord|and v|carry-PAST
+	pro:obj|him adv|far cm|cm adv|far adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|8|LP 10|11|JCT 11|6|JCT 12|2|PUNCT
+*CHI:	until it came to a grassy knoll where it let go of Billy .
+%mor:	conj|until pro:per|it v|come&PAST prep|to det:art|a adj|grass&dn-Y
+	n|knoll pro:rel|where pro:per|it v|let&ZERO v|go prep|of
+	n:prop|Billy .
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*CHI:	and Billy fell splash into a pond !
+%mor:	coord|and n:prop|Billy v|fall&PAST n|splash prep|into det:art|a
+	n|pond !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	Billy could hear the sounds of croaking +"/.
+%mor:	n:prop|Billy mod|could v|hear det:art|the n|sound-PL prep|of
+	n:gerund|croak-PRESP +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CHI:	+" maybe its Mister frog ?
+%mor:	adv|maybe det:poss|its n:prop|Mister n|frog ?
+%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	he said .
+%mor:	pro:sub|he v|say&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	he told Bowwow to be quiet and slowly peered behind the big log .
+%mor:	pro:sub|he v|tell&PAST n:prop|Bowwow inf|to cop|be n|quiet
+	coord|and adv|slow&dadj-LY v|peer-PAST prep|behind det:art|the
+	adj|big n|log .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|PRED 7|5|CONJ 8|9|JCT
+	9|7|COORD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*CHI:	and there was Mister frog with <another frog> [//] a lady frog .
+%mor:	coord|and adv|there cop|be&PAST&13S n:prop|Mister n|frog prep|with
+	det:art|a n|lady n|frog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*CHI:	Billy crept down .
+%mor:	n:prop|Billy v|creep&PAST adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	there were lots_of little frogs too .
+%mor:	pro:exist|there cop|be&PAST qn|lots_of adj|little n|frog-PL
+	post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|PQ 7|2|PUNCT
+*CHI:	Mister frog said he was very , very happy with Missus frog .
+%mor:	n:prop|Mister n|frog v|say&PAST pro:sub|he cop|be&PAST&13S adv|very
+	cm|cm adv|very adj|happy prep|with n:prop|Missus n|frog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|JCT 7|5|LP 8|9|JCT
+	9|5|PRED 10|9|JCT 11|12|MOD 12|10|POBJ 13|3|PUNCT
+*CHI:	and so they could give him one of their children instead .
+%mor:	coord|and co|so pro:sub|they mod|could v|give pro:obj|him
+	pro:indef|one prep|of det:poss|their n|child&PL adv|instead .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|5|JCT 12|5|PUNCT
+*CHI:	Billy settled with this and waved goodbye to Mister frog with one
+	of the babies in the hand .
+%mor:	n:prop|Billy v|settle-PAST prep|with pro:dem|this coord|and
+	part|wave-PASTP co|goodbye prep|to n:prop|Mister n|frog prep|with
+	det:num|one prep|of det:art|the n|baby-PL prep|in det:art|the n|hand
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|6|OBJ 8|7|JCT
+	9|8|POBJ 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

@@ -1,0 +1,116 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:11:11 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <she01.cha>
+----------------------------------------
+*** File "she01.cha": line 2480.
+*MOT:	+" they went out to play a bright red ball .
+%mor:	pro:sub|they v|go&PAST adv|out inf|to v|play det:art|a (1)adj|bright
+	(1)adj|red (1)n|ball .
+
+    Strings matched 1 times
+
+From file <she02.cha>
+----------------------------------------
+*** File "she02.cha": line 1811.
+*MOT:	pink brown yellow grey purple red green white blue orange .
+%mor:	(1)adj|pink (1)adj|brown (1)n|yellow adj|grey n|purple adj|red n|green
+	n|white n|blue n|orange .
+
+    Strings matched 1 times
+
+From file <she03.cha>
+
+    Strings matched 0 times
+
+From file <she04.cha>
+
+    Strings matched 0 times
+
+From file <she05.cha>
+----------------------------------------
+*** File "she05.cha": line 1032.
+*SIB:	yeah them are big ol(d) frogs is in there .
+%mor:	co|yeah pro:obj|them aux|be&PRES (1)adj|big (1)adj|old (1)n|frog-PL
+	cop|be&3S prep|in adv|there .
+----------------------------------------
+*** File "she05.cha": line 1037.
+*SIB:	there's a big ol(d) frog there's a big ol(d) frog .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|old (1)n|frog
+	pro:exist|there~cop|be&3S det:art|a (2)adj|big (2)adj|old (2)n|frog .
+
+    Strings matched 3 times
+
+From file <she06.cha>
+----------------------------------------
+*** File "she06.cha": line 1736.
+*SIB:	l@l m@l n@l O p@l got big old fingers .
+%mor:	n:let|l n:let|m n:let|n n:prop|O n:let|p v|get&PAST (1)adj|big (1)adj|old
+	(1)n|finger-PL .
+
+    Strings matched 1 times
+
+From file <she07.cha>
+----------------------------------------
+*** File "she07.cha": line 923.
+*SIB:	I ain't puttin(g) old ugly pigs together .
+%mor:	pro:sub|I aux|be&1S~neg|not part|put-PRESP (1)adj|old (1)adj|ugly
+	(1)n|pig-PL adv|together .
+----------------------------------------
+*** File "she07.cha": line 1973.
+*SIB:	I throw a big bad wolf on yall .
+%mor:	pro:sub|I v|throw det:art|a (1)adj|big (1)adj|bad (1)n|wolf prep|on
+	pro:per|you .
+----------------------------------------
+*** File "she07.cha": line 1978.
+*MOT:	a big bad wolf ?
+%mor:	det:art|a (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "she07.cha": line 1981.
+*SIB:	the big bad wolf .
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 4 times
+
+From file <she08.cha>
+----------------------------------------
+*** File "she08.cha": line 537.
+*SIB:	the same the same round man .
+%mor:	det:art|the adj|same det:art|the (1)adj|same (1)adj|round (1)n|man .
+----------------------------------------
+*** File "she08.cha": line 2033.
+*MOT:	a big old frog he's got big legs ain't he ?
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|frog pro:sub|he~aux|be&3S v|get&PAST
+	adj|big n|leg-PL aux|be&1S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "she08.cha": line 2038.
+*SIB:	yeah big old frog .
+%mor:	co|yeah (1)adj|big (1)adj|old (1)n|frog .
+----------------------------------------
+*** File "she08.cha": line 2041.
+*SIB:	a big stupid frog .
+%mor:	det:art|a (1)adj|big (1)adj|stupid (1)n|frog .
+
+    Strings matched 4 times
+
+From file <she09.cha>
+
+    Strings matched 0 times
+
+From file <she10.cha>
+----------------------------------------
+*** File "she10.cha": line 1067.
+*MOT:	are you gettin(g) it real tall Sally ?
+%mor:	cop|be&PRES pro:per|you n:gerund|get-PRESP pro:per|it (1)adj|real
+	(1)adj|tall (1)n:prop|Sally ?
+----------------------------------------
+*** File "she10.cha": line 2064.
+*MOT:	come on you don't need an ol(d) hot dog .
+%mor:	v|come prep|on pro:per|you mod|do~neg|not v|need det:art|a (1)adj|old
+	(1)adj|hot (1)n|dog .
+
+    Strings matched 2 times
+

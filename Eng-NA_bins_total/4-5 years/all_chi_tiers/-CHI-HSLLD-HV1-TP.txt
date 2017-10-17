@@ -1,0 +1,457 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:02:40 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <acetp1.cha>
+
+    Strings matched 0 times
+
+From file <admtp1.cha>
+
+    Strings matched 0 times
+
+From file <aimtp1.cha>
+
+    Strings matched 0 times
+
+From file <alitp1.cha>
+
+    Strings matched 0 times
+
+From file <alltp1.cha>
+----------------------------------------
+*** File "alltp1.cha": line 128.
+*MOT:	it's a nifty little phone .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nifty (1)adj|little (1)n|phone .
+
+    Strings matched 1 times
+
+From file <anatp1.cha>
+
+    Strings matched 0 times
+
+From file <anntp1.cha>
+----------------------------------------
+*** File "anntp1.cha": line 309.
+*MOT:	&-uh a long green [!] piece ?
+%mor:	det:art|a (1)adj|long (1)adj|green (1)n|piece ?
+
+    Strings matched 1 times
+
+From file <aprtp1.cha>
+
+    Strings matched 0 times
+
+From file <arltp1.cha>
+
+    Strings matched 0 times
+
+From file <asttp1.cha>
+----------------------------------------
+*** File "asttp1.cha": line 1919.
+*EX1:	<see it's hard> [<] because <they &-um> [//] they leave you that big open spot in the middle and they don't [/] .
+%mor:	co|see pro:per|it~aux|be&3S adj|hard conj|because pro:sub|they
+	v|leave pro:per|you det:dem|that (1)adj|big (1)adj|open (1)n|spot prep|in
+	det:art|the n|middle coord|and pro:sub|they .
+----------------------------------------
+*** File "asttp1.cha": line 1983.
+*EX1:	you know what I think the middle one is that big long blue one (.) .
+%mor:	pro:per|you v|know pro:int|what pro:sub|I v|think det:art|the
+	n|middle pro:indef|one cop|be&3S pro:dem|that (1)adj|big (1)adj|long
+	(1)n|blue pro:indef|one .
+
+    Strings matched 2 times
+
+From file <bobtp1.cha>
+----------------------------------------
+*** File "bobtp1.cha": line 900.
+*MOT:	oh this looks like a little brown dinosaur to me .
+%mor:	co|oh pro:dem|this cop|look-3S prep|like det:art|a (1)adj|little
+	(1)adj|brown (1)n|dinosaur prep|to pro:obj|me .
+
+    Strings matched 1 times
+
+From file <bratp1.cha>
+----------------------------------------
+*** File "bratp1.cha": line 1415.
+*INV:	well [/] well <I see a lot> [//] I can kind of see a lot of little tiny things that [///] round your feet (.) .
+%mor:	co|well pro:sub|I mod|can n|kind prep|of v|see det:art|a n|lot
+	prep|of (1)adj|little (1)adj|tiny (1)n|thing-PL adv|round det:poss|your
+	n|foot&PL .
+
+    Strings matched 1 times
+
+From file <britp1.cha>
+
+    Strings matched 0 times
+
+From file <brttp1.cha>
+
+    Strings matched 0 times
+
+From file <castp1.cha>
+
+    Strings matched 0 times
+
+From file <cattp1.cha>
+----------------------------------------
+*** File "cattp1.cha": line 127.
+*MOT:	I never should have named them both with the <same first> [>] letter .
+%mor:	pro:sub|I adv|never mod|should aux|have part|name-PASTP
+	pro:obj|them qn|both prep|with det:art|the (1)adj|same (1)adj|first
+	(1)n|letter .
+
+    Strings matched 1 times
+
+From file <chatp1.cha>
+
+    Strings matched 0 times
+
+From file <clatp1.cha>
+
+    Strings matched 0 times
+
+From file <contp1.cha>
+----------------------------------------
+
+*** File "contp1.cha": line 794.
+*MOT:	that little sharp point in there .
+%mor:	pro:dem|that (1)adj|little (1)adj|sharp (1)n|point prep|in adv|there .
+
+    Strings matched 2 times
+
+From file <ctrtp1.cha>
+----------------------------------------
+*** File "ctrtp1.cha": line 208.
+*EX1:	this is a pretty tough puzzle to put together if you haven't seen it .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|pretty (1)adj|tough (1)n|puzzle
+	inf|to v|put&ZERO adv|together conj|if pro:per|you aux|have~neg|not
+	part|see&PASTP pro:per|it .
+
+    Strings matched 1 times
+
+From file <davtp1.cha>
+
+    Strings matched 0 times
+
+From file <deatp1.cha>
+
+    Strings matched 0 times
+
+From file <devtp1.cha>
+
+    Strings matched 0 times
+
+From file <diatp1.cha>
+
+    Strings matched 0 times
+
+From file <dontp1.cha>
+
+    Strings matched 0 times
+
+From file <emitp1.cha>
+----------------------------------------
+*** File "emitp1.cha": line 69.
+*MOT:	wait it's a cute little dinosaur and this one is too .
+%mor:	co|wait pro:per|it~cop|be&3S det:art|a (1)adj|cute (1)adj|little
+	(1)n|dinosaur coord|and pro:dem|this pro:indef|one cop|be&3S post|too .
+----------------------------------------
+*** File "emitp1.cha": line 1794.
+*MOT:	that's a big big bottle for a big baby huh ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|bottle prep|for
+	det:art|a adj|big n|baby co|huh ?
+
+    Strings matched 2 times
+
+From file <ethtp1.cha>
+
+    Strings matched 0 times
+
+From file <fratp1.cha>
+
+    Strings matched 0 times
+
+From file <geotp1.cha>
+
+    Strings matched 0 times
+
+From file <giltp1.cha>
+
+    Strings matched 0 times
+
+From file <gretp1.cha>
+
+    Strings matched 0 times
+
+From file <guytp1.cha>
+
+    Strings matched 0 times
+
+From file <inatp1.cha>
+
+    Strings matched 0 times
+
+From file <jactp1.cha>
+
+    Strings matched 0 times
+
+From file <jastp1.cha>
+
+    Strings matched 0 times
+
+From file <jeatp1.cha>
+
+    Strings matched 0 times
+
+From file <jebtp1.cha>
+----------------------------------------
+*** File "jebtp1.cha": line 748.
+*MOT:	yup that makes a pretty good car slide doesn't it ?
+%mor:	co|yup pro:rel|that v|make-3S det:art|a (1)adj|pretty (1)adj|good (1)n|car
+	n|slide mod|do&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <jentp1.cha>
+
+    Strings matched 0 times
+
+From file <jertp1.cha>
+
+    Strings matched 0 times
+
+From file <jestp1.cha>
+
+    Strings matched 0 times
+
+From file <joytp1.cha>
+
+    Strings matched 0 times
+
+From file <justp1.cha>
+
+    Strings matched 0 times
+
+From file <kartp1.cha>
+
+    Strings matched 0 times
+
+From file <kevtp1.cha>
+----------------------------------------
+*** File "kevtp1.cha": line 332.
+*MOT:	nice flat surface .
+%mor:	(1)adj|nice (1)adj|flat (1)n|surface .
+
+    Strings matched 1 times
+
+From file <kurtp1.cha>
+----------------------------------------
+*** File "kurtp1.cha": line 868.
+*MOT:	you made real good tea .
+%mor:	pro:per|you v|make&PAST (1)adj|real (1)adj|good (1)n|tea .
+
+    Strings matched 1 times
+
+From file <martp1.cha>
+----------------------------------------
+*** File "martp1.cha": line 520.
+*INV:	it's a great little place xxx .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|little (1)n|place .
+
+    Strings matched 1 times
+
+From file <maytp1.cha>
+
+    Strings matched 0 times
+
+From file <megtp1.cha>
+----------------------------------------
+*** File "megtp1.cha": line 1189.
+*MOT:	try the big white piece again .
+%mor:	v|try det:art|the (1)adj|big (1)adj|white (1)n|piece adv|again .
+----------------------------------------
+*** File "megtp1.cha": line 2185.
+*MOT:	it was real good Chi .
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|real (1)adj|good (1)n:prop|Chi .
+
+    Strings matched 2 times
+
+From file <meltp1.cha>
+
+    Strings matched 0 times
+
+From file <miatp1.cha>
+
+    Strings matched 0 times
+
+From file <mittp1.cha>
+
+    Strings matched 0 times
+
+From file <montp1.cha>
+
+    Strings matched 0 times
+
+From file <mortp1.cha>
+
+    Strings matched 0 times
+
+From file <mrktp1.cha>
+
+    Strings matched 0 times
+
+From file <nedtp1.cha>
+
+    Strings matched 0 times
+
+From file <nictp1.cha>
+
+    Strings matched 0 times
+
+From file <pautp1.cha>
+
+    Strings matched 0 times
+
+From file <pettp1.cha>
+
+    Strings matched 0 times
+
+From file <rastp1.cha>
+----------------------------------------
+*** File "rastp1.cha": line 916.
+*MOT:	okay just leave him right there .
+%mor:	(1)adj|okay (1)adj|just (1)n|leave pro:obj|him adv|right adv|there .
+
+    Strings matched 1 times
+
+From file <rautp1.cha>
+
+    Strings matched 0 times
+
+From file <remtp1.cha>
+
+    Strings matched 0 times
+
+From file <riltp1.cha>
+----------------------------------------
+*** File "riltp1.cha": line 790.
+*MOT:	let's see if we can make a big tall building wanna make a big tall <buildin(g)> [>] ?
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|make det:art|a
+	(1)adj|big (1)adj|tall (1)n|building v|want~inf|to v|make det:art|a (2)adj|big
+	(2)adj|tall (2)n|building ?
+
+    Strings matched 2 times
+
+From file <roctp1.cha>
+----------------------------------------
+*** File "roctp1.cha": line 495.
+*MOT:	this is such a nice [!] little play [!] set I just love [!] this .
+%mor:	pro:dem|this cop|be&3S qn|such det:art|a (1)adj|nice (1)adj|little (1)n|play
+	v|set&ZERO pro:sub|I adj|just n|love pro:dem|this .
+----------------------------------------
+*** File "roctp1.cha": line 1252.
+*MOT:	she's a pretty little girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "roctp1.cha": line 1270.
+*MOT:	you're <a pretty little girl> [>] .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "roctp1.cha": line 1400.
+*MOT:	you're such a generous little girl .
+%mor:	pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|generous (1)adj|little
+	(1)n|girl .
+
+    Strings matched 4 times
+
+From file <rostp1.cha>
+
+    Strings matched 0 times
+
+From file <sartp1.cha>
+
+    Strings matched 0 times
+
+From file <seatp1.cha>
+
+    Strings matched 0 times
+
+From file <shltp1.cha>
+
+    Strings matched 0 times
+
+From file <shotp1.cha>
+----------------------------------------
+*** File "shotp1.cha": line 224.
+*INV2:	we were just having a right old conversation in her room .
+%mor:	pro:sub|we aux|be&PAST adv|just part|have-PRESP det:art|a (1)adj|right
+	(1)adj|old (1)n|conversation prep|in det:poss|her n|room .
+
+    Strings matched 1 times
+
+From file <stntp1.cha>
+
+    Strings matched 0 times
+
+From file <sustp1.cha>
+
+    Strings matched 0 times
+
+From file <tertp1.cha>
+
+    Strings matched 0 times
+
+From file <todtp1.cha>
+----------------------------------------
+*** File "todtp1.cha": line 1667.
+*MOT:	that's a pretty big handle [>] .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|handle .
+
+    Strings matched 1 times
+
+From file <tomtp1.cha>
+----------------------------------------
+*** File "tomtp1.cha": line 306.
+*MOT:	<you could probably> [<] [>] make a real nice castle [?] .
+%mor:	pro:per|you mod|could adv|probable&dadj-LY v|make det:art|a
+	(1)adj|real (1)adj|nice (1)n|castle .
+----------------------------------------
+*** File "tomtp1.cha": line 701.
+*MOT:	that's your real good idea ?
+%mor:	pro:dem|that~cop|be&3S det:poss|your (1)adj|real (1)adj|good (1)n|idea ?
+
+    Strings matched 2 times
+
+From file <tritp1.cha>
+
+    Strings matched 0 times
+
+From file <trutp1.cha>
+----------------------------------------
+*** File "trutp1.cha": line 1164.
+*MOT:	it is a pretty good parking lot .
+%mor:	pro:per|it cop|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n:gerund|park-PRESP n|lot .
+
+    Strings matched 1 times
+
+From file <victp1.cha>
+----------------------------------------
+*** File "victp1.cha": line 749.
+*MOT:	she's coming in her speedy little car .
+%mor:	pro:sub|she~aux|be&3S part|come-PRESP prep|in det:poss|her
+	(1)adj|speed&dn-Y (1)adj|little (1)n|car .
+
+    Strings matched 1 times
+
+From file <zantp1.cha>
+
+    Strings matched 0 times
+
+From file <zentp1.cha>
+
+    Strings matched 0 times
+

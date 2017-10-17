@@ -1,0 +1,454 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:47:29 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <adam01.cha>
+
+    Strings matched 0 times
+
+From file <adam02.cha>
+----------------------------------------
+*** File "adam02.cha": line 5757.
+*MOT:	+" purple (.) red (.) green ?
+%mor:	(1)adj|purple (1)adj|red (1)n|green ?
+
+    Strings matched 1 times
+
+From file <adam03.cha>
+
+    Strings matched 0 times
+
+From file <adam04.cha>
+
+    Strings matched 0 times
+
+From file <adam05.cha>
+----------------------------------------
+*** File "adam05.cha": line 2104.
+*URS:	that's a little empty jar .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|empty (1)n|jar .
+
+    Strings matched 1 times
+
+From file <adam06.cha>
+
+    Strings matched 0 times
+
+From file <adam07.cha>
+----------------------------------------
+*** File "adam07.cha": line 4488.
+*MOT:	he's a nice little horse .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|horse .
+
+    Strings matched 1 times
+
+From file <adam08.cha>
+----------------------------------------
+*** File "adam08.cha": line 3348.
+*MOT:	I don't think she likes that little dirty tape there .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|she v|like-3S pro:rel|that
+	(1)adj|little (1)adj|dirt&dn-Y (1)n|tape adv|there .
+
+    Strings matched 1 times
+
+From file <adam09.cha>
+
+    Strings matched 0 times
+
+From file <adam10.cha>
+
+    Strings matched 0 times
+
+From file <adam11.cha>
+----------------------------------------
+*** File "adam11.cha": line 3725.
+*RIC:	looks like a real tiny fish .
+%mor:	cop|look-3S prep|like det:art|a (1)adj|real (1)adj|tiny (1)n|fish .
+
+    Strings matched 1 times
+
+From file <adam12.cha>
+----------------------------------------
+*** File "adam12.cha": line 1957.
+*URS:	little red spots .
+%mor:	(1)adj|little (1)adj|red (1)n|spot-PL .
+
+    Strings matched 1 times
+
+From file <adam13.cha>
+
+    Strings matched 0 times
+
+From file <adam14.cha>
+
+    Strings matched 0 times
+
+From file <adam15.cha>
+----------------------------------------
+*** File "adam15.cha": line 580.
+*MOT:	that's a nice big brother .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|brother .
+----------------------------------------
+*** File "adam15.cha": line 2946.
+*MOT:	oh poor little fellow .
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|fellow .
+
+    Strings matched 2 times
+
+From file <adam16.cha>
+----------------------------------------
+*** File "adam16.cha": line 1558.
+*MOT:	what does the big bad giant say ?
+%mor:	pro:int|what v|do&3S det:art|the (1)adj|big (1)adj|bad (1)n|giant v|say ?
+
+    Strings matched 1 times
+
+From file <adam17.cha>
+----------------------------------------
+*** File "adam17.cha": line 3185.
+*URS:	a pail of good fresh milk (.) skedaddle .
+%mor:	det:art|a n|pail prep|of (1)adj|good (1)adj|fresh (1)n|milk v|skedaddle .
+
+    Strings matched 1 times
+
+From file <adam18.cha>
+
+    Strings matched 0 times
+
+From file <adam19.cha>
+----------------------------------------
+*** File "adam19.cha": line 1070.
+*MOT:	because she thought you were a nice little boy and you'd like it .
+%mor:	conj|because pro:sub|she v|think&PAST pro:per|you cop|be&PAST
+	det:art|a (1)adj|nice (1)adj|little (1)n|boy coord|and pro:per|you~mod|genmod
+	v|like pro:per|it .
+----------------------------------------
+*** File "adam19.cha": line 2215.
+*URS:	I have a good black pen .
+%mor:	pro:sub|I v|have det:art|a (1)adj|good (1)adj|black (1)n|pen .
+
+    Strings matched 2 times
+
+From file <adam20.cha>
+
+    Strings matched 0 times
+
+From file <adam21.cha>
+----------------------------------------
+*** File "adam21.cha": line 3224.
+*URS:	make it a little bigger (.) Adam .
+%mor:	v|make pro:per|it det:art|a (1)adj|little (1)adj|big-CP (1)n:prop|Adam .
+
+    Strings matched 1 times
+
+From file <adam22.cha>
+----------------------------------------
+*** File "adam22.cha": line 2304.
+*MOT:	don't be so rough (.) little boy .
+%mor:	mod|do~neg|not cop|be adv|so (1)adj|rough (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "adam22.cha": line 3756.
+*MOT:	happy funny face with masks ?
+%mor:	(1)adj|happy (1)adj|fun&dn-Y (1)n|face prep|with n|mask-PL ?
+
+    Strings matched 2 times
+
+From file <adam23.cha>
+
+    Strings matched 0 times
+
+From file <adam24.cha>
+----------------------------------------
+*** File "adam24.cha": line 1015.
+*MOT:	d(o) you mean strong man ?
+%mor:	mod|do pro:per|you (1)adj|mean (1)adj|strong (1)n|man ?
+----------------------------------------
+*** File "adam24.cha": line 1845.
+*MOT:	the little golden a@l b@l c@l you read it to me .
+%mor:	det:art|the (1)adj|little (1)adj|golden (1)n:let|a n:let|b n:let|c
+	pro:per|you v|read&ZERO pro:per|it prep|to pro:obj|me .
+----------------------------------------
+*** File "adam24.cha": line 3383.
+*MOT:	yes (.) that's saggy baggy elephant .
+%mor:	co|yes pro:dem|that~cop|be&3S (1)adj|sag&dv-Y (1)adj|bag&dn-Y (1)n|elephant
+	.
+
+    Strings matched 3 times
+
+From file <adam25.cha>
+----------------------------------------
+*** File "adam25.cha": line 5166.
+*MOT:	why did you give her such a little little bit ?
+%mor:	adv:int|why mod|do&PAST pro:per|you v|give pro:obj|her qn|such
+	det:art|a (1)adj|little (1)adj|little (1)n|bit ?
+
+    Strings matched 1 times
+
+From file <adam26.cha>
+
+    Strings matched 0 times
+
+From file <adam27.cha>
+
+    Strings matched 0 times
+
+From file <adam28.cha>
+----------------------------------------
+*** File "adam28.cha": line 1124.
+*MOT:	here's a funny little spoon for your dinner .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|spoon
+	prep|for det:poss|your n|dinner .
+----------------------------------------
+*** File "adam28.cha": line 2951.
+*MOT:	that's a nice white wash .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|white (1)n|wash .
+
+    Strings matched 2 times
+
+From file <adam29.cha>
+----------------------------------------
+*** File "adam29.cha": line 1694.
+*MOT:	he has a new little big trailer .
+%mor:	pro:sub|he v|have&3S det:art|a adj|new (1)adj|little (1)adj|big (1)n|trailer
+	.
+
+    Strings matched 1 times
+
+From file <adam30.cha>
+----------------------------------------
+*** File "adam30.cha": line 166.
+*MOT:	he's going around looking to see if he can find some good little
+	boys .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP adv|around part|look-PRESP
+	inf|to v|see conj|if pro:sub|he mod|can v|find qn|some (1)adj|good
+	(1)adj|little (1)n|boy-PL .
+----------------------------------------
+*** File "adam30.cha": line 2560.
+*MOT:	in that little tiny hole ?
+%mor:	prep|in pro:dem|that (1)adj|little (1)adj|tiny (1)n|hole ?
+----------------------------------------
+*** File "adam30.cha": line 4563.
+*MOT:	oh (.) that's a nice little door .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|door .
+
+    Strings matched 3 times
+
+From file <adam31.cha>
+
+    Strings matched 0 times
+
+From file <adam32.cha>
+
+    Strings matched 0 times
+
+From file <adam33.cha>
+
+    Strings matched 0 times
+
+From file <adam34.cha>
+----------------------------------------
+*** File "adam34.cha": line 2850.
+*MOT:	you did (.) a long long time ago .
+%mor:	pro:per|you v|do&PAST det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago .
+
+    Strings matched 1 times
+
+From file <adam35.cha>
+
+    Strings matched 0 times
+
+From file <adam36.cha>
+
+    Strings matched 0 times
+
+From file <adam37.cha>
+
+    Strings matched 0 times
+
+From file <adam38.cha>
+
+    Strings matched 0 times
+
+From file <adam39.cha>
+
+    Strings matched 0 times
+
+From file <adam40.cha>
+----------------------------------------
+*** File "adam40.cha": line 238.
+*MOT:	oh (.) poor little baby .
+%mor:	co|oh (1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file <adam41.cha>
+
+    Strings matched 0 times
+
+From file <adam42.cha>
+----------------------------------------
+*** File "adam42.cha": line 164.
+*MOT:	you're a silly silly boy .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|silly (1)adj|silly (1)n|boy .
+----------------------------------------
+*** File "adam42.cha": line 2035.
+*MOT:	poor little cow .
+%mor:	(1)adj|poor (1)adj|little (1)n|cow .
+----------------------------------------
+*** File "adam42.cha": line 2273.
+*MOT:	you're a funny little boy .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|fun&dn-Y (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "adam42.cha": line 2502.
+*MOT:	you get nice thick colors .
+%mor:	pro:per|you v|get (1)adj|nice (1)adj|thick (1)n|color-PL .
+
+    Strings matched 4 times
+
+From file <adam43.cha>
+----------------------------------------
+*** File "adam43.cha": line 2262.
+*MOT:	poor little baby .
+%mor:	(1)adj|poor (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file <adam44.cha>
+----------------------------------------
+*** File "adam44.cha": line 3230.
+*MOT:	what does intelligent mean (.) Adam ?
+%mor:	pro:int|what mod|do&3S (1)adj|intelligent (1)adj|mean (1)n:prop|Adam ?
+----------------------------------------
+*** File "adam44.cha": line 3869.
+*MOT:	he know you're such a nice big boy who can do so many things so
+	much better than he can .
+%mor:	pro:sub|he v|know pro:per|you~cop|be&PRES qn|such det:art|a
+	(1)adj|nice (1)adj|big (1)n|boy pro:rel|who mod|can v|do adv|so qn|many
+	n|thing-PL adv|so adv|much adv|good&CP prep|than pro:sub|he mod|can
+	.
+
+    Strings matched 2 times
+
+From file <adam45.cha>
+----------------------------------------
+*** File "adam45.cha": line 924.
+*MOT:	I like a nice clean backyard .
+%mor:	pro:sub|I v|like det:art|a (1)adj|nice (1)adj|clean (1)n|+n|back+n|yard .
+
+    Strings matched 1 times
+
+From file <adam46.cha>
+----------------------------------------
+*** File "adam46.cha": line 2344.
+*MOT:	he'll show you how it goes like a good big brother .
+%mor:	pro:sub|he~mod|will v|show pro:per|you adv:int|how pro:per|it
+	v|go-3S prep|like det:art|a (1)adj|good (1)adj|big (1)n|brother .
+----------------------------------------
+*** File "adam46.cha": line 2609.
+*MOT:	tall (.) tall tower .
+%mor:	(1)adj|tall (1)adj|tall (1)n|tower .
+
+    Strings matched 2 times
+
+From file <adam47.cha>
+
+    Strings matched 0 times
+
+From file <adam48.cha>
+----------------------------------------
+*** File "adam48.cha": line 2312.
+*URS:	it's a little misshapen circle .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|misshapen (1)n|circle .
+
+    Strings matched 1 times
+
+From file <adam49.cha>
+----------------------------------------
+*** File "adam49.cha": line 697.
+*MOT:	does a hippopotamus have a big wide mouth ?
+%mor:	v|do&3S det:art|a n|hippopotamus v|have det:art|a (1)adj|big (1)adj|wide
+	(1)n|mouth ?
+----------------------------------------
+*** File "adam49.cha": line 753.
+*MOT:	your busy little horse ?
+%mor:	det:poss|your (1)adj|busy (1)adj|little (1)n|horse ?
+----------------------------------------
+*** File "adam49.cha": line 770.
+*MOT:	your busy little bull is taking care of the dogs ?
+%mor:	det:poss|your (1)adj|busy (1)adj|little (1)n|bull aux|be&3S part|take-PRESP
+	n|care prep|of det:art|the n|dog-PL ?
+
+    Strings matched 3 times
+
+From file <adam50.cha>
+----------------------------------------
+*** File "adam50.cha": line 953.
+*MOT:	he certainly is a sleepy little boy .
+%mor:	pro:sub|he adv|certain&dadj-LY cop|be&3S det:art|a (1)adj|sleep&dn-Y
+	(1)adj|little (1)n|boy .
+----------------------------------------
+*** File "adam50.cha": line 3537.
+*URS:	you can cut two big round holes for eyes (.) and one for the nose
+	(.) and one for the mouth .
+%mor:	pro:per|you mod|can v|cut&ZERO det:num|two (1)adj|big (1)adj|round
+	(1)n|hole-PL prep|for n|eye-PL coord|and pro:indef|one prep|for
+	det:art|the n|nose coord|and pro:indef|one prep|for det:art|the
+	n|mouth .
+
+    Strings matched 2 times
+
+From file <adam51.cha>
+----------------------------------------
+*** File "adam51.cha": line 1496.
+*URS:	it's a little tiny pill .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|pill .
+----------------------------------------
+*** File "adam51.cha": line 3120.
+*MOT:	goodness (.) you're a brave little boy .
+%mor:	co|goodness pro:per|you~aux|be&PRES det:art|a (1)adj|brave (1)adj|little
+	(1)n|boy .
+----------------------------------------
+*** File "adam51.cha": line 3411.
+*MOT:	that's a very nice neat boy (.) Adam Smith .
+%mor:	pro:dem|that~cop|be&3S det:art|a adv|very (1)adj|nice (1)adj|neat (1)n|boy
+	n:prop|Adam n:prop|Smith .
+
+    Strings matched 3 times
+
+From file <adam52.cha>
+----------------------------------------
+*** File "adam52.cha": line 405.
+*URS:	it looks like an old+fashioned light bulb .
+%mor:	pro:per|it cop|look-3S prep|like det:art|a
+	(1)adj|+adj|old+adj|fashioned (1)adj|light (1)n|bulb .
+
+    Strings matched 1 times
+
+From file <adam53.cha>
+----------------------------------------
+*** File "adam53.cha": line 2704.
+*URS:	that looks high enough (.) Adam .
+%mor:	pro:dem|that cop|look-3S (1)adj|high (1)adj|enough (1)n:prop|Adam .
+
+    Strings matched 1 times
+
+From file <adam54.cha>
+
+    Strings matched 0 times
+
+From file <adam55.cha>
+----------------------------------------
+*** File "adam55.cha": line 1386.
+*MOT:	you have_to give him some nice strong legs to stand on .
+%mor:	pro:per|you mod:aux|have_to v|give pro:obj|him qn|some (1)adj|nice
+	(1)adj|strong (1)n|leg-PL prep|to n|stand adv|on .
+----------------------------------------
+*** File "adam55.cha": line 1797.
+*URS:	it's going to be a huge big carrot .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be det:art|a (1)adj|huge
+	(1)adj|big (1)n|carrot .
+
+    Strings matched 2 times
+

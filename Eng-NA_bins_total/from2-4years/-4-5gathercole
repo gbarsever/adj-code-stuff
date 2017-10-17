@@ -1,0 +1,10 @@
+combo +t%mor -t*CHI -t*MIC -t*JEF -t*ERN -t*MAT -t*RAC -t*KEI -t*KEN -t*CON -t*UNK -t*CHR -t*SAA -t*GIL -t*ERK -t*LUK -t*SHN -t*UNC -t*MEG -t*SAR -t*LIL -t*BRY -t*NIC -t*BRI -t*ALI -t*NAT -t*ERI -t*ALY +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:01:13 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MIC; *JEF; *ERN; *MAT; *RAC; *KEI; *KEN; *CON; *UNK; *CHR; *SAA; *GIL; *ERK; *LUK; *SHN; *UNC; *MEG; *SAR; *LIL; *BRY; *NIC; *BRI; *ALI; *NAT; *ERI; *ALY;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Gathercole/02.cha>
+
+    Strings matched 0 times
+

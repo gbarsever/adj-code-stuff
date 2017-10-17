@@ -1,0 +1,73 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:10:18 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <iris02.cha>
+----------------------------------------
+*** File "iris02.cha": line 142.
+*GRA:	oh [<] nice wee boy .
+%mor:	co|oh (1)adj|nice (1)adj|wee (1)n|boy .
+----------------------------------------
+*** File "iris02.cha": line 148.
+*GRA:	nice wee boy (3.) .
+%mor:	(1)adj|nice (1)adj|wee (1)n|boy .
+----------------------------------------
+*** File "iris02.cha": line 1323.
+*MSS:	<you're> [<] a marvelous wee girl aren't you ?
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|marvelous (1)adj|wee (1)n|girl
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "iris02.cha": line 1337.
+*MOT:	there's a nice wee fork Gran brought for you .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|nice (1)adj|wee (1)n|fork
+	n:prop|Gran v|bring&PAST prep|for pro:per|you .
+
+    Strings matched 4 times
+
+From file <iris03.cha>
+
+    Strings matched 0 times
+
+From file <iris04.cha>
+----------------------------------------
+*** File "iris04.cha": line 1493.
+*GRA:	funny funny nose he's got (3.) .
+%mor:	(1)adj|fun&dn-Y (1)adj|fun&dn-Y (1)n|nose pro:sub|he~aux|be&3S
+	part|get&PASTP .
+
+    Strings matched 1 times
+
+From file <iris05.cha>
+
+    Strings matched 0 times
+
+From file <iris06.cha>
+
+    Strings matched 0 times
+
+From file <iris07.cha>
+
+    Strings matched 0 times
+
+From file <iris08.cha>
+
+    Strings matched 0 times
+
+From file <iris09.cha>
+
+    Strings matched 0 times
+
+From file <iris10.cha>
+----------------------------------------
+*** File "iris10.cha": line 771.
+*MOT:	<vain little> [<] girl .
+%mor:	(1)adj|vain (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <iris21.cha>
+
+    Strings matched 0 times
+

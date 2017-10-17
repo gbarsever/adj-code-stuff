@@ -1,0 +1,1133 @@
+@UTF8
+@PID:	11312/c-00004621-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Jack Target_Child , MOT Mother
+@ID:	eng|Conti1|CHI|4;10.25||||Target_Child|||
+@ID:	eng|Conti1|MOT|26;||||Mother|||
+@Comment:	MOT Education is Higher
+*MOT:	right (.) do you know what you do ?
+%mor:	adv|right v|do pro:per|you v|know pro:int|what pro:per|you v|do ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|LINK 6|7|SUBJ 7|4|COMP 8|2|PUNCT
+*MOT:	<can you> [>] remember ?
+%mor:	mod|can pro:per|you v|remember ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	clears some items away from floor
+*CHI:	<yeah [<]> [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft looks at puzzle card
+*MOT:	what goes with that one ?
+%mor:	pro:int|what v|go-3S prep|with pro:dem|that pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	you look through .
+%mor:	pro:per|you co|look adj|through .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points to pile of cards
+*CHI:	spade .
+%mor:	n|spade .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft slots two pieces of puzzle together
+*MOT:	spade .
+%mor:	n|spade .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's a good boy .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	here you are (.) turn this way , sit by me .
+%mor:	adv|here pro:per|you cop|be&PRES v|turn pro:dem|this n|way cm|cm
+	v|sit prep|by pro:obj|me .
+%gra:	1|3|JCT 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|LP 8|6|CJCT
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to space in floor
+*CHI:	yeah [?] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef sits by mother
+*MOT:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	shows card to CHI
+*CHI:	saucer .
+%mor:	n|saucer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right (.) what goes with it ?
+%mor:	adv|right pro:int|what v|go-3S prep|with pro:per|it ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	sorts through cards
+*CHI:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	shall we look (.) see if we can find it ?
+%mor:	mod|shall pro:sub|we cop|look v|see conj|if pro:sub|we mod|can
+	v|find pro:per|it ?
+%gra:	1|4|LINK 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|OBJ 10|4|PUNCT
+*MOT:	you can tell when we get to it .
+%mor:	pro:per|you mod|can v|tell conj|when pro:sub|we v|get prep|to
+	pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*MOT:	I can see it coming up .
+%mor:	pro:sub|I mod|can v|see pro:per|it part|come-PRESP adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|XJCT 6|5|JCT 7|3|PUNCT
+%act:	sorts through cards and turns them picture-side up in front of CHI
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	in there .
+%mor:	prep|in adv|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%gpx:	points to card in pile
+*MOT:	it is ?
+%mor:	pro:per|it cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%par:	bef laughs
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft picks up card
+*MOT:	put it on .
+%mor:	v|put&ZERO pro:per|it adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	0 .
+%act:	places card appropriately
+*MOT:	that's a good boy .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	what about this one ?
+%mor:	pro:int|what prep|about pro:dem|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	shows another card to CHI
+*CHI:	cheese .
+%mor:	n|cheese .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at card
+*MOT:	cheese (.) and what eats the cheese ?
+%mor:	n|cheese coord|and pro:int|what v|eat-3S det:art|the n|cheese ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|LINK 4|2|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	mouse .
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at MOT
+*MOT:	a little mouse .
+%mor:	det:art|a adj|little n|mouse .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S n|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	you find the mouse .
+%mor:	pro:per|you v|find det:art|the n|mouse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	squeak@o (.) squeak@o .
+%mor:	on|squeak on|squeak .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*MOT:	<did you> [>] hear that then ?
+%mor:	mod|do&PAST pro:per|you v|hear pro:rel|that adv:tem|then ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|COMP 6|3|PUNCT
+*MOT:	what's that one .
+%mor:	pro:int|what~cop|be&3S pro:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%par:	laughs
+%act:	holds up a card to CHI
+*CHI:	<squeak@o (.) squeak@o> [<] .
+%mor:	on|squeak on|squeak .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*MOT:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef pieces cards together
+*MOT:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds up card and looks at CHI
+*CHI:	spoon [?] .
+%mor:	n|spoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at mother
+*MOT:	egg cup .
+%mor:	n|egg n|cup .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	aft hands card to CHI
+*CHI:	egg cup [>] .
+%mor:	n|egg n|cup .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	aft takes card from mother
+*MOT:	right [<] .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh: !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	put it down .
+%mor:	v|put&ZERO pro:per|it adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	0 .
+%act:	puts card down on floor
+*MOT:	right what [/] what goes in it ?
+%mor:	adv|right pro:int|what v|go-3S prep|in pro:per|it ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	drops some cards
+%com:	picture of an egg cup
+*CHI:	spoon .
+%mor:	n|spoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef puts card on floor
+*MOT:	a spoon (.) in the egg cup ?
+%mor:	det:art|a n|spoon prep|in det:art|the n|egg n|cup ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*MOT:	what fits in (.) that you eat ?
+%mor:	pro:int|what v|fit-3S adv|in pro:rel|that pro:per|you v|eat ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+%act:	aft holds card up
+*CHI:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes card from mother
+*MOT:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's a good boy [=! whispers] .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	can't think what goes with this dog .
+%mor:	mod|can~neg|not v|think pro:int|what v|go-3S prep|with pro:dem|this
+	n|dog .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MOT:	there's the dog [=! whispers] .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	what goes with him ?
+%mor:	pro:int|what v|go-3S prep|with pro:obj|him ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	sorts through cards
+*CHI:	a bone .
+%mor:	det:art|a n|bone .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	looks at mother
+*MOT:	a bone .
+%mor:	det:art|a n|bone .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	have we got a bone ?
+%mor:	v|have pro:sub|we v|get&PAST det:art|a n|bone ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	sorts through cards
+*CHI:	xxx xxx .
+*CHI:	yes !
+%mor:	co|yes !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes card from mother
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	holds up another card to CHI
+*CHI:	chair .
+%mor:	n|chair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	CHI looks at card held up by MOT
+*MOT:	a chair .
+%mor:	det:art|a n|chair .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	come on (.) put it down (.) then .
+%mor:	v|come adv|on v|put&ZERO pro:per|it adv|down adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|1|COMP 4|3|OBJ 5|6|JCT 6|3|JCT 7|1|PUNCT
+*CHI:	0 .
+%act:	sets down card
+*MOT:	and what do we use with the chair ?
+%mor:	coord|and pro:int|what mod|do pro:sub|we v|use prep|with
+	det:art|the n|chair ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%act:	hands card to CHI
+*CHI:	sit on it [>] .
+%mor:	v|sit prep|on pro:per|it .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	bef puts cards together
+*MOT:	<let's see> [<] .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	yeah (.) well let's see which picture out_of those goes with the
+	chair ?
+%mor:	co|yeah co|well v|let~pro:obj|us v|see det:int|which n|picture
+	prep|out_of pro:dem|those v|go-3S prep|with det:art|the n|chair ?
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|7|MOD 7|5|OBJ 8|10|JCT
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+%act:	spreads cards face down on the floor
+*CHI:	chair .
+%mor:	n|chair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at cards in MOT's hand
+*MOT:	0 .
+%act:	sets card on knee
+*CHI:	what [?] .
+%mor:	pro:int|what .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at card
+*MOT:	the chair and the +...
+%mor:	det:art|the n|chair coord|and det:art|the +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%gpx:	points to card with picture of table on it
+*CHI:	++ table .
+%mor:	n|table .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks card up
+*MOT:	table .
+%mor:	n|table .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I think we've lost one .
+%mor:	pro:sub|I v|think pro:sub|we~aux|have part|lose&PASTP pro:indef|one
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%act:	looks at cards
+*CHI:	lost one .
+%mor:	v|lose&PAST pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	looks at cards
+*MOT:	&+mm .
+*MOT:	for there .
+%mor:	conj|for adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%gpx:	points to card
+*CHI:	there [?] .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes MOT actions
+*MOT:	what goes with the shoe ?
+%mor:	pro:int|what v|go-3S prep|with det:art|the n|shoe ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%act:	looks around floor then gives card to CHI
+*CHI:	sock .
+%mor:	n|sock .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes card from mother
+*MOT:	put them together .
+%mor:	v|put&ZERO pro:obj|them adv|together .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	you were going to put the pencil with the shoe then .
+%mor:	pro:per|you aux|be&PAST part|go-PRESP inf|to v|put&ZERO det:art|the
+	n|pencil prep|with det:art|the n|shoe adv:tem|then .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|11|SUBJ 11|8|POBJ 12|3|PUNCT
+*MOT:	you dopey thing !
+%mor:	pro:per|you adj|dopey n|thing !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%gpx:	points to two cards
+*CHI:	dopey thing .
+%mor:	adj|dopey n|thing .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%par:	laughs
+%act:	puts two cards together
+*MOT:	where do you think ?
+%mor:	adv:int|where mod|do pro:per|you v|think ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	what goes with the pencil ?
+%mor:	pro:int|what v|go-3S prep|with det:art|the n|pencil ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%act:	spreads more cards out
+*CHI:	that [?] .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to a card
+*MOT:	right (.) go on (.) put them together .
+%mor:	adv|right v|go adv|on v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*CHI:	0 .
+%act:	puts cards together
+*MOT:	and what goes with the ball ?
+%mor:	coord|and pro:int|what v|go-3S prep|with det:art|the n|ball ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%act:	shows cards
+*CHI:	bat .
+%mor:	n|bat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef puts cards together
+*MOT:	the bat .
+%mor:	det:art|the n|bat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	that's a tennis racquet .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|tennis n|racquet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%act:	hands card to CHI
+*CHI:	tennis racquet .
+%mor:	n|tennis n|racquet .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	puts cards together
+*MOT:	and what are these ?
+%mor:	coord|and pro:int|what aux|be&PRES pro:dem|these ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	shows cards to CHI
+*CHI:	fork and knife .
+%mor:	n|fork coord|and n|knife .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%act:	looks at cards
+*MOT:	go on (.) you do it then .
+%mor:	v|go prep|on pro:per|you v|do pro:per|it adv:tem|then .
+%gra:	1|2|SRL 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	0 .
+%act:	puts cards together
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	put all those on top of each_other (.) now .
+%mor:	v|put&ZERO qn|all pro:dem|those prep|on n|top prep|of
+	pro:refl|each_other adv|now .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|7|JCT
+	9|1|PUNCT
+*MOT:	put them all like this .
+%mor:	v|put&ZERO pro:obj|them post|all prep|like pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	and we'll do the other ones (.) &-eh ?
+%mor:	coord|and pro:sub|we~mod|will v|do det:art|the qn|other
+	pro:indef|one-PL ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*MOT:	these are with the numbers .
+%mor:	pro:dem|these cop|be&PRES prep|with det:art|the n|number-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	you have_to count the pictures .
+%mor:	pro:per|you mod:aux|have_to v|count det:art|the n|picture-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	gives cards to CHI piles cards picks another set of cards .
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef sits watching mother then helps pile the cards up
+*MOT:	and then look for the right number .
+%mor:	coord|and adv:tem|then cop|look prep|for det:art|the adj|right
+	v|number .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shows card to CHI
+*CHI:	one (.) two (.) three (.) four .
+%mor:	det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%gpx:	points to objects on card in turn
+*MOT:	four what ?
+%mor:	det:num|four pro:int|what ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	what are they ?
+%mor:	det:int|what aux|be&PRES pro:sub|they ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%act:	looks at CHI and points to card
+*CHI:	&+t teddy .
+%mor:	n|teddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	teddys .
+%mor:	n|teddy-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	spreads the other cards on floor
+*CHI:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to card
+*MOT:	one (.) what ?
+%mor:	det:num|one pro:int|what ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	one xxx .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	three [?] .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	sits on floor next to cards
+*MOT:	xxx xxx .
+*MOT:	right (.) which one now ?
+%mor:	adv|right pro:rel|which pro:indef|one adv|now ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|NJCT 5|1|PUNCT
+*MOT:	oh (.) the kite .
+%mor:	co|oh det:art|the n|kite .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	gasps
+%act:	sorts cards out and points to one
+*CHI:	kite .
+%mor:	n|kite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	is that like the kite I made ?
+%mor:	cop|be&3S pro:dem|that prep|like det:art|the n|kite pro:sub|I
+	v|make&PAST ?
+%gra:	1|7|AUX 2|7|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*MOT:	that's like it (.) only different colors .
+%mor:	pro:dem|that~cop|be&3S v|like pro:per|it adv|only adj|different
+	n|color-PL .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|JCT 6|7|MOD 7|3|JCT 8|3|PUNCT
+%gpx:	points to card
+*CHI:	and that .
+%mor:	coord|and pro:dem|that .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%gpx:	points to same card
+*MOT:	and that one .
+%mor:	coord|and pro:dem|that pro:indef|one .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	and that .
+%mor:	coord|and pro:dem|that .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	well (.) how many kites ?
+%mor:	co|well adv:int|how qn|many n|kite-PL ?
+%gra:	1|2|COM 2|4|LINK 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*CHI:	one (.) two (.) three (.) four (.) five (.) six (.) seven .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|6|QUANT 5|6|QUANT 6|7|QUANT 7|0|ROOT
+	8|7|PUNCT
+%gpx:	points to objects on card in turn
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	start [>] again (.) one .
+%mor:	v|start adv|again pro:indef|one .
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+%gpx:	points to objects on card
+*CHI:	eight [<] <one (.) two (.) three (.) four> [>] (.) five (.) six (.)
+	seven .
+%mor:	det:num|eight det:num|one det:num|two det:num|three det:num|four
+	det:num|five det:num|six det:num|seven .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|8|QUANT 5|6|QUANT 6|7|QUANT 7|8|QUANT
+	8|0|ROOT 9|8|PUNCT
+%gpx:	points to objects on card
+*MOT:	four [<] .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	seven , eight .
+%mor:	det:num|seven cm|cm det:num|eight .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*MOT:	there's a good boy .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	now the butterflys .
+%mor:	adv|now det:art|the n|+n|butter+n|fly-PL .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%act:	sorts cards out on floor
+*CHI:	one (.) two (.) three (.) four (.) five (.) six (.) seven (.) eight
+	(.) nine (.) ten .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven det:num|eight det:num|nine det:num|ten .
+%gra:	1|2|QUANT 2|3|QUANT 3|7|QUANT 4|5|QUANT 5|6|QUANT 6|7|QUANT 7|9|QUANT
+	8|9|QUANT 9|10|QUANT 10|0|ROOT 11|10|PUNCT
+%act:	bef slots cards together
+%gpx:	points to objects on cards
+*MOT:	no (.) let's see .
+%mor:	co|no v|let~pro:obj|us v|see .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%par:	whispers
+*MOT:	start with this one .
+%mor:	v|start prep|with pro:dem|this pro:indef|one .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	<one (.) two (.) three (.) four (.) five> [>] .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+%gpx:	points to objects on card
+*CHI:	<one (.) two (.) three (.) four (.) five> [<] (.) six (.) seven (.)
+	eight (.) nine .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven det:num|eight det:num|nine .
+%gra:	1|2|QUANT 2|3|QUANT 3|7|QUANT 4|5|QUANT 5|6|QUANT 6|7|QUANT 7|9|QUANT
+	8|9|QUANT 9|0|ROOT 10|9|PUNCT
+%act:	looks at objects to which MOT points
+*MOT:	nine .
+%mor:	det:num|nine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	so (.) where's the number nine ?
+%mor:	adv|so adv:int|where~cop|be&3S det:art|the n|number det:num|nine ?
+%gra:	1|2|JCT 2|3|LINK 3|0|ROOT 4|5|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*MOT:	have a look at them all .
+%mor:	v|have det:art|a cop|look prep|at pro:obj|them post|all .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|4|POBJ 6|4|POBJ 7|1|PUNCT
+*CHI:	hm: .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at spread of cards on the floor
+*MOT:	can you find it ?
+%mor:	mod|can pro:per|you v|find pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	it's over here somewhere .
+%mor:	pro:per|it~aux|be&3S adv|over adv|here adv|somewhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|2|PUNCT
+*MOT:	have a look .
+%mor:	v|have det:art|a co|look .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%gpx:	points towards cards
+*CHI:	0 .
+%act:	picks up card
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S n|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	put it there .
+%mor:	v|put&ZERO pro:per|it adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	butterflys .
+%mor:	n|+n|butter+n|fly-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are these ?
+%mor:	pro:int|what aux|be&PRES pro:dem|these ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%gpx:	points to card
+*CHI:	one (.) two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%gpx:	points to objects on card
+*MOT:	two dogs .
+%mor:	det:num|two n|dog-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	<where's> [>] number two ?
+%mor:	adv:int|where~cop|be&3S n|number det:num|two ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	<two dogs> [<] &-um .
+%mor:	det:num|two n|dog-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	aft picks card up
+*MOT:	that's a good boy .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	which one shall we do now ?
+%mor:	pro:rel|which pro:indef|one mod|shall pro:sub|we v|do adv|now ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	points to another card
+*MOT:	the apples .
+%mor:	det:art|the n|apple-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	what color apples ?
+%mor:	pro:int|what n|color n|apple-PL ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	picks card up
+*CHI:	&-um (.) green .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches over to card
+*MOT:	green apples .
+%mor:	adj|green n|apple-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	which ones do you like best ?
+%mor:	pro:rel|which det:num|one-PL v|do pro:per|you v|like adj|good&SP ?
+%gra:	1|2|LINK 2|3|QUANT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*CHI:	&+th &+th &+th them .
+%mor:	pro:obj|them .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to card
+*MOT:	no (.) which color apples (.) red or green ?
+%mor:	co|no pro:int|which n|color n|apple-PL n|red coord|or n|green ?
+%gra:	1|5|COM 2|5|MOD 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|CONJ 7|6|COORD 8|5|PUNCT
+*CHI:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	red ones [>] .
+%mor:	adj|red pro:indef|one-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	green [<] .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	green .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	green .
+%mor:	n|green .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	one [/] one (.) two (.) three (.) four (.) four (.) five (.) six
+	(.) seven (.) eight .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|four
+	det:num|five det:num|six det:num|seven det:num|eight .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|8|QUANT 5|6|QUANT 6|7|QUANT 7|8|QUANT
+	8|9|DATE 9|0|ROOT 10|9|PUNCT
+%gpx:	points to objects on card
+*MOT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	where's the number eight ?
+%mor:	adv:int|where~cop|be&3S det:art|the n|number det:num|eight ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	somebody took a bite out_of that apple .
+%mor:	pro:indef|somebody v|take&PAST det:art|a n|bite prep|out_of
+	pro:dem|that n|apple .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MOT:	who do you think it was ?
+%mor:	pro:int|who mod|do pro:per|you v|think pro:per|it cop|be&PAST&13S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+%gpx:	points to card
+*CHI:	&-um (.) Jim .
+%mor:	n:prop|Jim .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	aft laughs
+*MOT:	Jim ?
+%mor:	n:prop|Jim ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh (.) right .
+%mor:	co|oh n|right .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	what have we got left now ?
+%mor:	pro:int|what v|have pro:sub|we aux|get&PAST part|leave&PASTP
+	adv|now ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+*MOT:	we've got .
+%mor:	pro:sub|we~aux|have part|get&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	what are these ?
+%mor:	pro:int|what aux|be&PRES pro:dem|these ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*MOT:	the rabbits [>] .
+%mor:	det:art|the n|rabbit-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	reaches over and picks another card up
+*CHI:	rabbits [<] .
+%mor:	n|rabbit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef picks card up
+*MOT:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points to card in CHI's hand
+*CHI:	sand+castle .
+%mor:	n|+n|sand+n|castle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	sand+castles .
+%mor:	n|+n|sand+n|castle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%gpx:	points to card on floor
+*CHI:	fish .
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	fish and +...
+%mor:	n|fish coord|and +...
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hens .
+%mor:	n|hen-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are we going to do first ?
+%mor:	det:int|what aux|be&PRES pro:sub|we part|go-PRESP inf|to v|do
+	adv|first ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+*CHI:	&-um (.) that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to card with rabbit on
+*MOT:	a rabbit .
+%mor:	det:art|a n|rabbit .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	one (.) two (.) three (.) four (.) five six seven .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|6|QUANT 5|6|QUANT 6|7|QUANT 7|0|ROOT
+	8|7|PUNCT
+%gpx:	points to pictures on card in tin
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	start with this one (.) the grey one .
+%mor:	v|start prep|with pro:dem|this pro:indef|one det:art|the adj|grey
+	pro:indef|one .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|DET 6|7|MOD 7|4|OBJ 8|1|PUNCT
+%gpx:	points to objects on card in tin
+*CHI:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	two (.) three (.) four (.) five (.) six .
+%mor:	det:num|two det:num|three det:num|four det:num|five det:num|six .
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+%gpx:	points to objects on card in tin .
+*MOT:	six .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	so where's number six ?
+%mor:	adv|so pro:rel|where~aux|be&3S n|number det:num|six ?
+%gra:	1|5|JCT 2|4|LINK 3|4|AUX 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*CHI:	0 .
+%act:	picks up card
+*MOT:	there's a good boy .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|good n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what are we going to do now ?
+%mor:	det:int|what aux|be&PRES pro:sub|we part|go-PRESP inf|to v|do
+	adv|now ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+*CHI:	that one .
+%mor:	pro:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%gpx:	points to card
+*MOT:	the fish ?
+%mor:	det:art|the n|fish ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oo (.) there's a_lot_of fish .
+%mor:	co|oo pro:exist|there~cop|be&3S qn|a_lot_of n|fish .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*CHI:	yeah [>] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<to be> [<] careful counting then one [>] .
+%mor:	inf|to cop|be co|careful n:gerund|count-PRESP adv:tem|then
+	pro:indef|one .
+%gra:	1|2|INF 2|0|ROOT 3|4|COM 4|2|PRED 5|6|JCT 6|4|OBJ 7|2|PUNCT
+*CHI:	one [<] (.) two (.) three (.) four .
+%mor:	det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%gpx:	points to objects on card in tin .
+*MOT:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds CHI- s finger as he counts the objects in tin on the cards
+*CHI:	five (.) six (.) seven (.) eight .
+%mor:	det:num|five det:num|six det:num|seven det:num|eight .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|DATE 4|0|ROOT 5|4|PUNCT
+*MOT:	no (.) here you are .
+%mor:	co|no adv|here pro:per|you cop|be&PRES .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	look , start again .
+%mor:	co|look cm|cm v|start adv|again .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%gpx:	points to objects on card
+*CHI:	one (.) two (.) three (.) four five [>] .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+%gpx:	points to objects on card in tin
+*MOT:	five [<] .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	six (.) seven (.) eight (.) nine [>] .
+%mor:	det:num|six det:num|seven det:num|eight det:num|nine .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%gpx:	points to objects on card in tin
+*MOT:	nine [<] .
+%mor:	det:num|nine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ten (.) eleven [>] .
+%mor:	det:num|ten det:num|eleven .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	ten [<] !
+%mor:	det:num|ten !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's the big fish .
+%mor:	pro:dem|that~cop|be&3S det:art|the adj|big n|fish .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	start with the little one (.) look .
+%mor:	v|start prep|with det:art|the adj|little pro:indef|one co|look .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|5|COM 7|1|PUNCT
+*MOT:	start again .
+%mor:	v|start adv|again .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	one .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to objects on card
+*CHI:	one (.) two [>] three (.) four .
+%mor:	det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%act:	looks at mother pointing to objects on card
+*MOT:	two [<] .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to objects
+*CHI:	five (.) six (.) seven (.) eight (.) nine (.) ten .
+%mor:	det:num|five det:num|six det:num|seven det:num|eight det:num|nine
+	det:num|ten .
+%gra:	1|2|QUANT 2|3|QUANT 3|5|QUANT 4|5|QUANT 5|6|QUANT 6|0|ROOT 7|6|PUNCT
+%act:	looks at MOT pointing
+*MOT:	ten !
+%mor:	det:num|ten !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	so where's number ten ?
+%mor:	adv|so pro:rel|where~aux|be&3S n|number det:num|ten ?
+%gra:	1|5|JCT 2|4|LINK 3|4|AUX 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*CHI:	0 .
+%par:	groans
+%act:	bef reaches over and picks card up
+*MOT:	what type of fish are they ?
+%mor:	pro:int|what n|type prep|of n|fish cop|be&PRES pro:sub|they ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%act:	looks at CHI
+*CHI:	orange one [?] .
+%mor:	adj|orange pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	orange ones .
+%mor:	adj|orange pro:indef|one-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	what are they called ?
+%mor:	det:int|what aux|be&PRES pro:sub|they v|call-PAST ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	goldfish [>] .
+%mor:	n|goldfish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [<] .
+*CHI:	goldfish .
+%mor:	n|goldfish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at MOT
+*MOT:	you've got goldfish over there (.) haven't you ?
+%mor:	pro:per|you~aux|have v|get&PAST n|goldfish adv|over adv|there
+	aux|have~neg|not pro:per|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|9|AUX 8|7|NEG
+	9|3|OBJ 10|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	so what have we got left ?
+%mor:	co|so det:int|what v|have pro:sub|we v|get&PAST adj|left ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*CHI:	there , that [>] .
+%mor:	adv|there cm|cm pro:dem|that .
+%gra:	1|3|JCT 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%gpx:	points to card on floor
+*MOT:	<we've got> [<] three <hens and one (.) two (.) three (.) four (.)>
+	[>] .
+%mor:	pro:sub|we~aux|have part|get&PASTP det:num|three n|hen-PL coord|and
+	det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|8|QUANT
+	8|9|QUANT 9|10|QUANT 10|6|COORD 11|3|PUNCT
+%gpx:	points to objects on card
+*CHI:	<hens one (.) two (.) three (.) four> [<] (.) five .
+%mor:	n|hen-PL det:num|one det:num|two det:num|three det:num|four
+	det:num|five .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|6|QUANT 6|1|ENUM 7|1|PUNCT
+*MOT:	five sand+castles [>] .
+%mor:	det:num|five n|+n|sand+n|castle-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	sand+castles [<] .
+%mor:	n|+n|sand+n|castle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh: .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	CHI's younger brother Jim enters the room and climbs onto his mother's lap
+*CHI:	one (.) two (.) three (.) four (.) five (.) six .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six .
+%gra:	1|2|QUANT 2|3|QUANT 3|5|QUANT 4|5|QUANT 5|6|QUANT 6|0|ROOT 7|6|PUNCT
+%gpx:	points to objects on card in tin
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	aft points to objects in tin
+%exp:	implying count again
+*CHI:	one (.) two (.) three (.) four (.) five [>] .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*MOT:	five [<] !
+%mor:	det:num|five !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	they've got little flags on the top .
+%mor:	pro:sub|they~aux|have part|get&PASTP adj|little n|flag-PL prep|on
+	det:art|the n|top .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<put it> [//] hens .
+%mor:	n|hen-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	matches cards together
+*MOT:	and what have we got left ?
+%mor:	coord|and pro:int|what v|have pro:sub|we v|get&PAST adj|left ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*CHI:	hens .
+%mor:	n|hen-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to card
+*MOT:	the hens .
+%mor:	det:art|the n|hen-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	put them ?
+%mor:	v|put&ZERO pro:obj|them ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	looks at mother
+*MOT:	you [?] do them .
+%mor:	pro:per|you v|do pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you'll have_to turn the card over .
+%mor:	pro:per|you~mod|will mod:aux|have_to v|turn det:art|the n|card
+	adv|over .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*MOT:	see (.) that's the picture for the back (.) look .
+%mor:	co|see pro:dem|that~cop|be&3S det:art|the n|picture prep|for
+	det:art|the n|back co|look .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|COM 10|3|PUNCT
+%act:	turns card over
+*CHI:	back .
+%mor:	adv|back .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes MOT actions
+*MOT:	see our xxx .
+%mor:	v|see det:poss|our .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	Jim'll lift them all now .
+%mor:	n:prop|Jim~mod|will v|lift pro:obj|them post|all adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|5|JCT 7|3|PUNCT
+%com:	Jim is making noise with paper
+*CHI:	&-um (.) one (.) two (.) three .
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|2|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%gpx:	points to objects on card
+*MOT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	what do you get from the hens ?
+%mor:	pro:int|what mod|do pro:per|you v|get prep|from det:art|the
+	n|hen-PL ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*MOT:	what do you get ?
+%mor:	pro:int|what mod|do pro:per|you v|get ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	ea(s)t(er) eggs .
+%mor:	adj|east-CP n|egg-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	easter eggs off the hens ?
+%mor:	adj|east-CP n|egg-PL prep|off det:art|the n|hen-PL ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	no (.) that one .
+%mor:	qn|no pro:dem|that pro:indef|one .
+%gra:	1|2|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	xxx xxx .
+%act:	turns card over and points to picture on other side
+*MOT:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	the hen's what ?
+%mor:	det:art|the n|hen~poss|s pro:int|what ?
+%gra:	1|2|DET 2|4|SUBJ 3|2|POSS 4|0|ROOT 5|4|PUNCT
+%gpx:	points to picture on card
+*CHI:	egg [?] .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	feet .
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	feet .
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns card over
+*CHI:	fish .
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	naming whats on the card
+*CHI:	these [?] .
+%mor:	pro:dem|these .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns card over
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S n|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	looks [?] .
+%mor:	cop|look-3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sand+castle [>] .
+%mor:	n|+n|sand+n|castle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns card over
+*MOT:	sand+castles [<] got a red flag on it .
+%mor:	n|+n|sand+n|castle-PL v|get&PAST det:art|a adj|red n|flag prep|on
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*MOT:	oh: (.) what's teddy bear got missing ?
+%mor:	co|oh pro:int|what~poss|s n|teddy n|bear aux|get&PAST
+	part|miss-PRESP ?
+%gra:	1|7|COM 2|5|MOD 3|2|POSS 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*MOT:	what is missing ?
+%mor:	pro:int|what aux|be&3S part|miss-PRESP ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%gpx:	points to card
+*CHI:	feet .
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	his feet .
+%mor:	det:poss|his n|foot&PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	big boat .
+%mor:	adj|big n|boat .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	turns more cards over
+*MOT:	there's the boat .
+%mor:	pro:exist|there~cop|be&3S det:art|the n|boat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	turn xxx xxx over .
+%mor:	v|turn adv|over .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	turns card over
+*MOT:	xxx xxx .
+%act:	observes CHI's actions
+*CHI:	rabbit .
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh the &+ra +...
+%mor:	co|oh det:art|the +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*MOT:	good (.) the rabbit's got no tail .
+%mor:	adj|good det:art|the n|rabbit~poss|s v|get&PAST qn|no n|tail .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|3|POSS 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	no tail on the ra(bbit) .
+%mor:	qn|no n|tail prep|on det:art|the n|rabbit .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%act:	moves around on the floor
+*MOT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	this way and do them (.) (be)cause they're all facing you aren't
+	they (.) over here .
+%mor:	pro:dem|this n|way coord|and v|do pro:obj|them conj|because
+	pro:sub|they~cop|be&PRES post|all part|face-PRESP pro:per|you
+	aux|be&PRES~neg|not pro:sub|they adv|over adv|here .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|OBJ 6|8|LINK 7|8|SUBJ
+	8|4|CJCT 9|8|PRED 10|9|XMOD 11|14|SUBJ 12|14|AUX 13|12|NEG 14|10|COMP
+	15|16|JCT 16|14|JCT 17|2|PUNCT
+%gpx:	points to area on floor next to her
+*CHI:	turn that one over .
+%mor:	v|turn pro:dem|that pro:indef|one adv|over .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+%act:	sorts out cards
+*MOT:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	kite .
+%mor:	n|kite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	kite .
+%mor:	n|kite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come around here .
+%mor:	v|come prep|around adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%com:	10 minutes transcribing up
+@End

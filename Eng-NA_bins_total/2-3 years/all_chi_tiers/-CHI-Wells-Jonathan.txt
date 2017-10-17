@@ -1,0 +1,74 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:11:05 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <jonath02.cha>
+----------------------------------------
+*** File "jonath02.cha": line 609.
+*MOT:	it's only the tiniest little bit Jonathan .
+%mor:	pro:per|it~cop|be&3S adv|only det:art|the (1)adj|tiny-SP (1)adj|little
+	(1)n|bit n:prop|Jonathan .
+----------------------------------------
+*** File "jonath02.cha": line 1225.
+*MOT:	it's a lovely new book isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|love&dn-LY (1)adj|new (1)n|book
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 2 times
+
+From file <jonath03.cha>
+
+    Strings matched 0 times
+
+From file <jonath04.cha>
+
+    Strings matched 0 times
+
+From file <jonath05.cha>
+
+    Strings matched 0 times
+
+From file <jonath06.cha>
+
+    Strings matched 0 times
+
+From file <jonath07.cha>
+----------------------------------------
+*** File "jonath07.cha": line 423.
+*MOT:	get off you greasy little toad (8.) .
+%mor:	v|get prep|off pro:per|you (1)adj|grease&dn-Y (1)adj|little (1)n|toad .
+
+    Strings matched 1 times
+
+From file <jonath08.cha>
+
+    Strings matched 0 times
+
+From file <jonath09.cha>
+----------------------------------------
+*** File "jonath09.cha": line 72.
+*MOT:	oh that dear tiny little thing .
+%mor:	co|oh pro:rel|that adj|dear (1)adj|tiny (1)adj|little (1)n|thing .
+
+    Strings matched 1 times
+
+From file <jonath10.cha>
+----------------------------------------
+*** File "jonath10.cha": line 2155.
+*MOT:	poor Bungo sat down on the new solid sand .
+%mor:	adj|poor n:prop|Bungo v|sit&PAST adv|down prep|on det:art|the
+	(1)adj|new (1)adj|solid (1)n|sand .
+
+    Strings matched 1 times
+
+From file <jonath21.cha>
+----------------------------------------
+*** File "jonath21.cha": line 434.
+*MOT:	two seventy five for a tatty old cheesecloth shirt .
+%mor:	det:num|two det:num|seventy det:num|five prep|for det:art|a
+	(1)adj|tat&dv-Y (1)adj|old (1)n|cheesecloth n|shirt .
+
+    Strings matched 1 times
+

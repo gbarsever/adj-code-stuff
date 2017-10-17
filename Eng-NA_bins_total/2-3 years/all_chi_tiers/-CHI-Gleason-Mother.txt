@@ -1,0 +1,240 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:59:23 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <andy.cha>
+----------------------------------------
+*** File "andy.cha": line 1095.
+*MOT:	see these little yellow things go inside , right ? %snd:"andy"_1077110_1079998
+%mor:	v|see pro:dem|these (1)adj|little (1)adj|yellow (1)n|thing-PL v|go
+	adv|inside cm|cm n|right ?
+
+    Strings matched 1 times
+
+From file <bobby.cha>
+----------------------------------------
+*** File "bobby.cha": line 1864.
+*MOT:	see that big long pipe ?
+%mor:	v|see pro:rel|that (1)adj|big (1)adj|long (1)n|pipe ?
+
+    Strings matched 1 times
+
+From file <charlie.cha>
+----------------------------------------
+*** File "charlie.cha": line 2814.
+*MOT:	that little yellow piece .
+%mor:	pro:dem|that (1)adj|little (1)adj|yellow (1)n|piece .
+
+    Strings matched 1 times
+
+From file <david.cha>
+----------------------------------------
+*** File "david.cha": line 648.
+*MOT:	we'll hafta use a great big bag then .
+%mor:	pro:sub|we~mod|will mod:aux|hafta v|use det:art|a (1)adj|great (1)adj|big
+	(1)n|bag adv:tem|then .
+----------------------------------------
+*** File "david.cha": line 1658.
+*MOT:	that's an awful big screw+driver .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|awful (1)adj|big
+	(1)n|+n|screw+n|driver .
+----------------------------------------
+*** File "david.cha": line 2366.
+*MOT:	is that little girl wearing real little girl clothes ?
+%mor:	cop|be&3S pro:dem|that adj|little n|girl part|wear-PRESP (1)adj|real
+	(1)adj|little (1)n|girl n:pt|clothes ?
+----------------------------------------
+*** File "david.cha": line 3088.
+*MOT:	she the great big funny shoes and the big (.) blue shirt .
+%mor:	pro:sub|she det:art|the adj|great (1)adj|big (1)adj|fun&dn-Y (1)n|shoe-PL
+	coord|and det:art|the adj|big n|blue n|shirt .
+----------------------------------------
+*** File "david.cha": line 3368.
+*MOT:	can you give me all the little blue screws that you can find I mean the little blue nuts [//] bolts [//] the bolts .
+%mor:	mod|can pro:per|you v|give pro:obj|me qn|all det:art|the (1)adj|little
+	(1)adj|blue (1)n|screw-PL pro:rel|that pro:per|you mod|can v|find
+	pro:sub|I v|mean det:art|the adj|little adj|blue det:art|the
+	n|bolt-PL .
+----------------------------------------
+*** File "david.cha": line 3693.
+*MOT:	a [/] a big funny hippopotamus .
+%mor:	det:art|a (1)adj|big (1)adj|fun&dn-Y (1)n|hippopotamus .
+
+    Strings matched 6 times
+
+From file <eddie.cha>
+----------------------------------------
+*** File "eddie.cha": line 366.
+*MOT:	that's a pretty nice car , huh ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|car cm|cm
+	co|huh ?
+----------------------------------------
+*** File "eddie.cha": line 459.
+*MOT:	isn't it a nice little <cash register> [>] .
+%mor:	cop|be&3S~neg|not pro:per|it det:art|a (1)adj|nice (1)adj|little (1)n|cash
+	n|register .
+
+    Strings matched 2 times
+
+From file <frank.cha>
+----------------------------------------
+*** File "frank.cha": line 2351.
+*MOT:	look at the little tiny boxes of things .
+%mor:	cop|look prep|at det:art|the (1)adj|little (1)adj|tiny (1)n|box-PL prep|of
+	n|thing-PL .
+
+    Strings matched 1 times
+
+From file <guy.cha>
+
+    Strings matched 0 times
+
+From file <helen.cha>
+
+    Strings matched 0 times
+
+From file <isadora.cha>
+----------------------------------------
+*** File "isadora.cha": line 2446.
+*MOT:	I think this is a funny funny book that doesn't have any words .
+%mor:	pro:sub|I v|think pro:dem|this cop|be&3S det:art|a (1)adj|fun&dn-Y
+	(1)adj|fun&dn-Y (1)n|book pro:dem|that mod|do&3S~neg|not v|have qn|any
+	n|word-PL .
+
+    Strings matched 1 times
+
+From file <john.cha>
+----------------------------------------
+*** File "john.cha": line 2530.
+*MOT:	this is a teeny little soup can .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|teeny (1)adj|little (1)n|soup
+	mod|can .
+
+    Strings matched 1 times
+
+From file <katie.cha>
+----------------------------------------
+*** File "katie.cha": line 1435.
+*MOT:	look at those cute little things .
+%mor:	cop|look prep|at pro:dem|those (1)adj|cute (1)adj|little (1)n|thing-PL .
+
+    Strings matched 1 times
+
+From file <laurel.cha>
+----------------------------------------
+*** File "laurel.cha": line 581.
+*MOT:	it's a brand new wheel ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|brand (1)adj|new (1)n|wheel ?
+----------------------------------------
+*** File "laurel.cha": line 829.
+*MOT:	I'll see if I can find you a real funny book , okay ?
+%mor:	pro:sub|I~mod|will v|see conj|if pro:sub|I mod|can v|find
+	pro:per|you det:art|a (1)adj|real (1)adj|fun&dn-Y (1)n|book cm|cm adj|okay ?
+----------------------------------------
+*** File "laurel.cha": line 1472.
+*MOT:	and the cat gets on this little bitty branch .
+%mor:	coord|and det:art|the n|cat v|get-3S adv|on pro:dem|this (1)adj|little
+	(1)adj|bit&dn-Y (1)n|branch .
+
+    Strings matched 3 times
+
+From file <martin.cha>
+
+    Strings matched 0 times
+
+From file <nanette.cha>
+----------------------------------------
+*** File "nanette.cha": line 1067.
+*MOT:	when you were a little tiny baby the first thing I ever gave you to eat (.) was baby oatmeal .
+%mor:	conj|when pro:per|you cop|be&PAST det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby det:art|the adj|first n|thing pro:sub|I adv|ever v|give&PAST
+	pro:per|you inf|to v|eat cop|be&PAST&13S n|baby n|oatmeal .
+----------------------------------------
+*** File "nanette.cha": line 1074.
+*MOT:	and it came in a little tiny box like this .
+%mor:	coord|and pro:per|it v|come&PAST prep|in det:art|a (1)adj|little
+	(1)adj|tiny (1)n|box prep|like pro:dem|this .
+----------------------------------------
+*** File "nanette.cha": line 1503.
+*MOT:	looks like a big round mirror .
+%mor:	cop|look-3S prep|like det:art|a (1)adj|big (1)adj|round (1)n|mirror .
+
+    Strings matched 3 times
+
+From file <olivia.cha>
+
+    Strings matched 0 times
+
+From file <patricia.cha>
+----------------------------------------
+*** File "patricia.cha": line 1336.
+*MOT:	<it's a> [>] little tiny paper napkin box .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|paper n|napkin
+	n|box .
+
+    Strings matched 1 times
+
+From file <richard.cha>
+
+    Strings matched 0 times
+
+From file <susan.cha>
+----------------------------------------
+*** File "susan.cha": line 1035.
+*MOT:	well I'm sorry little spider .
+%mor:	co|well pro:sub|I~aux|be&1S (1)adj|sorry (1)adj|little (1)n|spider .
+
+    Strings matched 1 times
+
+From file <theresa.cha>
+----------------------------------------
+*** File "theresa.cha": line 3540.
+*INV:	we have something else when she comes back next time .
+%mor:	pro:sub|we v|have pro:indef|something post|else conj|when
+	pro:sub|she v|come-3S (1)adj|back (1)adj|next (1)n|time .
+
+    Strings matched 1 times
+
+From file <ursula.cha>
+----------------------------------------
+*** File "ursula.cha": line 2533.
+*MOT:	mm: <that's a pretty> [<] good little [/] (.) little shelf to put things in there .
+%mor:	co|mm pro:dem|that~cop|be&3S det:art|a adj|pretty (1)adj|good
+	(1)adj|little (1)n|shelf inf|to v|put&ZERO n|thing-PL prep|in adv|there .
+
+    Strings matched 1 times
+
+From file <victor.cha>
+----------------------------------------
+*** File "victor.cha": line 1813.
+*MOT:	I saw a little tiny book over here .
+%mor:	pro:sub|I v|see&PAST det:art|a (1)adj|little (1)adj|tiny (1)n|book adv|over
+	adv|here .
+
+    Strings matched 1 times
+
+From file <wanda.cha>
+----------------------------------------
+*** File "wanda.cha": line 1421.
+*MOT:	those are nice little boxes are you getting one of everything ?
+%mor:	pro:dem|those cop|be&PRES (1)adj|nice (1)adj|little (1)n|box-PL cop|be&PRES
+	pro:per|you part|get-PRESP det:num|one prep|of pro:indef|everything
+	?
+----------------------------------------
+*** File "wanda.cha": line 2508.
+*MOT:	and the cat goes into a great big pipe on the ground .
+%mor:	coord|and det:art|the n|cat v|go-3S prep|into det:art|a (1)adj|great
+	(1)adj|big (1)n|pipe prep|on det:art|the n|ground .
+
+    Strings matched 2 times
+
+From file <william.cha>
+
+    Strings matched 0 times
+
+From file <xavia.cha>
+
+    Strings matched 0 times
+

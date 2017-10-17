@@ -1,0 +1,438 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:05:01 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admmt3.cha>
+----------------------------------------
+*** File "admmt3.cha": line 1765.
+*MOT:	<my old [!] big Mama> [>] did you hear him ?
+%mor:	det:poss|my (1)adj|old (1)adj|big (1)n:prop|Mama mod|do&PAST pro:per|you
+	v|hear pro:obj|him ?
+
+    Strings matched 1 times
+
+From file <alimt3.cha>
+
+    Strings matched 0 times
+
+From file <allmt3.cha>
+----------------------------------------
+*** File "allmt3.cha": line 44.
+*GMA:	(.) those good french fries ?
+%mor:	pro:dem|those (1)adj|good (1)adj|french (1)n|fry-PL ?
+
+    Strings matched 1 times
+
+From file <anamt3.cha>
+----------------------------------------
+*** File "anamt3.cha": line 827.
+*MOT:	well [<] she's a little younger right Bro ?
+%mor:	co|well pro:sub|she~aux|be&3S det:art|a (1)adj|little (1)adj|young-CP
+	(1)n|right n:prop|Bro ?
+
+    Strings matched 1 times
+
+From file <annmt3.cha>
+
+    Strings matched 0 times
+
+From file <aprmt3.cha>
+----------------------------------------
+*** File "aprmt3.cha": line 966.
+*MAL:	she had a brand new bike it [//] but it's in storage .
+%mor:	pro:sub|she v|have&PAST det:art|a (1)adj|brand (1)adj|new (1)n|bike conj|but
+	pro:per|it~aux|be&3S prep|in n|storage .
+----------------------------------------
+*** File "aprmt3.cha": line 2277.
+*AUN:	xxx if you were a mature young lady staying at home you know you'd help the house clean .
+%mor:	conj|if pro:per|you cop|be&PAST det:art|a (1)adj|mature (1)adj|young
+	(1)n|lady part|stay-PRESP prep|at n|home pro:per|you v|know
+	pro:per|you~mod|genmod v|help det:art|the n|house adj|clean .
+----------------------------------------
+*** File "aprmt3.cha": line 2378.
+*AUN:	+^ a lazy little nasty street <xxx addict [?]> [>] .
+%mor:	det:art|a adj|laze&dv-Y (1)adj|little (1)adj|nasty (1)n|street n|addict .
+
+    Strings matched 3 times
+
+From file <astmt3.cha>
+
+    Strings matched 0 times
+
+From file <bobmt3.cha>
+----------------------------------------
+*** File "bobmt3.cha": line 180.
+*MOT:	I didn't know I had big [>] black ears .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|know pro:sub|I v|have&PAST (1)adj|big
+	(1)adj|black (1)n|ear-PL .
+----------------------------------------
+*** File "bobmt3.cha": line 907.
+*MOT:	it took me a long long time to stir it up .
+%mor:	pro:per|it v|take&PAST pro:obj|me det:art|a (1)adj|long (1)adj|long
+	(1)n|time inf|to v|stir pro:per|it adv|up .
+----------------------------------------
+*** File "bobmt3.cha": line 1277.
+*MOT:	(..) old old shoes .
+%mor:	(1)adj|old (1)adj|old (1)n|shoe-PL .
+----------------------------------------
+*** File "bobmt3.cha": line 1660.
+*MOT:	what that new little boy you met ?
+%mor:	pro:int|what pro:dem|that (1)adj|new (1)adj|little (1)n|boy pro:per|you
+	v|meet&PAST ?
+
+    Strings matched 4 times
+
+From file <bramt3.cha>
+
+    Strings matched 0 times
+
+From file <brimt3.cha>
+
+    Strings matched 0 times
+
+From file <brnmt3.cha>
+
+    Strings matched 0 times
+
+From file <brtmt3.cha>
+
+    Strings matched 0 times
+
+From file <casmt3.cha>
+
+    Strings matched 0 times
+
+From file <catmt3.cha>
+----------------------------------------
+*** File "catmt3.cha": line 1053.
+*COU2:	in my class there's a real nasty kid .
+%mor:	prep|in det:poss|my n|class pro:exist|there~cop|be&3S det:art|a
+	(1)adj|real (1)adj|nasty (1)n|kid .
+
+    Strings matched 1 times
+
+From file <conmt3.cha>
+----------------------------------------
+*** File "conmt3.cha": line 20.
+*BRO:	no big red cups .
+%mor:	qn|no (1)adj|big (1)adj|red (1)n|cup-PL .
+
+    Strings matched 1 times
+
+From file <davmt3.cha>
+----------------------------------------
+*** File "davmt3.cha": line 829.
+*MOT:	little red light lit up on that [!] one .
+%mor:	(1)adj|little (1)adj|red (1)n|light v|light&PAST adv|up prep|on pro:dem|that
+	pro:indef|one .
+
+    Strings matched 1 times
+
+From file <deamt3.cha>
+----------------------------------------
+*** File "deamt3.cha": line 2201.
+*MOT:	real good Mot .
+%mor:	(1)adj|real (1)adj|good (1)n:prop|Mot .
+----------------------------------------
+*** File "deamt3.cha": line 2886.
+*BRO:	(be)cause Daddy got a big fat knife !
+%mor:	conj|because n:prop|Daddy v|get&PAST det:art|a (1)adj|big (1)adj|fat
+	(1)n|knife !
+----------------------------------------
+*** File "deamt3.cha": line 3001.
+*MAL:	real smart (.) watch !
+%mor:	(1)adj|real (1)adj|smart (1)n|watch !
+----------------------------------------
+*** File "deamt3.cha": line 3269.
+*MOT:	that stupid idiotic thing ?
+%mor:	pro:dem|that (1)adj|stupid (1)adj|idiotic (1)n|thing ?
+
+    Strings matched 4 times
+
+From file <devmt3.cha>
+----------------------------------------
+*** File "devmt3.cha": line 1257.
+*MOT:	the second fat policeman &=laughs went to look in the narrow lane behind the shops on main street .
+%mor:	det:art|the (1)adj|second (1)adj|fat (1)n|+n|police+n|man v|go&PAST inf|to
+	cop|look prep|in det:art|the adj|narrow n|lane adv|behind
+	det:art|the n|shop-PL adv|on adj|main n|street .
+----------------------------------------
+*** File "devmt3.cha": line 1300.
+*MOT:	he was many &+anu (.) animal footprints tracking back and forth in and out and across muddy paths (.) all the way into the fields beside cross old Mr Dump's house .
+%mor:	pro:sub|he cop|be&PAST&13S qn|many n|animal n|footprint-PL
+	part|track-PRESP adv|back coord|and adv|forth adv|in coord|and
+	adv|out coord|and prep|across adj|mud&dn-Y n|path-PL adv|all
+	det:art|the n|way prep|into det:art|the n|field-PL prep|beside
+	(1)adj|cross (1)adj|old (1)n:prop|Mr n:prop|Dump~poss|s n|house .
+----------------------------------------
+*** File "devmt3.cha": line 1341.
+*MOT:	well I didn't find Tommy Bell's white puppy with the black paws and black ears either (.) but [!] I found many animal footprints trackin(g) back and forth in the woods and runnin(g) all the way into the fields beside cross old Mr Dump's house [!] said the third fat policeman .
+%mor:	n|well pro:sub|I mod|do&PAST~neg|not v|find n:prop|Tommy
+	n:prop|Bell~poss|s adj|white n|puppy prep|with det:art|the n|black
+	n|paw-PL coord|and adj|black n|ear-PL adv|either conj|but pro:sub|I
+	v|find&PAST qn|many n|animal n|footprint-PL part|track-PRESP
+	adv|back coord|and adv|forth prep|in det:art|the n|wood-PL coord|and
+	part|run-PRESP qn|all det:art|the n|way prep|into det:art|the
+	n|field-PL prep|beside (1)adj|cross (1)adj|old (1)n:prop|Mr
+	n:prop|Dump~poss|s n|house v|say&PAST det:art|the n|third adj|fat
+	n|+n|police+n|man .
+----------------------------------------
+*** File "devmt3.cha": line 1515.
+*MOT:	into the square came cross old Mr Dump leading his big brown watchdog .
+%mor:	prep|into det:art|the n|square v|come&PAST (1)adj|cross (1)adj|old
+	(1)n:prop|Mr n:prop|Dump part|lead-PRESP det:poss|his (2)adj|big (2)adj|brown
+	(2)n|watchdog .
+----------------------------------------
+*** File "devmt3.cha": line 1521.
+*MOT:	<the &+bring> [//] the big brown watchdog was barking at the big market basket his master was carrying .
+%mor:	det:art|the (1)adj|big (1)adj|brown (1)n|watchdog aux|be&PAST&13S
+	part|bark-PRESP prep|at det:art|the adj|big n|market n|basket
+	det:poss|his n|master cop|be&PAST&13S n:gerund|carry-PRESP .
+----------------------------------------
+*** File "devmt3.cha": line 1528.
+*MOT:	what a time what a time muttered cross old Mr Dump over and over .
+%mor:	pro:int|what det:art|a n|time pro:int|what det:art|a n|time
+	v|mutter-PAST (1)adj|cross (1)adj|old (1)n:prop|Mr n:prop|Dump adv|over
+	coord|and adv|over .
+----------------------------------------
+*** File "devmt3.cha": line 1549.
+*MOT:	they run all over my fields and my big brown watch dog chases them .
+%mor:	pro:sub|they v|run adv|all prep|over det:poss|my n|field-PL
+	coord|and det:poss|my (1)adj|big (1)adj|brown (1)n|watch n|dog v|chase-3S
+	pro:obj|them .
+----------------------------------------
+*** File "devmt3.cha": line 1590.
+*MOT:	you keep your canary bird in his [!] cage from now on so the kitten can't chase him said the first fat policeman to Molly Green [?] .
+%mor:	pro:per|you v|keep det:poss|your n|canary n|bird prep|in
+	det:poss|his n|cage prep|from adv|now adv|on co|so det:art|the
+	n|kitten mod|can~neg|not v|chase pro:obj|him v|say&PAST det:art|the
+	(1)adj|first (1)adj|fat (1)n|+n|police+n|man prep|to n:prop|Molly
+	n:prop|Green .
+----------------------------------------
+*** File "devmt3.cha": line 1600.
+*MOT:	you keep your kitten &+i in her own yard so the puppy can't chase her said the second fat policeman to Miss Prissy .
+%mor:	pro:per|you v|keep det:poss|your n|kitten prep|in det:poss|her
+	adj|own n|yard adv|so det:art|the n|puppy mod|can~neg|not v|chase
+	det:poss|her v|say&PAST det:art|the (1)adj|second (1)adj|fat
+	(1)n|+n|police+n|man prep|to n:prop|Miss n:prop|Prissy .
+----------------------------------------
+*** File "devmt3.cha": line 1617.
+*MOT:	and you train your big brown watch dog not to chase every animal that runs in the woods (.) and fields beside your house .
+%mor:	coord|and pro:per|you v|train det:poss|your (1)adj|big (1)adj|brown
+	(1)n|watch n|dog neg|not prep|to n|chase qn|every n|animal pro:dem|that
+	n|run-PL prep|in det:art|the n|wood-PL coord|and v|field-3S
+	prep|beside det:poss|your n|house .
+----------------------------------------
+*** File "devmt3.cha": line 1627.
+*MOT:	<and all three fat policemen to cross old Mr> [//] I mean said all three fat policemen to cross old Mister Dump .
+%mor:	pro:sub|I v|mean v|say&PAST adv|all det:num|three n|fat
+	n|+n|police+n|man&PL prep|to (1)adj|cross (1)adj|old (1)n:prop|Mister
+	n:prop|Dump .
+
+    Strings matched 12 times
+
+From file <diamt3.cha>
+----------------------------------------
+*** File "diamt3.cha": line 1019.
+*MOT:	you want those little round cookies you like ?
+%mor:	pro:per|you v|want pro:dem|those (1)adj|little (1)adj|round (1)n|cookie-PL
+	pro:per|you co|like ?
+
+    Strings matched 1 times
+
+From file <ethmt3.cha>
+----------------------------------------
+*** File "ethmt3.cha": line 280.
+*MOT:	<no no no no> [<] <I needed> [/] I needed real direct light .
+%mor:	co|no co|no co|no co|no pro:sub|I v|need-PAST (1)adj|real (1)adj|direct
+	(1)n|light .
+----------------------------------------
+*** File "ethmt3.cha": line 788.
+*MOT:	I cooked them all in separate &-uh (.) little tin foils [>] .
+%mor:	pro:sub|I v|cook-PAST pro:obj|them adv|all adv|in (1)adj|separate
+	(1)adj|little (1)n|tin n|foil-PL .
+
+    Strings matched 2 times
+
+From file <geomt3.cha>
+
+    Strings matched 0 times
+
+From file <guymt3.cha>
+
+    Strings matched 0 times
+
+From file <jammt3.cha>
+
+    Strings matched 0 times
+
+From file <jeamt3.cha>
+
+    Strings matched 0 times
+
+From file <jermt3.cha>
+
+    Strings matched 0 times
+
+From file <jesmt3.cha>
+
+    Strings matched 0 times
+
+From file <joemt3.cha>
+
+    Strings matched 0 times
+
+From file <joymt3.cha>
+----------------------------------------
+*** File "joymt3.cha": line 86.
+*SIS:	&-um I'll have a little tiny bit &+j [//] to make it not stick .
+%mor:	pro:sub|I~mod|will v|have det:art|a (1)adj|little (1)adj|tiny (1)n|bit
+	prep|to v|make pro:per|it neg|not v|stick .
+----------------------------------------
+*** File "joymt3.cha": line 1185.
+*SIS:	well Chi twenty four and twenty nine arrive at the same exact time .
+%mor:	co|well n:prop|Chi det:num|twenty det:num|four coord|and
+	det:num|twenty det:num|nine v|arrive prep|at det:art|the (1)adj|same
+	(1)adj|exact (1)n|time .
+
+    Strings matched 2 times
+
+From file <jusmt3.cha>
+
+    Strings matched 0 times
+
+From file <karmt3.cha>
+
+    Strings matched 0 times
+
+From file <kevmt3.cha>
+
+    Strings matched 0 times
+
+From file <kurmt3.cha>
+
+    Strings matched 0 times
+
+From file <maymt3.cha>
+----------------------------------------
+*** File "maymt3.cha": line 260.
+*SIS:	what she means a long time ago (.) when she was a little cute baby (.) <when her grandmother> [/] (.) when her grandmother was &+a (.) alive (.) she [/] she had three [!] Margaret sisters .
+%mor:	pro:int|what pro:sub|she v|mean-3S det:art|a adj|long n|time
+	adv|ago conj|when pro:sub|she cop|be&PAST&13S det:art|a (1)adj|little
+	(1)adj|cute (1)n|baby conj|when det:poss|her grand#n|mother
+	cop|be&PAST&13S adj|alive pro:sub|she v|have&PAST det:num|three
+	n:prop|Margaret n|sister-PL .
+----------------------------------------
+*** File "maymt3.cha": line 987.
+*MOT:	that's if it's a nice clean tooth !
+%mor:	pro:dem|that~cop|be&3S conj|if pro:per|it~cop|be&3S det:art|a
+	(1)adj|nice (1)adj|clean (1)n|tooth !
+
+    Strings matched 2 times
+
+From file <megmt3.cha>
+----------------------------------------
+*** File "megmt3.cha": line 909.
+*MOT:	a nice <big giant one> [>] .
+%mor:	det:art|a (1)adj|nice (1)adj|big (1)n|giant pro:indef|one .
+
+    Strings matched 1 times
+
+From file <melmt3.cha>
+
+    Strings matched 0 times
+
+From file <monmt3.cha>
+
+    Strings matched 0 times
+
+From file <mormt3.cha>
+
+    Strings matched 0 times
+
+From file <paumt3.cha>
+----------------------------------------
+*** File "paumt3.cha": line 105.
+*MOT:	they made a big huge mess ?
+%mor:	pro:sub|they v|make&PAST det:art|a (1)adj|big (1)adj|huge (1)n|mess ?
+
+    Strings matched 1 times
+
+From file <raumt3.cha>
+
+    Strings matched 0 times
+
+From file <remmt3.cha>
+
+    Strings matched 0 times
+
+From file <rilmt3.cha>
+
+    Strings matched 0 times
+
+From file <rosmt3.cha>
+
+    Strings matched 0 times
+
+From file <sarmt3.cha>
+----------------------------------------
+*** File "sarmt3.cha": line 1789.
+*AUN:	little tiny kid (.) probably not much bigger than Chi (.) sittin(g) there at the computer .
+%mor:	(1)adj|little (1)adj|tiny (1)n|kid adv|probable&dadj-LY neg|not adv|much
+	adj|big-CP prep|than n:prop|Chi part|sit-PRESP adv|there prep|at
+	det:art|the n|compute&dv-AGT .
+----------------------------------------
+*** File "sarmt3.cha": line 1979.
+*MOT:	and a nice sunny day .
+%mor:	coord|and det:art|a (1)adj|nice (1)adj|sun&dn-Y (1)n|day .
+----------------------------------------
+*** File "sarmt3.cha": line 2137.
+*MOT:	I think the apartment was empty last year (.) during the summer .
+%mor:	pro:sub|I v|think det:art|the n|apartment cop|be&PAST&13S (1)adj|empty
+	(1)adj|last (1)n|year prep|during det:art|the n|summer .
+
+    Strings matched 3 times
+
+From file <stnmt3.cha>
+
+    Strings matched 0 times
+
+From file <susmt3.cha>
+
+    Strings matched 0 times
+
+From file <termt3.cha>
+
+    Strings matched 0 times
+
+From file <todmt3.cha>
+----------------------------------------
+*** File "todmt3.cha": line 191.
+*MOT:	Chi you're doing a pretty good job .
+%mor:	n:prop|Chi pro:per|you~aux|be&PRES part|do-PRESP det:art|a
+	(1)adj|pretty (1)adj|good (1)n|job .
+----------------------------------------
+*** File "todmt3.cha": line 308.
+*MOT:	do I be born [!] allergic Chi ?
+%mor:	mod|do pro:sub|I cop|be (1)adj|born (1)adj|allergic (1)n:prop|Chi ?
+
+    Strings matched 2 times
+
+From file <tommt3.cha>
+
+    Strings matched 0 times
+
+From file <trimt3.cha>
+
+    Strings matched 0 times
+
+From file <vicmt3.cha>
+
+    Strings matched 0 times
+
+From file <zanmt3.cha>
+
+    Strings matched 0 times
+

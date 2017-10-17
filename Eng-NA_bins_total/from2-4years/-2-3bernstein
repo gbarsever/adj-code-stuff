@@ -1,0 +1,83 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:22:17 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Children/Cindy/cindy3.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Children/Cindy/cindy3.cha": line 612.
+*MOT:	you're an awfully smart little kid . %snd:"cindy3"_628134_629411
+%mor:	pro:per|you~aux|be&PRES det:art|a adv|awful&dadj-LY (1)adj|smart
+	(1)adj|little (1)n|kid .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Children/Cindy/cindy3.cha": line 859.
+*MOT:	an(d) you'll get a good big bite of yours . %snd:"cindy3"_838846_840542
+%mor:	coord|and pro:per|you~mod|will v|get det:art|a (1)adj|good (1)adj|big
+	(1)n|bite prep|of pro:poss|yours .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Children/Gail/gail3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Children/Lena/lena3.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/cindy3.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/cindy3.cha": line 815.
+*MOT:	she doesn't eat out_of glass bowls (.) the big bowls like that ,
+	and we really have a lot more plates than we have of bowls (.) her ,
+	her dish is a plastic dish with the three sections in it , or a
+	wooden bowl (.) it's a very flat wooden bowl (.) she eats soup
+	out_of the plastic , three sectioned plastic bowl (.) but it's a
+	whole different , very (.) obvious bowl (.) and she does eat soup
+	out_of it .
+%mor:	pro:sub|she mod|do&3S~neg|not v|eat prep|out_of n|glass n|bowl-PL
+	det:art|the adj|big n|bowl-PL prep|like pro:dem|that cm|cm coord|and
+	pro:sub|we adv|real&dadj-LY v|have det:art|a n|lot adv|more
+	n|plate-PL prep|than pro:sub|we v|have prep|of n|bowl-PL pro:obj|her
+	cm|cm det:poss|her n|dish cop|be&3S det:art|a adj|plastic n|dish
+	prep|with det:art|the det:num|three n|section-PL prep|in pro:per|it
+	cm|cm coord|or det:art|a adj|wooden n|bowl pro:per|it~cop|be&3S
+	det:art|a adv|very (1)adj|flat (1)adj|wooden (1)n|bowl pro:sub|she v|eat-3S
+	n|soup prep|out_of det:art|the n|plastic cm|cm det:num|three
+	(2)adj|sectioned (2)adj|plastic (2)n|bowl conj|but pro:per|it~cop|be&3S
+	det:art|a adj|whole adj|different cm|cm adv|very adj|obvious n|bowl
+	coord|and pro:sub|she v|do&3S v|eat n|soup prep|out_of pro:per|it .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/cindy3.cha": line 1032.
+*MOT:	no , and we have some beautiful wooden blocks , too , that she just
+	got , and she [/] she the only thing she'll make with them is she'll
+	lay them flat on the floor and make a house to sit on [=! laughs]
+	not stack !
+%mor:	co|no cm|cm coord|and pro:sub|we v|have qn|some (1)adj|beautiful
+	(1)adj|wooden (1)n|block-PL cm|cm adv|too cm|cm pro:rel|that pro:sub|she
+	adv|just v|get&PAST cm|cm coord|and pro:sub|she det:art|the qn|only
+	n|thing pro:sub|she~mod|will v|make prep|with pro:obj|them aux|be&3S
+	pro:sub|she~mod|will v|lay pro:obj|them adj|flat prep|on det:art|the
+	n|floor coord|and v|make det:art|a n|house inf|to v|sit adv|on
+	neg|not v|stack !
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/lena3.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/lena3.cha": line 198.
+*NAN:	but with her own little books , picture books (.) ?
+%mor:	conj|but prep|with pro:obj|her (1)adj|own (1)adj|little (1)n|book-PL cm|cm
+	n|picture n|book-PL ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Bernstein/Interview/lena3.cha": line 413.
+*MOT:	she had a pretty good grasp on it (.) but didn't know how (.) to
+	exert the pressure to get it up or down +...
+%mor:	pro:sub|she v|have&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|grasp
+	prep|on pro:per|it conj|but mod|do&PAST~neg|not v|know adv:int|how
+	inf|to v|exert det:art|the n|pressure inf|to v|get pro:per|it adv|up
+	coord|or adv|down +...
+
+    Strings matched 2 times
+

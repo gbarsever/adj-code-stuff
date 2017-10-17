@@ -1,0 +1,514 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:57:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <carl01a.cha>
+
+    Strings matched 0 times
+
+From file <carl01b.cha>
+
+    Strings matched 0 times
+
+From file <carl02a.cha>
+
+    Strings matched 0 times
+
+From file <carl02b.cha>
+
+    Strings matched 0 times
+
+From file <carl03a.cha>
+----------------------------------------
+*** File "carl03a.cha": line 2825.
+*MOT:	oh they're tiny little baby fishes [: fish] [* +s] , aren't they .
+%mor:	co|oh pro:sub|they~aux|be&PRES (1)adj|tiny (1)adj|little (1)n|baby n|fish
+	cm|cm aux|be&PRES~neg|not pro:sub|they .
+
+    Strings matched 1 times
+
+From file <carl03b.cha>
+
+    Strings matched 0 times
+
+From file <carl04a.cha>
+
+    Strings matched 0 times
+
+From file <carl04b.cha>
+
+    Strings matched 0 times
+
+From file <carl05a.cha>
+
+    Strings matched 0 times
+
+From file <carl05b.cha>
+
+    Strings matched 0 times
+
+From file <carl06a.cha>
+
+    Strings matched 0 times
+
+From file <carl06b.cha>
+
+    Strings matched 0 times
+
+From file <carl07a.cha>
+----------------------------------------
+*** File "carl07a.cha": line 435.
+*MOT:	cleaning all the dusty dirty shelfs .
+%mor:	part|clean-PRESP qn|all det:art|the (1)adj|dust&dn-Y (1)adj|dirt&dn-Y
+	(1)n|shelf-PL .
+
+    Strings matched 1 times
+
+From file <carl07b.cha>
+
+    Strings matched 0 times
+
+From file <carl08a.cha>
+----------------------------------------
+*** File "carl08a.cha": line 857.
+*MOT:	oh look he's got a great big piece of cheese to eat .
+%mor:	co|oh co|look pro:sub|he~aux|be&3S part|get&PASTP det:art|a
+	(1)adj|great (1)adj|big (1)n|piece prep|of n|cheese inf|to v|eat .
+----------------------------------------
+*** File "carl08a.cha": line 1312.
+*MOT:	he's always got a nice big smile .
+%mor:	pro:sub|he~aux|be&3S adv|always v|get&PAST det:art|a (1)adj|nice
+	(1)adj|big (1)n|smile .
+
+    Strings matched 2 times
+
+From file <carl08b.cha>
+
+    Strings matched 0 times
+
+From file <carl09a.cha>
+
+    Strings matched 0 times
+
+From file <carl09b.cha>
+----------------------------------------
+*** File "carl09b.cha": line 1353.
+*MOT:	oh: that's a nice tasty apple .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|taste&dn-Y
+	(1)n|apple .
+
+    Strings matched 1 times
+
+From file <carl10a.cha>
+----------------------------------------
+*** File "carl10a.cha": line 546.
+*MOT:	poor little boy .
+%mor:	(1)adj|poor (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <carl10b.cha>
+
+    Strings matched 0 times
+
+From file <carl11a.cha>
+----------------------------------------
+*** File "carl11a.cha": line 424.
+*MOT:	look , he's got a little yellow spot .
+%mor:	co|look cm|cm pro:sub|he~aux|be&3S part|get&PASTP det:art|a
+	(1)adj|little (1)adj|yellow (1)n|spot .
+
+    Strings matched 1 times
+
+From file <carl11b.cha>
+
+    Strings matched 0 times
+
+From file <carl12a.cha>
+----------------------------------------
+*** File "carl12a.cha": line 2062.
+*MOT:	a little yellow ball .
+%mor:	det:art|a (1)adj|little (1)adj|yellow (1)n|ball .
+
+    Strings matched 1 times
+
+From file <carl12b.cha>
+
+    Strings matched 0 times
+
+From file <carl13a.cha>
+----------------------------------------
+*** File "carl13a.cha": line 42.
+*MOT:	big big Gordon .
+%mor:	(1)adj|big (1)adj|big (1)n:prop|Gordon .
+----------------------------------------
+*** File "carl13a.cha": line 146.
+*MOT:	what a nice little fish .
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|little (1)n|fish .
+----------------------------------------
+*** File "carl13a.cha": line 1118.
+*MOT:	some naughty little boy must have done that ?
+%mor:	qn|some (1)adj|naughty (1)adj|little (1)n|boy mod|must aux|have
+	part|do&PASTP pro:dem|that ?
+----------------------------------------
+*** File "carl13a.cha": line 1205.
+*MOT:	oh someone's really had a good old scribble on them , haven't they
+	?
+%mor:	co|oh pro:indef|someone~cop|be&3S adv|real&dadj-LY v|have&PAST
+	det:art|a (1)adj|good (1)adj|old (1)n|scribble prep|on pro:obj|them cm|cm
+	aux|have~neg|not pro:sub|they ?
+
+    Strings matched 4 times
+
+From file <carl13b.cha>
+----------------------------------------
+*** File "carl13b.cha": line 1132.
+*MOT:	a naughty little monkey .
+%mor:	det:art|a (1)adj|naughty (1)adj|little (1)n|monkey .
+----------------------------------------
+*** File "carl13b.cha": line 1920.
+*MOT:	you're a bossy little boy you are .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|boss&dn-Y (1)adj|little (1)n|boy
+	pro:per|you cop|be&PRES .
+
+    Strings matched 2 times
+
+From file <carl14a.cha>
+----------------------------------------
+*** File "carl14a.cha": line 1800.
+*MOT:	look it's got a big long tail .
+%mor:	co|look pro:per|it~aux|be&3S v|get&PAST det:art|a (1)adj|big (1)adj|long
+	(1)n|tail .
+----------------------------------------
+*** File "carl14a.cha": line 2111.
+*MOT:	well only if you're a nice good boy .
+%mor:	co|well qn|only conj|if pro:per|you~cop|be&PRES det:art|a (1)adj|nice
+	(1)adj|good (1)n|boy .
+----------------------------------------
+*** File "carl14a.cha": line 2137.
+*MOT:	oh well perhaps if you're a nice good boy .
+%mor:	co|oh n|well adv|perhaps conj|if pro:per|you~cop|be&PRES det:art|a
+	(1)adj|nice (1)adj|good (1)n|boy .
+
+    Strings matched 3 times
+
+From file <carl15a.cha>
+
+    Strings matched 0 times
+
+From file <carl15b.cha>
+----------------------------------------
+*** File "carl15b.cha": line 1674.
+*MOT:	have you looked in the big green box ?
+%mor:	aux|have pro:per|you cop|look-PAST prep|in det:art|the (1)adj|big
+	(1)adj|green (1)n|box ?
+
+    Strings matched 1 times
+
+From file <carl16a.cha>
+----------------------------------------
+*** File "carl16a.cha": line 1906.
+*MOT:	big orange moon .
+%mor:	(1)adj|big (1)adj|orange (1)n|moon .
+
+    Strings matched 1 times
+
+From file <carl16b.cha>
+----------------------------------------
+*** File "carl16b.cha": line 1327.
+*MOT:	big fat fingers .
+%mor:	(1)adj|big (1)adj|fat (1)n|finger-PL .
+----------------------------------------
+*** File "carl16b.cha": line 1330.
+*MOT:	big fat fingers .
+%mor:	(1)adj|big (1)adj|fat (1)n|finger-PL .
+
+    Strings matched 2 times
+
+From file <carl17a.cha>
+
+    Strings matched 0 times
+
+From file <carl17b.cha>
+----------------------------------------
+*** File "carl17b.cha": line 226.
+*MOT:	what a big strong boy .
+%mor:	pro:int|what det:art|a (1)adj|big (1)adj|strong (1)n|boy .
+----------------------------------------
+*** File "carl17b.cha": line 713.
+*MOT:	she's got a really nice healthy dinner there .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|a adv|real&dadj-LY
+	(1)adj|nice (1)adj|health&dn-Y (1)n|dinner adv|there .
+
+    Strings matched 2 times
+
+From file <carl18a.cha>
+----------------------------------------
+*** File "carl18a.cha": line 299.
+*MOT:	big smily mouth .
+%mor:	(1)adj|big (1)adj|smile&dv-Y (1)n|mouth .
+
+    Strings matched 1 times
+
+From file <carl18b.cha>
+----------------------------------------
+*** File "carl18b.cha": line 1496.
+*MOT:	he's a hungry hungry cat , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|hungry (1)adj|hungry (1)n|cat cm|cm
+	cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 1 times
+
+From file <carl19a.cha>
+----------------------------------------
+*** File "carl19a.cha": line 37.
+*MOT:	they made a big big noise .
+%mor:	pro:sub|they v|make&PAST det:art|a (1)adj|big (1)adj|big (1)n|noise .
+
+    Strings matched 1 times
+
+From file <carl19b.cha>
+
+    Strings matched 0 times
+
+From file <carl20a.cha>
+
+    Strings matched 0 times
+
+From file <carl20b.cha>
+
+    Strings matched 0 times
+
+From file <carl21a.cha>
+----------------------------------------
+*** File "carl21a.cha": line 251.
+*MOT:	that's a tiny little baby , isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|baby cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <carl21b.cha>
+----------------------------------------
+*** File "carl21b.cha": line 1579.
+*MOT:	it's a tiny little egg , isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|egg cm|cm
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file <carl22a.cha>
+----------------------------------------
+*** File "carl22a.cha": line 1101.
+*MOT:	you naughty naughty doggy .
+%mor:	pro:per|you (1)adj|naughty (1)adj|naughty (1)n|dog-DIM .
+
+    Strings matched 1 times
+
+From file <carl22b.cha>
+----------------------------------------
+*** File "carl22b.cha": line 571.
+*MOT:	that's a big tall slide that one .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|tall (1)n|slide
+	pro:dem|that pro:indef|one .
+----------------------------------------
+*** File "carl22b.cha": line 1263.
+*MOT:	little green man .
+%mor:	(1)adj|little (1)adj|green (1)n|man .
+----------------------------------------
+*** File "carl22b.cha": line 1272.
+*MOT:	little green thing .
+%mor:	(1)adj|little (1)adj|green (1)n|thing .
+
+    Strings matched 3 times
+
+From file <carl23a.cha>
+----------------------------------------
+*** File "carl23a.cha": line 391.
+*MOT:	on your little red table .
+%mor:	prep|on det:poss|your (1)adj|little (1)adj|red (1)n|table .
+
+    Strings matched 1 times
+
+From file <carl23b.cha>
+
+    Strings matched 0 times
+
+From file <carl25a.cha>
+----------------------------------------
+*** File "carl25a.cha": line 1351.
+*MOT:	he's happy when he's got his big green balloon .
+%mor:	pro:sub|he~cop|be&3S adj|happy conj|when pro:sub|he~aux|be&3S
+	part|get&PASTP det:poss|his (1)adj|big (1)adj|green (1)n|balloon .
+----------------------------------------
+*** File "carl25a.cha": line 2288.
+*MOT:	so the next day he ate a nice green leaf .
+%mor:	co|so det:art|the adj|next n|day pro:sub|he v|eat&PAST det:art|a
+	(1)adj|nice (1)adj|green (1)n|leaf .
+
+    Strings matched 2 times
+
+From file <carl25b.cha>
+
+    Strings matched 0 times
+
+From file <carl26a.cha>
+
+    Strings matched 0 times
+
+From file <carl26b.cha>
+----------------------------------------
+*** File "carl26b.cha": line 1184.
+*MOT:	that's about a bad rude bear .
+%mor:	pro:dem|that~cop|be&3S adv|about det:art|a (1)adj|bad (1)adj|rude (1)n|bear
+	.
+----------------------------------------
+*** File "carl26b.cha": line 1224.
+*MOT:	that's the bear and it says bad rude bear .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|bear coord|and pro:per|it
+	v|say-3S (1)adj|bad (1)adj|rude (1)n|bear .
+----------------------------------------
+*** File "carl26b.cha": line 1488.
+*MOT:	naughty naughty bear .
+%mor:	(1)adj|naughty (1)adj|naughty (1)n|bear .
+----------------------------------------
+*** File "carl26b.cha": line 1563.
+*MOT:	he's a nice little bear now , isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|bear adv|now
+	cm|cm cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "carl26b.cha": line 2318.
+*MOT:	I'd like a nice big pink strawberry ice+cream please .
+%mor:	pro:sub|I~mod|genmod prep|like det:art|a (1)adj|nice (1)adj|big (1)n|pink
+	n|strawberry n|+n|ice+n|cream co|please .
+
+    Strings matched 5 times
+
+From file <carl27a.cha>
+----------------------------------------
+*** File "carl27a.cha": line 1810.
+*MOT:	a little tiny baby .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "carl27a.cha": line 1897.
+*MOT:	a tiny little baby , isn't it ?
+%mor:	det:art|a (1)adj|tiny (1)adj|little (1)n|baby cm|cm cop|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "carl27a.cha": line 1927.
+*MOT:	it's Amy as a little tiny baby .
+%mor:	pro:per|it~aux|be&3S n:prop|Amy conj|as det:art|a (1)adj|little
+	(1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "carl27a.cha": line 2320.
+*MOT:	what a tiny little baby .
+%mor:	pro:int|what det:art|a (1)adj|tiny (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "carl27a.cha": line 2441.
+*MOT:	she's giving you a good old squeeze .
+%mor:	pro:sub|she~aux|be&3S part|give-PRESP pro:per|you det:art|a
+	(1)adj|good (1)adj|old (1)n|squeeze .
+
+    Strings matched 5 times
+
+From file <carl27b.cha>
+----------------------------------------
+*** File "carl27b.cha": line 2129.
+*MOT:	there's the other <little baby> [//] tiny little baby .
+%mor:	pro:exist|there~cop|be&3S det:art|the qn|other (1)adj|tiny (1)adj|little
+	(1)n|baby .
+
+    Strings matched 1 times
+
+From file <carl28a.cha>
+
+    Strings matched 0 times
+
+From file <carl28b.cha>
+
+    Strings matched 0 times
+
+From file <carl29a.cha>
+
+    Strings matched 0 times
+
+From file <carl29b.cha>
+----------------------------------------
+*** File "carl29b.cha": line 1826.
+*MOT:	oh who's that handsome little boy ?
+%mor:	co|oh pro:int|who~cop|be&3S pro:dem|that (1)adj|handsome (1)adj|little
+	(1)n|boy ?
+
+    Strings matched 1 times
+
+From file <carl30a.cha>
+
+    Strings matched 0 times
+
+From file <carl30b.cha>
+
+    Strings matched 0 times
+
+From file <carl31a.cha>
+----------------------------------------
+*** File "carl31a.cha": line 2403.
+*MOT:	oh there's a little tiny baby one .
+%mor:	co|oh pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby pro:indef|one .
+
+    Strings matched 1 times
+
+From file <carl31b.cha>
+----------------------------------------
+*** File "carl31b.cha": line 1497.
+*MOT:	a blue green box .
+%mor:	det:art|a (1)adj|blue (1)adj|green (1)n|box .
+
+    Strings matched 1 times
+
+From file <carl32a.cha>
+----------------------------------------
+*** File "carl32a.cha": line 11.
+*MOT:	come here little pale face .
+%mor:	v|come adv|here (1)adj|little (1)adj|pale (1)n|face .
+----------------------------------------
+*** File "carl32a.cha": line 131.
+*MOT:	old dribbly chops .
+%mor:	(1)adj|old (1)adj|dribble&dv-Y (1)n|chop-PL .
+
+    Strings matched 2 times
+
+From file <carl32b.cha>
+----------------------------------------
+*** File "carl32b.cha": line 1525.
+*MOT:	it's got_to go very slow now because it's got a big heavy whale on
+	, look .
+%mor:	pro:per|it~aux|be&3S mod:aux|got_to v|go adv|very adj|slow adv|now
+	conj|because pro:per|it~aux|be&3S v|get&PAST det:art|a (1)adj|big
+	(1)adj|heavy (1)n|whale adv|on cm|cm co|look .
+
+    Strings matched 1 times
+
+From file <carl33a.cha>
+
+    Strings matched 0 times
+
+From file <carl33b.cha>
+
+    Strings matched 0 times
+
+From file <carl34a.cha>
+
+    Strings matched 0 times
+
+From file <carl34b.cha>
+----------------------------------------
+*** File "carl34b.cha": line 1128.
+*MOT:	he's been waiting a long long time .
+%mor:	pro:sub|he~aux|be&3S aux|be&PASTP part|wait-PRESP det:art|a
+	(1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 1 times
+

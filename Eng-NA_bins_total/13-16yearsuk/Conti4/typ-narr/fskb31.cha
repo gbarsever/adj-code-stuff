@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/c-00004848-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;06.01||||Target_Child|||
+@Date:	02-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	one day I found a frog .
+%mor:	det:num|one n|day pro:sub|I v|find&PAST det:art|a n|frog .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and I kept it in a jar .
+%mor:	coord|and pro:sub|I v|keep&PAST pro:per|it prep|in det:art|a n|jar
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and then that night I fell asleep .
+%mor:	coord|and adv:tem|then pro:rel|that n|night pro:sub|I v|fall&PAST
+	adv|asleep .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|JCT 5|6|SUBJ 6|2|CMOD 7|6|JCT
+	8|1|PUNCT
+*CHI:	and somehow the frog got out .
+%mor:	coord|and adv|somehow det:art|the n|frog v|get&PAST adv|out .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	I woke up the next morning and the jar was empty .
+%mor:	pro:sub|I v|wake&PAST adv|up det:art|the adj|next n|morning
+	coord|and det:art|the n|jar cop|be&PAST&13S adj|empty .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|2|OBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CMOD 11|10|PRED 12|2|PUNCT
+*CHI:	I was looking for him all over my room .
+%mor:	pro:sub|I aux|be&PAST&13S part|look-PRESP prep|for pro:obj|him
+	adv|all prep|over det:poss|my n|room .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|JCT 7|3|JCT 8|9|MOD
+	9|7|POBJ 10|3|PUNCT
+*CHI:	and I made it a mess .
+%mor:	coord|and pro:sub|I v|make&PAST pro:per|it det:art|a n|mess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	I opened my window and shouted out .
+%mor:	pro:sub|I v|open-PAST det:poss|my n|window coord|and v|shout-PAST
+	adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|JCT 8|2|PUNCT
+*CHI:	and the dog's head was in the jar .
+%mor:	coord|and det:art|the n|dog~poss|s n|head cop|be&PAST&13S prep|in
+	det:art|the n|jar .
+%gra:	1|6|LINK 2|5|DET 3|5|MOD 4|3|POSS 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	<the dog> [//] my dog fell out the window .
+%mor:	det:poss|my n|dog v|fall&PAST prep|out det:art|the n|window .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	so I had to go and pick him up .
+%mor:	co|so pro:sub|I v|have&PAST inf|to v|go coord|and v|pick
+	pro:obj|him adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*CHI:	I went down to the woods .
+%mor:	pro:sub|I v|go&PAST adv|down prep|to det:art|the n|wood-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	and ca(lled) [//] I was calling for him .
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|call-PRESP prep|for
+	pro:obj|him .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	then I shouted down a hole .
+%mor:	adv:tem|then pro:sub|I v|shout-PAST prep|down det:art|a n|hole .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and an animal came out .
+%mor:	coord|and det:art|a n|animal v|come&PAST adv|out .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	I climbed <up t(o)> [//] up a tree to see if it was in there .
+%mor:	pro:sub|I v|climb-PAST prep|up det:art|a n|tree inf|to v|see
+	conj|if pro:per|it cop|be&PAST&13S prep|in adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|INF 7|2|XCOMP 8|10|LINK
+	9|10|SUBJ 10|7|CJCT 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*CHI:	then an owl jumped out .
+%mor:	adv:tem|then det:art|a n|owl v|jump-PAST adv|out .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and I fell off .
+%mor:	coord|and pro:sub|I v|fall&PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and the dog was being chased by a couple of bees .
+%mor:	coord|and det:art|the n|dog aux|be&PAST&13S aux|be-PRESP
+	part|chase-PASTP prep|by det:art|a n|couple prep|of n|bee-PL .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|PUNCT
+*CHI:	the owl was flying over .
+%mor:	det:art|the n|owl aux|be&PAST&13S part|fly-PRESP adv|over .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and I was climbing up a rock .
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|climb-PRESP prep|up
+	det:art|a n|rock .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	I climbed up to the top and was shouting the frog .
+%mor:	pro:sub|I v|climb-PAST adv|up prep|to det:art|the n|top coord|and
+	aux|be&PAST&13S part|shout-PRESP det:art|the n|frog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|CONJ 8|9|AUX
+	9|7|COORD 10|11|DET 11|9|OBJ 12|2|PUNCT
+*CHI:	I climbed onto a deer .
+%mor:	pro:sub|I v|climb-PAST prep|onto det:art|a n|deer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	and the deer was chasing after the dog .
+%mor:	coord|and det:art|the n|deer aux|be&PAST&13S part|chase-PRESP
+	prep|after det:art|the n|dog .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	I fell off the deer and landed in the river .
+%mor:	pro:sub|I v|fall&PAST prep|off det:art|the n|deer coord|and
+	v|land-PAST prep|in det:art|the n|river .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	an(d) I saw a log and looked over it .
+%mor:	coord|and pro:sub|I v|see&PAST det:art|a n|log coord|and
+	cop|look-PAST adv|over pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|8|OBJ 10|3|PUNCT
+*CHI:	an(d) I found two frogs .
+%mor:	coord|and pro:sub|I v|find&PAST det:num|two n|frog-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	and then loads of baby ones came out .
+%mor:	coord|and adv:tem|then v|load-3S prep|of n|baby det:num|one-PL
+	v|come&PAST adv|out .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|QUANT 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*CHI:	so I took one home and said goodbye to all the others .
+%mor:	co|so pro:sub|I v|take&PAST det:num|one n|home coord|and v|say&PAST
+	co|goodbye prep|to qn|all det:art|the n:pt|others .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|JCT 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|8|JCT 10|12|QUANT 11|12|DET 12|9|POBJ 13|3|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

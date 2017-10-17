@@ -1,0 +1,3095 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:04:11 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <07a1.cha>
+----------------------------------------
+*** File "07a1.cha": line 48.
+*FAT:	do you have some nice little things to say to it ? %snd:"07a1"_35999_37818
+%mor:	mod|do pro:per|you v|have qn|some (1)adj|nice (1)adj|little (1)n|thing-PL
+	inf|to v|say prep|to pro:per|it ?
+----------------------------------------
+*** File "07a1.cha": line 183.
+*FAT:	(.) you go a cute little belly . %snd:"07a1"_89464_91283
+%mor:	pro:per|you v|go det:art|a (1)adj|cute (1)adj|little (1)n|belly .
+----------------------------------------
+*** File "07a1.cha": line 916.
+*FAT:	you goin(g) (t)o [/] you goin(g) (t)o [/] goin(g) (t)o break that
+	<horrible little toy> [>] ? %snd:"07a1"_554226_557404
+%mor:	pro:per|you part|go-PRESP pro:per|you part|go-PRESP part|go-PRESP
+	inf|to v|break pro:dem|that (1)adj|horrible (1)adj|little (1)n|toy ?
+----------------------------------------
+*** File "07a1.cha": line 1482.
+*FAT:	definitely formal verbal play . %snd:"07a1"_890589_892985
+%mor:	adv|definite&dadj-LY (1)adj|formal (1)adj|verbal (1)n|play .
+
+    Strings matched 4 times
+
+From file <07a2.cha>
+----------------------------------------
+*** File "07a2.cha": line 61.
+*FAT:	those are cute little sounds . %snd:"07a2"_109393_111046
+%mor:	pro:dem|those cop|be&PRES (1)adj|cute (1)adj|little (1)n|sound-PL .
+----------------------------------------
+*** File "07a2.cha": line 1554.
+*FAT:	and this morning we got [//] gave him a brand new little doggy . %snd:"07a2"_1372671_1375727
+%mor:	coord|and pro:dem|this n|morning pro:sub|we v|give&PAST pro:obj|him
+	det:art|a adj|brand (1)adj|new (1)adj|little (1)n|dog-DIM .
+----------------------------------------
+*** File "07a2.cha": line 1576.
+*MOT:	big plastic eyes . %snd:"07a2"_1384643_1385302
+%mor:	(1)adj|big (1)adj|plastic (1)n|eye-PL .
+
+    Strings matched 3 times
+
+From file <07b1.cha>
+----------------------------------------
+*** File "07b1.cha": line 1213.
+*FAT:	I saw some cute little Navajo babas@s:hun today . %snd:"07b1"_879764_882569
+%mor:	pro:sub|I v|see&PAST qn|some (1)adj|cute (1)adj|little (1)n:prop|Navajo
+	L2|babas adv:tem|today .
+
+    Strings matched 1 times
+
+From file <07b2.cha>
+----------------------------------------
+*** File "07b2.cha": line 194.
+*FAT:	you're a pretty big boy aren't you ? %snd:"07b2"_290495_292103
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|boy
+	aux|be&PRES~neg|not pro:per|you ?
+----------------------------------------
+*** File "07b2.cha": line 371.
+*FAT:	that's a (.) pretty neat thing to do . %snd:"07b2"_448723_450952
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|neat (1)n|thing inf|to
+	v|do .
+
+    Strings matched 2 times
+
+From file <08a.cha>
+----------------------------------------
+*** File "08a.cha": line 1653.
+*MOT:	itty [//] itty bitty bigger tittie [>] . %snd:"08a"_1051101_1054156
+%mor:	adj|itty (1)adj|bit&dn-Y (1)adj|big-CP (1)n|tit-DIM .
+----------------------------------------
+*** File "08a.cha": line 2191.
+*FAT:	a little mexican jumping+bean . %snd:"08a"_1610804_1613405
+%mor:	det:art|a (1)adj|little (1)adj|mexican (1)n|+adj|jumping+n|bean .
+----------------------------------------
+*** File "08a.cha": line 2450.
+*FAT:	is he being a little crazy baby ? %snd:"08a"_1796851_1798792
+%mor:	cop|be&3S pro:sub|he n:gerund|be-PRESP det:art|a (1)adj|little
+	(1)adj|craze&dv-Y (1)n|baby ?
+
+    Strings matched 3 times
+
+From file <08b.cha>
+----------------------------------------
+*** File "08b.cha": line 332.
+*MOT:	little maternal business . %snd:"08b"_215004_217893
+%mor:	(1)adj|little (1)adj|maternal (1)n|business .
+----------------------------------------
+*** File "08b.cha": line 970.
+*FAT:	yeah that's a pretty good job I guess . %snd:"08b"_689806_690632
+%mor:	co|yeah pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|job
+	pro:sub|I v|guess .
+----------------------------------------
+*** File "08b.cha": line 1464.
+*FAT:	there are all sorts of little stylistic things in no . %snd:"08b"_949997_951938
+%mor:	adv|there cop|be&PRES qn|all n|sort-PL prep|of (1)adj|little
+	(1)adj|stylistic (1)n|thing-PL prep|in co|no .
+
+    Strings matched 3 times
+
+From file <19a1.cha>
+----------------------------------------
+*** File "19a1.cha": line 891.
+*FAT:	it's a nice fresh sponge . %snd:"19a1"_1092264_1093872
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|fresh (1)n|sponge .
+----------------------------------------
+*** File "19a1.cha": line 894.
+*FAT:	nice fresh sponge . %snd:"19a1"_1093872_1096806
+%mor:	(1)adj|nice (1)adj|fresh (1)n|sponge .
+----------------------------------------
+*** File "19a1.cha": line 909.
+*FAT:	and he imitated it (.) nice fresh sponge . %snd:"19a1"_1102211_1106382
+%mor:	coord|and pro:sub|he v|imitate-PAST pro:per|it (1)adj|nice (1)adj|fresh
+	(1)n|sponge .
+
+    Strings matched 3 times
+
+From file <19a2.cha>
+
+    Strings matched 0 times
+
+From file <19b1.cha>
+
+    Strings matched 0 times
+
+From file <19b2.cha>
+
+    Strings matched 0 times
+
+From file <20a1.cha>
+----------------------------------------
+*** File "20a1.cha": line 241.
+*MOT:	and Mark is a baby Hulk and Ross is our little big Hulk . %snd:"20a1"_159039_163544
+%mor:	coord|and n:prop|Mark cop|be&3S det:art|a n|baby n:prop|Hulk
+	coord|and n:prop|Ross cop|be&3S det:poss|our (1)adj|little (1)adj|big
+	(1)n:prop|Hulk .
+----------------------------------------
+*** File "20a1.cha": line 327.
+*FAT:	I don't know with those little empty hands . %snd:"20a1"_216961_218331
+%mor:	pro:sub|I mod|do~neg|not v|know prep|with pro:dem|those (1)adj|little
+	(1)adj|empty (1)n|hand-PL .
+----------------------------------------
+*** File "20a1.cha": line 1444.
+*FAT:	where's the <little bitty baby> [>] one ? %snd:"20a1"_792644_794595
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|bit&dn-Y (1)n|baby
+	pro:indef|one ?
+
+    Strings matched 3 times
+
+From file <20a2.cha>
+
+    Strings matched 0 times
+
+From file <20b1.cha>
+
+    Strings matched 0 times
+
+From file <21a1.cha>
+
+    Strings matched 0 times
+
+From file <22a1.cha>
+
+    Strings matched 0 times
+
+From file <22a2.cha>
+
+    Strings matched 0 times
+
+From file <22b1.cha>
+
+    Strings matched 0 times
+
+From file <22b2.cha>
+
+    Strings matched 0 times
+
+From file <23a.cha>
+
+    Strings matched 0 times
+
+From file <23b1.cha>
+
+    Strings matched 0 times
+
+From file <23b2.cha>
+----------------------------------------
+*** File "23b2.cha": line 125.
+*FAT:	no (.) he's a nice little guy . %snd:"23b2"_717673_719059
+%mor:	co|no pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|guy .
+
+    Strings matched 1 times
+
+From file <24a1.cha>
+
+    Strings matched 0 times
+
+From file <24a2.cha>
+
+    Strings matched 0 times
+
+From file <24b1.cha>
+
+    Strings matched 0 times
+
+From file <24b2.cha>
+
+    Strings matched 0 times
+
+From file <25a1.cha>
+
+    Strings matched 0 times
+
+From file <25a2.cha>
+
+    Strings matched 0 times
+
+From file <25b1.cha>
+
+    Strings matched 0 times
+
+From file <25b2.cha>
+
+    Strings matched 0 times
+
+From file <26a1.cha>
+----------------------------------------
+*** File "26a1.cha": line 333.
+*FAT:	nice little rhinoceros . %snd:"26a1"_347500_349440
+%mor:	(1)adj|nice (1)adj|little (1)n|rhinoceros .
+
+    Strings matched 1 times
+
+From file <26a2.cha>
+----------------------------------------
+*** File "26a2.cha": line 788.
+*FAT:	old King Cole (.) was a merry old soul +... %snd:"26a2"_1364070_1368717
+%mor:	adj|old n:prop|King n:prop|Cole cop|be&PAST&13S det:art|a (1)adj|merry
+	(1)adj|old (1)n|soul +...
+
+    Strings matched 1 times
+
+From file <26b2.cha>
+----------------------------------------
+*** File "26b2.cha": line 300.
+*FAT:	did you stay up too late last night ? %snd:"26b"_806040_806973
+%mor:	v|do&PAST pro:per|you n|stay adv|up adv|too (1)adj|late (1)adj|last
+	(1)n|night ?
+----------------------------------------
+*** File "26b2.cha": line 543.
+*FAT:	you look real cute (.) Ross . %snd:"26b"_1298107_1299773
+%mor:	pro:per|you cop|look (1)adj|real (1)adj|cute (1)n:prop|Ross .
+
+    Strings matched 2 times
+
+From file <27a1.cha>
+
+    Strings matched 0 times
+
+From file <27a2.cha>
+----------------------------------------
+*** File "27a2.cha": line 106.
+*FAT:	some day (.) Tuesday (.) they're going to fix the great big witch
+	(.) right ? %snd:"27a2"_77692_80414
+%mor:	qn|some n|day n:prop|Tuesday pro:sub|they~aux|be&PRES part|go-PRESP
+	inf|to v|fix det:art|the (1)adj|great (1)adj|big (1)n|witch adj|right ?
+
+    Strings matched 1 times
+
+From file <27b1.cha>
+----------------------------------------
+*** File "27b1.cha": line 792.
+*FAT:	you're a good little boy . %snd:"27b1"_673014_675122
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 1 times
+
+From file <27b2.cha>
+----------------------------------------
+*** File "27b2.cha": line 963.
+*FAT:	because you like him (.) he's a nice little dog ? %snd:"27b2"_1726232_1728211
+%mor:	conj|because pro:per|you v|like pro:obj|him pro:sub|he~aux|be&3S
+	det:art|a (1)adj|nice (1)adj|little (1)n|dog ?
+
+    Strings matched 1 times
+
+From file <28.cha>
+----------------------------------------
+*** File "28.cha": line 134.
+*FAT:	and how about this nice little hippo ? %snd:"28a1"_67988_71210
+%mor:	coord|and adv:int|how prep|about pro:dem|this (1)adj|nice (1)adj|little
+	(1)n|hippo ?
+----------------------------------------
+*** File "28.cha": line 668.
+*FAT:	Marky is a good little friend . %snd:"28a1"_1109499_1112283
+%mor:	n:prop|Marky cop|be&3S det:art|a (1)adj|good (1)adj|little (1)n|friend .
+----------------------------------------
+*** File "28.cha": line 751.
+*FAT:	nice (.) that's a nice little train you got there . %snd:"28a1"_1201398_1205075
+%mor:	adj|nice pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little
+	(1)n|train pro:per|you v|get&PAST adv|there .
+
+    Strings matched 3 times
+
+From file <28a2.cha>
+
+    Strings matched 0 times
+
+From file <28b1.cha>
+
+    Strings matched 0 times
+
+From file <28b2.cha>
+----------------------------------------
+*** File "28b2.cha": line 199.
+*FAT:	isn't he a horrible little brother ? %snd:"28b2"_164012_168653
+%mor:	cop|be&3S~neg|not pro:sub|he det:art|a (1)adj|horrible (1)adj|little
+	(1)n|brother ?
+----------------------------------------
+*** File "28b2.cha": line 402.
+*FAT:	and you got a cute little watch . %snd:"28b2"_984165_985734
+%mor:	coord|and pro:per|you v|get&PAST det:art|a (1)adj|cute (1)adj|little
+	(1)n|watch .
+
+    Strings matched 2 times
+
+From file <29a1.cha>
+----------------------------------------
+*** File "29a1.cha": line 974.
+*FAT:	tell Marky that if he talks you'll give him a real nice kiss . %snd:"29a1"_1058285_1065920
+%mor:	v|tell n:prop|Marky pro:rel|that conj|if pro:sub|he v|talk-3S
+	pro:per|you~mod|will v|give pro:obj|him det:art|a (1)adj|real (1)adj|nice
+	(1)n|kiss .
+
+    Strings matched 1 times
+
+From file <29a2.cha>
+
+    Strings matched 0 times
+
+From file <29b.cha>
+----------------------------------------
+*** File "29b.cha": line 186.
+*FAT:	that's a pretty hard word (.) yeah . %snd:"29b"_276128_277326
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|hard (1)n|word co|yeah
+	.
+----------------------------------------
+*** File "29b.cha": line 776.
+*FAT:	how about some real good water ? %snd:"29b"_603959_605279
+%mor:	adv:int|how prep|about qn|some (1)adj|real (1)adj|good (1)n|water ?
+
+    Strings matched 2 times
+
+From file <30a1.cha>
+----------------------------------------
+*** File "30a1.cha": line 503.
+*FAT:	you have a dirty little nose don't you ?%snd:"30a1"_336663_339347
+%mor:	pro:per|you v|have det:art|a (1)adj|dirt&dn-Y (1)adj|little (1)n|nose
+	mod|do~neg|not pro:per|you ?
+
+    Strings matched 1 times
+
+From file <30a2.cha>
+
+    Strings matched 0 times
+
+From file <30b1.cha>
+
+    Strings matched 0 times
+
+From file <30b2.cha>
+
+    Strings matched 0 times
+
+From file <31a1.cha>
+
+    Strings matched 0 times
+
+From file <31a2.cha>
+
+    Strings matched 0 times
+
+From file <31b1.cha>
+
+    Strings matched 0 times
+
+From file <31b2.cha>
+----------------------------------------
+*** File "31b2.cha": line 489.
+*FAT:	is he a nice blue monster ? %snd:"31b2"_770391_771506
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|nice (1)adj|blue (1)n|monster ?
+----------------------------------------
+*** File "31b2.cha": line 1027.
+*FAT:	is he a good little brother ? %snd:"31b2"_1265616_1267018
+%mor:	cop|be&3S pro:sub|he det:art|a (1)adj|good (1)adj|little (1)n|brother ?
+
+    Strings matched 2 times
+
+From file <32a1.cha>
+----------------------------------------
+*** File "32a1.cha": line 462.
+*FAT:	you're a real good boy (.) I know . %snd:"32a1"_471556_473535
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|real (1)adj|good (1)n|boy pro:sub|I
+	v|know .
+
+    Strings matched 1 times
+
+From file <32a2.cha>
+
+    Strings matched 0 times
+
+From file <32b.cha>
+
+    Strings matched 0 times
+
+From file <33a1.cha>
+----------------------------------------
+*** File "33a1.cha": line 701.
+*FAT:	you mean little boy .%snd:"33a1"_980131_982110
+%mor:	pro:per|you (1)adj|mean (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "33a1.cha": line 709.
+*FAT:	talk to your dad and be real good friends ?%snd:"33a1"_986734_988320
+%mor:	n|talk prep|to det:poss|your n|dad coord|and cop|be (1)adj|real
+	(1)adj|good (1)n|friend-PL ?
+
+    Strings matched 2 times
+
+From file <33a2.cha>
+----------------------------------------
+*** File "33a2.cha": line 266.
+*FAT:	okay sit down and you've got a real good piece on your plate (.) a
+	real good piece . %snd:"33a2"_207854_213073
+%mor:	co|okay v|sit adv|down coord|and pro:per|you~aux|have
+	part|get&PASTP det:art|a (1)adj|real (1)adj|good (1)n|piece prep|on
+	det:poss|your n|plate det:art|a (2)adj|real (2)adj|good (2)n|piece .
+----------------------------------------
+*** File "33a2.cha": line 831.
+*FAT:	what does the word happy mean Ross ? %snd:"33a2"_759640_762778
+%mor:	pro:int|what v|do&3S det:art|the n|word (1)adj|happy (1)adj|mean
+	(1)n:prop|Ross ?
+----------------------------------------
+*** File "33a2.cha": line 1289.
+*FAT:	they're old dead tigers . %snd:"33a2"_1142255_1144363
+%mor:	pro:sub|they~aux|be&PRES (1)adj|old (1)adj|dead (1)n|tiger-PL .
+
+    Strings matched 4 times
+
+From file <33b1.cha>
+----------------------------------------
+*** File "33b1.cha": line 778.
+*FAT:	wonderful (.) little Rachel ? %snd:"33b1"_1186103_1188787
+%mor:	(1)adj|wonder-FULL (1)adj|little (1)n:prop|Rachel ?
+----------------------------------------
+*** File "33b1.cha": line 1241.
+*FAT:	he thought you were a cute little boy . %snd:"33b1"_1557078_1562075
+%mor:	pro:sub|he v|think&PAST pro:per|you cop|be&PAST det:art|a (1)adj|cute
+	(1)adj|little (1)n|boy .
+
+    Strings matched 2 times
+
+From file <33b2.cha>
+----------------------------------------
+*** File "33b2.cha": line 62.
+*FAT:	that's a nice little coat . %snd:"33b2"_105102_105473
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|coat .
+----------------------------------------
+*** File "33b2.cha": line 192.
+*FAT:	I'm going to be a good little boy (.) give me a kiss . %snd:"33b2"_256476_262215
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to cop|be det:art|a (1)adj|good
+	(1)adj|little (1)n|boy v|give pro:obj|me det:art|a n|kiss .
+----------------------------------------
+*** File "33b2.cha": line 208.
+*FAT:	was I a good little boy ? %snd:"33b2"_278190_295736
+%mor:	cop|be&PAST&13S pro:sub|I det:art|a (1)adj|good (1)adj|little (1)n|boy ?
+
+    Strings matched 3 times
+
+From file <34a1.cha>
+
+    Strings matched 0 times
+
+From file <34a2.cha>
+
+    Strings matched 0 times
+
+From file <34b1.cha>
+
+    Strings matched 0 times
+
+From file <34b2.cha>
+
+    Strings matched 0 times
+
+From file <35a1.cha>
+----------------------------------------
+*** File "35a1.cha": line 652.
+*FAT:	was it fun last night ? %snd:"35a1"_1116815_1118032
+%mor:	cop|be&PAST&13S pro:per|it (1)adj|fun (1)adj|last (1)n|night ?
+
+    Strings matched 1 times
+
+From file <35a2.cha>
+
+    Strings matched 0 times
+
+From file <35b1.cha>
+----------------------------------------
+*** File "35b1.cha": line 894.
+*FAT:	because they're just real big (.) Ross . %snd:"35b1"_858576_861074
+%mor:	conj|because pro:sub|they~cop|be&PRES adv|just (1)adj|real (1)adj|big
+	(1)n:prop|Ross .
+
+    Strings matched 1 times
+
+From file <35b2.cha>
+----------------------------------------
+*** File "35b2.cha": line 258.
+*FAT:	isn't that a nice little book ? %snd:"35b2"_205620_208510
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|nice (1)adj|little (1)n|book
+	?
+----------------------------------------
+*** File "35b2.cha": line 416.
+*FAT:	they had dear little fur coats of their own and they tumbled about
+	the doorstep . %snd:"35b2"_307211_316127
+%mor:	pro:sub|they v|have&PAST (1)adj|dear (1)adj|little (1)n|fur v|coat-3S
+	prep|of det:poss|their adj|own coord|and pro:sub|they v|tumble-PAST
+	prep|about det:art|the n|+n|door+n|step .
+----------------------------------------
+*** File "35b2.cha": line 704.
+*FAT:	excellent (.) excellent (.) you did a good magic trick . %snd:"35b2"_552128_554914
+%mor:	adj|excellent adj|excellent pro:per|you v|do&PAST det:art|a
+	(1)adj|good (1)adj|magic (1)n|trick .
+----------------------------------------
+*** File "35b2.cha": line 1073.
+*FAT:	he's really a pretty good guy (.) huh ? %snd:"35b2"_923982_925571
+%mor:	pro:sub|he~aux|be&3S adv|real&dadj-LY det:art|a (1)adj|pretty (1)adj|good
+	(1)n|guy co|huh ?
+
+    Strings matched 4 times
+
+From file <36a1.cha>
+----------------------------------------
+*** File "36a1.cha": line 875.
+*FAT:	he's a cute little guy . %snd:"36a1"_736380_737290
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|guy .
+----------------------------------------
+*** File "36a1.cha": line 891.
+*FAT:	he's a really nice little boy . %snd:"36a1"_742984_744182
+%mor:	pro:sub|he~aux|be&3S det:art|a adv|real&dadj-LY (1)adj|nice (1)adj|little
+	(1)n|boy .
+----------------------------------------
+*** File "36a1.cha": line 1212.
+*FAT:	can I give you a sweet little kiss ? %snd:"36a1"_985453_986673
+%mor:	mod|can pro:sub|I v|give pro:per|you det:art|a (1)adj|sweet (1)adj|little
+	(1)n|kiss ?
+----------------------------------------
+*** File "36a1.cha": line 1217.
+*FAT:	listen up now (.) a sweet little kiss . %snd:"36a1"_986673_991131
+%mor:	v|listen adv|up adv|now det:art|a (1)adj|sweet (1)adj|little (1)n|kiss .
+----------------------------------------
+*** File "36a1.cha": line 1450.
+*FAT:	you're being a little bad boy . %snd:"36a1"_1197914_1199150
+%mor:	pro:per|you~aux|be&PRES n:gerund|be-PRESP det:art|a (1)adj|little
+	(1)adj|bad (1)n|boy .
+
+    Strings matched 5 times
+
+From file <36a2.cha>
+----------------------------------------
+*** File "36a2.cha": line 141.
+*FAT:	the big bad wolf says +"/. %snd:"36a2"_159539_160423
+%mor:	det:art|the (1)adj|big (1)adj|bad (1)n|wolf v|say-3S +"/.
+
+    Strings matched 1 times
+
+From file <36b1.cha>
+----------------------------------------
+*** File "36b1.cha": line 95.
+*FAT:	yeah (.) I'm the good big brother (.) and he's the good little
+	brother (.) okay ? %snd:"36b1"_72780_77155
+%mor:	co|yeah pro:sub|I~cop|be&1S det:art|the (1)adj|good (1)adj|big (1)n|brother
+	coord|and pro:sub|he~aux|be&3S det:art|the (2)adj|good (2)adj|little
+	(2)n|brother adj|okay ?
+----------------------------------------
+*** File "36b1.cha": line 180.
+*FAT:	good (.) good (.) Ross . %snd:"36b1"_116581_119553
+%mor:	(1)adj|good (1)adj|good (1)n:prop|Ross .
+----------------------------------------
+*** File "36b1.cha": line 196.
+*FAT:	you're a pretty nice daddy . %snd:"36b1"_124383_127438
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|nice (1)n|daddy .
+----------------------------------------
+*** File "36b1.cha": line 308.
+*FAT:	a good wicked witch . %snd:"36b1"_192537_194644
+%mor:	det:art|a (1)adj|good (1)adj|wicked (1)n|witch .
+----------------------------------------
+*** File "36b1.cha": line 311.
+*FAT:	what does a good wicked witch do ? %snd:"36b1"_194644_195964
+%mor:	pro:int|what v|do&3S det:art|a (1)adj|good (1)adj|wicked (1)n|witch v|do ?
+----------------------------------------
+*** File "36b1.cha": line 451.
+*FAT:	you know (.) this little boy (.) this little brother has a dirty
+	dirty bottom . %snd:"36b1"_292724_302650
+%mor:	pro:per|you v|know pro:dem|this adj|little n|boy pro:dem|this
+	adj|little n|brother v|have&3S det:art|a (1)adj|dirt&dn-Y (1)adj|dirt&dn-Y
+	(1)n|bottom .
+----------------------------------------
+*** File "36b1.cha": line 684.
+*FAT:	you know (.) Dad's real sick still (.) Ross . %snd:"36b1"_474032_477170
+%mor:	pro:per|you v|know n:prop|Dad~poss|s (1)adj|real (1)adj|sick (1)n|still
+	n:prop|Ross .
+----------------------------------------
+*** File "36b1.cha": line 692.
+*FAT:	so (.) how about taking it easy okay (.) honey ? %snd:"36b1"_478945_480431
+%mor:	adv|so adv:int|how adv|about part|take-PRESP pro:per|it
+	(1)adj|ease&dn-Y (1)adj|okay (1)n|honey ?
+----------------------------------------
+*** File "36b1.cha": line 815.
+*FAT:	cause it's a nice little car . %snd:"36b1"_669291_670860
+%mor:	n|cause pro:per|it~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|car .
+
+    Strings matched 10 times
+
+From file <36b2.cha>
+
+    Strings matched 0 times
+
+From file <37a1.cha>
+----------------------------------------
+*** File "37a1.cha": line 1080.
+*DIA:	he says the word Ball for all sorts of balls and he know he only
+	uses it for balls and I've never seen it over generalized yet he
+	uses it for big balls the volley balls for the little one inch
+	little red rubber ball and so one . %snd:"37a1"_897185_914432
+%mor:	pro:sub|he v|say-3S det:art|the n|word n:prop|Ball prep|for adv|all
+	n|sort-PL prep|of n|ball-PL coord|and pro:sub|he v|know pro:sub|he
+	adv|only v|use-3S pro:per|it prep|for n|ball-PL coord|and
+	pro:sub|I~aux|have adv|never part|see&PASTP pro:per|it adv|over
+	part|generalize-PASTP adv|yet pro:sub|he v|use-3S pro:per|it
+	prep|for adj|big n|ball-PL det:art|the n|volley n|ball-PL prep|for
+	det:art|the adj|little pro:indef|one n|inch (1)adj|little (1)adj|red
+	(1)n|rubber n|ball coord|and co|so pro:indef|one .
+----------------------------------------
+*** File "37a1.cha": line 1206.
+*FAT:	no (.) you would with your little semantic generalizations . %snd:"37a1"_1032081_1035796
+%mor:	co|no pro:per|you mod|will&COND prep|with det:poss|your (1)adj|little
+	(1)adj|semantic (1)n|generalization-PL .
+
+    Strings matched 2 times
+
+From file <37a2.cha>
+----------------------------------------
+*** File "37a2.cha": line 610.
+*FAT:	no he takes it in his mouth roar@o he has these big teeth big nasty
+	teeth . %snd:"37a2"_550448_558129
+%mor:	co|no pro:sub|he v|take-3S pro:per|it prep|in det:poss|his n|mouth
+	on|roar pro:sub|he aux|have&3S pro:dem|these adj|big n|tooth&PL
+	(1)adj|big (1)adj|nasty (1)n|tooth&PL .
+
+    Strings matched 1 times
+
+From file <37b1.cha>
+----------------------------------------
+*** File "37b1.cha": line 47.
+*FAT:	okay I'm going to be american super hero woosh@o . %snd:"37b1"_17922_20539
+%mor:	co|okay pro:sub|I~aux|be&1S part|go-PRESP inf|to cop|be
+	(1)adj|american (1)adj|super (1)n|hero on|woosh .
+----------------------------------------
+*** File "37b1.cha": line 55.
+*FAT:	don't fall and get hurt little super hero . %snd:"37b1"_22259_23828
+%mor:	mod|do~neg|not v|fall coord|and v|get part|hurt&PASTP (1)adj|little
+	(1)adj|super (1)n|hero .
+----------------------------------------
+*** File "37b1.cha": line 60.
+*FAT:	don't fall and get hurt little super hero . %snd:"37b1"_23828_28325
+%mor:	mod|do~neg|not v|fall coord|and v|get part|hurt&PASTP (1)adj|little
+	(1)adj|super (1)n|hero .
+----------------------------------------
+*** File "37b1.cha": line 77.
+*FAT:	and you gave little baby american super hero his lion ? %snd:"37b1"_55303_58154
+%mor:	coord|and pro:per|you v|give&PAST adj|little n|baby (1)adj|american
+	(1)adj|super (1)n|hero det:poss|his n|lion ?
+----------------------------------------
+*** File "37b1.cha": line 344.
+*FAT:	give him a kiss (.) give Ross a kiss you little super hero . %snd:"37b1"_206571_211129
+%mor:	v|give pro:obj|him det:art|a n|kiss v|give n:prop|Ross det:art|a
+	n|kiss pro:per|you (1)adj|little (1)adj|super (1)n|hero .
+----------------------------------------
+*** File "37b1.cha": line 605.
+*FAT:	you're a good super hero . %snd:"37b1"_349529_351841
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|good (1)adj|super (1)n|hero .
+
+    Strings matched 6 times
+
+From file <37b2.cha>
+----------------------------------------
+*** File "37b2.cha": line 184.
+*FAT:	well this is a dirty little baby . %snd:"37b2"_148985_152207
+%mor:	co|well pro:dem|this cop|be&3S det:art|a (1)adj|dirt&dn-Y (1)adj|little
+	(1)n|baby .
+----------------------------------------
+*** File "37b2.cha": line 1145.
+*FAT:	but he's a pretty nice guy Ross . %snd:"37b2"_918123_920452
+%mor:	conj|but pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|nice (1)n|guy
+	n:prop|Ross .
+----------------------------------------
+*** File "37b2.cha": line 1633.
+*FAT:	Marky's a good little doctor . %snd:"37b2"_1313865_1317020
+%mor:	n:prop|Marky~poss|s det:art|a (1)adj|good (1)adj|little (1)n|doctor .
+----------------------------------------
+*** File "37b2.cha": line 1657.
+*FAT:	your brother's a good little doctor . %snd:"37b2"_1331697_1336322
+%mor:	det:poss|your n|brother~poss|s det:art|a (1)adj|good (1)adj|little
+	(1)n|doctor .
+
+    Strings matched 4 times
+
+From file <38a1.cha>
+----------------------------------------
+*** File "38a1.cha": line 556.
+*FAT:	oh (.) good wicked witches daddy (.) not a bad wicked witches daddy
+	. %snd:"38a1"_362296_365908
+%mor:	co|oh (1)adj|good (1)adj|wicked (1)n|witch-PL n|daddy neg|not det:art|a
+	(2)adj|bad (2)adj|wicked (2)n|witch-PL n|daddy .
+
+    Strings matched 2 times
+
+From file <38a2.cha>
+----------------------------------------
+*** File "38a2.cha": line 677.
+*FAT:	cause I'm a pretty nice man ? %snd:"38a2"_694557_696498
+%mor:	n|cause pro:sub|I~cop|be&1S det:art|a (1)adj|pretty (1)adj|nice (1)n|man ?
+
+    Strings matched 1 times
+
+From file <38b1.cha>
+
+    Strings matched 0 times
+
+From file <38b2.cha>
+----------------------------------------
+*** File "38b2.cha": line 371.
+*FAT:	his own little cute hands . %snd:"38b2"_377404_379261
+%mor:	det:poss|his adj|own (1)adj|little (1)adj|cute (1)n|hand-PL .
+
+    Strings matched 1 times
+
+From file <39a1.cha>
+
+    Strings matched 0 times
+
+From file <39a2.cha>
+
+    Strings matched 0 times
+
+From file <39b1.cha>
+
+    Strings matched 0 times
+
+From file <39b2.cha>
+----------------------------------------
+*** File "39b2.cha": line 389.
+*FAT:	and remember all those nasty little Jawas ? %snd:"39b2"_243512_245741
+%mor:	coord|and v|remember qn|all pro:dem|those (1)adj|nasty (1)adj|little
+	(1)n:prop|Jawas ?
+
+    Strings matched 1 times
+
+From file <40a1.cha>
+----------------------------------------
+*** File "40a1.cha": line 1211.
+*FAT:	don't they make nice little numbers ? %snd:"40a1"_778802_780660
+%mor:	mod|do~neg|not pro:sub|they v|make (1)adj|nice (1)adj|little (1)n|number-PL
+	?
+
+    Strings matched 1 times
+
+From file <40a2.cha>
+----------------------------------------
+*** File "40a2.cha": line 15.
+*FAT:	you're a nice little boy who what ? %snd:"40a2"_2684_4727
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|nice (1)adj|little (1)n|boy
+	pro:rel|who pro:int|what ?
+
+    Strings matched 1 times
+
+From file <40b.cha>
+----------------------------------------
+*** File "40b.cha": line 923.
+*FAT:	now help your poor old Dad to get up (.) okay ? %snd:"40b"_609852_613567
+%mor:	adv|now v|help det:poss|your (1)adj|poor (1)adj|old (1)n:prop|Dad inf|to
+	v|get adv|up adj|okay ?
+
+    Strings matched 1 times
+
+From file <41a1.cha>
+----------------------------------------
+*** File "41a1.cha": line 1028.
+*FAT:	he was a good little bird . %snd:"41a1"_933679_934710
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a (1)adj|good (1)adj|little (1)n|bird .
+----------------------------------------
+*** File "41a1.cha": line 1034.
+*FAT:	he was a good little bird . %snd:"41a1"_935722_936568
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a (1)adj|good (1)adj|little (1)n|bird .
+
+    Strings matched 2 times
+
+From file <41a2.cha>
+----------------------------------------
+*** File "41a2.cha": line 493.
+*FAT:	he's a cute little fellow coming out_of the the smog . %snd:"41a2"_479940_484027
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|fellow
+	part|come-PRESP prep|out_of det:art|the det:art|the n|smog .
+----------------------------------------
+*** File "41a2.cha": line 498.
+*FAT:	very ancient little creature . %snd:"41a2"_484027_488940
+%mor:	adv|very (1)adj|ancient (1)adj|little (1)n|creature .
+----------------------------------------
+*** File "41a2.cha": line 527.
+*FAT:	okay (.) are you little old Yoda ? %snd:"41a2"_529538_535380
+%mor:	co|okay aux|be&PRES pro:per|you (1)adj|little (1)adj|old (1)n:prop|Yoda ?
+
+    Strings matched 3 times
+
+From file <41b1.cha>
+----------------------------------------
+*** File "41b1.cha": line 1044.
+*FAT:	you've got a good little heart (.) you know that ? %snd:"41b1"_1066138_1068347
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|good (1)adj|little
+	(1)n|heart pro:per|you v|know pro:dem|that ?
+----------------------------------------
+*** File "41b1.cha": line 1107.
+*FAT:	can you see your black little toe ? %snd:"41b1"_1137924_1139038
+%mor:	mod|can pro:per|you v|see det:poss|your (1)adj|black (1)adj|little (1)n|toe
+	?
+----------------------------------------
+*** File "41b1.cha": line 1129.
+*FAT:	you see the nice new part right down here that's all clean ? %snd:"41b1"_1147869_1151587
+%mor:	pro:per|you v|see det:art|the (1)adj|nice (1)adj|new (1)n|part adj|right
+	adv|down adv|here pro:rel|that~aux|be&3S adv|all adj|clean ?
+
+    Strings matched 3 times
+
+From file <41b2.cha>
+
+    Strings matched 0 times
+
+From file <42a1.cha>
+----------------------------------------
+*** File "42a1.cha": line 29.
+*FAT:	I'm a poor old daddy . %snd:"42a1"_14572_20062
+%mor:	pro:sub|I~cop|be&1S det:art|a (1)adj|poor (1)adj|old (1)n|daddy .
+----------------------------------------
+*** File "42a1.cha": line 1426.
+*FAT:	can't the little sexy girl have some some water ? %snd:"42a1"_1151484_1156769
+%mor:	mod|can~neg|not det:art|the (1)adj|little (1)adj|sex&dn-Y (1)n|girl v|have
+	pro:indef|some qn|some n|water ?
+
+    Strings matched 2 times
+
+From file <42a2.cha>
+----------------------------------------
+*** File "42a2.cha": line 262.
+*FAT:	oh (.) that's what the cute little dogs say in Denver (.) huh ? %snd:"42a2"_238867_240436
+%mor:	co|oh pro:dem|that~cop|be&3S pro:int|what det:art|the (1)adj|cute
+	(1)adj|little (1)n|dog-PL v|say prep|in n:prop|Denver co|huh ?
+----------------------------------------
+*** File "42a2.cha": line 273.
+*FAT:	what do the cute little cats say in Denver ? %snd:"42a2"_242108_243965
+%mor:	det:int|what v|do det:art|the (1)adj|cute (1)adj|little (1)n|cat-PL co|say
+	prep|in n:prop|Denver ?
+
+    Strings matched 2 times
+
+From file <42b2.cha>
+----------------------------------------
+*** File "42b2.cha": line 35.
+*FAT:	you'll be a sweet little boy . %snd:"42b2"_12446_13829
+%mor:	pro:per|you~mod|will cop|be det:art|a (1)adj|sweet (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "42b2.cha": line 41.
+*FAT:	do you want to be a sweet little boy ? %snd:"42b2"_14572_15418
+%mor:	mod|do pro:per|you v|want inf|to cop|be det:art|a (1)adj|sweet
+	(1)adj|little (1)n|boy ?
+
+    Strings matched 2 times
+
+From file <43a1.cha>
+----------------------------------------
+*** File "43a1.cha": line 698.
+*FAT:	you'll be a sweet little boy . %snd:"43a1"_626645_627813
+%mor:	pro:per|you~mod|will cop|be det:art|a (1)adj|sweet (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "43a1.cha": line 704.
+*FAT:	you want to be a sweet little boy ? %snd:"43a1"_628579_629696
+%mor:	pro:per|you v|want inf|to cop|be det:art|a (1)adj|sweet (1)adj|little
+	(1)n|boy ?
+
+    Strings matched 2 times
+
+From file <43a2.cha>
+----------------------------------------
+*** File "43a2.cha": line 451.
+*FAT:	this ice cave is a very unique (.) different kind of cave . %snd:"43a2"_431050_437635
+%mor:	pro:dem|this n|ice n|cave cop|be&3S det:art|a adv|very (1)adj|unique
+	(1)adj|different (1)n|kind prep|of n|cave .
+----------------------------------------
+*** File "43a2.cha": line 2220.
+*FAT:	is that a big (.) huge woman ? %snd:"43a2"_2334470_2336142
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|big (1)adj|huge (1)n|woman ?
+----------------------------------------
+*** File "43a2.cha": line 2302.
+*FAT:	cause it was for a huge (.) big boy . %snd:"43a2"_2382582_2384997
+%mor:	v|cause pro:per|it cop|be&PAST&13S prep|for det:art|a (1)adj|huge
+	(1)adj|big (1)n|boy .
+----------------------------------------
+*** File "43a2.cha": line 2317.
+*FAT:	if you wanted to have it for a little boy (.) you just cut the big
+	big pieces off . %snd:"43a2"_2390467_2394285
+%mor:	conj|if pro:per|you v|want-PAST inf|to v|have pro:per|it prep|for
+	det:art|a adj|little n|boy pro:per|you adv|just v|cut&ZERO
+	det:art|the (1)adj|big (1)adj|big (1)n|piece-PL prep|off .
+
+    Strings matched 4 times
+
+From file <43b1.cha>
+
+    Strings matched 0 times
+
+From file <43b2.cha>
+----------------------------------------
+*** File "43b2.cha": line 1470.
+*FAT:	let's just pretend Marky is a sexy little girl . %snd:"43b2"_1285515_1287456
+%mor:	v|let~pro:obj|us adv|just adj|pretend n:prop|Marky cop|be&3S
+	det:art|a (1)adj|sex&dn-Y (1)adj|little (1)n|girl .
+
+    Strings matched 1 times
+
+From file <44a1.cha>
+
+    Strings matched 0 times
+
+From file <44a2.cha>
+
+    Strings matched 0 times
+
+From file <44b1.cha>
+
+    Strings matched 0 times
+
+From file <44b2.cha>
+----------------------------------------
+*** File "44b2.cha": line 131.
+*FAT:	come on you polite little boy who's getting exercise ? %snd:"44b2"_110136_115977
+%mor:	v|come prep|on pro:per|you (1)adj|polite (1)adj|little (1)n|boy
+	pro:rel|who~aux|be&3S part|get-PRESP n|exercise ?
+----------------------------------------
+*** File "44b2.cha": line 163.
+*FAT:	a good little sibling ? %snd:"44b2"_148691_149805
+%mor:	det:art|a (1)adj|good (1)adj|little (1)n|sibling ?
+----------------------------------------
+*** File "44b2.cha": line 374.
+*FAT:	hasn't she got a cute little face ? %snd:"44b2"_301365_303491
+%mor:	aux|have&3S~neg|not pro:sub|she v|get&PAST det:art|a (1)adj|cute
+	(1)adj|little (1)n|face ?
+----------------------------------------
+*** File "44b2.cha": line 382.
+*FAT:	you've got a cute little face (.) don't you ? %snd:"44b2"_304420_306194
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|cute (1)adj|little
+	(1)n|face mod|do~neg|not pro:per|you ?
+----------------------------------------
+*** File "44b2.cha": line 408.
+*FAT:	you see (.) the people that are very big don't have cute little
+	faces . %snd:"44b2"_315111_318455
+%mor:	pro:per|you v|see det:art|the n|person&PL pro:rel|that cop|be&PRES
+	adv|very adj|big mod|do~neg|not v|have (1)adj|cute (1)adj|little (1)n|face-PL
+	.
+----------------------------------------
+*** File "44b2.cha": line 514.
+*FAT:	she's a good little sister . %snd:"44b2"_371005_372120
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|good (1)adj|little (1)n|sister .
+----------------------------------------
+*** File "44b2.cha": line 538.
+*FAT:	okay little sister , do you're cute little jumping . %snd:"44b2"_381016_383819
+%mor:	co|okay adj|little n|sister cm|cm v|do pro:per|you~cop|be&PRES
+	(1)adj|cute (1)adj|little (1)n:gerund|jump-PRESP .
+----------------------------------------
+*** File "44b2.cha": line 548.
+*FAT:	come on big sister , oo what a big strong sister . %snd:"44b2"_387246_391044
+%mor:	v|come adv|on adj|big n|sister cm|cm co|oo pro:int|what det:art|a
+	(1)adj|big (1)adj|strong (1)n|sister .
+----------------------------------------
+*** File "44b2.cha": line 650.
+*FAT:	called a messy little boy . %snd:"44b2"_481489_482706
+%mor:	v|call-PAST det:art|a (1)adj|mess&dn-Y (1)adj|little (1)n|boy .
+
+    Strings matched 9 times
+
+From file <45a1.cha>
+----------------------------------------
+*** File "45a1.cha": line 1004.
+*FAT:	they were very good little ducks . %snd:"45a1"_922397_923409
+%mor:	pro:sub|they cop|be&PAST adv|very (1)adj|good (1)adj|little (1)n|duck-PL .
+----------------------------------------
+*** File "45a1.cha": line 1391.
+*FAT:	you'll be a big sexy girl . %snd:"45a1"_1270203_1271607
+%mor:	pro:per|you~mod|will cop|be det:art|a (1)adj|big (1)adj|sex&dn-Y (1)n|girl .
+
+    Strings matched 2 times
+
+From file <45a2.cha>
+
+    Strings matched 0 times
+
+From file <45b1.cha>
+----------------------------------------
+*** File "45b1.cha": line 506.
+*FAT:	whose two little little apples ? %snd:"45b1"_415671_419386
+%mor:	pro:rel|whose det:num|two (1)adj|little (1)adj|little (1)n|apple-PL ?
+----------------------------------------
+*** File "45b1.cha": line 850.
+*FAT:	it has red and a little dark side . %snd:"45b1"_678764_679322
+%mor:	pro:per|it aux|have&3S n|red coord|and det:art|a (1)adj|little
+	(1)adj|dark (1)n|side .
+
+    Strings matched 2 times
+
+From file <45b2.cha>
+
+    Strings matched 0 times
+
+From file <46a1.cha>
+
+    Strings matched 0 times
+
+From file <46a2.cha>
+
+    Strings matched 0 times
+
+From file <46b1.cha>
+----------------------------------------
+*** File "46b1.cha": line 96.
+*FAT:	you mean a long long cabin ? %snd:"46b1"_84481_85595
+%mor:	pro:per|you v|mean det:art|a (1)adj|long (1)adj|long (1)n|cabin ?
+----------------------------------------
+*** File "46b1.cha": line 362.
+*FAT:	don't yell to loud (.) little baby . %snd:"46b1"_304112_308013
+%mor:	mod|do~neg|not v|yell prep|to (1)adj|loud (1)adj|little (1)n|baby .
+
+    Strings matched 2 times
+
+From file <46b2.cha>
+----------------------------------------
+*** File "46b2.cha": line 748.
+*FAT:	no (.) they're big big machines . %snd:"46b2"_795645_798534
+%mor:	co|no pro:sub|they~aux|be&PRES (1)adj|big (1)adj|big (1)n|machine-PL .
+
+    Strings matched 1 times
+
+From file <47a1.cha>
+
+    Strings matched 0 times
+
+From file <47a2.cha>
+----------------------------------------
+*** File "47a2.cha": line 79.
+*FAT:	and the real bad things (.) yeah . %snd:"47a2"_86676_88142
+%mor:	coord|and det:art|the (1)adj|real (1)adj|bad (1)n|thing-PL co|yeah .
+
+    Strings matched 1 times
+
+From file <47b1.cha>
+----------------------------------------
+*** File "47b1.cha": line 385.
+*FAT:	not the bad old Empire . %snd:"47b1"_280795_281993
+%mor:	neg|not det:art|the (1)adj|bad (1)adj|old (1)n:prop|Empire .
+
+    Strings matched 1 times
+
+From file <47b2.cha>
+
+    Strings matched 0 times
+
+From file <48a1.cha>
+----------------------------------------
+*** File "48a1.cha": line 1292.
+*FAT:	we're going to cut you open (.) little snake . %snd:"48a1"_1256729_1257844
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|cut&ZERO pro:per|you
+	(1)adj|open (1)adj|little (1)n|snake .
+
+    Strings matched 1 times
+
+From file <48a2.cha>
+
+    Strings matched 0 times
+
+From file <48b1.cha>
+----------------------------------------
+*** File "48b1.cha": line 730.
+*FAT:	oh (.) that was really a cute little thing . %snd:"48b1"_975902_984550
+%mor:	co|oh pro:rel|that cop|be&PAST&13S adv|real&dadj-LY det:art|a
+	(1)adj|cute (1)adj|little (1)n|thing .
+----------------------------------------
+*** File "48b1.cha": line 855.
+*FAT:	if I bring you a band_aid (.) would you be the sweetest little boy
+	? %snd:"48b1"_1260652_1263995
+%mor:	conj|if pro:sub|I v|bring pro:per|you det:art|a n|band_aid
+	mod|will&COND pro:per|you cop|be det:art|the (1)adj|sweet-SP (1)adj|little
+	(1)n|boy ?
+
+    Strings matched 2 times
+
+From file <48b2.cha>
+----------------------------------------
+*** File "48b2.cha": line 72.
+*FAT:	yeah (.) it's a pretty bad world . %snd:"48b2"_61384_64068
+%mor:	co|yeah pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|bad (1)n|world .
+----------------------------------------
+*** File "48b2.cha": line 147.
+*FAT:	you're the one that's talking loud (.) little boy . %snd:"48b2"_131582_134080
+%mor:	pro:per|you~aux|be&PRES det:art|the pro:indef|one
+	pro:rel|that~aux|be&3S part|talk-PRESP (1)adj|loud (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "48b2.cha": line 275.
+*FAT:	this is because yesterday we went shopping and bought a_lot_of good
+	good things (.) right ? %snd:"48b2"_276166_280996
+%mor:	pro:dem|this cop|be&3S conj|because adv:tem|yesterday pro:sub|we
+	v|go&PAST n:gerund|shop-PRESP coord|and v|buy&PAST qn|a_lot_of
+	(1)adj|good (1)adj|good (1)n|thing-PL n|right ?
+
+    Strings matched 3 times
+
+From file <49a1.cha>
+
+    Strings matched 0 times
+
+From file <49a2.cha>
+
+    Strings matched 0 times
+
+From file <49b1.cha>
+----------------------------------------
+*** File "49b1.cha": line 1653.
+*FAT:	you need a little tummy (.) like your big big fat daddy . %snd:"49b1"_1409797_1412211
+%mor:	pro:per|you v|need det:art|a adj|little n|tummy prep|like
+	det:poss|your (1)adj|big (1)adj|big (1)n|fat n|daddy .
+
+    Strings matched 1 times
+
+From file <49b2.cha>
+----------------------------------------
+*** File "49b2.cha": line 655.
+*FAT:	you better take you and your nasty little stool and be nice . %snd:"49b2"_616312_621802
+%mor:	pro:per|you adj|good&CP v|take pro:per|you coord|and det:poss|your
+	(1)adj|nasty (1)adj|little (1)n|stool coord|and cop|be adj|nice .
+
+    Strings matched 1 times
+
+From file <50a1.cha>
+
+    Strings matched 0 times
+
+From file <50a2.cha>
+
+    Strings matched 0 times
+
+From file <50b1.cha>
+----------------------------------------
+*** File "50b1.cha": line 1058.
+*FAT:	oh (.) Ross (.) you didn't tell me about that nice little belt you
+	had . %snd:"50b1"_1093464_1107108
+%mor:	co|oh n:prop|Ross pro:per|you mod|do&PAST~neg|not v|tell pro:obj|me
+	prep|about pro:dem|that (1)adj|nice (1)adj|little (1)n|belt pro:per|you
+	v|have&PAST .
+
+    Strings matched 1 times
+
+From file <50b2.cha>
+----------------------------------------
+*** File "50b2.cha": line 1166.
+*FAT:	big huge buildings . %snd:"50b2"_846670_850200
+%mor:	(1)adj|big (1)adj|huge (1)n|building-PL .
+
+    Strings matched 1 times
+
+From file <51a1.cha>
+
+    Strings matched 0 times
+
+From file <51a2.cha>
+
+    Strings matched 0 times
+
+From file <51b1.cha>
+----------------------------------------
+*** File "51b1.cha": line 713.
+*FAT:	he has a long thin gun . %snd:"51b1"_582484_584156
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|long (1)adj|thin (1)n|gun .
+
+    Strings matched 1 times
+
+From file <51b2.cha>
+
+    Strings matched 0 times
+
+From file <52a1.cha>
+----------------------------------------
+*** File "52a1.cha": line 1181.
+*FAT:	I mean the big bad wolf . %snd:"52a1"_1050762_1052433
+%mor:	pro:sub|I v|mean det:art|the (1)adj|big (1)adj|bad (1)n|wolf .
+
+    Strings matched 1 times
+
+From file <52a2.cha>
+
+    Strings matched 0 times
+
+From file <52b1.cha>
+----------------------------------------
+*** File "52b1.cha": line 642.
+*FAT:	you can take your own little money . %snd:"52b1"_685697_687017
+%mor:	pro:per|you mod|can v|take det:poss|your (1)adj|own (1)adj|little (1)n|money
+	.
+
+    Strings matched 1 times
+
+From file <52b2.cha>
+----------------------------------------
+*** File "52b2.cha": line 220.
+*FAT:	is it because you're watching so many violent violent tv programs ?
+	%snd:"52b2"_259384_264131
+%mor:	aux|be&3S pro:per|it conj|because pro:per|you~aux|be&PRES
+	part|watch-PRESP adv|so qn|many (1)adj|violent (1)adj|violent (1)n|tv
+	n|program-PL ?
+
+    Strings matched 1 times
+
+From file <53a1.cha>
+----------------------------------------
+*** File "53a1.cha": line 538.
+*MOT:	did you notice that little tiny part at the end of the movie ? %snd:"53a1"_595426_599699
+%mor:	mod|do&PAST pro:per|you v|notice det:dem|that (1)adj|little (1)adj|tiny
+	(1)n|part prep|at det:art|the n|end prep|of det:art|the n|movie ?
+
+    Strings matched 1 times
+
+From file <53a2.cha>
+
+    Strings matched 0 times
+
+From file <53b1.cha>
+
+    Strings matched 0 times
+
+From file <53b2.cha>
+
+    Strings matched 0 times
+
+From file <54a1.cha>
+
+    Strings matched 0 times
+
+From file <54a2.cha>
+----------------------------------------
+*** File "54a2.cha": line 354.
+*FAT:	is it just to tease your little little brother ? %snd:"54a2"_319920_324750
+%mor:	aux|be&3S pro:per|it adv|just inf|to v|tease det:poss|your
+	(1)adj|little (1)adj|little (1)n|brother ?
+
+    Strings matched 1 times
+
+From file <54b1.cha>
+
+    Strings matched 0 times
+
+From file <54b2.cha>
+
+    Strings matched 0 times
+
+From file <55a1.cha>
+----------------------------------------
+*** File "55a1.cha": line 1527.
+*FAT:	the big long log that the boys sit on and swing off of (.) the one
+	that is all full of broken pieces of wood . %snd:"55a1"_1298385_1306641
+%mor:	det:art|the (1)adj|big (1)adj|long (1)n|log pro:rel|that det:art|the
+	n|boy-PL v|sit adv|on coord|and n|swing adv|off prep|of det:art|the
+	pro:indef|one pro:rel|that cop|be&3S adv|all adj|full prep|of
+	part|break&PASTP n|piece-PL prep|of n|wood .
+
+    Strings matched 1 times
+
+From file <55a2.cha>
+
+    Strings matched 0 times
+
+From file <55b1.cha>
+----------------------------------------
+*** File "55b1.cha": line 602.
+*FAT:	okay (.) but the flowers do the big work (.) flowers do the hardest
+	hardest work (.) because they take the sun's energy and make it into
+	sugar (.) and that's called photosynthesis . %snd:"55b1"_502165_511184
+%mor:	adj|okay conj|but det:art|the n|flower-PL v|do det:art|the adj|big
+	n|work v|flower-3S v|do det:art|the (1)adj|hard-SP (1)adj|hard-SP (1)n|work
+	conj|because pro:sub|they v|take det:art|the n|sun~poss|s n|energy
+	coord|and v|make pro:per|it prep|into n|sugar coord|and
+	pro:dem|that~cop|be&3S part|call-PASTP n|photosynthesis .
+----------------------------------------
+*** File "55b1.cha": line 618.
+*FAT:	that's a big secret (.) photosynthesis is a big secret . %snd:"55b1"_513496_517294
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|secret
+	(1)n|photosynthesis cop|be&3S det:art|a adj|big n|secret .
+
+    Strings matched 2 times
+
+From file <55b2.cha>
+----------------------------------------
+*** File "55b2.cha": line 643.
+*FAT:	okay (.) let's take it back (.) this is real important Ross (.)
+	somebody really needs this (.) let's take it back (.) okay ? %snd:"55b2"_609231_615918
+%mor:	co|okay v|let~pro:obj|us v|take pro:per|it adv|back pro:dem|this
+	cop|be&3S (1)adj|real (1)adj|important (1)n:prop|Ross pro:indef|somebody
+	adv|real&dadj-LY v|need-3S pro:dem|this v|let~pro:obj|us v|take
+	pro:per|it adv|back adj|okay ?
+----------------------------------------
+*** File "55b2.cha": line 1366.
+*FAT:	they're not real scary Ross . %snd:"55b2"_1196235_1197164
+%mor:	pro:sub|they~aux|be&PRES neg|not (1)adj|real (1)adj|scare&dn-Y
+	(1)n:prop|Ross .
+
+    Strings matched 2 times
+
+From file <56a1.cha>
+
+    Strings matched 0 times
+
+From file <56a2.cha>
+----------------------------------------
+*** File "56a2.cha": line 971.
+*MAR:	I want a real (.) real bad monster who steps on Heman . %snd:"56a2"_712168_717859
+%mor:	pro:sub|I v|want det:art|a adj|real (1)adj|real (1)adj|bad (1)n|monster
+	pro:rel|who n|step-PL prep|on n:prop|Heman .
+----------------------------------------
+*** File "56a2.cha": line 1740.
+*FAT:	oh [!] right (.) yeah he needs a nice soft bed (.) doesn't he ? %snd:"56a2"_1292599_1295859
+%mor:	co|oh co|right co|yeah pro:sub|he v|need-3S det:art|a (1)adj|nice
+	(1)adj|soft (1)n|bed mod|do&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <57a1.cha>
+----------------------------------------
+*** File "57a1.cha": line 1379.
+*FAT:	you know a real good idea is to move that one up . %snd:"57a1"_1068844_1070702
+%mor:	pro:per|you v|know det:art|a (1)adj|real (1)adj|good (1)n|idea cop|be&3S
+	inf|to v|move pro:dem|that pro:indef|one adv|up .
+----------------------------------------
+*** File "57a1.cha": line 1600.
+*FAT:	good (.) smart move . %snd:"57a1"_1180569_1182612
+%mor:	(1)adj|good (1)adj|smart (1)n|move .
+
+    Strings matched 2 times
+
+From file <57a2.cha>
+----------------------------------------
+*** File "57a2.cha": line 417.
+*FAT:	not xxx (.) a beautiful big goose . %snd:"57a2"_413443_415586
+%mor:	neg|not det:art|a (1)adj|beautiful (1)adj|big (1)n|goose .
+----------------------------------------
+*** File "57a2.cha": line 1462.
+*FAT:	ready (.) okay Ross is going to read this . %snd:"57a2"_1379101_1382425
+%mor:	(1)adj|ready (1)adj|okay (1)n:prop|Ross aux|be&3S part|go-PRESP inf|to
+	v|read&ZERO pro:dem|this .
+----------------------------------------
+*** File "57a2.cha": line 1512.
+*FAT:	good (.) good Marky (.) and want to +... %snd:"57a2"_1413407_1419249
+%mor:	(1)adj|good (1)adj|good (1)n:prop|Marky coord|and v|want prep|to +...
+
+    Strings matched 3 times
+
+From file <57b1.cha>
+
+    Strings matched 0 times
+
+From file <57b2.cha>
+----------------------------------------
+*** File "57b2.cha": line 1301.
+*FAT:	nice little glottal stop . %snd:"57b2"_906856_909187
+%mor:	adj|nice (1)adj|little (1)adj|glottal (1)n|stop .
+
+    Strings matched 1 times
+
+From file <58a1.cha>
+----------------------------------------
+*** File "58a1.cha": line 1185.
+*FAT:	wonderful (.) wonderful (.) good job . %snd:"58a1"_945721_947578
+%mor:	adj|wonder-FULL (1)adj|wonder-FULL (1)adj|good (1)n|job .
+
+    Strings matched 1 times
+
+From file <58a2.cha>
+
+    Strings matched 0 times
+
+From file <58b1.cha>
+
+    Strings matched 0 times
+
+From file <58b2.cha>
+
+    Strings matched 0 times
+
+From file <59a1.cha>
+----------------------------------------
+*** File "59a1.cha": line 1042.
+*FAT:	okay [!] (.) we'll get a little higher Ross (.) we can get higher .
+	%snd:"59a1"_1006996_1010479
+%mor:	co|okay pro:sub|we~mod|will v|get det:art|a (1)adj|little (1)adj|high-CP
+	(1)n:prop|Ross pro:sub|we mod|can aux|get adj|high-CP .
+----------------------------------------
+*** File "59a1.cha": line 1488.
+*FAT:	sure (.) just a cute little killer . %snd:"59a1"_1380581_1382950
+%mor:	adj|sure adv|just det:art|a (1)adj|cute (1)adj|little (1)n|kill&dv-AGT .
+----------------------------------------
+*** File "59a1.cha": line 1491.
+*FAT:	it wasn't a bad killer (.) just a a cute little killer . %snd:"59a1"_1382950_1384854
+%mor:	pro:per|it cop|be&PAST&13S~neg|not det:art|a adj|bad n|kill&dv-AGT
+	adv|just det:art|a det:art|a (1)adj|cute (1)adj|little (1)n|kill&dv-AGT .
+
+    Strings matched 3 times
+
+From file <59a2.cha>
+
+    Strings matched 0 times
+
+From file <59b1.cha>
+----------------------------------------
+*** File "59b1.cha": line 1215.
+*FAT:	because you have a good little heart . %snd:"59b1"_911382_914437
+%mor:	conj|because pro:per|you v|have det:art|a (1)adj|good (1)adj|little
+	(1)n|heart .
+----------------------------------------
+*** File "59b1.cha": line 1260.
+*FAT:	if you have a good (.) lovely chocolate heart (.) then you want to
+	be be good to other people . %snd:"59b1"_935898_943988
+%mor:	conj|if pro:per|you v|have det:art|a (1)adj|good (1)adj|love&dn-LY
+	(1)n|chocolate n|heart adv:tem|then pro:per|you v|want inf|to cop|be
+	cop|be adj|good prep|to qn|other n|person&PL .
+----------------------------------------
+*** File "59b1.cha": line 1339.
+*FAT:	you don't have a warm (.) nice heart ? %snd:"59b1"_984855_987167
+%mor:	pro:per|you mod|do~neg|not v|have det:art|a (1)adj|warm (1)adj|nice
+	(1)n|heart ?
+----------------------------------------
+*** File "59b1.cha": line 1378.
+*FAT:	I [!] know you have good (.) warm heart (.) and you'll do it for
+	your own sake and not for mine anymore . %snd:"59b1"_1010944_1015877
+%mor:	pro:sub|I v|know pro:per|you v|have (1)adj|good (1)adj|warm (1)n|heart
+	coord|and pro:per|you~mod|will v|do pro:per|it prep|for
+	det:poss|your adj|own n|sake coord|and neg|not prep|for n|mine
+	adv|anymore .
+----------------------------------------
+*** File "59b1.cha": line 1644.
+*FAT:	boys that can't feel their body must be real sick (.) right Mom ? %snd:"59b1"_1223373_1229689
+%mor:	n|boy-PL pro:rel|that mod|can~neg|not v|feel det:poss|their n|body
+	mod|must cop|be (1)adj|real (1)adj|sick (1)n|right n:prop|Mom ?
+
+    Strings matched 5 times
+
+From file <59b2.cha>
+----------------------------------------
+*** File "59b2.cha": line 665.
+*FAT:	isn't he a terrible little brother ? %snd:"59b2"_507685_513915
+%mor:	cop|be&3S~neg|not pro:sub|he det:art|a (1)adj|terrible (1)adj|little
+	(1)n|brother ?
+
+    Strings matched 1 times
+
+From file <60a1.cha>
+----------------------------------------
+*** File "60a1.cha": line 797.
+*MAR:	+" and then I put my monkey cape on and my giant suit on and then
+	my my big big giant suit on . %snd:"60a1"_706365_712352
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:poss|my n|monkey
+	n|cape adv|on coord|and det:poss|my n|giant n|suit adv|on coord|and
+	adv:tem|then det:poss|my det:poss|my (1)adj|big (1)adj|big (1)n|giant n|suit
+	adv|on .
+
+    Strings matched 1 times
+
+From file <60a2.cha>
+
+    Strings matched 0 times
+
+From file <60b1.cha>
+
+    Strings matched 0 times
+
+From file <60b2.cha>
+----------------------------------------
+*** File "60b2.cha": line 870.
+*FAT:	good (.) good job . %snd:"60b2"_944757_945895
+%mor:	(1)adj|good (1)adj|good (1)n|job .
+
+    Strings matched 1 times
+
+From file <61a2.cha>
+----------------------------------------
+*** File "61a2.cha": line 171.
+*FAT:	not as soft as this cute little kitty . %snd:"61a2"_827702_829165
+%mor:	neg|not prep|as adj|soft prep|as pro:dem|this (1)adj|cute (1)adj|little
+	(1)n|kitty .
+----------------------------------------
+*** File "61a2.cha": line 188.
+*FAT:	here Ross you can have this soft little duck . %snd:"61a2"_836385_839752
+%mor:	adv|here n:prop|Ross pro:per|you mod|can v|have pro:dem|this
+	(1)adj|soft (1)adj|little (1)n|duck .
+----------------------------------------
+*** File "61a2.cha": line 758.
+*FAT:	brand new (.) Dr Seuss book . %snd:"61a2"_1237295_1239478
+%mor:	(1)adj|brand (1)adj|new (1)n:prop|Dr n:prop|Seuss n|book .
+
+    Strings matched 3 times
+
+From file <61b1.cha>
+----------------------------------------
+*** File "61b1.cha": line 823.
+*FAT:	a real good friend . %snd:"61b1"_740048_741418
+%mor:	det:art|a (1)adj|real (1)adj|good (1)n|friend .
+
+    Strings matched 1 times
+
+From file <61b2.cha>
+----------------------------------------
+*** File "61b2.cha": line 453.
+*FAT:	who's this cute little guy ? %snd:"61b2"_293008_294425
+%mor:	pro:int|who~cop|be&3S pro:dem|this (1)adj|cute (1)adj|little (1)n|guy ?
+
+    Strings matched 1 times
+
+From file <62a1.cha>
+----------------------------------------
+*** File "62a1.cha": line 1051.
+*FAT:	I asked Marky if he wanted a little less light or a little more
+	light . %snd:"62a1"_824459_828360
+%mor:	pro:sub|I v|ask-PAST n:prop|Marky conj|if pro:sub|he v|want-PAST
+	det:art|a (1)adj|little (1)adj|less (1)n|light coord|or det:art|a adj|little
+	adv|more adj|light .
+
+    Strings matched 1 times
+
+From file <62a2.cha>
+----------------------------------------
+*** File "62a2.cha": line 176.
+*MAR:	I got a bloody little toe . %snd:"62a2"_171436_173934
+%mor:	pro:sub|I v|get&PAST det:art|a (1)adj|blood&dn-Y (1)adj|little (1)n|toe .
+----------------------------------------
+*** File "62a2.cha": line 179.
+*MAR:	my bloody little toe doesn't hurt . %snd:"62a2"_173934_176369
+%mor:	det:poss|my (1)adj|blood&dn-Y (1)adj|little (1)n|toe mod|do&3S~neg|not
+	v|hurt&ZERO .
+----------------------------------------
+*** File "62a2.cha": line 601.
+*FAT:	oh first human young Jedi master . %snd:"62a2"_516140_518742
+%mor:	co|oh adv|first (1)adj|human (1)adj|young (1)n:prop|Jedi n|master .
+----------------------------------------
+*** File "62a2.cha": line 609.
+*FAT:	or the first young human Jedi master ? %snd:"62a2"_522043_524328
+%mor:	coord|or det:art|the (1)adj|first (1)adj|young (1)n|human n:prop|Jedi
+	n|master ?
+
+    Strings matched 4 times
+
+From file <62b1.cha>
+
+    Strings matched 0 times
+
+From file <62b2.cha>
+----------------------------------------
+*** File "62b2.cha": line 567.
+*FAT:	I got a new one I got one that they say is a little better quality
+	too .%snd:"62b2"_418911_422588
+%mor:	pro:sub|I v|get&PAST det:art|a adj|new pro:indef|one pro:sub|I
+	v|get&PAST pro:indef|one pro:rel|that pro:sub|they v|say cop|be&3S
+	det:art|a (1)adj|little (1)adj|good&CP (1)n|quality post|too .
+
+    Strings matched 1 times
+
+From file <63a1.cha>
+----------------------------------------
+*** File "63a1.cha": line 844.
+*FAT:	my own little boy is afraid of me . %snd:"63a1"_807222_811982
+%mor:	det:poss|my (1)adj|own (1)adj|little (1)n|boy cop|be&3S adj|afraid prep|of
+	pro:obj|me .
+----------------------------------------
+*** File "63a1.cha": line 1055.
+*MAR:	<when I grow up I'll be> [//] when I grow up <to be a good big> [/]
+	to be a good big boy I won't throw up on the rides okay ? %snd:"63a1"_1044267_1054600
+%mor:	conj|when pro:sub|I v|grow adv|up inf|to cop|be det:art|a (1)adj|good
+	(1)adj|big (1)n|boy pro:sub|I mod|will~neg|not v|throw adv|up prep|on
+	det:art|the n|ride-PL adj|okay ?
+
+    Strings matched 2 times
+
+From file <63a2.cha>
+----------------------------------------
+*** File "63a2.cha": line 684.
+*MAR:	not even big boys . %snd:"63a2"_731093_732718
+%mor:	neg|not (1)adj|even (1)adj|big (1)n|boy-PL .
+----------------------------------------
+*** File "63a2.cha": line 710.
+*FAT:	(be)cause he's real strong (.) right ? %snd:"63a2"_760071_761557
+%mor:	conj|because pro:sub|he~cop|be&3S (1)adj|real (1)adj|strong (1)n|right ?
+----------------------------------------
+*** File "63a2.cha": line 1177.
+*MAR:	<and then all these big> [/] and then all these big big giants were
+	running after them and all of them got shooted@n and fall down a
+	mountain and they went like yyy [=! gun shot noises] every cowboy
+	shoot the giants and they go and they went like xxx 0
+	[=! sings William tell Overture] yyy [=! more pistol shots] and all
+	the giants died . %snd:"63a2"_1184249_1227461
+%mor:	coord|and adv:tem|then qn|all pro:dem|these (1)adj|big (1)adj|big
+	(1)n|giant-PL aux|be&PAST part|run-PRESP conj|after pro:obj|them
+	coord|and pro:indef|all prep|of pro:obj|them v|get&PAST neo|shooted
+	coord|and n|fall adv|down det:art|a n|mountain coord|and
+	pro:sub|they v|go&PAST prep|like qn|every n|+n|cow+n|boy co|shoot
+	det:art|the n|giant-PL coord|and pro:sub|they v|go coord|and
+	pro:sub|they v|go&PAST prep|like coord|and qn|all det:art|the
+	n|giant-PL part|die-PASTP .
+
+    Strings matched 3 times
+
+From file <63b1.cha>
+----------------------------------------
+*** File "63b1.cha": line 189.
+*FAT:	they were real penguins (.) real happy penguins swimming in the
+	water (.) real ones . %snd:"63b1"_218799_224023
+%mor:	pro:sub|they cop|be&PAST adj|real n|penguin-PL (1)adj|real (1)adj|happy
+	(1)n|penguin-PL part|swim-PRESP prep|in det:art|the n|water adj|real
+	pro:indef|one-PL .
+----------------------------------------
+*** File "63b1.cha": line 1240.
+*FAT:	bad little brothers ? %snd:"63b1"_1162300_1163693
+%mor:	(1)adj|bad (1)adj|little (1)n|brother-PL ?
+----------------------------------------
+*** File "63b1.cha": line 1246.
+*FAT:	you don't have any bad little brothers . %snd:"63b1"_1164598_1165922
+%mor:	pro:per|you mod|do~neg|not v|have qn|any (1)adj|bad (1)adj|little
+	(1)n|brother-PL .
+----------------------------------------
+*** File "63b1.cha": line 1419.
+*MAR:	if there's a big boy fight (.) if there's a little boy fight out
+	there (.) if there's a little bad boy fight out there (.) you
+	have_to have a sword . %snd:"63b1"_1331940_1358225
+%mor:	conj|if pro:exist|there~cop|be&3S det:art|a adj|big n|boy n|fight
+	conj|if pro:exist|there~cop|be&3S det:art|a adj|little n|boy v|fight
+	adv|out adv|there conj|if pro:exist|there~cop|be&3S det:art|a
+	(1)adj|little (1)adj|bad (1)n|boy v|fight adv|out adv|there pro:per|you
+	mod:aux|have_to v|have det:art|a n|sword .
+
+    Strings matched 4 times
+
+From file <63b2.cha>
+----------------------------------------
+*** File "63b2.cha": line 227.
+*FAT:	and what did they do with those big thick sticks ? %snd:"63b2"_157403_158620
+%mor:	coord|and pro:int|what mod|do&PAST pro:sub|they v|do prep|with
+	pro:dem|those (1)adj|big (1)adj|thick (1)n|stick-PL ?
+----------------------------------------
+*** File "63b2.cha": line 287.
+*FAT:	a real long piece and they put it into a stick from a tree . %snd:"63b2"_194181_198245
+%mor:	det:art|a (1)adj|real (1)adj|long (1)n|piece coord|and pro:sub|they
+	v|put&ZERO pro:per|it prep|into det:art|a n|stick prep|from
+	det:art|a n|tree .
+----------------------------------------
+*** File "63b2.cha": line 576.
+*FAT:	and they burned hot hot fires and the hot fires made the dirt into
+	strong knives . %snd:"63b2"_377144_384922
+%mor:	coord|and pro:sub|they v|burn-PAST (1)adj|hot (1)adj|hot (1)n|fire-PL
+	coord|and det:art|the adj|hot n|fire-PL part|make&PASTP det:art|the
+	n|dirt prep|into adj|strong n|knife-PL .
+----------------------------------------
+*** File "63b2.cha": line 719.
+*FAT:	first they could make machines to lift things (.) like big pulleys
+	and things like so you can lift (th)em up on top of the building and
+	they made big huge wagons (.) so they could carry things (.) you
+	heard about the wheel (.) do you know what the wheel does ? %snd:"63b2"_484094_506316
+%mor:	adv|first pro:sub|they mod|could v|make n|machine-PL prep|to n|lift
+	n|thing-PL prep|like adj|big n|pulley-PL coord|and n|thing-PL
+	prep|like conj|so pro:per|you mod|can v|lift pro:obj|them adv|up
+	prep|on n|top prep|of det:art|the n|building coord|and pro:sub|they
+	v|make&PAST (1)adj|big (1)adj|huge (1)n|wagon-PL conj|so pro:sub|they
+	mod|could v|carry n|thing-PL pro:per|you v|hear&PAST prep|about
+	det:art|the n|wheel v|do pro:per|you v|know pro:int|what det:art|the
+	n|wheel v|do&3S ?
+
+    Strings matched 4 times
+
+From file <64a1.cha>
+
+    Strings matched 0 times
+
+From file <64a2.cha>
+----------------------------------------
+*** File "64a2.cha": line 485.
+*MAR:	saw a big (.) big (.) big giant snapper . %snd:"64a2"_438333_442907
+%mor:	v|see&PAST det:art|a adj|big (1)adj|big (1)adj|big (1)n|giant n|snapper .
+----------------------------------------
+*** File "64a2.cha": line 1051.
+*FAT:	good (.) good [!] Mark (.) good (.) come on up (.) great (.) you
+	made it (.) okay I'm still Darth Vadar ? %snd:"64a2"_859808_869700
+%mor:	(1)adj|good (1)adj|good (1)n:prop|Mark adj|good v|come adv|on adv|up
+	adj|great pro:per|you v|make&PAST pro:per|it co|okay
+	pro:sub|I~aux|be&1S adj|still n:prop|Darth n:prop|Vadar ?
+----------------------------------------
+*** File "64a2.cha": line 1108.
+*FAT:	+" raarrr@o shh@o ssh@o I'm Darth shh@o Vadar 0
+	[% speaks with heavy breathing] okay this is your last chance young
+	Skywalker (.) oh no I'm going into the Sarlac (.) oh no . %snd:"64a2"_904017_923429
+%mor:	on|raarrr on|shh on|ssh pro:sub|I~aux|be&1S n:prop|Darth on|shh
+	n:prop|Vadar adj|okay pro:dem|this cop|be&3S det:poss|your n|last
+	(1)adj|chance (1)adj|young (1)n:prop|Skywalker co|oh co|no
+	pro:sub|I~aux|be&1S part|go-PRESP prep|into det:art|the
+	n:prop|Sarlac co|oh co|no .
+----------------------------------------
+*** File "64a2.cha": line 1840.
+*FAT:	no (.) they don't have big first graders in that school . %snd:"64a2"_1493104_1495914
+%mor:	co|no pro:sub|they mod|do~neg|not v|have (1)adj|big (1)adj|first
+	(1)n|grade&dv-AGT-PL prep|in pro:dem|that n|school .
+
+    Strings matched 4 times
+
+From file <64b1.cha>
+----------------------------------------
+*** File "64b1.cha": line 475.
+*FAT:	maybe these new friends (wi)ll be a little nicer (.) hope so . %snd:"64b1"_280645_284337
+%mor:	adv|maybe pro:dem|these adj|new n|friend-PL mod|will cop|be
+	det:art|a (1)adj|little (1)adj|nice-CP (1)n|hope adv|so .
+
+    Strings matched 1 times
+
+From file <64b2.cha>
+
+    Strings matched 0 times
+
+From file <65a1.cha>
+
+    Strings matched 0 times
+
+From file <65a2.cha>
+
+    Strings matched 0 times
+
+From file <65b1.cha>
+----------------------------------------
+*** File "65b1.cha": line 104.
+*FAT:	do you think we have some pretty tall trees . %snd:"65b1"_65080_68506
+%mor:	mod|do pro:per|you v|think pro:sub|we v|have qn|some (1)adj|pretty
+	(1)adj|tall (1)n|tree-PL .
+----------------------------------------
+*** File "65b1.cha": line 1145.
+*MAR:	big (.) big (.) big giant . %snd:"65b1"_795144_797642
+%mor:	adj|big (1)adj|big (1)adj|big (1)n|giant .
+----------------------------------------
+*** File "65b1.cha": line 1404.
+*FAT:	sweet little pony ? %snd:"65b1"_974819_976119
+%mor:	(1)adj|sweet (1)adj|little (1)n|pony ?
+
+    Strings matched 3 times
+
+From file <65b2.cha>
+----------------------------------------
+*** File "65b2.cha": line 771.
+*FAT:	+" I like every type of ice+cream in this town , even real food . %snd:"65b2"_427470_442433
+%mor:	pro:sub|I v|like qn|every n|type prep|of n|+n|ice+n|cream prep|in
+	pro:dem|this n|town cm|cm (1)adj|even (1)adj|real (1)n|food .
+----------------------------------------
+*** File "65b2.cha": line 1616.
+*FAT:	that's a nice big brother (.) isn't it ? %snd:"65b2"_1004213_1007742
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|big (1)n|brother
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "65b2.cha": line 1697.
+*FAT:	the big brother has a big house (.) a big full house that's full of
+	(.) what ? %snd:"65b2"_1049165_1053789
+%mor:	det:art|the adj|big n|brother v|have&3S det:art|a adj|big n|house
+	det:art|a (1)adj|big (1)adj|full (1)n|house pro:rel|that~aux|be&3S adj|full
+	prep|of pro:int|what ?
+
+    Strings matched 3 times
+
+From file <66a1.cha>
+----------------------------------------
+*** File "66a1.cha": line 1463.
+*FAT:	that is a very nice little bone you have there . %snd:"66a1"_809944_813032
+%mor:	pro:rel|that cop|be&3S det:art|a adv|very (1)adj|nice (1)adj|little
+	(1)n|bone pro:per|you v|have adv|there .
+
+    Strings matched 1 times
+
+From file <66a2.cha>
+----------------------------------------
+*** File "66a2.cha": line 754.
+*MOT:	you've been a cheeky little kid . %snd:"66a2"_529814_532090
+%mor:	pro:per|you~aux|have cop|be&PASTP det:art|a (1)adj|cheek&dn-Y
+	(1)adj|little (1)n|kid .
+
+    Strings matched 1 times
+
+From file <66b1.cha>
+----------------------------------------
+*** File "66b1.cha": line 115.
+*MAR:	didn't die (.) and R_two_D_two didn't xxx that xxx nice short story
+	. %snd:"66b1"_180928_191842
+%mor:	mod|do&PAST~neg|not v|die coord|and n:prop|R_two_D_two
+	mod|do&PAST~neg|not pro:dem|that (1)adj|nice (1)adj|short (1)n|story .
+----------------------------------------
+*** File "66b1.cha": line 333.
+*MAR:	the emperor that got thrown down [/] down the big (.) long (.) hole
+	. %snd:"66b1"_452637_460463
+%mor:	det:art|the n|emperor pro:rel|that aux|get&PAST part|throw&PASTP
+	prep|down det:art|the (1)adj|big (1)adj|long (1)n|hole .
+
+    Strings matched 2 times
+
+From file <66b2.cha>
+----------------------------------------
+*** File "66b2.cha": line 425.
+*FAT:	he's our cute little brother . %snd:"66b2"_370620_371874
+%mor:	pro:sub|he~aux|be&3S det:poss|our (1)adj|cute (1)adj|little (1)n|brother .
+----------------------------------------
+*** File "66b2.cha": line 1215.
+*FAT:	and in_order_to be an opera singer (.) the first thing you have_to
+	do is to practice a lot with your songs (.) and put gravel in your
+	mouth (.) so <that you> [//] when you sing you can have a big strong
+	voice . %snd:"66b2"_801177_818732
+%mor:	coord|and inf|in_order_to cop|be det:art|a n|opera n|sing&dv-AGT
+	det:art|the adj|first n|thing pro:per|you mod:aux|have_to v|do
+	cop|be&3S inf|to v|practice det:art|a n|lot prep|with det:poss|your
+	n|song-PL coord|and v|put&ZERO n|gravel prep|in det:poss|your
+	n|mouth co|so conj|when pro:per|you v|sing pro:per|you mod|can
+	v|have det:art|a (1)adj|big (1)adj|strong (1)n|voice .
+
+    Strings matched 2 times
+
+From file <67a1.cha>
+----------------------------------------
+*** File "67a1.cha": line 186.
+*FAT:	I thought I did a pretty good job . %snd:"67a1"_106530_107761
+%mor:	pro:sub|I v|think&PAST pro:sub|I v|do&PAST det:art|a (1)adj|pretty
+	(1)adj|good (1)n|job .
+
+    Strings matched 1 times
+
+From file <67a2.cha>
+
+    Strings matched 0 times
+
+From file <67b1.cha>
+----------------------------------------
+*** File "67b1.cha": line 261.
+*MAR:	<I think a bea(r)> [//] I think a nice (.) little cat . %snd:"67b1"_280547_284936
+%mor:	pro:sub|I v|think det:art|a (1)adj|nice (1)adj|little (1)n|cat .
+----------------------------------------
+*** File "67b1.cha": line 276.
+*MAR:	xxx I want to see a big (.) nice (.) giant (.) dead +... %snd:"67b1"_289649_296871
+%mor:	pro:sub|I v|want inf|to v|see det:art|a (1)adj|big (1)adj|nice (1)n|giant
+	adj|dead +...
+
+    Strings matched 2 times
+
+From file <67b2.cha>
+----------------------------------------
+*** File "67b2.cha": line 537.
+*MAR:	oo is that a big dark cloud . %snd:"67b2"_443243_446331
+%mor:	co|oo cop|be&3S pro:rel|that det:art|a (1)adj|big (1)adj|dark (1)n|cloud .
+----------------------------------------
+*** File "67b2.cha": line 1236.
+*FAT:	you're cute little Ewok . %snd:"67b2"_911162_913461
+%mor:	pro:per|you~cop|be&PRES (1)adj|cute (1)adj|little (1)n:prop|Ewok .
+
+    Strings matched 2 times
+
+From file <68a1.cha>
+
+    Strings matched 0 times
+
+From file <68a2.cha>
+----------------------------------------
+*** File "68a2.cha": line 784.
+*FAT:	this is a big (.) big red dog . %snd:"68a2"_608724_610442
+%mor:	pro:dem|this cop|be&3S det:art|a adj|big (1)adj|big (1)adj|red (1)n|dog .
+
+    Strings matched 1 times
+
+From file <68b1.cha>
+----------------------------------------
+*** File "68b1.cha": line 15.
+*FAT:	the cute little guys ? %snd:"68b1"_68103_70425
+%mor:	det:art|the (1)adj|cute (1)adj|little (1)n|guy-PL ?
+----------------------------------------
+*** File "68b1.cha": line 18.
+*MAR:	yeah (.) the cute little team . %snd:"68b1"_70425_85587
+%mor:	co|yeah det:art|the (1)adj|cute (1)adj|little (1)n|team .
+
+    Strings matched 2 times
+
+From file <68b2.cha>
+----------------------------------------
+*** File "68b2.cha": line 1115.
+*MAR:	yuckiest (.) yuckiest bad guy . %snd:"68b2"_777293_781961
+%mor:	adj|yuck&dn-Y-SP (1)adj|yuck&dn-Y-SP (1)adj|bad (1)n|guy .
+
+    Strings matched 1 times
+
+From file <69a1.cha>
+----------------------------------------
+*** File "69a1.cha": line 1040.
+*MAR:	that means I want a real beautiful (.) hug ! %snd:"69a1"_745206_750727
+%mor:	pro:rel|that v|mean-3S pro:sub|I v|want det:art|a (1)adj|real
+	(1)adj|beautiful (1)n|hug !
+----------------------------------------
+*** File "69a1.cha": line 1216.
+*FAT:	that sounds like a little hungarian song Mark . %snd:"69a1"_904891_907260
+%mor:	pro:dem|that n|sound-PL prep|like det:art|a (1)adj|little
+	(1)adj|hungarian (1)n|song n:prop|Mark .
+----------------------------------------
+*** File "69a1.cha": line 1232.
+*MAR:	and this is when I want a real big house in the world
+	dahdadadadadahda@si [% singing the tune of Star_Wars ] . %snd:"69a1"_929292_939064
+%mor:	coord|and pro:dem|this cop|be&3S conj|when pro:sub|I v|want
+	det:art|a (1)adj|real (1)adj|big (1)n|house prep|in det:art|the n|world
+	sing|dahdadadadadahda .
+----------------------------------------
+*** File "69a1.cha": line 2274.
+*MAR:	this is a real big race (.) and [/] and I'm running [//] I'm going
+	to run two every time you (.) don't run . %snd:"69a1"_1601037_1611556
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|real (1)adj|big (1)n|race coord|and
+	pro:sub|I~aux|be&1S pro:sub|I~aux|be&1S part|go-PRESP inf|to v|run
+	det:num|two qn|every n|time pro:per|you mod|do~neg|not v|run .
+
+    Strings matched 4 times
+
+From file <69a2.cha>
+----------------------------------------
+*** File "69a2.cha": line 1555.
+*FAT:	nice warm bath ? %snd:"69a2"_1099564_1100493
+%mor:	(1)adj|nice (1)adj|warm (1)n|bath ?
+
+    Strings matched 1 times
+
+From file <69b1.cha>
+----------------------------------------
+*** File "69b1.cha": line 88.
+*MAR:	because I see a little white stripe . %snd:"69b1"_58165_61207
+%mor:	conj|because pro:sub|I v|see det:art|a (1)adj|little (1)adj|white
+	(1)n|stripe .
+----------------------------------------
+*** File "69b1.cha": line 1181.
+*FAT:	well (.) you know something (.) lil [: little] &+s [//] little &+twe
+	twerp spanker . %snd:"69b1"_940956_945809
+%mor:	co|well pro:per|you v|know pro:indef|something (1)adj|little
+	(1)adj|little (1)n|twerp n|spank&dv-AGT .
+----------------------------------------
+*** File "69b1.cha": line 1306.
+*FAT:	oh be quiet little coffee cake (.) be quiet coffee cake . %snd:"69b1"_1026057_1041498
+%mor:	co|oh cop|be (1)adj|quiet (1)adj|little (1)n|coffee n|cake cop|be adj|quiet
+	n|coffee n|cake .
+----------------------------------------
+*** File "69b1.cha": line 1830.
+*FAT:	lovely (.) lovely (.) okay (.) Ross (.) now daddy's gonna
+	[: going to] take a shower (.) okay ? %snd:"69b1"_1402515_1406485
+%mor:	adj|love&dn-LY (1)adj|love&dn-LY (1)adj|okay (1)n:prop|Ross adv|now
+	n|daddy~aux|be&3S part|go-PRESP inf|to v|take det:art|a n|shower
+	adj|okay ?
+
+    Strings matched 4 times
+
+From file <69b2.cha>
+----------------------------------------
+*** File "69b2.cha": line 678.
+*FAT:	you spin and you move (.) okay (.) okay (.) xxx move away now I'm
+	gonna put the spinner over here the spinner over on this side on
+	Mark's side (.) Mark scoot back and I'll put the spinner over here .
+	%snd:"69b2"_664226_679272
+%mor:	pro:per|you v|spin coord|and pro:per|you v|move (1)adj|okay (1)adj|okay
+	(1)n|move adv|away adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|put&ZERO det:art|the n|spin&dv-AGT adv|over adv|here det:art|the
+	n|spin&dv-AGT adv|over prep|on pro:dem|this n|side prep|on
+	n:prop|Mark~poss|s n|side n:prop|Mark v|scoot adv|back coord|and
+	pro:sub|I~mod|will v|put&ZERO det:art|the n|spin&dv-AGT adv|over
+	adv|here .
+----------------------------------------
+*** File "69b2.cha": line 710.
+*FAT:	(.) and if you're good (.) good things happen (.) if you're bad (.)
+	you drop down (.) like if you try to get the cookie jar or something
+	(.) then you get in real trouble . %snd:"69b2"_686912_696432
+%mor:	coord|and conj|if pro:per|you~cop|be&PRES (1)adj|good (1)adj|good
+	(1)n|thing-PL v|happen conj|if pro:per|you~cop|be&PRES adj|bad
+	pro:per|you v|drop adv|down prep|like conj|if pro:per|you v|try
+	inf|to v|get det:art|the n|cookie n|jar coord|or pro:indef|something
+	adv:tem|then pro:per|you v|get prep|in adj|real n|trouble .
+----------------------------------------
+*** File "69b2.cha": line 1102.
+*FAT:	the pig guy (.) good (.) good Mark I like your art+work . %snd:"69b2"_1066917_1070980
+%mor:	det:art|the n|pig n|guy (1)adj|good (1)adj|good (1)n:prop|Mark pro:sub|I
+	v|like det:poss|your n|+n|art+n|work .
+
+    Strings matched 3 times
+
+From file <70a1.cha>
+----------------------------------------
+*** File "70a1.cha": line 204.
+*FAT:	daddys like eating even the big yucky cheeses . %snd:"70a1"_134972_137968
+%mor:	n|daddy-PL prep|like n:gerund|eat-PRESP adv|even det:art|the
+	(1)adj|big (1)adj|yuck&dn-Y (1)n|cheese-PL .
+
+    Strings matched 1 times
+
+From file <70a2.cha>
+----------------------------------------
+*** File "70a2.cha": line 484.
+*FAT:	the great great ape okay . %snd:"70a2"_384119_385953
+%mor:	det:art|the (1)adj|great (1)adj|great (1)n|ape adj|okay .
+----------------------------------------
+*** File "70a2.cha": line 817.
+*FAT:	Ross is telling a story about the Beastmaster and instead of saying
+	eaten he said aten@n [*] one of his fairly rare morphological
+	mistakes at this point . %snd:"70a2"_734711_745602
+%mor:	n:prop|Ross aux|be&3S part|tell-PRESP det:art|a n|story prep|about
+	det:art|the n:prop|Beastmaster coord|and adv|instead prep|of
+	n:gerund|say-PRESP part|eat&PASTP pro:sub|he v|say&PAST neo|aten
+	pro:indef|one prep|of det:poss|his adv|fair&dadj-LY (1)adj|rare
+	(1)adj|morphologic-AL (1)n|mistake-PL prep|at pro:dem|this n|point .
+
+    Strings matched 2 times
+
+From file <70b.cha>
+----------------------------------------
+*** File "70b.cha": line 1170.
+*MAR:	well (.) that's a bigger important thing . %snd:"70b"_897760_906909
+%mor:	co|well pro:dem|that~cop|be&3S det:art|a (1)adj|big-CP (1)adj|important
+	(1)n|thing .
+----------------------------------------
+*** File "70b.cha": line 1360.
+*MOT:	oh okay good good idea . %snd:"70b"_1090252_1093015
+%mor:	co|oh co|okay (1)adj|good (1)adj|good (1)n|idea .
+----------------------------------------
+*** File "70b.cha": line 1607.
+*MOT:	it's a great big building huh ? %snd:"70b"_1252255_1253463
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|building co|huh
+	?
+----------------------------------------
+*** File "70b.cha": line 1626.
+*MAR:	real live guns . %snd:"70b"_1260429_1262333
+%mor:	(1)adj|real (1)adj|live (1)n|gun-PL .
+----------------------------------------
+*** File "70b.cha": line 1799.
+*MOT:	great big tables . %snd:"70b"_1394337_1395661
+%mor:	(1)adj|great (1)adj|big (1)n|table-PL .
+
+    Strings matched 5 times
+
+From file <71a1.cha>
+----------------------------------------
+*** File "71a1.cha": line 461.
+*FAT:	Mark (.) you're a beautiful boy (.) a lovely beautiful boy . %snd:"71a1"_413794_423802
+%mor:	n:prop|Mark pro:per|you~cop|be&PRES det:art|a adj|beautiful n|boy
+	det:art|a (1)adj|love&dn-LY (1)adj|beautiful (1)n|boy .
+----------------------------------------
+*** File "71a1.cha": line 545.
+*MOT:	there's a great warm plate there . %snd:"71a1"_480643_482873
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|great (1)adj|warm (1)n|plate
+	adv|there .
+----------------------------------------
+*** File "71a1.cha": line 704.
+*MAR:	when daddy comes down (.) he'll have_to pick this full old little
+	boy up . %snd:"71a1"_650284_689619
+%mor:	conj|when n|daddy v|come-3S adv|down pro:sub|he~mod|will
+	mod:aux|have_to v|pick pro:dem|this adj|full (1)adj|old (1)adj|little
+	(1)n|boy adv|up .
+
+    Strings matched 3 times
+
+From file <71a2.cha>
+----------------------------------------
+*** File "71a2.cha": line 453.
+*FAT:	you were a pretty good folk dancer . %snd:"71a2"_336056_337682
+%mor:	pro:per|you cop|be&PAST det:art|a (1)adj|pretty (1)adj|good (1)n|folk
+	n|dance&dv-AGT .
+----------------------------------------
+*** File "71a2.cha": line 911.
+*FAT:	they have_to clean the baby up with a_lot_of water (.) give the
+	baby a nice little bath and then the baby has right here has a big
+	little thing (.) right between here and the mommy a little navel (.)
+	okay . %snd:"71a2"_582923_594672
+%mor:	pro:sub|they mod:aux|have_to v|clean det:art|the v|baby adv|up
+	prep|with qn|a_lot_of n|water v|give det:art|the n|baby det:art|a
+	(1)adj|nice (1)adj|little (1)n|bath coord|and adv:tem|then det:art|the n|baby
+	aux|have&3S adj|right adv|here aux|have&3S det:art|a (2)adj|big
+	(2)adj|little (2)n|thing adv|right prep|between adv|here coord|and
+	det:art|the n|mommy det:art|a adj|little n|navel co|okay .
+
+    Strings matched 3 times
+
+From file <71b1.cha>
+----------------------------------------
+*** File "71b1.cha": line 178.
+*MAR:	you can go past it nothing [//] you can't go past anything because
+	that's the big big big big big top layer that could hit your head .
+	%snd:"71b1"_174904_187442
+%mor:	pro:per|you mod|can v|go adj|past pro:per|it pro:per|you
+	mod|can~neg|not v|go adj|past pro:indef|anything conj|because
+	pro:dem|that~cop|be&3S det:art|the adj|big adj|big adj|big (1)adj|big
+	(1)adj|big (1)n|top n|layer pro:dem|that mod|could v|hit&ZERO
+	det:poss|your n|head .
+----------------------------------------
+*** File "71b1.cha": line 1135.
+*FAT:	the big part of the building (.) the big one with the big (.) tall
+	ceilings . %snd:"71b1"_759082_762402
+%mor:	det:art|the adj|big n|part prep|of det:art|the n|building
+	det:art|the adj|big pro:indef|one prep|with det:art|the (1)adj|big
+	(1)adj|tall (1)n|ceiling-PL .
+
+    Strings matched 2 times
+
+From file <71b2.cha>
+----------------------------------------
+*** File "71b2.cha": line 18.
+*MAR:	the toe that didn't hurt last night and the toe that didn't hurt
+	that [//] I mean the toe that hurted last night (.) I mean last
+	morning and the toe that hurted last mean time . %snd:"71b2"_5688_21315
+%mor:	det:art|the n|toe pro:rel|that mod|do&PAST~neg|not v|hurt&ZERO
+	adj|last n|night coord|and det:art|the n|toe pro:rel|that
+	mod|do&PAST~neg|not v|hurt&ZERO pro:sub|I v|mean det:art|the n|toe
+	pro:rel|that v|hurt-PAST adj|last n|night pro:sub|I v|mean adj|last
+	n|morning coord|and det:art|the n|toe pro:rel|that v|hurt-PAST
+	(1)adj|last (1)adj|mean (1)n|time .
+----------------------------------------
+*** File "71b2.cha": line 55.
+*MAR:	and xxx I was hurting on my little bitty toe . %snd:"71b2"_34759_40169
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|hurt-PRESP prep|on
+	det:poss|my (1)adj|little (1)adj|bit&dn-Y (1)n|toe .
+----------------------------------------
+*** File "71b2.cha": line 204.
+*MAR:	the big big pool . %snd:"71b2"_136507_138620
+%mor:	det:art|the (1)adj|big (1)adj|big (1)n|pool .
+
+    Strings matched 3 times
+
+From file <72a.cha>
+
+    Strings matched 0 times
+
+From file <72b.cha>
+----------------------------------------
+*** File "72b.cha": line 293.
+*FAT:	that cute little Beaver . %snd:"72b"_252937_254133
+%mor:	pro:dem|that (1)adj|cute (1)adj|little (1)n:prop|Beaver .
+----------------------------------------
+*** File "72b.cha": line 302.
+*FAT:	only that cute little Beaver likes candy . %snd:"72b"_257971_260374
+%mor:	adv|only pro:dem|that (1)adj|cute (1)adj|little (1)n:prop|Beaver v|like-3S
+	n|candy .
+
+    Strings matched 2 times
+
+From file <72c.cha>
+----------------------------------------
+*** File "72c.cha": line 780.
+*MAR:	gee <it was a> [/] it was a big big lot of pounds . %snd:"72c"_449420_454342
+%mor:	co|gee pro:per|it cop|be&PAST&13S det:art|a (1)adj|big (1)adj|big (1)n|lot
+	prep|of n|pound-PL .
+
+    Strings matched 1 times
+
+From file <72d.cha>
+
+    Strings matched 0 times
+
+From file <72e.cha>
+----------------------------------------
+*** File "72e.cha": line 181.
+*FAT:	Ross is a pretty good buddy isn't he ? %snd:"72e"_175640_177109
+%mor:	n:prop|Ross cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|buddy
+	cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "72e.cha": line 232.
+*FAT:	big big castle ? %snd:"72e"_206599_207482
+%mor:	(1)adj|big (1)adj|big (1)n|castle ?
+
+    Strings matched 2 times
+
+From file <72f.cha>
+----------------------------------------
+*** File "72f.cha": line 477.
+*FAT:	good little Ewok . %snd:"72f"_240213_242329
+%mor:	(1)adj|good (1)adj|little (1)n:prop|Ewok .
+----------------------------------------
+*** File "72f.cha": line 480.
+*FAT:	good little Ewok . %snd:"72f"_242329_243165
+%mor:	(1)adj|good (1)adj|little (1)n:prop|Ewok .
+
+    Strings matched 2 times
+
+From file <72g.cha>
+----------------------------------------
+*** File "72g.cha": line 1108.
+*FAT:	oh good little boys . %snd:"72g"_694843_696088
+%mor:	co|oh (1)adj|good (1)adj|little (1)n|boy-PL .
+
+    Strings matched 1 times
+
+From file <72h.cha>
+----------------------------------------
+*** File "72h.cha": line 667.
+*MOT:	and what's the black center part called ? %snd:"72h"_458234_460849
+%mor:	coord|and pro:int|what~poss|s det:art|the (1)adj|black (1)adj|center
+	(1)n|part v|call-PAST ?
+----------------------------------------
+*** File "72h.cha": line 1155.
+*MOT:	and he put his little (.) round fist up to his (..) mouth . %snd:"72h"_701093_708916
+%mor:	coord|and pro:sub|he v|put&ZERO det:poss|his (1)adj|little (1)adj|round
+	(1)n|fist adv|up prep|to det:poss|his n|mouth .
+----------------------------------------
+*** File "72h.cha": line 1291.
+*MAR:	<in the night> [<] a big big bug (.) in the night (.) <so it &+chen>
+	[//] so we won't have_to do it and then clean it up . %snd:"72h"_798914_810826
+%mor:	prep|in det:art|the n|night det:art|a (1)adj|big (1)adj|big (1)n|bug prep|in
+	det:art|the n|night conj|so pro:sub|we mod|will~neg|not
+	mod:aux|have_to v|do pro:per|it coord|and adv:tem|then v|clean
+	pro:per|it adv|up .
+----------------------------------------
+*** File "72h.cha": line 1309.
+*MOT:	the [<] big big thing (.) so you don't have_to clean it . %snd:"72h"_819746_822869
+%mor:	det:art|the (1)adj|big (1)adj|big (1)n|thing conj|so pro:per|you
+	mod|do~neg|not mod:aux|have_to v|clean pro:per|it .
+
+    Strings matched 4 times
+
+From file <73a.cha>
+
+    Strings matched 0 times
+
+From file <73b.cha>
+----------------------------------------
+*** File "73b.cha": line 11.
+*MAR:	long story [/] long story (.) huh ? %snd:"73b"_13777_16289
+%mor:	(1)adj|long (1)adj|long (1)n|story co|huh ?
+
+    Strings matched 1 times
+
+From file <73c.cha>
+
+    Strings matched 0 times
+
+From file <73d.cha>
+----------------------------------------
+*** File "73d.cha": line 710.
+*MAR:	the shelves (.) big big shelves are stronger that the Pretty Pony
+	so they won't break when she's getting up there to get a toy . %snd:"73d"_375742_385656
+%mor:	det:art|the n|shelf-PL (1)adj|big (1)adj|big (1)n|shelf-PL cop|be&PRES
+	adj|strong-CP pro:rel|that det:art|the n:prop|Pretty n:prop|Pony
+	conj|so pro:sub|they mod|will~neg|not v|break adv:int|when
+	pro:sub|she~aux|be&3S part|get-PRESP adv|up adv|there inf|to v|get
+	det:art|a n|toy .
+
+    Strings matched 1 times
+
+From file <73e.cha>
+----------------------------------------
+*** File "73e.cha": line 394.
+*FAT:	a little earlier Marky said &-um +"/. %snd:"73e"_207586_210305
+%mor:	det:art|a (1)adj|little (1)adj|early-CP (1)n:prop|Marky v|say&PAST +"/.
+
+    Strings matched 1 times
+
+From file <74a1.cha>
+----------------------------------------
+*** File "74a1.cha": line 504.
+*MAR:	&-um (.) <the Ewok> [//] you know what the Ewok said (.) for a long
+	long long time ? %snd:"74a1"_463198_471971
+%mor:	pro:per|you v|know pro:int|what det:art|the n:prop|Ewok v|say&PAST
+	prep|for det:art|a adj|long (1)adj|long (1)adj|long (1)n|time ?
+----------------------------------------
+*** File "74a1.cha": line 827.
+*MAR:	+" I think he was a real live Ewok that we buyed . %snd:"74a1"_661317_664535
+%mor:	pro:sub|I v|think pro:sub|he cop|be&PAST&13S det:art|a (1)adj|real
+	(1)adj|live (1)n:prop|Ewok pro:rel|that pro:sub|we v|buy-PAST .
+
+    Strings matched 2 times
+
+From file <74a2.cha>
+----------------------------------------
+*** File "74a2.cha": line 961.
+*MAR:	a [<] big big big mountain . %snd:"74a2"_621000_623017
+%mor:	det:art|a adj|big (1)adj|big (1)adj|big (1)n|mountain .
+----------------------------------------
+*** File "74a2.cha": line 2390.
+*FAT:	Ross you go all the way down <because you're> [>] a bad little girl
+	! %snd:"74a2"_1535647_1539001
+%mor:	n:prop|Ross pro:per|you v|go qn|all det:art|the n|way adv|down
+	conj|because pro:per|you~cop|be&PRES det:art|a (1)adj|bad (1)adj|little
+	(1)n|girl !
+----------------------------------------
+*** File "74a2.cha": line 2403.
+*FAT:	you're a bad little girl and you did things on the walls . %snd:"74a2"_1540712_1543499
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|bad (1)adj|little (1)n|girl
+	coord|and pro:per|you v|do&PAST n|thing-PL prep|on det:art|the
+	n|wall-PL .
+----------------------------------------
+*** File "74a2.cha": line 2412.
+*FAT:	you were a bad little girl [>] . %snd:"74a2"_1546919_1547906
+%mor:	pro:per|you cop|be&PAST det:art|a (1)adj|bad (1)adj|little (1)n|girl .
+
+    Strings matched 4 times
+
+From file <74b1.cha>
+----------------------------------------
+*** File "74b1.cha": line 267.
+*FAT:	oh what a rotten little boy ! %snd:"74b1"_126775_128632
+%mor:	co|oh pro:int|what det:art|a (1)adj|rotten (1)adj|little (1)n|boy !
+----------------------------------------
+*** File "74b1.cha": line 273.
+*FAT:	what a rotten little boy ! %snd:"74b1"_130594_132197
+%mor:	pro:int|what det:art|a (1)adj|rotten (1)adj|little (1)n|boy !
+----------------------------------------
+*** File "74b1.cha": line 279.
+*FAT:	<what a rotten little boy , what a rotten little boy , we should
+	give him a spanking shouldn't we Mark> [>] ? %snd:"74b1"_134848_136404
+%mor:	pro:int|what det:art|a (1)adj|rotten (1)adj|little (1)n|boy cm|cm
+	pro:int|what det:art|a (2)adj|rotten (2)adj|little (2)n|boy cm|cm pro:sub|we
+	mod|should v|give pro:obj|him det:art|a part|spank-PRESP
+	mod|should~neg|not pro:sub|we n:prop|Mark ?
+----------------------------------------
+*** File "74b1.cha": line 1762.
+*FAT:	+" each one has it's own little difference Mark . %snd:"74b1"_825033_826952
+%mor:	qn|each pro:indef|one aux|have&3S pro:per|it~cop|be&3S (1)adj|own
+	(1)adj|little (1)n|difference n:prop|Mark .
+
+    Strings matched 5 times
+
+From file <74b2.cha>
+
+    Strings matched 0 times
+
+From file <75a1.cha>
+----------------------------------------
+*** File "75a1.cha": line 2239.
+*FAT:	it's the old subjunctive (.) Mark [>] . %snd:"75a1"_1686569_1687939
+%mor:	pro:per|it~cop|be&3S det:art|the (1)adj|old (1)adj|subjunctive
+	(1)n:prop|Mark .
+
+    Strings matched 1 times
+
+From file <75a2.cha>
+----------------------------------------
+*** File "75a2.cha": line 332.
+*FAT:	do you remember when we saw the big parade and there was the big
+	wicked witch and there were all the &-uh (.) Three Pigs and the [/]
+	and The Wolf and all those people in the big parade in Disneyland ?
+	%snd:"75a2"_231825_245362
+%mor:	mod|do pro:per|you v|remember conj|when pro:sub|we v|see&PAST
+	det:art|the adj|big n|parade coord|and adv|there cop|be&PAST&13S
+	det:art|the (1)adj|big (1)adj|wicked (1)n|witch coord|and adv|there
+	aux|be&PAST adv|all det:art|the n:prop|Three n:prop|Pigs coord|and
+	coord|and n:prop|The n:prop|Wolf coord|and qn|all pro:dem|those
+	n|person&PL prep|in det:art|the adj|big n|parade prep|in
+	n:prop|Disneyland ?
+----------------------------------------
+*** File "75a2.cha": line 562.
+*MOT:	a little one (.) a little teeny boat in Kennywood . %snd:"75a2"_381065_384060
+%mor:	det:art|a adj|little pro:indef|one det:art|a (1)adj|little (1)adj|teeny
+	(1)n|boat prep|in n:prop|Kennywood .
+----------------------------------------
+*** File "75a2.cha": line 801.
+*MAR:	just a real skimpy baby . %snd:"75a2"_567865_571905
+%mor:	adv|just det:art|a (1)adj|real (1)adj|skimpy (1)n|baby .
+
+    Strings matched 3 times
+
+From file <75b1.cha>
+----------------------------------------
+*** File "75b1.cha": line 663.
+*BEN:	I liked the part in the movie when the mean old lady is on the
+	chair and she goes up the stairs and the chair knocks the picture
+	sideways . %snd:"75b1"_520754_535359
+%mor:	pro:sub|I v|like-PAST det:art|the n|part prep|in det:art|the
+	n|movie conj|when det:art|the (1)adj|mean (1)adj|old (1)n|lady cop|be&3S
+	prep|on det:art|the n|chair coord|and pro:sub|she v|go-3S prep|up
+	det:art|the n|stair-PL coord|and det:art|the n|chair v|knock-3S
+	det:art|the n|picture adv|sideways .
+----------------------------------------
+*** File "75b1.cha": line 913.
+*MAR:	+" bright light (.) bright light . %snd:"75b1"_739811_741163
+%mor:	adj|bright (1)adj|light (1)adj|bright (1)n|light .
+
+    Strings matched 2 times
+
+From file <75b2.cha>
+----------------------------------------
+*** File "75b2.cha": line 45.
+*FAT:	you got a good little bod(y) . %snd:"75b2"_26377_28026
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|good (1)adj|little (1)n|body .
+
+    Strings matched 1 times
+
+From file <76a1.cha>
+----------------------------------------
+*** File "76a1.cha": line 1193.
+*MAR:	a nice big [/] big [/] big [/] big [/] big [/] big [/] big [/] big [/] big  giant ! %snd:"76a1"_957465_964454
+%mor:	det:art|a (1)adj|nice (1)adj|big (1)n|giant !
+
+    Strings matched 1 times
+
+From file <76a2.cha>
+
+    Strings matched 0 times
+
+From file <76b1.cha>
+----------------------------------------
+*** File "76b1.cha": line 1096.
+*FAT:	will [<] it lift old junky cars ? %snd:"76b1"_473335_474658
+%mor:	mod|will pro:per|it v|lift (1)adj|old (1)adj|junk&dn-Y (1)n|car-PL ?
+----------------------------------------
+*** File "76b1.cha": line 1876.
+*FAT:	poor little Marky (.) he lost [?] away from the car I guess (.) huh
+	? %snd:"76b1"_984913_989256
+%mor:	(1)adj|poor (1)adj|little (1)n:prop|Marky pro:sub|he v|lose&PAST adv|away
+	prep|from det:art|the n|car pro:sub|I v|guess co|huh ?
+
+    Strings matched 2 times
+
+From file <76b2.cha>
+
+    Strings matched 0 times
+
+From file <77a1.cha>
+----------------------------------------
+*** File "77a1.cha": line 1461.
+*MAR:	and &-um big fat &-uh &-um big rotten Dracula . %snd:"77a1"_1006070_1013616
+%mor:	coord|and adj|big n|fat (1)adj|big (1)adj|rotten (1)n:prop|Dracula .
+----------------------------------------
+*** File "77a1.cha": line 1464.
+*FAT:	big rotten Dracula . %snd:"77a1"_1013639_1015056
+%mor:	(1)adj|big (1)adj|rotten (1)n:prop|Dracula .
+
+    Strings matched 2 times
+
+From file <77a2.cha>
+----------------------------------------
+*** File "77a2.cha": line 976.
+*MOT:	oh Mark you're a cute little kid . %snd:"77a2"_572470_579762
+%mor:	co|oh n:prop|Mark pro:per|you~cop|be&PRES det:art|a (1)adj|cute
+	(1)adj|little (1)n|kid .
+----------------------------------------
+*** File "77a2.cha": line 1212.
+*FAT:	star light star bright first star I see tonight . %snd:"77a2"_724213_727046
+%mor:	n|star adj|light n|star (1)adj|bright (1)adj|first (1)n|star pro:sub|I v|see
+	adv:tem|tonight .
+----------------------------------------
+*** File "77a2.cha": line 1247.
+*FAT:	where's big wise guy ? %snd:"77a2"_740234_741651
+%mor:	adv:int|where~cop|be&3S (1)adj|big (1)adj|wise (1)n|guy ?
+
+    Strings matched 3 times
+
+From file <77b1.cha>
+----------------------------------------
+*** File "77b1.cha": line 1649.
+*FAT:	that's real easy (.) glass (.) okay (.) you wanna say to give (.)
+	say gib@s www and you say give me a glass (.) gib@s me@s it@s ein@s
+	glass@s . %snd:"77b1"_1282937_1294431
+%mor:	pro:dem|that~cop|be&3S (1)adj|real (1)adj|ease&dn-Y (1)n|glass adj|okay
+	pro:per|you v|want~inf|to v|say inf|to v|give v|say L2|gib coord|and
+	pro:per|you v|say v|give pro:obj|me det:art|a n|glass L2|gib L2|me
+	L2|it L2|ein L2|glass .
+
+    Strings matched 1 times
+
+From file <77b2.cha>
+
+    Strings matched 0 times
+
+From file <78a1.cha>
+
+    Strings matched 0 times
+
+From file <78a2.cha>
+----------------------------------------
+*** File "78a2.cha": line 613.
+*FAT:	yeah [>] and then they had [//] remember they had the gym you went
+	to the gym to the physical fit [/] the physical fitness area . %snd:"78a2"_488589_490006
+%mor:	co|yeah coord|and adv:tem|then pro:sub|they v|remember pro:sub|they
+	v|have&PAST det:art|the n|gym pro:per|you v|go&PAST prep|to
+	det:art|the n|gym prep|to det:art|the adj|physical det:art|the
+	(1)adj|physical (1)adj|fitness (1)n|area .
+----------------------------------------
+*** File "78a2.cha": line 829.
+*FAT:	that was the first big deal . %snd:"78a2"_639005_640189
+%mor:	pro:dem|that cop|be&PAST&13S det:art|the (1)adj|first (1)adj|big (1)n|deal .
+
+    Strings matched 2 times
+
+From file <78b1.cha>
+----------------------------------------
+*** File "78b1.cha": line 1576.
+*FAT:	was it a pretty good movie Mark . %snd:"78b1"_1365387_1367314
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|pretty (1)adj|good (1)n|movie
+	n:prop|Mark .
+
+    Strings matched 1 times
+
+From file <78b2.cha>
+----------------------------------------
+*** File "78b2.cha": line 1090.
+*MAR:	the thing with Erin xxx in my old old old old school . %snd:"78b2"_877695_882849
+%mor:	det:art|the n|thing prep|with n:prop|Erin prep|in det:poss|my
+	adj|old adj|old (1)adj|old (1)adj|old (1)n|school .
+----------------------------------------
+*** File "78b2.cha": line 1645.
+*FAT:	their not karate hands their ghostly ghastly growl . %snd:"78b2"_1350650_1356386
+%mor:	det:poss|their neg|not n|karate v|hand-3S det:poss|their
+	(1)adj|ghost&dn-LY (1)adj|ghastly (1)n|growl .
+
+    Strings matched 2 times
+
+From file <79a1.cha>
+
+    Strings matched 0 times
+
+From file <79a2.cha>
+----------------------------------------
+*** File "79a2.cha": line 410.
+*FAT:	you see that (.) little red part coming out there ? %snd:"79a2"_386761_389454
+%mor:	pro:per|you v|see pro:rel|that (1)adj|little (1)adj|red (1)n|part
+	part|come-PRESP adv|out adv|there ?
+
+    Strings matched 1 times
+
+From file <79b1.cha>
+----------------------------------------
+*** File "79b1.cha": line 425.
+*FAT:	and here's a cute little cat up on your window . %snd:"79b1"_351333_353469
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|a (1)adj|cute (1)adj|little
+	(1)n|cat adv|up prep|on det:poss|your n|window .
+----------------------------------------
+*** File "79b1.cha": line 965.
+*FAT:	well are there naked little kids in the movie ? %snd:"79b1"_832536_834834
+%mor:	co|well cop|be&PRES adv|there (1)adj|naked (1)adj|little (1)n|kid-PL prep|in
+	det:art|the n|movie ?
+
+    Strings matched 2 times
+
+From file <79b2.cha>
+----------------------------------------
+*** File "79b2.cha": line 226.
+*MAR:	&-um &-um climb up a [/] a steep muddy thing . %snd:"79b2"_241710_250046
+%mor:	v|climb prep|up det:art|a (1)adj|steep (1)adj|mud&dn-Y (1)n|thing .
+----------------------------------------
+*** File "79b2.cha": line 229.
+*MOT:	climb up a steep muddy thing . %snd:"79b2"_250046_251486
+%mor:	v|climb prep|up det:art|a (1)adj|steep (1)adj|mud&dn-Y (1)n|thing .
+----------------------------------------
+*** File "79b2.cha": line 881.
+*FAT:	one <<kid taking two> [>]> [/] one kid taking two fancy complex
+	toys ? %snd:"79b2"_718301_723178
+%mor:	det:num|one pro:indef|one n|kid part|take-PRESP det:num|two
+	(1)adj|fancy (1)adj|complex (1)n|toy-PL ?
+----------------------------------------
+*** File "79b2.cha": line 1283.
+*FAT:	+" Marky's a good little boy Mom . %snd:"79b2"_981528_982991
+%mor:	n:prop|Marky~poss|s det:art|a (1)adj|good (1)adj|little (1)n|boy n:prop|Mom
+	.
+----------------------------------------
+*** File "79b2.cha": line 1287.
+*FAT:	+" he's going to be a good little boy way into the night . %snd:"79b2"_982991_985708
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP inf|to cop|be det:art|a (1)adj|good
+	(1)adj|little (1)n|boy n|way prep|into det:art|the n|night .
+
+    Strings matched 5 times
+
+From file <80a1.cha>
+----------------------------------------
+*** File "80a1.cha": line 152.
+*FAT:	rubber raft or a heavy [>] [/] heavy wooden raft . %snd:"80a1"_147814_148557
+%mor:	n|rubber n|raft coord|or det:art|a (1)adj|heavy (1)adj|wooden (1)n|raft .
+
+    Strings matched 1 times
+
+From file <80a2.cha>
+
+    Strings matched 0 times
+
+From file <80b1.cha>
+----------------------------------------
+*** File "80b1.cha": line 392.
+*FAT:	d(o) you like creepy horrible things ? %snd:"80b1"_198362_199871
+%mor:	mod|do pro:per|you v|like (1)adj|creep&dn-Y (1)adj|horrible (1)n|thing-PL ?
+----------------------------------------
+*** File "80b1.cha": line 1403.
+*MAR:	I wanna do the nice little ponies . %snd:"80b1"_837524_841216
+%mor:	pro:sub|I v|want~inf|to v|do det:art|the (1)adj|nice (1)adj|little
+	(1)n|pony-PL .
+----------------------------------------
+*** File "80b1.cha": line 1408.
+*FAT:	you wanna go to do the nice little ponies ? %snd:"80b1"_841216_842935
+%mor:	pro:per|you v|want~inf|to v|go inf|to v|do det:art|the (1)adj|nice
+	(1)adj|little (1)n|pony-PL ?
+
+    Strings matched 3 times
+
+From file <80b2.cha>
+----------------------------------------
+*** File "80b2.cha": line 1326.
+*FAT:	Mark the cute little baby now . %snd:"80b2"_793219_795495
+%mor:	n:prop|Mark det:art|the (1)adj|cute (1)adj|little (1)n|baby adv|now .
+----------------------------------------
+*** File "80b2.cha": line 2107.
+*MOT:	poor little tummy ! %snd:"80b2"_1195352_1197418
+%mor:	(1)adj|poor (1)adj|little (1)n|tummy !
+
+    Strings matched 2 times
+
+From file <81a1.cha>
+
+    Strings matched 0 times
+
+From file <81a2.cha>
+----------------------------------------
+*** File "81a2.cha": line 1800.
+*FAT:	on board the ship they have a little bitty (.) prison [!] . %snd:"81a2"_844671_848595
+%mor:	prep|on n|board det:art|the n|ship pro:sub|they v|have det:art|a
+	(1)adj|little (1)adj|bit&dn-Y (1)n|prison .
+
+    Strings matched 1 times
+
+From file <81b1.cha>
+----------------------------------------
+*** File "81b1.cha": line 193.
+*FAT:	he's a pretty horrible monster . %snd:"81b1"_153013_155637
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|horrible (1)n|monster .
+----------------------------------------
+*** File "81b1.cha": line 873.
+*FAT:	so Mark ended up with a big [?] pretty good deal didn't he ? %snd:"81b1"_616371_618391
+%mor:	co|so n:prop|Mark v|end-PAST adv|up prep|with det:art|a adj|big
+	(1)adj|pretty (1)adj|good (1)n|deal mod|do&PAST~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <81b2.cha>
+----------------------------------------
+*** File "81b2.cha": line 155.
+*MOT:	it's a wet wet day . %snd:"81b2"_199439_202156
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|wet (1)adj|wet (1)n|day .
+
+    Strings matched 1 times
+
+From file <82a1.cha>
+
+    Strings matched 0 times
+
+From file <82a2.cha>
+----------------------------------------
+*** File "82a2.cha": line 959.
+*FAT:	but what if the rocks are big huge boulders . %snd:"82a2"_720817_722883
+%mor:	conj|but pro:int|what conj|if det:art|the n|rock-PL cop|be&PRES
+	(1)adj|big (1)adj|huge (1)n|boulder-PL .
+
+    Strings matched 1 times
+
+From file <82b1.cha>
+----------------------------------------
+*** File "82b1.cha": line 27.
+*FAT:	okay Marky's gonna tell a cute little story . %snd:"82b1"_11956_14766
+%mor:	co|okay n:prop|Marky~poss|s part|go-PRESP~inf|to v|tell det:art|a
+	(1)adj|cute (1)adj|little (1)n|story .
+----------------------------------------
+*** File "82b1.cha": line 35.
+*MAR:	once upon a time (.) there was (.) a nice little village . %snd:"82b1"_15927_20548
+%mor:	adv|once prep|upon det:art|a n|time adv|there cop|be&PAST&13S
+	det:art|a (1)adj|nice (1)adj|little (1)n|village .
+----------------------------------------
+*** File "82b1.cha": line 116.
+*MAR:	the other one said (.) that he (.) wanted to get (.) a nice nice
+	nap ! %snd:"82b1"_75044_80942
+%mor:	det:art|the qn|other pro:indef|one v|say&PAST pro:rel|that
+	pro:sub|he v|want-PAST inf|to v|get det:art|a (1)adj|nice (1)adj|nice
+	(1)n|nap !
+----------------------------------------
+*** File "82b1.cha": line 137.
+*MAR:	so they (.) went the ways [!] that they wanted to (.) an(d) when
+	[/] an(d) [/] an(d) the first [!] guy (.) he [!] &-uh (.) saw (.)
+	some little (.) dangerous [!] snakes around . %snd:"82b1"_93226_110060
+%mor:	co|so pro:sub|they v|go&PAST det:art|the n|way-PL pro:rel|that
+	pro:sub|they v|want-PAST prep|to coord|and coord|and det:art|the
+	adj|first n|guy pro:sub|he v|see&PAST qn|some (1)adj|little
+	(1)adj|dangerous (1)n|snake-PL adv|around .
+----------------------------------------
+*** File "82b1.cha": line 193.
+*MAR:	an(d) then [//] an(d) the other one (.) he stepped on [/] he (.)
+	almost [!] stepped on a big [!] big [!] giant ! %snd:"82b1"_156616_167274
+%mor:	coord|and coord|and det:art|the qn|other pro:indef|one pro:sub|he
+	v|step-PAST pro:sub|he adv|almost part|step-PASTP prep|on det:art|a
+	(1)adj|big (1)adj|big (1)n|giant !
+----------------------------------------
+*** File "82b1.cha": line 671.
+*MOT:	taking you an awful long time I think +... %snd:"82b1"_462992_468171
+%mor:	part|take-PRESP pro:per|you det:art|a (1)adj|awful (1)adj|long (1)n|time
+	pro:sub|I v|think +...
+----------------------------------------
+*** File "82b1.cha": line 813.
+*MAR:	+, there was a little [!] little cat ! %snd:"82b1"_537036_539033
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a (1)adj|little (1)adj|little
+	(1)n|cat !
+----------------------------------------
+*** File "82b1.cha": line 831.
+*MAR:	+, because he had a nice [!] nice kitty vacation . %snd:"82b1"_555543_559351
+%mor:	conj|because pro:sub|he v|have&PAST det:art|a (1)adj|nice (1)adj|nice
+	(1)n|kitty n|vacation .
+----------------------------------------
+*** File "82b1.cha": line 870.
+*MAR:	but one [/] one day he had [//] he saw (.) a big [!] big [!] truck
+	! %snd:"82b1"_587353_595225
+%mor:	conj|but det:num|one n|day pro:sub|he pro:sub|he v|see&PAST
+	det:art|a (1)adj|big (1)adj|big (1)n|truck !
+----------------------------------------
+*** File "82b1.cha": line 891.
+*MAR:	it was [//] he had a nice [!] nice [!] &+d day ! %snd:"82b1"_614079_621927
+%mor:	pro:per|it pro:sub|he v|have&PAST det:art|a (1)adj|nice (1)adj|nice (1)n|day
+	!
+----------------------------------------
+*** File "82b1.cha": line 1625.
+*FAT:	it has a little (.) &+ken [//] a little orange liqueur . %snd:"82b1"_1089383_1091798
+%mor:	pro:per|it aux|have&3S det:art|a adj|little det:art|a (1)adj|little
+	(1)adj|orange (1)n|liqueur .
+
+    Strings matched 11 times
+
+From file <82b2.cha>
+
+    Strings matched 0 times
+
+From file <83a1.cha>
+----------------------------------------
+*** File "83a1.cha": line 555.
+*FAT:	(..) hey Mare [!] [= Mother] you didn't do very much in helping [!]
+	me with the hard back+breaking work ! %snd:"83a1"_408847_422849
+%mor:	co|hey n:prop|Mare pro:per|you mod|do&PAST~neg|not v|do adv|very
+	adv|much adv|in part|help-PRESP pro:obj|me prep|with det:art|the
+	(1)adj|hard (1)adj|+n|back+adj|breaking (1)n|work !
+----------------------------------------
+*** File "83a1.cha": line 1366.
+*FAT:	+, even nice little girls have doo_doo@f . %snd:"83a1"_998387_1001057
+%mor:	v|even (1)adj|nice (1)adj|little (1)n|girl-PL v|have fam|doo_doo .
+----------------------------------------
+*** File "83a1.cha": line 1369.
+*MAR:	even (.) big people ? %snd:"83a1"_1001057_1003820
+%mor:	(1)adj|even (1)adj|big (1)n|person&PL ?
+
+    Strings matched 3 times
+
+From file <83a2.cha>
+
+    Strings matched 0 times
+
+From file <83b1.cha>
+----------------------------------------
+*** File "83b1.cha": line 291.
+*FAT:	it's like you had two lovely little chocolates here and couldn't
+	decide which one to eat . %snd:"83b1"_189084_193067
+%mor:	pro:per|it~aux|be&3S co|like pro:per|you v|have&PAST det:num|two
+	(1)adj|love&dn-LY (1)adj|little (1)n|chocolate-PL adv|here coord|and
+	mod|could~neg|not v|decide pro:rel|which pro:indef|one inf|to v|eat
+	.
+----------------------------------------
+*** File "83b1.cha": line 958.
+*MAR:	well you forget me [//] us <but we> [//] but memember@c we are
+	still new: (.) visitors . %snd:"83b1"_823922_834241
+%mor:	co|well pro:per|you v|forget pro:obj|us conj|but chi|memember
+	pro:sub|we cop|be&PRES (1)adj|still (1)adj|new (1)n|visitor-PL .
+
+    Strings matched 2 times
+
+From file <83b2.cha>
+----------------------------------------
+*** File "83b2.cha": line 391.
+*FAT:	a good little animal . %snd:"83b2"_239239_240102
+%mor:	det:art|a (1)adj|good (1)adj|little (1)n|animal .
+----------------------------------------
+*** File "83b2.cha": line 904.
+*MAR:	and then they were the riches people that so the so then the baby
+	the Mommy and the Daddy could go in a big big biggest movie in the
+	whole wide world . %snd:"83b2"_602979_621183
+%mor:	coord|and adv:tem|then pro:sub|they cop|be&PAST det:art|the
+	n|rich-PL n|person&PL pro:rel|that conj|so det:art|the adv|so
+	adv:tem|then det:art|the n|baby det:art|the n:prop|Mommy coord|and
+	det:art|the n:prop|Daddy mod|could v|go prep|in det:art|a adj|big
+	(1)adj|big (1)adj|big-SP (1)n|movie prep|in det:art|the n|whole adj|wide
+	n|world .
+----------------------------------------
+*** File "83b2.cha": line 1346.
+*MAR:	<I just want me to> [//] because I want to make a big nice a big
+	nice a big nice thing . %snd:"83b2"_1074070_1084473
+%mor:	conj|because pro:sub|I v|want inf|to v|make det:art|a adj|big
+	adj|nice det:art|a adj|big adj|nice det:art|a (1)adj|big (1)adj|nice
+	(1)n|thing .
+----------------------------------------
+*** File "83b2.cha": line 1557.
+*MAR:	+" there's a little thingy surprise . %snd:"83b2"_1228421_1231123
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|thing&dn-Y
+	(1)n|surprise .
+----------------------------------------
+*** File "83b2.cha": line 1661.
+*MAR:	+" don't eat the cotton you silly it's not real candy it's it's
+	just plain cotton . %snd:"83b2"_1285392_1294983
+%mor:	mod|do~neg|not v|eat det:art|the n|cotton pro:per|you co|silly
+	pro:per|it~cop|be&3S neg|not adj|real n|candy pro:per|it~cop|be&3S
+	pro:per|it~cop|be&3S (1)adj|just (1)adj|plain (1)n|cotton .
+
+    Strings matched 5 times
+
+From file <84a1.cha>
+----------------------------------------
+*** File "84a1.cha": line 735.
+*MOT:	&-um (..) curly lamb jackets there were white (.) blue fox ones for
+	one hundred fifty eight . %snd:"84a1"_532611_544314
+%mor:	adj|curl&dv-Y n|lamb n|jacket-PL adv|there cop|be&PAST (1)adj|white
+	(1)adj|blue (1)n|fox det:num|one-PL conj|for pro:indef|one det:num|hundred
+	det:num|fifty det:num|eight .
+----------------------------------------
+*** File "84a1.cha": line 808.
+*MOT:	I went in there to see what they were doing with theirs (.) (of)
+	course theirs were just lovely (.) and all brand new fur . %snd:"84a1"_582720_588409
+%mor:	pro:sub|I v|go&PAST prep|in adv|there inf|to v|see pro:int|what
+	pro:sub|they aux|be&PAST part|do-PRESP prep|with pro:poss|theirs
+	prep|of n|course pro:poss|theirs cop|be&PAST adj|just adj|love&dn-LY
+	coord|and adv|all (1)adj|brand (1)adj|new (1)n|fur .
+----------------------------------------
+*** File "84a1.cha": line 887.
+*FAT:	I thought <we all> [//] we decided about all this (.) that we said
+	instead of reworking it (.) we'd just get a nice [!] comfortable
+	regular coat . %snd:"84a1"_646157_652426
+%mor:	pro:sub|I v|think&PAST pro:sub|we v|decide-PAST prep|about qn|all
+	pro:dem|this pro:rel|that pro:sub|we v|say&PAST adv|instead prep|of
+	re#n:gerund|work-PRESP pro:per|it pro:sub|we~mod|genmod adv|just
+	v|get det:art|a adj|nice (1)adj|comfort&dv-ABLE (1)adj|regular (1)n|coat .
+----------------------------------------
+*** File "84a1.cha": line 1564.
+*FAT:	natural orange (.) lemon (.) and lime flavors . %snd:"84a1"_1139795_1143138
+%mor:	(1)adj|natural (1)adj|orange (1)n|lemon coord|and n|lime n|flavor-PL .
+
+    Strings matched 4 times
+
+From file <84a2.cha>
+----------------------------------------
+*** File "84a2.cha": line 1681.
+*FAT:	cause you have_to do a real good job when you're up there in front
+	of the class . %snd:"84a2"_1029092_1031367
+%mor:	v|cause pro:per|you mod:aux|have_to v|do det:art|a (1)adj|real
+	(1)adj|good (1)n|job conj|when pro:per|you~cop|be&PRES adv|up adv|there
+	prep|in n|front prep|of det:art|the n|class .
+----------------------------------------
+*** File "84a2.cha": line 1870.
+*FAT:	yeah (.) he's a pretty <good comedian> [>] . %snd:"84a2"_1121505_1122852
+%mor:	co|yeah pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|good
+	(1)n|comedian .
+----------------------------------------
+*** File "84a2.cha": line 2127.
+*MOT:	oh (.) you're such a nice little teddy+bear oh ! %snd:"84a2"_1268153_1269500
+%mor:	co|oh pro:per|you~cop|be&PRES qn|such det:art|a (1)adj|nice (1)adj|little
+	(1)n|+n|teddy+n|bear co|oh !
+
+    Strings matched 3 times
+
+From file <84b1.cha>
+----------------------------------------
+*** File "84b1.cha": line 305.
+*FAT:	is this your fancy new way of requesting stuff ? %snd:"84b1"_299681_308203
+%mor:	cop|be&3S pro:dem|this det:poss|your (1)adj|fancy (1)adj|new (1)n|way
+	prep|of n:gerund|request-PRESP n|stuff ?
+----------------------------------------
+*** File "84b1.cha": line 317.
+*FAT:	this fancy new way of requesting stuff . %snd:"84b1"_310895_321925
+%mor:	pro:dem|this (1)adj|fancy (1)adj|new (1)n|way prep|of n:gerund|request-PRESP
+	n|stuff .
+----------------------------------------
+*** File "84b1.cha": line 1681.
+*FAT:	that's a nice little building . %snd:"84b1"_1141102_1142773
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|building .
+
+    Strings matched 3 times
+
+From file <84b2.cha>
+----------------------------------------
+*** File "84b2.cha": line 723.
+*FAT:	I think what we really should do (.) mom (.) is get him a nice
+	little book of children's [/] children's music . %snd:"84b2"_579848_586373
+%mor:	pro:sub|I v|think pro:int|what pro:sub|we adv|real&dadj-LY
+	mod|should v|do n|mom aux|be&3S v|get pro:obj|him det:art|a (1)adj|nice
+	(1)adj|little (1)n|book prep|of n|child&PL~poss|s n|music .
+----------------------------------------
+*** File "84b2.cha": line 1246.
+*MOT:	+" then she ran into the next room to show momma her shiny new dime
+	. %snd:"84b2"_966453_973117
+%mor:	adv:tem|then pro:sub|she v|run&PAST prep|into det:art|the adj|next
+	n|room prep|to n|show n|momma det:poss|her (1)adj|shine&dn-Y (1)adj|new
+	(1)n|dime .
+----------------------------------------
+*** File "84b2.cha": line 1335.
+*FAT:	its a pretty hard job (.) isn't it ? %snd:"84b2"_1037761_1040222
+%mor:	det:poss|its det:art|a (1)adj|pretty (1)adj|hard (1)n|job cop|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "84b2.cha": line 1410.
+*FAT:	<isn't it> [//] doesn't he have a nice little style [!] ? %snd:"84b2"_1103494_1105594
+%mor:	mod|do&3S~neg|not pro:sub|he v|have det:art|a (1)adj|nice (1)adj|little
+	(1)n|style ?
+----------------------------------------
+*** File "84b2.cha": line 1421.
+*FAT:	and then he figures out exactly what he could (.) the nice little
+	(...) sentence and then he cries in the middle of it . %snd:"84b2"_1107929_1112457
+%mor:	coord|and adv:tem|then pro:sub|he v|figure-3S adv|out
+	adv|exact&dadj-LY pro:int|what pro:sub|he mod|could det:art|the
+	(1)adj|nice (1)adj|little (1)n|sentence coord|and adv:tem|then pro:sub|he
+	v|cry-3S prep|in det:art|the n|middle prep|of pro:per|it .
+----------------------------------------
+*** File "84b2.cha": line 1490.
+*FAT:	oh (.) the poor little son . %snd:"84b2"_1152510_1155134
+%mor:	co|oh det:art|the (1)adj|poor (1)adj|little (1)n|son .
+
+    Strings matched 6 times
+
+From file <85a1.cha>
+
+    Strings matched 0 times
+
+From file <87a1.cha>
+----------------------------------------
+*** File "87a1.cha": line 413.
+*FAT:	okay let me ask you a real big question okay ? %snd:"87a1"_252932_254790
+%mor:	co|okay v|let&ZERO pro:obj|me v|ask pro:per|you det:art|a (1)adj|real
+	(1)adj|big (1)n|question adj|okay ?
+
+    Strings matched 1 times
+
+From file <87a2.cha>
+
+    Strings matched 0 times
+
+From file <87b1.cha>
+----------------------------------------
+*** File "87b1.cha": line 19.
+*FAT:	(.) how did you learn how to do all this heavy hard work ? %snd:"87b1"_12469_22291
+%mor:	adv:int|how mod|do&PAST pro:per|you v|learn adv:int|how inf|to v|do
+	qn|all pro:dem|this (1)adj|heavy (1)adj|hard (1)n|work ?
+----------------------------------------
+*** File "87b1.cha": line 1090.
+*FAT:	yuck [//] the yucky hard part . %snd:"87b1"_529227_530365
+%mor:	det:art|the (1)adj|yuck&dn-Y (1)adj|hard (1)n|part .
+----------------------------------------
+*** File "87b1.cha": line 1101.
+*MAR:	but Dadda hafta do the big hard part . %snd:"87b1"_532710_536123
+%mor:	conj|but n:prop|Dadda mod:aux|hafta v|do det:art|the (1)adj|big
+	(1)adj|hard (1)n|part .
+----------------------------------------
+*** File "87b1.cha": line 1541.
+*FAT:	you tell nice little jokes [>] . %snd:"87b1"_747100_748052
+%mor:	pro:per|you v|tell (1)adj|nice (1)adj|little (1)n|joke-PL .
+----------------------------------------
+*** File "87b1.cha": line 2114.
+*FAT:	you're a nice little boy . %snd:"87b1"_1047055_1047821
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+----------------------------------------
+*** File "87b1.cha": line 2122.
+*FAT:	you're one of the nicest little boys I've ever seen in the whole
+	wide world . %snd:"87b1"_1050352_1054718
+%mor:	pro:per|you~aux|be&PRES pro:indef|one prep|of det:art|the
+	(1)adj|nice-SP (1)adj|little (1)n|boy-PL pro:sub|I~aux|have adv|ever
+	part|see&PASTP prep|in det:art|the n|whole adj|wide n|world .
+----------------------------------------
+*** File "87b1.cha": line 2290.
+*FAT:	we're going to need the regular little tiles now . %snd:"87b1"_1126491_1127977
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|need det:art|the
+	(1)adj|regular (1)adj|little (1)n|tile-PL adv|now .
+
+    Strings matched 7 times
+
+From file <87b2.cha>
+----------------------------------------
+*** File "87b2.cha": line 244.
+*FAT:	little big piles . %snd:"87b2"_100635_101587
+%mor:	(1)adj|little (1)adj|big (1)n|pile-PL .
+----------------------------------------
+*** File "87b2.cha": line 463.
+*FAT:	give me the nice soft hammer . %snd:"87b2"_207934_208979
+%mor:	v|give pro:obj|me det:art|the (1)adj|nice (1)adj|soft (1)n|hammer .
+----------------------------------------
+*** File "87b2.cha": line 466.
+*FAT:	the nice soft hammer . %snd:"87b2"_208979_210024
+%mor:	det:art|the (1)adj|nice (1)adj|soft (1)n|hammer .
+----------------------------------------
+*** File "87b2.cha": line 696.
+*FAT:	poor little shower is going to look real nice . %snd:"87b2"_329327_331672
+%mor:	(1)adj|poor (1)adj|little (1)n|shower aux|be&3S part|go-PRESP inf|to
+	cop|look adj|real adj|nice .
+
+    Strings matched 4 times
+
+From file <89a1.cha>
+
+    Strings matched 0 times
+
+From file <89a2.cha>
+
+    Strings matched 0 times
+
+From file <89b1.cha>
+
+    Strings matched 0 times
+
+From file <89b2.cha>
+
+    Strings matched 0 times
+
+From file <90a1.cha>
+
+    Strings matched 0 times
+
+From file <90a2.cha>
+----------------------------------------
+*** File "90a2.cha": line 790.
+*FAT:	the bottom stinky part . %snd:"90a2"_380970_382967
+%mor:	det:art|the (1)adj|bottom (1)adj|stink&dn-Y (1)n|part .
+
+    Strings matched 1 times
+
+From file <90b1.cha>
+----------------------------------------
+*** File "90b1.cha": line 991.
+*FAT:	okay I'm listening to your cute little idea . %snd:"90b1"_568794_570698
+%mor:	co|okay pro:sub|I~aux|be&1S part|listen-PRESP prep|to det:poss|your
+	(1)adj|cute (1)adj|little (1)n|idea .
+----------------------------------------
+*** File "90b1.cha": line 1080.
+*FAT:	united states is the [//] <is big> [//] is the big big big big big
+	big big country . %snd:"90b1"_621898_627912
+%mor:	v|unite-PAST n|state-PL aux|be&3S cop|be&3S det:art|the adj|big
+	adj|big adj|big adj|big adj|big (1)adj|big (1)adj|big (1)n|country .
+----------------------------------------
+*** File "90b1.cha": line 1943.
+*FAT:	then Marky has got a girl friend (.) and they're going to have some
+	babys and you [!] have a girl friend they're going to have some
+	babys and then when you go on picnics you'll have about eight kids
+	and a couple wives and it'll be a huge big family . %snd:"90b1"_1136123_1149196
+%mor:	adv:tem|then n:prop|Marky aux|have&3S part|get&PASTP det:art|a
+	n|girl n|friend coord|and pro:sub|they~aux|be&PRES part|go-PRESP
+	inf|to v|have qn|some n|baby-PL coord|and pro:per|you v|have
+	det:art|a n|girl n|friend pro:sub|they~aux|be&PRES part|go-PRESP
+	inf|to v|have qn|some n|baby-PL coord|and adv:tem|then conj|when
+	pro:per|you v|go prep|on n|picnic-PL pro:per|you~mod|will v|have
+	prep|about det:num|eight n|kid-PL coord|and det:art|a n|couple
+	n|wife-PL coord|and pro:per|it~mod|will cop|be det:art|a (1)adj|huge
+	(1)adj|big (1)n|family .
+----------------------------------------
+*** File "90b1.cha": line 2441.
+*FAT:	you don't have_to get married <to those> [/] <to those> [/] those
+	drippy [>] little girls with all those kissie kissie stuff . %snd:"90b1"_1396930_1399298
+%mor:	pro:per|you mod|do~neg|not mod:aux|have_to v|get part|marry-PASTP
+	det:dem|those (1)adj|drip&dn-Y (1)adj|little (1)n|girl-PL prep|with qn|all
+	pro:dem|those n|kiss-DIM n|kiss-DIM n|stuff .
+
+    Strings matched 4 times
+
+From file <90b2.cha>
+----------------------------------------
+*** File "90b2.cha": line 1091.
+*FAT:	<xxx your neat little tool> [<] ? %snd:"90b2"_744872_747310
+%mor:	det:poss|your (1)adj|neat (1)adj|little (1)n|tool ?
+----------------------------------------
+*** File "90b2.cha": line 1118.
+*FAT:	(.) Ross can I have your neat little tool ? %snd:"90b2"_757829_760964
+%mor:	n:prop|Ross mod|can pro:sub|I v|have det:poss|your (1)adj|neat
+	(1)adj|little (1)n|tool ?
+----------------------------------------
+*** File "90b2.cha": line 1446.
+*FAT:	he's a good little boy . %snd:"90b2"_993256_994231
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|good (1)adj|little (1)n|boy .
+
+    Strings matched 3 times
+

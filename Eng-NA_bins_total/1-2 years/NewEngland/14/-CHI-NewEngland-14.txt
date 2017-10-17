@@ -1,0 +1,266 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:09:50 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+
+    Strings matched 0 times
+
+From file <03.cha>
+
+    Strings matched 0 times
+
+From file <04.cha>
+
+    Strings matched 0 times
+
+From file <06.cha>
+
+    Strings matched 0 times
+
+From file <07.cha>
+
+    Strings matched 0 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <13.cha>
+
+    Strings matched 0 times
+
+From file <14.cha>
+----------------------------------------
+*** File "14.cha": line 333.
+*MOT:	cute little chair .
+%mor:	(1)adj|cute (1)adj|little (1)n|chair .
+
+    Strings matched 1 times
+
+From file <15.cha>
+
+    Strings matched 0 times
+
+From file <16.cha>
+
+    Strings matched 0 times
+
+From file <19.cha>
+
+    Strings matched 0 times
+
+From file <20.cha>
+----------------------------------------
+*** File "20.cha": line 993.
+*MOT:	wanna [: want a] nice fresh piece of paper ?
+%mor:	v|want det:art|a (1)adj|nice (1)adj|fresh (1)n|piece prep|of n|paper ?
+
+    Strings matched 1 times
+
+From file <23.cha>
+
+    Strings matched 0 times
+
+From file <25.cha>
+
+    Strings matched 0 times
+
+From file <26.cha>
+
+    Strings matched 0 times
+
+From file <27.cha>
+
+    Strings matched 0 times
+
+From file <28.cha>
+
+    Strings matched 0 times
+
+From file <29.cha>
+
+    Strings matched 0 times
+
+From file <30.cha>
+
+    Strings matched 0 times
+
+From file <31.cha>
+----------------------------------------
+*** File "31.cha": line 1054.
+*INV:	<I guess he's learned to be good natured having all those kids> [<]
+	[>] +...
+%mor:	pro:sub|I v|guess pro:sub|he~aux|be&3S part|learn-PASTP inf|to
+	cop|be (1)adj|good (1)adj|natured (1)n:gerund|have-PRESP adv|all
+	pro:dem|those n|kid-PL +...
+
+    Strings matched 1 times
+
+From file <32.cha>
+
+    Strings matched 0 times
+
+From file <34.cha>
+----------------------------------------
+*** File "34.cha": line 2093.
+*MOT:	there's a big red crayon .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|red (1)n|crayon .
+
+    Strings matched 1 times
+
+From file <36.cha>
+
+    Strings matched 0 times
+
+From file <38.cha>
+
+    Strings matched 0 times
+
+From file <43.cha>
+
+    Strings matched 0 times
+
+From file <45.cha>
+
+    Strings matched 0 times
+
+From file <47.cha>
+
+    Strings matched 0 times
+
+From file <49.cha>
+
+    Strings matched 0 times
+
+From file <55.cha>
+----------------------------------------
+*** File "55.cha": line 474.
+*MOT:	<got funny red hair> [>] !
+%mor:	v|get&PAST (1)adj|fun&dn-Y (1)adj|red (1)n|hair !
+
+    Strings matched 1 times
+
+From file <56.cha>
+
+    Strings matched 0 times
+
+From file <57.cha>
+
+    Strings matched 0 times
+
+From file <59.cha>
+
+    Strings matched 0 times
+
+From file <60.cha>
+
+    Strings matched 0 times
+
+From file <61.cha>
+----------------------------------------
+*** File "61.cha": line 3030.
+*MOT:	<I know there's all sorts of wonderful new things here 0
+	[= in the room]> [>] .
+%mor:	pro:sub|I v|know pro:exist|there~cop|be&3S qn|all n|sort-PL prep|of
+	(1)adj|wonder-FULL (1)adj|new (1)n|thing-PL adv|here .
+
+    Strings matched 1 times
+
+From file <65.cha>
+----------------------------------------
+*** File "65.cha": line 817.
+*MOT:	<nice bright colors> [<] .
+%mor:	(1)adj|nice (1)adj|bright (1)n|color-PL .
+
+    Strings matched 1 times
+
+From file <66.cha>
+----------------------------------------
+*** File "66.cha": line 1328.
+*MOT:	that's a pretty good word .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|word .
+
+    Strings matched 1 times
+
+From file <68.cha>
+
+    Strings matched 0 times
+
+From file <70.cha>
+
+    Strings matched 0 times
+
+From file <75.cha>
+
+    Strings matched 0 times
+
+From file <84.cha>
+
+    Strings matched 0 times
+
+From file <85.cha>
+
+    Strings matched 0 times
+
+From file <86.cha>
+
+    Strings matched 0 times
+
+From file <87.cha>
+
+    Strings matched 0 times
+
+From file <89.cha>
+
+    Strings matched 0 times
+
+From file <90.cha>
+
+    Strings matched 0 times
+
+From file <91.cha>
+
+    Strings matched 0 times
+
+From file <92.cha>
+
+    Strings matched 0 times
+
+From file <96.cha>
+----------------------------------------
+*** File "96.cha": line 2316.
+*MOT:	Erica look at those tiny little possums .
+%mor:	n:prop|Erica cop|look prep|at pro:dem|those (1)adj|tiny (1)adj|little
+	(1)n|possum-PL .
+
+    Strings matched 1 times
+
+From file <97.cha>
+
+    Strings matched 0 times
+
+From file <98.cha>
+----------------------------------------
+*** File "98.cha": line 1913.
+*MOT:	+" dinosaurs lived a long long time ago .
+%mor:	n|dinosaur-PL v|live-PAST det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago .
+
+    Strings matched 1 times
+
+From file <99.cha>
+----------------------------------------
+*** File "99.cha": line 400.
+*MOT:	that's a little sassy seat huh ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|sass&dn-Y (1)n|seat
+	co|huh ?
+
+    Strings matched 1 times
+

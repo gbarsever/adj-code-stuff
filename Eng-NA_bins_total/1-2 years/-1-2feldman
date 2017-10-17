@@ -1,0 +1,104 @@
+combo +t%mor -t*CHI -t*STV +re +s(adj*^adj*^n*) *.cha
+Mon May  8 22:06:15 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *STV;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/01-03.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/01-03.cha": line 614.
+*FAT:	is that a technical linguistic term ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|technical (1)adj|linguistic
+	(1)n|term ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 747.
+*FAT:	on the teeny tiny farm there were teeny tiny people doing teeny
+	tiny things .
+%mor:	prep|on det:art|the (1)adj|teeny (1)adj|tiny (1)n|farm adv|there cop|be&PAST
+	(2)adj|teeny (2)adj|tiny (2)n|person&PL part|do-PRESP (3)adj|teeny (3)adj|tiny
+	(3)n|thing-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 754.
+*MOT:	there were teeny tiny horses and teeny tiny geese .
+%mor:	pro:exist|there cop|be&PAST (1)adj|teeny (1)adj|tiny (1)n|horse-PL coord|and
+	(2)adj|teeny (2)adj|tiny (2)n|goose&PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 759.
+*MOT:	and teeny tiny tractors pulling teeny tiny plows .
+%mor:	coord|and (1)adj|teeny (1)adj|tiny (1)n|tractor-PL part|pull-PRESP (2)adj|teeny
+	(2)adj|tiny (2)n|plow-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 773.
+*MOT:	it's the teeny tiny farm book .
+%mor:	pro:per|it~cop|be&3S det:art|the (1)adj|teeny (1)adj|tiny (1)n|farm n|book .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 776.
+*MOT:	there were teeny tiny orchards with apples plums and cherries .
+%mor:	pro:exist|there cop|be&PAST (1)adj|teeny (1)adj|tiny (1)n|orchard-PL
+	prep|with n|apple-PL n|plum-PL coord|and n|cherry-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 785.
+*MOT:	and teeny tiny patches of juicy ripe strawberries .
+%mor:	coord|and (1)adj|teeny (1)adj|tiny (1)n|patch-PL prep|of (2)adj|juice&dn-Y
+	(2)adj|ripe (2)n|strawberry-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/04.cha": line 3309.
+*FAT:	no , I'll check but I set it up so_that we could have a good clear
+	line of sight .
+%mor:	co|no cm|cm pro:sub|I~mod|will n|check conj|but pro:sub|I
+	v|set&ZERO pro:per|it adv|up conj|so_that pro:sub|we mod|could
+	v|have det:art|a (1)adj|good (1)adj|clear (1)n|line prep|of n|sight .
+
+    Strings matched 12 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/05.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/06.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/07.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/07.cha": line 762.
+*MOT:	nice long drink like this .
+%mor:	(1)adj|nice (1)adj|long (1)n|drink prep|like pro:dem|this .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/07.cha": line 912.
+*MOT:	it's a pretty good bottle that way .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|bottle
+	pro:dem|that n|way .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/07.cha": line 1151.
+*MOT:	wanna take off that heavy hot thing ?
+%mor:	v|want~inf|to v|take prep|off pro:dem|that (1)adj|heavy (1)adj|hot
+	(1)n|thing ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/08.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/09.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/10.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/11.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/1-2 years/Feldman/11.cha": line 883.
+*FAT:	it was a bright sunny day when , who's that ?
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|bright (1)adj|sun&dn-Y (1)n|day
+	conj|when cm|cm pro:int|who~cop|be&3S pro:dem|that ?
+
+    Strings matched 1 times
+

@@ -1,0 +1,68 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:11:10 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <jonath02.cha>
+----------------------------------------
+*** File "jonath02.cha": line 699.
+*CHI:	wise wise flowers .
+%mor:	(1)adj|wise (1)adj|wise (1)n|flower-PL .
+
+    Strings matched 1 times
+
+From file <jonath03.cha>
+
+    Strings matched 0 times
+
+From file <jonath04.cha>
+
+    Strings matched 0 times
+
+From file <jonath05.cha>
+
+    Strings matched 0 times
+
+From file <jonath06.cha>
+----------------------------------------
+*** File "jonath06.cha": line 822.
+*CHI:	and there's that big green dress on .
+%mor:	coord|and pro:exist|there~cop|be&3S pro:dem|that (1)adj|big (1)adj|green
+	(1)n|dress adv|on .
+----------------------------------------
+*** File "jonath06.cha": line 989.
+*CHI:	you better better lea(ves) .
+%mor:	pro:per|you (1)adj|good&CP (1)adj|good&CP (1)n|leaf-PL .
+
+    Strings matched 2 times
+
+From file <jonath07.cha>
+
+    Strings matched 0 times
+
+From file <jonath08.cha>
+
+    Strings matched 0 times
+
+From file <jonath09.cha>
+
+    Strings matched 0 times
+
+From file <jonath10.cha>
+----------------------------------------
+*** File "jonath10.cha": line 1521.
+*CHI:	yours goes into nice (2.) nasty red color (1.) .
+%mor:	pro:poss|yours v|go-3S prep|into (1)adj|nice (1)adj|nasty (1)n|red n|color .
+
+    Strings matched 1 times
+
+From file <jonath21.cha>
+----------------------------------------
+*** File "jonath21.cha": line 53.
+*CHI:	was it a <real reward> [/] real real reward he collected ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|real (1)adj|real (1)n|reward
+	pro:sub|he v|collect-PAST ?
+
+    Strings matched 1 times
+

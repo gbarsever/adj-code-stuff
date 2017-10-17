@@ -1,0 +1,972 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:13:10 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <nina01.cha>
+----------------------------------------
+*** File "nina01.cha": line 1322.
+*MOT:	a big black seal .
+%mor:	det:art|a (1)adj|big (1)adj|black (1)n|seal .
+----------------------------------------
+*** File "nina01.cha": line 1328.
+*MOT:	yes (.) he's a big black seal .
+%mor:	co|yes pro:sub|he~aux|be&3S det:art|a (1)adj|big (1)adj|black (1)n|seal .
+----------------------------------------
+*** File "nina01.cha": line 4532.
+*MOT:	I bought you some new red socks .
+%mor:	pro:sub|I v|buy&PAST pro:per|you qn|some (1)adj|new (1)adj|red (1)n|sock-PL
+	.
+----------------------------------------
+*** File "nina01.cha": line 4536.
+*MOT:	let's take off your sneakers (.) and try on your new red socks .
+%mor:	v|let~pro:obj|us v|take prep|off det:poss|your n|sneaker-PL
+	coord|and v|try prep|on det:poss|your (1)adj|new (1)adj|red (1)n|sock-PL .
+----------------------------------------
+*** File "nina01.cha": line 4778.
+*MOT:	I bought you some new red socks .
+%mor:	pro:sub|I v|buy&PAST pro:per|you qn|some (1)adj|new (1)adj|red (1)n|sock-PL
+	.
+----------------------------------------
+*** File "nina01.cha": line 4782.
+*MOT:	let's take off your sneakers (.) and try on your new red socks .
+%mor:	v|let~pro:obj|us v|take prep|off det:poss|your n|sneaker-PL
+	coord|and v|try prep|on det:poss|your (1)adj|new (1)adj|red (1)n|sock-PL .
+
+    Strings matched 6 times
+
+From file <nina02.cha>
+----------------------------------------
+*** File "nina02.cha": line 1289.
+*MOT:	where's the little red duck that Nonna sent you ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|red (1)n|duck
+	pro:rel|that n:prop|Nonna v|send&PAST pro:per|you ?
+----------------------------------------
+*** File "nina02.cha": line 3073.
+*MOT:	it's a big black roof .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|big (1)adj|black (1)n|roof .
+----------------------------------------
+*** File "nina02.cha": line 3085.
+*MOT:	where is the big black roof ?
+%mor:	adv:int|where cop|be&3S det:art|the (1)adj|big (1)adj|black (1)n|roof ?
+----------------------------------------
+*** File "nina02.cha": line 3091.
+*MOT:	where is the big black (.) black roof ?
+%mor:	pro:rel|where cop|be&3S det:art|the adj|big (1)adj|black (1)adj|black
+	(1)n|roof ?
+
+    Strings matched 4 times
+
+From file <nina03.cha>
+----------------------------------------
+*** File "nina03.cha": line 45.
+*MOT:	that's a cute little chicken .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|chicken .
+----------------------------------------
+*** File "nina03.cha": line 720.
+*MOT:	they were little black animals .
+%mor:	pro:sub|they cop|be&PAST (1)adj|little (1)adj|black (1)n|animal-PL .
+
+    Strings matched 2 times
+
+From file <nina04.cha>
+----------------------------------------
+*** File "nina04.cha": line 1556.
+*MOT:	here are little tiny stones .
+%mor:	adv|here cop|be&PRES (1)adj|little (1)adj|tiny (1)n|stone-PL .
+----------------------------------------
+*** File "nina04.cha": line 4354.
+*MOT:	he's got pretty blue eyes (.) doesn't he ?
+%mor:	pro:sub|he~aux|be&3S v|get&PAST (1)adj|pretty (1)adj|blue (1)n|eye-PL
+	mod|do&3S~neg|not pro:sub|he ?
+
+    Strings matched 2 times
+
+From file <nina05.cha>
+----------------------------------------
+*** File "nina05.cha": line 299.
+*RAC:	where's the little blue crib that was in the house before ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|blue (1)n|crib
+	pro:rel|that cop|be&PAST&13S prep|in det:art|the n|house adv|before
+	?
+----------------------------------------
+*** File "nina05.cha": line 2982.
+*REB:	where's that white little bird ?
+%mor:	adv:int|where~cop|be&3S pro:dem|that (1)adj|white (1)adj|little (1)n|bird ?
+
+    Strings matched 2 times
+
+From file <nina06.cha>
+----------------------------------------
+*** File "nina06.cha": line 1407.
+*MOT:	you have a new little chair .
+%mor:	pro:per|you v|have det:art|a (1)adj|new (1)adj|little (1)n|chair .
+
+    Strings matched 1 times
+
+From file <nina07.cha>
+----------------------------------------
+*** File "nina07.cha": line 126.
+*MOT:	he's a nice little lamb .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|lamb .
+----------------------------------------
+*** File "nina07.cha": line 3696.
+*MOT:	that's a nice little tiger .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|tiger .
+
+    Strings matched 2 times
+
+From file <nina09.cha>
+----------------------------------------
+*** File "nina09.cha": line 688.
+*MOT:	do you like you new little plates ?
+%mor:	mod|do pro:per|you v|like pro:per|you (1)adj|new (1)adj|little (1)n|plate-PL
+	?
+----------------------------------------
+*** File "nina09.cha": line 2899.
+*MOT:	you got two new little books from Santa_Claus .
+%mor:	pro:per|you v|get&PAST det:num|two (1)adj|new (1)adj|little (1)n|book-PL
+	prep|from n:prop|Santa_Claus .
+
+    Strings matched 2 times
+
+From file <nina10.cha>
+----------------------------------------
+*** File "nina10.cha": line 1881.
+*MOT:	is that a little green chair ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|little (1)adj|green (1)n|chair ?
+----------------------------------------
+*** File "nina10.cha": line 1896.
+*MOT:	you want another little green chair ?
+%mor:	pro:per|you v|want qn|another (1)adj|little (1)adj|green (1)n|chair ?
+----------------------------------------
+*** File "nina10.cha": line 3870.
+*MOT:	a great big (.) bed .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|bed .
+
+    Strings matched 3 times
+
+From file <nina11.cha>
+----------------------------------------
+*** File "nina11.cha": line 1922.
+*MOT:	you can make a big blue jacket for the snowman .
+%mor:	pro:per|you mod|can v|make det:art|a (1)adj|big (1)adj|blue (1)n|jacket
+	prep|for det:art|the n|+n|snow+n|man .
+----------------------------------------
+*** File "nina11.cha": line 3571.
+*MOT:	here he has a big white mustache .
+%mor:	adv|here pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|white
+	(1)n|mustache .
+----------------------------------------
+*** File "nina11.cha": line 3624.
+*MOT:	is that his big red nose ?
+%mor:	cop|be&3S pro:rel|that det:poss|his (1)adj|big (1)adj|red (1)n|nose ?
+
+    Strings matched 3 times
+
+From file <nina12.cha>
+
+    Strings matched 0 times
+
+From file <nina13.cha>
+----------------------------------------
+*** File "nina13.cha": line 859.
+*MOT:	little tiny ants ?
+%mor:	(1)adj|little (1)adj|tiny (1)n|ant-PL ?
+----------------------------------------
+*** File "nina13.cha": line 4625.
+*MOT:	no (.) Nina was sick last week (.) but Nina's not sick anymore .
+%mor:	co|no n:prop|Nina cop|be&PAST&13S (1)adj|sick (1)adj|last (1)n|week conj|but
+	n:prop|Nina~poss|s neg|not adj|sick adv|anymore .
+
+    Strings matched 2 times
+
+From file <nina14.cha>
+
+    Strings matched 0 times
+
+From file <nina15.cha>
+----------------------------------------
+*** File "nina15.cha": line 853.
+*MOT:	sharp pointy beak .
+%mor:	(1)adj|sharp (1)adj|point&dn-Y (1)n|beak .
+----------------------------------------
+*** File "nina15.cha": line 2973.
+*MOT:	bad (.) bad chair .
+%mor:	(1)adj|bad (1)adj|bad (1)n|chair .
+----------------------------------------
+*** File "nina15.cha": line 2976.
+*MOT:	bad (.) bad chair .
+%mor:	(1)adj|bad (1)adj|bad (1)n|chair .
+----------------------------------------
+*** File "nina15.cha": line 3869.
+*MOT:	he's a little tiny dog (.) isn't he ?
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|dog
+	cop|be&3S~neg|not pro:sub|he ?
+
+    Strings matched 4 times
+
+From file <nina16.cha>
+----------------------------------------
+*** File "nina16.cha": line 1326.
+*MOT:	I like the little black horse .
+%mor:	pro:sub|I v|like det:art|the (1)adj|little (1)adj|black (1)n|horse .
+----------------------------------------
+*** File "nina16.cha": line 1345.
+*MOT:	that's a big black horse .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|black (1)n|horse .
+----------------------------------------
+*** File "nina16.cha": line 1348.
+*MOT:	where is the little tiny black horse ?
+%mor:	adv:int|where cop|be&3S det:art|the (1)adj|little (1)adj|tiny (1)n|black
+	n|horse ?
+----------------------------------------
+*** File "nina16.cha": line 2826.
+*MOT:	lots_of little different people .
+%mor:	qn|lots_of (1)adj|little (1)adj|different (1)n|person&PL .
+----------------------------------------
+*** File "nina16.cha": line 3069.
+*MOT:	oh (.) here's a sweet little boy .
+%mor:	co|oh pro:exist|here~cop|be&3S det:art|a (1)adj|sweet (1)adj|little (1)n|boy
+	.
+----------------------------------------
+*** File "nina16.cha": line 3724.
+*MOT:	oh (.) those are nice fluffy pajamas (.) aren't they ?
+%mor:	co|oh pro:dem|those cop|be&PRES (1)adj|nice (1)adj|fluff&dn-Y (1)n|pajamas
+	aux|be&PRES~neg|not pro:sub|they ?
+----------------------------------------
+*** File "nina16.cha": line 4158.
+*MOT:	oh (.) that's a nice little boy .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|boy .
+
+    Strings matched 7 times
+
+From file <nina17.cha>
+----------------------------------------
+*** File "nina17.cha": line 3330.
+*MOT:	where's the little wooden baby ?
+%mor:	adv:int|where~cop|be&3S det:art|the (1)adj|little (1)adj|wooden (1)n|baby ?
+
+    Strings matched 1 times
+
+From file <nina18.cha>
+----------------------------------------
+*** File "nina18.cha": line 1632.
+*MOT:	I think that's a pretty big nose .
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S det:art|a (1)adj|pretty
+	(1)adj|big (1)n|nose .
+----------------------------------------
+*** File "nina18.cha": line 1644.
+*MOT:	yeah [= yes] (.) he has a little black nose .
+%mor:	co|yeah pro:sub|he v|have&3S det:art|a (1)adj|little (1)adj|black (1)n|nose
+	.
+
+    Strings matched 2 times
+
+From file <nina19.cha>
+----------------------------------------
+*** File "nina19.cha": line 1454.
+*MOT:	he blew up a great big balloon .
+%mor:	pro:sub|he v|blow&PAST adv|up det:art|a (1)adj|great (1)adj|big (1)n|balloon
+	.
+----------------------------------------
+*** File "nina19.cha": line 3023.
+*MOT:	you're making a great big mess .
+%mor:	pro:per|you~aux|be&PRES part|make-PRESP det:art|a (1)adj|great (1)adj|big
+	(1)n|mess .
+----------------------------------------
+*** File "nina19.cha": line 3567.
+*MOT:	must be a pretty big spot .
+%mor:	mod|must cop|be det:art|a (1)adj|pretty (1)adj|big (1)n|spot .
+----------------------------------------
+*** File "nina19.cha": line 3599.
+*MOT:	oh (.) that's a cute little lion .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|lion .
+----------------------------------------
+*** File "nina19.cha": line 4360.
+*MOT:	where is the new little train that Mommy bought for you with all
+	the little people ?
+%mor:	adv:int|where cop|be&3S det:art|the (1)adj|new (1)adj|little (1)n|train
+	pro:rel|that n:prop|Mommy v|buy&PAST prep|for pro:per|you prep|with
+	qn|all det:art|the adj|little n|person&PL ?
+
+    Strings matched 5 times
+
+From file <nina20.cha>
+----------------------------------------
+*** File "nina20.cha": line 1295.
+*MOT:	that's a nice little house .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|house .
+----------------------------------------
+*** File "nina20.cha": line 2168.
+*MOT:	beautiful big waves (.) weren't there ?
+%mor:	(1)adj|beautiful (1)adj|big (1)n|wave-PL cop|be&PAST~neg|not adv|there ?
+----------------------------------------
+*** File "nina20.cha": line 2362.
+*LIN:	oh (.) here's a nice little truck .
+%mor:	co|oh pro:exist|here~cop|be&3S det:art|a (1)adj|nice (1)adj|little
+	(1)n|truck .
+----------------------------------------
+*** File "nina20.cha": line 3436.
+*MOT:	shall we make a big (.) tall (.) tall home ?
+%mor:	mod|shall pro:sub|we v|make det:art|a adj|big (1)adj|tall (1)adj|tall
+	(1)n|home ?
+----------------------------------------
+*** File "nina20.cha": line 3927.
+*MOT:	a great big house .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|house .
+----------------------------------------
+*** File "nina20.cha": line 5273.
+*MOT:	Nicholas had little blonde curls just like that .
+%mor:	n:prop|Nicholas v|have&PAST (1)adj|little (1)adj|blonde (1)n|curl-PL
+	adv|just prep|like pro:dem|that .
+
+    Strings matched 6 times
+
+From file <nina21.cha>
+
+    Strings matched 0 times
+
+From file <nina22.cha>
+----------------------------------------
+*** File "nina22.cha": line 364.
+*MOT:	that's a pretty funny dinner (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|fun&dn-Y (1)n|dinner
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina22.cha": line 552.
+*MOT:	that's a pretty funny combination .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|fun&dn-Y
+	(1)n|combination .
+
+    Strings matched 2 times
+
+From file <nina23.cha>
+----------------------------------------
+*** File "nina23.cha": line 23.
+*MOT:	oh (.) he's a nice little horsie .
+%mor:	co|oh pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|little
+	(1)n|horse-DIM .
+
+    Strings matched 1 times
+
+From file <nina27.cha>
+----------------------------------------
+*** File "nina27.cha": line 233.
+*MOT:	the reindeer has big long horns (.) doesn't he ?
+%mor:	det:art|the n|reindeer aux|have&3S (1)adj|big (1)adj|long (1)n|horn-PL
+	mod|do&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "nina27.cha": line 606.
+*MOT:	oh (.) Nina what cute little pigtails you have .
+%mor:	co|oh n:prop|Nina det:int|what (1)adj|cute (1)adj|little
+	(1)n|+n|pig+n|tail-PL pro:per|you v|have .
+----------------------------------------
+*** File "nina27.cha": line 1144.
+*MOT:	remember the little brown animal that eats nuts ?
+%mor:	v|remember det:art|the (1)adj|little (1)adj|brown (1)n|animal pro:rel|that
+	v|eat-3S adj|nuts ?
+----------------------------------------
+*** File "nina27.cha": line 5021.
+*MOT:	I want to see your pretty new hair .
+%mor:	pro:sub|I v|want inf|to v|see det:poss|your (1)adj|pretty (1)adj|new
+	(1)n|hair .
+----------------------------------------
+*** File "nina27.cha": line 5169.
+*MOT:	you kept seeing great big dogs marching down the hall .
+%mor:	pro:per|you v|keep&PAST n:gerund|see-PRESP (1)adj|great (1)adj|big
+	(1)n|dog-PL part|march-PRESP prep|down det:art|the n|hall .
+
+    Strings matched 5 times
+
+From file <nina28.cha>
+----------------------------------------
+*** File "nina28.cha": line 3517.
+*MOT:	that's a big nasty fish .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|nasty (1)n|fish .
+----------------------------------------
+*** File "nina28.cha": line 4562.
+*MOT:	he has an ugly ugly face and a big big nose .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|ugly (1)adj|ugly (1)n|face coord|and
+	det:art|a (2)adj|big (2)adj|big (2)n|nose .
+
+    Strings matched 3 times
+
+From file <nina29.cha>
+----------------------------------------
+*** File "nina29.cha": line 31.
+*MOT:	what cute little doggies .
+%mor:	pro:int|what (1)adj|cute (1)adj|little (1)n|dog-DIM-PL .
+----------------------------------------
+*** File "nina29.cha": line 278.
+*MOT:	what cute little dogs .
+%mor:	pro:int|what (1)adj|cute (1)adj|little (1)n|dog-PL .
+----------------------------------------
+*** File "nina29.cha": line 2721.
+*MOT:	little red balls ?
+%mor:	(1)adj|little (1)adj|red (1)n|ball-PL ?
+----------------------------------------
+*** File "nina29.cha": line 3206.
+*MOT:	in different plastic cups ?
+%mor:	prep|in (1)adj|different (1)adj|plastic (1)n|cup-PL ?
+----------------------------------------
+*** File "nina29.cha": line 3516.
+*MOT:	that's a cute little car (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|car
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina29.cha": line 3660.
+*MOT:	no (.) that's just a regular little doll .
+%mor:	co|no pro:dem|that~cop|be&3S adv|just det:art|a (1)adj|regular
+	(1)adj|little (1)n|doll .
+
+    Strings matched 6 times
+
+From file <nina30.cha>
+----------------------------------------
+*** File "nina30.cha": line 1728.
+*MOT:	isn't that a cute little train ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|cute (1)adj|little
+	(1)n|train ?
+----------------------------------------
+*** File "nina30.cha": line 4303.
+*MOT:	okay (.) let's put on your pretty black shoes .
+%mor:	co|okay v|let~pro:obj|us v|put&ZERO prep|on det:poss|your
+	(1)adj|pretty (1)adj|black (1)n|shoe-PL .
+
+    Strings matched 2 times
+
+From file <nina31.cha>
+----------------------------------------
+*** File "nina31.cha": line 1467.
+*MOT:	oh (.) it's all_gone from the big yellow cup .
+%mor:	co|oh pro:per|it~cop|be&3S adj|all_gone prep|from det:art|the
+	(1)adj|big (1)adj|yellow (1)n|cup .
+----------------------------------------
+*** File "nina31.cha": line 1708.
+*MOT:	she's a pretty little doll (.) isn't she ?
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|doll
+	cop|be&3S~neg|not pro:sub|she ?
+----------------------------------------
+*** File "nina31.cha": line 2093.
+*MOT:	little white gloves ?
+%mor:	(1)adj|little (1)adj|white (1)n|glove-PL ?
+
+    Strings matched 3 times
+
+From file <nina32.cha>
+----------------------------------------
+*** File "nina32.cha": line 2168.
+*MOT:	it was a great big thing .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|thing .
+----------------------------------------
+*** File "nina32.cha": line 2192.
+*MOT:	oh that was fun to get off the airplane and see a great big
+	lollipop (.) wasn't it ?
+%mor:	co|oh pro:dem|that cop|be&PAST&13S adj|fun inf|to v|get prep|off
+	det:art|the n|airplane coord|and v|see det:art|a (1)adj|great (1)adj|big
+	(1)n|lollipop cop|be&PAST&13S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina32.cha": line 3884.
+*MOT:	that's a cute little foot .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|foot .
+----------------------------------------
+*** File "nina32.cha": line 3937.
+*MOT:	that's a nice little foot .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|foot .
+----------------------------------------
+*** File "nina32.cha": line 4651.
+*MOT:	great big mountains .
+%mor:	(1)adj|great (1)adj|big (1)n|mountain-PL .
+
+    Strings matched 5 times
+
+From file <nina33.cha>
+----------------------------------------
+*** File "nina33.cha": line 1408.
+*MOT:	and that's a little tiny hamper for your doll house .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|hamper prep|for det:poss|your n|doll n|house .
+----------------------------------------
+*** File "nina33.cha": line 1448.
+*MOT:	oh (.) that's a cute little crib (.) isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|crib
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina33.cha": line 1467.
+*MOT:	see if we can find a tiny little baby .
+%mor:	v|see conj|if pro:sub|we mod|can v|find det:art|a (1)adj|tiny
+	(1)adj|little (1)n|baby .
+----------------------------------------
+*** File "nina33.cha": line 4728.
+*MOT:	that's a little pink chair .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|pink (1)n|chair .
+----------------------------------------
+*** File "nina33.cha": line 4909.
+*MOT:	what happened to poor curious George ?
+%mor:	pro:int|what v|happen-PAST prep|to (1)adj|poor (1)adj|curious
+	(1)n:prop|George ?
+
+    Strings matched 5 times
+
+From file <nina34.cha>
+----------------------------------------
+*** File "nina34.cha": line 649.
+*MOT:	oh (.) that's a cute little mouse (.) isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|mouse
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina34.cha": line 2047.
+*MOT:	how's your pretty little dolly today ?
+%mor:	adv:int|how~aux|be&3S det:poss|your (1)adj|pretty (1)adj|little
+	(1)n|doll-DIM adv:tem|today ?
+----------------------------------------
+*** File "nina34.cha": line 2606.
+*MOT:	it's a cute little ball .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|cute (1)adj|little (1)n|ball .
+----------------------------------------
+*** File "nina34.cha": line 3826.
+*MOT:	that's a pretty (.) pretty dolly .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|pretty (1)n|doll-DIM .
+
+    Strings matched 4 times
+
+From file <nina35.cha>
+----------------------------------------
+*** File "nina35.cha": line 2709.
+*MOT:	that's a great big omelette .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|omelette .
+----------------------------------------
+*** File "nina35.cha": line 3048.
+*MOT:	see (.) little tiny crumbs .
+%mor:	v|see (1)adj|little (1)adj|tiny (1)n|crumb-PL .
+
+    Strings matched 2 times
+
+From file <nina36.cha>
+----------------------------------------
+*** File "nina36.cha": line 513.
+*MOT:	it's just a great big truck .
+%mor:	pro:per|it~cop|be&3S adj|just det:art|a (1)adj|great (1)adj|big (1)n|truck .
+----------------------------------------
+*** File "nina36.cha": line 4618.
+*MOT:	it's a pretty big sandwich to eat (.) I think .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|sandwich inf|to
+	v|eat pro:sub|I v|think .
+
+    Strings matched 2 times
+
+From file <nina37.cha>
+----------------------------------------
+*** File "nina37.cha": line 288.
+*MOT:	what's that little tiny animal there ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that (1)adj|little (1)adj|tiny (1)n|animal
+	adv|there ?
+----------------------------------------
+*** File "nina37.cha": line 803.
+*MOT:	oh (.) a funny little wooden man .
+%mor:	co|oh det:art|a adj|fun&dn-Y (1)adj|little (1)adj|wooden (1)n|man .
+----------------------------------------
+*** File "nina37.cha": line 2365.
+*MOT:	the whales are the great big fish .
+%mor:	det:art|the n|whale-PL cop|be&PRES det:art|the (1)adj|great (1)adj|big
+	(1)n|fish .
+
+    Strings matched 3 times
+
+From file <nina38.cha>
+----------------------------------------
+*** File "nina38.cha": line 2056.
+*MOT:	it's just pretend food (.) isn't it ?
+%mor:	pro:per|it~cop|be&3S (1)adj|just (1)adj|pretend (1)n|food cop|be&3S~neg|not
+	pro:per|it ?
+----------------------------------------
+*** File "nina38.cha": line 2629.
+*MOT:	that's little red riding+hood and +...
+%mor:	pro:dem|that~cop|be&3S (1)adj|little (1)adj|red (1)n|+n|riding+n|hood
+	coord|and +...
+----------------------------------------
+*** File "nina38.cha": line 3505.
+*MOT:	what a nice (.) nice house .
+%mor:	pro:int|what det:art|a (1)adj|nice (1)adj|nice (1)n|house .
+
+    Strings matched 3 times
+
+From file <nina39.cha>
+----------------------------------------
+*** File "nina39.cha": line 3096.
+*MOT:	he's got such big pretty eyes .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP qn|such (1)adj|big (1)adj|pretty
+	(1)n|eye-PL .
+----------------------------------------
+*** File "nina39.cha": line 3330.
+*MOT:	he's a nice (.) nice animal .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|nice (1)adj|nice (1)n|animal .
+----------------------------------------
+*** File "nina39.cha": line 3371.
+*MOT:	I think it's a very wet slobbery kiss .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S det:art|a adv|very (1)adj|wet
+	(1)adj|slobber&dn-Y (1)n|kiss .
+----------------------------------------
+*** File "nina39.cha": line 3638.
+*MOT:	wow (.) he must be a pretty big turtle +...
+%mor:	co|wow pro:sub|he mod|must cop|be det:art|a (1)adj|pretty (1)adj|big
+	(1)n|turtle +...
+----------------------------------------
+*** File "nina39.cha": line 3668.
+*MOT:	it was a little tiny turtle .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny (1)n|turtle .
+----------------------------------------
+*** File "nina39.cha": line 3679.
+*MOT:	this is a great big tortoise .
+%mor:	pro:dem|this cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|tortoise .
+----------------------------------------
+*** File "nina39.cha": line 3856.
+*MOT:	oh (.) that's a pretty big bottle of milk (.) isn't it ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|bottle
+	prep|of n|milk cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina39.cha": line 4136.
+*MOT:	a little round fruit .
+%mor:	det:art|a (1)adj|little (1)adj|round (1)n|fruit .
+----------------------------------------
+*** File "nina39.cha": line 4595.
+*MOT:	he's got lots_of little black teeth (.) doesn't he ?
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP qn|lots_of (1)adj|little (1)adj|black
+	(1)n|tooth&PL mod|do&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "nina39.cha": line 4707.
+*MOT:	those are pretty long whiskers hanging down (.) aren't they ?
+%mor:	det:dem|those aux|be&PRES (1)adj|pretty (1)adj|long (1)n|whisker-PL
+	part|hang-PRESP adv|down aux|be&PRES~neg|not pro:sub|they ?
+
+    Strings matched 10 times
+
+From file <nina40.cha>
+----------------------------------------
+*** File "nina40.cha": line 1446.
+*MOT:	a great big roller .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|roll&dv-AGT .
+----------------------------------------
+*** File "nina40.cha": line 2374.
+*MOT:	it's a great big tuna fish .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|tuna n|fish .
+----------------------------------------
+*** File "nina40.cha": line 2722.
+*MOT:	that big yellow blanket .
+%mor:	pro:dem|that (1)adj|big (1)adj|yellow (1)n|blanket .
+
+    Strings matched 3 times
+
+From file <nina41.cha>
+----------------------------------------
+*** File "nina41.cha": line 605.
+*MOT:	a cute little tiger .
+%mor:	det:art|a (1)adj|cute (1)adj|little (1)n|tiger .
+----------------------------------------
+*** File "nina41.cha": line 1023.
+*MOT:	that's a pretty big card (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|big (1)n|card
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "nina41.cha": line 1242.
+*MOT:	they're big scary animals .
+%mor:	pro:sub|they~aux|be&PRES (1)adj|big (1)adj|scare&dn-Y (1)n|animal-PL .
+----------------------------------------
+*** File "nina41.cha": line 1430.
+*MOT:	big black birds .
+%mor:	(1)adj|big (1)adj|black (1)n|bird-PL .
+----------------------------------------
+*** File "nina41.cha": line 1910.
+*MOT:	in a great big pot ?
+%mor:	prep|in det:art|a (1)adj|great (1)adj|big (1)n|pot ?
+----------------------------------------
+*** File "nina41.cha": line 2141.
+*MOT:	the little tiny baby that goes in this carriage ?
+%mor:	det:art|the (1)adj|little (1)adj|tiny (1)n|baby pro:rel|that v|go-3S prep|in
+	pro:dem|this n|carriage ?
+
+    Strings matched 6 times
+
+From file <nina42.cha>
+
+    Strings matched 0 times
+
+From file <nina43.cha>
+----------------------------------------
+*** File "nina43.cha": line 472.
+*MOT:	does that make big red spots ?
+%mor:	mod|do&3S det:dem|that v|make (1)adj|big (1)adj|red (1)n|spot-PL ?
+----------------------------------------
+*** File "nina43.cha": line 4610.
+*MOT:	would you like me to be a great big gorilla ?
+%mor:	mod|will&COND pro:per|you v|like pro:obj|me inf|to cop|be det:art|a
+	(1)adj|great (1)adj|big (1)n|gorilla ?
+
+    Strings matched 2 times
+
+From file <nina44.cha>
+----------------------------------------
+*** File "nina44.cha": line 3611.
+*MOT:	that's a pretty little girl .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "nina44.cha": line 4049.
+*MOT:	look Nina (.) I found a new little bag for you .
+%mor:	co|look n:prop|Nina pro:sub|I v|find&PAST det:art|a (1)adj|new
+	(1)adj|little (1)n|bag prep|for pro:per|you .
+
+    Strings matched 2 times
+
+From file <nina45.cha>
+----------------------------------------
+*** File "nina45.cha": line 655.
+*MOT:	that's a beautiful pink table .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|beautiful (1)adj|pink (1)n|table .
+----------------------------------------
+*** File "nina45.cha": line 1249.
+*MOT:	remember some little red balls .
+%mor:	v|remember qn|some (1)adj|little (1)adj|red (1)n|ball-PL .
+----------------------------------------
+*** File "nina45.cha": line 3766.
+*MOT:	did we eat by candle light last night ?
+%mor:	mod|do&PAST pro:sub|we v|eat prep|by n|candle (1)adj|light (1)adj|last
+	(1)n|night ?
+----------------------------------------
+*** File "nina45.cha": line 4167.
+*MOT:	those are pretty stiff scissors (.) aren't the ?
+%mor:	det:dem|those aux|be&PRES (1)adj|pretty (1)adj|stiff (1)n|scissors
+	aux|be&PRES~neg|not det:art|the ?
+
+    Strings matched 4 times
+
+From file <nina46.cha>
+----------------------------------------
+*** File "nina46.cha": line 1797.
+*MOT:	little white spots .
+%mor:	(1)adj|little (1)adj|white (1)n|spot-PL .
+----------------------------------------
+*** File "nina46.cha": line 3910.
+*MOT:	I bet Gary will come with his great big van .
+%mor:	pro:sub|I v|bet&ZERO n:prop|Gary mod|will v|come prep|with
+	det:poss|his (1)adj|great (1)adj|big (1)n|van .
+
+    Strings matched 2 times
+
+From file <nina47.cha>
+----------------------------------------
+*** File "nina47.cha": line 1085.
+*MOT:	looks like a little white lamb .
+%mor:	cop|look-3S prep|like det:art|a (1)adj|little (1)adj|white (1)n|lamb .
+----------------------------------------
+*** File "nina47.cha": line 1913.
+*MOT:	everybody had their own little bed .
+%mor:	pro:indef|everybody v|have&PAST det:poss|their (1)adj|own (1)adj|little
+	(1)n|bed .
+----------------------------------------
+*** File "nina47.cha": line 2779.
+*MOT:	but this afternoon after lunch (.) I want you to take a nice long
+	nap .
+%mor:	conj|but pro:dem|this n|afternoon prep|after n|lunch pro:sub|I
+	v|want pro:per|you inf|to v|take det:art|a (1)adj|nice (1)adj|long (1)n|nap .
+
+    Strings matched 3 times
+
+From file <nina48.cha>
+----------------------------------------
+*** File "nina48.cha": line 96.
+*MOT:	a little tiny train .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|train .
+----------------------------------------
+*** File "nina48.cha": line 194.
+*MOT:	oh (.) you're a pretty funny kitty cat .
+%mor:	co|oh pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|fun&dn-Y
+	(1)n|kitty n|cat .
+----------------------------------------
+*** File "nina48.cha": line 2730.
+*MOT:	what were those great big fish (.) remember ?
+%mor:	pro:int|what aux|be&PAST pro:dem|those (1)adj|great (1)adj|big (1)n|fish
+	v|remember ?
+----------------------------------------
+*** File "nina48.cha": line 3620.
+*MOT:	a great long beard .
+%mor:	det:art|a (1)adj|great (1)adj|long (1)n|beard .
+----------------------------------------
+*** File "nina48.cha": line 3674.
+*MOT:	a great big rock .
+%mor:	det:art|a (1)adj|great (1)adj|big (1)n|rock .
+
+    Strings matched 5 times
+
+From file <nina49.cha>
+----------------------------------------
+*** File "nina49.cha": line 2889.
+*MOT:	he's balancing himself on a stick which is on top of a great big
+	ball .
+%mor:	pro:sub|he~aux|be&3S part|balance-PRESP pro:refl|himself prep|on
+	det:art|a n|stick pro:rel|which cop|be&3S prep|on n|top prep|of
+	det:art|a (1)adj|great (1)adj|big (1)n|ball .
+
+    Strings matched 1 times
+
+From file <nina50.cha>
+----------------------------------------
+*** File "nina50.cha": line 483.
+*MOT:	it's a real fuzzy doggy .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|fuzz&dn-Y (1)n|dog-DIM .
+----------------------------------------
+*** File "nina50.cha": line 3983.
+*MOT:	a nice beautiful dress will you wear ?
+%mor:	det:art|a (1)adj|nice (1)adj|beautiful (1)n|dress mod|will pro:per|you
+	v|wear ?
+
+    Strings matched 2 times
+
+From file <nina51.cha>
+----------------------------------------
+*** File "nina51.cha": line 1428.
+*MOT:	now you have_to build a big (.) great big boat for all the Mommies
+	.
+%mor:	adv|now pro:per|you mod:aux|have_to v|build det:art|a adj|big
+	(1)adj|great (1)adj|big (1)n|boat conj|for adv|all det:art|the n:prop|Mommies
+	.
+----------------------------------------
+*** File "nina51.cha": line 2058.
+*MOT:	see this is a big long sailboat .
+%mor:	v|see pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|long
+	(1)n|+n|sail+n|boat .
+----------------------------------------
+*** File "nina51.cha": line 2763.
+*MOT:	let's put on your nice warm pajamas .
+%mor:	v|let~pro:obj|us part|put&PASTP prep|on det:poss|your (1)adj|nice
+	(1)adj|warm (1)n|pajamas .
+----------------------------------------
+*** File "nina51.cha": line 2928.
+*MOT:	a red shirt underneath this pretty (.) pretty dress .
+%mor:	det:art|a adj|red n|shirt prep|underneath det:dem|this (1)adj|pretty
+	(1)adj|pretty (1)n|dress .
+
+    Strings matched 4 times
+
+From file <nina52.cha>
+----------------------------------------
+*** File "nina52.cha": line 496.
+*MOT:	let's see if we can find the tiny little baby .
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|find
+	det:art|the (1)adj|tiny (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "nina52.cha": line 502.
+*MOT:	here's a tiny little baby .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|tiny (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "nina52.cha": line 620.
+*MOT:	Elizabeth (.) do you know what happened to the little tiny baby ?
+%mor:	n:prop|Elizabeth v|do pro:per|you v|know pro:int|what v|happen-PAST
+	prep|to det:art|the (1)adj|little (1)adj|tiny (1)n|baby ?
+
+    Strings matched 3 times
+
+From file <nina53.cha>
+----------------------------------------
+*** File "nina53.cha": line 1316.
+*MOT:	okay (.) what are you gonna do with your great big tower built
+	out_of screws ?
+%mor:	co|okay pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to
+	v|do prep|with det:poss|your (1)adj|great (1)adj|big (1)n|tower v|build&PAST
+	prep|out_of n|screw-PL ?
+----------------------------------------
+*** File "nina53.cha": line 2962.
+*MOT:	okay (.) now shall I get you the great big blue towel for her ?
+%mor:	co|okay adv|now mod|shall pro:sub|I v|get pro:per|you det:art|the
+	(1)adj|great (1)adj|big (1)n|blue n|towel prep|for pro:obj|her ?
+----------------------------------------
+*** File "nina53.cha": line 3091.
+*MOT:	I thought we could give her some tea before going to bed from this
+	pretty little tea pot .
+%mor:	pro:sub|I v|think&PAST pro:sub|we mod|could v|give pro:obj|her
+	qn|some n|tea prep|before n:gerund|go-PRESP prep|to n|bed prep|from
+	pro:dem|this (1)adj|pretty (1)adj|little (1)n|tea n|pot .
+----------------------------------------
+*** File "nina53.cha": line 3099.
+*MOT:	with these pretty little glasses .
+%mor:	prep|with pro:dem|these (1)adj|pretty (1)adj|little (1)n|glass-PL .
+----------------------------------------
+*** File "nina53.cha": line 3114.
+*MOT:	those little little tiny plates .
+%mor:	pro:dem|those adj|little (1)adj|little (1)adj|tiny (1)n|plate-PL .
+----------------------------------------
+*** File "nina53.cha": line 3165.
+*MOT:	isn't that a cute little thing ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|cute (1)adj|little
+	(1)n|thing ?
+----------------------------------------
+*** File "nina53.cha": line 3187.
+*MOT:	isn't that a pretty little teapot ?
+%mor:	cop|be&3S~neg|not det:dem|that det:art|a (1)adj|pretty (1)adj|little
+	(1)n|+n|tea+n|pot ?
+----------------------------------------
+*** File "nina53.cha": line 3219.
+*MOT:	what a pretty little cup .
+%mor:	pro:int|what det:art|a (1)adj|pretty (1)adj|little (1)n|cup .
+----------------------------------------
+*** File "nina53.cha": line 3684.
+*MOT:	do I have a real live child ?
+%mor:	mod|do pro:sub|I v|have det:art|a (1)adj|real (1)adj|live (1)n|child ?
+
+    Strings matched 9 times
+
+From file <nina54.cha>
+----------------------------------------
+*** File "nina54.cha": line 282.
+*MOT:	you have pretty long hair .
+%mor:	pro:per|you v|have (1)adj|pretty (1)adj|long (1)n|hair .
+----------------------------------------
+*** File "nina54.cha": line 1215.
+*MOT:	I think that there's a great big merry+go+round with horses on it
+	and maybe different animals .
+%mor:	pro:sub|I v|think pro:rel|that pro:exist|there~cop|be&3S det:art|a
+	(1)adj|great (1)adj|big (1)n|+adj|merry+v|go+adj|round prep|with n|horse-PL
+	prep|on pro:per|it coord|and adv|maybe adj|different n|animal-PL .
+----------------------------------------
+*** File "nina54.cha": line 1398.
+*MOT:	it's a beautiful new dolly .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|beautiful (1)adj|new (1)n|doll-DIM .
+----------------------------------------
+*** File "nina54.cha": line 1569.
+*MOT:	how (a)bout this nice soft blanket .
+%mor:	adv:int|how prep|about pro:dem|this (1)adj|nice (1)adj|soft (1)n|blanket .
+----------------------------------------
+*** File "nina54.cha": line 2030.
+*MOT:	little blue eyes .
+%mor:	(1)adj|little (1)adj|blue (1)n|eye-PL .
+
+    Strings matched 5 times
+
+From file <nina55.cha>
+----------------------------------------
+*** File "nina55.cha": line 2444.
+*MOT:	<I'll put some in> [//] just a little tiny bit .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+
+    Strings matched 1 times
+
+From file <nina56.cha>
+----------------------------------------
+*** File "nina56.cha": line 2206.
+*MOT:	<you can use the great big> [//] pretend this is a great big
+	blanket .
+%mor:	v|pretend pro:dem|this cop|be&3S det:art|a (1)adj|great (1)adj|big
+	(1)n|blanket .
+----------------------------------------
+*** File "nina56.cha": line 3804.
+*MOT:	he's carrying a heavy (.) heavy (.) boy isn't he ?
+%mor:	pro:sub|he~aux|be&3S part|carry-PRESP det:art|a (1)adj|heavy (1)adj|heavy
+	(1)n|boy cop|be&3S~neg|not pro:sub|he ?
+----------------------------------------
+*** File "nina56.cha": line 4825.
+*MOT:	here's a great big clock .
+%mor:	pro:exist|here~cop|be&3S det:art|a (1)adj|great (1)adj|big (1)n|clock .
+
+    Strings matched 3 times
+

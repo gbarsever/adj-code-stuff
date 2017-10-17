@@ -1,0 +1,121 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:00:38 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <d1-1224.cha>
+----------------------------------------
+*** File "d1-1224.cha": line 401.
+*MOT:	yummy yummy yummy yummy yum . %snd:"d1-f7mar97"_559847_562135
+%mor:	adj|yum&dn-Y adj|yum&dn-Y (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|yum .
+----------------------------------------
+*** File "d1-1224.cha": line 691.
+*MOT:	kiss the little tiny baby ! %snd:"d1-f7mar97"_1044331_1046041
+%mor:	v|kiss det:art|the (1)adj|little (1)adj|tiny (1)n|baby !
+----------------------------------------
+*** File "d1-1224.cha": line 1298.
+*MOT:	there's Big_bird's fuzzy fuzzy fuzzy fuzzy tail . %snd:"d1-f7mar97"_1781456_1784792
+%mor:	pro:exist|there~aux|be&3S n:prop|Big_bird~poss|s adj|fuzz&dn-Y
+	adj|fuzz&dn-Y (1)adj|fuzz&dn-Y (1)adj|fuzz&dn-Y (1)n|tail .
+----------------------------------------
+*** File "d1-1224.cha": line 2471.
+*MOT:	okay let go and let Mommy take a real good turn ! %snd:"d1-f7mar97"_3580944_3583051
+%mor:	co|okay part|let&PASTP v|go coord|and v|let&ZERO n:prop|Mommy
+	v|take det:art|a (1)adj|real (1)adj|good (1)n|turn !
+
+    Strings matched 4 times
+
+From file <d1-1310.cha>
+----------------------------------------
+*** File "d1-1310.cha": line 127.
+*MOT:	yummy (.) yummy pears . %snd:"d1-f21mar97"_185633_187597
+%mor:	(1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|pear-PL .
+----------------------------------------
+*** File "d1-1310.cha": line 1213.
+*MOT:	the top ten nutrient dense foods [=! read] . %snd:"d1-f21mar97"_1943874_1946027
+%mor:	det:art|the n|top det:num|ten (1)adj|nutrient (1)adj|dense (1)n|food-PL .
+----------------------------------------
+*** File "d1-1310.cha": line 2918.
+*MOT:	he has a big white patch on his nose [=! read] . %snd:"d1-f21mar97"_4126565_4129200
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|white (1)n|patch prep|on
+	det:poss|his n|nose .
+
+    Strings matched 3 times
+
+From file <d1-1324.cha>
+----------------------------------------
+*** File "d1-1324.cha": line 294.
+*MOT:	what a cutest little toesies . %snd:"d1-f4apr97"_617943_620387
+%mor:	pro:int|what det:art|a (1)adj|cute-SP (1)adj|little (1)n|toe-PL-DIM-PL .
+----------------------------------------
+*** File "d1-1324.cha": line 1839.
+*MOT:	scrub scrub scrub . %snd:"d1-f4apr97"_2510307_2512003
+%mor:	(1)adj|scrub (1)adj|scrub (1)n|scrub .
+----------------------------------------
+*** File "d1-1324.cha": line 2598.
+*MOT:	xxx cute little baby . %snd:"d1-f4apr97"_3434193_3435923
+%mor:	(1)adj|cute (1)adj|little (1)n|baby .
+----------------------------------------
+*** File "d1-1324.cha": line 2745.
+*MOT:	there's a pretty cute baby there . %snd:"d1-f4apr97"_3559580_3561633
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|pretty (1)adj|cute (1)n|baby
+	adv|there .
+----------------------------------------
+*** File "d1-1324.cha": line 3089.
+*MOT:	oh look at the sweet little baby &=noise ! %snd:"d1-f4apr97"_3817163_3820203
+%mor:	co|oh cop|look prep|at det:art|the (1)adj|sweet (1)adj|little (1)n|baby !
+----------------------------------------
+*** File "d1-1324.cha": line 3828.
+*MOT:	can we put your cute little feet in ? %snd:"d1-f4apr97"_4443150_4445053
+%mor:	mod|can pro:sub|we v|put&ZERO det:poss|your (1)adj|cute (1)adj|little
+	(1)n|foot&PL adv|in ?
+
+    Strings matched 6 times
+
+From file <d1-1407.cha>
+----------------------------------------
+*** File "d1-1407.cha": line 2346.
+*MOT:	eensie weensie spider . %snd:"d1-f18apr97"_2669333_2670663
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "d1-1407.cha": line 3473.
+*MOT:	got some cute little socks for you . %snd:"d1-f18apr97"_3605597_3607693
+%mor:	v|get&PAST qn|some (1)adj|cute (1)adj|little (1)n|sock-PL prep|for
+	pro:per|you .
+
+    Strings matched 2 times
+
+From file <d1-1417.cha>
+----------------------------------------
+*** File "d1-1417.cha": line 1230.
+*MOT:	for Tweedledum said Tweedledee had spoiled his nice new rattle
+	[=! read] . %snd:"d1-m28apr97"_1242058_1245329
+%mor:	conj|for n:prop|Tweedledum v|say&PAST n:prop|Tweedledee v|have&PAST
+	v|spoil-PAST det:poss|his (1)adj|nice (1)adj|new (1)n|rattle .
+----------------------------------------
+*** File "d1-1417.cha": line 1292.
+*MOT:	in a little crooked house [=! read] . %snd:"d1-m28apr97"_1299854_1301382
+%mor:	prep|in det:art|a (1)adj|little (1)adj|crooked (1)n|house .
+
+    Strings matched 2 times
+
+From file <d1-1428.cha>
+----------------------------------------
+*** File "d1-1428.cha": line 991.
+*MOT:	the eensie weensie spider [=! sung] . %snd:"d1-f9may97"_1734020_1736471
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider .
+----------------------------------------
+*** File "d1-1428.cha": line 1012.
+*MOT:	the eensie weensie spider (..) went up the spout again [=! sung] .
+	%snd:"d1-f9may97"_1753207_1758558
+%mor:	det:art|the (1)adj|eensie (1)adj|weensie (1)n|spider v|go&PAST adv|up
+	det:art|the n|spout adv|again .
+----------------------------------------
+*** File "d1-1428.cha": line 2137.
+*MOT:	no you wanna sit on your big blue chair . %snd:"d1-f9may97"_3017129_3018884
+%mor:	co|no pro:per|you v|want~inf|to v|sit prep|on det:poss|your (1)adj|big
+	(1)adj|blue (1)n|chair .
+
+    Strings matched 3 times
+

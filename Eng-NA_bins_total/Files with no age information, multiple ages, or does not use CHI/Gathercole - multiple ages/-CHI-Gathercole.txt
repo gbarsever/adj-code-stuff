@@ -1,0 +1,116 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:58:43 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <01.cha>
+
+    Strings matched 0 times
+
+From file <02.cha>
+----------------------------------------
+*** File "02.cha": line 664.
+*RAC:	<my big> [/] my big red nose .
+%mor:	det:poss|my (1)adj|big (1)adj|red (1)n|nose .
+----------------------------------------
+*** File "02.cha": line 673.
+*RAC:	my big red nose .
+%mor:	det:poss|my (1)adj|big (1)adj|red (1)n|nose .
+
+    Strings matched 2 times
+
+From file <03.cha>
+----------------------------------------
+*** File "03.cha": line 1553.
+*BOB:	kinda hard to hear these little tiny voices sometimes .
+%mor:	adv|kinda adj|hard inf|to v|hear pro:dem|these (1)adj|little (1)adj|tiny
+	(1)n|voice-PL adv|sometimes .
+----------------------------------------
+*** File "03.cha": line 1604.
+*SAR:	(.) we got the same little tails , don't we , me (.) Lily ?
+%mor:	pro:sub|we v|get&PAST det:art|the (1)adj|same (1)adj|little (1)n|tail-PL
+	cm|cm mod|do~neg|not pro:sub|we cm|cm pro:obj|me n:prop|Lily ?
+
+    Strings matched 2 times
+
+From file <04.cha>
+----------------------------------------
+*** File "04.cha": line 568.
+*NIC:	I can see one teensie weensie tiny little seed .
+%mor:	pro:sub|I mod|can v|see pro:indef|one adj|teensie adj|weensie
+	(1)adj|tiny (1)adj|little (1)n|seed .
+----------------------------------------
+*** File "04.cha": line 810.
+*BRI:	he [/] she has a gigantic back pocket , <bout that big> [>] .
+%mor:	pro:sub|she v|have&3S det:art|a (1)adj|gigantic (1)adj|back (1)n|pocket
+	cm|cm n|bout pro:dem|that adj|big .
+
+    Strings matched 2 times
+
+From file <05.cha>
+
+    Strings matched 0 times
+
+From file <06.cha>
+
+    Strings matched 0 times
+
+From file <07.cha>
+----------------------------------------
+*** File "07.cha": line 3129.
+*VIR:	oh , poor old recorder .
+%mor:	co|oh cm|cm (1)adj|poor (1)adj|old (1)n|record&dv-AGT .
+
+    Strings matched 1 times
+
+From file <08.cha>
+
+    Strings matched 0 times
+
+From file <09.cha>
+----------------------------------------
+*** File "09.cha": line 1912.
+*MAT:	there goes that funny slippered girl again .
+%mor:	adv|there v|go-3S pro:rel|that (1)adj|fun&dn-Y (1)adj|slippered (1)n|girl
+	adv|again .
+
+    Strings matched 1 times
+
+From file <10.cha>
+
+    Strings matched 0 times
+
+From file <11.cha>
+
+    Strings matched 0 times
+
+From file <12.cha>
+
+    Strings matched 0 times
+
+From file <13.cha>
+----------------------------------------
+*** File "13.cha": line 100.
+*ERI:	a big old fish .
+%mor:	det:art|a (1)adj|big (1)adj|old (1)n|fish .
+----------------------------------------
+*** File "13.cha": line 1194.
+*BOB:	can you take one nice big bite of both things ?
+%mor:	mod|can pro:per|you v|take pro:indef|one (1)adj|nice (1)adj|big (1)n|bite
+	prep|of post|both n|thing-PL ?
+
+    Strings matched 2 times
+
+From file <14.cha>
+
+    Strings matched 0 times
+
+From file <15.cha>
+
+    Strings matched 0 times
+
+From file <16.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,47 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:13:18 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <penny02.cha>
+
+    Strings matched 0 times
+
+From file <penny03.cha>
+
+    Strings matched 0 times
+
+From file <penny04.cha>
+
+    Strings matched 0 times
+
+From file <penny05.cha>
+
+    Strings matched 0 times
+
+From file <penny06.cha>
+
+    Strings matched 0 times
+
+From file <penny07.cha>
+----------------------------------------
+*** File "penny07.cha": line 901.
+*MOT:	it's a dirty horrible red or brown or whatever it is .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|dirt&dn-Y (1)adj|horrible (1)n|red
+	coord|or adj|brown coord|or pro:int|whatever pro:per|it cop|be&3S .
+
+    Strings matched 1 times
+
+From file <penny08.cha>
+
+    Strings matched 0 times
+
+From file <penny09.cha>
+
+    Strings matched 0 times
+
+From file <penny10.cha>
+
+    Strings matched 0 times
+

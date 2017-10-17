@@ -1,0 +1,411 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:02:30 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admmt1.cha>
+----------------------------------------
+*** File "admmt1.cha": line 757.
+*MOT:	it's gonna be a long long long long ride .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be det:art|a adj|long
+	adj|long (1)adj|long (1)adj|long (1)n|ride .
+
+    Strings matched 1 times
+
+From file <aimmt1.cha>
+
+    Strings matched 0 times
+
+From file <alimt1.cha>
+
+    Strings matched 0 times
+
+From file <allmt1.cha>
+
+    Strings matched 0 times
+
+From file <anamt1.cha>
+
+    Strings matched 0 times
+
+From file <annmt1.cha>
+----------------------------------------
+*** File "annmt1.cha": line 453.
+*MA1:	<yeah xxx> [<] spoiled rotten little baby .
+%mor:	co|yeah v|spoil-PAST (1)adj|rotten (1)adj|little (1)n|baby .
+
+    Strings matched 1 times
+
+From file <aprmt1.cha>
+----------------------------------------
+*** File "aprmt1.cha": line 462.
+*AUN:	+, a nice beautiful style .
+%mor:	det:art|a (1)adj|nice (1)adj|beautiful (1)n|style .
+----------------------------------------
+*** File "aprmt1.cha": line 832.
+*MOT:	+^ that whole big package of potatoes .
+%mor:	pro:dem|that (1)adj|whole (1)adj|big (1)n|package prep|of n|potato-PL .
+----------------------------------------
+*** File "aprmt1.cha": line 850.
+*MOT:	it was a great big mess .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|great (1)adj|big (1)n|mess .
+
+    Strings matched 3 times
+
+From file <arlmt1.cha>
+
+    Strings matched 0 times
+
+From file <astmt1.cha>
+
+    Strings matched 0 times
+
+From file <bramt1.cha>
+----------------------------------------
+*** File "bramt1.cha": line 1944.
+*GPA:	oh the big heavy shoes (.) !
+%mor:	co|oh det:art|the (1)adj|big (1)adj|heavy (1)n|shoe-PL !
+
+    Strings matched 1 times
+
+From file <brimt1.cha>
+
+    Strings matched 0 times
+
+From file <brnmt1.cha>
+----------------------------------------
+*** File "brnmt1.cha": line 316.
+*SIS:	&-um it had a big [!] big huge castle .
+%mor:	pro:per|it v|have&PAST det:art|a adj|big (1)adj|big (1)adj|huge (1)n|castle
+	.
+----------------------------------------
+*** File "brnmt1.cha": line 939.
+*MOT:	want me to treat you like a little bitty baby ?
+%mor:	v|want pro:obj|me inf|to v|treat pro:per|you conj|like det:art|a
+	(1)adj|little (1)adj|bit&dn-Y (1)n|baby ?
+
+    Strings matched 2 times
+
+From file <brtmt1.cha>
+
+    Strings matched 0 times
+
+From file <casmt1.cha>
+
+    Strings matched 0 times
+
+From file <catmt1.cha>
+
+    Strings matched 0 times
+
+From file <chamt1.cha>
+----------------------------------------
+*** File "chamt1.cha": line 625.
+*SAN:	I'm not goin(g) for a long long time .
+%mor:	pro:sub|I~cop|be&1S neg|not part|go-PRESP prep|for det:art|a
+	(1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 1 times
+
+From file <conmt1.cha>
+
+    Strings matched 0 times
+
+From file <davmt1.cha>
+----------------------------------------
+*** File "davmt1.cha": line 282.
+*MOT:	well we were just checking out the little red light on it .
+%mor:	co|well pro:sub|we aux|be&PAST adv|just part|check-PRESP prep|out
+	det:art|the (1)adj|little (1)adj|red (1)n|light prep|on pro:per|it .
+----------------------------------------
+*** File "davmt1.cha": line 476.
+*FAT:	see every time you talk that little red light comes on .
+%mor:	v|see qn|every n|time pro:per|you v|talk pro:dem|that (1)adj|little
+	(1)adj|red (1)n|light v|come-3S adv|on .
+----------------------------------------
+*** File "davmt1.cha": line 969.
+*MOT:	nice juicy cantaloupe ?
+%mor:	(1)adj|nice (1)adj|juice&dn-Y (1)n|cantaloupe ?
+----------------------------------------
+*** File "davmt1.cha": line 2468.
+*MOT:	that's if you don't eat for a long long time .
+%mor:	pro:dem|that~cop|be&3S conj|if pro:per|you mod|do~neg|not v|eat
+	prep|for det:art|a (1)adj|long (1)adj|long (1)n|time .
+
+    Strings matched 4 times
+
+From file <deamt1.cha>
+----------------------------------------
+*** File "deamt1.cha": line 1766.
+*MOT:	nice and clean good boy .
+%mor:	adj|nice coord|and (1)adj|clean (1)adj|good (1)n|boy .
+
+    Strings matched 1 times
+
+From file <devmt1.cha>
+
+    Strings matched 0 times
+
+From file <diamt1.cha>
+
+    Strings matched 0 times
+
+From file <emimt1.cha>
+
+    Strings matched 0 times
+
+From file <ethmt1.cha>
+
+    Strings matched 0 times
+
+From file <geomt1.cha>
+----------------------------------------
+*** File "geomt1.cha": line 2601.
+*MOT:	you funny little kid !
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|little (1)n|kid !
+
+    Strings matched 1 times
+
+From file <gilmt1.cha>
+
+    Strings matched 0 times
+
+From file <gremt1.cha>
+
+    Strings matched 0 times
+
+From file <guymt1.cha>
+
+    Strings matched 0 times
+
+From file <jacmt1.cha>
+----------------------------------------
+*** File "jacmt1.cha": line 559.
+*BRO:	I mean red yellow green blue .
+%mor:	pro:sub|I v|mean adj|red (1)adj|yellow (1)adj|green (1)n|blue .
+
+    Strings matched 1 times
+
+From file <jammt1.cha>
+
+    Strings matched 0 times
+
+From file <jasmt1.cha>
+
+    Strings matched 0 times
+
+From file <jeamt1.cha>
+----------------------------------------
+*** File "jeamt1.cha": line 394.
+*MOT:	you're getting to be a pretty good swimmer Chi .
+%mor:	pro:per|you~aux|be&PRES part|get-PRESP inf|to cop|be det:art|a
+	(1)adj|pretty (1)adj|good (1)n|swim&dv-AGT n:prop|Chi .
+
+    Strings matched 1 times
+
+From file <jebmt1.cha>
+
+    Strings matched 0 times
+
+From file <jenmt1.cha>
+
+    Strings matched 0 times
+
+From file <jermt1.cha>
+----------------------------------------
+*** File "jermt1.cha": line 431.
+*MOT:	see↑ you're gonna get big strong muscles when you get big .
+%mor:	co|see pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|get (1)adj|big
+	(1)adj|strong (1)n|muscle-PL conj|when pro:per|you v|get adj|big .
+----------------------------------------
+*** File "jermt1.cha": line 485.
+*MOT:	big big fire engine so you can ride in it ?
+%mor:	(1)adj|big (1)adj|big (1)n|fire n|engine conj|so pro:per|you mod|can v|ride
+	prep|in pro:per|it ?
+----------------------------------------
+*** File "jermt1.cha": line 606.
+*MOT:	so you get nice big strong muscles .
+%mor:	co|so pro:per|you v|get adj|nice (1)adj|big (1)adj|strong (1)n|muscle-PL .
+----------------------------------------
+*** File "jermt1.cha": line 612.
+*MOT:	so you can drive the great big oil truck when you get big .
+%mor:	co|so pro:per|you mod|can v|drive det:art|the (1)adj|great (1)adj|big
+	(1)n|oil n|truck conj|when pro:per|you v|get adj|big .
+
+    Strings matched 4 times
+
+From file <jesmt1.cha>
+
+    Strings matched 0 times
+
+From file <joemt1.cha>
+
+    Strings matched 0 times
+
+From file <joymt1.cha>
+----------------------------------------
+*** File "joymt1.cha": line 62.
+*CLI:	you probably kept <her awake last night> [>] .
+%mor:	pro:per|you adv|probable&dadj-LY v|keep&PAST pro:obj|her (1)adj|awake
+	(1)adj|last (1)n|night .
+
+    Strings matched 1 times
+
+From file <jusmt1.cha>
+
+    Strings matched 0 times
+
+From file <karmt1.cha>
+
+    Strings matched 0 times
+
+From file <kevmt1.cha>
+
+    Strings matched 0 times
+
+From file <kurmt1.cha>
+
+    Strings matched 0 times
+
+From file <maymt1.cha>
+----------------------------------------
+*** File "maymt1.cha": line 2002.
+*MOT:	I got some awful nice ice cream .
+%mor:	pro:sub|I v|get&PAST qn|some (1)adj|awful (1)adj|nice (1)n|ice n|cream .
+
+    Strings matched 1 times
+
+From file <megmt1.cha>
+
+    Strings matched 0 times
+
+From file <melmt1.cha>
+
+    Strings matched 0 times
+
+From file <mitmt1.cha>
+
+    Strings matched 0 times
+
+From file <monmt1.cha>
+
+    Strings matched 0 times
+
+From file <mormt1.cha>
+
+    Strings matched 0 times
+
+From file <paumt1.cha>
+
+    Strings matched 0 times
+
+From file <raumt1.cha>
+
+    Strings matched 0 times
+
+From file <remmt1.cha>
+----------------------------------------
+*** File "remmt1.cha": line 25.
+*FAT:	we have beautiful beautiful (.) seafood (.) plates .
+%mor:	pro:sub|we v|have (1)adj|beautiful (1)adj|beautiful (1)n|seafood n|plate-PL
+	.
+----------------------------------------
+*** File "remmt1.cha": line 1904.
+*FAT:	little tiny seahorses .
+%mor:	(1)adj|little (1)adj|tiny (1)n|seahorse-PL .
+----------------------------------------
+*** File "remmt1.cha": line 2176.
+*FAT:	a whale (.) big big whale ?
+%mor:	det:art|a n|whale (1)adj|big (1)adj|big (1)n|whale ?
+
+    Strings matched 3 times
+
+From file <rilmt1.cha>
+
+    Strings matched 0 times
+
+From file <rosmt1.cha>
+----------------------------------------
+*** File "rosmt1.cha": line 331.
+*FAT:	crack a window get a little fresh air xxx .
+%mor:	v|crack det:art|a n|window v|get det:art|a (1)adj|little (1)adj|fresh
+	(1)n|air .
+
+    Strings matched 1 times
+
+From file <sarmt1.cha>
+
+    Strings matched 0 times
+
+From file <seamt1.cha>
+
+    Strings matched 0 times
+
+From file <sopmt1.cha>
+
+    Strings matched 0 times
+
+From file <stnmt1.cha>
+
+    Strings matched 0 times
+
+From file <tammt1.cha>
+
+    Strings matched 0 times
+
+From file <tamtp1.cha>
+
+    Strings matched 0 times
+
+From file <termt1.cha>
+
+    Strings matched 0 times
+
+From file <todmt1.cha>
+----------------------------------------
+*** File "todmt1.cha": line 1877.
+*SS:	yours is the same same thing .
+%mor:	pro:poss|yours cop|be&3S det:art|the (1)adj|same (1)adj|same (1)n|thing .
+
+    Strings matched 1 times
+
+From file <tommt1.cha>
+----------------------------------------
+*** File "tommt1.cha": line 980.
+*MOT:	he's on the other side of the screen that's a pretty big bee though huh ?
+%mor:	pro:sub|he~cop|be&3S prep|on det:art|the qn|other n|side prep|of
+	det:art|the n|screen pro:rel|that~aux|be&3S det:art|a (1)adj|pretty
+	(1)adj|big (1)n|bee adv|though co|huh ?
+----------------------------------------
+*** File "tommt1.cha": line 2344.
+*MOT:	&+aw that's a sad quiet cat .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|sad (1)adj|quiet (1)n|cat .
+----------------------------------------
+*** File "tommt1.cha": line 3676.
+*MOT:	you're the best little guy in the whole wide world .
+%mor:	pro:per|you~aux|be&PRES det:art|the (1)adj|good&SP (1)adj|little (1)n|guy
+	prep|in det:art|the n|whole adj|wide n|world .
+
+    Strings matched 3 times
+
+From file <trimt1.cha>
+
+    Strings matched 0 times
+
+From file <trumt1.cha>
+
+    Strings matched 0 times
+
+From file <vicmt1.cha>
+
+    Strings matched 0 times
+
+From file <zanmt1.cha>
+
+    Strings matched 0 times
+
+From file <zenmt1.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,110 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:49:03 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <mich02.cha>
+----------------------------------------
+*** File "mich02.cha": line 580.
+*CHI:	wee tiny balls .
+%mor:	(1)adj|wee (1)adj|tiny (1)n|ball-PL .
+----------------------------------------
+*** File "mich02.cha": line 586.
+*CHI:	wee tiny balls .
+%mor:	(1)adj|wee (1)adj|tiny (1)n|ball-PL .
+
+    Strings matched 2 times
+
+From file <mich03.cha>
+
+    Strings matched 0 times
+
+From file <mich04.cha>
+
+    Strings matched 0 times
+
+From file <mich05.cha>
+
+    Strings matched 0 times
+
+From file <mich06.cha>
+
+    Strings matched 0 times
+
+From file <mich07.cha>
+
+    Strings matched 0 times
+
+From file <mich08.cha>
+
+    Strings matched 0 times
+
+From file <mich09.cha>
+----------------------------------------
+*** File "mich09.cha": line 1324.
+*CHI:	I have and them wee tiny things .
+%mor:	pro:sub|I v|have coord|and pro:obj|them (1)adj|wee (1)adj|tiny (1)n|thing-PL
+	.
+----------------------------------------
+*** File "mich09.cha": line 1328.
+*CHI:	them wee tiny things as_well .
+%mor:	pro:obj|them (1)adj|wee (1)adj|tiny (1)n|thing-PL adv|as_well .
+----------------------------------------
+*** File "mich09.cha": line 2758.
+*CHI:	that's a nice lovely teddy .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|love&dn-LY (1)n|teddy .
+
+    Strings matched 3 times
+
+From file <mich10.cha>
+
+    Strings matched 0 times
+
+From file <mich11.cha>
+----------------------------------------
+*** File "mich11.cha": line 2089.
+*CHI:	a lovely big dress .
+%mor:	det:art|a (1)adj|love&dn-LY (1)adj|big (1)n|dress .
+
+    Strings matched 1 times
+
+From file <mich12.cha>
+
+    Strings matched 0 times
+
+From file <mich13.cha>
+----------------------------------------
+*** File "mich13.cha": line 3116.
+*CHI:	when she was only a wee tiny baby .
+%mor:	conj|when pro:sub|she aux|be&PAST&13S adv|only det:art|a (1)adj|wee
+	(1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "mich13.cha": line 3726.
+*CHI:	maybe the beady wee things .
+%mor:	adv|maybe det:art|the (1)adj|bead&dn-Y (1)adj|wee (1)n|thing-PL .
+----------------------------------------
+*** File "mich13.cha": line 4726.
+*CHI:	and this is the big big teddy and down there is the big big .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the (1)adj|big (1)adj|big
+	(1)n|teddy coord|and adv|down adv|there cop|be&3S det:art|the adj|big
+	adj|big .
+
+    Strings matched 3 times
+
+From file <mich14.cha>
+----------------------------------------
+*** File "mich14.cha": line 4475.
+*CHI:	a wee friendly bear .
+%mor:	det:art|a (1)adj|wee (1)adj|friend&dn-LY (1)n|bear .
+
+    Strings matched 1 times
+
+From file <michsr1.cha>
+----------------------------------------
+*** File "michsr1.cha": line 1107.
+*CHI:	I don't like wee big waves .
+%mor:	pro:sub|I mod|do~neg|not v|like (1)adj|wee (1)adj|big (1)n|wave-PL .
+
+    Strings matched 1 times
+

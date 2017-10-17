@@ -1,0 +1,160 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:51:53 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <11006.cha>
+----------------------------------------
+*** File "11006.cha": line 169.
+*INV:	there's all sorts of teeny tiny little pieces with this game .
+%mor:	pro:exist|there~cop|be&3S qn|all n|sort-PL prep|of adj|teeny
+	(1)adj|tiny (1)adj|little (1)n|piece-PL prep|with pro:dem|this n|game .
+----------------------------------------
+*** File "11006.cha": line 409.
+*INV:	teeny tiny little things mere .
+%mor:	adj|teeny (1)adj|tiny (1)adj|little (1)n|thing-PL adj|mere .
+----------------------------------------
+*** File "11006.cha": line 584.
+*INV:	(0.6) lots_of little teeny tiny things in here .
+%mor:	qn|lots_of adj|little (1)adj|teeny (1)adj|tiny (1)n|thing-PL prep|in
+	adv|here .
+
+    Strings matched 3 times
+
+From file <11013.cha>
+
+    Strings matched 0 times
+
+From file <11023.cha>
+
+    Strings matched 0 times
+
+From file <11051.cha>
+
+    Strings matched 0 times
+
+From file <12003.cha>
+----------------------------------------
+*** File "12003.cha": line 99.
+*INV:	well there's so many tiny little pieces .
+%mor:	co|well pro:exist|there~cop|be&3S adv|so qn|many (1)adj|tiny
+	(1)adj|little (1)n|piece-PL .
+
+    Strings matched 1 times
+
+From file <12004.cha>
+
+    Strings matched 0 times
+
+From file <12007.cha>
+----------------------------------------
+*** File "12007.cha": line 22.
+*INV:	now let's see what we've got in this big old bag right here .
+%mor:	adv|now v|let~pro:obj|us v|see pro:int|what pro:sub|we~aux|have
+	v|get&PAST prep|in pro:dem|this (1)adj|big (1)adj|old (1)n|bag adv|right
+	adv|here .
+
+    Strings matched 1 times
+
+From file <12008.cha>
+----------------------------------------
+*** File "12008.cha": line 1413.
+*INV:	probably once a long long time ago .
+%mor:	adv|probable&dadj-LY adv|once det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago .
+
+    Strings matched 1 times
+
+From file <12014.cha>
+
+    Strings matched 0 times
+
+From file <12015.cha>
+
+    Strings matched 0 times
+
+From file <12029.cha>
+
+    Strings matched 0 times
+
+From file <12050.cha>
+
+    Strings matched 0 times
+
+From file <12077.cha>
+
+    Strings matched 0 times
+
+From file <21160.cha>
+
+    Strings matched 0 times
+
+From file <21189.cha>
+
+    Strings matched 0 times
+
+From file <22103.cha>
+----------------------------------------
+*** File "22103.cha": line 491.
+*INV:	he had a pretty bad fall there .
+%mor:	pro:sub|he v|have&PAST det:art|a (1)adj|pretty (1)adj|bad (1)n|fall
+	adv|there .
+
+    Strings matched 1 times
+
+From file <22104.cha>
+
+    Strings matched 0 times
+
+From file <22118.cha>
+
+    Strings matched 0 times
+
+From file <22120.cha>
+
+    Strings matched 0 times
+
+From file <22124.cha>
+
+    Strings matched 0 times
+
+From file <22128.cha>
+
+    Strings matched 0 times
+
+From file <22140.cha>
+
+    Strings matched 0 times
+
+From file <22148.cha>
+
+    Strings matched 0 times
+
+From file <22180.cha>
+----------------------------------------
+*** File "22180.cha": line 227.
+*INV:	it's a pretty smart ambulance .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|pretty (1)adj|smart (1)n|ambulance .
+
+    Strings matched 1 times
+
+From file <22181.cha>
+
+    Strings matched 0 times
+
+From file <22184.cha>
+
+    Strings matched 0 times
+
+From file <22186.cha>
+----------------------------------------
+*** File "22186.cha": line 259.
+*INV:	maybe take that little red part off and then just try putting white
+	part in there .
+%mor:	adv|maybe v|take pro:dem|that (1)adj|little (1)adj|red (1)n|part adv|off
+	coord|and adv:tem|then adv|just v|try part|put-PRESP adj|white
+	n|part prep|in adv|there .
+
+    Strings matched 1 times
+

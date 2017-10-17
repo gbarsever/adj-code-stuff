@@ -1,0 +1,166 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:31 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <emi01.cha>
+
+    Strings matched 0 times
+
+From file <emi02.cha>
+
+    Strings matched 0 times
+
+From file <emi03.cha>
+----------------------------------------
+*** File "emi03.cha": line 2596.
+*CHI:	last year I just got chocolate in my bu(ck)et (.) real small
+	chocolate and . %snd:"emi03"_1881916_1888981
+%mor:	adj|last n|year pro:sub|I adv|just v|get&PAST n|chocolate prep|in
+	det:poss|my n|bucket (1)adj|real (1)adj|small (1)n|chocolate coord|and .
+
+    Strings matched 1 times
+
+From file <emi04.cha>
+
+    Strings matched 0 times
+
+From file <emi05.cha>
+
+    Strings matched 0 times
+
+From file <emi06.cha>
+----------------------------------------
+*** File "emi06.cha": line 1923.
+*CHI:	the [/] the big red [/] red car was leakin(g) . %snd:"emi06"_1580720_1587470
+%mor:	det:art|the (1)adj|big (1)adj|red (1)n|car aux|be&PAST&13S part|leak-PRESP .
+----------------------------------------
+*** File "emi06.cha": line 1929.
+*CHI:	the big red car was . %snd:"emi06"_1588933_1592275
+%mor:	det:art|the (1)adj|big (1)adj|red (1)n|car cop|be&PAST&13S .
+
+    Strings matched 2 times
+
+From file <emi07.cha>
+
+    Strings matched 0 times
+
+From file <emi08.cha>
+
+    Strings matched 0 times
+
+From file <emi09.cha>
+
+    Strings matched 0 times
+
+From file <emi10.cha>
+
+    Strings matched 0 times
+
+From file <emi11.cha>
+
+    Strings matched 0 times
+
+From file <emi12.cha>
+
+    Strings matched 0 times
+
+From file <emi13.cha>
+----------------------------------------
+*** File "emi13.cha": line 665.
+*CHI:	I gave Tiki little spinny tops . %snd:"emi13"_424555_427962
+%mor:	pro:sub|I v|give&PAST n:prop|Tiki (1)adj|little (1)adj|spin&dv-Y (1)n|top-PL
+	.
+----------------------------------------
+*** File "emi13.cha": line 673.
+*CHI:	I gave Tik(i) little spinny tops . %snd:"emi13"_428528_431870
+%mor:	pro:sub|I v|give&PAST n:prop|Tiki (1)adj|little (1)adj|spin&dv-Y (1)n|top-PL
+	.
+
+    Strings matched 2 times
+
+From file <emi14.cha>
+
+    Strings matched 0 times
+
+From file <emi15.cha>
+
+    Strings matched 0 times
+
+From file <emi16.cha>
+----------------------------------------
+*** File "emi16.cha": line 1337.
+*CHI:	<you mean> [/] you mean messy foot paint ? %snd:"emi16"_886936_893520
+%mor:	pro:per|you (1)adj|mean (1)adj|mess&dn-Y (1)n|foot n|paint ?
+
+    Strings matched 1 times
+
+From file <emi17.cha>
+----------------------------------------
+*** File "emi17.cha": line 1677.
+*CHI:	a little big baby . %snd:"emi17"_1154289_1158427
+%mor:	det:art|a (1)adj|little (1)adj|big (1)n|baby .
+
+    Strings matched 1 times
+
+From file <emi18.cha>
+----------------------------------------
+*** File "emi18.cha": line 291.
+*CHI:	and now we have_to play this when I , a little tiny baby . %snd:"emi18"_168799_174051
+%mor:	coord|and adv|now pro:sub|we mod:aux|have_to v|play pro:dem|this
+	conj|when pro:sub|I cm|cm det:art|a (1)adj|little (1)adj|tiny (1)n|baby .
+----------------------------------------
+*** File "emi18.cha": line 307.
+*CHI:	I was gonna play this when I was a little tiny (.) ba^by . %snd:"emi18"_179007_184940
+%mor:	pro:sub|I aux|be&PAST&13S part|go-PRESP~inf|to v|play pro:dem|this
+	conj|when pro:sub|I cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby .
+----------------------------------------
+*** File "emi18.cha": line 313.
+*CHI:	I was played that when I was a little tiny baby . %snd:"emi18"_184940_188763
+%mor:	pro:sub|I aux|be&PAST&13S part|play-PASTP pro:rel|that conj|when
+	pro:sub|I cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny (1)n|baby .
+
+    Strings matched 3 times
+
+From file <emi19.cha>
+----------------------------------------
+*** File "emi19.cha": line 2354.
+*CHI:	we're gonna go to (.) Melissa will be sick next time , and it will just be xxx Scott . %snd:"emi19"_1498909_1508252
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|go prep|to
+	n:prop|Melissa mod|will cop|be (1)adj|sick (1)adj|next (1)n|time cm|cm
+	coord|and pro:per|it mod|will adv|just cop|be n:prop|Scott .
+
+    Strings matched 1 times
+
+From file <emi20.cha>
+----------------------------------------
+*** File "emi20.cha": line 707.
+*CHI:	in her own little crib . %snd:"emi20"_486665_488510
+%mor:	prep|in det:poss|her (1)adj|own (1)adj|little (1)n|crib .
+
+    Strings matched 1 times
+
+From file <emi21.cha>
+----------------------------------------
+*** File "emi21.cha": line 1016.
+*CHI:	this is your own little campfire eating junk food . %snd:"emi21"_622688_627244
+%mor:	pro:dem|this cop|be&3S det:poss|your (1)adj|own (1)adj|little
+	(1)n|+n|camp+n|fire part|eat-PRESP n|junk n|food .
+----------------------------------------
+*** File "emi21.cha": line 1027.
+*CHI:	this be our own little campfire . %snd:"emi21"_630901_633529
+%mor:	pro:dem|this cop|be det:poss|our (1)adj|own (1)adj|little
+	(1)n|+n|camp+n|fire .
+
+    Strings matched 2 times
+
+From file <emi22.cha>
+
+    Strings matched 0 times
+
+From file <emi23.cha>
+
+    Strings matched 0 times
+

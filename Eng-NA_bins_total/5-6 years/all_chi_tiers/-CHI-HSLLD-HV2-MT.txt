@@ -1,0 +1,299 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:03:51 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admmt2.cha>
+----------------------------------------
+*** File "admmt2.cha": line 1619.
+*MOT:	you [/] you got a (.) pretty big wrist .
+%mor:	pro:per|you v|get&PAST det:art|a (1)adj|pretty (1)adj|big (1)n|wrist .
+
+    Strings matched 1 times
+
+From file <aimmt2.cha>
+
+    Strings matched 0 times
+
+From file <allmt2.cha>
+
+    Strings matched 0 times
+
+From file <anamt2.cha>
+
+    Strings matched 0 times
+
+From file <annmt2.cha>
+
+    Strings matched 0 times
+
+From file <astmt2.cha>
+
+    Strings matched 0 times
+
+From file <bramt2.cha>
+----------------------------------------
+*** File "bramt2.cha": line 88.
+*GMA:	take a little tiny taste .
+%mor:	v|take det:art|a (1)adj|little (1)adj|tiny (1)n|taste .
+
+    Strings matched 1 times
+
+From file <brnmt2.cha>
+----------------------------------------
+*** File "brnmt2.cha": line 590.
+*SIS:	it was the chinese new year .
+%mor:	pro:per|it cop|be&PAST&13S det:art|the (1)adj|chinese (1)adj|new (1)n|year .
+
+    Strings matched 1 times
+
+From file <brtmt2.cha>
+
+    Strings matched 0 times
+
+From file <casmt2.cha>
+
+    Strings matched 0 times
+
+From file <catmt2.cha>
+----------------------------------------
+*** File "catmt2.cha": line 2058.
+*BRO:	I can't make myself make a big big burp again .
+%mor:	pro:sub|I mod|can~neg|not v|make pro:refl|myself v|make det:art|a
+	(1)adj|big (1)adj|big (1)n|burp adv|again .
+
+    Strings matched 1 times
+
+From file <chamt2.cha>
+----------------------------------------
+*** File "chamt2.cha": line 465.
+*AUN:	now you remember you're going to bed early tonight (be)cause you were <&a> [//] awake very late last night .
+%mor:	adv|now pro:per|you v|remember pro:per|you~aux|be&PRES
+	part|go-PRESP prep|to n|bed adv|early adv:tem|tonight conj|because
+	pro:per|you cop|be&PAST adj|awake adv|very (1)adj|late (1)adj|last (1)n|night
+	.
+
+    Strings matched 1 times
+
+From file <clamt2.cha>
+
+    Strings matched 0 times
+
+From file <conmt2.cha>
+
+    Strings matched 0 times
+
+From file <davmt2.cha>
+----------------------------------------
+*** File "davmt2.cha": line 80.
+*MOT:	she was just a little tiny kid and (.) said Chi wait wait [!] (.) huh .
+%mor:	pro:sub|she cop|be&PAST&13S adv|just det:art|a (1)adj|little (1)adj|tiny
+	(1)n|kid coord|and v|say&PAST n:prop|Chi v|wait co|wait co|huh .
+
+    Strings matched 1 times
+
+From file <diamt2.cha>
+
+    Strings matched 0 times
+
+From file <ethmt2.cha>
+
+    Strings matched 0 times
+
+From file <geomt2.cha>
+
+    Strings matched 0 times
+
+From file <inamt2.cha>
+----------------------------------------
+*** File "inamt2.cha": line 912.
+*MOT:	that's a pretty busy week for you .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|busy (1)n|week
+	prep|for pro:per|you .
+----------------------------------------
+*** File "inamt2.cha": line 1211.
+*MOT:	you know the red glittery stuff ?
+%mor:	pro:per|you v|know det:art|the (1)adj|red (1)adj|glitter&dv-Y (1)n|stuff ?
+
+    Strings matched 2 times
+
+From file <jacmt2.cha>
+
+    Strings matched 0 times
+
+From file <jammt2.cha>
+
+    Strings matched 0 times
+
+From file <jeamt2.cha>
+
+    Strings matched 0 times
+
+From file <jebmt2.cha>
+----------------------------------------
+*** File "jebmt2.cha": line 180.
+*MOT:	see the little red light is on that tells us that it's going .
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light cop|be&3S prep|on
+	pro:rel|that v|tell-3S pro:obj|us det:dem|that pro:per|it~aux|be&3S
+	part|go-PRESP .
+----------------------------------------
+*** File "jebmt2.cha": line 388.
+*MOT:	it's an old old tv show me and Daddy used to watch when we were little kids and this is a Leave it to Beaver tee shirt .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|old (1)adj|old (1)n|tv v|show
+	pro:obj|me coord|and n:prop|Daddy v|use-PAST prep|to n|watch
+	conj|when pro:sub|we cop|be&PAST adj|little n|kid-PL coord|and
+	pro:dem|this cop|be&3S det:art|a n:prop|Leave pro:per|it prep|to
+	n:prop|Beaver n|tee n|shirt .
+
+    Strings matched 2 times
+
+From file <joemt2.cha>
+
+    Strings matched 0 times
+
+From file <jusmt2.cha>
+
+    Strings matched 0 times
+
+From file <karmt2.cha>
+
+    Strings matched 0 times
+
+From file <kevmt2.cha>
+
+    Strings matched 0 times
+
+From file <kurmt2.cha>
+
+    Strings matched 0 times
+
+From file <maymt2.cha>
+----------------------------------------
+*** File "maymt2.cha": line 1390.
+*MOT:	it's a long long long walk .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|long (1)adj|long (1)adj|long (1)n|walk .
+
+    Strings matched 1 times
+
+From file <megmt2.cha>
+----------------------------------------
+*** File "megmt2.cha": line 2215.
+*MOT:	and she went [//] she wanted to have nice big juicy banana split (.) ?
+%mor:	coord|and pro:sub|she pro:sub|she v|want-PAST inf|to v|have
+	adj|nice (1)adj|big (1)adj|juice&dn-Y (1)n|banana part|split&PASTP ?
+
+    Strings matched 1 times
+
+From file <melmt2.cha>
+----------------------------------------
+*** File "melmt2.cha": line 296.
+*MOT:	not real hot (.) not for me anyway .
+%mor:	neg|not (1)adj|real (1)adj|hot (1)neg|not prep|for pro:obj|me adv|anyway .
+
+    Strings matched 1 times
+
+From file <monmt2.cha>
+
+    Strings matched 0 times
+
+From file <petmt2.cha>
+
+    Strings matched 0 times
+
+From file <remmt2.cha>
+
+    Strings matched 0 times
+
+From file <rosmt2.cha>
+----------------------------------------
+*** File "rosmt2.cha": line 302.
+*SIS:	Stan (.) had clipped a bunch of far side cartoons from the paper .
+%mor:	n:prop|Stan v|have&PAST part|clip-PASTP det:art|a n|bunch prep|of
+	(1)adj|far (1)adj|side (1)n|cartoon-PL prep|from det:art|the n|paper .
+----------------------------------------
+*** File "rosmt2.cha": line 1750.
+*FAT:	gee you were up so late last night I figure you'd take a nap today .
+%mor:	co|gee pro:per|you cop|be&PAST adv|up adv|so (1)adj|late (1)adj|last
+	(1)n|night pro:sub|I v|figure pro:per|you~mod|genmod v|take det:art|a
+	n|nap adv:tem|today .
+
+    Strings matched 2 times
+
+From file <sarmt2.cha>
+
+    Strings matched 0 times
+
+From file <seamt2.cha>
+----------------------------------------
+*** File "seamt2.cha": line 470.
+*MOT:	she's a little [//] hungry little girl .
+%mor:	pro:sub|she~aux|be&3S det:art|a (1)adj|hungry (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "seamt2.cha": line 1108.
+*MOT:	big fat guy .
+%mor:	(1)adj|big (1)adj|fat (1)n|guy .
+
+    Strings matched 2 times
+
+From file <stnmt2.cha>
+
+    Strings matched 0 times
+
+From file <susmt2.cha>
+
+    Strings matched 0 times
+
+From file <termt2.cha>
+
+    Strings matched 0 times
+
+From file <todmt2.cha>
+
+    Strings matched 0 times
+
+From file <tommt2.cha>
+----------------------------------------
+*** File "tommt2.cha": line 848.
+*MOT:	and Auntie Peggy sent a great big &-um (.) Indiana Jones puzzle to do .
+%mor:	coord|and n:prop|Auntie n:prop|Peggy v|send&PAST det:art|a
+	(1)adj|great (1)adj|big (1)n:prop|Indiana n:prop|Jones n|puzzle inf|to v|do .
+----------------------------------------
+*** File "tommt2.cha": line 2373.
+*MOT:	Donna put them on your &-um little happy report .
+%mor:	n:prop|Donna v|put&ZERO pro:obj|them prep|on det:poss|your
+	(1)adj|little (1)adj|happy (1)n|report .
+
+    Strings matched 2 times
+
+From file <trimt2.cha>
+----------------------------------------
+*** File "trimt2.cha": line 207.
+*MOT:	when the little red light comes on +...
+%mor:	conj|when det:art|the (1)adj|little (1)adj|red (1)n|light v|come-3S adv|on
+	+...
+----------------------------------------
+*** File "trimt2.cha": line 211.
+*MOT:	see the &+r little red light flashin(g) ?
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light part|flash-PRESP ?
+
+    Strings matched 2 times
+
+From file <vicmt2.cha>
+----------------------------------------
+*** File "vicmt2.cha": line 1872.
+*BRO:	<and she and she &-um (.) she> [//] every day she <went (.) to> [//] (.) <go to> [/] (.) go to drive <her new car> [//] (.) her (.) real nice (.) car .
+%mor:	qn|every n|day pro:sub|she v|go inf|to v|drive det:poss|her
+	(1)adj|real (1)adj|nice (1)n|car .
+
+    Strings matched 1 times
+
+From file <zenmt2.cha>
+----------------------------------------
+*** File "zenmt2.cha": line 946.
+*MOT:	you got your pretty little smiles .
+%mor:	pro:per|you v|get&PAST det:poss|your (1)adj|pretty (1)adj|little
+	(1)n|smile-PL .
+
+    Strings matched 1 times
+

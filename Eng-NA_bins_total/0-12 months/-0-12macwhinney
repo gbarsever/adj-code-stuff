@@ -1,0 +1,10 @@
+combo +t%mor -t*CHI -t*MAD -t*UNK -t*MAR -t*BEN -t*ROS -t*JOE -t*ALL +re +s(adj*^adj*^n*) *.cha
+Mon May  8 21:51:14 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI; *MAD; *UNK; *MAR; *BEN; *ROS; *JOE; *ALL;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/MacWhinney/0notlinked/01diary.cha>
+
+    Strings matched 0 times
+

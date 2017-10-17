@@ -1,0 +1,192 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:53:23 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/AJC1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/AJC1.cha": line 353.
+*ADU:	it was funny and he had a big big tongue . %snd:"AJC1"_191060_194424
+%mor:	pro|it cop|be&PAST&13S adj|fun&dn-Y coord|and pro:sub|he
+	v|have&PAST art|a (1)adj|big (1)adj|big (1)n|tongue .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/AJC2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/AJC2.cha": line 1256.
+*ADU:	have you been doing a story about a big bad wolf ? %snd:"AJC2"_815673_818561
+%mor:	v|have pro|you aux|be&PASTP part|do-PRESP art|a n|story prep|about
+	art|a (1)adj|big (1)adj|bad (1)n|wolf ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/AJC2.cha": line 2600.
+*ADU:	grand old duke of York . [+ bch] %snd:"AJC2"_1674747_1676346
+%mor:	(1)adj|grand (1)adj|old (1)n|duke prep|of n:prop|York .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/BDO1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/BDO2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/BDO2.cha": line 410.
+*MOT:	poor little girl . %snd:"BDO2"_401026_403762
+%mor:	(1)adj|poor (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/BDO2.cha": line 1512.
+*MOT:	naughty naughty cow . %snd:"BDO2"_1595885_1603012
+%mor:	(1)adj|naughty (1)adj|naughty (1)n|cow .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/CDH1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/CDH1.cha": line 2541.
+*ADU:	what are these little black things do you think ? %snd:"CDH1"_2080070_2082110
+%mor:	pro:wh|what aux|be&PRES det|these (1)adj|little (1)adj|black (1)n|thing-PL
+	v|do pro|you v|think ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/CDH1.cha": line 2772.
+*ADU:	little <tiny> [/] tiny bugs . %snd:"CDH1"_2258661_2260023
+%mor:	(1)adj|little (1)adj|tiny (1)n|bug-PL .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/CDH1.cha": line 2863.
+*ADU:	oh_dear poor little teddy . %snd:"CDH1"_2319810_2321569
+%mor:	co|oh_dear (1)adj|poor (1)adj|little (1)n|teddy .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/ECB1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/ECB1.cha": line 1590.
+*MOT:	there was the great big slide wasn't there ? %snd:"ECB1"_1163027_1166420
+%mor:	pro:exist|there cop|be&PAST&13S art|the (1)adj|great (1)adj|big (1)n|slide
+	cop|be&PAST&13S~neg|not adv|there ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/ECB1.cha": line 1617.
+*MOT:	or did you like the huge great big bouncy slide ? %snd:"ECB1"_1176596_1179474
+%mor:	conj|or mod|do&PAST pro|you conj|like art|the adj|huge adj|great
+	(1)adj|big (1)adj|bounce&dv-Y (1)n|slide ?
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/ECB1.cha": line 1702.
+*MOT:	it is , it's a great big screen isn't it ? %snd:"ECB1"_1229178_1231859
+%mor:	pro|it cop|be&3S cm|cm pro|it~cop|be&3S art|a (1)adj|great (1)adj|big
+	(1)n|screen cop|be&3S~neg|not pro|it ?
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/ECB2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/FC1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/FC1.cha": line 912.
+*MOT:	okay mummy's got a nice healthy dinner . %snd:"FC1"_580405_584046
+%mor:	co|okay n|mummy~aux|be&3S part|get&PASTP art|a (1)adj|nice
+	(1)adj|health&dn-Y (1)n|dinner .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/FC1.cha": line 2286.
+*MOT:	that's a good idea and then it's an even longer train isn't it ? %snd:"FC1"_1430385_1433804
+%mor:	pro:dem|that~cop|be&3S art|a adj|good n|idea coord|and adv:tem|then
+	pro|it~aux|be&3S art|a (1)adj|even (1)adj|long-CP (1)n|train
+	cop|be&3S~neg|not pro|it ?
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/FC2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/JH1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/LP1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/LP2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/LP2.cha": line 14.
+*MOT:	oh that is a lovely soft dog . %snd:"LP2"_23154_24653
+%mor:	co|oh rel|that cop|be&3S art|a (1)adj|love&dn-LY (1)adj|soft (1)n|dog .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/LP2.cha": line 905.
+*MOT:	would he like a nice pink house . %snd:"LP2"_1179399_1180964
+%mor:	mod|will&COND pro:sub|he v|like art|a (1)adj|nice (1)adj|pink (1)n|house .
+
+    Strings matched 2 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MEH1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MEH2.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MEH2.cha": line 1409.
+*MOT:	poor little cow . %snd:"MEH2"_1105194_1107224
+%mor:	(1)adj|poor (1)adj|little (1)n|cow .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MEH2.cha": line 1756.
+*MOT:	naughty pussy cat . %snd:"MEH2"_1399092_1400423
+%mor:	(1)adj|naughty (1)adj|puss&dn-Y (1)n|cat .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MEH2.cha": line 1919.
+*MOT:	oh_no , it's an empty pretend box . %snd:"MEH2"_1575244_1578582
+%mor:	co|oh_no cm|cm pro|it~cop|be&3S art|a (1)adj|empty (1)adj|pretend (1)n|box .
+
+    Strings matched 3 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MH1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/MH2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/OH1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/OH2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/OMS1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/OMS1.cha": line 611.
+*MOT:	have you got your own little picnic there ? %snd:"OMS1"_707087_715183
+%mor:	aux|have pro|you v|get&PAST pro:poss:det|your (1)adj|own (1)adj|little
+	(1)n|picnic adv|there ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/OMS2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/WJAW1.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/WJAW1.cha": line 333.
+*MOT:	look at that great big wheel . %snd:"WJAW1"_219565_222390
+%mor:	v|look prep|at det|that (1)adj|great (1)adj|big (1)n|wheel .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/WJAW2.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/megan1.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/3-4 years/Tommerdahl/megan2.cha>
+
+    Strings matched 0 times
+

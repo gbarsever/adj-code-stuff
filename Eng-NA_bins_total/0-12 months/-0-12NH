@@ -1,0 +1,23 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 21:53:39 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/NH/nh12f-alma.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/NH/nh12f-alma.cha": line 316.
+*MOT:	it's a real good toy isn't it ?
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|real (1)adj|good (1)n|toy
+	cop|be&3S~neg|not pro:per|it ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/NH/nh12f-kama.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/NH/nh12f-laliita.cha>
+
+    Strings matched 0 times
+

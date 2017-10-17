@@ -1,0 +1,254 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:05:58 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <AJC1.cha>
+
+    Strings matched 0 times
+
+From file <AJC2.cha>
+----------------------------------------
+*** File "AJC2.cha": line 2775.
+*CHI:	mom I wan own apple . %snd:"AJC2"_1792020_1795624
+%mor:	n|mom pro:sub|I (1)adj|wan (1)adj|own (1)n|apple .
+
+    Strings matched 1 times
+
+From file <AVW1.cha>
+
+    Strings matched 0 times
+
+From file <AVW2.cha>
+----------------------------------------
+*** File "AVW2.cha": line 1756.
+*CHI:	there's one little tiny passengers . %snd:"AVW2"_1525378_1529645
+%mor:	pro:exist|there~cop|be&3S pro:indef|one (1)adj|little (1)adj|tiny
+	(1)n|passenger-PL .
+
+    Strings matched 1 times
+
+From file <BDO1.cha>
+
+    Strings matched 0 times
+
+From file <BDO2.cha>
+----------------------------------------
+*** File "BDO2.cha": line 603.
+*CHI:	she's still sick mum . %snd:"BDO2"_592181_598831
+%mor:	pro:sub|she~cop|be&3S (1)adj|still (1)adj|sick (1)n|mum .
+
+    Strings matched 1 times
+
+From file <CDH1.cha>
+----------------------------------------
+*** File "CDH1.cha": line 1742.
+*CHI:	this one got a little tiny bit . %snd:"CDH1"_1487647_1491141
+%mor:	det|this pro:indef|one v|get&PAST art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "CDH1.cha": line 1868.
+*CHI:	poor poor rabbit . %snd:"CDH1"_1593300_1594676
+%mor:	(1)adj|poor (1)adj|poor (1)n|rabbit .
+
+    Strings matched 2 times
+
+From file <CMC1.cha>
+
+    Strings matched 0 times
+
+From file <CMC2.cha>
+
+    Strings matched 0 times
+
+From file <ECB1.cha>
+----------------------------------------
+*** File "ECB1.cha": line 1491.
+*CHI:	cute little doggy . %snd:"ECB1"_1095893_1097413
+%mor:	(1)adj|cute (1)adj|little (1)n|dog-DIM .
+
+    Strings matched 1 times
+
+From file <ECB2.cha>
+
+    Strings matched 0 times
+
+From file <ECG1.cha>
+
+    Strings matched 0 times
+
+From file <ECG2.cha>
+----------------------------------------
+*** File "ECG2.cha": line 1126.
+*CHI:	me still hungry mummy . %snd:"ECG2"_1014924_1018745
+%mor:	pro:obj|me (1)adj|still (1)adj|hungry (1)n|mummy .
+
+    Strings matched 1 times
+
+From file <ELG1.cha>
+----------------------------------------
+*** File "ELG1.cha": line 88.
+*CHI:	yeah , a big hard bread . %snd:"ELG1"_72833_74682
+%mor:	co|yeah cm|cm art|a (1)adj|big (1)adj|hard (1)n|bread .
+----------------------------------------
+*** File "ELG1.cha": line 2053.
+*CHI:	try yummy yummy yum . %snd:"ELG1"_1337403_1341797
+%mor:	v|try (1)adj|yum&dn-Y (1)adj|yum&dn-Y (1)n|yum .
+
+    Strings matched 2 times
+
+From file <ELG2.cha>
+
+    Strings matched 0 times
+
+From file <FC1.cha>
+----------------------------------------
+*** File "FC1.cha": line 2293.
+*CHI:	look it's an even longer train . %snd:"FC1"_1433804_1439116
+%mor:	co|look pro|it~cop|be&3S art|a (1)adj|even (1)adj|long-CP (1)n|train .
+
+    Strings matched 1 times
+
+From file <FC2.cha>
+
+    Strings matched 0 times
+
+From file <FMW1.cha>
+
+    Strings matched 0 times
+
+From file <FMW2.cha>
+
+    Strings matched 0 times
+
+From file <JH1.cha>
+
+    Strings matched 0 times
+
+From file <Jessica1.cha>
+----------------------------------------
+*** File "Jessica1.cha": line 657.
+*CHI:	and this is my big small house . %snd:"Jessica1"_918819_923144
+%mor:	coord|and pro:dem|this cop|be&3S pro:poss:det|my (1)adj|big (1)adj|small
+	(1)n|house .
+----------------------------------------
+*** File "Jessica1.cha": line 661.
+*CHI:	look , my big small house . %snd:"Jessica1"_923144_926748
+%mor:	v|look cm|cm pro:poss:det|my (1)adj|big (1)adj|small (1)n|house .
+----------------------------------------
+*** File "Jessica1.cha": line 664.
+*CHI:	this is my big small house . %snd:"Jessica1"_926748_929487
+%mor:	pro:dem|this cop|be&3S pro:poss:det|my (1)adj|big (1)adj|small (1)n|house .
+----------------------------------------
+*** File "Jessica1.cha": line 667.
+*CHI:	big small house . %snd:"Jessica1"_929487_936179
+%mor:	(1)adj|big (1)adj|small (1)n|house .
+
+    Strings matched 4 times
+
+From file <Jessica2.cha>
+
+    Strings matched 0 times
+
+From file <LP1.cha>
+
+    Strings matched 0 times
+
+From file <LP2.cha>
+
+    Strings matched 0 times
+
+From file <MCC1.cha>
+
+    Strings matched 0 times
+
+From file <MCC2.cha>
+----------------------------------------
+*** File "MCC2.cha": line 232.
+*CHI:	&erm , don't know , squeaky hot dog +... %snd:"MCC2"_717791_727292
+%mor:	cm|cm mod|do~neg|not v|know cm|cm (1)adj|squeak&dv-Y (1)adj|hot (1)n|dog
+	+...
+----------------------------------------
+*** File "MCC2.cha": line 535.
+*CHI:	let's try this little blue car . %snd:"MCC2"_1668834_1679785
+%mor:	v|let~pro:obj|us v|try det|this (1)adj|little (1)adj|blue (1)n|car .
+
+    Strings matched 2 times
+
+From file <MEH1.cha>
+
+    Strings matched 0 times
+
+From file <MEH2.cha>
+
+    Strings matched 0 times
+
+From file <MH1.cha>
+
+    Strings matched 0 times
+
+From file <MH2.cha>
+
+    Strings matched 0 times
+
+From file <OH1.cha>
+
+    Strings matched 0 times
+
+From file <OH2.cha>
+
+    Strings matched 0 times
+
+From file <OMS1.cha>
+
+    Strings matched 0 times
+
+From file <OMS2.cha>
+
+    Strings matched 0 times
+
+From file <RMB1.cha>
+
+    Strings matched 0 times
+
+From file <RMB2.cha>
+
+    Strings matched 0 times
+
+From file <SAU1.cha>
+
+    Strings matched 0 times
+
+From file <SAU2.cha>
+
+    Strings matched 0 times
+
+From file <SC1.cha>
+
+    Strings matched 0 times
+
+From file <SC2.cha>
+
+    Strings matched 0 times
+
+From file <WJAW1.cha>
+
+    Strings matched 0 times
+
+From file <WJAW2.cha>
+----------------------------------------
+*** File "WJAW2.cha": line 341.
+*CHI:	why make a big big tower with these . %snd:"WJAW2"_272862_277056
+%mor:	adv:wh|why v|make art|a (1)adj|big (1)adj|big (1)n|tower prep|with
+	pro:dem|these .
+
+    Strings matched 1 times
+
+From file <megan1.cha>
+
+    Strings matched 0 times
+
+From file <megan2.cha>
+
+    Strings matched 0 times
+

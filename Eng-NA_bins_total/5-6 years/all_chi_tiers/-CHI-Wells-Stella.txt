@@ -1,0 +1,48 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:14:48 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <stella02.cha>
+----------------------------------------
+*** File "stella02.cha": line 229.
+*ADR:	I did it a long long time ago .
+%mor:	pro:sub|I mod|do&PAST pro:per|it det:art|a (1)adj|long (1)adj|long (1)n|time
+	adv|ago .
+
+    Strings matched 1 times
+
+From file <stella03.cha>
+
+    Strings matched 0 times
+
+From file <stella05.cha>
+
+    Strings matched 0 times
+
+From file <stella06.cha>
+
+    Strings matched 0 times
+
+From file <stella07.cha>
+
+    Strings matched 0 times
+
+From file <stella08.cha>
+
+    Strings matched 0 times
+
+From file <stella09.cha>
+----------------------------------------
+*** File "stella09.cha": line 971.
+*FAT:	is that a nice little bit to be going on with (4.) ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|nice (1)adj|little (1)n|bit prep|to
+	aux|be part|go-PRESP adv|on prep|with ?
+
+    Strings matched 1 times
+
+From file <stella10.cha>
+
+    Strings matched 0 times
+

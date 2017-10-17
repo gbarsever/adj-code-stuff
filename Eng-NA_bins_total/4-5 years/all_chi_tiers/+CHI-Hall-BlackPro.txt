@@ -1,0 +1,311 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:30:18 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <anc.cha>
+
+    Strings matched 0 times
+
+From file <bom.cha>
+----------------------------------------
+*** File "bom.cha": line 8472.
+*CHI:	because I'm gonna make [//] there there was a big big tall giant
+	xxx +...
+%mor:	conj|because pro:sub|I~aux|be&1S part|go-PRESP~inf|to adv|there
+	adv|there cop|be&PAST&13S det:art|a adj|big (1)adj|big (1)adj|tall (1)n|giant
+	+...
+----------------------------------------
+*** File "bom.cha": line 12675.
+*CHI:	xxx (.) why you [//] no call me (.) little &+bluh little wock
+	[: rock] head (.) .
+%mor:	adv:int|why co|no n|call pro:obj|me (1)adj|little (1)adj|little (1)n|rock
+	n|head .
+----------------------------------------
+*** File "bom.cha": line 14508.
+*CHI:	we're gonna have a funky good time (.) .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|have det:art|a
+	(1)adj|funk&dn-Y (1)adj|good (1)n|time .
+----------------------------------------
+*** File "bom.cha": line 16573.
+*CHI:	yeah , you a nice little wock [: rock] head .
+%mor:	co|yeah cm|cm pro:per|you det:art|a (1)adj|nice (1)adj|little (1)n|rock
+	n|head .
+
+    Strings matched 4 times
+
+From file <brd.cha>
+----------------------------------------
+*** File "brd.cha": line 3897.
+*CHI:	an(d) he was a big giant monster he was fighting (.) .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S det:art|a (1)adj|big (1)adj|giant
+	(1)n|monster pro:sub|he aux|be&PAST&13S part|fight-PRESP .
+----------------------------------------
+*** File "brd.cha": line 27822.
+*CHI:	yeah , but you need a li(tt)le li(tt)le li(tt)le li(tt)le li(tt)le
+	li(tt)le li(tt)le li(tt)le frame .
+%mor:	co|yeah cm|cm conj|but pro:per|you v|need det:art|a adj|little
+	adj|little adj|little adj|little adj|little adj|little (1)adj|little
+	(1)adj|little (1)n|frame .
+
+    Strings matched 2 times
+
+From file <chj.cha>
+----------------------------------------
+*** File "chj.cha": line 9476.
+*CHI:	it's a bright sunny day out !
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|bright (1)adj|sun&dn-Y (1)n|day
+	adv|out !
+----------------------------------------
+*** File "chj.cha": line 13873.
+*CHI:	my mom [//] my my grandma has a little back yard .
+%mor:	det:poss|my co|my det:poss|my grand#n|ma v|have&3S det:art|a
+	(1)adj|little (1)adj|back (1)n|yard .
+
+    Strings matched 2 times
+
+From file <ded.cha>
+----------------------------------------
+*** File "ded.cha": line 2865.
+*CHI:	they're standing under the , the great big statue !
+%mor:	pro:sub|they~aux|be&PRES part|stand-PRESP prep|under det:art|the
+	cm|cm det:art|the (1)adj|great (1)adj|big (1)n|statue !
+----------------------------------------
+*** File "ded.cha": line 4188.
+*CHI:	because a great big tape is in there .
+%mor:	conj|because det:art|a (1)adj|great (1)adj|big (1)n|tape cop|be&3S prep|in
+	adv|there .
+----------------------------------------
+*** File "ded.cha": line 10931.
+*CHI:	here there are two big [!] strong [!] strong things .
+%mor:	adv|here adv|there cop|be&PRES det:num|two adj|big (1)adj|strong
+	(1)adj|strong (1)n|thing-PL .
+----------------------------------------
+*** File "ded.cha": line 14167.
+*CHI:	you go in there an(d) whenever you see the red light flash on those
+	things that means I'm talkin(g) .
+%mor:	pro:per|you v|go prep|in adv|there coord|and adv:int|whenever
+	pro:per|you v|see det:art|the (1)adj|red (1)adj|light (1)n|flash prep|on
+	pro:dem|those n|thing-PL pro:rel|that v|mean-3S pro:sub|I~aux|be&1S
+	part|talk-PRESP .
+----------------------------------------
+*** File "ded.cha": line 16007.
+*CHI:	a baby could do that I I know hot cross sponge .
+%mor:	det:art|a n|baby mod|could v|do det:dem|that pro:sub|I pro:sub|I
+	v|know (1)adj|hot (1)adj|cross (1)n|sponge .
+----------------------------------------
+*** File "ded.cha": line 18495.
+*CHI:	Dave you said you wanted a little orange drink .
+%mor:	n:prop|Dave pro:per|you v|say&PAST pro:per|you v|want-PAST
+	det:art|a (1)adj|little (1)adj|orange (1)n|drink .
+
+    Strings matched 6 times
+
+From file <jaf.cha>
+----------------------------------------
+*** File "jaf.cha": line 3736.
+*CHI:	green light green light ?
+%mor:	adj|green (1)adj|light (1)adj|green (1)n|light ?
+----------------------------------------
+*** File "jaf.cha": line 13301.
+*CHI:	light light light light light light .
+%mor:	adj|light adj|light adj|light (1)adj|light (1)adj|light (1)n|light .
+
+    Strings matched 2 times
+
+From file <kif.cha>
+----------------------------------------
+*** File "kif.cha": line 10287.
+*CHI:	because he has a big strong name an it's +...
+%mor:	conj|because pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|strong
+	(1)n|name det:art|a pro:per|it~aux|be&3S +...
+----------------------------------------
+*** File "kif.cha": line 10296.
+*CHI:	he &-um his name is his name is his name is (.) big [!] tough [!]
+	Eddie [!] (.) .
+%mor:	pro:sub|he det:poss|his n|name cop|be&3S det:poss|his n|name
+	cop|be&3S det:poss|his n|name cop|be&3S (1)adj|big (1)adj|tough
+	(1)n:prop|Eddie .
+----------------------------------------
+*** File "kif.cha": line 10347.
+*CHI:	I'm all finished with you I'm all finished with you big tough Eddie
+	(.) look at (.) mom .
+%mor:	pro:sub|I~cop|be&1S adv|all part|finish-PASTP prep|with pro:per|you
+	pro:sub|I~cop|be&1S adv|all part|finish-PASTP prep|with pro:per|you
+	(1)adj|big (1)adj|tough (1)n:prop|Eddie cop|look prep|at n|mom .
+----------------------------------------
+*** File "kif.cha": line 10369.
+*CHI:	not his name is big tough ellie , big tough Eddie .
+%mor:	neg|not det:poss|his n|name cop|be&3S (1)adj|big (1)adj|tough (1)n|ell-DIM
+	cm|cm (2)adj|big (2)adj|tough (2)n:prop|Eddie .
+----------------------------------------
+*** File "kif.cha": line 10470.
+*CHI:	an(d) an(d) big tough Eddie's gonna kill her .
+%mor:	coord|and coord|and (1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s
+	part|go-PRESP~inf|to v|kill pro:obj|her .
+----------------------------------------
+*** File "kif.cha": line 10480.
+*CHI:	an(d) guess where &+sh guess what guess what big tough Eddie's gonna
+	do (.) ?
+%mor:	coord|and n|guess pro:rel|where n|guess pro:int|what v|guess
+	pro:int|what (1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s
+	part|go-PRESP~inf|to v|do ?
+----------------------------------------
+*** File "kif.cha": line 10488.
+*CHI:	&+ae big tough Eddie's gonna beat her up .
+%mor:	(1)adj|big (1)adj|tough (1)n:prop|Eddie~poss|s part|go-PRESP~inf|to n|beat
+	det:poss|her adv|up .
+----------------------------------------
+*** File "kif.cha": line 10543.
+*CHI:	this is this is this is &-um &+tsk big tough big tough Eddie .
+%mor:	pro:dem|this cop|be&3S pro:dem|this cop|be&3S pro:dem|this
+	cop|be&3S adj|big adj|tough (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "kif.cha": line 11007.
+*CHI:	&=laugh you know what when big tough Eddie [//] when she gets when
+	she touches big tough Eddie he'll open his mouth an(d) bite her
+	an(d) go then she'll go &+ae:aen &=laugh .
+%mor:	pro:per|you v|know pro:int|what adv:int|when adj|big adj|tough
+	conj|when pro:sub|she v|get-3S conj|when pro:sub|she v|touch-3S
+	(1)adj|big (1)adj|tough (1)n:prop|Eddie pro:sub|he~mod|will v|open
+	det:poss|his n|mouth coord|and v|bite pro:obj|her coord|and v|go
+	adv:tem|then pro:sub|she~mod|will v|go .
+----------------------------------------
+*** File "kif.cha": line 21839.
+*CHI:	do you a [//] do you have same in [: same thing] on your [//] do
+	you have a mark on your towel like that (.) .
+%mor:	mod|do pro:per|you v|do pro:per|you v|have (1)adj|same (1)adj|same
+	(1)n|thing adv|on v|do pro:per|you v|have det:art|a n|mark prep|on
+	det:poss|your n|towel prep|like pro:dem|that .
+----------------------------------------
+*** File "kif.cha": line 24008.
+*CHI:	you mean (.) &-um (.) big tough Eddie is bigger (a)n(d) god (.) ?
+%mor:	pro:per|you adj|mean (1)adj|big (1)adj|tough (1)n:prop|Eddie aux|be&3S
+	adj|big-CP coord|and n|god ?
+----------------------------------------
+*** File "kif.cha": line 24018.
+*CHI:	well god [//] well he [//] well , big tough Eddie is up to the sky
+	too .
+%mor:	co|well n|well n|well cm|cm (1)adj|big (1)adj|tough (1)n:prop|Eddie
+	aux|be&3S adv|up prep|to det:art|the n|sky post|too .
+----------------------------------------
+*** File "kif.cha": line 24122.
+*CHI:	but this is [//] but that [//] but big tough Eddie is this big .
+%mor:	conj|but pro:dem|this conj|but conj|but (1)adj|big (1)adj|tough
+	(1)n:prop|Eddie cop|be&3S pro:dem|this adj|big .
+----------------------------------------
+*** File "kif.cha": line 24187.
+*CHI:	here comes big tough Eddie .
+%mor:	adv|here v|come-3S (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "kif.cha": line 24197.
+*CHI:	an:d he's the finest (.) man (.) whoop (.) big tough Eddie (.) .
+%mor:	coord|and pro:sub|he~aux|be&3S det:art|the adj|fine-SP n|man
+	n|whoop (1)adj|big (1)adj|tough (1)n:prop|Eddie .
+----------------------------------------
+*** File "kif.cha": line 27639.
+*CHI:	good ol(d) go [//] good ol(d) good O'reilly (.) .
+%mor:	adj|good adj|old adj|good (1)adj|old (1)adj|good (1)n:prop|O'reilly .
+
+    Strings matched 17 times
+
+From file <mim.cha>
+----------------------------------------
+*** File "mim.cha": line 2259.
+*CHI:	a little tiny [!] bit (.) .
+%mor:	det:art|a (1)adj|little (1)adj|tiny (1)n|bit .
+----------------------------------------
+*** File "mim.cha": line 12070.
+*CHI:	look at this little cute block .
+%mor:	cop|look prep|at pro:dem|this (1)adj|little (1)adj|cute (1)n|block .
+----------------------------------------
+*** File "mim.cha": line 14452.
+*CHI:	Purina knows xxx [//] Purina knows cat loves an(d) it come in a
+	little blue can &+weeuht (.) Purina knows what a cat loves best and
+	it comes in a little blue can .
+%mor:	n:prop|Purina v|know-3S n:prop|Purina v|know-3S n|cat n|love-PL
+	coord|and pro:per|it v|come adv|in det:art|a (1)adj|little (1)adj|blue
+	(1)n|can n:prop|Purina v|know-3S pro:int|what det:art|a n|cat v|love-3S
+	v|best coord|and pro:per|it v|come-3S prep|in det:art|a adj|little
+	adj|blue mod|can .
+----------------------------------------
+*** File "mim.cha": line 14501.
+*CHI:	Purina knows xxx an(d) it comes in a little blue cat (.) .
+%mor:	n:prop|Purina v|know-3S coord|and pro:per|it v|come-3S prep|in
+	det:art|a (1)adj|little (1)adj|blue (1)n|cat .
+----------------------------------------
+*** File "mim.cha": line 14510.
+*CHI:	&-uh &+huh &=laugh Purina knows the can I love an(d) it comes in a
+	little blue tin .
+%mor:	n:prop|Purina v|know-3S det:art|the n|can pro:sub|I v|love
+	coord|and pro:per|it v|come-3S prep|in det:art|a (1)adj|little (1)adj|blue
+	(1)n|tin .
+----------------------------------------
+*** File "mim.cha": line 16894.
+*CHI:	&+tah:h &+I here: i(s) &+kert (o)kay (o)kay &+Carl (.) &+lei &+lei &+lei
+	Leiah: , &-er: &-er: ah: &+hah: (.) .
+%mor:	adv|here cop|be&3S (1)adj|okay (1)adj|okay (1)n:prop|Leiah cm|cm co|ah .
+----------------------------------------
+*** File "mim.cha": line 30537.
+*CHI:	let's see &-uh [//] an(d) then I'll have a kite with jus(t) plain
+	silk , and then a piece of birthday cake an(d) an(d) a (.) +...
+%mor:	v|let~pro:obj|us v|see coord|and adv:tem|then pro:sub|I~mod|will
+	v|have det:art|a n|kite prep|with (1)adj|just (1)adj|plain (1)n|silk cm|cm
+	coord|and adv:tem|then det:art|a n|piece prep|of n|+n|birth+n|day
+	n|cake coord|and coord|and det:art|a +...
+
+    Strings matched 7 times
+
+From file <ref.cha>
+----------------------------------------
+*** File "ref.cha": line 15775.
+*CHI:	just a widdle [: little] widdle [: little] watah [: water] for me
+	[!] .
+%mor:	adv|just det:art|a (1)adj|little (1)adj|little (1)n|water prep|for
+	pro:obj|me .
+
+    Strings matched 1 times
+
+From file <trh.cha>
+----------------------------------------
+*** File "trh.cha": line 16955.
+*CHI:	I used to be five last &+y [//] a long long time ago I was five (.)
+	.
+%mor:	pro:sub|I v|use-PAST inf|to cop|be det:num|five adv|last det:art|a
+	(1)adj|long (1)adj|long (1)n|time adv|ago pro:sub|I cop|be&PAST&13S
+	det:num|five .
+----------------------------------------
+*** File "trh.cha": line 18739.
+*CHI:	good (.) good thing I , I hurried up quick .
+%mor:	(1)adj|good (1)adj|good (1)n|thing pro:sub|I cm|cm pro:sub|I v|hurry-PAST
+	adv|up adv|quick .
+----------------------------------------
+*** File "trh.cha": line 19037.
+*CHI:	Seven_up soder [: soda] has little tiny p@l-s in there .
+%mor:	n:prop|Seven_up n|soda aux|have&3S (1)adj|little (1)adj|tiny (1)n:let|p-PL
+	adv|in adv|there .
+----------------------------------------
+*** File "trh.cha": line 24895.
+*CHI:	god had a son a long long time [!] ago .
+%mor:	co|god v|have&PAST det:art|a n|son det:art|a (1)adj|long (1)adj|long
+	(1)n|time adv|ago .
+----------------------------------------
+*** File "trh.cha": line 24900.
+*CHI:	and his son died because the soldiers a long long time ago didn't
+	like [!] Jesus .
+%mor:	coord|and det:poss|his n|son v|die-PAST conj|because det:art|the
+	n|soldier-PL det:art|a (1)adj|long (1)adj|long (1)n|time adv|ago
+	mod|do&PAST~neg|not v|like n:prop|Jesus .
+
+    Strings matched 5 times
+
+From file <voh.cha>
+----------------------------------------
+*** File "voh.cha": line 2943.
+*CHI:	I'm a [: going to] [*] get my first green stripe (.) .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|get det:poss|my
+	(1)adj|first (1)adj|green (1)n|stripe .
+
+    Strings matched 1 times
+

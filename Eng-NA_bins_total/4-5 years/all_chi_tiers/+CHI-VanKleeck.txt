@@ -1,0 +1,221 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:00 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <amy1.cha>
+
+    Strings matched 0 times
+
+From file <amy2.cha>
+
+    Strings matched 0 times
+
+From file <andrew1.cha>
+
+    Strings matched 0 times
+
+From file <andrew2.cha>
+
+    Strings matched 0 times
+
+From file <ben1.cha>
+
+    Strings matched 0 times
+
+From file <ben2.cha>
+
+    Strings matched 0 times
+
+From file <bree2.cha>
+
+    Strings matched 0 times
+
+From file <brent2.cha>
+
+    Strings matched 0 times
+
+From file <chris2.cha>
+----------------------------------------
+*** File "chris2.cha": line 555.
+*CHI:	it was a scaredy [/] scaredy  little thing .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|scaredy (1)adj|little (1)n|thing
+	.
+----------------------------------------
+*** File "chris2.cha": line 1248.
+*CHI:	ah you pig you made a mess you old dirty pig .
+%mor:	co|ah pro:per|you v|pig pro:per|you v|make&PAST det:art|a n|mess
+	pro:per|you (1)adj|old (1)adj|dirt&dn-Y (1)n|pig .
+----------------------------------------
+*** File "chris2.cha": line 1364.
+*CHI:	a dirty rotten pig .
+%mor:	det:art|a (1)adj|dirt&dn-Y (1)adj|rotten (1)n|pig .
+----------------------------------------
+*** File "chris2.cha": line 1440.
+*CHI:	messy messy dog xxx .
+%mor:	(1)adj|mess&dn-Y (1)adj|mess&dn-Y (1)n|dog .
+
+    Strings matched 4 times
+
+From file <david1.cha>
+----------------------------------------
+*** File "david1.cha": line 1277.
+*CHI:	this little bitty cookie go right on that big one and we're gonna have some food , too .
+%mor:	pro:dem|this (1)adj|little (1)adj|bit&dn-Y (1)n|cookie v|go adv|right
+	prep|on pro:dem|that adj|big pro:indef|one coord|and
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|have qn|some n|food
+	cm|cm post|too .
+
+    Strings matched 1 times
+
+From file <david2.cha>
+
+    Strings matched 0 times
+
+From file <graham1.cha>
+
+    Strings matched 0 times
+
+From file <graham2.cha>
+
+    Strings matched 0 times
+
+From file <jenny1.cha>
+
+    Strings matched 0 times
+
+From file <jenny2.cha>
+----------------------------------------
+*** File "jenny2.cha": line 293.
+*CHI:	you dumb silly goose .
+%mor:	pro:per|you (1)adj|dumb (1)adj|silly (1)n|goose .
+
+    Strings matched 1 times
+
+From file <jessica1.cha>
+
+    Strings matched 0 times
+
+From file <jessica2.cha>
+
+    Strings matched 0 times
+
+From file <justin1a.cha>
+
+    Strings matched 0 times
+
+From file <justin1b.cha>
+
+    Strings matched 0 times
+
+From file <justin2.cha>
+
+    Strings matched 0 times
+
+From file <lara1.cha>
+----------------------------------------
+*** File "lara1.cha": line 576.
+*CHI:	a little teeny orange .
+%mor:	det:art|a (1)adj|little (1)adj|teeny (1)n|orange .
+----------------------------------------
+*** File "lara1.cha": line 642.
+*CHI:	I'm making a great big orange .
+%mor:	pro:sub|I~aux|be&1S part|make-PRESP det:art|a (1)adj|great (1)adj|big
+	(1)n|orange .
+----------------------------------------
+*** File "lara1.cha": line 1047.
+*CHI:	drink a great big orange .
+%mor:	v|drink det:art|a (1)adj|great (1)adj|big (1)n|orange .
+
+    Strings matched 3 times
+
+From file <lara2.cha>
+
+    Strings matched 0 times
+
+From file <matjoy1.cha>
+
+    Strings matched 0 times
+
+From file <matjoy2.cha>
+
+    Strings matched 0 times
+
+From file <mattm1.cha>
+----------------------------------------
+*** File "mattm1.cha": line 851.
+*CHI:	there's the big round thing .
+%mor:	pro:exist|there~cop|be&3S det:art|the (1)adj|big (1)adj|round (1)n|thing .
+
+    Strings matched 1 times
+
+From file <mattm2.cha>
+
+    Strings matched 0 times
+
+From file <megan1.cha>
+
+    Strings matched 0 times
+
+From file <megan2.cha>
+
+    Strings matched 0 times
+
+From file <nikki1a.cha>
+
+    Strings matched 0 times
+
+From file <nikki1b.cha>
+
+    Strings matched 0 times
+
+From file <nikki2a.cha>
+
+    Strings matched 0 times
+
+From file <nikki2b.cha>
+----------------------------------------
+*** File "nikki2b.cha": line 343.
+*CHI:	I'm making a real long thing .
+%mor:	pro:sub|I~aux|be&1S part|make-PRESP det:art|a (1)adj|real (1)adj|long
+	(1)n|thing .
+
+    Strings matched 1 times
+
+From file <rachel1.cha>
+----------------------------------------
+*** File "rachel1.cha": line 180.
+*CHI:	he has a big long beard .
+%mor:	pro:sub|he v|have&3S det:art|a (1)adj|big (1)adj|long (1)n|beard .
+
+    Strings matched 1 times
+
+From file <rachel2.cha>
+
+    Strings matched 0 times
+
+From file <shea2.cha>
+
+    Strings matched 0 times
+
+From file <susan1.cha>
+
+    Strings matched 0 times
+
+From file <susan2.cha>
+
+    Strings matched 0 times
+
+From file <walter1.cha>
+
+    Strings matched 0 times
+
+From file <walter2a.cha>
+
+    Strings matched 0 times
+
+From file <walter2b.cha>
+
+    Strings matched 0 times
+

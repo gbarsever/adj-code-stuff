@@ -1,0 +1,46 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:06:56 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <betty02.cha>
+
+    Strings matched 0 times
+
+From file <betty03.cha>
+
+    Strings matched 0 times
+
+From file <betty04.cha>
+----------------------------------------
+*** File "betty04.cha": line 383.
+*FAT:	vicious little sod (5.) .
+%mor:	(1)adj|vicious (1)adj|little (1)n|sod .
+
+    Strings matched 1 times
+
+From file <betty05.cha>
+
+    Strings matched 0 times
+
+From file <betty06.cha>
+
+    Strings matched 0 times
+
+From file <betty07.cha>
+
+    Strings matched 0 times
+
+From file <betty08.cha>
+
+    Strings matched 0 times
+
+From file <betty09.cha>
+
+    Strings matched 0 times
+
+From file <betty21.cha>
+
+    Strings matched 0 times
+

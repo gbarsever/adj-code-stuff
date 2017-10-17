@@ -1,0 +1,25 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Tue May  9 00:00:13 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Fletcher/5/binicl.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/4-5 years/Fletcher/5/binicl.cha": line 558.
+*INV:	the only thing about this is that you very easily loose little
+	things like that .
+%mor:	det:art|the qn|only n|thing prep|about pro:dem|this cop|be&3S
+	pro:rel|that pro:per|you adv|very adv|ease&dadj-Y-LY (1)adj|loose
+	(1)adj|little (1)n|thing-PL prep|like pro:dem|that .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Fletcher/5/biscor.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/4-5 years/Fletcher/5/cpric.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,27 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 21:49:17 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Higginson/May/may01.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Higginson/May/may01.cha": line 918.
+*MOT:	he's a pretty busy guy .
+%mor:	pro:sub|he~aux|be&3S det:art|a (1)adj|pretty (1)adj|busy (1)n|guy .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/0-12 months/Higginson/May/may02.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Higginson/May/may02.cha": line 935.
+*MOT:	you're a pretty big girl aren't you .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|girl
+	aux|be&PRES~neg|not pro:per|you .
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/0-12 months/Higginson/May/may02.cha": line 940.
+*MOT:	you're a pretty big girl .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|pretty (1)adj|big (1)n|girl .
+
+    Strings matched 2 times
+

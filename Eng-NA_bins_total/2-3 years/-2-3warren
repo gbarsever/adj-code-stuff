@@ -1,0 +1,43 @@
+combo +t%mor -t*CHI +re +s(adj*^adj*^n*) *.cha
+Mon May  8 23:30:33 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/alfred.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/alfred.cha": line 1500.
+*FAT:	an owl catches insects and eats little tiny mice .
+%mor:	det:art|a n|owl v|catch-3S n|insect-PL coord|and v|eat-3S
+	(1)adj|little (1)adj|tiny (1)n|mouse&PL .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/allen.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/allen.cha": line 461.
+*MOT:	sing itsy bitsy spider .
+%mor:	v|sing (1)adj|itsy (1)adj|bitsy (1)n|spider .
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/carol.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/doug.cha>
+
+    Strings matched 0 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/katie.cha>
+----------------------------------------
+*** File "/Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/katie.cha": line 230.
+*MOT:	see the little red light ?
+%mor:	v|see det:art|the (1)adj|little (1)adj|red (1)n|light ?
+
+    Strings matched 1 times
+
+From file </Users/galia/Desktop/Eng-NA_bins/2-3 years/Warren/wendy.cha>
+
+    Strings matched 0 times
+

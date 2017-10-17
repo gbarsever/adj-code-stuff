@@ -1,0 +1,181 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:31:14 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <amyst.cha>
+
+    Strings matched 0 times
+
+From file <bettyst.cha>
+----------------------------------------
+*** File "bettyst.cha": line 195.
+*MOT:	ye(a)h (.) they're going to build her a little wooden house .
+%mor:	co|yeah pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|build
+	pro:obj|her det:art|a (1)adj|little (1)adj|wooden (1)n|house .
+
+    Strings matched 1 times
+
+From file <chuckst.cha>
+----------------------------------------
+*** File "chuckst.cha": line 101.
+*MOT:	can you talk real loud (.) like a great big boy ?
+%mor:	mod|can pro:per|you v|talk adj|real adj|loud prep|like det:art|a
+	(1)adj|great (1)adj|big (1)n|boy ?
+----------------------------------------
+*** File "chuckst.cha": line 492.
+*MOT:	a big black hat (.) huh ?
+%mor:	det:art|a (1)adj|big (1)adj|black (1)n|hat co|huh ?
+
+    Strings matched 2 times
+
+From file <dougst.cha>
+----------------------------------------
+*** File "dougst.cha": line 248.
+*MOT:	there's the poor little bird .
+%mor:	pro:exist|there~cop|be&3S det:art|the (1)adj|poor (1)adj|little (1)n|bird .
+
+    Strings matched 1 times
+
+From file <edst.cha>
+
+    Strings matched 0 times
+
+From file <frankst.cha>
+
+    Strings matched 0 times
+
+From file <georgest.cha>
+
+    Strings matched 0 times
+
+From file <gloriast.cha>
+
+    Strings matched 0 times
+
+From file <hankst.cha>
+
+    Strings matched 0 times
+
+From file <ivyst.cha>
+
+    Strings matched 0 times
+
+From file <janest.cha>
+----------------------------------------
+*** File "janest.cha": line 348.
+*MOT:	+" poor little bird .
+%mor:	(1)adj|poor (1)adj|little (1)n|bird .
+
+    Strings matched 1 times
+
+From file <jimst.cha>
+
+    Strings matched 0 times
+
+From file <kathyst.cha>
+
+    Strings matched 0 times
+
+From file <keithst.cha>
+
+    Strings matched 0 times
+
+From file <kentst.cha>
+----------------------------------------
+*** File "kentst.cha": line 499.
+*MOT:	poor little bird (.) she said .
+%mor:	(1)adj|poor (1)adj|little (1)n|bird pro:sub|she v|say&PAST .
+----------------------------------------
+*** File "kentst.cha": line 555.
+*MOT:	soon she made a little wooden house .
+%mor:	adv|soon pro:sub|she v|make&PAST det:art|a (1)adj|little (1)adj|wooden
+	(1)n|house .
+
+    Strings matched 2 times
+
+From file <lindast.cha>
+
+    Strings matched 0 times
+
+From file <mandy.cha>
+----------------------------------------
+*** File "mandy.cha": line 418.
+*MOT:	poor little bird (.) she said (.) I will build you a +...
+%mor:	(1)adj|poor (1)adj|little (1)n|bird pro:sub|she v|say&PAST pro:sub|I
+	mod|will v|build pro:per|you det:art|a +...
+
+    Strings matched 1 times
+
+From file <nanst.cha>
+
+    Strings matched 0 times
+
+From file <oliviast.cha>
+
+    Strings matched 0 times
+
+From file <paulast.cha>
+
+    Strings matched 0 times
+
+From file <petest.cha>
+
+    Strings matched 0 times
+
+From file <rickst.cha>
+
+    Strings matched 0 times
+
+From file <ruthst.cha>
+----------------------------------------
+*** File "ruthst.cha": line 466.
+*MOT:	and she built a little wooden house for who ?
+%mor:	coord|and pro:sub|she v|build&PAST det:art|a (1)adj|little (1)adj|wooden
+	(1)n|house prep|for pro:rel|who ?
+
+    Strings matched 1 times
+
+From file <stevest.cha>
+
+    Strings matched 0 times
+
+From file <suest.cha>
+
+    Strings matched 0 times
+
+From file <tomst.cha>
+
+    Strings matched 0 times
+
+From file <vicki.cha>
+
+    Strings matched 0 times
+
+From file <wandast.cha>
+
+    Strings matched 0 times
+
+From file <willst.cha>
+----------------------------------------
+*** File "willst.cha": line 453.
+*MOT:	+" poor little bird (.) she said .
+%mor:	(1)adj|poor (1)adj|little (1)n|bird pro:sub|she v|say&PAST .
+----------------------------------------
+*** File "willst.cha": line 642.
+*MOT:	a little wooden house !
+%mor:	det:art|a (1)adj|little (1)adj|wooden (1)n|house !
+
+    Strings matched 2 times
+
+From file <zekest.cha>
+----------------------------------------
+*** File "zekest.cha": line 270.
+*MOT:	there she's found a poor little bird in the snow and the bird didn't have a house .
+%mor:	adv|there pro:sub|she~aux|be&3S part|find&PASTP det:art|a (1)adj|poor
+	(1)adj|little (1)n|bird prep|in det:art|the n|snow coord|and det:art|the
+	n|bird mod|do&PAST~neg|not v|have det:art|a n|house .
+
+    Strings matched 1 times
+

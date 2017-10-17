@@ -1,0 +1,49 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:13:33 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rosie02.cha>
+
+    Strings matched 0 times
+
+From file <rosie03.cha>
+
+    Strings matched 0 times
+
+From file <rosie04.cha>
+
+    Strings matched 0 times
+
+From file <rosie05.cha>
+
+    Strings matched 0 times
+
+From file <rosie06.cha>
+
+    Strings matched 0 times
+
+From file <rosie07.cha>
+----------------------------------------
+*** File "rosie07.cha": line 33.
+*MOT:	if you sees a nice cheap dolly along there you can get it for her
+	birthday .
+%mor:	conj|if pro:per|you v|see-3S det:art|a (1)adj|nice (1)adj|cheap
+	(1)n|doll-DIM prep|along adv|there pro:per|you mod|can aux|get
+	pro:per|it prep|for pro:obj|her n|+n|birth+n|day .
+
+    Strings matched 1 times
+
+From file <rosie08.cha>
+
+    Strings matched 0 times
+
+From file <rosie09.cha>
+
+    Strings matched 0 times
+
+From file <rosie10.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,424 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:58:39 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <john01a.cha>
+----------------------------------------
+*** File "john01a.cha": line 43.
+*MOT:	just put this on John because you got all messy last time , didn't
+	you ?
+%mor:	adv|just part|put&PASTP pro:dem|this prep|on n:prop|John
+	conj|because pro:per|you v|get&PAST adv|all (1)adj|mess&dn-Y (1)adj|last
+	(1)n|time cm|cm mod|do&PAST~neg|not pro:per|you ?
+----------------------------------------
+*** File "john01a.cha": line 749.
+*MOT:	and a big smily mouth .
+%mor:	coord|and det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|mouth .
+----------------------------------------
+*** File "john01a.cha": line 752.
+*MOT:	big smily mouth for the sun .
+%mor:	(1)adj|big (1)adj|smile&dv-Y (1)n|mouth prep|for det:art|the n|sun .
+----------------------------------------
+*** File "john01a.cha": line 2132.
+*MOT:	you funny old thing .
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|old (1)n|thing .
+
+    Strings matched 4 times
+
+From file <john01b.cha>
+----------------------------------------
+*** File "john01b.cha": line 1278.
+*MOT:	it's got a big <long neck> [>] .
+%mor:	pro:per|it~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|long
+	(1)n|neck .
+
+    Strings matched 1 times
+
+From file <john02a.cha>
+----------------------------------------
+*** File "john02a.cha": line 334.
+*MOT:	eensie weensie spider climbed up the spout .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up det:art|the
+	n|spout .
+----------------------------------------
+*** File "john02a.cha": line 357.
+*MOT:	so eensie weensie spider climbed up the spout again .
+%mor:	adv|so (1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up
+	det:art|the n|spout adv|again .
+
+    Strings matched 2 times
+
+From file <john02b.cha>
+
+    Strings matched 0 times
+
+From file <john03a.cha>
+----------------------------------------
+*** File "john03a.cha": line 2208.
+*MOT:	big floppy ears .
+%mor:	(1)adj|big (1)adj|flop&dv-Y (1)n|ear-PL .
+
+    Strings matched 1 times
+
+From file <john03b.cha>
+
+    Strings matched 0 times
+
+From file <john04a.cha>
+----------------------------------------
+*** File "john04a.cha": line 1454.
+*MOT:	and this is a big big nail .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a (1)adj|big (1)adj|big (1)n|nail .
+----------------------------------------
+*** File "john04a.cha": line 1950.
+*MOT:	it's a little yellow bird .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|yellow (1)n|bird .
+----------------------------------------
+*** File "john04a.cha": line 2041.
+*MOT:	it's called the big concrete lorry .
+%mor:	pro:per|it~aux|be&3S part|call-PASTP det:art|the (1)adj|big
+	(1)adj|concrete (1)n|lorry .
+
+    Strings matched 3 times
+
+From file <john04b.cha>
+
+    Strings matched 0 times
+
+From file <john05a.cha>
+
+    Strings matched 0 times
+
+From file <john05b.cha>
+
+    Strings matched 0 times
+
+From file <john06a.cha>
+----------------------------------------
+*** File "john06a.cha": line 2166.
+*MOT:	you funny old sausage .
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|old (1)n|sausage .
+
+    Strings matched 1 times
+
+From file <john06b.cha>
+
+    Strings matched 0 times
+
+From file <john07a.cha>
+
+    Strings matched 0 times
+
+From file <john07b.cha>
+
+    Strings matched 0 times
+
+From file <john08a.cha>
+
+    Strings matched 0 times
+
+From file <john08b.cha>
+
+    Strings matched 0 times
+
+From file <john09a.cha>
+
+    Strings matched 0 times
+
+From file <john09b.cha>
+
+    Strings matched 0 times
+
+From file <john10a.cha>
+----------------------------------------
+*** File "john10a.cha": line 728.
+*MOT:	it's a tiny tiny bit of nail come off .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|tiny (1)adj|tiny (1)n|bit prep|of
+	n|nail v|come adv|off .
+----------------------------------------
+*** File "john10a.cha": line 1852.
+*MOT:	funny old balloon .
+%mor:	(1)adj|fun&dn-Y (1)adj|old (1)n|balloon .
+
+    Strings matched 2 times
+
+From file <john10b.cha>
+
+    Strings matched 0 times
+
+From file <john11a.cha>
+
+    Strings matched 0 times
+
+From file <john11b.cha>
+----------------------------------------
+*** File "john11b.cha": line 488.
+*MOT:	little pink pig .
+%mor:	(1)adj|little (1)adj|pink (1)n|pig .
+
+    Strings matched 1 times
+
+From file <john12a.cha>
+
+    Strings matched 0 times
+
+From file <john12b.cha>
+
+    Strings matched 0 times
+
+From file <john13a.cha>
+
+    Strings matched 0 times
+
+From file <john13b.cha>
+----------------------------------------
+*** File "john13b.cha": line 986.
+*INV:	a big heavy digger .
+%mor:	det:art|a (1)adj|big (1)adj|heavy (1)n|dig&dv-AGT .
+
+    Strings matched 1 times
+
+From file <john14a.cha>
+----------------------------------------
+*** File "john14a.cha": line 358.
+*MOT:	eensie weensie spider climbed up the spout .
+%mor:	(1)adj|eensie (1)adj|weensie (1)n|spider v|climb-PAST prep|up det:art|the
+	n|spout .
+----------------------------------------
+*** File "john14a.cha": line 1124.
+*MOT:	went on your own little chariot , didn't you ?
+%mor:	v|go&PAST prep|on det:poss|your (1)adj|own (1)adj|little (1)n|chariot cm|cm
+	mod|do&PAST~neg|not pro:per|you ?
+
+    Strings matched 2 times
+
+From file <john14b.cha>
+
+    Strings matched 0 times
+
+From file <john17a.cha>
+----------------------------------------
+*** File "john17a.cha": line 1596.
+*MOT:	you funny little thing .
+%mor:	pro:per|you (1)adj|fun&dn-Y (1)adj|little (1)n|thing .
+
+    Strings matched 1 times
+
+From file <john17b.cha>
+
+    Strings matched 0 times
+
+From file <john18a.cha>
+----------------------------------------
+*** File "john18a.cha": line 2212.
+*MOT:	because there's nice creepy crawlies here .
+%mor:	conj|because pro:exist|there~aux|be&3S (1)adj|nice (1)adj|creep&dn-Y
+	(1)n|crawl-DIM-PL adv|here .
+
+    Strings matched 1 times
+
+From file <john18b.cha>
+----------------------------------------
+*** File "john18b.cha": line 661.
+*MOT:	that's a big brown horse .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|big (1)adj|brown (1)n|horse .
+
+    Strings matched 1 times
+
+From file <john19a.cha>
+----------------------------------------
+*** File "john19a.cha": line 1682.
+*MOT:	tiny tiny wheels .
+%mor:	(1)adj|tiny (1)adj|tiny (1)n|wheel-PL .
+----------------------------------------
+*** File "john19a.cha": line 1939.
+*MOT:	we went on a metro little train .
+%mor:	pro:sub|we v|go&PAST prep|on det:art|a (1)adj|metro (1)adj|little (1)n|train
+	.
+
+    Strings matched 2 times
+
+From file <john19b.cha>
+
+    Strings matched 0 times
+
+From file <john20a.cha>
+----------------------------------------
+*** File "john20a.cha": line 281.
+*MOT:	or is it a long long way away .
+%mor:	coord|or aux|be&3S pro:per|it det:art|a (1)adj|long (1)adj|long (1)n|way
+	adv|away .
+
+    Strings matched 1 times
+
+From file <john20b.cha>
+
+    Strings matched 0 times
+
+From file <john21a.cha>
+
+    Strings matched 0 times
+
+From file <john21b.cha>
+
+    Strings matched 0 times
+
+From file <john22a.cha>
+----------------------------------------
+*** File "john22a.cha": line 79.
+*INV:	I know it's a very nice little song you sing there .
+%mor:	pro:sub|I v|know pro:per|it~cop|be&3S det:art|a adv|very (1)adj|nice
+	(1)adj|little (1)n|song pro:per|you v|sing adv|there .
+----------------------------------------
+*** File "john22a.cha": line 1300.
+*MOT:	it's got a big big stone .
+%mor:	pro:per|it~aux|be&3S part|get&PASTP det:art|a (1)adj|big (1)adj|big
+	(1)n|stone .
+
+    Strings matched 2 times
+
+From file <john22b.cha>
+
+    Strings matched 0 times
+
+From file <john23a.cha>
+
+    Strings matched 0 times
+
+From file <john23b.cha>
+----------------------------------------
+*** File "john23b.cha": line 604.
+*MOT:	try taking that big tall thing off , John .
+%mor:	v|try part|take-PRESP pro:dem|that (1)adj|big (1)adj|tall (1)n|thing adv|off
+	cm|cm n:prop|John .
+
+    Strings matched 1 times
+
+From file <john24a.cha>
+
+    Strings matched 0 times
+
+From file <john24b.cha>
+
+    Strings matched 0 times
+
+From file <john25a.cha>
+----------------------------------------
+*** File "john25a.cha": line 944.
+*MOT:	big happy smile .
+%mor:	(1)adj|big (1)adj|happy (1)n|smile .
+----------------------------------------
+*** File "john25a.cha": line 1255.
+*MOT:	nice big ear .
+%mor:	(1)adj|nice (1)adj|big (1)n|ear .
+
+    Strings matched 2 times
+
+From file <john25b.cha>
+
+    Strings matched 0 times
+
+From file <john26a.cha>
+
+    Strings matched 0 times
+
+From file <john26b.cha>
+
+    Strings matched 0 times
+
+From file <john27a.cha>
+
+    Strings matched 0 times
+
+From file <john27b.cha>
+----------------------------------------
+*** File "john27b.cha": line 854.
+*MOT:	and they were very hungry little lambs .
+%mor:	coord|and pro:sub|they cop|be&PAST adv|very (1)adj|hungry (1)adj|little
+	(1)n|lamb-PL .
+
+    Strings matched 1 times
+
+From file <john28a.cha>
+
+    Strings matched 0 times
+
+From file <john28b.cha>
+----------------------------------------
+*** File "john28b.cha": line 1133.
+*MOT:	I hope we have a nice quiet day .
+%mor:	pro:sub|I v|hope pro:sub|we v|have det:art|a (1)adj|nice (1)adj|quiet
+	(1)n|day .
+
+    Strings matched 1 times
+
+From file <john29a.cha>
+
+    Strings matched 0 times
+
+From file <john29b.cha>
+
+    Strings matched 0 times
+
+From file <john30a.cha>
+----------------------------------------
+*** File "john30a.cha": line 360.
+*MOT:	can you find a nice blue crayon ?
+%mor:	mod|can pro:per|you v|find det:art|a (1)adj|nice (1)adj|blue (1)n|crayon ?
+
+    Strings matched 1 times
+
+From file <john30b.cha>
+
+    Strings matched 0 times
+
+From file <john31a.cha>
+
+    Strings matched 0 times
+
+From file <john31b.cha>
+
+    Strings matched 0 times
+
+From file <john32a.cha>
+----------------------------------------
+*** File "john32a.cha": line 923.
+*MOT:	you're a funny old thing .
+%mor:	pro:per|you~aux|be&PRES det:art|a (1)adj|fun&dn-Y (1)adj|old (1)n|thing .
+----------------------------------------
+*** File "john32a.cha": line 1493.
+*MOT:	nice sharp pencil .
+%mor:	(1)adj|nice (1)adj|sharp (1)n|pencil .
+----------------------------------------
+*** File "john32a.cha": line 1633.
+*MOT:	you clever old stick .
+%mor:	pro:per|you (1)adj|clever (1)adj|old (1)n|stick .
+
+    Strings matched 3 times
+
+From file <john32b.cha>
+
+    Strings matched 0 times
+
+From file <john33a.cha>
+
+    Strings matched 0 times
+
+From file <john33b.cha>
+----------------------------------------
+*** File "john33b.cha": line 1343.
+*MOT:	that's a tiny tiny space .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|tiny (1)adj|tiny (1)n|space .
+
+    Strings matched 1 times
+
+From file <john34a.cha>
+
+    Strings matched 0 times
+
+From file <john34b.cha>
+
+    Strings matched 0 times
+

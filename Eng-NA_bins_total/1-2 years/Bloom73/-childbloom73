@@ -1,0 +1,36 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 15:57:50 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <allison1.cha>
+
+    Strings matched 0 times
+
+From file <allison2.cha>
+
+    Strings matched 0 times
+
+From file <allison3.cha>
+----------------------------------------
+*** File "allison3.cha": line 923.
+*MOT:	you've got a nice dry diaper on .
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a (1)adj|nice (1)adj|dry
+	(1)n|diaper adv|on .
+
+    Strings matched 1 times
+
+From file <allison4.cha>
+----------------------------------------
+*** File "allison4.cha": line 173.
+*MOT:	we'll have a little little snack .
+%mor:	pro:sub|we~mod|will v|have det:art|a (1)adj|little (1)adj|little (1)n|snack
+	.
+----------------------------------------
+*** File "allison4.cha": line 2242.
+*MOT:	is that a big big tower ?
+%mor:	cop|be&3S pro:rel|that det:art|a (1)adj|big (1)adj|big (1)n|tower ?
+
+    Strings matched 2 times
+

@@ -1,0 +1,134 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 18:54:01 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <biand.cha>
+
+    Strings matched 0 times
+
+From file <bicra.cha>
+
+    Strings matched 0 times
+
+From file <bijub.cha>
+
+    Strings matched 0 times
+
+From file <bikatf.cha>
+----------------------------------------
+*** File "bikatf.cha": line 565.
+*INV:	there's even a little little house .
+%mor:	pro:exist|there~cop|be&3S adv|even det:art|a (1)adj|little (1)adj|little
+	(1)n|house .
+
+    Strings matched 1 times
+
+From file <binicl.cha>
+----------------------------------------
+*** File "binicl.cha": line 558.
+*INV:	the only thing about this is that you very easily loose little
+	things like that .
+%mor:	det:art|the qn|only n|thing prep|about pro:dem|this cop|be&3S
+	pro:rel|that pro:per|you adv|very adv|ease&dadj-Y-LY (1)adj|loose
+	(1)adj|little (1)n|thing-PL prep|like pro:dem|that .
+
+    Strings matched 1 times
+
+From file <bireb.cha>
+----------------------------------------
+*** File "bireb.cha": line 2401.
+*INV:	my little little sister did and I was angry (be)cause she she
+	wasn't allowed to .
+%mor:	det:poss|my (1)adj|little (1)adj|little (1)n|sister v|do&PAST coord|and
+	pro:sub|I cop|be&PAST&13S adj|angry conj|because pro:sub|she
+	pro:sub|she aux|be&PAST&13S~neg|not part|allow-PASTP prep|to .
+
+    Strings matched 1 times
+
+From file <biscor.cha>
+
+    Strings matched 0 times
+
+From file <bistub.cha>
+
+    Strings matched 0 times
+
+From file <cpgem.cha>
+
+    Strings matched 0 times
+
+From file <cphel.cha>
+
+    Strings matched 0 times
+
+From file <cpmich.cha>
+
+    Strings matched 0 times
+
+From file <cpric.cha>
+
+    Strings matched 0 times
+
+From file <hncam.cha>
+----------------------------------------
+*** File "hncam.cha": line 1093.
+*INV:	you watch all nice happy films .
+%mor:	pro:per|you v|watch adv|all (1)adj|nice (1)adj|happy (1)n|film-PL .
+
+    Strings matched 1 times
+
+From file <hnclah.cha>
+
+    Strings matched 0 times
+
+From file <hnclak.cha>
+
+    Strings matched 0 times
+
+From file <hnclar.cha>
+
+    Strings matched 0 times
+
+From file <hngav.cha>
+
+    Strings matched 0 times
+
+From file <hngert.cha>
+----------------------------------------
+*** File "hngert.cha": line 2370.
+*INV:	little hot dogs .
+%mor:	(1)adj|little (1)adj|hot (1)n|dog-PL .
+
+    Strings matched 1 times
+
+From file <hnmich.cha>
+
+    Strings matched 0 times
+
+From file <hnvic.cha>
+
+    Strings matched 0 times
+
+From file <smma.cha>
+
+    Strings matched 0 times
+
+From file <smpa.cha>
+
+    Strings matched 0 times
+
+From file <smra.cha>
+----------------------------------------
+*** File "smra.cha": line 1064.
+*INV:	look , there is a tiny little woman .
+%mor:	co|look cm|cm adv|there cop|be&3S det:art|a (1)adj|tiny (1)adj|little
+	(1)n|woman .
+
+    Strings matched 1 times
+
+From file <smtho.cha>
+
+    Strings matched 0 times
+

@@ -1,0 +1,297 @@
+combo +t%mor +t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:42:59 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rom01.cha>
+
+    Strings matched 0 times
+
+From file <rom02.cha>
+
+    Strings matched 0 times
+
+From file <rom03.cha>
+
+    Strings matched 0 times
+
+From file <rom04.cha>
+
+    Strings matched 0 times
+
+From file <rom05.cha>
+----------------------------------------
+*** File "rom05.cha": line 2243.
+*CHI:	the itsy bitsy spider goes up wash out the itsy bitsy spider .
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S prep|up v|wash
+	prep|out det:art|the (2)adj|itsy (2)adj|bitsy (2)n|spider .
+----------------------------------------
+*** File "rom05.cha": line 2257.
+*CHI:	itsy bitsy (.) itsy bitsy spider .
+%mor:	adj|itsy adj|bitsy (1)adj|itsy (1)adj|bitsy (1)n|spider .
+
+    Strings matched 3 times
+
+From file <rom06.cha>
+
+    Strings matched 0 times
+
+From file <rom07.cha>
+
+    Strings matched 0 times
+
+From file <rom08.cha>
+
+    Strings matched 0 times
+
+From file <rom09.cha>
+----------------------------------------
+*** File "rom09.cha": line 892.
+*CHI:	heavy boy (.) heavy heavy (.) heavy boy .
+%mor:	adj|heavy n|boy adj|heavy (1)adj|heavy (1)adj|heavy (1)n|boy .
+
+    Strings matched 1 times
+
+From file <rom10.cha>
+
+    Strings matched 0 times
+
+From file <rom11.cha>
+
+    Strings matched 0 times
+
+From file <rom12.cha>
+
+    Strings matched 0 times
+
+From file <rom13.cha>
+
+    Strings matched 0 times
+
+From file <rom14.cha>
+----------------------------------------
+*** File "rom14.cha": line 1895.
+*CHI:	regular big boy bed .
+%mor:	(1)adj|regular (1)adj|big (1)n|boy n|bed .
+
+    Strings matched 1 times
+
+From file <rom15.cha>
+
+    Strings matched 0 times
+
+From file <rom16.cha>
+----------------------------------------
+*** File "rom16.cha": line 1008.
+*CHI:	my little good pumpkin .
+%mor:	det:poss|my (1)adj|little (1)adj|good (1)n|pumpkin .
+
+    Strings matched 1 times
+
+From file <rom17.cha>
+
+    Strings matched 0 times
+
+From file <rom18.cha>
+
+    Strings matched 0 times
+
+From file <rom19.cha>
+
+    Strings matched 0 times
+
+From file <rom20.cha>
+
+    Strings matched 0 times
+
+From file <rom21.cha>
+
+    Strings matched 0 times
+
+From file <rom22.cha>
+
+    Strings matched 0 times
+
+From file <rom23.cha>
+----------------------------------------
+*** File "rom23.cha": line 1323.
+*CHI:	xxx xxx xxx xxx xxx but you can draw another spider , but you can draw another big fat bug , but you can draw another bug .
+%mor:	conj|but pro:per|you mod|can v|draw qn|another n|spider cm|cm
+	conj|but pro:per|you mod|can v|draw qn|another (1)adj|big (1)adj|fat (1)n|bug
+	cm|cm conj|but pro:per|you mod|can v|draw qn|another n|bug .
+
+    Strings matched 1 times
+
+From file <rom24.cha>
+----------------------------------------
+*** File "rom24.cha": line 1158.
+*CHI:	a very important to get it out , and sing the Intsey Wintsey [: itsy bitsy] Spider song .
+%mor:	det:art|a adv|very adj|important inf|to v|get pro:per|it adv|out
+	cm|cm coord|and v|sing det:art|the n:prop|Intsey (1)adj|itsy (1)adj|bitsy
+	(1)n:prop|Spider n|song .
+----------------------------------------
+*** File "rom24.cha": line 1169.
+*CHI:	the itsy bitsy spider went up the water spout .
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "rom24.cha": line 1184.
+*CHI:	and the intsey [: itsy] wintsey [: bitsy] spider climbed up all the
+	webs .
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|climb-PAST
+	adv|up qn|all det:art|the n|web-PL .
+----------------------------------------
+*** File "rom24.cha": line 1195.
+*CHI:	so he saw , so he drew an N , and it was very pleased to , so he
+	drawed it now , and the intsey [: itsy] wintsey [: bitsy] spider
+	dropped .
+%mor:	co|so pro:sub|he v|see&PAST cm|cm conj|so pro:sub|he v|draw&PAST
+	det:art|a n:prop|N cm|cm coord|and pro:per|it cop|be&PAST&13S
+	adv|very part|please-PASTP prep|to cm|cm conj|so pro:sub|he
+	v|draw-PAST pro:per|it adv|now cm|cm coord|and det:art|the (1)adj|itsy
+	(1)adj|bitsy (1)n|spider v|drop-PAST .
+----------------------------------------
+*** File "rom24.cha": line 1208.
+*CHI:	and the intsey [: itsy] wintsey [: bitsy] spider .
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider .
+----------------------------------------
+*** File "rom24.cha": line 1230.
+*CHI:	so the intsey [: itsy] wintsey [: bitsy] spider (.) saw the
+	sun shining , and it drawed up .
+%mor:	co|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|see&PAST
+	det:art|the n|sun part|shine-PRESP cm|cm coord|and pro:per|it
+	v|draw-PAST adv|up .
+----------------------------------------
+*** File "rom24.cha": line 1453.
+*CHI:	intsey [: itsy] wintsey [: bitsy] spider went up the water spout
+	down and the spider was pleased , and she saw , and she saw a
+	shooting star floating in the morning , and she saw a footing
+	[: shooting] star , that's a footing [: shooting] star .
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|go&PAST adv|up det:art|the n|water
+	n|spout adv|down coord|and det:art|the n|spider aux|be&PAST&13S
+	part|please-PASTP cm|cm coord|and pro:sub|she v|see&PAST cm|cm
+	coord|and pro:sub|she v|see&PAST det:art|a part|shoot-PRESP n|star
+	part|float-PRESP prep|in det:art|the n|morning cm|cm coord|and
+	pro:sub|she v|see&PAST det:art|a part|shoot-PRESP n|star cm|cm
+	pro:dem|that~cop|be&3S det:art|a part|shoot-PRESP n|star .
+
+    Strings matched 7 times
+
+From file <rom25.cha>
+
+    Strings matched 0 times
+
+From file <rom26.cha>
+----------------------------------------
+*** File "rom26.cha": line 1432.
+*CHI:	yeah , and we saw (.) a we saw a some sea ocean crawling and then saw little creatures crawling on the arms and then pick it off and then the turtles were inside the bucket and then and the xxx open it and they open it wide then it was a big white shark and the shark crawled in and said “I'm eating some” and he went “yummy yummy yummy” .
+%mor:	co|yeah cm|cm coord|and pro:sub|we v|see&PAST det:art|a pro:sub|we
+	v|see&PAST det:art|a qn|some n|sea n|ocean part|crawl-PRESP
+	coord|and adv:tem|then n|saw adj|little n|creature-PL
+	part|crawl-PRESP prep|on det:art|the n|arm-PL coord|and adv:tem|then
+	v|pick pro:per|it adv|off coord|and adv:tem|then det:art|the
+	n|turtle-PL cop|be&PAST adj|inside det:art|the n|bucket coord|and
+	adv:tem|then coord|and det:art|the adj|open pro:per|it coord|and
+	pro:sub|they v|open pro:per|it adj|wide adv:tem|then pro:per|it
+	cop|be&PAST&13S det:art|a (1)adj|big (1)adj|white (1)n|shark coord|and
+	det:art|the n|shark v|crawl-PAST adv|in coord|and v|say&PAST bq|bq
+	pro:sub|I~aux|be&1S part|eat-PRESP qn|some eq|eq coord|and
+	pro:sub|he v|go&PAST bq|bq adj|yum&dn-Y adj|yum&dn-Y adj|yum&dn-Y
+	eq|eq .
+
+    Strings matched 1 times
+
+From file <rom27.cha>
+
+    Strings matched 0 times
+
+From file <rom28.cha>
+----------------------------------------
+*** File "rom28.cha": line 70.
+*CHI:	see dis [: this] [* p:n] little skinny part .
+%mor:	v|see pro:dem|this (1)adj|little (1)adj|skin&dn-Y (1)n|part .
+----------------------------------------
+*** File "rom28.cha": line 128.
+*CHI:	dis [: this] [* p:n] one has a little spinny thing , see dat
+	[: that] [* p:n] and dat [: that] [* p:n] it spins .
+%mor:	pro:dem|this pro:indef|one v|have&3S det:art|a (1)adj|little
+	(1)adj|spin&dv-Y (1)n|thing cm|cm co|see det:dem|that coord|and
+	pro:rel|that pro:per|it v|spin-3S .
+
+    Strings matched 2 times
+
+From file <rom29.cha>
+
+    Strings matched 0 times
+
+From file <rom30.cha>
+----------------------------------------
+*** File "rom30.cha": line 1692.
+*CHI:	hm: (.) dere [: there] [* p:n] was a little tiny thing .
+%mor:	co|hm adv|there cop|be&PAST&13S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|thing .
+
+    Strings matched 1 times
+
+From file <rom31.cha>
+
+    Strings matched 0 times
+
+From file <rom32.cha>
+
+    Strings matched 0 times
+
+From file <rom33.cha>
+
+    Strings matched 0 times
+
+From file <rom34.cha>
+----------------------------------------
+*** File "rom34.cha": line 981.
+*CHI:	but it's just dead bats .
+%mor:	conj|but pro:per|it~cop|be&3S (1)adj|just (1)adj|dead (1)n|bat-PL .
+
+    Strings matched 1 times
+
+From file <rom35.cha>
+
+    Strings matched 0 times
+
+From file <rom36.cha>
+
+    Strings matched 0 times
+
+From file <rom37.cha>
+
+    Strings matched 0 times
+
+From file <rom38.cha>
+
+    Strings matched 0 times
+
+From file <rom39.cha>
+
+    Strings matched 0 times
+
+From file <rom40.cha>
+
+    Strings matched 0 times
+
+From file <rom41.cha>
+----------------------------------------
+*** File "rom41.cha": line 4727.
+*CHI:	I like the spider in the whole entire world !
+%mor:	pro:sub|I v|like det:art|the n|spider prep|in det:art|the (1)adj|whole
+	(1)adj|entire (1)n|world !
+
+    Strings matched 1 times
+
+From file <rom42.cha>
+----------------------------------------
+*** File "rom42.cha": line 406.
+*CHI:	no (.) not a real big dragon !
+%mor:	co|no neg|not det:art|a (1)adj|real (1)adj|big (1)n|dragon !
+
+    Strings matched 1 times
+

@@ -1,0 +1,316 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:16:08 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <rom01.cha>
+
+    Strings matched 0 times
+
+From file <rom02.cha>
+
+    Strings matched 0 times
+
+From file <rom03.cha>
+
+    Strings matched 0 times
+
+From file <rom04.cha>
+
+    Strings matched 0 times
+
+From file <rom05.cha>
+----------------------------------------
+*** File "rom05.cha": line 2254.
+*JEN:	the itsy bitsy spider ?
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider ?
+----------------------------------------
+*** File "rom05.cha": line 2799.
+*JEN:	what's this little pink girl doing on the horsie ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this (1)adj|little (1)adj|pink (1)n|girl
+	part|do-PRESP prep|on det:art|the n|horse-DIM ?
+----------------------------------------
+*** File "rom05.cha": line 2835.
+*JEN:	ooh what's this big red thing ?
+%mor:	v|ooh pro:int|what~poss|s pro:dem|this (1)adj|big (1)adj|red (1)n|thing ?
+
+    Strings matched 3 times
+
+From file <rom06.cha>
+
+    Strings matched 0 times
+
+From file <rom07.cha>
+----------------------------------------
+*** File "rom07.cha": line 886.
+*JEN:	that's a nice little pillow .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|nice (1)adj|little (1)n|pillow .
+
+    Strings matched 1 times
+
+From file <rom08.cha>
+----------------------------------------
+*** File "rom08.cha": line 1542.
+*JEN:	neat (.) it looks like they're building something else (.) a real big building huh ?
+%mor:	adj|neat pro:per|it cop|look-3S conj|like pro:sub|they~aux|be&PRES
+	part|build-PRESP pro:indef|something post|else det:art|a (1)adj|real
+	(1)adj|big (1)n|building co|huh ?
+----------------------------------------
+*** File "rom08.cha": line 1570.
+*JEN:	it helps the builder and it brings this big heavy beam (.) up to the top .
+%mor:	pro:per|it v|help-3S det:art|the n|build&dv-AGT coord|and
+	pro:per|it v|bring-3S pro:dem|this (1)adj|big (1)adj|heavy (1)n|beam adv|up
+	prep|to det:art|the n|top .
+
+    Strings matched 2 times
+
+From file <rom09.cha>
+----------------------------------------
+*** File "rom09.cha": line 11.
+*JEN:	yeah your little yellow bike (.) remember I come to your house to play ?
+%mor:	co|yeah det:poss|your (1)adj|little (1)adj|yellow (1)n|bike v|remember
+	pro:sub|I v|come prep|to det:poss|your n|house prep|to n|play ?
+
+    Strings matched 1 times
+
+From file <rom10.cha>
+
+    Strings matched 0 times
+
+From file <rom11.cha>
+
+    Strings matched 0 times
+
+From file <rom12.cha>
+
+    Strings matched 0 times
+
+From file <rom13.cha>
+
+    Strings matched 0 times
+
+From file <rom14.cha>
+----------------------------------------
+*** File "rom14.cha": line 740.
+*FAT:	did you know about him being sick last week ?
+%mor:	mod|do&PAST pro:per|you v|know prep|about pro:obj|him part|be-PRESP
+	(1)adj|sick (1)adj|last (1)n|week ?
+----------------------------------------
+*** File "rom14.cha": line 816.
+*FAT:	were you sick last week ?
+%mor:	cop|be&PAST pro:per|you (1)adj|sick (1)adj|last (1)n|week ?
+----------------------------------------
+*** File "rom14.cha": line 896.
+*JEN:	about how you were sick last week .
+%mor:	prep|about adv:int|how pro:per|you cop|be&PAST (1)adj|sick (1)adj|last
+	(1)n|week .
+----------------------------------------
+*** File "rom14.cha": line 901.
+*JEN:	Roman , how come you were sick last week ?
+%mor:	n:prop|Roman cm|cm adv:int|how v|come pro:per|you cop|be&PAST
+	(1)adj|sick (1)adj|last (1)n|week ?
+----------------------------------------
+*** File "rom14.cha": line 1890.
+*JEN:	or do you maybe just sleep in (.) your regular big boy bed ?
+%mor:	coord|or v|do pro:per|you adv|maybe adj|just n|sleep prep|in
+	det:poss|your (1)adj|regular (1)adj|big (1)n|boy n|bed ?
+
+    Strings matched 5 times
+
+From file <rom15.cha>
+
+    Strings matched 0 times
+
+From file <rom16.cha>
+
+    Strings matched 0 times
+
+From file <rom17.cha>
+
+    Strings matched 0 times
+
+From file <rom18.cha>
+
+    Strings matched 0 times
+
+From file <rom19.cha>
+
+    Strings matched 0 times
+
+From file <rom20.cha>
+----------------------------------------
+*** File "rom20.cha": line 1622.
+*RYA:	did you do anything exciting last week , since I've seen you ?
+%mor:	v|do&PAST pro:per|you v|do pro:indef|anything (1)adj|exciting (1)adj|last
+	(1)n|week cm|cm conj|since pro:sub|I~aux|have part|see&PASTP
+	pro:per|you ?
+----------------------------------------
+*** File "rom20.cha": line 1646.
+*FAT:	did you do anything fun last week ?
+%mor:	v|do&PAST pro:per|you v|do pro:indef|anything (1)adj|fun (1)adj|last
+	(1)n|week ?
+
+    Strings matched 2 times
+
+From file <rom21.cha>
+----------------------------------------
+*** File "rom21.cha": line 1195.
+*FAT:	those are nice new crayons huh ?
+%mor:	pro:dem|those cop|be&PRES (1)adj|nice (1)adj|new (1)n|crayon-PL co|huh ?
+
+    Strings matched 1 times
+
+From file <rom22.cha>
+
+    Strings matched 0 times
+
+From file <rom23.cha>
+
+    Strings matched 0 times
+
+From file <rom24.cha>
+----------------------------------------
+*** File "rom24.cha": line 66.
+*MOT:	there's a little tiny piece .
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|little (1)adj|tiny (1)n|piece .
+----------------------------------------
+*** File "rom24.cha": line 467.
+*MOT:	oh , that's a little tiny baby , did you hear what I asked you ?
+%mor:	co|oh cm|cm pro:dem|that~cop|be&3S det:art|a (1)adj|little (1)adj|tiny
+	(1)n|baby cm|cm v|do&PAST pro:per|you v|hear pro:int|what pro:sub|I
+	v|ask-PAST pro:per|you ?
+
+    Strings matched 2 times
+
+From file <rom25.cha>
+----------------------------------------
+*** File "rom25.cha": line 1742.
+*ERI:	free hot dogs !
+%mor:	(1)adj|free (1)adj|hot (1)n|dog-PL !
+
+    Strings matched 1 times
+
+From file <rom26.cha>
+----------------------------------------
+*** File "rom26.cha": line 1068.
+*FAT:	little tiny shark .
+%mor:	(1)adj|little (1)adj|tiny (1)n|shark .
+----------------------------------------
+*** File "rom26.cha": line 1179.
+*FAT:	this is big big eyes , you're right Roman .
+%mor:	pro:dem|this cop|be&3S (1)adj|big (1)adj|big (1)n|eye-PL cm|cm
+	pro:per|you~cop|be&PRES adj|right n:prop|Roman .
+
+    Strings matched 2 times
+
+From file <rom27.cha>
+----------------------------------------
+*** File "rom27.cha": line 135.
+*KAR:	that is a cool little Lego thing .
+%mor:	pro:rel|that cop|be&3S det:art|a (1)adj|cool (1)adj|little (1)n:prop|Lego
+	n|thing .
+
+    Strings matched 1 times
+
+From file <rom28.cha>
+
+    Strings matched 0 times
+
+From file <rom29.cha>
+
+    Strings matched 0 times
+
+From file <rom30.cha>
+
+    Strings matched 0 times
+
+From file <rom31.cha>
+
+    Strings matched 0 times
+
+From file <rom32.cha>
+
+    Strings matched 0 times
+
+From file <rom33.cha>
+----------------------------------------
+*** File "rom33.cha": line 476.
+*FAT:	yeah (.) big red house up in the mountains .
+%mor:	co|yeah (1)adj|big (1)adj|red (1)n|house adv|up prep|in det:art|the
+	n|mountain-PL .
+
+    Strings matched 1 times
+
+From file <rom34.cha>
+
+    Strings matched 0 times
+
+From file <rom35.cha>
+----------------------------------------
+*** File "rom35.cha": line 202.
+*MOT:	that's a pretty good cue .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|cue .
+----------------------------------------
+*** File "rom35.cha": line 566.
+*MOT:	they look like the same exact person , except she has on ponytail .
+%mor:	pro:sub|they cop|look conj|like det:art|the (1)adj|same (1)adj|exact
+	(1)n|person cm|cm conj|except pro:sub|she aux|have&3S prep|on
+	n|+n|pony+n|tail .
+----------------------------------------
+*** File "rom35.cha": line 1792.
+*MOT:	these are little tiny Hammerhead babies , see their little hammers , little tiny hammers ?
+%mor:	pro:dem|these cop|be&PRES (1)adj|little (1)adj|tiny (1)n:prop|Hammerhead
+	n|baby-PL cm|cm co|see det:poss|their adj|little n|hammer-PL cm|cm
+	(2)adj|little (2)adj|tiny (2)n|hammer-PL ?
+
+    Strings matched 4 times
+
+From file <rom36.cha>
+
+    Strings matched 0 times
+
+From file <rom37.cha>
+----------------------------------------
+*** File "rom37.cha": line 562.
+*KAR:	a vacuum (.) that poor little mouse .
+%mor:	det:art|a v|vacuum pro:dem|that (1)adj|poor (1)adj|little (1)n|mouse .
+
+    Strings matched 1 times
+
+From file <rom38.cha>
+----------------------------------------
+*** File "rom38.cha": line 2042.
+*MOT:	it didn't have a curly stingy tail it had a long whip tail .
+%mor:	pro:per|it mod|do&PAST~neg|not v|have det:art|a (1)adj|curl&dv-Y
+	(1)adj|stingy (1)n|tail pro:per|it v|have&PAST det:art|a adj|long n|whip
+	n|tail .
+
+    Strings matched 1 times
+
+From file <rom39.cha>
+
+    Strings matched 0 times
+
+From file <rom40.cha>
+----------------------------------------
+*** File "rom40.cha": line 361.
+*MOT:	it's a little little &-um (.) inlet of water before it reaches the ocean .
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|little (1)adj|little (1)n|inlet
+	prep|of n|water prep|before pro:per|it v|reach-3S det:art|the
+	n|ocean .
+
+    Strings matched 1 times
+
+From file <rom41.cha>
+
+    Strings matched 0 times
+
+From file <rom42.cha>
+----------------------------------------
+*** File "rom42.cha": line 1811.
+*FAT:	alright (.) alright just concentrate Roman .
+%mor:	co|alright (1)adj|alright (1)adj|just (1)n|concentrate n:prop|Roman .
+
+    Strings matched 1 times
+

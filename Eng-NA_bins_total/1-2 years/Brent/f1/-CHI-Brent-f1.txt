@@ -1,0 +1,283 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 16:44:43 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <f1-0828.cha>
+----------------------------------------
+*** File "f1-0828.cha": line 639.
+*MOT:	we can't have xxx have you having the same messy face all day ,
+	baby . %snd:"f1-r5dec96"_1317510_1320959
+%mor:	pro:sub|we mod|can~neg|not v|have v|have pro:per|you
+	part|have-PRESP det:art|the (1)adj|same (1)adj|mess&dn-Y (1)n|face qn|all
+	n|day cm|cm n|baby .
+----------------------------------------
+*** File "f1-0828.cha": line 1615.
+*MOT:	got a big smily face . %snd:"f1-r5dec96"_3217177_3218192
+%mor:	v|get&PAST det:art|a (1)adj|big (1)adj|smile&dv-Y (1)n|face .
+----------------------------------------
+*** File "f1-0828.cha": line 1676.
+*MOT:	big yellow hat . %snd:"f1-r5dec96"_3265939_3266667
+%mor:	(1)adj|big (1)adj|yellow (1)n|hat .
+----------------------------------------
+*** File "f1-0828.cha": line 1739.
+*MOT:	in the hot hot sun [=! read] . %snd:"f1-r5dec96"_3341136_3342476
+%mor:	prep|in det:art|the (1)adj|hot (1)adj|hot (1)n|sun .
+----------------------------------------
+*** File "f1-0828.cha": line 1829.
+*MOT:	a long long way [=! read] . %snd:"f1-r5dec96"_3441565_3443554
+%mor:	det:art|a (1)adj|long (1)adj|long (1)n|way .
+
+    Strings matched 5 times
+
+From file <f1-0910.cha>
+----------------------------------------
+*** File "f1-0910.cha": line 1025.
+*MOT:	pink elephant and a yellow crinkly ear . %snd:"f1-t17dec96"_1585700_1587887
+%mor:	adj|pink n|elephant coord|and det:art|a (1)adj|yellow (1)adj|crinkle&dv-Y
+	(1)n|ear .
+
+    Strings matched 1 times
+
+From file <f1-1003.cha>
+----------------------------------------
+*** File "f1-1003.cha": line 334.
+*MOT:	the itsy bitsy spider goes up the water spout [=! sung] . %snd:"f1-f10jan97"_346772_351525
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S prep|up det:art|the
+	n|water n|spout .
+----------------------------------------
+*** File "f1-1003.cha": line 350.
+*MOT:	the itsy bitsy spider goes up to Dillon's head [=! sung] . %snd:"f1-f10jan97"_363473_368465
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+
+    Strings matched 2 times
+
+From file <f1-1013.cha>
+----------------------------------------
+*** File "f1-1013.cha": line 333.
+*MOT:	the itsy bitsy spider walks up (...) Dillon's belly [=! sung] . %snd:"f1-m20jan97"_341325_346852
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|up
+	n:prop|Dillon~poss|s n|belly .
+----------------------------------------
+*** File "f1-1013.cha": line 348.
+*MOT:	the itsy bitsy spider walks up to Dillon's head [=! sung] . %snd:"f1-m20jan97"_358008_363284
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "f1-1013.cha": line 359.
+*MOT:	the itsy bitsy spider walks (a)cross Dillon's belly [=! sung] . %snd:"f1-m20jan97"_367489_373556
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|across
+	n:prop|Dillon~poss|s n|belly .
+----------------------------------------
+*** File "f1-1013.cha": line 374.
+*MOT:	the itsy bitsy spider walks up to Dillon's head [=! sung] . %snd:"f1-m20jan97"_383357_388387
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "f1-1013.cha": line 382.
+*MOT:	the itsy bitsy spider walks up Dillon's leg [=! sung] . %snd:"f1-m20jan97"_396667_402675
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-3S prep|up
+	n:prop|Dillon~poss|s n|leg .
+----------------------------------------
+*** File "f1-1013.cha": line 397.
+*MOT:	so the itsy bitsy spider walked across Dillon's shoulder [=! sung]
+	. %snd:"f1-m20jan97"_414288_420279
+%mor:	co|so det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|walk-PAST
+	prep|across n:prop|Dillon~poss|s n|shoulder .
+----------------------------------------
+*** File "f1-1013.cha": line 501.
+*MOT:	that was quite a little old (.) burp and cough there . %snd:"f1-m20jan97"_717565_720448
+%mor:	pro:dem|that cop|be&PAST&13S adv|quite det:art|a (1)adj|little (1)adj|old
+	(1)n|burp coord|and n|cough adv|there .
+----------------------------------------
+*** File "f1-1013.cha": line 513.
+*MOT:	that sounded like a big ol(d) frog in your throat . %snd:"f1-m20jan97"_729235_731218
+%mor:	pro:rel|that part|sound-PASTP prep|like det:art|a (1)adj|big (1)adj|old
+	(1)n|frog prep|in det:poss|your n|throat .
+----------------------------------------
+*** File "f1-1013.cha": line 619.
+*MOT:	xxx hold up those loose [?] loose pieces ? %snd:"f1-m20jan97"_878418_880316
+%mor:	n|hold adv|up det:dem|those (1)adj|loose (1)adj|loose (1)n|piece-PL ?
+----------------------------------------
+*** File "f1-1013.cha": line 1215.
+*MOT:	blue green yellow orange . %snd:"f1-m20jan97"_1622276_1624592
+%mor:	adj|blue (1)adj|green (1)adj|yellow (1)n|orange .
+----------------------------------------
+*** File "f1-1013.cha": line 1854.
+*MOT:	there's a big green frog on that page . %snd:"f1-m20jan97"_2427071_2429811
+%mor:	pro:exist|there~cop|be&3S det:art|a (1)adj|big (1)adj|green (1)n|frog
+	prep|on pro:dem|that n|page .
+----------------------------------------
+*** File "f1-1013.cha": line 1859.
+*MOT:	big green frog [=! voice] . %snd:"f1-m20jan97"_2431139_2432846
+%mor:	(1)adj|big (1)adj|green (1)n|frog .
+----------------------------------------
+*** File "f1-1013.cha": line 2543.
+*MOT:	this has been such a long long day . %snd:"f1-m20jan97"_3072139_3075363
+%mor:	pro:dem|this aux|have&3S aux|be&PASTP qn|such det:art|a (1)adj|long
+	(1)adj|long (1)n|day .
+----------------------------------------
+*** File "f1-1013.cha": line 2788.
+*MOT:	little little tiny baby Hannah . %snd:"f1-m20jan97"_3279031_3280899
+%mor:	adj|little (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+----------------------------------------
+*** File "f1-1013.cha": line 2791.
+*MOT:	little little tiny baby Hannah . %snd:"f1-m20jan97"_3281745_3283466
+%mor:	adj|little (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+----------------------------------------
+*** File "f1-1013.cha": line 2795.
+*MOT:	real little tiny baby Hannah . %snd:"f1-m20jan97"_3288347_3289892
+%mor:	adj|real (1)adj|little (1)adj|tiny (1)n|baby n:prop|Hannah .
+
+    Strings matched 16 times
+
+From file <f1-1022.cha>
+----------------------------------------
+*** File "f1-1022.cha": line 71.
+*MOT:	fuzzy little panther [=! sung] . %snd:"f1-w29jan97"_52310_54405
+%mor:	(1)adj|fuzz&dn-Y (1)adj|little (1)n|panther .
+----------------------------------------
+*** File "f1-1022.cha": line 161.
+*MOT:	the itsy bitsy spider goes up the water spout [=! sung] . %snd:"f1-w29jan97"_135514_142244
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|go-3S prep|up det:art|the
+	n|water n|spout .
+----------------------------------------
+*** File "f1-1022.cha": line 178.
+*MOT:	the itsy bitsy spider crawls up to Dillon's head [=! sung] . %snd:"f1-w29jan97"_154728_160066
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S adv|up prep|to
+	n:prop|Dillon~poss|s n|head .
+----------------------------------------
+*** File "f1-1022.cha": line 206.
+*MOT:	the itsy bitsy spider crawls up the water spout [=! sung] . %snd:"f1-w29jan97"_178616_184927
+%mor:	det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S prep|up
+	det:art|the n|water n|spout .
+----------------------------------------
+*** File "f1-1022.cha": line 221.
+*MOT:	an(d) the itsy bitsy spider crawls up to Dillon's head again
+	[=! sung] . %snd:"f1-w29jan97"_194796_198529
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S adv|up
+	prep|to n:prop|Dillon~poss|s adj|head adv|again .
+----------------------------------------
+*** File "f1-1022.cha": line 230.
+*MOT:	itsy bitsy spider crawls up the water spout [=! sung] . %snd:"f1-w29jan97"_201075_204739
+%mor:	(1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S prep|up det:art|the n|water
+	n|spout .
+----------------------------------------
+*** File "f1-1022.cha": line 245.
+*MOT:	an(d) the itsy bitsy spider crawls up the spout again [=! sung] . %snd:"f1-w29jan97"_210884_214899
+%mor:	coord|and det:art|the (1)adj|itsy (1)adj|bitsy (1)n|spider v|crawl-3S
+	prep|up det:art|the n|spout adv|again .
+----------------------------------------
+*** File "f1-1022.cha": line 2995.
+*MOT:	itty bitty teddy bear . %snd:"f1-w29jan97"_4362112_4363884
+%mor:	(1)adj|itty (1)adj|bit&dn-Y (1)n|teddy n|bear .
+
+    Strings matched 8 times
+
+From file <f1-1106.cha>
+----------------------------------------
+*** File "f1-1106.cha": line 188.
+*MOT:	and the happy little girl . %snd:"f1-r13feb97"_161935_163646
+%mor:	coord|and det:art|the (1)adj|happy (1)adj|little (1)n|girl .
+----------------------------------------
+*** File "f1-1106.cha": line 3546.
+*MOT:	that's a real big mouth . %snd:"f1-r13feb97"_4497139_4497837
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|real (1)adj|big (1)n|mouth .
+
+    Strings matched 2 times
+
+From file <f1-1120.cha>
+
+    Strings matched 0 times
+
+From file <f1-1206.cha>
+----------------------------------------
+*** File "f1-1206.cha": line 805.
+*MOT:	it's a weird odd shape isn't it ? %snd:"f1-r13mar97"_1125143_1127057
+%mor:	pro:per|it~cop|be&3S det:art|a (1)adj|weird (1)adj|odd (1)n|shape
+	cop|be&3S~neg|not pro:per|it ?
+----------------------------------------
+*** File "f1-1206.cha": line 1970.
+*MOT:	always feels good to have a good old juice huh ? %snd:"f1-r13mar97"_4077063_4079400
+%mor:	adv|always v|feel-3S adj|good inf|to v|have det:art|a (1)adj|good
+	(1)adj|old (1)n|juice co|huh ?
+
+    Strings matched 2 times
+
+From file <f1-1304.cha>
+----------------------------------------
+*** File "f1-1304.cha": line 1322.
+*MOT:	where's my handsome little son ? %snd:"f1-f11apr97"_2996803_2998070
+%mor:	adv:int|where~cop|be&3S det:poss|my (1)adj|handsome (1)adj|little (1)n|son ?
+----------------------------------------
+*** File "f1-1304.cha": line 1325.
+*MOT:	where's my handsome little son ? %snd:"f1-f11apr97"_2999017_3000797
+%mor:	adv:int|where~cop|be&3S det:poss|my (1)adj|handsome (1)adj|little (1)n|son ?
+----------------------------------------
+*** File "f1-1304.cha": line 1846.
+*MOT:	little red caboose [=! sung] . %snd:"f1-f11apr97"_4278747_4279760
+%mor:	(1)adj|little (1)adj|red (1)n|caboose .
+----------------------------------------
+*** File "f1-1304.cha": line 1849.
+*MOT:	little red caboose behind the train [=! sung] . %snd:"f1-f11apr97"_4280093_4282103
+%mor:	(1)adj|little (1)adj|red (1)n|caboose n|behind det:art|the n|train .
+
+    Strings matched 4 times
+
+From file <f1-1318.cha>
+----------------------------------------
+*** File "f1-1318.cha": line 2564.
+*MOT:	well (.) sometimes when you try something new it takes a little
+	long time right ? %snd:"f1-f25apr97"_4415597_4419113
+%mor:	adv|well adv|sometimes conj|when pro:per|you v|try
+	pro:indef|something adj|new pro:per|it v|take-3S det:art|a
+	(1)adj|little (1)adj|long (1)n|time adj|right ?
+
+    Strings matched 1 times
+
+From file <f1-1402.cha>
+----------------------------------------
+*** File "f1-1402.cha": line 1119.
+*MOT:	funny (.) orange hue to it now . %snd:"f1-f9may97"_2134360_2136540
+%mor:	(1)adj|fun&dn-Y (1)adj|orange (1)n|hue prep|to pro:per|it adv|now .
+
+    Strings matched 1 times
+
+From file <f1-1424.cha>
+----------------------------------------
+*** File "f1-1424.cha": line 426.
+*MOT:	nice little rose plant . %snd:"f1-h31may97"_469745_470922
+%mor:	(1)adj|nice (1)adj|little (1)n|rose n|plant .
+----------------------------------------
+*** File "f1-1424.cha": line 1375.
+*MOT:	you got the cutest little baby face [=! sung] . %snd:"f1-h31may97"_2409330_2411888
+%mor:	pro:per|you v|get&PAST det:art|the (1)adj|cute-SP (1)adj|little (1)n|baby
+	n|face .
+----------------------------------------
+*** File "f1-1424.cha": line 2752.
+*MOT:	the fuzzy pink panther ? %snd:"f1-h31may97"_4419656_4420932
+%mor:	det:art|the (1)adj|fuzz&dn-Y (1)adj|pink (1)n|panther ?
+----------------------------------------
+*** File "f1-1424.cha": line 2755.
+*MOT:	I mean fuzzy little panther . %snd:"f1-h31may97"_4421071_4422330
+%mor:	pro:sub|I v|mean (1)adj|fuzz&dn-Y (1)adj|little (1)n|panther .
+
+    Strings matched 4 times
+
+From file <f1-1504.cha>
+----------------------------------------
+*** File "f1-1504.cha": line 191.
+*MOT:	and this big old lid &=noise . %snd:"f1-w11jun97"_303391_305289
+%mor:	coord|and pro:dem|this (1)adj|big (1)adj|old (1)n|lid .
+----------------------------------------
+*** File "f1-1504.cha": line 1440.
+*MOT:	alright let's see if we can grab a piece of this old good old stuff
+	in here ! %snd:"f1-w11jun97"_3072119_3076383
+%mor:	co|alright v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|grab
+	det:art|a n|piece prep|of pro:dem|this adj|old (1)adj|good (1)adj|old
+	(1)n|stuff prep|in adv|here !
+
+    Strings matched 2 times
+

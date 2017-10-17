@@ -1,0 +1,361 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:06:04 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <admmt5.cha>
+
+    Strings matched 0 times
+
+From file <anamt5.cha>
+
+    Strings matched 0 times
+
+From file <annmt5.cha>
+
+    Strings matched 0 times
+
+From file <aprmt51.cha>
+
+    Strings matched 0 times
+
+From file <aprmt52.cha>
+----------------------------------------
+*** File "aprmt52.cha": line 494.
+*MOT:	a regular light blow will blow .
+%mor:	det:art|a (1)adj|regular (1)adj|light (1)n|blow mod|will v|blow .
+
+    Strings matched 1 times
+
+From file <bramt5.cha>
+----------------------------------------
+*** File "bramt5.cha": line 2436.
+*GRM:	and they had these little white type bowls like .
+%mor:	coord|and pro:sub|they v|have&PAST pro:dem|these (1)adj|little
+	(1)adj|white (1)n|type n|bowl-PL prep|like .
+
+    Strings matched 1 times
+
+From file <brnmt5.cha>
+
+    Strings matched 0 times
+
+From file <carmt5.cha>
+
+    Strings matched 0 times
+
+From file <casmt5.cha>
+
+    Strings matched 0 times
+
+From file <conmt5.cha>
+
+    Strings matched 0 times
+
+From file <ctrmt5.cha>
+
+    Strings matched 0 times
+
+From file <davmt5.cha>
+
+    Strings matched 0 times
+
+From file <diamt5.cha>
+
+    Strings matched 0 times
+
+From file <donmt5.cha>
+----------------------------------------
+*** File "donmt5.cha": line 477.
+*BRO:	<that a real real American> [<] .
+%mor:	pro:rel|that det:art|a (1)adj|real (1)adj|real (1)n:prop|American .
+----------------------------------------
+*** File "donmt5.cha": line 1193.
+*BRO:	it was awesome [!] perfect [/] perfect pass .
+%mor:	pro:per|it cop|be&PAST&13S (1)adj|awesome (1)adj|perfect (1)n|pass .
+
+    Strings matched 2 times
+
+From file <ethmt5.cha>
+----------------------------------------
+*** File "ethmt5.cha": line 663.
+*FAT:	he started practicing (.) late last week .
+%mor:	pro:sub|he v|start-PAST part|practice-PRESP (1)adj|late (1)adj|last
+	(1)n|week .
+----------------------------------------
+*** File "ethmt5.cha": line 869.
+*ALX:	he reworked his first major piece (.) Steven Hero (.) into A Portrait of the Artist as a Young Man .
+%mor:	pro:sub|he re#part|work-PASTP det:poss|his (1)adj|first (1)adj|major
+	(1)n|piece n:prop|Steven n:prop|Hero prep|into n:prop|A n:prop|Portrait
+	prep|of det:art|the n:prop|Artist conj|as det:art|a n:prop|Young
+	n:prop|Man .
+----------------------------------------
+*** File "ethmt5.cha": line 885.
+*ALX:	he won a Pulitzer Prize for his first full length play (.) nineteen twentys Beyond the Horizon .
+%mor:	pro:sub|he v|win&PAST det:art|a n:prop|Pulitzer n:prop|Prize
+	prep|for det:poss|his (1)adj|first (1)adj|full (1)n|length n|play
+	det:num|nineteen det:num|twenty-PL n:prop|Beyond det:art|the
+	n:prop|Horizon .
+----------------------------------------
+*** File "ethmt5.cha": line 1136.
+*ALX:	term used for a short literary sketch (.) or a short memorable scene in a film or play .
+%mor:	n|term v|use-PAST prep|for det:art|a (1)adj|short (1)adj|literary
+	(1)n|sketch coord|or det:art|a (2)adj|short (2)adj|memorable (2)n|scene prep|in
+	det:art|a n|film coord|or n|play .
+----------------------------------------
+*** File "ethmt5.cha": line 1388.
+*MOT:	is he one of those big bratty kids ?
+%mor:	cop|be&3S pro:sub|he pro:indef|one prep|of pro:dem|those (1)adj|big
+	(1)adj|brat&dn-Y (1)n|kid-PL ?
+----------------------------------------
+*** File "ethmt5.cha": line 1936.
+*FAT:	we have a thirty minute master tape .
+%mor:	pro:sub|we v|have det:art|a det:num|thirty (1)adj|minute (1)adj|master
+	(1)n|tape .
+----------------------------------------
+*** File "ethmt5.cha": line 2257.
+*MOT:	<the little> [<] white church on a hill and they would sit there .
+%mor:	det:art|the (1)adj|little (1)adj|white (1)n|church prep|on det:art|a n|hill
+	coord|and pro:sub|they mod|will&COND v|sit adv|there .
+----------------------------------------
+*** File "ethmt5.cha": line 2368.
+*FAT:	and this fake little western street .
+%mor:	coord|and pro:dem|this adj|fake (1)adj|little (1)adj|western (1)n|street .
+----------------------------------------
+*** File "ethmt5.cha": line 2371.
+*FAT:	in this dingy little <studio in Boston> [>] .
+%mor:	prep|in pro:dem|this (1)adj|dingy (1)adj|little (1)n|studio prep|in
+	n:prop|Boston .
+----------------------------------------
+*** File "ethmt5.cha": line 3145.
+*MOT:	for I don't know like thirty dollars <at a> [>] real fancy store .
+%mor:	conj|for pro:sub|I mod|do~neg|not v|know co|like det:num|thirty
+	n|dollar-PL prep|at det:art|a (1)adj|real (1)adj|fancy (1)n|store .
+----------------------------------------
+*** File "ethmt5.cha": line 3303.
+*MOT:	+^ a real nice guy .
+%mor:	det:art|a (1)adj|real (1)adj|nice (1)n|guy .
+
+    Strings matched 12 times
+
+From file <geomt5.cha>
+
+    Strings matched 0 times
+
+From file <gilmt5.cha>
+
+    Strings matched 0 times
+
+From file <inamt5.cha>
+----------------------------------------
+*** File "inamt5.cha": line 287.
+*MOT:	+^ she has like kind of brownish light eyes ?
+%mor:	pro:sub|she aux|have&3S co|like adj|kind prep|of (1)adj|brown-ISH
+	(1)adj|light (1)n|eye-PL ?
+----------------------------------------
+*** File "inamt5.cha": line 576.
+*MOT:	was it a long long time or a short time ?
+%mor:	cop|be&PAST&13S pro:per|it det:art|a (1)adj|long (1)adj|long (1)n|time
+	coord|or det:art|a adj|short n|time ?
+----------------------------------------
+*** File "inamt5.cha": line 1756.
+*MOT:	<but they> [//] you know when they were (.) <a long long time ago> [>] .
+%mor:	pro:per|you v|know conj|when pro:sub|they cop|be&PAST det:art|a
+	(1)adj|long (1)adj|long (1)n|time adv|ago .
+
+    Strings matched 3 times
+
+From file <jacmt5.cha>
+----------------------------------------
+*** File "jacmt5.cha": line 934.
+*MOT:	she gave you a brand new back+pack ?
+%mor:	pro:sub|she v|give&PAST pro:per|you det:art|a (1)adj|brand (1)adj|new
+	(1)n|+n|back+n|pack ?
+
+    Strings matched 1 times
+
+From file <jammt5.cha>
+
+    Strings matched 0 times
+
+From file <jeamt5.cha>
+
+    Strings matched 0 times
+
+From file <jebmt5.cha>
+----------------------------------------
+*** File "jebmt5.cha": line 135.
+*MOT:	www &=laughs (.) that's a pretty good brain you have .
+%mor:	pro:dem|that~cop|be&3S det:art|a (1)adj|pretty (1)adj|good (1)n|brain
+	pro:per|you v|have .
+
+    Strings matched 1 times
+
+From file <jenmt5.cha>
+
+    Strings matched 0 times
+
+From file <jermt5.cha>
+----------------------------------------
+*** File "jermt5.cha": line 838.
+*FAT:	ahem see the <little bitty> [//] little &+i (.) itty bitty part of the moon ?
+%mor:	co|ahem v|see det:art|the adj|little (1)adj|itty (1)adj|bit&dn-Y (1)n|part
+	prep|of det:art|the n|moon ?
+----------------------------------------
+*** File "jermt5.cha": line 1022.
+*MOT:	well [<] today is the regular full moon cycle .
+%mor:	co|well adv:tem|today cop|be&3S det:art|the (1)adj|regular (1)adj|full
+	(1)n|moon n|cycle .
+----------------------------------------
+*** File "jermt5.cha": line 1560.
+*MOT:	one tiny teeny little sliver !
+%mor:	pro:indef|one adj|tiny (1)adj|teeny (1)adj|little (1)n|sliver !
+
+    Strings matched 3 times
+
+From file <jesmt5.cha>
+----------------------------------------
+*** File "jesmt5.cha": line 1189.
+*COS:	bite it bite it like a big big girl !
+%mor:	v|bite pro:per|it v|bite pro:per|it conj|like det:art|a (1)adj|big
+	(1)adj|big (1)n|girl !
+----------------------------------------
+*** File "jesmt5.cha": line 1317.
+*MOT:	hi this is Mot (.) I want to &-um wish everybody a happy new year and hope everyone had a very nice &+Christp Christmas (.) and (.) &-um (.) we'll see you guys soon .
+%mor:	co|hi pro:dem|this cop|be&3S n:prop|Mot pro:sub|I v|want inf|to
+	v|wish pro:indef|everybody det:art|a (1)adj|happy (1)adj|new (1)n|year
+	coord|and v|hope pro:indef|everyone v|have&PAST det:art|a adv|very
+	adj|nice n:prop|Christmas coord|and pro:sub|we~mod|will v|see
+	pro:per|you n|guy-PL adj|soon .
+
+    Strings matched 2 times
+
+From file <joymt5.cha>
+
+    Strings matched 0 times
+
+From file <karmt5.cha>
+
+    Strings matched 0 times
+
+From file <kurmt5.cha>
+----------------------------------------
+*** File "kurmt5.cha": line 2161.
+*MOT:	singin(g) into it and clappin(g) their hands (be)cause there's a little red light .
+%mor:	part|sing-PRESP prep|into pro:per|it coord|and part|clap-PRESP
+	det:poss|their n|hand-PL conj|because pro:exist|there~cop|be&3S
+	det:art|a (1)adj|little (1)adj|red (1)n|light .
+
+    Strings matched 1 times
+
+From file <maymt5a.cha>
+
+    Strings matched 0 times
+
+From file <maymt5b.cha>
+----------------------------------------
+*** File "maymt5b.cha": line 963.
+*SIS:	can I have this little fat [=? fast] piece ?
+%mor:	mod|can pro:sub|I v|have pro:dem|this (1)adj|little (1)adj|fat (1)n|piece ?
+
+    Strings matched 1 times
+
+From file <megmt5.cha>
+
+    Strings matched 0 times
+
+From file <melmt5.cha>
+
+    Strings matched 0 times
+
+From file <monmt5.cha>
+
+    Strings matched 0 times
+
+From file <mrkmt5.cha>
+
+    Strings matched 0 times
+
+From file <paumt5.cha>
+
+    Strings matched 0 times
+
+From file <petmt5.cha>
+----------------------------------------
+*** File "petmt5.cha": line 822.
+*BRO:	he's such a good little Catholic boy .
+%mor:	pro:sub|he~aux|be&3S qn|such det:art|a (1)adj|good (1)adj|little
+	(1)n:prop|Catholic n|boy .
+----------------------------------------
+*** File "petmt5.cha": line 2829.
+*MOT:	in the red box my mother goes that's an awful big box of stuffing .
+%mor:	prep|in det:art|the n|red n|box det:poss|my n|mother v|go-3S
+	pro:dem|that~cop|be&3S det:art|a (1)adj|awful (1)adj|big (1)n|box prep|of
+	n:gerund|stuff-PRESP .
+
+    Strings matched 2 times
+
+From file <rilmt5.cha>
+
+    Strings matched 0 times
+
+From file <rosmt5.cha>
+----------------------------------------
+*** File "rosmt5.cha": line 521.
+*FAT:	real &+differ (.) different kind of noodles .
+%mor:	(1)adj|real (1)adj|different (1)n|kind prep|of n|noodle-PL .
+
+    Strings matched 1 times
+
+From file <sarmt5.cha>
+
+    Strings matched 0 times
+
+From file <shlmt5.cha>
+----------------------------------------
+*** File "shlmt5.cha": line 810.
+*SIS2:	that was a big ugly yellow +/.
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a (1)adj|big (1)adj|ugly (1)n|yellow
+	+/.
+----------------------------------------
+*** File "shlmt5.cha": line 1289.
+*MOT:	she was just a little old lady .
+%mor:	pro:sub|she cop|be&PAST&13S adv|just det:art|a (1)adj|little (1)adj|old
+	(1)n|lady .
+
+    Strings matched 2 times
+
+From file <shomt5.cha>
+
+    Strings matched 0 times
+
+From file <susmt5.cha>
+
+    Strings matched 0 times
+
+From file <tammt5.cha>
+
+    Strings matched 0 times
+
+From file <trimt5.cha>
+
+    Strings matched 0 times
+
+From file <vicmt5.cha>
+----------------------------------------
+*** File "vicmt5.cha": line 1057.
+*MOT:	it was a real quick meal I tell you that !
+%mor:	pro:per|it cop|be&PAST&13S det:art|a (1)adj|real (1)adj|quick (1)n|meal
+	pro:sub|I v|tell pro:per|you pro:dem|that !
+
+    Strings matched 1 times
+
+From file <zenmt5.cha>
+----------------------------------------
+*** File "zenmt5.cha": line 2500.
+*MOT:	nice hot piece of garlic xxx !
+%mor:	(1)adj|nice (1)adj|hot (1)n|piece prep|of n|garlic !
+
+    Strings matched 1 times
+

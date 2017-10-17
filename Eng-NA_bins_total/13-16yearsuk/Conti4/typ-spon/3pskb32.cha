@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/c-00004948-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;04.28||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants were in a quiet room at school. Question asked: who is the most annoying person you know and give reasons?
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	my dad , because he's always shouting at me , always telling me to
+	&-um get off the tellie and &-um sending me to my room when I haven't
+	done anything .
+%mor:	det:poss|my n|dad cm|cm conj|because pro:sub|he~aux|be&3S
+	adv|always part|shout-PRESP prep|at pro:obj|me cm|cm adv|always
+	part|tell-PRESP pro:obj|me inf|to v|get prep|off det:art|the
+	n|tellie coord|and part|send-PRESP pro:obj|me prep|to det:poss|my
+	n|room conj|when pro:sub|I aux|have~neg|not part|do&PASTP
+	pro:indef|anything .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|LP 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|2|CJCT
+	9|8|JCT 10|9|POBJ 11|8|LP 12|13|JCT 13|8|XJCT 14|13|OBJ 15|16|INF
+	16|13|XCOMP 17|16|JCT 18|19|DET 19|17|POBJ 20|19|CONJ 21|20|COORD 22|21|OBJ
+	23|21|JCT 24|25|MOD 25|23|POBJ 26|30|LINK 27|30|SUBJ 28|30|AUX 29|28|NEG
+	30|21|CJCT 31|30|OBJ 32|2|PUNCT
+*CHI:	to do my homework really , when I get home from school .
+%mor:	inf|to v|do det:poss|my n|+n|home+n|work adv|real&dadj-LY cm|cm
+	adv:int|when pro:sub|I v|get n|home prep|from n|school .
+%gra:	1|2|INF 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|LP 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|9|JCT 12|11|POBJ 13|2|PUNCT
+*CHI:	and all he does is &-um drink beer and watch tellie .
+%mor:	coord|and qn|all pro:sub|he v|do&3S aux|be&3S n|drink n|beer
+	coord|and n|watch n|tellie .
+%gra:	1|4|LINK 2|4|QUANT 3|4|SUBJ 4|0|ROOT 5|7|AUX 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|4|PUNCT
+*CHI:	twenty four hour news .
+%mor:	det:num|twenty det:num|four n|hour n|news .
+%gra:	1|4|QUANT 2|3|QUANT 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End

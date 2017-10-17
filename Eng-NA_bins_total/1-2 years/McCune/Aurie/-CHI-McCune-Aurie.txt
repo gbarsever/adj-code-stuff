@@ -1,0 +1,56 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 17:07:53 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <aurie18.cha>
+
+    Strings matched 0 times
+
+From file <aurie19.cha>
+
+    Strings matched 0 times
+
+From file <aurie20.cha>
+
+    Strings matched 0 times
+
+From file <aurie21.cha>
+----------------------------------------
+*** File "aurie21.cha": line 756.
+*MOT:	you can put the beads in here and they would make a real loud
+	rattle .
+%mor:	pro:per|you mod|can v|put&ZERO det:art|the n|bead-PL prep|in
+	adv|here coord|and pro:sub|they mod|will&COND v|make det:art|a
+	(1)adj|real (1)adj|loud (1)n|rattle .
+----------------------------------------
+*** File "aurie21.cha": line 1989.
+*MOT:	she has a very pretty red jacket and pretty blue pants and red
+	shoes .
+%mor:	pro:sub|she aux|have&3S det:art|a adv|very (1)adj|pretty (1)adj|red
+	(1)n|jacket coord|and adv|pretty adj|blue v|pant-3S coord|and adj|red
+	n|shoe-PL .
+
+    Strings matched 2 times
+
+From file <aurie22.cha>
+----------------------------------------
+*** File "aurie22.cha": line 2549.
+*MOT:	turn that top little thing .
+%mor:	v|turn det:dem|that (1)adj|top (1)adj|little (1)n|thing .
+
+    Strings matched 1 times
+
+From file <aurie23.cha>
+----------------------------------------
+*** File "aurie23.cha": line 415.
+*MOT:	a big tall tower .
+%mor:	det:art|a (1)adj|big (1)adj|tall (1)n|tower .
+
+    Strings matched 1 times
+
+From file <aurie24.cha>
+
+    Strings matched 0 times
+

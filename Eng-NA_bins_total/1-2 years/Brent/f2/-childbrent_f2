@@ -1,0 +1,39 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha @
+Mon May  8 16:05:03 2017
+combo (21-Apr-2015) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <f2-1205.cha>
+----------------------------------------
+*** File "f2-1205.cha": line 134.
+*MOT:	blue orange green . %snd:"f2-s11jun00"_95020_96230
+%mor:	(1)adj|blue (1)adj|orange (1)n|green .
+----------------------------------------
+*** File "f2-1205.cha": line 1441.
+*MOT:	orange blue green . %snd:"f2-s11jun00"_2026907_2028057
+%mor:	(1)adj|orange (1)adj|blue (1)n|green .
+
+    Strings matched 2 times
+
+From file <f2-1218.cha>
+
+    Strings matched 0 times
+
+From file <f2-1317.cha>
+
+    Strings matched 0 times
+
+From file <f2-1414.cha>
+----------------------------------------
+*** File "f2-1414.cha": line 624.
+*MOT:	wet sloppy kiss &=noise . %snd:"f2-s20aug00"_1041473_1042547
+%mor:	(1)adj|wet (1)adj|slop&dn-Y (1)n|kiss .
+----------------------------------------
+*** File "f2-1414.cha": line 635.
+*MOT:	okay see I knew that wet sloppy kiss was for something &=noise . %snd:"f2-s20aug00"_1056560_1059070
+%mor:	co|okay v|see pro:sub|I v|know&PAST pro:dem|that (1)adj|wet
+	(1)adj|slop&dn-Y (1)n|kiss cop|be&PAST&13S prep|for pro:indef|something .
+
+    Strings matched 2 times
+

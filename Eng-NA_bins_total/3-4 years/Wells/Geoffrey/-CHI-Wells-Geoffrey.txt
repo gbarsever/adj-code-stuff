@@ -1,0 +1,89 @@
+combo +t%mor -t*CHI +s(adj*^adj*^n*) *.cha
+Mon Feb 06 19:09:25 2017
+combo (26-Jan-2017) is conducting analyses on:
+  ALL speaker main tiers EXCEPT the ones matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR;
+****************************************
+From file <geoffr02.cha>
+
+    Strings matched 0 times
+
+From file <geoffr03.cha>
+
+    Strings matched 0 times
+
+From file <geoffr04.cha>
+
+    Strings matched 0 times
+
+From file <geoffr06.cha>
+
+    Strings matched 0 times
+
+From file <geoffr07.cha>
+----------------------------------------
+*** File "geoffr07.cha": line 1199.
+*MOT:	with a nice red hat give him .
+%mor:	prep|with det:art|a (1)adj|nice (1)adj|red (1)n|hat v|give pro:obj|him .
+----------------------------------------
+*** File "geoffr07.cha": line 1217.
+*MOT:	give him two little red dot eyes .
+%mor:	v|give pro:obj|him det:num|two (1)adj|little (1)adj|red (1)n|dot n|eye-PL .
+----------------------------------------
+*** File "geoffr07.cha": line 1301.
+*MOT:	bright red scarf .
+%mor:	(1)adj|bright (1)adj|red (1)n|scarf .
+
+    Strings matched 3 times
+
+From file <geoffr08.cha>
+
+    Strings matched 0 times
+
+From file <geoffr09.cha>
+
+    Strings matched 0 times
+
+From file <geoffr10.cha>
+----------------------------------------
+*** File "geoffr10.cha": line 662.
+*MOT:	he was a very busy little piggy that one .
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a adv|very (1)adj|busy (1)adj|little
+	(1)n|pig-DIM pro:dem|that pro:indef|one .
+----------------------------------------
+*** File "geoffr10.cha": line 688.
+*MOT:	and this little piggy went wee wee wee wee xxx home .
+%mor:	coord|and pro:dem|this adj|little n|pig-DIM v|go&PAST adj|wee
+	adj|wee (1)adj|wee (1)adj|wee (1)n|home .
+
+    Strings matched 2 times
+
+From file <geoffr21.cha>
+----------------------------------------
+*** File "geoffr21.cha": line 1320.
+*MOT:	miserable old Uppity they used to call him (1.) .
+%mor:	(1)adj|miserable (1)adj|old (1)n:prop|Uppity pro:sub|they v|use-PAST inf|to
+	v|call pro:obj|him .
+----------------------------------------
+*** File "geoffr21.cha": line 1407.
+*MOT:	and you've got Mister Nosey with a big red nose (2.) .
+%mor:	coord|and pro:per|you~aux|have v|get&PAST n:prop|Mister
+	n:prop|Nosey prep|with det:art|a (1)adj|big (1)adj|red (1)n|nose .
+----------------------------------------
+*** File "geoffr21.cha": line 1416.
+*MOT:	Mister Nosey with a big red nose (1.) ?
+%mor:	n:prop|Mister n:prop|Nosey prep|with det:art|a (1)adj|big (1)adj|red
+	(1)n|nose ?
+----------------------------------------
+*** File "geoffr21.cha": line 1451.
+*MOT:	he had the largest longest car in Big_Town (1.) .
+%mor:	pro:sub|he v|have&PAST det:art|the (1)adj|large-SP (1)adj|long-SP (1)n|car
+	prep|in n:prop|Big_Town .
+----------------------------------------
+*** File "geoffr21.cha": line 1456.
+*MOT:	he had the largest longest garden in Big_Town (2.) .
+%mor:	pro:sub|he v|have&PAST det:art|the (1)adj|large-SP (1)adj|long-SP
+	(1)n|garden prep|in n:prop|Big_Town .
+
+    Strings matched 5 times
+

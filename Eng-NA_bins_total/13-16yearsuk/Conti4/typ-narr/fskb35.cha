@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/c-00004852-1
+@Begin
+@Languages:	eng
+@Participants:	INV Dee Investigator , CHI Target_Child
+@ID:	eng|Conti4|INV|||||Investigator|||
+@ID:	eng|Conti4|CHI|13;02.22||||Target_Child|||
+@Date:	03-OCT-2002
+@Transcriber:	Dee
+@Situation:	Participants in a quiet room at the child's home , using Frog where are you? book for stimulus
+*INV:	&+www .
+%exp:	child and investigator talk briefly before narrative begins .
+*CHI:	yesterday a boy found a frog .
+%mor:	adv:tem|yesterday det:art|a n|boy v|find&PAST det:art|a n|frog .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and he put in a jar .
+%mor:	coord|and pro:sub|he v|put&ZERO prep|in det:art|a n|jar .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and when he went to sleep he forgot to put the lid on it .
+%mor:	coord|and conj|when pro:sub|he v|go&PAST prep|to n|sleep pro:sub|he
+	v|forget&PAST inf|to v|put&ZERO det:art|the n|lid prep|on pro:per|it
+	.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|4|COMP
+	9|10|INF 10|8|XCOMP 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|4|PUNCT
+*CHI:	and it escaped .
+%mor:	coord|and pro:per|it v|escape-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	he [/-] when he woke up he looked everywhere for it .
+%mor:	conj|when pro:sub|he v|wake&PAST adv|up pro:sub|he cop|look-PAST
+	adv|everywhere prep|for pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|6|PUNCT
+*CHI:	he looked outside .
+%mor:	pro:sub|he cop|look-PAST adj|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and he still couldn't see it .
+%mor:	coord|and pro:sub|he adv|still mod|could~neg|not v|see pro:per|it .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	he still couldn't find it .
+%mor:	pro:sub|he adv|still mod|could~neg|not v|find pro:per|it .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	so then he went to the woods .
+%mor:	adv|so adv:tem|then pro:sub|he v|go&PAST prep|to det:art|the
+	n|wood-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and he was calling its name .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|call-PRESP det:poss|its
+	n|name .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	but <he could> [//] he still couldn't find it .
+%mor:	conj|but pro:sub|he adv|still mod|could~neg|not v|find pro:per|it .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	he looked down holes to see if it went down there .
+%mor:	pro:sub|he cop|look-PAST prep|down n|hole-PL inf|to v|see conj|if
+	pro:per|it v|go&PAST adv|down adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|INF 6|2|XCOMP 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|JCT 11|9|JCT 12|2|PUNCT
+*CHI:	he looked in a beehive .
+%mor:	pro:sub|he cop|look-PAST prep|in det:art|a n|beehive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	and he still couldn't find it .
+%mor:	coord|and pro:sub|he adv|still mod|could~neg|not v|find pro:per|it
+	.
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	<he s(earched)> [//] he looked everywhere for it .
+%mor:	pro:sub|he cop|look-PAST adv|everywhere prep|for pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	he looked under a pile of [/] of rocks .
+%mor:	pro:sub|he cop|look-PAST prep|under det:art|a n|pile prep|of
+	n|rock-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*CHI:	but he still couldn't find it .
+%mor:	conj|but pro:sub|he adv|still mod|could~neg|not v|find pro:per|it .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	(.) he looked everywhere .
+%mor:	pro:sub|he cop|look-PAST adv|everywhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	<and when he was finding> [//] and when he was looking for it he
+	fell off and fell into a pond and got wet .
+%mor:	coord|and conj|when pro:sub|he aux|be&PAST&13S part|look-PRESP
+	prep|for pro:per|it pro:sub|he v|fall&PAST adv|off coord|and
+	v|fall&PAST prep|into det:art|a n|pond coord|and v|get&PAST
+	part|wet&PASTP .
+%gra:	1|9|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|5|JCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|12|CONJ 17|16|COORD 18|17|OBJ 19|9|PUNCT
+*CHI:	(.) and when [/] when he got out he found two frogs and lots_of
+	other frogs .
+%mor:	coord|and conj|when pro:sub|he v|get&PAST adv|out pro:sub|he
+	v|find&PAST det:num|two n|frog-PL coord|and qn|lots_of qn|other
+	n|frog-PL .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|4|COMP 8|9|QUANT
+	9|7|OBJ 10|9|CONJ 11|13|QUANT 12|13|QUANT 13|10|COORD 14|4|PUNCT
+*CHI:	then he took his one back home .
+%mor:	adv:tem|then pro:sub|he v|take&PAST det:poss|his det:num|one
+	adv|back n|home .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|PUNCT
+*INV:	&+www .
+%exp:	investigator talks as disc is turned off .
+@End
